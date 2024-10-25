@@ -1,0 +1,22 @@
+---
+title: "Rationalität"
+date: 2023-02-29
+author:
+  - name: Immanuel Lupin
+    id: il
+abstract: > 
+  Wir wissen meistens nicht wovon wir reden.
+  Wir haben kaum eine Ahnung welche Gültigkeit unsere Behauptungen haben.
+  Wir glauben, etwas ist mehr wahr, weil wir mehr davon überzeugt sind.
+  Menschen sie anders denken oder glauben als wir, grenzen wir aus, machen sie lächerlich oder verbrennen sie.
+keywords:
+  - Rationalität
+  - Argumentation
+  - Kritisches Denken
+# copyright: 
+#   holder: Immanuel Lupin
+#   year: 2008
+---
+:::{.column-page}
+![](images/elephant.jpg)
+:::
