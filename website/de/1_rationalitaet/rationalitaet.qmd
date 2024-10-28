@@ -20,3 +20,5 @@ keywords:
 :::{.column-page}
 ![](images/elephant.jpg)
 :::
+
+# Rationalität und Kritisches Denken
