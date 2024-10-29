@@ -1,0 +1,23 @@
+---
+title: "Selbsteinklammerung"
+date: 2023-02-29
+author:
+  - name: Immanuel Lupin
+    id: il
+abstract: > 
+  Was ist
+keywords:
+  - Rationalität
+  - Argumentation
+  - Kritisches Denken
+# copyright: 
+#   holder: Immanuel Lupin
+#   year: 2008
+---
+:::{.column-page}
+![](/images/rationalistät_humains.png)
+:::
+
+# Selbsteinklammerung -- Zurückhaltung des Affirmativen
+
+

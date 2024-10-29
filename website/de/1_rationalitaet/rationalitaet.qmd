@@ -18,7 +18,42 @@ keywords:
 #   year: 2008
 ---
 :::{.column-page}
-![](images/elephant.jpg)
+![](/images/rationalistät_humains.png)
 :::
 
 # Rationalität und Kritisches Denken
+
+
+## Als Waffe zur intellektuellen Selbstverteidigung
+
+**Schutz vor Manipulation**: Kritisches Denken befähigt uns, Informationen zu hinterfragen und Fehlinformationen, Propaganda oder manipulatives Verhalten zu erkennen. In einer Welt, in der wir täglich mit Unmengen an Informationen konfrontiert sind, ist es wichtig, unterscheiden zu können, was glaubwürdig ist und was nicht.
+
+## Bessere Weltsicht und Fähigkeit Probleme zu lösen
+
+**Problemlösung und Innovation**: Kritisches Denken ermöglicht es uns, Probleme systematisch anzugehen und kreative Lösungen zu finden. Es hilft uns, Annahmen infrage zu stellen, verschiedene Perspektiven zu betrachten und die bestmögliche Herangehensweise zu finden. Das ist besonders wichtig in Bereichen wie Wissenschaft, Technik und Politik, wo innovative Lösungen gebraucht werden.
+
+**Bessere Entscheidungen treffen**: Rationalität hilft uns, Entscheidungen auf der Grundlage von Fakten und logischer Analyse zu treffen, anstatt uns von Emotionen oder Vorurteilen leiten zu lassen. So können wir fundierte, gut überlegte Lösungen finden, die für uns und andere von Vorteil sind.
+
+## Werkzeug der Überzeugungsarbeit
+
+## Persönliches Wachstum
+
+**Persönliches Wachstum**: Rationalität und kritisches Denken helfen uns, unser eigenes Verhalten, unsere Überzeugungen und unsere Werte zu reflektieren. Sie fördern Selbstverbesserung, indem wir uns selbst hinterfragen und offen für neues Wissen sind.
+
+## Mittel des demokratischen Dialoges
+
+**Gesellschaftliche Entwicklung**: Für eine funktionierende Demokratie ist kritisches Denken unverzichtbar. Es ermöglicht Bürgern, politische Entscheidungen zu hinterfragen, sich eine informierte Meinung zu bilden und sich gegen Missstände zu engagieren. Rationalität hilft dabei, komplexe gesellschaftliche Probleme durch pragmatische und gerechte Ansätze zu lösen.
+
+# Fassetten oder Abschattungen
+
+## Die Verzerrungen unserer Weltsicht - Biases
+
+[Biases - Urteilsverzerrung](https://www.notion.so/Biases-Urteilsverzerrung-11e7c6ccb2d780f49328e075f2aff96f?pvs=21)
+
+[Fehlschlüsse - Fallacies](https://www.notion.so/Fehlschl-sse-Fallacies-11e7c6ccb2d780d1a6e8e1c6e01be977?pvs=21)
+
+[Paradoxa](https://www.notion.so/Paradoxa-11f7c6ccb2d78081ac03e8a6db8f6ee2?pvs=21)
+
+[Argumente](https://www.notion.so/Argumente-11f7c6ccb2d780aa8dfaecee96f90146?pvs=21)
+
+[Hinterfragen und konstruktiver Zweifel](https://www.notion.so/Hinterfragen-und-konstruktiver-Zweifel-1287c6ccb2d780209da1e0050d0cbc75?pvs=21)

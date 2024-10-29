@@ -58,11 +58,11 @@ website:
         href: website/de/2_sprachspiele/sprachspiele.qmd
         contents:
           - website/de/2_sprachspiele/behaupten.qmd
-          - website/de/2_sprachspiele/lügen.qmd
-          - website/de/2_sprachspiele/verführen.qmd
-          - website/de/2_sprachspiele/erklären.qmd
+          - website/de/2_sprachspiele/luegen.qmd
+          - website/de/2_sprachspiele/verfuehren.qmd
+          - website/de/2_sprachspiele/erklaeren.qmd
           - website/de/2_sprachspiele/verstehen.qmd
-          - website/de/2_sprachspiele/erzählen.qmd
+          - website/de/2_sprachspiele/erzaehlen.qmd
           # - de/2_sprachspiele/unteralten.qmd
           # - de/2_sprachspiele/amüsieren.qmd
           # - de/2_sprachspiele/zuhören.qmd
@@ -73,8 +73,8 @@ website:
         contents:
           - website/de/3_gesellschaftsspiele/freiheit.qmd
           - website/de/3_gesellschaftsspiele/gleichheit.qmd
-          - website/de/3_gesellschaftsspiele/solidarität.qmd
-          - website/de/3_gesellschaftsspiele/Sein_lassen.qmd
+          - website/de/3_gesellschaftsspiele/solidaritaet.qmd
+          - website/de/3_gesellschaftsspiele/sein_lassen.qmd
           # - de/3_gesellschaftsspiele/cooperieren.qmd
           # - de/3_gesellschaftsspiele/ausbeuten.qmd
           # - de/3_gesellschaftsspiele/versklaven.qmd
@@ -82,10 +82,10 @@ website:
           # - de/3_gesellschaftsspiele/erobern.qmd
 
       - text: "Künstliche Welten"
-        href: website/de/4_kuestlichewelten/künstliche_welten.qmd
+        href: website/de/4_kuestlichewelten/kuenstliche_welten.qmd
         contents:
           - website/de/4_kuestlichewelten/automaten.qmd
-          - website/de/4_kuestlichewelten/künstliche_intelligenz.qmd
+          - website/de/4_kuestlichewelten/kuenstliche_intelligenz.qmd
           - website/de/4_kuestlichewelten/grosse_sprachmodelle.qmd
           - website/de/4_kuestlichewelten/generative_ki.qmd
 
@@ -109,7 +109,7 @@ website:
           - website/de/6_Energie/windenergie.qmd
           - website/de/6_Energie/wasserenergie.qmd
           - website/de/6_Energie/sonnenenergie.qmd
-          - website/de/6_Energie/erdwärme.qmd
+          - website/de/6_Energie/erdwaerme.qmd
           - website/de/6_Energie/nuklearenergie.qmd
 
       - text: "Medien-Quellen"
