@@ -17,9 +17,9 @@ keywords:
 #   holder: Immanuel Lupin
 #   year: 2008
 ---
-:::{.column-page}
+<!-- :::{.column-page}
 ![](/images/rationalistät_humains.png)
-:::
+::: -->
 
 # Rationalität und Kritisches Denken
 
