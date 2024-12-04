@@ -16,14 +16,14 @@ format:
 
 website:
   title: "SprachLichtung"
-  description: "Learn Deep Learning with fastai and PyTorch, 2022"
+  description: ""
   twitter-card: true
   open-graph: true
   reader-mode: true
   page-navigation: true
   repo-branch: main
   repo-url: https://github.com/hecmec/sprachlichtung
-  repo-actions: [issue]  
+  repo-actions: [issue]
   navbar:
     left:
       - href: index.qmd
@@ -31,14 +31,12 @@ website:
       - href: about.qmd
         text: "Über uns"
     tools:
-      - icon: twitter
-        href: https://twitter.com
       - icon: github
         menu:
           - text: Source Code
-            href:  https://code.com
+            href: https://code.com
           - text: Report a Bug
-            href:  https://bugs.com
+            href: https://bugs.com
 
   sidebar:
     style: "floating" #floating or docked
@@ -101,33 +99,32 @@ website:
           - website/de/5_umwelten/die_krohne_der_schoepfung.qmd
 
       - text: "Energien"
-        href: website/de/6_Energie/energien.qmd
+        href: website/de/6_energie/energien.qmd
         contents:
-          - website/de/6_Energie/menschenenergie.qmd
-          - website/de/6_Energie/tierenergie.qmd
-          - website/de/6_Energie/pflanzenenergie.qmd
-          - website/de/6_Energie/windenergie.qmd
-          - website/de/6_Energie/wasserenergie.qmd
-          - website/de/6_Energie/sonnenenergie.qmd
-          - website/de/6_Energie/erdwaerme.qmd
-          - website/de/6_Energie/nuklearenergie.qmd
+          - website/de/6_energie/menschenenergie.qmd
+          - website/de/6_energie/tierenergie.qmd
+          - website/de/6_energie/pflanzenenergie.qmd
+          - website/de/6_energie/windenergie.qmd
+          - website/de/6_energie/wasserenergie.qmd
+          - website/de/6_energie/sonnenenergie.qmd
+          - website/de/6_energie/erdwaerme.qmd
+          - website/de/6_energie/nuklearenergie.qmd
 
       - text: "Medien-Quellen"
-        href: website/de/7_Medien/medien_quellen.qmd
+        href: website/de/7_medien/medien_quellen.qmd
         contents:
-          - website/de/7_Medien/buecher.qmd
-          - website/de/7_Medien/artikel.qmd
-          - website/de/7_Medien/videos.qmd
-          - website/de/7_Medien/podcasts.qmd
+          - website/de/7_medien/buecher.qmd
+          - website/de/7_medien/artikel.qmd
+          - website/de/7_medien/videos.qmd
+          - website/de/7_medien/podcasts.qmd
 
       - text: "Humor"
-        href: website/de/8_Humor/humor.qmd
+        href: website/de/8_humor/humor.qmd
         contents:
-          - website/de/8_Humor/memes.qmd
-          - website/de/8_Humor/humor_zitate.qmd
-          - website/de/8_Humor/humor_witze.qmd
-          - website/de/8_Humor/humor_filme.qmd
-
+          - website/de/8_humor/memes.qmd
+          - website/de/8_humor/humor_zitate.qmd
+          - website/de/8_humor/humor_witze.qmd
+          - website/de/8_humor/humor_filme.qmd
 # metadata-files:
 #   - sidebar.yml
 

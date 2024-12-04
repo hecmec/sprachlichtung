@@ -17,7 +17,7 @@ keywords:
 #   holder: Immanuel Lupin
 #   year: 2008
 ---
-:::{.column-page}
+:::{.column-content}
 ![](/images/rationalistät_humains.png)
 :::
 
