@@ -20,14 +20,14 @@ website:
   twitter-card: true
   open-graph: true
   reader-mode: true
-  page-navigation: true
+  # page-navigation: true
   repo-branch: main
   repo-url: https://github.com/hecmec/sprachlichtung
   repo-actions: [issue]
   navbar:
     left:
       - href: index.qmd
-        text: "Heimat"
+        text: "Start"
       - href: about.qmd
         text: "Über uns"
     tools:
@@ -39,9 +39,17 @@ website:
             href: https://bugs.com
 
   sidebar:
-    style: "floating" #floating or docked
+    style: "docked" #floating or docked
     search: true
     contents:
+      - text: "Test Deutsch"
+        href: website/de/0_test_de/test_de.qmd
+
+        contents:
+          - website/de/0_test_de/test_de_seite1.qmd
+          - website/de/0_test_de/test_de_seite2.qmd
+          - website/de/0_test_de/test_de_seite3.qmd
+
       - text: "Rationalität"
         href: website/de/1_rationalitaet/rationalitaet.qmd
 
