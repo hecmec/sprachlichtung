@@ -1,15 +1,3 @@
----
-layout: single
-title: Grundlagen der Logik
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog" 
-toc_sticky: true
----
-
-<!-- # Kapitel 2: Grundlagen der Logik -->
 
 ## Einführung
 

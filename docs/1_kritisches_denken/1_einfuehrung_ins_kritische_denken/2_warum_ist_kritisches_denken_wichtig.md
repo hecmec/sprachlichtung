@@ -1,18 +1,16 @@
 ---
-layout: single
 title: Warum ist kritisches Denken wichtig?
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-header:
-  image: /assets/images/met_silk_kashan_carpet.jpg
-  caption: "Muster"
-
-toc: true
-toc_label: "Inhalt"
-# toc_icon: "cog" 
-toc_icon: "bar" 
-toc_sticky: true
+sidebar_position: 2
+# slug: 
+# description: 
+# keywords:
+# image: 
+# last_update:
+#   date: 2025-05-10
+#   author: Immanuel Lupinus
 ---
-### In der Informationsflut navigieren
+
+## In der Informationsflut navigieren
 
 In unserer hypervernetzten Welt sind wir täglich mit einer Flut von Informationen konfrontiert. Im Internet finden wir:
 - Korrekte und verifizierte Informationen
@@ -30,7 +28,7 @@ Kritisches Denken hilft uns, in dieser komplexen Informationslandschaft zu navig
 - Informationen in ihrem Kontext zu bewerten
 - Eigene Schlussfolgerungen auf Basis fundierter Beweise zu ziehen
 
-### Bessere Entscheidungen treffen
+## Bessere Entscheidungen treffen
 
 Jeden Tag treffen wir zahlreiche Entscheidungen – von alltäglichen Fragen wie "Was esse ich zum Mittagessen?" bis hin zu komplexen Lebensentscheidungen wie Berufswahl, finanzielle Investitionen oder medizinische Behandlungen.
 
@@ -41,7 +39,7 @@ Kritisches Denken verbessert unsere Entscheidungsfindung durch:
 - Erkennung von Fehlschlüssen in der eigenen Argumentation
 - Bewertung der Qualität und Relevanz von Informationen
 
-### Persönliche und berufliche Entwicklung
+## Persönliche und berufliche Entwicklung
 
 Kritisches Denken ist eine Schlüsselkompetenz in nahezu allen Berufsfeldern und fördert:
 - Problemlösungsfähigkeiten

@@ -1,0 +1,14 @@
+test1:
+  label: test1
+  permalink: /test1
+  # description: Facebook tag description
+
+test2:
+  label: test2
+  permalink: /test2
+  # description: Facebook tag description
+
+test3:
+  label: test3
+  permalink: /test3
+  # description: Facebook tag description
