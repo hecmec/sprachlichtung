@@ -10,8 +10,8 @@
     - create a front-matter
         title: The level 2 header
         sidebar_position: the number of the file
-        description: short SEO description of this file content 
-        keywords: some keywords for SEO about this file's content
+        description: short SEO description of this file content in double quotes
+        keywords: some keywords for SEO about this file's content as a yaml list
         last_update:
            date: date string of update (like 2025-05-10)
            author: Immanuel Lupinus

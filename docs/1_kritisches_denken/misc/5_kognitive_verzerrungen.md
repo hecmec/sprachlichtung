@@ -10,8 +10,6 @@ toc_sticky: true
 ---
 
 
-<!-- # Kapitel 5: Kognitive Verzerrungen und mentale Heuristiken -->
-
 ## Einführung
 
 Unser Denken ist nicht so rational und objektiv, wie wir oft glauben. Selbst wenn wir uns bemühen, logisch und kritisch zu denken, können unbewusste mentale Prozesse unsere Urteile und Entscheidungen verzerren. Diese systematischen Abweichungen von Rationalität und gutem Urteilsvermögen werden als kognitive Verzerrungen (cognitive biases) bezeichnet.
