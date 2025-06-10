@@ -1,6 +1,7 @@
 ---
 title: Notwendige versus Hinreichende Bedingungen
 sidebar_position: 5
+sidebar_label: "Notwendig vs. Hinreichend"
 ---
 
 Das Verständnis von notwendigen und hinreichenden Bedingungen ist entscheidend für präzises logisches Denken und die Analyse von Argumenten.
@@ -13,6 +14,7 @@ Formal: Wenn A eine notwendige Bedingung für B ist, dann gilt: Wenn B, dann A.
 Oder: Nicht A → Nicht B
 
 **Beispiele für notwendige Bedingungen:**
+
 - Sauerstoff ist eine notwendige Bedingung für menschliches Leben.
   (Ohne Sauerstoff kann kein Mensch leben.)
 - Ein Alter von mindestens 18 Jahren ist eine notwendige Bedingung für das Wahlrecht in Deutschland.
@@ -27,6 +29,7 @@ Eine **hinreichende Bedingung** für ein Ereignis oder einen Zustand ist eine Be
 Formal: Wenn A eine hinreichende Bedingung für B ist, dann gilt: Wenn A, dann B.
 
 **Beispiele für hinreichende Bedingungen:**
+
 - Ein Regen von 10 Stunden ist eine hinreichende Bedingung dafür, dass der Boden nass wird.
   (Wenn es 10 Stunden regnet, wird der Boden definitiv nass.)
 - Eine Körpertemperatur von 42°C ist eine hinreichende Bedingung für einen medizinischen Notfall.
@@ -42,6 +45,7 @@ Die Beziehung zwischen notwendigen und hinreichenden Bedingungen lässt sich wie
 - Wenn A eine notwendige Bedingung für B ist, dann ist B eine hinreichende Bedingung für A.
 
 Diese Beziehung wird deutlich, wenn wir die Bedingungen als "Wenn-Dann"-Aussagen formulieren:
+
 - A ist hinreichend für B: Wenn A, dann B.
 - A ist notwendig für B: Wenn B, dann A.
 
@@ -53,6 +57,7 @@ Fehler in Bezug auf notwendige und hinreichende Bedingungen sind häufige Quelle
 "Um ein guter Fußballspieler zu sein, muss man schnell laufen können. Max kann schnell laufen, also ist er ein guter Fußballspieler."
 
 Analyse:
+
 - Schnelles Laufen ist eine notwendige Bedingung für einen guten Fußballspieler.
 - Der Fehlschluss besteht darin, eine notwendige Bedingung als hinreichend zu behandeln.
 - Korrekt wäre: Schnelles Laufen ist notwendig, aber nicht hinreichend, um ein guter Fußballspieler zu sein.

@@ -1,6 +1,7 @@
 ---
 title: "Übung: Identifizierung von Prämissen und Schlussfolgerungen"
 sidebar_position: 9
+sidebar_label: "Übung"
 ---
 
 Identifizieren Sie in den folgenden Argumenten die Prämissen und die Schlussfolgerung. Bestimmen Sie außerdem, ob das Argument gültig ist und ob es versteckte Annahmen enthält.
