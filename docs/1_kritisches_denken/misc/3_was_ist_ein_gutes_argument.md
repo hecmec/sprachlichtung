@@ -1,12 +1,5 @@
 ---
-layout: single
 title: Was ist ein gutes Argument?
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog" 
-toc_sticky: true
 ---
 
 <!-- # Kapitel 3: Was ist ein gutes Argument? -->

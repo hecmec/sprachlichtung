@@ -1,5 +1,5 @@
 ---
-title: Quiz: Grundlegende Logische Elemente
+title: "Quiz: Grundlegende Logische Elemente"
 sidebar_position: 11
 ---
 
