@@ -2,13 +2,16 @@
 title: Mythen über kritisches Denken
 sidebar_position: 3
 sidebar_label: "Mythen"
+description: "Die wichtigsten Mythen und Lügen über das kritische Denken"
+keywords:
+    - Kritik
+    - negatives vs positives Denken
+    - Kreativität
+last_update:
+  date: 2025-06-05
+  author: Immanuel Lupinus
 # slug:
-# description:
-# keywords:
 # image:
-# last_update:
-#   date: 2025-05-10
-#   author: Immanuel Lupinus
 ---
 
 Es gibt einige hartnäckige Missverständnisse über kritisches Denken, die es zu klären gilt:
