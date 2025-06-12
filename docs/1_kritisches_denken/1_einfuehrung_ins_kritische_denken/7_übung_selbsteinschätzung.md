@@ -2,13 +2,20 @@
 title: "Übung: Selbsteinschätzung der eigenen kritischen Denkfähigkeiten"
 sidebar_position: 7
 sidebar_label: "Selbsteinschätzung"
+description: "Ein Selbstbewertungstool zur Einschätzung und Reflexion der eigenen Fähigkeiten im kritischen Denken."
+keywords:
+  - kritisches Denken
+  - Selbsteinschätzung
+  - Reflexion
+  - Denkfähigkeiten
+  - persönliche Entwicklung
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+
 # slug: 
-# description: 
-# keywords:
 # image: 
-# last_update:
-#   date: 2025-05-10
-#   author: Immanuel Lupinus
+
 ---
 
 

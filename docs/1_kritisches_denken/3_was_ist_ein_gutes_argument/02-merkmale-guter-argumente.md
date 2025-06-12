@@ -2,9 +2,15 @@
 title: "Merkmale guter Argumente"
 sidebar_position: 2
 description: "Die wichtigsten Qualitätsmerkmale guter Argumente im kritischen Denken"
-keywords: ["Klarheit", "Relevanz", "Angemessenheit", "Widerlegbarkeit", "Verhältnismäßigkeit", "Argumente"]
+keywords:
+  - Argumentqualität
+  - Klarheit
+  - Relevanz
+  - Angemessenheit
+  - Widerlegbarkeit
+  - Verhältnismäßigkeit
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

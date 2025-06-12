@@ -2,6 +2,20 @@
 title: "Übung: Identifizierung von Prämissen und Schlussfolgerungen"
 sidebar_position: 9
 sidebar_label: "Übung"
+description: "Praktische Übungsaufgaben zur Identifizierung von Prämissen und Schlussfolgerungen in verschiedenen Argumenten mit Lösungen."
+keywords:
+  - Argumentanalyse
+  - Übungsaufgaben
+  - Prämissen
+  - Schlussfolgerungen
+  - logische Bewertung
+  - versteckte Annahmen
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+
 ---
 
 Identifizieren Sie in den folgenden Argumenten die Prämissen und die Schlussfolgerung. Bestimmen Sie außerdem, ob das Argument gültig ist und ob es versteckte Annahmen enthält.

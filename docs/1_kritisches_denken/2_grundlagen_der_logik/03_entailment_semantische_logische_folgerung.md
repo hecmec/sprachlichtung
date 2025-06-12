@@ -2,6 +2,19 @@
 title: Semantische Folgerung (Entailment)
 sidebar_label: "Semantische Folgerung"
 sidebar_position: 3
+description: "Erläuterung des Konzepts der semantischen Folgerung mit Beispielen und ihrer Bedeutung für logisches Denken."
+keywords:
+  - semantische Folgerung
+  - Entailment
+  - logische Implikation
+  - Aussagenlogik
+  - Bedeutungsanalyse
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+
 ---
 
 **Semantische Folgerung** oder Entailment ist ein fundamentales Konzept in der Logik. Es beschreibt eine Beziehung zwischen Aussagen, bei der eine Aussage (oder eine Gruppe von Aussagen) eine andere Aussage notwendigerweise impliziert.

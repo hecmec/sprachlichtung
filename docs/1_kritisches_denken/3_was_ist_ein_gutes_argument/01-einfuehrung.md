@@ -2,9 +2,14 @@
 title: "Einführung"
 sidebar_position: 1
 description: "Einführung zum Thema gute Argumente im kritischen Denken"
-keywords: ["kritisches Denken", "Argumente", "Einführung", "Argumentation"]
+keywords:
+  - kritisches Denken
+  - Argumente
+  - Argumentation
+  - logisches Denken
+  - rationales Denken
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

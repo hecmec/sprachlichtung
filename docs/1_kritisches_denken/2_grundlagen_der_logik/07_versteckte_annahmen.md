@@ -1,6 +1,19 @@
 ---
 title: Versteckte Annahmen
 sidebar_position: 7
+description: "Anleitung zum Erkennen und Analysieren impliziter Annahmen in Argumenten für eine tiefere kritische Bewertung."
+keywords:
+  - versteckte Annahmen
+  - implizite Prämissen
+  - Argumentanalyse
+  - kritisches Denken
+  - Lückenanalyse
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+
 ---
 
 Versteckte oder implizite Annahmen sind Aussagen, die in einem Argument nicht explizit formuliert werden, aber dennoch für die Schlussfolgerung notwendig sind. Sie bilden oft die "fehlenden Glieder" in einer Argumentationskette.

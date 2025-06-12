@@ -2,9 +2,14 @@
 title: "Formales vs. informelles Schließen"
 sidebar_position: 4
 description: "Die Unterschiede zwischen formalem und informellem logischen Schließen im kritischen Denken"
-keywords: ["formales Schließen", "informelles Schließen", "Logik", "Prädikatenlogik", "Aussagenlogik", "natürliche Sprache"]
+keywords:
+  - formale Logik
+  - informelle Logik
+  - Schlussfolgerungen
+  - natürliche Sprache
+  - logische Struktur
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

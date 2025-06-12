@@ -1,6 +1,18 @@
 ---
 title: Prämissen und Schlussfolgerungen
-sidebar_position: 3
+sidebar_position: 4
+description: "Einführung in die Hauptkomponenten eines Arguments: Prämissen und Schlussfolgerungen, mit Methoden zu deren Identifizierung."
+keywords:
+  - Prämissen
+  - Schlussfolgerungen
+  - Argumentation
+  - Argumentanalyse
+  - logische Struktur
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
 ---
 
 Argumente bestehen aus zwei Hauptkomponenten: Prämissen und Schlussfolgerungen.

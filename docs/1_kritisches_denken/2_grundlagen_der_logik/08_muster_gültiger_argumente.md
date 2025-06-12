@@ -1,6 +1,20 @@
 ---
 title: Muster gültiger Argumente
 sidebar_position: 8
+description: "Übersicht der wichtigsten Muster gültiger Argumentationen in der formalen Logik mit Anwendungsbeispielen."
+keywords:
+  - gültige Argumente
+  - Modus Ponens
+  - Modus Tollens
+  - logische Muster
+  - Syllogismen
+  - formale Logik
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+
 ---
 
 In der formalen Logik gibt es bestimmte Argumentationsmuster, die immer gültig sind. Diese Muster bilden die Grundlage für logisch korrektes Schließen und können in verschiedenen Kontexten angewendet werden.

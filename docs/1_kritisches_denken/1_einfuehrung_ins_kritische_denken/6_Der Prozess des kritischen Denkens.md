@@ -1,13 +1,19 @@
 ---
 title: Der Prozess des kritischen Denkens
 sidebar_position: 6
+sidebar_label: "Prozess kritischen Denkens"
+description: "Ein systematischer Überblick über die Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion."
+keywords:
+  - kritisches Denken
+  - Denkprozess
+  - Problemlösung
+  - Analyse
+  - Reflexion
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
 # slug: 
-# description: 
-# keywords:
 # image: 
-# last_update:
-#   date: 2025-05-10
-#   author: Immanuel Lupinus
 ---
 
 

@@ -2,16 +2,16 @@
 title: Was ist kritisches Denken?
 #sidebar_label: 
 sidebar_position: 1
-# slug: 
 description: "Einführung zur Frage des kritischen Denkens"
 keywords:
     - kritisches Denken
     - Argumentation
     - Reflexion
-# image: 
 last_update:
   date: 2025-05-20
   author: Immanuel Lupinus
+# slug: 
+# image: 
 ---
 
 Kritisches Denken ist die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren. Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren, um zu fundierten Schlussfolgerungen zu gelangen.

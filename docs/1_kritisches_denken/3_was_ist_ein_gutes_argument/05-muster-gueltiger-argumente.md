@@ -2,9 +2,15 @@
 title: "Muster gültiger Argumente"
 sidebar_position: 5
 description: "Eine Übersicht über verschiedene Muster gültiger Argumente und ihre Anwendung im kritischen Denken"
-keywords: ["kategorischer Syllogismus", "Reductio ad Absurdum", "Analogieargument", "Abduktion", "deduktiv", "induktiv", "abduktiv"]
+keywords:
+  - Syllogismus
+  - Reductio ad Absurdum
+  - Analogieargument
+  - Abduktion
+  - logisches Schließen
+  - Argumentationsmuster
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

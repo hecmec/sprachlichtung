@@ -1,10 +1,17 @@
 ---
 title: "Übung: Analyse und Bewertung von Argumenten"
 sidebar_position: 7
+sidebar_label: "Übung: Argumentanalyse"
 description: "Praktische Übungen zur Analyse und Bewertung verschiedener Argumente"
-keywords: ["Argumentanalyse", "Argumentbewertung", "Prämissen", "Schlussfolgerung", "versteckte Annahmen"]
+keywords:
+  - Übungsaufgaben
+  - Argumentanalyse
+  - Prämissen
+  - Schlussfolgerung
+  - versteckte Annahmen
+  - kritische Bewertung
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

@@ -1,6 +1,20 @@
 ---
 title: Gültigkeit und Stichhaltigkeit
 sidebar_position: 6
+description: "Unterscheidung zwischen Gültigkeit und Stichhaltigkeit von Argumenten mit Beispielen zur Bewertung logischer Schlussfolgerungen."
+keywords:
+  - Gültigkeit
+  - Stichhaltigkeit
+  - logische Form
+  - Wahrheitsgehalt
+  - Argumentbewertung
+  - kritische Analyse
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+
 ---
 
 Gültigkeit und Stichhaltigkeit sind zentrale Konzepte zur Bewertung von Argumenten in der Logik.

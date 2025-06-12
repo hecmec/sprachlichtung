@@ -2,9 +2,15 @@
 title: "Versteckte Annahmen erkennen"
 sidebar_position: 6
 description: "Methoden zur Identifizierung und Analyse versteckter Annahmen in Argumenten"
-keywords: ["versteckte Annahmen", "Wertannahmen", "faktische Annahmen", "konzeptuelle Annahmen", "kausale Annahmen", "Warum-Kette", "Negationstest"]
+keywords:
+  - implizite Annahmen
+  - Wertannahmen
+  - faktische Annahmen
+  - Argumentanalyse
+  - Warum-Kette
+  - Perspektivenwechsel
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

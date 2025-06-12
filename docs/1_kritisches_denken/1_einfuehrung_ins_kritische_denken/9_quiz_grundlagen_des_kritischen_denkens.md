@@ -2,13 +2,20 @@
 title: "Quiz: Grundlagen des kritischen Denkens"
 sidebar_position: 9
 sidebar_label: Quiz
+description: "Ein interaktiver Test zur Überprüfung des Verständnisses grundlegender Konzepte des kritischen Denkens."
+keywords:
+  - kritisches Denken
+  - Quiz
+  - Selbsttest
+  - Wissensüberprüfung
+  - Grundlagen
+  - Lernkontrolle
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+
 # slug: 
-# description: 
-# keywords:
 # image: 
-# last_update:
-#   date: 2025-05-10
-#   author: Immanuel Lupinus
 ---
 
 ## Quizfragen:

@@ -2,13 +2,19 @@
 title: Zusammenfassung der Einführung
 sidebar_position: 8
 sidebar_label: Zusammenfassung
+description: "Ein kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens und deren Bedeutung im Alltag."
+keywords:
+  - kritisches Denken
+  - Zusammenfassung
+  - Grundlagen
+  - Informationsbewertung
+  - Entscheidungsfindung
+last_update:
+  date: 2025-05-20
+  author: Immanuel Lupinus
+
 # slug: 
-# description: 
-# keywords:
 # image: 
-# last_update:
-#   date: 2025-05-10
-#   author: Immanuel Lupinus
 ---
 
 

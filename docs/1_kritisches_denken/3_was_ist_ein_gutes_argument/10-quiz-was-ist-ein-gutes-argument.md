@@ -1,10 +1,17 @@
 ---
 title: "Quiz - Was ist ein gutes Argument?"
 sidebar_position: 10
+sidebar_label: "Quiz"
 description: "Ein Quiz zur Überprüfung des Verständnisses über gute Argumente im kritischen Denken"
-keywords: ["Quiz", "gute Argumente", "Rhetorik", "Argumentation", "Abduktion", "Analogieargument", "Wertannahmen"]
+keywords:
+  - Quiz
+  - Test
+  - Wissensüberprüfung
+  - Argumente
+  - Selbstevaluation
+  - kritisches Denken
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

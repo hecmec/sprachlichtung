@@ -2,9 +2,15 @@
 title: "Rhetorik versus Argumentation"
 sidebar_position: 3
 description: "Der Unterschied zwischen Rhetorik und Argumentation im kritischen Denken"
-keywords: ["Rhetorik", "Argumentation", "Ethos", "Pathos", "Logos", "Überzeugungstechniken"]
+keywords:
+  - Rhetorik
+  - Argumentation
+  - Überzeugungstechniken
+  - Ethos
+  - Pathos
+  - Logos
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

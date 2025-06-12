@@ -2,9 +2,14 @@
 title: "Lösungen"
 sidebar_position: 8
 description: "Lösungen zu den Übungsaufgaben zur Analyse und Bewertung von Argumenten"
-keywords: ["Argumentanalyse", "Argumentbewertung", "Lösungen", "deduktiv", "induktiv", "abduktiv", "Prämissen"]
+keywords:
+  - Argumentanalyse
+  - Lösungen
+  - Beispielanalysen
+  - Argumentbewertung
+  - Übungsauflösungen
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 

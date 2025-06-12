@@ -2,9 +2,15 @@
 title: "Zusammenfassung"
 sidebar_position: 9
 description: "Zusammenfassung der wichtigsten Erkenntnisse über gute Argumente im kritischen Denken"
-keywords: ["gutes Argument", "Klarheit", "Relevanz", "Angemessenheit", "Widerlegbarkeit", "Verhältnismäßigkeit", "Rhetorik"]
+keywords:
+  - kritisches Denken
+  - Argumentation
+  - Zusammenfassung
+  - Argumentqualität
+  - Rhetorik
+  - versteckte Annahmen
 last_update:
-  date: 2025-05-10
+  date: 2025-05-20
   author: Immanuel Lupinus
 ---
 
