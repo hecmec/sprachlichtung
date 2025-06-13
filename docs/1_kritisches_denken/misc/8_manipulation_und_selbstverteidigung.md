@@ -1,12 +1,6 @@
 ---
 layout: single
 title: Manipulation und Selbstverteidigung
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog" 
-toc_sticky: true
 ---
 
 
