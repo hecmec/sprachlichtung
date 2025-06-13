@@ -1,16 +1,12 @@
 ---
 layout: single
 title: Paradoxien - Denkfallen verstehen
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog" 
-toc_sticky: true
 ---
 
 
-<!-- # Kapitel 7: Paradoxien - Denkfallen verstehen -->
+<!-- # Kapitel 7: Paradoxien - Denkfallen verstehen 
+TODO: + Dilemmas
+-->
 
 ## Einführung
 
