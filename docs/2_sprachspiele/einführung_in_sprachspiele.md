@@ -5,8 +5,8 @@ title: Einführung in die Sprachspiele
 
 Die Idee des "Sprachspiels", geprägt von Ludwig Wittgenstein, ist ein zentrales Werkzeug des kritischen Denkens. Sie besagt, dass Worte ihre Bedeutung nicht aus einer festen Definition, sondern aus ihrem Gebrauch in einem bestimmten Kontext ("Spiel") erhalten.
 
-Es gibt so viele verschiedene Sprachspiele, wie es menschliche, sprachbezogene Tätigkeiten gibt.
-- behaupten, lügen, erzählen
+Es gibt so viele verschiedene Sprachspiele, wie es menschliche, sprachbezogene Tätigkeiten gibt - befehlen, beschreiben, berichten, Witze machen, beten, fluchen, grüßen, danken. Jedes hat eigene Regeln und Zwecke. 
+
 Wir können diese Spiele auch in Grupper präsentieren: Alltag, Unterhaltung, Arbeitswelt, Wissenschaft, Recht, Politik, Kunst, etc.
 
 Hier ist eine übersicht der meiner Meinung nach wichtigsten Sprachspiele, einfach dargestellt.
