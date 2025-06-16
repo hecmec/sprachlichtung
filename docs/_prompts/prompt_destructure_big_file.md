@@ -11,7 +11,7 @@
         title: The level 2 header
         sidebar_position: the number of the file
         description: short SEO description of this file content in double quotes
-        keywords: some keywords for SEO about this file's content as a yaml list
+        keywords: some keywords for SEO about this file's content as a yaml list  (like in 1_was_ist_kritisches_denken.md)
         last_update:
            date: date string of update (like 2025-05-10)
            author: Immanuel Lupinus
