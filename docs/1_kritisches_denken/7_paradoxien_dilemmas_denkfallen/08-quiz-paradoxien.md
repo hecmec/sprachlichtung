@@ -4,7 +4,7 @@ sidebar_position: 8
 description: Ein Quiz zum Testen des Verständnisses über verschiedene Arten von Paradoxien und ihre Lösungsansätze.
 keywords: [Paradoxien, Quiz, Lügner-Paradoxon, Schiff des Theseus, Gefangenendilemma, Sorites-Paradoxon, Tarski]
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
 ---
 
 <!-- ## Quiz: Paradoxien -->

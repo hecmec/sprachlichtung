@@ -4,7 +4,7 @@ sidebar_position: 7
 description: Zusammenfassung der wichtigsten Erkenntnisse über Paradoxien und ihre Bedeutung für kritisches Denken.
 keywords: [Paradoxien, Zusammenfassung, Arten von Paradoxien, Auswirkungen, Strategien, kritisches Denken]
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
 ---
 
 <!-- ## Zusammenfassung -->

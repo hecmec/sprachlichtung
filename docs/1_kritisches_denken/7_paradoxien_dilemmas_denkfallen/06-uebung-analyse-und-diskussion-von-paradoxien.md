@@ -4,7 +4,7 @@ sidebar_position: 6
 description: Praktische Übungen zur Analyse verschiedener Paradoxien mit Lösungsansätzen.
 keywords: [Paradoxien, Übungen, Großvater-Paradoxon, Toleranzparadoxon, Allwissenheitsparadoxon, Sorites-Paradoxon, Bootstrap-Paradoxon]
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
 ---
 
 <!-- ## Übung: Analyse und Diskussion von Paradoxien -->

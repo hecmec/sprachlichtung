@@ -4,7 +4,7 @@ sidebar_position: 4
 description: Wie Paradoxien unser Denken beeinflussen und warum sie wichtig für verschiedene Disziplinen sind.
 keywords: [Paradoxien, Kritisches Denken, Grenzen der Logik, formale Systeme, Vagheit, Erkenntnistheorie, Ethik]
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
 ---
 
 <!-- ## Paradoxien und ihre Bedeutung für das Denken -->

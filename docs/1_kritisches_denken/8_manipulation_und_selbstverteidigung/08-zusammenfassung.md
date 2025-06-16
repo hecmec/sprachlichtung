@@ -10,7 +10,7 @@ keywords:
   - Propaganda
   - Medienkompetenz
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
   author: Immanuel Lupinus
 ---
 

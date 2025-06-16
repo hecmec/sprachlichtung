@@ -4,7 +4,7 @@ sidebar_position: 5
 description: Methoden und Ansätze zur Bewältigung und Auflösung von paradoxen Situationen.
 keywords: [Paradoxien, Strategien, versteckte Annahmen, Sprachebenen, vage Begriffe, kontextuelle Analyse, theoretische Rahmen]
 last_update:
-  date: 13 juin 2025
+  date: 2025-06-12
 ---
 
 <!-- ## Strategien zum Umgang mit Paradoxien -->
