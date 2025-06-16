@@ -20,8 +20,9 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 
 - konstruktiv zu **zweifeln**
 - Behauptungen zu **hinterfragen**
-- **Argumente** zu bewerten verlangen
+- **Argumente** zu bewerten
 - einen **offenen Geist** zu bewahren (ohne in Naivität zu verfallen)
 - selbst nachzudenken, um **eigene Meinungen** zu bilden und **eigene Entscheidungen** zu treffen
 
 Kritisches Denken ist keine angeborene Fähigkeit, sondern muss erlernt und kontinuierlich entwickelt werden. Es erfordert Übung, Selbstreflexion und die Bereitschaft, die eigenen Denkprozesse zu hinterfragen.
+

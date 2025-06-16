@@ -23,11 +23,14 @@ draft: false
 
 ## Die wichtigsten Zutaten.
 
-- Eins bisschen Logik
+- Ein bisschen Logik
 - Etwas agumentatorische Struktur
 - Einige Beobachtungen der wirklichen Welt
 - Genaue Sprache mit verständlichen Definitionen
+- Wir kennen und hinterfagen usere eigenen (expliziten und impliziten) Prämissen
 - Wir lassen uns nicht von kognitive Verzerrungen täuchen
 - Wir lassen uns nicht von Fehlschlüssen verhexen
 - Wir vermeiden Paradoxien in unseren Arguementen
+- Wir sind offen für Gegenargumente, hören andere Meinungen an
+- Wir nutzen zuverlässige Quellen
 - ...
