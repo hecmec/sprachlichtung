@@ -1,15 +1,8 @@
 ---
 layout: single
 title: Kritisches Denken in der Praxis
-# canonical_url: "https://yoursite.com/custom-canonical-url"
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog" 
-toc_sticky: true
 ---
 
-<!-- # Kapitel 11: Kritisches Denken in der Praxis -->
 
 ## Einführung
 
