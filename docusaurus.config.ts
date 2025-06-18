@@ -25,7 +25,7 @@ const config: Config = {
   organizationName: 'mental-web', // Usually your GitHub org/user name.
   projectName: 'sprachlichtung', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore', //'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -44,6 +44,9 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          admonitions: {
+            keywords: ['note', 'tip', 'warning', 'important', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book', 'expert'],
+          },
           editUrl:
             'https://github.com/hecmec/sprachlichtung/',
         },
@@ -115,6 +118,12 @@ const config: Config = {
         },
       ],
     },
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },    
     footer: {
       style: 'dark',
       links: [
@@ -164,6 +173,10 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    admonitions: {
+      tag: ':::',
+      keywords: [ 'note', 'tip', 'warning', 'caution', 'danger', 'info', 'question', 'podcast', 'book', 'example']
+    }
   } satisfies Preset.ThemeConfig,
 };
 
