@@ -101,7 +101,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'notesSidebar',
           position: 'left',
-          label: 'Notizen',
+          label: 'Kritisches Denken',
         },
         // {
         //   type: 'docSidebar',
@@ -131,8 +131,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Tutorial Kritisches Denken',
+              to: '/docs/category/kritisches-denken',
             },
           ],
         },

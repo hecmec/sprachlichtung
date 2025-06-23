@@ -12,6 +12,8 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
+# draft: false
+
 ---
 
 Kritisches Denken ist die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren. Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren, um zu fundierten Schlussfolgerungen zu gelangen.

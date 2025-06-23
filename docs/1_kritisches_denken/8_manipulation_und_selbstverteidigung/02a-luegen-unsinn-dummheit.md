@@ -13,6 +13,7 @@ keywords:
 last_update:
   date: 2025-06-12
   author: Immanuel Lupinus
+draft: true
 ---
 
 <!-- ## Manipulationstechniken erkennen -->
