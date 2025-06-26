@@ -1,7 +1,7 @@
 ---
-title: Kritisches Denken - Kurzgefasst
+title: Kritisches Denken - Kurzgesagt
 sidebar_position: 1
-sidebar_label: Summe Kritisches Denken
+sidebar_label: Kritisches Denken 5min
 description: "Das Wichtigste zum kritischen Denkens, alles auf einer Seite"
 keywords:
     - kritisches Denken
@@ -18,7 +18,7 @@ image: /static/img/kompass.svg
 ---
 
 <!-- TODO: hier kommt eine Zusammenfassung für das gesammte Kapitel mit Querverweisen -->
-## Hier kommt eine zu kurze Zusammenfassung des gesammten Tutorials zum Kritischen Denken 
+ Hier kommt eine zu kurze Zusammenfassung des gesammten Tutorials zum Kritischen Denken 
 
 ## Was ist Kritisches Denken ?
 

@@ -1,7 +1,7 @@
 ---
 title: Was ist kritisches Denken?
 #sidebar_label: 
-sidebar_position: 1
+sidebar_position: 2
 description: "Einführung zur Frage des kritischen Denkens"
 keywords:
     - kritisches Denken

@@ -1,6 +1,6 @@
 ---
 title: Mythen über kritisches Denken
-sidebar_position: 3
+sidebar_position: 4
 sidebar_label: "Mythen"
 description: "Die wichtigsten Mythen und Lügen über das kritische Denken"
 keywords:

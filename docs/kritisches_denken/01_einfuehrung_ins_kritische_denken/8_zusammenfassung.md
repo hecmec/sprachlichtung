@@ -1,6 +1,6 @@
 ---
 title: Zusammenfassung der Einführung
-sidebar_position: 8
+sidebar_position: 9
 sidebar_label: Zusammenfassung
 description: "Ein kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens und deren Bedeutung im Alltag."
 keywords:

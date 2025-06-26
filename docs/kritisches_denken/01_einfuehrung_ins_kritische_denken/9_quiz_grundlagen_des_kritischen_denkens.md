@@ -1,6 +1,6 @@
 ---
 title: "Quiz: Grundlagen des kritischen Denkens"
-sidebar_position: 9
+sidebar_position: 10
 sidebar_label: Quiz
 description: "Ein interaktiver Test zur Überprüfung des Verständnisses grundlegender Konzepte des kritischen Denkens."
 keywords:

@@ -1,6 +1,6 @@
 ---
 title: Warum ist kritisches Denken wichtig?
-sidebar_position: 2
+sidebar_position: 3
 sidebar_label: "Warum wichtig?"
 description: "Fragen und Antworten zur Wichtigkeit kritisch Denken zu können"
 keywords: 

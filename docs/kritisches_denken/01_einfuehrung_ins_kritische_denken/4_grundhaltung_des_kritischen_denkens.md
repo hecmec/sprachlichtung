@@ -1,6 +1,6 @@
 ---
 title: Die Grundhaltung des kritischen Denkens
-sidebar_position: 4
+sidebar_position: 5
 description: "Kritisches Denken ist zuerst eine Geisteshaltung" 
 keywords:
     - intellektuelle Neugier

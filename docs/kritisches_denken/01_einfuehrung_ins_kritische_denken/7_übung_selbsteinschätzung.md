@@ -1,6 +1,6 @@
 ---
 title: "Übung: Selbsteinschätzung der eigenen kritischen Denkfähigkeiten"
-sidebar_position: 7
+sidebar_position: 8
 sidebar_label: "Selbsteinschätzung"
 description: "Ein Selbstbewertungstool zur Einschätzung und Reflexion der eigenen Fähigkeiten im kritischen Denken."
 keywords:

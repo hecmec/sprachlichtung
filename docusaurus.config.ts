@@ -44,11 +44,11 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           exclude: [
-            '03_gesellschaftsspiele',
-            '04_künstliche_welten',
-            '05_umwelt',
-            '06_energie',
-            '08_humor',
+            // '03_gesellschaftsspiele',
+            // '04_künstliche_welten',
+            // '05_umwelt',
+            // '06_energie',
+            // '08_humor',
             '**/_*/**', // Exclude folders that start with underscore
             '**/_*', // Exclude files that start with underscore
           ],    
@@ -85,7 +85,7 @@ const config: Config = {
     ],
   ],
 
-   // Add this plugins section after presets
+  //  Add this plugins section after presets
   // plugins: [
   //   [
   //     '@docusaurus/plugin-content-docs',
@@ -104,7 +104,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Sprachlichtung',
+      title: 'SprachLichtung',
       logo: {
         alt: 'sprachlichtung Logo',
         src: 'img/kompass.svg',
@@ -112,17 +112,17 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'notesSidebar',
+          sidebarId: 'kritDenkenSidebar',
           position: 'left',
           label: 'Kritisches Denken',
           
         },
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'umweltSidebar',
-        //   position: 'left',
-        //   label: 'Umwelt',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'umweltSidebar',
+          position: 'left',
+          label: 'UmWelten',
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
         {
@@ -147,7 +147,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial Kritisches Denken',
-              to: '/docs/category/kritisches-denken',
+              to: '/docs/kritisches_denken/kritisches_denken_kurzgefasst',
             },
           ],
         },
