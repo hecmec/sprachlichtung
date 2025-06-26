@@ -1,6 +1,6 @@
 ---
-title: Behaupten
-#sidebar_label: 
+title: Das Sprachspiel des Behauptens
+sidebar_label: Behaupten 
 sidebar_position: 1
 description: "Das Sprachspiel des Behauptens"
 keywords:
@@ -12,10 +12,9 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-draft: true
 ---
 
-# Das Sprachspiel des Behauptens
+<!-- # Das Sprachspiel des Behauptens -->
 
 ## Lebensweltliche Beispiele
 

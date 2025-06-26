@@ -1,6 +1,6 @@
 ---
-title: Erzählen
-#sidebar_label: 
+title: Das Sprachspiel des Erzählens
+sidebar_label: Erzählen
 sidebar_position: 4
 description: "Das Sprachspiel des Erzählens"
 keywords:
@@ -14,10 +14,9 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-draft: true
 ---
 
-# Das Sprachspiel des Erzählens
+<!-- # Das Sprachspiel des Erzählens -->
 
 ## Lebensweltliche Beispiele
 
@@ -41,6 +40,7 @@ Die Kriterien variieren stark je nach Erzählkontext: Bei einer wissenschaftlich
 ## Wie es schiefgehen kann
 
 Das Erzählen kann auf verschiedene Weise scheitern:
+
 - Die Geschichte wird zu unstrukturiert oder verworren erzählt
 - Wesentliche Elemente werden vergessen oder in falscher Reihenfolge präsentiert
 - Der Erzähler verfehlt den angemessenen Ton für die Situation
@@ -53,6 +53,7 @@ Besonders problematisch wird es, wenn der Erzähler den Unterschied zwischen Fik
 ## Wie es missbraucht wird
 
 Das Erzählen kann auf vielfältige Weise missbraucht werden:
+
 - Durch das Erzählen von "Narrativen", die komplexe Sachverhalte unzulässig vereinfachen
 - Durch das Konstruieren von Feindbildern und Stereotypen in politischen oder kulturellen Erzählungen
 - Durch das selektive Weglassen von Fakten, die nicht ins gewünschte Narrativ passen
@@ -65,6 +66,7 @@ Ein besonders wirkmächtiger Missbrauch ist das "Gaslighting", bei dem die Reali
 ## Soziale Rolle
 
 Das Erzählen erfüllt fundamentale soziale Funktionen:
+
 - Es dient der kulturellen Überlieferung und Traditionsbildung
 - Es stiftet kollektive Identität und Gemeinschaftsgefühl
 - Es ermöglicht Empathie, indem es uns in die Erfahrungen anderer hineinversetzt

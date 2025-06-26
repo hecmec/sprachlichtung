@@ -14,7 +14,6 @@ last_update:
 # slug:
 image: /static/img/kompass.svg
 # tags: [test1, test2]
-draft: false
 
 ---
 

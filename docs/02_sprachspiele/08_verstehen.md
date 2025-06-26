@@ -1,7 +1,7 @@
 ---
 title: Verstehen
 #sidebar_label: 
-sidebar_position: 7
+sidebar_position: 8
 description: "Das Sprachspiel des Verstehens"
 keywords:
     - Sprachspiele
@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-draft: true
 ---
 
 # Das Sprachspiel des Verstehens

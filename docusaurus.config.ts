@@ -1,7 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
@@ -42,6 +43,18 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          exclude: [
+            '03_gesellschaftsspiele',
+            '04_künstliche_welten',
+            '05_umwelt',
+            '06_energie',
+            '08_humor',
+            '**/_*/**', // Exclude folders that start with underscore
+            '**/_*', // Exclude files that start with underscore
+          ],    
+          // Math plugins correctly added here
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           admonitions: {
@@ -102,6 +115,7 @@ const config: Config = {
           sidebarId: 'notesSidebar',
           position: 'left',
           label: 'Kritisches Denken',
+          
         },
         // {
         //   type: 'docSidebar',
@@ -112,7 +126,7 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/hecmec/sprachlichtung',
           label: 'GitHub',
           position: 'right',
         },
@@ -120,6 +134,7 @@ const config: Config = {
     },
     docs: {
       sidebar: {
+        // this allows the user to collapse the sidebar
         hideable: true,
         autoCollapseCategories: true,
       },
@@ -137,22 +152,24 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Themen',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
+              label: 'Sprachspiele',
+              href: '/docs/category/sprachspiele'
+            }
           ],
         },
+
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'Comming Soon',
+        //       href: '/'
+        //     }
+        //   ],
+        // },
         {
           title: 'More',
           items: [
@@ -162,12 +179,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/hecmec/sprachlichtung',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

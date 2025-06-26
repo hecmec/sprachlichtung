@@ -1,7 +1,7 @@
 ---
-title: Erklären
-#sidebar_label: 
-sidebar_position: 3
+title: Das Sprachspiel des Erklärens
+sidebar_label: Erklären 
+sidebar_position: 4
 description: "Das Sprachspiel des Erklärens"
 keywords:
     - Sprachspiele
@@ -14,10 +14,9 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-draft: true
 ---
 
-# Das Sprachspiel des Erklärens
+<!-- # Das Sprachspiel des Erklärens -->
 
 ## Lebensweltliche Beispiele
 
@@ -30,6 +29,7 @@ Das Sprachspiel des Erklärens zielt darauf ab, Wissen, Verständnis und Einsich
 ## Erfolgskriterien
 
 Eine Erklärung gilt dann als gelungen, wenn:
+
 - Der Empfänger nach der Erklärung ein tieferes Verständnis des Sachverhalts besitzt
 - Die Erklärung an das Vorwissen und die kognitiven Fähigkeiten des Empfängers angepasst ist
 - Komplexe Sachverhalte auf ein angemessenes Abstraktionsniveau reduziert werden
@@ -42,6 +42,7 @@ Eine gute Erklärung schafft nicht nur Faktenwissen, sondern ein konzeptuelles V
 ## Wie es schiefgehen kann
 
 Das Sprachspiel des Erklärens kann scheitern, wenn:
+
 - Die Erklärung zu komplex für den Wissensstand des Empfängers ist
 - Zu viele Fachbegriffe ohne Erläuterung verwendet werden
 - Der Erklärende selbst den Sachverhalt nicht ausreichend verstanden hat
@@ -55,6 +56,7 @@ Besonders häufig ist das "Fluch des Wissens"-Phänomen: Experten fällt es schw
 ## Wie es missbraucht wird
 
 Das Erklären kann auf verschiedene Weisen missbraucht werden:
+
 - Durch "Overexplaining" – übermäßiges Erklären von Selbstverständlichem, oft mit einer herablassenden Note ("Mansplaining")
 - Durch Pseudoerklärungen, die wissenschaftlich klingen, aber inhaltlich leer sind
 - Durch tendenziöse Erklärungen, die bewusst Fakten verzerren oder weglassen
@@ -67,6 +69,7 @@ Ein besonders problematischer Missbrauch ist das "Erklären als Waffe" – wenn 
 ## Soziale Rolle
 
 Das Erklären erfüllt zentrale soziale Funktionen:
+
 - Es ermöglicht die Weitergabe von Wissen zwischen Generationen und Gruppen
 - Es demokratisiert Zugang zu komplexem Wissen und fördert so gesellschaftliche Teilhabe
 - Es strukturiert Lernprozesse in Bildungsinstitutionen und der Arbeitswelt

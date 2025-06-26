@@ -1,8 +1,8 @@
 ---
-title: Lügen
-#sidebar_label: 
+title: Lügen, Täuschen und Betrügen
+sidebar_label: Lügen
 sidebar_position: 5
-description: "Das Sprachspiel des Lügens"
+description: "Lügen, Täuschen und Betrügen"
 keywords:
     - Sprachspiele
     - Wortbedeutung
@@ -14,10 +14,9 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-draft: true
 ---
 
-# Das Sprachspiel des Lügens
+<!-- # Das Sprachspiel des Lügens -->
 
 ## Lügen: Vom einfachen Sprechakt zum komplexen Sprachspiel
 
@@ -38,6 +37,7 @@ Das Sprachspiel des Lügens zielt auf verschiedene Wirkungen ab, die über die b
 ## Erfolgskriterien
 
 Ein "erfolgreiches" Lügen im Sinne des Sprachspiels zeichnet sich dadurch aus, dass:
+
 - Die Unwahrheit als Wahrheit akzeptiert wird und ihre beabsichtigte Wirkung entfaltet
 - Die Lüge im jeweiligen sozialen Kontext als gerechtfertigt oder verhältnismäßig gilt
 - Die Balance zwischen Täuschung und Plausibilität gewahrt bleibt
@@ -51,6 +51,7 @@ Anders als beim simplen Sprechakt, der nur auf das Kriterium "geglaubt oder nich
 ## Wie es schiefgehen kann
 
 Das Lügen kann auf verschiedene Weise misslingen:
+
 - Durch offensichtliche Widersprüche oder unplausible Details
 - Durch nonverbale Signale, die die verbale Aussage konterkarieren
 - Durch unbeabsichtigte Hinweise auf die Täuschungsabsicht ("Freudian slips")
@@ -64,6 +65,7 @@ Der fundamentale Irrtum beim Scheitern einer Lüge liegt oft darin, dass der Lü
 ## Wie es missbraucht wird
 
 Das Sprachspiel des Lügens wird problematisch, wenn:
+
 - Es systematisch zum Machtmissbrauch oder zur Manipulation eingesetzt wird
 - Es grundlegende Vertrauensbeziehungen oder soziale Institutionen untergräbt
 - Es zur Verbreitung von Desinformation mit gesellschaftlichen Schäden führt
@@ -77,6 +79,7 @@ Besonders problematisch sind Formen des institutionalisierten Lügens in autorit
 ## Soziale Rolle
 
 Das Sprachspiel des Lügens erfüllt ambivalente soziale Funktionen:
+
 - Es dient als "sozialer Schmierstoff", der Interaktionen erleichtert und Gesichtswahrung ermöglicht
 - Es schafft Spielräume für die Entwicklung von Identität und Autonomie (besonders bei Kindern)
 - Es kann als "Notventil" in rigiden sozialen Systemen fungieren

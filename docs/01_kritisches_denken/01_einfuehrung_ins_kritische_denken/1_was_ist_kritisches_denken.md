@@ -12,7 +12,6 @@ last_update:
   author: Immanuel Lupinus
 # slug: 
 # image: 
-# draft: false
 
 ---
 
