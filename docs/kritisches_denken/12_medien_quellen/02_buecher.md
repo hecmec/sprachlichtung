@@ -22,16 +22,28 @@ last_update:
 
 ## Kritisches Denken
 
-- Otto Kruse (2017): Kritisches Denken und Argumentieren. Eine Einführung für Studierende. utb Verlag Konstanz. 
-- Rainer Bromme: *Kritisches Denken lehren und lernen* (Beltz, 2019)
-- Georg Meggle (2005): *Kritisches Denken: Von der Philosophie zur Praxis* (Mentis, 2005)
+- Otto Kruse (2017): **Kritisches Denken und Argumentieren**. Eine Einführung für Studierende. utb Verlag Konstanz. 
+- Rainer Bromme: **Kritisches Denken lehren und lernen** (Beltz, 2019)
+- Georg Meggle (2005): **Kritisches Denken: Von der Philosophie zur Praxis** (Mentis, 2005)
 
+## Denkfehler, Fehlschlüsse und andere Stolpersteine
+
+*Hier kommen ein paar sehr bekannte Bücher, die Teilbereiche des Kritischen Denkens beleuchten, aber die nicht wirklich Kritisches Denken lehren.* 
+
+- Daniel Kahnemann, Amos Tversky (2011): [**Schnelles Denken, langsames Denken**](https://de.wikipedia.org/wiki/Schnelles_Denken,_langsames_Denken). Siedler, München 2012
+  - Dieses Meisterwerk von Kahnemann und Tversky gibt uns Einblicke in die psychologische Forschung zum menschlichen Denken und unserer Entscheidungsfindung. Super geschrieben, aber kein Buch, um kritisches Denken zu lernen.
+- Rolf Dobelli (2011): [**Die Kunst des klaren Denkens**](https://de.wikipedia.org/wiki/Die_Kunst_des_klaren_Denkens:_52_Denkfehler,_die_Sie_besser_anderen_%C3%BCberlassen)
+
+## Wissenschaft und Skeptizismus
+- Carl Sagan: **Der Drache in meiner Garage**. Oder die Kunst der Wissenschaft, Unsinn zu entlarven. (1997)
+  - orginal: [The Demon-Haunted World: Science as a Candle in the Dark ](https://en.wikipedia.org/wiki/The_Demon-Haunted_World) (1995)
+- Thomas Kuhn: **Die Struktur wissenschaftlicher Revolutionen**.
 ## Sprachphilosophie
 
-- Ludwig Wittgenstein: *Philosophische Untersuchungen* (Suhrkamp, 2003)
-- Jürgen Habermas: *Theorie des kommunikativen Handelns* (Suhrkamp, 1981)
-- Gottlob Frege: *Funktion, Begriff, Bedeutung* (Reclam, 1997)
-- Hans-Georg Gadamer: *Wahrheit und Methode* (Mohr Siebeck, 1960)
+- Ludwig Wittgenstein: **Philosophische Untersuchungen** (Suhrkamp, 2003)
+- Jürgen Habermas: **Theorie des kommunikativen Handelns** (Suhrkamp, 1981)
+- Gottlob Frege: **Funktion, Begriff, Bedeutung** (Reclam, 1997)
+- Hans-Georg Gadamer: **Wahrheit und Methode** (Mohr Siebeck, 1960)
 
 ## Sprache und Gesellschaft
 
@@ -42,3 +54,9 @@ last_update:
 - Victor Klemperer: *Lingua Tertii Imperii* (1947)
 - Dolf Sternberger, Wilhelm E. Süskind und Gerhard Storz (1957): *Das Wörterbuch des Unmenschen* 
 - [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) &mdash; soztheo.de
+
+<!-- 
+https://criticalthinkingsecrets.com/20-influential-books-on-critical-thinking-you-must-read/ 
+https://www.drkishoresratnamschools.com/best-books-to-improve-critical-thinking/
+
+-->
