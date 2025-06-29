@@ -23,38 +23,71 @@ image: /static/img/kompass.svg
 
 ## Was ist Kritisches Denken ?
 
-- Als **kritisch denkender** Mensch **hinterfragst** du alle - Mitmenschen und Firmen, die dir sagen wollen, was gut für dich ist. Kritisches Denken hilft dir dabei.
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mitmenschen und von Firmen, die dir sagen wollen, was gut für dich ist.  
 
-> Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.
->
-> &mdash; Immanuel Kant: *Was ist Aufklärung*[^1]
+**Kritisches Denken hilft dir dabei**.
+&nbsp;
 
+:::info
+ Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.
+
+ &mdash; Immanuel Kant: *Was ist Aufklärung*[^1]
+:::
 
 [^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")
 
+&nbsp;
+&nbsp;
+&nbsp;
 
-- Wie man 1. **richtig** und 2. **kritisch** denkt, dass kann man lernen.
+Wir habe zwei grosse Fragen.  
+
+1. Wie denkt man **richtig**?
+
+2. Wie denkt man **kritisch**?
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+Keine Sorge. Beides kann man lernen.
 
 ## Wie es geht richtig?
 
-"**Richtig**" geht so: Du solltest eine paar Fähigkeiten haben:
+**Richtig** zu denken kannst Du lernen, indem du ein paar Fähigkeiten trainierst:
 
 ### Logisch denken
 
-- Logisch denken können heisst: von wahren Voraussetzungen auf andere wahre Sätze schliessen können.
+Was heisst "*logisch denken*"? Wir können doch alle immer schon denken.
+
+:::tip
+Logisch denken können heisst : von **wahren Voraussetzungen** auf **wahre Schlussfolgerungen** schliessen können.
+:::
+
+Die **Logik** ist eine riesiges Fach, aber zum Glück für uns Laien, brauchen wir im Alltag nur ganz wenig davon, die wesentlichen Grundlagen.
+
+Die **wesentlichen Grundlagen** der Logik solltest Du aber beherrschen, sonst versteht du nur Bahnhof. 
 
 ### Argumentieren 
 
-- Wissen, wie Leute argumentieren und wie man argumentieren sollte
-- Wissen wie guten und schlechte Argumente aussehen.
+Argumentieren hat etwas mit Logik zu tun. Aber nicht alle guten Argumente sind formal logisch richtig.
+
+Du musst lernen, wie Leute argumentieren und **wie man argumentieren sollte**.
+
+Du musst verstehen, **wie gute Argumente funktionieren** und wie schlechte Argumente aussehen.
 
 ### Sprachverhexung
 
-- Sprachfallen aufdecken und umgehen (schiefe Definitionen, geladene Sprache)
+Um klar und kritisch zu denken, müssen wir lernen Sprachfallen aufzudecken und sie zu umgehen (schiefe Definitionen, geladene Sprache).
 
-  - Geladene Sprache, z. B.: Unser unterbelichteter Präsident hat gesagt ...
-  - Unsinn, z. B.: Wie spät ist es eigentlich auf dem Mond gerade?
-  - Definitionen, z. B.: Der Mensch ist ein federloser Zweibeiner
+Sehr oft spielt uns die Sprache selbst einen Streich : 
+  - **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
+  - **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
+  - Definitionen, z. B.: "Der Mensch ist ein federloser Zweibeiner"
 
 ### Quellenprüfung
 
