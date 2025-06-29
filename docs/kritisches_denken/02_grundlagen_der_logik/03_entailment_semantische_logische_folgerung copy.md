@@ -17,13 +17,10 @@ last_update:
 
 ---
 
-<!-- 
 **Semantische Folgerung** oder Entailment ist ein fundamentales Konzept in der Logik. Es beschreibt eine Beziehung zwischen Aussagen, bei der eine Aussage (oder eine Gruppe von Aussagen) eine andere Aussage notwendigerweise impliziert.
 
-:::tip Beispiel
-
+:::tip
 "**Max ist ein Hund.**" daraus folgt semantisch "**Max ist ein Tier.**"
-
 :::
 
 Formal ausgedrückt:
@@ -50,14 +47,14 @@ Das ist wahr, weil wir die Sprache so benutzen.
 Von solchen Sätzen, die aufgrund ihrer Bedeutung wahr sind, sagt man oft:
 sie sind **analytisch wahr**.  
 
-:::tip Beispiel
+:::tip
 "**Tom ist Junggeselle.**" daraus folgt "**Tom ist nicht verheiratet**."
 :::
 Wenn es wahr ist, dass Tom ein Junggeselle ist, dann muss es auch wahr sein, dass Tom unverheiratet ist.
 
 - Wenn etwas rot ist, dann ist es farbig.
 
-:::tip Beispiel
+:::tip
 "**Der Würfel ist rot.**" daraus folgt "**Der Würfel ist farbig.**"
 :::
 
@@ -65,7 +62,7 @@ Wenn es wahr ist, dass der Würfel rot ist, muss es auch wahr sein, dass er farb
 
 - Wir können semantische Folgerungen mit komplizierteren Sätzen machen.
 
-:::tip Beispiel
+:::tip
 "**Alle Menschen sind sterblich.**" und  
 "**Sokrates ist ein Mensch.**" daraus folgt  
 "**Sokrates ist sterblich.**"
@@ -74,6 +71,9 @@ Wenn es wahr ist, dass der Würfel rot ist, muss es auch wahr sein, dass er farb
 Wenn beide Prämissen wahr sind, muss die Schlussfolgerung ebenfalls wahr sein.
 
 Das folgt aus unseren Sprachregeln: wie wir "alle" und "Menschen" und "sterblich" benutzen.
+
+<details>
+<summary>Manche mögen's etwas formaler</summary>
 
 ## Semantische Folgerung vs. Implikation
 
@@ -95,6 +95,8 @@ Wenn wir eine Menge von Prämissen Γ und eine Konklusion φ haben:
 Γ ⊨ φ
 heißt: Aus den Aussagen in Γ folgt φ logisch, d.h. in jedem Modell, in dem alle Aussagen in Γ wahr sind, ist auch φ wahr.
 
+</details>
+
 ## Bedeutung von Entailment im kritischen Denken
 
 Das Verständnis von Entailment ist entscheidend für das kritische Denken, da es uns hilft:
@@ -108,5 +110,4 @@ Das Verständnis von Entailment ist entscheidend für das kritische Denken, da e
 
 - [Ableitung in der Logik, Wikipedia](https://de.wikipedia.org/wiki/Ableitung_(Logik))
 
-- [Semantische Folgerung, Wikipedia](https://de.wikipedia.org/wiki/Semantische_Folgerung) 
--->
+- [Semantische Folgerung, Wikipedia](https://de.wikipedia.org/wiki/Semantische_Folgerung)

@@ -1,0 +1,20 @@
+{
+  "line-length": false,
+  
+  "MD013": {
+    "line_length": 120
+
+  },
+  "MD007": {
+    "indent": 4
+  },
+  "MD029": {
+    "style": "ordered"
+  },
+  "MD032": {
+    "blank_lines_after": true
+  },
+  "MD033": {
+    "allowed_elements": ["code", "pre", "a", "img"]
+  }
+}

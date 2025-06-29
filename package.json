@@ -1,6 +1,10 @@
 {
-  "name": "my-website",
-  "version": "0.0.0",
+  "name": "sprachlichtung",
+  "description": "SprachLichtung - Ein Ort für kritisches Denken, Philosophie und Umweltbewusstsein",
+  "author": "SprachLichtung Community",
+  "license": "MIT",
+  "homepage": "https://sprachlichtung.org",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -18,7 +22,7 @@
     "@docusaurus/core": "3.8.0",
     "@docusaurus/plugin-content-blog": "^3.8.1",
     "@docusaurus/preset-classic": "3.8.0",
-    "@mdx-js/react": "^3.0.0",
+    "@mdx-js/react": "^3.1.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
     "docusaurus-plugin-image-zoom": "^3.0.1",

@@ -74,6 +74,7 @@ You can reference images relative to the current file as well. This is particula
 ```md
 ![Docusaurus logo](./img/docusaurus.png)
 ```
+:::tip
 
 ## Code Blocks
 
@@ -95,16 +96,18 @@ function HelloDocusaurus() {
 
 ## Admonitions
 
+note, tip, info, warning, danger
+
 Docusaurus has a special syntax to create admonitions and callouts:
 
 ```md
-:::tip[My tip]
+:::tip My tip 
 
 Use this awesome feature option
 
 :::
 
-:::danger[Take care]
+:::danger Take care
 
 This action is dangerous
 
@@ -112,13 +115,14 @@ This action is dangerous
 
 ```
 
-:::tip[My tip]
+<!-- :::tip -->
+:::tip Mein
 
 Use this awesome feature option
 
 :::
 
-:::danger[Take care]
+:::danger Take care
 
 This action is dangerous
 
@@ -167,3 +171,11 @@ Here is the github of [vscode-markdown-shortcuts](https://github.com/mdickin/vsc
 - Ctrl-I for _italic_  
 - Ctrl-L for toggle [link](www.example.org) to resource.  
 
+## Details - Collapse
+
+<details>
+  <summary>Hier kannst du mehr Quellen finden</summary>
+  - Quelle 1
+  - Quelle 2 
+  - Quelle 3
+</details>

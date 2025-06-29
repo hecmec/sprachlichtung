@@ -11,41 +11,50 @@ keywords:
 last_update:
   date: 2025-06-22
   author: Immanuel Lupinus
-# slug:
 image: /static/img/kompass.svg
+
+# slug:
 # tags: [test1, test2]
 
 ---
 
 <!-- TODO: hier kommt eine Zusammenfassung für das gesammte Kapitel mit Querverweisen -->
- Hier kommt eine zu kurze Zusammenfassung des gesammten Tutorials zum Kritischen Denken 
+ Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
 
 ## Was ist Kritisches Denken ?
 
-- Wie man richtig und kritisch denken lernen kann
+- Als **kritisch denkender** Mensch **hinterfragst** du alle - Mitmenschen und Firmen, die dir sagen wollen, was gut für dich ist. Kritisches Denken hilft dir dabei.
+
+> Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.
+>
+> &mdash; Immanuel Kant: *Was ist Aufklärung*[^1]
+
+
+[^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")
+
+
+- Wie man 1. **richtig** und 2. **kritisch** denkt, dass kann man lernen.
 
 ## Wie es geht richtig?
 
-- "Richtig" geht so:
-- du solltest eine paar Fähigkeiten haben:
+"**Richtig**" geht so: Du solltest eine paar Fähigkeiten haben:
 
 ### Logisch denken
 
-- Logisch denken können: von wahren Voraussetzungen auf andere wahre Sätze schliessen können.
+- Logisch denken können heisst: von wahren Voraussetzungen auf andere wahre Sätze schliessen können.
 
 ### Argumentieren 
 
 - Wissen, wie Leute argumentieren und wie man argumentieren sollte
-
 - Wissen wie guten und schlechte Argumente aussehen.
 
 ### Sprachverhexung
 
-- Sprachfallen aufdecken und umgehen (schiefe Definitionen, geladene sprache)
+- Sprachfallen aufdecken und umgehen (schiefe Definitionen, geladene Sprache)
 
-  - Geladene Sprache: Unser unterbelichteter Präsident hat gesagt ...
-  - Unsinn: Wie spät ist es eigentlich auf dem Mond gerade?
-  - Definitionen: Der Mensch ist ein federloser Zweibeiner
+  - Geladene Sprache, z. B.: Unser unterbelichteter Präsident hat gesagt ...
+  - Unsinn, z. B.: Wie spät ist es eigentlich auf dem Mond gerade?
+  - Definitionen, z. B.: Der Mensch ist ein federloser Zweibeiner
 
 ### Quellenprüfung
 
@@ -70,8 +79,7 @@ image: /static/img/kompass.svg
 - Paradoxien und Dilemmas erkennen und richtig reagieren
 
 
-
-## Wie geht es kritisch
+## Wie geht es kritisch?
 
 - Das heisst ja nicht umsonst "Kritisches Denken". "Kritisch" ist hier eine unabdingbare Einstellung zu sich selbst, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
 - Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht. Da würden wir schlicht verrückt werden.
@@ -106,19 +114,14 @@ image: /static/img/kompass.svg
 - Andere Menschen haben andere Prioritäten und wir haben schräge Meinungen dazu:
   - das Kind will ein neues Spielzeug (was für ein Unsinn, braucht nicht noch eins)
   - der Jugentliche träumt davon, ein Musikstar zu sein (das wird ja eh nix, hast du dich mal singen gehört)
-  - jemand will eine neuen neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
+  - jemand will eine neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
   - jemand isst seit Jahren kein Fleisch mehr (das ideologisch hirnverbrannt und gesundheitsschädlich)
 
-- Wir sind offen für Gegenargumente, hören andere Meinungen.
+- Hier brauchen wir eine Änderung der Einstellung. Wir sind offen für Gegenargumente, hören andere Meinungen.
 
 ### Zurückhaltung meines Urteils
 
 
 
-
-### 
-  -
 - Einige Beobachtungen der wirklichen Welt
-
 - Wir kennen und hinterfagen unsere eigenen (expliziten und impliziten) Prämissen
-- 

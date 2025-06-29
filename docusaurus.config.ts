@@ -55,13 +55,11 @@ const config: Config = {
           // Math plugins correctly added here
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          admonitions: {
-            keywords: ['note', 'tip', 'warning', 'important', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book', 'expert'],
-          },
           editUrl:
-            'https://github.com/hecmec/sprachlichtung/',
+            'https://github.com/hecmec/sprachlichtung/blob/main',
         },
         blog: {
           showReadingTime: true,
@@ -72,7 +70,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/hecmec/sprachlichtung/blob/main',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -84,21 +82,6 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
-  //  Add this plugins section after presets
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'umwelt', // This ID uniquely identifies this docs instance
-  //       path: 'docUmwelt', // Directory where your API docs content is located
-  //       routeBasePath: 'umwelt', // URL route for this section
-  //       sidebarPath: './umweltSidebars.ts', // Path to your API sidebars file
-  //       // Other options like editUrl can be added here
-  //     },
-  //   ],
-  // ],
-
 
   themeConfig: {
     // Replace with your project's social card
@@ -147,7 +130,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial Kritisches Denken',
-              to: '/docs/kritisches_denken/kritisches_denken_kurzgefasst',
+              to: '/docs/kritisches_denken/kritisches_denken_kurzgesagt',
             },
           ],
         },
@@ -184,16 +167,12 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    admonitions: {
-      tag: ':::',
-      keywords: [ 'note', 'tip', 'warning', 'caution', 'danger', 'info', 'question', 'podcast', 'book', 'example']
-    }
   } satisfies Preset.ThemeConfig,
 };
 
