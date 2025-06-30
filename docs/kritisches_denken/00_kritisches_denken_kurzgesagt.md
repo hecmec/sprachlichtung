@@ -48,10 +48,8 @@ Wir habe zwei grosse Fragen.
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Kritisches Denken-->Kritisch;
+    Kritisches Denken-->Richtig;
 ```
 
 Keine Sorge. Beides kann man lernen.
