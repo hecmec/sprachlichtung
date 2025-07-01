@@ -37,20 +37,25 @@ Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mi
 [^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")
 
 &nbsp;
-&nbsp;
-&nbsp;
-
-Wir habe zwei grosse Fragen.  
-
-1. Wie denkt man **richtig**?
-
-2. Wie denkt man **kritisch**?
+Kritisches Denken hat zwei Hemisphären.
 
 ```mermaid
-graph TD;
-    Kritisches Denken-->Kritisch;
-    Kritisches Denken-->Richtig;
+flowchart TD
+    C{Kritisches Denken}
+    C --> D[Richtig]
+    C --> E[Kritisch]
 ```
+
+&nbsp;
+
+Wir haben zwei grosse Fragen.  
+
+1. Wie denkt man **richtig**?  
+  Die Antwort darauf ist eine **Fähigkeit**, wie "Fahrrad fahren".
+
+
+2. Wie denkt man **kritisch**?  
+  Die Antwort darauf ist eine **Einstellung**, wie "auf der Hut sein", die wir bei Gelegenheit einnehmen.
 
 Keine Sorge. Beides kann man lernen.
 
@@ -80,16 +85,21 @@ Du musst verstehen, **wie gute Argumente funktionieren** und wie schlechte Argum
 
 ### Sprachverhexung
 
-Um klar und kritisch zu denken, müssen wir lernen Sprachfallen aufzudecken und sie zu umgehen (schiefe Definitionen, geladene Sprache).
+Um klar und kritisch zu denken, müssen wir lernen **Sprachfallen aufzudecken** und sie zu umgehen.
 
 Sehr oft spielt uns die Sprache selbst einen Streich : 
   - **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
   - **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
-  - Definitionen, z. B.: "Der Mensch ist ein federloser Zweibeiner"
+  - **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner"
+
+Exakte Sprache brauchen wir im Recht, auf Arbeit, in der Wissenschaft und Technik, seltener aber auf Grillparties oder beim Flirten.
 
 ### Quellenprüfung
 
-- Quellen überprüfen können. (Textquellen, Erzählungen, eigene und anderer Erfahrungen einordnen)
+Eine der wichtigsten Fähigkeit die wir lernen oder beherrschen sollten ist die, unsere **Quellen überprüfen** zu können. 
+Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Textquellen, Erzählungen, eigene Erfahrungen oder die Anderer.
+Die Qualität unserer Quellen ist dabei sehr unterschiedlich.
+Hier ein paar Beispiele: 
 - "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('./tiktok.png').default} alt="tiktok ads" height="30"  />
 <!-- ![alt text](tiktok.png) -->
 - "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('./marlboro.png').default} alt="marlboro" height="30"  />
@@ -97,11 +107,22 @@ Sehr oft spielt uns die Sprache selbst einen Streich :
 - "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('./wikipedia.png').default} alt="wikipedia" height="30"  />
 - "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('./ipcc.png').default} alt="ipcc" height="30"  />
 
-### Klassische Fehlschlüsse
+Ich lasse Dich entscheiden, wem Du lieber vertraust.
 
-- Sich nicht von Fehlschlüssen verhexen lassen
+### Klassische Fehlschlüsse (Fallacy)
 
-### Kognitive Verzerrungen (Biaises) 
+Eine weitere wichtige Fähigkeit, ist die, sich nicht von Fehlschlüssen verhexen lassen.
+Einige der Besten Bücher zum Thema beschäftigen sich fast nur mit Fehlschlüssen oder Bias.
+Bekannte Bespiele für klassische Fehlschlüsse sind:
+- **Ad Hominem**: Angriff auf die Person statt auf das Argument.
+- **Strohmann**: Das Argument des Gegners wird verzerrt, um es leichter angreifen zu können.
+- **Falsches Dilemma**: Es werden nur zwei Möglichkeiten dargestellt, obwohl es mehr gibt.
+- **Zirkelschluss**: Die Behauptung wird durch sich selbst begründet.
+- **Autoritätsargument**: Etwas wird für wahr gehalten, weil eine Autorität es sagt.
+
+Es gibt einen ganzen Zoo von bekannten Fehlschlüssen. Wir werden die wichtigsten im Detail besprechen.
+
+### Kognitive Verzerrungen (Biases) 
 
 - Sich nicht von kognitive Verzerrungen täuschen lassen
 
