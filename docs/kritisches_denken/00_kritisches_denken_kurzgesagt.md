@@ -87,12 +87,13 @@ Du musst verstehen, **wie gute Argumente funktionieren** und wie schlechte Argum
 
 Um klar und kritisch zu denken, müssen wir lernen **Sprachfallen aufzudecken** und sie zu umgehen.
 
-Sehr oft spielt uns die Sprache selbst einen Streich : 
-  - **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
-  - **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
-  - **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner"
+Sehr oft spielt uns die Sprache selbst einen Streich:
 
-Exakte Sprache brauchen wir im Recht, auf Arbeit, in der Wissenschaft und Technik, seltener aber auf Grillparties oder beim Flirten.
+- **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
+- **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
+- **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner"
+
+Exakte Sprache brauchen wir im Recht, auf Arbeit, in der Wissenschaft und Technik, seltener aber auf Grill Parties oder beim Flirten.
 
 ### Quellenprüfung
 
@@ -114,6 +115,7 @@ Ich lasse Dich entscheiden, wem Du lieber vertraust.
 Eine weitere wichtige Fähigkeit, ist die, sich nicht von Fehlschlüssen verhexen lassen.
 Einige der Besten Bücher zum Thema beschäftigen sich fast nur mit Fehlschlüssen oder Bias.
 Bekannte Bespiele für klassische Fehlschlüsse sind:
+
 - **Ad Hominem**: Angriff auf die Person statt auf das Argument.
 - **Strohmann**: Das Argument des Gegners wird verzerrt, um es leichter angreifen zu können.
 - **Falsches Dilemma**: Es werden nur zwei Möglichkeiten dargestellt, obwohl es mehr gibt.
@@ -122,11 +124,11 @@ Bekannte Bespiele für klassische Fehlschlüsse sind:
 
 Es gibt einen ganzen Zoo von bekannten Fehlschlüssen. Wir werden die wichtigsten im Detail besprechen.
 
-### Kognitive Verzerrungen (Biases) 
+### Kognitive Verzerrungen (Biases)
 
 - Sich nicht von kognitive Verzerrungen täuschen lassen
 
-### Paradoxien und Dilemmas 
+### Paradoxien und Dilemmas
 
 - Paradoxien und Dilemmas erkennen und richtig reagieren
 
@@ -139,23 +141,31 @@ Es gibt einen ganzen Zoo von bekannten Fehlschlüssen. Wir werden die wichtigste
 
 ### Selbstkritik
 
-- Meistens wissen wir schon, wo wir hinwollen, wofür oder wogegen wir sind, weil wir eben immer schon Teil einer Kultur oder Subkultur sind. Wir sind voller Überzeugungen. Und ich bin mir ganz sicher ... 
-  - Es gibt a) nur einen Gott und das ist zufällig der, an den ich glaube. Gott sei dank. Oder b) an Gott kann man glauben wie man will, es ist nur kein wissenschaftlicher Ausdruck. 
-  - Die Erde ist a) ungefähr. Oder b) flach oder eckig.
-  - Nichts kann sich schneller als das Licht bewegen ausser schlechte Nachrichten.
-  - Corona19 war a) eine schwere Epidemie, b) eine Verschwörung der Weltregierung.
-  - Homosexualität ist a) ein natürliches Phänomen und moralisch neutral, b) eine Krankheit und Gott nicht gefällig.
-  - Wir konstatieren a) eine menschengemachte Klimakrise oder b) bestreiten dies.
-  - usw, usw.
+Meistens wissen wir schon, wo wir hinwollen, wofür oder wogegen wir sind, weil wir eben immer schon **Teil einer Kultur** oder Subkultur sind. 
 
-- Wir haben meistens eine Meinung und öfter keine Ahnung.
-- Bitte 50 mal nachsagen: "Ich kann mich irren, ich habe mich geirrt, ich werde mich irren."
-- Ist das schlimm? Nein. Wir müssen einfach offen sein für Fehlersuche, konstruktive Kritik, Hinterfragung.
+Wir sind voller **Überzeugungen**; wir sind uns **ganz sicher**. 
+Die meiste Energie unseres Denken benutzen wir nicht, um ein angemessene oder "richtige" Lösungen auf gegebene Probleme zu finden, sondern um unsere **Vorurteile zu bestätigen**.  
+Unsere Gesellschaft ist voller gegensätzlicher Überzeugungen:
 
-- Bei Examen in der Schule sagte die Lehrerin: überprüfe deine Resultate bevor du abgibst.
-- In der Technik nennen wir es Testen.
-- In der Produktion heisst es Qualitätskontrolle.
-- In der Wissenschaft fragen wir andere nach "Peer-reviews".
+- Es gibt a) nur einen Gott und dieser ist zufällig der, an den ich glaube. Gott sei Dank! Oder: b) an Gott kann man glauben wie man will, es ist nur kein wissenschaftlicher Ausdruck. 
+- Die Erde ist a) ungefähr rund. Oder b) flach oder eckig.
+- Nichts kann sich schneller als das Licht bewegen ausser schlechte Nachrichten.
+- Corona19 war a) eine schwere Epidemie, b) eine Verschwörung der Weltregierung.
+- Homosexualität ist a) ein natürliches Phänomen und moralisch neutral, b) eine Krankheit und Gott nicht gefällig.
+- Wir konstatieren a) eine menschengemachte Klimakrise oder b) bestreiten dies.
+- usw, usw.
+
+Wir haben meistens **eine feste Meinung** und **öfter keine Ahnung**.
+Bitte 50 mal nachsagen: 
+
+**"Ich kann mich irren, ich habe mich geirrt, ich werde mich irren."**
+
+Ist das schlimm? Nein. Wir müssen einfach offen sein für **Fehlersuche**, konstruktive Kritik, **Hinterfragung**.
+
+- Bei Examen in der Schule sagte die Lehrerin: **überprüfe** deine Resultate bevor du abgibst.
+- In der Technik nennen wir es **Testen**.
+- In der Produktion heisst es **Qualitätskontrolle**.
+- In der Wissenschaft fragen wir andere nach "**Peer-reviews**".
 
 ### Zuhören und Offenheit
 
