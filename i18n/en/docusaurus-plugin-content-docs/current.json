@@ -1,0 +1,150 @@
+{
+  "version.label": {
+    "message": "_t_Next",
+    "description": "The label for version current"
+  },
+  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken": {
+    "message": "Introduction to Critical Thinking",
+    "description": "The label for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken.link.generated-index.description": {
+    "message": "Everything you need to know about critical thinking.",
+    "description": "The generated-index page description for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Grundlagen der Logik": {
+    "message": "Fundamentals of Logic",
+    "description": "The label for category Grundlagen der Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Grundlagen der Logik.link.generated-index.description": {
+    "message": "_t_Alles was du wissen musst über Kritisches Denken.",
+    "description": "The generated-index page description for category Grundlagen der Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?": {
+    "message": "What is a good argument?",
+    "description": "The label for category Was ist ein gutes Argument? in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?.link.generated-index.description": {
+    "message": "In this chapter, we learn what makes a good argument, understand the difference between rhetoric and argumentation, and how to recognize hidden assumptions.",
+    "description": "The generated-index page description for category Was ist ein gutes Argument? in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen und Holzwege": {
+    "message": "Language Traps and Dead Ends",
+    "description": "The label for category Sprachfallen und Holzwege in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen und Holzwege.link.generated-index.description": {
+    "message": "In this chapter, we deal with language traps, stumbling blocks, and other dead ends. Everything that can lead to misunderstandings, fallacies, and unclear thinking.",
+    "description": "The generated-index page description for category Sprachfallen und Holzwege in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen und mentale Heuristiken": {
+    "message": "Cognitive Biases and Mental Heuristics",
+    "description": "The label for category Kognitive Verzerrungen und mentale Heuristiken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen und mentale Heuristiken.link.generated-index.description": {
+    "message": "In this chapter, we deal with cognitive biases and mental heuristics. These systematic thinking errors and shortcuts of the brain can lead to false conclusions and misjudgments, but they strongly influence our decisions and judgments.",
+    "description": "The generated-index page description for category Kognitive Verzerrungen und mentale Heuristiken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse und schlechtes Argumentieren": {
+    "message": "Fallacies and Poor Argumentation",
+    "description": "The label for category Fehlschlüsse und schlechtes Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse und schlechtes Argumentieren.link.generated-index.description": {
+    "message": "In this chapter, we deal with fallacies and poor argumentation. We examine common logical errors, rhetorical tricks, and weaknesses in argumentation that can lead to false conclusions.",
+    "description": "The generated-index page description for category Fehlschlüsse und schlechtes Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen": {
+    "message": "Paradoxes, Dilemmas, and Traps",
+    "description": "The label for category Paradoxien, Dilemmas und Denkfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen.link.generated-index.description": {
+    "message": "In this chapter, we explore paradoxes, dilemmas, and traps. We examine seemingly contradictory situations, difficult decision problems, and puzzling thought experiments that challenge our logical thinking.",
+    "description": "The generated-index page description for category Paradoxien, Dilemmas und Denkfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation und Selbstverteidigung": {
+    "message": "Manipulation and Self-Defense",
+    "description": "The label for category Manipulation und Selbstverteidigung in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation und Selbstverteidigung.link.generated-index.description": {
+    "message": "In this chapter, we examine manipulation techniques and methods of mental self-defense. We consider how people can be influenced by language, media, and psychological tactics, and how to defend against them.",
+    "description": "The generated-index page description for category Manipulation und Selbstverteidigung in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden und Laster": {
+    "message": "Intellectual Virtues and Vices",
+    "description": "The label for category Intellektuelle Tugenden und Laster in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden und Laster.link.generated-index.description": {
+    "message": "In this chapter, we examine intellectual virtues and vices. We consider which character traits and habits promote or hinder critical thinking, and how to cultivate one's intellectual virtues.",
+    "description": "The generated-index page description for category Intellektuelle Tugenden und Laster in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Die Wissenschaft und ihre Methoden": {
+    "message": "Science and Its Methods",
+    "description": "The label for category Die Wissenschaft und ihre Methoden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Die Wissenschaft und ihre Methoden.link.generated-index.description": {
+    "message": "In this chapter, we examine science and its methods. We consider scientific ways of thinking, research methods, the concept of evidence, and how scientific knowledge is generated and verified.",
+    "description": "The generated-index page description for category Die Wissenschaft und ihre Methoden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kritisches Denken in der Praxis": {
+    "message": "Critical Thinking in Practice",
+    "description": "The label for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kritisches Denken in der Praxis.link.generated-index.description": {
+    "message": "In this chapter, we apply the concepts of critical thinking to practical everyday situations. We examine how we can use these skills to solve problems, make decisions, and evaluate information in daily life.",
+    "description": "The generated-index page description for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Quellen und Medien 📚": {
+    "message": "Sources and Media 📚",
+    "description": "The label for category Quellen und Medien 📚 in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
+    "message": "Sources and media related to language and philosophy.",
+    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar kritDenkenSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele🤟": {
+    "message": "Language Games 🤟",
+    "description": "The label for category Sprachspiele🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele🤟.link.generated-index.description": {
+    "message": "Everything you need to know about critical thinking.",
+    "description": "The generated-index page description for category Sprachspiele🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲": {
+    "message": "Social Games 🎲",
+    "description": "The label for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲.link.generated-index.description": {
+    "message": "Everything you need to know about social games.",
+    "description": "The generated-index page description for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten": {
+    "message": "Artificial Worlds",
+    "description": "The label for category Künstliche Welten in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten.link.generated-index.description": {
+    "message": "AI (Artificial Intelligence), LLMs, Deep Learning, Automata, and so on.",
+    "description": "The generated-index page description for category Künstliche Welten in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.umwelt": {
+    "message": "Environment",
+    "description": "The label for category umwelt in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.energie": {
+    "message": "Energy",
+    "description": "The label for category energie in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚": {
+    "message": "Sources and Media 📚",
+    "description": "The label for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
+    "message": "Sources and media related to language and philosophy.",
+    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂": {
+    "message": "Humor and Satire 😂",
+    "description": "The label for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂.link.generated-index.description": {
+    "message": "Humor, jokes, memes, quotes.",
+    "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
+  }
+}

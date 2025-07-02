@@ -32,14 +32,14 @@ const config: Config = {
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid'],
+  // themes: ['@docusaurus/theme-mermaid'],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de','en','fr', 'es'],
+    locales: ['de','en'],
   },
 
   presets: [
@@ -178,9 +178,9 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    mermaid: {
-      theme: {light: 'neutral', dark: 'forest'},
-    },
+    // mermaid: {
+    //   theme: {light: 'neutral', dark: 'forest'},
+    // },
   } satisfies Preset.ThemeConfig,
 };
 

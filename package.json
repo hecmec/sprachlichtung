@@ -14,7 +14,7 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
+    "write-translations": "docusaurus write-translations --locale 'en' --messagePrefix '_t_'",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"
   },
@@ -22,7 +22,6 @@
     "@docusaurus/core": "3.8.1",
     "@docusaurus/plugin-content-blog": "3.8.1",
     "@docusaurus/preset-classic": "3.8.1",
-    "@docusaurus/theme-mermaid": "3.8.1",
     "@mdx-js/react": "^3.1.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
