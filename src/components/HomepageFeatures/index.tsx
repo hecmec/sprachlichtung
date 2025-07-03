@@ -2,6 +2,8 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
+
 
 type FeatureItem = {
   title: string;
@@ -11,32 +13,51 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: translate({
+      id: 'homepage.features.ctFundamentals.title',
+      message: 'Kritisches Denken — Grundlagen',
+    }),
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <Translate id="homepage.features.ctFundamentals.description">
+          Kritisches Denken ist eine wichtige Fähigkeit, die es uns ermöglicht,
+          Informationen zu hinterfragen, Argumente zu analysieren und fundierte
+          Entscheidungen zu treffen. 
+          Wir geben Dir die Werkzeuge an die Hand.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: translate({
+      id: 'homepage.features.selfDefense.title',
+      message: 'Selbstverteidigung gegen Manipulation',
+    }),
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <Translate id="homepage.features.selfDefense.description">
+          Nach den Grundlagen des kritischen Denkens geht es darum, die verschiedenen
+          Arten von Manipulation, Lügen und anderem Bullshit zu erkennen —
+          dann wird es ein Kinderspiel, sich dagegen zu verteidigen.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: translate({
+      id: 'homepage.features.practice.title',
+      message: 'Grau ist alle Theorie — Praxis ist alles',
+    }),
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <Translate id="homepage.features.practice.description">
+          Hier geht es darum, das Gelernte in die Praxis umzusetzen. 
+          Wir entwickeln Übungen und Quizze, damit dir das kritische Denken zur Gewohnheit wird 
+          und du es in Deinem Alltag anwenden kannst.
+        </Translate>
       </>
     ),
   },

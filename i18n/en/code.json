@@ -329,5 +329,25 @@
   "homepage.tutorialshortcut.linkLabel": {
     "message": "Critical Thinking — Kurzgesagt — 5min ⏱️",
     "description": "The label for the link to the short tutorial on critical thinking"
+  },
+  "homepage.features.ctFundamentals.title": {
+    "message": "Critical Thinking — Fundamentals",
+    "description": "The title for the critical thinking fundamentals feature on the homepage"
+  },
+  "homepage.features.ctFundamentals.description": {
+    "message": "Critical thinking is an important skill that enables us to question information, analyze arguments, and make informed decisions. We provide you with the tools you need."
+  },
+  "homepage.features.selfDefense.title": {
+    "message": "Self-Defense Against Manipulation"
+  },
+  "homepage.features.selfDefense.description": {
+    "message": "After the fundamentals of critical thinking, it's about recognizing the different types of manipulation, lies, and other bullshit — then it becomes child's play to defend against it."
+  },
+  "homepage.features.practice.title": {
+    "message": "Theory is dry — Practice makes perfect.",
+    "description": "The title for the practice feature on the homepage"
+  },
+  "homepage.features.practice.description": {
+    "message": "Here it's about putting what you've learned into practice. We develop exercises and quizzes to make critical thinking a habit for you and help you apply it in your everyday life."
   }
 }

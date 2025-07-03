@@ -17,7 +17,7 @@
   },
   "link.item.label.Sprachspiele": {
     "message": "Language Games",
-    "description": "The label of footer link with label=Sprachspiele linking to /docs/category/sprachspiele"
+    "description": "The label of footer link with label=Sprachspiele linking to /docs/category/sprachspiele-"
   },
   "link.item.label.Blog": {
     "message": "Blog",
@@ -34,5 +34,25 @@
   "link.item.label.Tutorial Kritisches Denken": {
     "message": "Tutorial Critical Thinking",
     "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
+  },
+  "link.item.label.Gesellschaftsspiele": {
+    "message": "Social Games",
+    "description": "The label of footer link with label=Gesellschaftsspiele linking to /docs/category/gesellschaftsspiele-"
+  },
+  "link.item.label.Umwelten": {
+    "message": "Environments",
+    "description": "The label of footer link with label=Umwelten linking to /docs/category/umwelt-"
+  },
+  "link.item.label.Energie": {
+    "message": "Energy",
+    "description": "The label of footer link with label=Energie linking to /docs/category/energie-und-ressourcen-"
+  },
+  "link.item.label.Quellen": {
+    "message": "Sources",
+    "description": "The label of footer link with label=Quellen linking to /docs/category/quellen-und-medien-"
+  },
+  "link.item.label.Humor": {
+    "message": "Humor",
+    "description": "The label of footer link with label=Humor linking to /docs/category/humor-und-satire-"
   }
 }

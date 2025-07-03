@@ -164,7 +164,7 @@ const config: Config = {
           items: [
             {
               label: 'Sprachspiele',
-              href: '/docs/category/sprachspiele-'
+              href: '/docs/category/sprachspiele-',              
             },
             {
               label: 'Gesellschaftsspiele',

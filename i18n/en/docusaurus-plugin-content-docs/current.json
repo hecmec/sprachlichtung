@@ -146,5 +146,37 @@
   "sidebar.umweltSidebar.category.Humor und Satire 😂.link.generated-index.description": {
     "message": "Humor, jokes, memes, quotes.",
     "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele 🤟": {
+    "message": "_t_Sprachspiele 🤟",
+    "description": "The label for category Sprachspiele 🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele 🤟.link.generated-index.description": {
+    "message": "_t_Alles was du wissen musst über Kritisches Denken.",
+    "description": "The generated-index page description for category Sprachspiele 🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten 🤖": {
+    "message": "_t_Künstliche Welten 🤖",
+    "description": "The label for category Künstliche Welten 🤖 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten 🤖.link.generated-index.description": {
+    "message": "_t_KI (Künstliche Intelligenz), LLMs, Deep Learning, Automaten und so weiter.",
+    "description": "The generated-index page description for category Künstliche Welten 🤖 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Umwelt 🌱": {
+    "message": "_t_Umwelt 🌱",
+    "description": "The label for category Umwelt 🌱 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Umwelt 🌱.link.generated-index.description": {
+    "message": "_t_Umwelt, Nachhaltigkeit, Ökologie und so weiter.",
+    "description": "The generated-index page description for category Umwelt 🌱 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍": {
+    "message": "_t_Energie und Ressourcen 🌍",
+    "description": "The label for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍.link.generated-index.description": {
+    "message": "_t_Energie, Ressourcen, Nachhaltigkeit und so weiter.",
+    "description": "The generated-index page description for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
   }
 }
