@@ -28,8 +28,8 @@ Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mi
 **Kritisches Denken hilft dir dabei**.
 &nbsp;
 
-:::info
- Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.
+:::info Zitat
+ "_Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit._"
 
  &mdash; Immanuel Kant: *Was ist Aufklärung*[^1]
 :::
@@ -59,7 +59,7 @@ Wir haben zwei grosse Fragen.
 
 Keine Sorge. Beides kann man lernen.
 
-## Wie es geht richtig?
+## Wie denkst Du richtig?
 
 **Richtig** zu denken kannst Du lernen, indem du ein paar Fähigkeiten trainierst:
 
@@ -133,7 +133,7 @@ Es gibt einen ganzen Zoo von bekannten Fehlschlüssen. Wir werden die wichtigste
 - Paradoxien und Dilemmas erkennen und richtig reagieren
 
 
-## Wie geht es kritisch?
+## Wie denkst du kritisch?
 
 - Das heisst ja nicht umsonst "Kritisches Denken". "Kritisch" ist hier eine unabdingbare Einstellung zu sich selbst, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
 - Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht. Da würden wir schlicht verrückt werden.

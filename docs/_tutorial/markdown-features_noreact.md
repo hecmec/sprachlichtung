@@ -129,6 +129,7 @@ This action is dangerous
 :::
 
 ## Markdown Emoji
+
 You can use emojis
 
 ```markdown
@@ -138,6 +139,7 @@ You can use emojis
 :heart: oder :lion: or :spades:
 
 ## Checkboxes
+
 Adds support for Github's - [ ] and - [x] check box syntax to VS Code's built-in markdown preview.
 
 - [x]
