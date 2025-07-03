@@ -12,6 +12,8 @@ yarn
 
 ```bash
 yarn start
+
+yarn run start --locale en
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -30,6 +32,11 @@ This command generates static content into the `build` directory and can be serv
 rm -rf .docusaurus build
 ```
 
+or you do a clear
+```
+docusaurus clear
+```
+
 ## Deployment
 
 Using SSH:
@@ -45,3 +52,5 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch
+
+## Versioning
