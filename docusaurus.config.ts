@@ -164,20 +164,31 @@ const config: Config = {
           items: [
             {
               label: 'Sprachspiele',
-              href: '/docs/category/sprachspiele'
-            }
+              href: '/docs/category/sprachspiele-'
+            },
+            {
+              label: 'Gesellschaftsspiele',
+              href: '/docs/category/gesellschaftsspiele-'
+            },
+            {
+              label: 'Umwelten',
+              href: '/docs/category/umwelt-'
+            },
+            {
+              label: 'Energie',
+              href: '/docs/category/energie-und-ressourcen-'
+            },
+            {
+              label: 'Quellen',
+              href: '/docs/category/quellen-und-medien-'
+            },
+            {
+              label: 'Humor',
+              href: '/docs/category/humor-und-satire-',
+            },
+
           ],
         },
-
-        // {
-        //   title: 'Community',
-        //   items: [
-        //     {
-        //       label: 'Comming Soon',
-        //       href: '/'
-        //     }
-        //   ],
-        // },
         {
           title: 'More',
           items: [

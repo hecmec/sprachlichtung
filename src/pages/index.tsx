@@ -5,23 +5,32 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-
 import styles from './index.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          <Translate
+              id="homepage.title"
+              description="The title on the homepage">
+            SprachLichtung
+          </Translate>
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/kritisches_denken/kritisches_denken_kurzgesagt">
-            Kritisches Denken &mdash; Kurzgesagt &mdash; 5min ⏱️
+            <Translate
+                id="homepage.tutorialshortcut.linkLabel"
+                description="The label for the link to the short tutorial on critical thinking">
+                Kritisches Denken &mdash; Kurzgesagt &mdash; 5min ⏱️
+            </Translate>
           </Link>
         </div>
       </div>

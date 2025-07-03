@@ -9,7 +9,7 @@ yarn
 ```
 
 ## Local Development
-
+0
 ```bash
 yarn start
 
@@ -54,3 +54,22 @@ GIT_USER=<Your GitHub username> yarn deploy
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch
 
 ## Versioning
+
+## Translation
+
+https://docusaurus.io/docs/i18n/tutorial
+
+### run english version
+```bash
+yarn run start --locale en
+```
+
+### files
+
+**code.json**:  defines all text labels used in the React code.
+
+
+
+
+
+
