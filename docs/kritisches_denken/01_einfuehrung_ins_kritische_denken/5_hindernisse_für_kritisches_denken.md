@@ -1,7 +1,7 @@
 ---
 title: Hindernisse für kritisches Denken
 sidebar_position: 6
-description: "Hier beschreiben wir die verschiedenen Hindernisse, die uns vom kritischen Denken abhalten"
+description: "Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck."
 keywords:
     - Denkfaulheit
     - Selbstüberschätzung

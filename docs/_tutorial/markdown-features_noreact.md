@@ -128,6 +128,26 @@ This action is dangerous
 
 :::
 
+### mdx admonitions
+
+import Admonition from '@theme/Admonition';
+
+<Admonition type="tip" icon="💡" title="Did you know...">
+  Use plugins to introduce shorter syntax for the most commonly used JSX
+  elements in your project.
+</Admonition>
+<Admonition type="note" icon="💬" title="">
+  Use plugins to introduce shorter syntax for the most commonly used JSX
+  elements in your project.
+</Admonition>
+
+<Admonition type="note" icon="🌊🌊🌊💭" title="">
+  Use plugins to introduce shorter syntax for the most commonly used JSX
+  elements in your project.
+</Admonition>
+
+
+
 ## Markdown Emoji
 
 You can use emojis
@@ -173,6 +193,12 @@ Here is the github of [vscode-markdown-shortcuts](https://github.com/mdickin/vsc
 - Ctrl-I for _italic_  
 - Ctrl-L for toggle [link](www.example.org) to resource.  
 
+## Math
+
+$$
+I = \int_0^{2\pi} \sin(x)\,dx
+$$
+
 ## Details - Collapse
 
 <details>
@@ -181,3 +207,58 @@ Here is the github of [vscode-markdown-shortcuts](https://github.com/mdickin/vsc
   - Quelle 2 
   - Quelle 3
 </details>
+
+## Browser window
+import BrowserWindow from '@site/src/components/BrowserWindow';
+
+<BrowserWindow>
+toto
+</BrowserWindow>
+
+this is working
+
+## tooltip
+import Tooltip from "@site/src/components/Tooltip/Tooltip";
+
+This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and this is another  <Tooltip type="another-subject-area" content="different-topic">Tooltip</Tooltip>
+
+## tabs
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="apple" label="Apple" default>
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana">
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
+
+## highlight
+
+import Highlight from '@site/src/components/Highlight/Highlight';
+
+<Highlight color="#25c2a0">Docusaurus green</Highlight> option
+
+
+
+
+## SVG
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 48 48"
+  width="48"
+  height="48">
+  <path fill="#FF6D00" d="M42 42H6V6h36v36z" />
+  <path fill="#FFF" d="M8 8v32h32V8H8zm30 30H10V10h28v28z" />
+  <path
+    fill="#FFF"
+    d="M23 32h2v-6l5.5-10h-2.1L24 24.1 19.6 16h-2.1L23 26z"
+  />
+</svg>
+

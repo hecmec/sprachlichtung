@@ -2,7 +2,7 @@
 title: Was ist kritisches Denken?
 #sidebar_label: 
 sidebar_position: 2
-description: "Einführung zur Frage des kritischen Denkens"
+description: "Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren."
 keywords:
     - kritisches Denken
     - Argumentation
@@ -36,7 +36,7 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 Peter Facione hat in seinem bekannten "Delphi Report", den vielen beteiligten Experten folgend, vor allem zwei Dinge unterschieden: 
 
 :::info Unterscheidung
-**kognitive Fähigkeiten** und **affektive Einstellungen**. 
+<p class="text--center">**kognitive Fähigkeiten** vs. **affektive Einstellungen**</p> 
 :::
 
 Zu den kognitiven Fähigkeiten gehören:

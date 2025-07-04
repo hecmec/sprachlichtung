@@ -1,0 +1,47 @@
+---
+title: Einführung ins Kritische Denken
+sidebar_position: 1
+description: "Alles was du wissen musst über Kritisches Denken"
+keywords:
+    - kritisches Denken
+    - Zusammenfassung
+    - Argumentation
+    - Reflexion
+last_update:
+  date: 2025-06-28
+  author: Immanuel Lupinus
+# image: /static/img/kompass.svg
+# slug:
+# tags: [test1, test2]
+
+---
+
+## Kapitelübersicht
+
+- **[Was ist kritisches Denken?](./1_was_ist_kritisches_denken.md)**  
+  Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren.
+
+- **[Warum ist kritisches Denken wichtig?](./2_warum_ist_kritisches_denken_wichtig.md)**  
+  Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt.
+
+- **[Mythen über kritisches Denken](./3_mythen_über_kritisches_denken.md)**  
+  Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken.
+
+- **[Die Grundhaltung des kritischen Denkens](./4_grundhaltung_des_kritischen_denkens.md)**  
+  Welche Geisteshaltung und Eigenschaften kritisches Denken fördern.
+
+- **[Hindernisse für kritisches Denken](./5_hindernisse_für_kritisches_denken.md)**  
+  Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck.
+
+- **[Der Prozess des kritischen Denkens](./6_der_prozess_des_kritischen_denkens.md)**  
+  Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion.
+
+- **[Übung: Selbsteinschätzung](./7_übung_selbsteinschätzung.md)**  
+  Teste und reflektiere deine eigenen Fähigkeiten im kritischen Denken.
+
+- **[Zusammenfassung der Einführung](./8_zusammenfassung.md)**  
+  Kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens.
+
+- **[Quiz: Grundlagen des kritischen Denkens](./9_quiz_grundlagen_des_kritischen_denkens.md)**  
+  Überprüfe dein Wissen mit einem interaktiven Quiz.
+

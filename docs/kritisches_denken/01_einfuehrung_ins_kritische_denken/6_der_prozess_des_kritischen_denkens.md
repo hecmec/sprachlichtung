@@ -2,7 +2,7 @@
 title: Der Prozess des kritischen Denkens
 sidebar_position: 7
 sidebar_label: "Prozess kritischen Denkens"
-description: "Ein systematischer Überblick über die Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion."
+description: "Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion."
 keywords:
   - kritisches Denken
   - Denkprozess

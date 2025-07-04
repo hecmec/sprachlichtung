@@ -2,7 +2,7 @@
 title: Warum ist kritisches Denken wichtig?
 sidebar_position: 3
 sidebar_label: "Warum wichtig?"
-description: "Fragen und Antworten zur Wichtigkeit kritisch Denken zu können"
+description: "Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt."
 keywords: 
     - kritisches Denken
     - Überprüfung

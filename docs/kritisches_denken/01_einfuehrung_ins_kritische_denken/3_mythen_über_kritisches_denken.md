@@ -2,7 +2,7 @@
 title: Mythen über kritisches Denken
 sidebar_position: 4
 sidebar_label: "Mythen"
-description: "Die wichtigsten Mythen und Lügen über das kritische Denken"
+description: "Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken."
 keywords:
     - Kritik
     - negatives vs positives Denken

@@ -1,7 +1,7 @@
 ---
 title: Die Grundhaltung des kritischen Denkens
 sidebar_position: 5
-description: "Kritisches Denken ist zuerst eine Geisteshaltung" 
+description: "Welche Geisteshaltung und Eigenschaften kritisches Denken fördern." 
 keywords:
     - intellektuelle Neugier
     - intellektuelle Demut
