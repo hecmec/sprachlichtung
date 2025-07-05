@@ -139,6 +139,8 @@ import Admonition from '@theme/Admonition';
 <Admonition type="note" icon="💬" title="">
   Use plugins to introduce shorter syntax for the most commonly used JSX
   elements in your project.
+
+  <p class="text--right">Sokrates</p> 
 </Admonition>
 
 <Admonition type="note" icon="🌊🌊🌊💭" title="">
@@ -203,6 +205,7 @@ $$
 
 <details>
   <summary>Hier kannst du mehr Quellen finden</summary>
+
   - Quelle 1
   - Quelle 2 
   - Quelle 3

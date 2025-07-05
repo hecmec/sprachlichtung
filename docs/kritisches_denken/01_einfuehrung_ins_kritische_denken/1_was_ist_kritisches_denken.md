@@ -14,6 +14,9 @@ last_update:
 # image: 
 
 ---
+
+import Admonition from '@theme/Admonition';
+
 ## Worüber reden wir, wenn wir von kritischem Denken reden?
 
 Kritisches Denken ist einerseits die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren.
@@ -30,6 +33,30 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 - einen **offenen Geist** zu bewahren (ohne in Naivität zu verfallen)
 - konstruktiv zu **zweifeln**
 - selbst nachzudenken, um **eigene Meinungen** zu bilden und **eigene Entscheidungen** zu treffen
+
+<details>
+  <summary>Kritische Herkunft</summary>
+
+  Von Kants _Kritik der reinen Vernunft_, über einen _kritischen Punkt_ bis zu den _kritschen Zeiten_ in denen wir leben, "kritisch" ist überall und vielgesichtig.  
+  Es kommt zu uns zum teil über das französische "_critique_", welches uns "_kritisch_" und "_Kritik_" gibt.  
+  Ursprünglich aus dem Lateinischen "_criticus_".  Die Römer haben es, wie so oft, von den Griechen und heisst es: "_κριτικός_" (kritikos) und bedeutet: "**fähig zur Unterscheidung**" oder "**urteilsfähig**". Es ist verwand mit _κρίσις_ (crisis) und abgeleitet vom Verb "_krinein_", was soviel heisst wie: "unterscheiden", "auswählen", "entscheiden", "aussieben".
+</details>
+
+## Kritisches Denken als Metakognition
+
+Metakognition? Meta wie bitte? Das klingt jetzt sehr schick und akademisch, ist aber ganz einfach das Denken über das Denken. Die Philosphen nennen das "die Metaebene einnehmen" und da wir über Kongnition reden eben Meta-kognition.  
+Wir sollten uns einfach öfter fragen, wann wir gut denken und wann wir in die Irre gehen und warum.
+
+Einer der weisesten alten Philosophen (schon wieder ein Grieche) hat es vorgemacht mit seinen Dialogen, die sein Schüler Platon aufgeschrieben hat.
+
+<Admonition type="note" icon="💬" title="Zitat">
+
+  „**Ich weiß, dass ich nichts weiß**“  
+  wörtlich: „Denn von mir selbst wusste ich, dass ich gar nichts weiß ...“ 
+
+  <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p> 
+</Admonition>
+
 
 ## Fähigkeiten und Einstellungen des Kritschen Denkens
 

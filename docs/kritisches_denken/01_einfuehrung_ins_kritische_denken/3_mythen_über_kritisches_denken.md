@@ -14,7 +14,7 @@ last_update:
 # image:
 ---
 
-Es gibt einige hartnäckige Missverständnisse über kritisches Denken, die es zu klären gilt:
+Es gibt einige hartnäckige Missverständnisse über kritisches Denken, die wir vorab noch klären sollten.
 
 ## Mythos 1: Kritisches Denken bedeutet, alles zu kritisieren
 

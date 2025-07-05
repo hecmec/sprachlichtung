@@ -17,18 +17,26 @@ last_update:
 # image:
 ---
 
-Das kritische Denken vereinigt die Kampfkünste des Geistes. Wie im Aikido, Judo oder Karate hilft es uns Angriffen auszuweichen, die umzulenken und eventuell den Gegner zu immobilisieren.
+Das kritische Denken vereinigt die Kampfkünste des Geistes mit dem Zusammenspiel wie wir es im Tanz oder in Teamsportarten finden.
+
+:::info Bivalenz
+<p class="text--center">**Entgegen wirken (Antagonismus)** und **zusammen wirken (Synergie)**</p> 
+:::
+
+Wie im Aikido oder Judo hilft es uns, **Angriffen auszuweichen**, sie umzulenken oder zu blockieren (Antagonie).
+Wie im Tanz oder im Gruppensport finden wir kooperative Elemente (Synergie).
 
 ## In der Informationsflut navigieren
 
-In unserer hypervernetzten Welt sind wir täglich einer Flut von Informationen ausgesetzt. Im Internet und anderen Medien finden wir zum Teil korrekte und verifizierte Informationen, aber auch viel:
+In unserer über-vernetzten Welt sind wir täglich einer Flut von Informationen ausgesetzt.
+Im Internet und anderen Medien finden wir zum Teil korrekte und verifizierte Informationen, aber auch viel:
 
 - **"Fake News"** und gezielte Desinformation
 - **Propaganda** und Meinungsmanipulation
 - Irreführende **Werbung**
 - Unbeabsichtigte **Fehler** und Missverständnisse
 
-Algorithmen entscheiden zudem oft für uns, welche Informationen wir sehen: Suchmaschinen wählen, welche Ergebnisse uns zuerst angezeigt werden, während soziale Medien uns Inhalte auf Basis unserer vorherigen Interaktionen empfehlen. Dies kann zu sogenannten "Filterblasen" führen, in denen wir nur noch Informationen erhalten, die unsere bestehenden Ansichten bestätigen.
+**Algorithmen** entscheiden zudem oft für uns, welche Informationen wir sehen: **Suchmaschinen** wählen, welche Ergebnisse uns zuerst angezeigt werden, während soziale Medien uns Inhalte auf Basis unserer vorherigen Interaktionen empfehlen. Dies kann zu sogenannten "**Filterblasen**" führen, in denen wir nur noch Informationen erhalten, die unsere bestehenden Ansichten bestätigen.
 
 Kritisches Denken hilft uns, in dieser komplexen Informationslandschaft zu navigieren, indem es uns befähigt:
 
