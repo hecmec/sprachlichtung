@@ -1,5 +1,7 @@
-# Dependencies
+# compiled output
 /node_modules
+package-lock.json
+yarn.lock
 
 # Production
 /build
@@ -7,6 +9,13 @@
 # Generated files
 .docusaurus
 .cache-loader
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # Misc
 .DS_Store
