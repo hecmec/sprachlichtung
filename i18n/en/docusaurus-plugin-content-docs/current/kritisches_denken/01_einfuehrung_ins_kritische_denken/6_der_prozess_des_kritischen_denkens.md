@@ -10,13 +10,13 @@ keywords:
   - Analyse
   - Reflexion
 last_update:
-  date: 2025-05-20
+  date: 2025-07-11
   author: Immanuel Lupinus
 # slug: 
 # image: 
 ---
 
-
+// TODO: Sehr ausbaufähig
 Kritisches Denken ist ein systematischer Prozess, der folgende Schritte umfassen kann:
 
 ## 1. **Erkennen und Klären des Problems oder der Frage**

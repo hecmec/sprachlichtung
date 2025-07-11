@@ -10,11 +10,15 @@ keywords:
     - Reflexion
 last_update:
   date: 2025-07-11
+  time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
 
 # slug:
 # tags: [test1, test2]
+# https://nairaquest.com/de/topics/10452-14-great-philosophical-dilemmas-and-their-possible-solution
+# https://de.wikipedia.org/wiki/Dilemma
+# https://de.wikipedia.org/wiki/Liste_von_Paradoxa
 
 ---
 
@@ -22,7 +26,7 @@ image: /static/img/kompass.svg
 
 ## Was ist Kritisches Denken ?
 
-Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mitmenschen und von Firmen, die dir sagen wollen, was gut für dich ist.  
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mitmenschen, Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
 
 **Kritisches Denken hilft dir dabei**.
 &nbsp;
@@ -33,17 +37,24 @@ Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen: von  Mi
  &mdash; Immanuel Kant: *Was ist Aufklärung*[^1]
 :::
 
-[^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")
+[^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
+**Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. **Sapere aude!** Habe Muth dich deines **eigenen** Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung. 
 
 &nbsp;
 Kritisches Denken hat zwei Hemisphären.
 
+<p class="text--center crit-think">  
 ```mermaid
+---
+config:
+  theme: 'base'
+---
 flowchart TD
     C{Kritisches Denken}
     C --> D[Richtig]
     C --> E[Kritisch]
 ```
+</p>
 
 &nbsp;
 
@@ -134,16 +145,29 @@ Bekannte Bespiele für kognitive Verzerrungen sind:
 - **Selbstüberbewertung**: Wir sind oft zu optimistisch über unsere Fähigkeiten und Leistungen.
 
 Auch hier gibt es duzende Beispiele: lustige, überraschende, besorgniserregende und beinahe gefährliche, die wir später im Detail besprechen werden. 
-Wir sehen als Menschen dabei so dumm und bemitleidenswert aus, dass wir uns fragen: wieso learnen wir das nicht in der Schule?  
+Wir sehen als Menschen dabei so dumm und bemitleidenswert aus, dass wir uns fragen: wieso lernen wir das nicht in der Schule?
 
 ### Paradoxien und Dilemmas
 
-Als letztes Thema möchten wir uns mit Paradoxien und Dilemmas erkennen und richtig reagieren
+Was richtiges Denken von fehlerhaftem Denken unterscheidet, kann man gut in Extremsituationen erkennen.  
+Da, wo unser Denken an den Rand des Denkbaren gerät: an den Steilhängen der Paradoxien und Dilemmas, da wo die Widersprüche hausen.  
+Da finden wir uns nicht mehr zurecht und  sind ratlos. Da müssen wir überlegen, ob wir unsere üblichen Denkweisen anwenden können, oder ob wir neue Denkweisen entwickeln müssen, um die Situation zu meistern.  
+Typische Beispiele für Paradoxien und Dilemmas sind:
+
+- **Paradoxien des Unendlichen**: das unendlich kleine und das unendlich große. Es gibt mächtigere Unendlichkeiten als die unendliche Menge der natürlichen Zahlen.
+- **Zenonsche Paradoxien** der Bewegung (Achilles und die Schildkröte): Wenn Achilles schneller läuft als eine Schildkröte, wie kann er sie jemals einholen, wenn sie einen Vorsprung hat?
+- **Paradoxon von Theseus**: Wenn man alle Planken eines alten Schiffes wechselt, ist es noch dasselbe Schiff?
+- **Paradoxon des Epimenides**: Epimenides der Kreter sagt, dass alle Kreter lügen. Lügt er? 
+- **Paradoxon von Russell**: Die Menge M aller Mengen, die sich nicht selbst enthalten. Enthält M sich selbst oder nicht?
+- **Das Theodizee-Problem**: Warum gibt es so viel Leid in der Welt, wenn es einen allmächtigen, allwissenden und allgütigen Gott gibt?
+- **Trolley-Problem**: Wenn du eine Schiene umlenkst, stirbt eine Person. Wenn du nichts tust, stirbt eine andere. Was tust du?
+- **Das Dilemma der Meinungsfreiheit**: Wenn es absolute Meinungsfreiheit gibt, müssen wir dann Intoleranz tolerieren und in kauf nehmen, dass man uns der Meinungsfreiheit beraubt?
 
 
 ## Wie denkst du kritisch?
 
-- Das heisst ja nicht umsonst "Kritisches Denken". "Kritisch" ist hier eine unabdingbare Einstellung zu sich selbst, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
+Jetzt kommen wir zum kritischen Teil. "Kritisch" ist hier eine unabdingbare Einstellung zu sich selbst, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
+
 - Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht. Da würden wir schlicht verrückt werden.
 - Etablierte Theorien oder in meiner Kultur verwurzelte Werte sollte man nur in Frage stellen, wenn sich **Widersprüche** mit meinem Leben oder meiner Forschung auftun. Widersprüche sind das Treibmittel des Fortschritts.
 

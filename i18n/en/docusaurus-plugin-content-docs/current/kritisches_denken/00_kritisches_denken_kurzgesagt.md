@@ -9,7 +9,7 @@ keywords:
     - argumentation
     - reflection
 last_update:
-  date: 2025-07-10
+  date: 2025-07-11
   author: Immanuel Lupinus
 image: /static/img/compass.svg
 
@@ -126,15 +126,37 @@ There is a whole zoo of known fallacies. We will discuss the most important ones
 
 ### Cognitive Biases (Biases)
 
-- Not being deceived by cognitive biases
+Not only fallacies but also cognitive biases stand in the way of our rationality. These biases are often deeply rooted in our brains and can blind us to reality.  
+Examples of well-known cognitive biases include:
+
+- **Confirmation Bias**: We only seek information that confirms our opinion.  
+- **Anchoring Effect**: Our opinion is influenced by the first impression.  
+- **Halo Effect**: A good overall impression leads to positive judgments in all areas.  
+- **Overconfidence**: We are often overly optimistic about our abilities and achievements.  
+
+There are dozens of examples here: funny, surprising, worrying, and almost dangerous ones, which we will discuss in detail later.
+As humans, we often appear so foolish and pitiful that we wonder: why don't we learn this in school?
 
 ### Paradoxes and Dilemmas
 
-- Recognize paradoxes and dilemmas and react appropriately
+What distinguishes correct thinking from faulty thinking can often be recognized in extreme situations.  
+Where our thinking reaches the edge of what is conceivable: on the steep slopes of paradoxes and dilemmas, where contradictions reside.  
+There, we no longer find our way and are at a loss. We must consider whether we can apply our usual ways of thinking or whether we need to develop new ways of thinking to master the situation.  
+Typical examples of paradoxes and dilemmas include:
+
+- **Paradoxes of Infinity**: the infinitely small and the infinitely large. There are more powerful infinities than the infinite set of natural numbers.  
+- **Zeno's Paradoxes** of motion (Achilles and the tortoise): If Achilles runs faster than a tortoise, how can he ever catch up if it has a head start?  
+- **Paradox of Theseus**: If all the planks of an old ship are replaced, is it still the same ship?  
+- **Epimenides' Paradox**: Epimenides the Cretan says that all Cretans are liars. Is he lying?  
+- **Russell's Paradox**: The set M of all sets that do not contain themselves. Does M contain itself or not?  
+- **The Problem of Theodicy**: Why is there so much suffering in the world if there is an omnipotent, omniscient, and all-good God?  
+- **Trolley Problem**: If you divert a track, one person dies. If you do nothing, another person dies. What do you do?  
+- **The Freedom of Speech Dilemma**: If there is absolute freedom of speech, must we tolerate intolerance and accept that we are deprived of freedom of speech?
+
 
 ## How Do You Think Critically?
 
-- That's why it's called "Critical Thinking". "Critical" here is an indispensable attitude towards oneself, towards any kind of claim, hypothesis, theory, towards sources of all kinds, towards science and culture, and even towards values.
+- Now we come to the critical part. "Critical" here is an indispensable attitude towards oneself, towards any kind of claim, hypothesis, theory, towards sources of all kinds, towards science and culture, and even towards values.
 - This does not mean that we should always question everything everywhere. Oh no, please don't. We would simply go crazy.
 - Established theories or values rooted in my culture should only be questioned when **contradictions** arise in my life or research. Contradictions are the driving force of progress.
 
