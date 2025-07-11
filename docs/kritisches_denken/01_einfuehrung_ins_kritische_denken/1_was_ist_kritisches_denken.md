@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-05-20
+  date: 2025-07-11
   author: Immanuel Lupinus
 # slug: 
 # image: 
@@ -74,7 +74,7 @@ Zu den kognitiven Fähigkeiten gehören:
 5. **Erklärung**: Die Fähigkeit, die eigenen Überlegungen, Argumente und Schlussfolgerungen klar und nachvollziehbar darzustellen und zu begründen.
 6. **Selbstregulation**: Die Fähigkeit, das eigene Denken zu überwachen, Fehler zu erkennen und den Denkprozess bei Bedarf zu korrigieren.
 
-![Facione, Fähigkeiten des kritischen Denkens](crit_think_skills_facione.png)
+![Facione, Fähigkeiten des kritischen Denkens](../img/crit_think_skills_facione.png)
 
 
 ## Einstellungen (affektive Seite)

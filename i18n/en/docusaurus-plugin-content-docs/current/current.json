@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "_t_Next",
+    "message": "Next",
     "description": "The label for version current"
   },
   "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken": {
@@ -8,7 +8,7 @@
     "description": "The label for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken.link.generated-index.description": {
-    "message": "Everything you need to know about critical thinking.",
+    "message": "Everything you need to know about Critical Thinking.",
     "description": "The generated-index page description for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Grundlagen der Logik": {
@@ -16,11 +16,11 @@
     "description": "The label for category Grundlagen der Logik in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Grundlagen der Logik.link.generated-index.description": {
-    "message": "_t_Alles was du wissen musst über Kritisches Denken.",
+    "message": "Everything you need to know about Critical Thinking.",
     "description": "The generated-index page description for category Grundlagen der Logik in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?": {
-    "message": "What is a good argument?",
+    "message": "What is a Good Argument?",
     "description": "The label for category Was ist ein gutes Argument? in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?.link.generated-index.description": {
@@ -104,7 +104,7 @@
     "description": "The label for category Sprachspiele🤟 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Sprachspiele🤟.link.generated-index.description": {
-    "message": "Everything you need to know about critical thinking.",
+    "message": "Everything you need to know about Critical Thinking.",
     "description": "The generated-index page description for category Sprachspiele🤟 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲": {
@@ -148,35 +148,35 @@
     "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Sprachspiele 🤟": {
-    "message": "_t_Sprachspiele 🤟",
+    "message": "Language Games 🤟",
     "description": "The label for category Sprachspiele 🤟 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Sprachspiele 🤟.link.generated-index.description": {
-    "message": "_t_Alles was du wissen musst über Kritisches Denken.",
+    "message": "Everything you need to know about critical thinking.",
     "description": "The generated-index page description for category Sprachspiele 🤟 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Künstliche Welten 🤖": {
-    "message": "_t_Künstliche Welten 🤖",
+    "message": "Artificial Worlds 🤖",
     "description": "The label for category Künstliche Welten 🤖 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Künstliche Welten 🤖.link.generated-index.description": {
-    "message": "_t_KI (Künstliche Intelligenz), LLMs, Deep Learning, Automaten und so weiter.",
+    "message": "AI (Artificial Intelligence), LLMs, Deep Learning, automata, and so on.",
     "description": "The generated-index page description for category Künstliche Welten 🤖 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Umwelt 🌱": {
-    "message": "_t_Umwelt 🌱",
+    "message": "Environment 🌱",
     "description": "The label for category Umwelt 🌱 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Umwelt 🌱.link.generated-index.description": {
-    "message": "_t_Umwelt, Nachhaltigkeit, Ökologie und so weiter.",
+    "message": "Environment, sustainability, ecology, and so on.",
     "description": "The generated-index page description for category Umwelt 🌱 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍": {
-    "message": "_t_Energie und Ressourcen 🌍",
+    "message": "Energy and Resources 🌍",
     "description": "The label for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍.link.generated-index.description": {
-    "message": "_t_Energie, Ressourcen, Nachhaltigkeit und so weiter.",
+    "message": "Energy, resources, sustainability, and so on.",
     "description": "The generated-index page description for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
   }
 }

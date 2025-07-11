@@ -9,7 +9,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-06-22
+  date: 2025-07-11
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
 
@@ -18,7 +18,6 @@ image: /static/img/kompass.svg
 
 ---
 
-<!-- TODO: hier kommt eine Zusammenfassung für das gesammte Kapitel mit Querverweisen -->
  Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
 
 ## Was ist Kritisches Denken ?
@@ -101,12 +100,12 @@ Eine der wichtigsten Fähigkeit die wir lernen oder beherrschen sollten ist die,
 Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Textquellen, Erzählungen, eigene Erfahrungen oder die Anderer.
 Die Qualität unserer Quellen ist dabei sehr unterschiedlich.
 Hier ein paar Beispiele: 
-- "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('./tiktok.png').default} alt="tiktok ads" height="30"  />
+- "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('./img/tiktok.png').default} alt="tiktok ads" height="30"  />
 <!-- ![alt text](tiktok.png) -->
-- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('./marlboro.png').default} alt="marlboro" height="30"  />
+- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('./img/marlboro.png').default} alt="marlboro" height="30"  />
   <!-- ![malborough|50px](marlboro.png)  -->
-- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('./wikipedia.png').default} alt="wikipedia" height="30"  />
-- "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('./ipcc.png').default} alt="ipcc" height="30"  />
+- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('./img/wikipedia.png').default} alt="wikipedia" height="30"  />
+- "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('./img/ipcc.png').default} alt="ipcc" height="30"  />
 
 Ich lasse Dich entscheiden, wem Du lieber vertraust.
 
@@ -126,11 +125,20 @@ Es gibt einen ganzen Zoo von bekannten Fehlschlüssen. Wir werden die wichtigste
 
 ### Kognitive Verzerrungen (Biases)
 
-- Sich nicht von kognitive Verzerrungen täuschen lassen
+Nicht nur Fehlschlüsse, sondern auch kognitive Verzerrungen, stehen unserer Rationalität auf den Füßen. Diese Verzerrungen (Biases) sind oft tief in unserem Gehirn verankert und können uns blind für die Realität machen.
+Bekannte Bespiele für kognitive Verzerrungen sind:
+
+- **Konfirmationsbias**: Wir suchen nur nach Informationen, die unsere Meinung bestätigen.
+- **Anker-Effekt**: Unsere Meinung wird durch den ersten Eindruck beeinflusst.
+- **Halo-Effekt**: Ein gutes Gesamtbild führt zu positiven Urteilen in allen Bereichen.
+- **Selbstüberbewertung**: Wir sind oft zu optimistisch über unsere Fähigkeiten und Leistungen.
+
+Auch hier gibt es duzende Beispiele: lustige, überraschende, besorgniserregende und beinahe gefährliche, die wir später im Detail besprechen werden. 
+Wir sehen als Menschen dabei so dumm und bemitleidenswert aus, dass wir uns fragen: wieso learnen wir das nicht in der Schule?  
 
 ### Paradoxien und Dilemmas
 
-- Paradoxien und Dilemmas erkennen und richtig reagieren
+Als letztes Thema möchten wir uns mit Paradoxien und Dilemmas erkennen und richtig reagieren
 
 
 ## Wie denkst du kritisch?
@@ -183,7 +191,12 @@ Ist das schlimm? Nein. Wir müssen einfach offen sein für **Fehlersuche**, kons
 
 ### Zurückhaltung meines Urteils
 
+Im kritischen Denken ist die **Zurückhaltung des Urteils** ein zentraler Punkt.  
+Schon in der Antike ist die Zurückhaltung des Urteils, als Epoché bezeichnet, ein wichtiger Punkt in der Philosophie und wurde von Philosophen wie Pyrrhon und Sextus Empiricus verwendet.  
+Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des **Nicht-Anhaftens** (Non-Attachment) verkörpert. Es bedeutet, sich nicht an festen Meinungen oder Überzeugungen festzuhalten.
 
+- **Offenheit für neue Informationen**: Zurückhaltung des Urteils ermöglicht es, neue Informationen und Perspektiven zu berücksichtigen, ohne voreilige Schlüsse zu ziehen.
+- **Vermeidung von Voreingenommenheit**: Durch das Zurückhalten des Urteils kann man vermeiden, dass vorgefasste Meinungen und Vorurteile die Analyse beeinflussen.
+- **Gründliche Analyse**: Es erlaubt uns eine gründlichere und objektivere Analyse der vorliegenden Informationen und Argumente.
+- **Flexibilität im Denken**: Zurückhaltung des Urteils fördert die Flexibilität im Denken und ermöglicht es, verschiedene Sichtweisen zu berücksichtigen.
 
-- Einige Beobachtungen der wirklichen Welt
-- Wir kennen und hinterfagen unsere eigenen (expliziten und impliziten) Prämissen

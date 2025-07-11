@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
+last_update:
+  date: 2025-07-11
+  author: Immanuel Lupinus
 ---
+
 
 # Translate your site
 
@@ -86,3 +90,4 @@ Or build your site to include all the locales at once:
 ```bash
 npm run build
 ```
+xx
