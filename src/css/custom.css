@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: hsl(327, 49%, 35%);
+  --ifm-color-primary: hsl(315, 72%, 27%);
   --ifm-color-primary-dark: hsl(327, 49%, 32%);
   --ifm-color-primary-darker: hsl(327, 49%, 30%);
   --ifm-color-primary-darkest: hsl(327, 49%, 25%);
@@ -18,8 +18,8 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: hsl(288, 68%, 45%);
+[data-theme="dark"] {
+  --ifm-color-primary: hsl(315, 69%, 27%);
   --ifm-color-primary-dark: hsl(288, 68%, 41%);
   --ifm-color-primary-darker: hsl(288, 68%, 38%);
   --ifm-color-primary-darkest: hsl(288, 68%, 32%);
@@ -42,4 +42,3 @@
   --ifm-h1-font-size: 2.5rem;
   font-size: var(--ifm-h1-font-size);
 }
-
