@@ -1,3 +1,6 @@
+https://www.fun-mooc.fr/fr/cours/developper-sa-pensee-critique/
+
+
 Pensée critique - Introduction : 00 (Module 1, Pensée critique et politique)
 Pensée critique - Former son propre jugement : 01 (Module 2, Pensée critique et politique)
 Pensée critique - L'argument d'autorité : 02
