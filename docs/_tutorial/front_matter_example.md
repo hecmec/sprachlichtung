@@ -16,8 +16,8 @@ tags: [docusaurus]
 image: https://i.imgur.com/mErPwqL.png
 slug: /myDoc
 last_update:
-  date: 1/1/2000
-  author: custom author name
+  date: 2025-07-17
+  author: Immanuel Lupinus
 
 ---
 
