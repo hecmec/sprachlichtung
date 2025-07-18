@@ -12,13 +12,18 @@ image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
   date: 2025-07-17
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
 import ReactPlayer from 'react-player';
 
 <ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=2tElPB_d9g0' />
+
+&nbsp;
+
+Cette page présente une **introduction au cours en ligne** sur la pensée critique, intitulé **« Développer sa pensée critique »**, proposé par Guy Haarscher à l'Université libre de Bruxelles (ULB).
+
+Nous presentons ici le cours en ligne avec un résumé du contenu et les vidéos pour tout les modules.
 
 ## 🧠 Définition de la pensée critique
 
@@ -30,7 +35,7 @@ Elle est **inséparable de la pensée** elle-même.
 Il faut distinguer entre les faits dans le monde et nos valeurs:
 
 - **Faits** : phénomènes observables (ex. une pierre tombe, une guerre éclate). On les décrit, on les explique.
-L’approche critique impose rigueur, logique et vérification.
+  L’approche critique impose rigueur, logique et vérification.
 - **Valeurs** : préférences, orientations de vie, morale. Ici, la pensée critique cherche comment _bien vivre_, ce qui relève de la **philosophie**.
 
 ## 🧭 Exemple historique : Galilée et Copernic
@@ -47,7 +52,7 @@ Cela illustre l’esprit critique : **comparer plusieurs théories et choisir la
 ## 📖 Pensée critique, libre pensée et libre examen
 
 Des expressions comme **"libre pensée"** ou **"libre examen"** montrent que penser suppose **liberté face aux dogmes**.
-Exemple opposé : **Ignace de Loyola** (XVIe siècle) recommandait de croire que le noir est blanc si l’Église le dit. 
+Exemple opposé : **Ignace de Loyola** (XVIe siècle) recommandait de croire que le noir est blanc si l’Église le dit.
 C’est **le refus du sens critique**.
 
 ## 🛠️ Exercer sa pensée critique
@@ -73,7 +78,6 @@ Ils viennent de deux sources :
 - **Extérieurs** : autorité, dogmes, institutions.
 - **Intérieurs** : préjugés, émotions, paresse intellectuelle.
   Il faut apprendre à **se critiquer soi-même**, identifier ses propres biais.
-
 
 ## 🎓 Conclusion
 
