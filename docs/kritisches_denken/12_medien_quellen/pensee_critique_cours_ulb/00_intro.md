@@ -1,16 +1,16 @@
 ---
-id: doc-markdown
-title: "Résumé: Développer sa pensée critique - Introduction : 00 (Module 1)"
-
+id: pc-module-1-intro
+title: "Développer sa pensée critique - Introduction au cours"
+sidebar_label: "Introduction au cours"
 sidebar_position: 1
-description: Une introduction dans la problématique de la pensée critique
+description: "Résumé: Introduction dans la problématique de la pensée critique &mdash Mooc ULB 2016, Guy Haarscher"
 # keywords:
 #   - docs
 #   - docusaurus
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
-  date: 2025-07-17
+  date: 2025-07-20
   author: Immanuel Lupinus
 ---
 
@@ -23,7 +23,7 @@ import ReactPlayer from 'react-player';
 
 Cette page présente une **introduction au cours en ligne** sur la pensée critique, intitulé **« Développer sa pensée critique »**, proposé par Guy Haarscher à l'Université libre de Bruxelles (ULB).
 
-Nous presentons ici le cours en ligne avec un résumé du contenu et les vidéos pour tout les modules.
+Nous présentons ici le cours en ligne avec un résumé du contenu et les vidéos pour tout les modules.
 
 ## 🧠 Définition de la pensée critique
 

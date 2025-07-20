@@ -1,18 +1,39 @@
-Voici un résumé structuré de la vidéo **« Former son propre jugement » (Mooc ULB 2016, Guy Haarscher)** en **moins de 500 mots**.
+---
+id: pc-module-2-former-son-propre-jugement
+title: "Former son propre jugement"
+sidebar_label: "Le Jugement"
+sidebar_position: 1
+description: "Résumé: Former son propre jugement &mdash Mooc ULB 2016, Guy Haarscher"
 
-https://www.youtube.com/watch?v=8Su4P0pVZHU
+keywords:
+  - ULB
+  - pensée critique
+  - guy Haarscher
+  - jugement
+# tags: [docusaurus]
+image: ../img/ulb_pc_developper_sa_pc_intro.png
+last_update:
+  date: 2025-07-17
+  author: Immanuel Lupinus
 
 ---
+
+import React from 'react';
+import ReactPlayer from 'react-player';
+
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=8Su4P0pVZHU' />
+
+&nbsp;
 
 ## 🎯 Objectif central : Former son propre jugement
 
 La pensée critique ne consiste pas uniquement à contester ou à douter. Elle repose avant tout sur **la capacité à former son propre jugement**, c’est-à-dire à évaluer les faits et à prendre des décisions éclairées, dans un monde complexe et changeant.
 
----
 
 ## 🧠 Le jugement : une notion élargie
 
 ### Jugement judiciaire (exemple initial)
+
 
 - Dans un procès, le juge **établit les faits** (souvent difficiles à déterminer) et **applique une loi**.
 - Il prend une décision selon des critères préétablis, mais cela demande une grande compétence pour comprendre une réalité souvent masquée ou floue.
@@ -25,8 +46,6 @@ La pensée critique ne consiste pas uniquement à contester ou à douter. Elle r
   - Distinguer les faits, même s’ils nous dérangent.
   - Adapter notre réaction aux circonstances uniques de chaque situation.
   - Ne pas appliquer mécaniquement des règles générales.
-
----
 
 ## 📊 Faits vs Valeurs
 
@@ -41,23 +60,17 @@ La pensée critique ne consiste pas uniquement à contester ou à douter. Elle r
 - Elles orientent nos actions, nos choix de vie, nos projets collectifs.
 - La pensée critique est ici tout aussi nécessaire pour **analyser, discuter et choisir ces orientations** avec lucidité.
 
----
-
 ## 🏛️ Pensée critique et démocratie
 
 - Une société démocratique repose sur des citoyens capables de **jugement autonome**.
 - L’absence de jugement mène à des erreurs collectives, des manipulations (par les démagogues), ou à l’échec personnel.
 - Le jugement critique est essentiel pour **faire les bons choix individuels et collectifs**.
 
----
-
 ## ⚠️ Danger du relativisme
 
 - Il est erroné de penser que « chacun a ses opinions, donc tout se vaut ».
 - Ce relativisme mène à l’impossibilité de délibérer collectivement et à une **loi du plus fort**.
 - La pensée critique vise au contraire à **fonder rationnellement nos choix** pour vivre ensemble, dans une société qui débat et construit des orientations communes.
-
----
 
 ## ✅ Conclusion
 

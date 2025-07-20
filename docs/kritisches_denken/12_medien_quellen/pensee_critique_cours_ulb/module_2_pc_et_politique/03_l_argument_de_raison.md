@@ -1,15 +1,35 @@
-https://www.youtube.com/watch?v=0fatww7l2zY
+---
+id: pc-module-2-argument_de_raison
+title: "L'argument de raison (Module 2)"
+sidebar_label: "Argument de raison"
+sidebar_position: 3
+description: "Résumé: L’argument de raison &mdash Mooc ULB 2016, Guy Haarscher"
 
-Voici un résumé structuré de la vidéo **« Pensée critique – L’argument de raison » (03)** par Guy Haarscher, Université Libre de Bruxelles (ULB), en moins de 500 mots :
+keywords:
+  - ULB
+  - pensée critique
+  - Argument de raison
+  - Rationalité
+  - Guy Haarscher
+# tags: [docusaurus]
+image: ../img/ulb_pc_developper_sa_pc_intro.png
+last_update:
+  date: 2025-07-20
+  author: Immanuel Lupinus
 
 ---
+import React from 'react';
+import ReactPlayer from 'react-player';
+
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=0fatww7l2zY' />
+
+&nbsp;
 
 ## 💡 Introduction : L’argument de raison vs. l’argument d’autorité
 
 Contrairement à l’**argument d’autorité**, qui impose une vision en se basant sur une position ou un texte sacré, **l’argument de raison** repose sur le dialogue et la construction rationnelle d’un consensus.
 Il ne suppose **aucune supériorité** : chacun peut avancer des thèses, proposer des justifications et convaincre par des **raisons discutables**.
 
----
 
 ## 🧠 Le rôle de la raison dans le débat
 
@@ -17,7 +37,6 @@ Il ne suppose **aucune supériorité** : chacun peut avancer des thèses, propos
 - **Contexte d’application** : réflexion personnelle, discussion en petit groupe, débat démocratique ou argumentation à portée universelle (ex. : défense des droits humains).
 - L’enjeu est de parvenir à un **consensus rationnel**, non imposé.
 
----
 
 ## 🔍 Difficultés liées à l’établissement des faits
 
@@ -26,9 +45,9 @@ Il ne suppose **aucune supériorité** : chacun peut avancer des thèses, propos
 - Certains faits semblent simples (ex. : « ce mur est blanc »), mais ils sont l’exception.
 - La plupart des faits sont :
 
-  - **éloignés** (géographiquement ou historiquement),
-  - **complexes** (ex. : faits scientifiques, économiques...),
-  - **filtrés** par des médiations (journalisme, témoignages, Internet...).
+    - **éloignés** (géographiquement ou historiquement),
+    - **complexes** (ex. : faits scientifiques, économiques...),
+    - **filtrés** par des médiations (journalisme, témoignages, Internet...).
 
 ### 2. **Le biais de confirmation**
 
@@ -41,7 +60,6 @@ Il ne suppose **aucune supériorité** : chacun peut avancer des thèses, propos
 - Lorsqu’un fait est trop complexe, nous **dépendons d’experts** (scientifiques, techniciens).
 - Cela implique un **équilibre** entre pensée critique et confiance raisonnée.
 
----
 
 ## ⚖️ Difficultés liées aux valeurs
 
@@ -55,7 +73,6 @@ Il ne suppose **aucune supériorité** : chacun peut avancer des thèses, propos
 - Accepter un **contre-argument solide** peut impliquer de **renoncer publiquement** à une opinion longtemps défendue.
 - Cela demande une **grande rigueur intellectuelle** : modestie, honnêteté, ouverture.
 
----
 
 ## 🎯 Conclusion : Une exigence de rigueur
 
@@ -66,6 +83,3 @@ Mais raisonner, établir les faits et débattre des valeurs sont des exercices *
 - d’**accepter la complexité du réel**,
 - et de **cultiver une discipline intellectuelle** constante.
 
----
-
-Souhaitez-vous un schéma récapitulatif ou une fiche de révision ?

@@ -10,13 +10,12 @@ keywords:
   - Informationsbewertung
   - Entscheidungsfindung
 last_update:
-  date: 2025-05-20
+  date: 2025-07-18
   author: Immanuel Lupinus
 
 # slug: 
 # image: 
 ---
-
 
 Kritisches Denken ist die Fähigkeit, reflektiert und unabhängig zu denken sowie Informationen systematisch zu analysieren und zu bewerten. Es ist keine angeborene Fähigkeit, sondern kann erlernt und kontinuierlich verbessert werden.
 
