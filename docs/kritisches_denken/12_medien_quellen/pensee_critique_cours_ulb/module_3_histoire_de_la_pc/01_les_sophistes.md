@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-les_sophistes
+id: pc-module-3-les_sophistes
 title: "Les Sophistes"
 sidebar_label: "Les Sophistes"
 sidebar_position: 1
@@ -67,8 +67,6 @@ import ReactPlayer from 'react-player';
 * Cette manipulation des assemblées par les sophistes et démagogues peut mener à des décisions irrationnelles, dangereuses pour la cité.
 * Par exemple, ils peuvent faire passer des arguments contradictoires avec succès, en jouant sur les émotions, le divertissement, ou la confusion de l’auditoire.
 * Cela donne l’illusion que les citoyens prennent des décisions sages, alors qu’ils sont en réalité guidés par des intérêts personnels des orateurs.
-
-
 
 Ce contenu met en lumière l’importance de la pensée critique pour déjouer ces manipulations et assurer une démocratie saine.
 

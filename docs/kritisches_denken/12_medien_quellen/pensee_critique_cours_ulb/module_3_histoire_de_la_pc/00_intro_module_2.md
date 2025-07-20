@@ -23,7 +23,7 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=my_youtube_video_code' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=CZIM-TvvRwc' />
 
 &nbsp;
 

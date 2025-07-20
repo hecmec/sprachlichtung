@@ -1,9 +1,9 @@
 ---
-id: pc-module-2-title
-title: "my_title_full"
-sidebar_label: "my_title_short"
-sidebar_position: 2
-description: "Résumé: my_title &mdash Mooc ULB 2016, Guy Haarscher"
+id: pc-module-3-sola-scriptura
+title: "Sola Scriptura"
+sidebar_label: "Sola Scriptura"
+sidebar_position: 6
+description: "Résumé: Sola Scriptura &mdash Mooc ULB 2016, Guy Haarscher"
 
 keywords:
   - ULB
@@ -22,18 +22,12 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=my_youtube_video_code' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=kCbwnOhJnG8' />
 
 &nbsp;
 
-## Pensée critique - blabla
-
-
-href="https://www.youtube.com/watch?v=kCbwnOhJnG8"
-  Pensée critique - Sola Scriptura - 06 - Module 2
-
-
-Voici un résumé structuré de la vidéo **« Pensée critique - Sola Scriptura » (Mooc ULB, Guy Haarscher)** en **moins de 500 mots**, en **français**, avec **titres** et **points-clés** :
+<!-- href="https://www.youtube.com/watch?v=kCbwnOhJnG8"
+  Pensée critique - Sola Scriptura - 06 - Module 2 -->
 
 ## 🧠 Pensée critique et terminologie
 

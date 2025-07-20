@@ -10,8 +10,9 @@ description: "Résumé: Introduction dans la problématique de la pensée critiq
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
-  date: 2025-07-18
+  date: 2025-07-20
   author: Immanuel Lupinus
+  
 ---
 
 import React from 'react';

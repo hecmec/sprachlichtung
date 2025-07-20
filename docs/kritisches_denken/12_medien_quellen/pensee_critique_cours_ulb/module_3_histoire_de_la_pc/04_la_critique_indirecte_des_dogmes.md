@@ -1,9 +1,9 @@
 ---
-id: pc-module-2-title
-title: "my_title_full"
-sidebar_label: "my_title_short"
-sidebar_position: 2
-description: "Résumé: my_title &mdash Mooc ULB 2016, Guy Haarscher"
+id: pc-module-3-critique-indirecte-des-dogmes
+title: "La critique indirecte des dogmes"
+sidebar_label: "La critique indirecte des dogmes"
+sidebar_position: 4
+description: "Résumé: La critique indirecte des dogmes &mdash Mooc ULB 2016, Guy Haarscher"
 
 keywords:
   - ULB
@@ -22,17 +22,12 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=my_youtube_video_code' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Esy2AD8-AT4' />
 
 &nbsp;
 
-## Pensée critique - blabla
-
-
-href="https://www.youtube.com/watch?v=Esy2AD8-AT4"
-  Pensée critique - La critique indirecte des dogmes - 04 - Module 2
-
-Voici un **résumé structuré** de la vidéo sur **la critique des dogmes** tirée du Mooc *"Développer sa pensée critique"* par Guy Haarscher (ULB), en **moins de 500 mots** :
+<!-- href="https://www.youtube.com/watch?v=Esy2AD8-AT4"
+  Pensée critique - La critique indirecte des dogmes - 04 - Module 2 -->
 
 ## 🧠 La pensée critique face aux dogmes
 
