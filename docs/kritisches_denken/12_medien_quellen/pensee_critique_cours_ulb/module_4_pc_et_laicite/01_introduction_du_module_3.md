@@ -1,15 +1,16 @@
 ---
-id: pc-module-2-title
-title: "my_title_full"
-sidebar_label: "my_title_short"
+id: pc-module-2-intro-module-laicite
+title: "Pensée critique - Introduction du Module Laïcité"
+sidebar_label: "Introduction"
 sidebar_position: 2
-description: "Résumé: my_title &mdash Mooc ULB 2016, Guy Haarscher"
+description: "Résumé: Pensée critique - Introduction du Module Laïcité &mdash Mooc ULB 2016, Guy Haarscher"
 
 keywords:
   - ULB
   - pensée critique
   - Argument
   - Rationalité
+  - Laïcité
   - Guy Haarscher
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
@@ -29,5 +30,6 @@ import ReactPlayer from 'react-player';
 Pas encore de résumé de la vidéo disponible. 😪
 
 <!-- href="https://www.youtube.com/watch?v=eQtJGFZ2Zsc"
-  Pensée critique - Introduction du Module 3 -->
+  Introduction du Module Laïcité
+   -->
 

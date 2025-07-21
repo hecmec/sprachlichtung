@@ -1,8 +1,8 @@
 ---
 id: pc-module-1-intro
-title: "Développer sa pensée critique - Introduction au cours"
-sidebar_label: "Introduction au cours"
-sidebar_position: 1
+title: "Développer sa pensée critique - Introduction"
+sidebar_label: "Introduction"
+sidebar_position: 0
 description: "Résumé: Introduction dans la problématique de la pensée critique &mdash Mooc ULB 2016, Guy Haarscher"
 # keywords:
 #   - docs
