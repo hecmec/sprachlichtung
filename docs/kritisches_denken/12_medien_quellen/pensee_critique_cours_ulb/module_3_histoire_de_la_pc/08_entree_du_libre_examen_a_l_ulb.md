@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-libre_examen_ulb
+id: pc-module-2-libre_examen_ulb
 title: "Entrée du libre examen à l'ULB"
 sidebar_label: "Entrée du libre examen à l'ULB"
 sidebar_position: 8

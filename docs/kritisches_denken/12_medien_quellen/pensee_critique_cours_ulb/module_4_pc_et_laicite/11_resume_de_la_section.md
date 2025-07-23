@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-resume-section-laicite-biologie
+id: pc-module-3-resume-section-laicite-biologie
 title: "Pensée critique - Résumé de la section: Laïcité et biologie"
 sidebar_label: "Laïcité et biologie"
 sidebar_position: 11

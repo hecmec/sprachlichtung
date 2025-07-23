@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-blaspheme-et-des-propos-racistes
+id: pc-module-4-blaspheme-et-des-propos-racistes
 title: "Pensée critique - La confusion du blasphème et des propos racistes"
 sidebar_label: "La confusion du blasphème et des propos racistes"
 sidebar_position: 7

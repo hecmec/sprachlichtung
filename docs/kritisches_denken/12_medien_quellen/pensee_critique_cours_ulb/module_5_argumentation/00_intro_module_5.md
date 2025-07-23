@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-introduction-du-module-argumentation
+id: pc-module-4-introduction-du-module-argumentation
 title: "Pensée critique - Introduction du Module Argumentation"
 sidebar_label: "Introduction du Module Argumentation"
 sidebar_position: 0

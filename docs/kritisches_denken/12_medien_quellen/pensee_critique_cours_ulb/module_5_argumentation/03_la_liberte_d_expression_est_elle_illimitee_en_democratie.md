@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-liberte-d-expression-limites
+id: pc-module-4-la-liberte-d-expression-limites
 title: "Pensée critique - La Liberté d'expression est-elle illimitée en démocratie ?"
 sidebar_label: "Limites de la Liberté d'expression"
 sidebar_position: 3

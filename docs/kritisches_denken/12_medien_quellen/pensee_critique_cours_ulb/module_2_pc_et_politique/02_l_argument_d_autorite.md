@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-argument_d_authorite
+id: pc-module-1-argument_d_authorite
 title: "L’argument d’autorité (Module 2)"
 sidebar_label: "Argument d’autorité"
 sidebar_position: 2

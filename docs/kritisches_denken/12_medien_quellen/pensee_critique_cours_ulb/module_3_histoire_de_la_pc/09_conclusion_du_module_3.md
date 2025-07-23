@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-conclusion-du-module-histoire-de-la-pc
+id: pc-module-2-conclusion-du-module-histoire-de-la-pc
 title: "Conclusion du Module 'Histoire de la pensée critique'"
 sidebar_label: "Conclusion"
 sidebar_position: 9

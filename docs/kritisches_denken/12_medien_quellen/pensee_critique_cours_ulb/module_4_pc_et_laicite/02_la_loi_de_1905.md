@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la_loi_de_1905
+id: pc-module-3-la_loi_de_1905
 title: "Pensée critique - La Loi de 1905"
 sidebar_label: "La Loi de 1905"
 sidebar_position: 2

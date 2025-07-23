@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-jeu_de_la_mort
+id: pc-module-1-jeu_de_la_mort
 title: "Le jeu de la mort"
 sidebar_label: "Jeu de la mort"
 sidebar_position: 9

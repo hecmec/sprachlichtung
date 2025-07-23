@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-conclusion-argumentation-liberte-expression
+id: pc-module-4-conclusion-argumentation-liberte-expression
 title: "Conclusion: La pensée critique, l'argumentation et la liberté d'expression"
 sidebar_label: "Conclusion"
 sidebar_position: 8

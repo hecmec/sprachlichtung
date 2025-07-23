@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-cour-europeenne-des-droits-de-l-homme
+id: pc-module-4-la-cour-europeenne-des-droits-de-l-homme
 title: "Pensée critique - La cour européenne des Droits de l'Homme"
 sidebar_label: "La cour européenne des Droits de l'Homme"
 sidebar_position: 5

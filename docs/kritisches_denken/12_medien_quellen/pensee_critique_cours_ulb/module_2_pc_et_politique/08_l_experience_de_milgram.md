@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-expérience_de_milgram
+id: pc-module-1-expérience_de_milgram
 title: "L’expérience de Milgram"
 sidebar_label: "Expérience de Milgram"
 sidebar_position: 8

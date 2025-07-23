@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-l_invocation_de_dieu
+id: pc-module-3-l_invocation_de_dieu
 title: "L'invocation de Dieu par les pouvoirs publics"
 sidebar_label: "Dieu et les pouvoirs publics"
 sidebar_position: 5

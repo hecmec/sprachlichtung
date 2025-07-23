@@ -1,15 +1,18 @@
 ---
-id: pc-module-2-my_title_short
-title: "my_title_full"
-sidebar_label: "my_title_short"
-sidebar_position: 2
-description: "Résumé: my_title_full &mdash Mooc ULB 2016, Guy Haarscher"
+id: pc-module-5-laicite-religion-et-atheisme
+title: "Pensée critique - Laïcité, religion et athéisme"
+sidebar_label: "Laïcité, religion et athéisme"
+sidebar_position: 4
+description: "Résumé: Pensée critique - Laïcité, religion et athéisme &mdash Mooc ULB 2016, Guy Haarscher"
 
 keywords:
   - ULB
   - pensée critique
   - Argument
   - Rationalité
+  - Laïcité
+  - Religion
+  - Athéisme
   - Guy Haarscher
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
@@ -22,7 +25,7 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=_video_id_' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=pa5jtBASnbU' />
 
 &nbsp;
 

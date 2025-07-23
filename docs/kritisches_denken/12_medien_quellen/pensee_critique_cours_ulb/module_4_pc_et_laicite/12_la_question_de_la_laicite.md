@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-question-de-la-laicite
+id: pc-module-3-la-question-de-la-laicite
 title: "Pensée critique - La question de la Laïcité"
 sidebar_label: "La question de la Laïcité"
 sidebar_position: 12

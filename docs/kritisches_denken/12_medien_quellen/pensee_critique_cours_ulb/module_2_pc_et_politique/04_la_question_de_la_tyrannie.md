@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-tyrannie
+id: pc-module-1-tyrannie
 title: "La question de la tyrannie"
 sidebar_label: "Tyrannie"
 sidebar_position: 4

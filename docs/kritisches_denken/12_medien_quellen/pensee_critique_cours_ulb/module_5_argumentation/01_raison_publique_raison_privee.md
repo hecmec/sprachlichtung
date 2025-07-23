@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-raison-publique-raison-privee
+id: pc-module-4-raison-publique-raison-privee
 title: "Pensée critique - Raison publique, Raison privée"
 sidebar_label: "Raison publique, Raison privée"
 sidebar_position: 1

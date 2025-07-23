@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-prejuges_ideologiques
+id: pc-module-1-prejuges_ideologiques
 title: "Le rôle de l'idéologie"
 sidebar_label: "Le rôle de l'idéologie"
 sidebar_position: 11

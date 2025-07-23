@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-victimes_et_bourreaux
+id: pc-module-1-victimes_et_bourreaux
 title: "Victimes et bourreaux interchangeables"
 sidebar_label: "Victimes et bourreaux"
 sidebar_position: 12

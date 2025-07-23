@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-cour-supreme
+id: pc-module-4-la-cour-supreme
 title: "Pensée critique - La cour suprême des États-Unis"
 sidebar_label: "La cour suprême"
 sidebar_position: 6

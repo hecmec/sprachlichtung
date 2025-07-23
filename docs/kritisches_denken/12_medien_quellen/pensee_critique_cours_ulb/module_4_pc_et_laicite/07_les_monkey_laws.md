@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-les_monkey_laws
+id: pc-module-3-les_monkey_laws
 title: "Pensée critique - Les Monkey Laws"
 sidebar_label: "Les Monkey Laws"
 sidebar_position: 7

@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-l-importance-de-la-liberte-d-expression
+id: pc-module-4-l-importance-de-la-liberte-d-expression
 title: "Pensée critique - L'Importance de la Liberté d'expression"
 sidebar_label: "La liberté d'expression"
 sidebar_position: 2

@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-affaire-kitzmiller
+id: pc-module-3-affaire-kitzmiller
 title: "Pensée critique - L'affaire Kitzmiller"
 sidebar_label: "L'affaire Kitzmiller"
 sidebar_position: 10

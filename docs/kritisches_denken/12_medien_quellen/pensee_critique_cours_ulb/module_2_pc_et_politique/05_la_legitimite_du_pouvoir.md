@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-legitimite-du-pouvoir
+id: pc-module-1-legitimite-du-pouvoir
 title: "La légitimité du pouvoir"
 sidebar_label: "Légitimité du pouvoir"
 sidebar_position: 5

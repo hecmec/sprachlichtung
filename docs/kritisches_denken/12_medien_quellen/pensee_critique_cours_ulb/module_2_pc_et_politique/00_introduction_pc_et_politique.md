@@ -17,11 +17,14 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=2tElPB_d9g0' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} 
+controls src='https://www.youtube.com/watch?v=2tElPB_d9g0' />
 
 &nbsp;
 
 Cette page présente une **introduction au cours en ligne** sur la pensée critique, intitulé **« Développer sa pensée critique »**, proposé par Guy Haarscher à l'Université libre de Bruxelles (ULB).
+
+Voici le lien vers la playlist YouTube du cours : [Développer sa pensée critique - ULB](https://www.youtube.com/playlist?list=PLy4aPukvD-MpU1s7Yoi8HRxDafOdBZhZK). 
 
 Nous présentons ici le cours en ligne avec un résumé du contenu et les vidéos pour tout les modules.
 

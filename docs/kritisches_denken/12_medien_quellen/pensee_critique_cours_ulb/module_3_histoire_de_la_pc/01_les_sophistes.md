@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-les_sophistes
+id: pc-module-2-les_sophistes
 title: "Les Sophistes"
 sidebar_label: "Les Sophistes"
 sidebar_position: 1

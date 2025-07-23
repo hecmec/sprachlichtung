@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-critique-directe-des-dogmes
+id: pc-module-2-critique-directe-des-dogmes
 title: "La critique directe des dogmes"
 sidebar_label: "La critique directe des dogmes"
 sidebar_position: 5

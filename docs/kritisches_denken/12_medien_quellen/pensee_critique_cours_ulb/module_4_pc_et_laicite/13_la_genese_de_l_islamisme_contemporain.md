@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-genese-de-l-islamisme-contemporain
+id: pc-module-3-la-genese-de-l-islamisme-contemporain
 title: "Pensée critique - La genèse de l'islamisme contemporain"
 sidebar_label: "Islamisme contemporain"
 sidebar_position: 13

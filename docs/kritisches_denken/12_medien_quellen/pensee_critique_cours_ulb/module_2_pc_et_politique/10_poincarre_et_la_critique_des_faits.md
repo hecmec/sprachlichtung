@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-les_faits
+id: pc-module-1-les_faits
 title: "Poincaré et la critique des faits"
 sidebar_label: "Les faits"
 sidebar_position: 10

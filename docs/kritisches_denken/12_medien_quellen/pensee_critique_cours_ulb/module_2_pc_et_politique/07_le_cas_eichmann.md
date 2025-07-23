@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-le_cas_eichmann
+id: pc-module-1-le_cas_eichmann
 title: "Le cas Eichmann"
 sidebar_label: "Le cas Eichmann"
 sidebar_position: 7

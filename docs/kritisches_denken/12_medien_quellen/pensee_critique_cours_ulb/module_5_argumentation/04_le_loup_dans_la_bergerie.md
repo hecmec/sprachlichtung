@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-le-loup-dans-la-bergerie
+id: pc-module-4-le-loup-dans-la-bergerie
 title: "Pensée critique - Le 'Loup' dans la bergerie"
 sidebar_label: "Le 'Loup' dans la bergerie"
 sidebar_position: 4

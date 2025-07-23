@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-former-son-propre-jugement
+id: pc-module-1-former-son-propre-jugement
 title: "Former son propre jugement"
 sidebar_label: "Le Jugement"
 sidebar_position: 1

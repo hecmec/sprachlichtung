@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-libre_examen
+id: pc-module-2-libre_examen
 title: "L'extension de la notion à la fin du 18e siècle"
 sidebar_label: "L'extension de la notion à la fin du 18e siècle"
 sidebar_position: 7

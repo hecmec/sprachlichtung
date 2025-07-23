@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-reactions-au-nom-de-la-pensee-critique
+id: pc-module-3-reactions-au-nom-de-la-pensee-critique
 title: "Pensée critique - Réactions au nom de la pensée critique"
 sidebar_label: "Réactions au nom de la pensée critique"
 sidebar_position: 14

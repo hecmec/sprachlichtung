@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-my_title_short
+id: pc-module-3-my_title_short
 title: "Pensée critique - Les réactions des fondamentalistes : L'intelligent Design"
 sidebar_label: "L'intelligent Design"
 sidebar_position: 9

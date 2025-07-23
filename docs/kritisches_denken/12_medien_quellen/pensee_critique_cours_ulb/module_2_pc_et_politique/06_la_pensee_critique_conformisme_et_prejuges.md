@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-conformisme-prejuges
+id: pc-module-1-conformisme-prejuges
 title: "Conformisme et préjugés"
 sidebar_label: "Conformisme"
 sidebar_position: 6

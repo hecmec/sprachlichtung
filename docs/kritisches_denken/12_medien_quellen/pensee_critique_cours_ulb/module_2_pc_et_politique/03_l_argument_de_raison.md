@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-argument_de_raison
+id: pc-module-1-argument_de_raison
 title: "L'argument de raison (Module 2)"
 sidebar_label: "Argument de raison"
 sidebar_position: 3

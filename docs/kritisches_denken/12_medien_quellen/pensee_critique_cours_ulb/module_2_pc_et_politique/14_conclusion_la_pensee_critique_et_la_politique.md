@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-conclusion
+id: pc-module-1-conclusion
 title: "Conclusion, La pensée critique et la politique"
 sidebar_label: "Conclusion"
 sidebar_position: 14

@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-de_darwin_au_fondamentalisme
+id: pc-module-3-de_darwin_au_fondamentalisme
 title: "Pensée critique - De Darwin au fondamentalisme protestant"
 sidebar_label: "De Darwin au fondamentalisme"
 sidebar_position: 6

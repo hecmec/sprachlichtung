@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-sola-scriptura
+id: pc-module-2-sola-scriptura
 title: "Sola Scriptura"
 sidebar_label: "Sola Scriptura"
 sidebar_position: 6

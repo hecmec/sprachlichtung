@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la-rhetorique-islamiste
+id: pc-module-3-la-rhetorique-islamiste
 title: "Pensée critique - La rhétorique islamiste et ses contres-discours"
 sidebar_label: "La rhétorique islamiste"
 sidebar_position: 15

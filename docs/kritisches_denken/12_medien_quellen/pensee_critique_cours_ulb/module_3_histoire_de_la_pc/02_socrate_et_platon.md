@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-socrate-et-platon
+id: pc-module-2-socrate-et-platon
 title: "Socrate et Platon"
 sidebar_label: "Socrate et Platon"
 sidebar_position: 2

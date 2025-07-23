@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-intro-module-laicite
+id: pc-module-3-intro-module-laicite
 title: "Pensée critique - Introduction du Module Laïcité"
 sidebar_label: "Introduction"
 sidebar_position: 2

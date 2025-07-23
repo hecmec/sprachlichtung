@@ -1,5 +1,5 @@
 ---
-id: pc-module-2-la_cour_supreme_defend
+id: pc-module-3-la_cour_supreme_defend
 title: "Pensée critique - La Cour suprême défend la biologie scientifique"
 sidebar_label: "La Cour suprême défend la biologie scientifique"
 sidebar_position: 8

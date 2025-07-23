@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-aristote_democratie
+id: pc-module-2-aristote_democratie
 title: "Socrate, Platon, Aristote et la démocratie"
 sidebar_label: "Socrate, Platon, Aristote et la démocratie"
 sidebar_position: 3
