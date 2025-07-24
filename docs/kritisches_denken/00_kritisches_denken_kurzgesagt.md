@@ -9,7 +9,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-07-11
+  date: 2025-07-23
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg

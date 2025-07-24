@@ -17,7 +17,7 @@ keywords:
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
-  date: 2025-07-20
+  date: 2025-07-23
   author: Immanuel Lupinus
 
 ---
@@ -42,6 +42,8 @@ import ReactPlayer from 'react-player';
 
 ## **2. L’expérience de Milgram : obéissance sans contrainte**
 
+![Milgram et l’expérience de la soumission](../img/exp_milgram_instructor.png)
+
 * **Cadre de l’expérience** :
   Des participants croient infliger des chocs électriques à une autre personne. Le seul "pouvoir" du scientifique est son autorité morale et scientifique, sans coercition réelle.
 
@@ -51,7 +53,11 @@ import ReactPlayer from 'react-player';
 * **Renoncement à la pensée critique** :
   La soumission s’explique par la confiance aveugle envers la science. Le participant cesse de réfléchir de façon autonome.
 
+
 ## **3. La reproduction dans un jeu télévisé**
+
+![Jeu de la mort](../img/jeu_de_la_mort.png)  
+source: *[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mort-un-docu-fiction-edifiant-5024583)*
 
 * **Le "Jeu de la mort"** :
   Une variante de l’expérience est rejouée dans une émission de divertissement. Cette fois, ce n’est plus un scientifique mais une **animatrice télé (Tania Young)** qui dirige l’expérience, devant un public encourageant.
@@ -61,6 +67,10 @@ import ReactPlayer from 'react-player';
 
 * **Nature de l’autorité** :
   Il ne s’agit plus d’une autorité scientifique, mais d’une **pression sociale et médiatique**, sans fondement légitime. C’est la télévision et l’hystérie collective qui créent l’effet de conformité.
+
+> "Le jeu de la mort" est un documentaire étonnant. Et inquiétant.  
+> C'est un reportage sur les dangers de la télévision, en particulier dans le cadre de la téléréalité.  
+> [rtbf.be](https://www.rtbf.be/article/le-jeu-de-la-mort-un-docu-fiction-edifiant-5024583)
 
 ## **4. Enjeux pour la pensée critique**
 
