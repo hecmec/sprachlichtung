@@ -47,7 +47,7 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 Metakognition? Meta wie bitte? Das klingt jetzt sehr schick und akademisch, ist aber ganz einfach das Denken über das Denken. Die Philosphen nennen das "die Metaebene einnehmen" und da wir über Kongnition reden eben Meta-kognition.  
 Wir sollten uns einfach öfter fragen, wann wir gut denken und wann wir in die Irre gehen und warum.
 
-Einer der weisesten alten Philosophen (schon wieder ein Grieche) hat es vorgemacht mit seinen Dialogen, die sein Schüler Platon aufgeschrieben hat.
+Einer der weisesten alten Philosophen, Sokrates - schon wieder ein alter Grieche - hat es vorgemacht mit seinen Dialogen, die sein Schüler Platon aufgeschrieben hat.
 
 <Admonition type="note" icon="💬" title="Zitat">
 
