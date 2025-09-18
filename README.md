@@ -70,7 +70,3 @@ yarn run start --locale en
 **code.json**:  defines all text labels used in the React code.
 
 
-
-
-
-
