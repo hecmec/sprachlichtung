@@ -124,8 +124,13 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // },
         {
-          type: 'localeDropdown',
+          href: 'https://www.sprachlichtung.org/fr/',
+          label: 'FR',
           position: 'right',
         },
         {

@@ -8,8 +8,10 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-07-11
+  date: 2025-09-20
   author: Immanuel Lupinus
+completeness: 3/5
+
 # slug: 
 # image: 
 
@@ -22,7 +24,10 @@ import Admonition from '@theme/Admonition';
 Kritisches Denken ist einerseits die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren.
 Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren.
 
-Das Ziel: **gut informierte Entscheidungen** zu treffen für uns, unsere Mitmenschen und unsere Umwelt.
+Das Ziel: **gut informierte Entscheidungen** zu treffen für uns, unsere Mitmenschen und unsere Umwelt.[^1]
+
+[^1]: Du merkst, es geht nicht nur um dich, sondern auch um andere und unsere Umwelt. Kritisches Denken ist eine soziale Fähigkeit.
+
 
 Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 
@@ -35,7 +40,7 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 - selbst nachzudenken, um **eigene Meinungen** zu bilden und **eigene Entscheidungen** zu treffen
 
 <details>
-  <summary>Kritische Herkunft</summary>
+  <summary>Die Herkunft (Etymologie) des Kritischen Denkens</summary>
 
   Von Kants _Kritik der reinen Vernunft_, über einen _kritischen Punkt_ bis zu den _kritschen Zeiten_ in denen wir leben, "kritisch" ist überall und vielgesichtig.  
   Es kommt zu uns zum teil über das französische "_critique_", welches uns "_kritisch_" und "_Kritik_" gibt.  
@@ -57,6 +62,8 @@ Einer der weisesten alten Philosophen, Sokrates - schon wieder ein alter Grieche
   <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p> 
 </Admonition>
 
+Sokrates wollte natürlich nicht sagen, dass er ein Dussel ist, sondern einfach, dass er sich bewusst ist, **dass sein Wissen begrenzt ist**.
+Sokrates hat sich selbst und andere immer wieder hinterfragt, um zu verstehen, was sie wirklich wissen und was nur Meinung oder Vorurteil ist.
 
 ## Fähigkeiten und Einstellungen des Kritschen Denkens
 

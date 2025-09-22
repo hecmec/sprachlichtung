@@ -9,10 +9,11 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-07-23
+  date: 2025-09-23
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
+completeness: 4/5
 
 # slug:
 # tags: [test1, test2]
@@ -42,11 +43,11 @@ Richtiges Handeln hat zwei Aspekte. Mit Hume gesagt: Begehren + Wissen = Handlun
 
 ## Kriterien für „richtiges“ Handeln
 
-**Klarheit**: Explizite Formulierung deiner Ziele (Desires bewusst machen).
-**Wahrheit**: Überzeugungen faktisch möglichst korrekt (Fehler = ineffiziente oder schädliche Mittel).
-**Konsistenz**: Ziele widersprechen einander nicht; Mittel passen zu allen relevanten Zielen.
-**Proportionalität**: Stärke des Handelns proportional zur Stärke der gerechtfertigten Gründe.
-**Revisionierbarkeit**: Sowohl Ziele (wenn reflektiert unhaltbar) als auch Mittelwissen (bei neuer Evidenz) sind anpassbar.
+- **Klarheit**: Explizite Formulierung deiner Ziele (Desires bewusst machen).
+- **Wahrheit**: Überzeugungen faktisch möglichst korrekt (Fehler = ineffiziente oder schädliche Mittel).
+- **Konsistenz**: Ziele widersprechen einander nicht; Mittel passen zu allen relevanten Zielen.
+- **Proportionalität**: Stärke des Handelns proportional zur Stärke der gerechtfertigten Gründe.
+- **Revisionierbarkeit**: Sowohl Ziele (wenn reflektiert unhaltbar) als auch Mittelwissen (bei neuer Evidenz) sind anpassbar.
 
 ## Warum ist Kritisches Denken wichtig?
 
@@ -110,23 +111,28 @@ Die **wesentlichen Grundlagen** der Logik solltest Du aber beherrschen, sonst ve
 
 ### Argumentieren
 
-Argumentieren hat etwas mit Logik zu tun. Aber nicht alle guten Argumente sind formal logisch richtig.
+Argumentieren hat etwas mit Logik zu tun. Aber nicht alle guten Argumente sind formal logisch gültig.
 
-Du musst lernen, wie Leute argumentieren und **wie man argumentieren sollte**.
+Du musst also verstehen lernen, **wie man richtig argumentiert** und wie Leute tatsächlich argumentieren.
 
-Du musst verstehen, **wie gute Argumente funktionieren** und wie schlechte Argumente aussehen.
+Du musst verstehen, **wie gute Argumente funktionieren** und warum schlechte Argumente fehlerhaft sind.
 
 ### Sprachverhexung
 
-Um klar und kritisch zu denken, müssen wir lernen **Sprachfallen aufzudecken** und sie zu umgehen.
+Um klar und kritisch zu denken, müssen wir lernen **Sprachfallen und Sprachverhexungen aufzudecken** und sie zu umgehen.
 
-Sehr oft spielt uns die Sprache selbst einen Streich:
+Sprache ist kein starres System, sie lebt, wandelt sich und entzieht sich oft jeder Kontrolle. Sehr oft spielt uns die Sprache selbst einen Streich. 
+Hier sind ein paar Beispiele:
 
 - **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
-- **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
-- **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner"
+Da hat jemand eine Meinung über den Präsidenten, die er uns unterschieben will.
+- **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?" 
+Da wird eine absurde Frage aufgeworfen, die lustig sein kann, uns aber auch vorgaukelt, dass es eine sinnvolle Antwort darauf gibt.
+- **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner, mit platten Fingernägeln und Vernunft." 
+Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richtig überzeugend ist.
 
-Exakte Sprache brauchen wir im Recht, auf Arbeit, in der Wissenschaft und Technik, seltener aber auf Grill Parties oder beim Flirten.
+Exakte Sprache mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.
+Im Alltag aber, auf Grill-parties oder beim Flirten, da ist die Präzision eher ein Nachteil. Da ist es besser, wenn die Sprache feiert.
 
 ### Quellenprüfung
 
@@ -146,8 +152,8 @@ Ich lasse Dich entscheiden, wem Du lieber vertraust.
 
 ### Klassische Fehlschlüsse (Fallacy)
 
-Eine weitere wichtige Fähigkeit, ist die, sich nicht von Fehlschlüssen verhexen lassen.
-Einige der Besten Bücher zum Thema beschäftigen sich fast nur mit Fehlschlüssen oder Bias.
+Eine weitere wichtige Fähigkeit, ist die, sich nicht von Fehlschlüssen in die Irre leiten zu lassen.
+Einige der Besten Bücher zum Thema "Kritisches Denken" beschäftigen sich fast ausschließlich mit Fehlschlüssen oder den Verzerrungen, die unser Denken beeinflussen.  
 Bekannte Bespiele für klassische Fehlschlüsse sind:
 
 - **Ad Hominem**: Angriff auf die Person statt auf das Argument.
@@ -164,12 +170,12 @@ Nicht nur Fehlschlüsse, sondern auch kognitive Verzerrungen, stehen unserer Rat
 Diese Verzerrungen (Biases) sind oft tief in unserem Gehirn verankert und können uns blind für die Realität machen.
 Bekannte Bespiele für kognitive Verzerrungen sind:
 
-- **Konfirmationsbias**: Wir suchen nur nach Informationen, die unsere Meinung bestätigen.
+- **Konfirmationsbias**: Wir suchen nur, oder akzeptieren nur Informationen, die unsere Meinung bestätigen.
 - **Anker-Effekt**: Unsere Meinung wird durch den ersten Eindruck beeinflusst.
 - **Halo-Effekt**: Ein gutes Gesamtbild führt zu positiven Urteilen in allen Bereichen.
 - **Selbstüberbewertung**: Wir sind oft zu optimistisch über unsere Fähigkeiten und Leistungen.
 
-Auch hier gibt es duzende Beispiele: lustige, überraschende, besorgniserregende und beinahe gefährliche, die wir später im Detail besprechen werden.
+Auch hier gibt es dutzende Beispiele: lustige, überraschende, besorgniserregende und beinahe gefährliche, die wir später im Detail besprechen werden.
 Wir sehen als Menschen dabei so dumm und bemitleidenswert aus, dass wir uns fragen: wieso lernen wir das nicht in der Schule?
 
 ### Paradoxien und Dilemmas
@@ -195,12 +201,15 @@ Typische Beispiele für Paradoxien und Dilemmas sind:
 - **Das Gefangenendilemma**: Zwei Gefangene müssen entscheiden, ob sie gestehen oder schweigen. Was ist die beste Strategie?
 - **Das Dilemma der Meinungsfreiheit**: Wenn es absolute Meinungsfreiheit gibt, müssen wir dann Intoleranz tolerieren und in kauf nehmen, dass man uns der Meinungsfreiheit beraubt?
 
+Das alles gehört zum richtigen Denken dazu. Was aber ist das Kritische am Kritschen Denken?
+
 ## Wie denkst du kritisch?
 
 Jetzt kommen wir zum kritischen Teil. "**Kritisch**" ist hier **eine unabdingbare Einstellung zu sich selbst**, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
 
 - Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht, da würdest du verrückt werden.
-- Etablierte Theorien oder in meiner Kultur verwurzelte Werte sollte man nur in Frage stellen, wenn sich **Widersprüche** mit meinem Leben oder meiner Forschung auftun. Widersprüche sind das Treibmittel des Fortschritts.
+- Etablierte Theorien oder in deiner Kultur verwurzelte Werte kann man nicht ständig in Frage stellen.
+Manchmal aber schon. Eben dann, wenn sich **Widersprüche** mit dem Leben oder den Wissenschaften auftun.Widersprüche sind das Treibmittel des Fortschritts.
 
 ### Selbstkritik
 

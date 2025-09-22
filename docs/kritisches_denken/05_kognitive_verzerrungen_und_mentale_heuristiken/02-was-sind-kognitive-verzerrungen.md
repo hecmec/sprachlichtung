@@ -5,17 +5,18 @@ description: "Definition und Erklärung kognitiver Verzerrungen, ihrer Merkmale 
 keywords:
   - kognitive Verzerrungen
   - systematische Denkfehler
-  - Merkmale
+  - mentale Heuristiken
+  - Biases
   - Informationsverarbeitung
   - evolutionäre Anpassungen
 last_update:
-  date: 2025-05-10
+  date: 2025-09-23
   author: Immanuel Lupinus
 ---
 
 <!-- ## Was sind kognitive Verzerrungen? -->
 
-Kognitive Verzerrungen sind systematische Muster der Abweichung von Norm oder Rationalität im Urteil. Sie stellen "Denkfehler" dar, die in bestimmten Situationen auftreten und zu Fehleinschätzungen, irrationalen Überzeugungen oder verzerrten Wahrnehmungen führen können.
+Kognitive Verzerrungen (Biases) sind systematische Muster der Abweichung von Norm oder Rationalität im Urteil. Sie stellen "Denkfehler" dar, die in bestimmten Situationen auftreten und zu Fehleinschätzungen, irrationalen Überzeugungen oder verzerrten Wahrnehmungen führen können.
 
 ## Merkmale kognitiver Verzerrungen
 
