@@ -8,8 +8,10 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-09-01
+  date: 2025-09-20
   author: Immanuel Lupinus
+completeness: 3/5
+
 # slug: 
 # image: 
 

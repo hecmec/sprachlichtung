@@ -1,0 +1,8 @@
+{
+  "label": "Liste Kognitiver Verzerrungen",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Hier kommt eine Liste von kognitiven Verzerrungen und mentalen Heuristiken. Alle wichtigen Biases findest du in dieser Liste."
+  }
+}

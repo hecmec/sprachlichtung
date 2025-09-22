@@ -9,10 +9,11 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-08-26
+  date: 2025-09-23
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
+completeness: 4/5
 
 # slug:
 # tags: [test1, test2]

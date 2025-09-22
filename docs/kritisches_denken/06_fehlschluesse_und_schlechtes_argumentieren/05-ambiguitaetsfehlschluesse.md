@@ -12,7 +12,7 @@ keywords:
   - sprachliche Mehrdeutigkeit
   - grammatikalische Unklarheiten
 last_update:
-  date: 2025-05-10
+  date: 2025-09-20
   author: Immanuel Lupinus
 ---
 
@@ -34,9 +34,7 @@ Bei der Äquivokation wird ein Wort oder Begriff in verschiedenen Bedeutungen ve
 Amphibolie entsteht durch grammatikalische Mehrdeutigkeit, die zu unterschiedlichen Interpretationen führen kann.
 
 **Beispiel:**
-"Die Jagd auf Elefanten ist unmoralisch und sollte verboten werden."
-
-**Warum ist das mehrdeutig?** Es ist unklar, ob gemeint ist, dass Elefanten nicht gejagt werden sollten, oder dass Elefanten nicht jagen sollten.
+"Elefantenjagt ist unmoralisch und sollte verboten werden."Elefantenjagt das mehrdeutig?** Es ist unklar, ob gemeint ist, dass Elefanten nicht gejagt werden sollten, oder dass Elefanten nicht jagen sollten.
 
 ## 3. Akzentuierung
 
@@ -54,6 +52,9 @@ Beim Kompositionsfehlschluss wird fälschlicherweise angenommen, dass eine Eigen
 
 **Warum ist das fehlerhaft?** Die Eigenschaft "leicht" der einzelnen Teile überträgt sich nicht notwendigerweise auf das Ganze.
 
+**Beispiel Gehirn**
+"Die Neuronen sind mit blossem Auge nicht sichtbar, also ist das Gehirn mit blossem Auge nicht sichtbar."
+
 ## 5. Division
 
 Der Divisionsfehlschluss ist das Gegenteil des Kompositionsfehlschlusses: Es wird fälschlicherweise angenommen, dass eine Eigenschaft des Ganzen auch eine Eigenschaft jedes Teils sein muss.
@@ -62,3 +63,7 @@ Der Divisionsfehlschluss ist das Gegenteil des Kompositionsfehlschlusses: Es wir
 "Deutschland ist ein reiches Land. Also ist jeder Deutsche reich."
 
 **Warum ist das fehlerhaft?** Die Eigenschaft "reich" des Landes als Ganzes überträgt sich nicht notwendigerweise auf jeden einzelnen Bürger.
+
+**Beispiel Gehirn**
+"Das Gehirn kann denken, also können die Neuronen denken."
+
