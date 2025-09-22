@@ -1,16 +1,29 @@
-
-
-
+---
+title: Butler on Gender
+title_meta: "Judith Butler explains Gender"
+sidebar_label: Butler on Gender
+sidebar_position: 4
+description: "Das Sprachspiel des Erzählens"
+keywords:
+    - Gesellschaftsspiele
+    - Definition
+last_update:
+  date: 2025-09-23
+  author: Immanuel Lupinus
+# slug: 
+# image: 
+completeness: 5/5
 ---
 
-## **Judith Butler on Gender, Freedom, and Democracy**
 
-If you want to understand something of the ongoing debates about gender, you cannot avoid the work of Judith Butler.
+If you want to understand the ongoing debates about **gender**, you cannot avoid engaging with the work of Judith Butler.
 Her work is complex and challenging, but it has profoundly influenced how we think about identity, politics, and social justice.
 
-Here is a summary of some of her key ideas, explained by herself in this Big Think video.
+Here is a summary of some of her key ideas, explained by Butler herself in this Big Think video.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UD9IOllUR4k?si=saYClarIwV6OL089" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## **Judith Butler on Gender, Freedom, and Democracy**
 
 Judith Butler, a distinguished professor at the University of California, Berkeley, is best known for her groundbreaking work on gender, particularly her books *Gender Trouble* (1990) and *Bodies That Matter* (1993). Her theories have sparked global debates, but she emphasizes that her work is just one perspective among many. For Butler, gender is not a fixed or natural fact, but a complex interplay of culture, history, family, desire, and personal agency. She argues that everyone has a “theory of gender”—a set of assumptions about what gender is or should be—and that questioning these assumptions is essential for creating more livable, just, and free lives.
 
