@@ -1,5 +1,9 @@
 # Website
 
+Source: https://github.com/hecmec/sprachlichtung
+
+Tasks: https://github.com/users/hecmec/projects/1/views/1
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
