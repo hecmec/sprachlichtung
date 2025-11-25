@@ -1,6 +1,7 @@
 ---
 title: Obstacles to critical thinking
 sidebar_position: 6
+sidebar_label: "Obstacles"
 description: "What prevents us from critical thinking – from thinking errors to group pressure."
 keywords:
     - mental laziness

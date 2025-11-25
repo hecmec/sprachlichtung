@@ -10,7 +10,7 @@ keywords:
     - argumentation
     - reflection
 last_update:
-  date: 2025-11-25
+  date: 2025-11-26
   author: Immanuel Lupinus
 image: "/static/img/compass.svg"
 

@@ -11,10 +11,6 @@
     "message": "Everything you need to know about Critical Thinking.",
     "description": "The generated-index page description for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
   },
-  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken.link.slug": {
-    "message": "/critical-thinking/introduction-to-critical-thinking",
-    "description": "The generated-index page slug for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
-  },
   "sidebar.kritDenkenSidebar.category.Grundlagen der Logik": {
     "message": "Fundamentals of Logic",
     "description": "The label for category Grundlagen der Logik in sidebar kritDenkenSidebar"
@@ -56,7 +52,7 @@
     "description": "The generated-index page description for category Fehlschlüsse und schlechtes Argumentieren in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen": {
-    "message": "Paradoxes, Dilemmas, and Traps",
+    "message": "Paradoxes, Dilemmas, and Traps of Thought",
     "description": "The label for category Paradoxien, Dilemmas und Denkfallen in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen.link.generated-index.description": {
@@ -92,7 +88,7 @@
     "description": "The label for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Kritisches Denken in der Praxis.link.generated-index.description": {
-    "message": "In this chapter, we apply the concepts of critical thinking to practical everyday situations. We examine how we can use these skills to solve problems, make decisions, and evaluate information in daily life.",
+    "message": "In this chapter, we apply the concepts of critical thinking to practical everyday situations. We explore how we can use these skills to solve problems, make decisions, and evaluate information in daily life.",
     "description": "The generated-index page description for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
   },
   "sidebar.kritDenkenSidebar.category.Quellen und Medien 📚": {
@@ -103,53 +99,53 @@
     "message": "Sources and media related to language and philosophy.",
     "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Sprachspiele🤟": {
-    "message": "Language Games 🤟",
-    "description": "The label for category Sprachspiele🤟 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Développer sa pensée critique - Cours ULB": {
+    "message": "Developing Critical Thinking - ULB Course",
+    "description": "The label for category Développer sa pensée critique - Cours ULB in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Sprachspiele🤟.link.generated-index.description": {
-    "message": "Everything you need to know about Critical Thinking.",
-    "description": "The generated-index page description for category Sprachspiele🤟 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Développer sa pensée critique - Cours ULB.link.generated-index.description": {
+    "message": "This section presents the online course on critical thinking titled \"Developing Critical Thinking,\" offered by Guy Haarscher at the Université libre de Bruxelles (ULB).",
+    "description": "The generated-index page description for category Développer sa pensée critique - Cours ULB in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲": {
-    "message": "Social Games 🎲",
-    "description": "The label for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Pensée critique et politique": {
+    "message": "Critical Thinking and Politics",
+    "description": "The label for category Pensée critique et politique in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲.link.generated-index.description": {
-    "message": "Everything you need to know about social games.",
-    "description": "The generated-index page description for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Pensée critique et politique.link.generated-index.description": {
+    "message": "Critical thinking and politics: issues and perspectives.",
+    "description": "The generated-index page description for category Pensée critique et politique in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Künstliche Welten": {
-    "message": "Artificial Worlds",
-    "description": "The label for category Künstliche Welten in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Histoire de la Pensée Critique": {
+    "message": "History of Critical Thinking",
+    "description": "The label for category Histoire de la Pensée Critique in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Künstliche Welten.link.generated-index.description": {
-    "message": "AI (Artificial Intelligence), LLMs, Deep Learning, Automata, and so on.",
-    "description": "The generated-index page description for category Künstliche Welten in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Histoire de la Pensée Critique.link.generated-index.description": {
+    "message": "History of critical thinking, its origins, and its evolution over time.",
+    "description": "The generated-index page description for category Histoire de la Pensée Critique in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.umwelt": {
-    "message": "Environment",
-    "description": "The label for category umwelt in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.La Laïcité": {
+    "message": "Secularism",
+    "description": "The label for category La Laïcité in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.energie": {
-    "message": "Energy",
-    "description": "The label for category energie in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.La Laïcité.link.generated-index.description": {
+    "message": "Critical thinking and secularism are key concepts for understanding the challenges of modern society.",
+    "description": "The generated-index page description for category La Laïcité in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Quellen und Medien 📚": {
-    "message": "Sources and Media 📚",
-    "description": "The label for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.L'argumentation": {
+    "message": "Argumentation",
+    "description": "The label for category L'argumentation in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
-    "message": "Sources and media related to language and philosophy.",
-    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.L'argumentation.link.generated-index.description": {
+    "message": "Argumentation and freedom of expression in democratic societies.",
+    "description": "The generated-index page description for category L'argumentation in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Humor und Satire 😂": {
-    "message": "Humor and Satire 😂",
-    "description": "The label for category Humor und Satire 😂 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Athéisme et PC": {
+    "message": "Atheism and Critical Thinking",
+    "description": "The label for category Athéisme et PC in sidebar kritDenkenSidebar"
   },
-  "sidebar.umweltSidebar.category.Humor und Satire 😂.link.generated-index.description": {
-    "message": "Humor, jokes, memes, quotes.",
-    "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
+  "sidebar.kritDenkenSidebar.category.Athéisme et PC.link.generated-index.description": {
+    "message": "Atheism and critical thinking: issues and perspectives.",
+    "description": "The generated-index page description for category Athéisme et PC in sidebar kritDenkenSidebar"
   },
   "sidebar.umweltSidebar.category.Sprachspiele 🤟": {
     "message": "Language Games 🤟",
@@ -158,6 +154,22 @@
   "sidebar.umweltSidebar.category.Sprachspiele 🤟.link.generated-index.description": {
     "message": "Everything you need to know about critical thinking.",
     "description": "The generated-index page description for category Sprachspiele 🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲": {
+    "message": "Social Games 🎲",
+    "description": "The label for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲.link.generated-index.description": {
+    "message": "Everything you need to know about critical thinking.",
+    "description": "The generated-index page description for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Politische Argumentation": {
+    "message": "Political Argumentation",
+    "description": "The label for category Politische Argumentation in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Politische Argumentation.link.generated-index.description": {
+    "message": "How does political argumentation work? With many examples.",
+    "description": "The generated-index page description for category Politische Argumentation in sidebar umweltSidebar"
   },
   "sidebar.umweltSidebar.category.Künstliche Welten 🤖": {
     "message": "Artificial Worlds 🤖",
@@ -182,5 +194,29 @@
   "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍.link.generated-index.description": {
     "message": "Energy, resources, sustainability, and so on.",
     "description": "The generated-index page description for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚": {
+    "message": "Sources and Media 📚",
+    "description": "The label for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
+    "message": "Sources and media around the topic of language and philosophy.",
+    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂": {
+    "message": "Humor and Satire 😂",
+    "description": "The label for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂.link.generated-index.description": {
+    "message": "Humor, jokes, memes, quotes.",
+    "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Philosophie": {
+    "message": "Philosophy",
+    "description": "The label for category Philosophie in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Philosophie.link.generated-index.description": {
+    "message": "Philosophy: Notes, summaries, and thoughts.",
+    "description": "The generated-index page description for category Philosophie in sidebar umweltSidebar"
   }
 }
