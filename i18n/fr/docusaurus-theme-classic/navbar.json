@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Clairière du langage",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo de Clairière du langage",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Kritisches Denken": {
+    "message": "Pensée Critique",
+    "description": "Navbar item with label Kritisches Denken"
+  },
+  "item.label.UmWelten": {
+    "message": "Environnements",
+    "description": "Navbar item with label UmWelten"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.About": {
+    "message": "À propos",
+    "description": "Navbar item with label About"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

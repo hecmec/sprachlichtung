@@ -1,85 +1,86 @@
 ---
-title: Hindernisse für kritisches Denken
+title: Obstacles to critical thinking
 sidebar_position: 6
-description: "Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck."
+description: "What prevents us from critical thinking – from thinking errors to group pressure."
 keywords:
-    - Denkfaulheit
-    - Selbstüberschätzung
-    - Hindernisse
-    - Biases
-    - Gruppendruck
+    - mental laziness
+    - overconfidence
+    - obstacles
+    - biases
+    - group pressure
 
 last_update:
-  date: 2025-05-10
+  date: 2025-11-25
   author: Immanuel Lupinus
-# slug: 
+# slug: "/critical_thinking/obstacles_to_critical_thinking"
 # image: 
 ---
 
-Trotz der Vorteile des kritischen Denkens gibt es verschiedene Hindernisse, die uns davon abhalten können. Wir werden, auf der einen Seite, von unserem eigenen Geist ausgebremst, und auf der anderen, versuchen unsere Affekte und unsere Umwelt uns zu beeinflussen.
+Despite the advantages of critical thinking, there are various obstacles that can prevent us from it. We are, on one hand, slowed down by our own mind, and on the other hand, our emotions and our environment try to influence us.
 
-## Kognitive Anstrengung – warum wir oft denkfaul sind
+## Cognitive effort – why we are often mentally lazy
 
-**Denken ist anstrengend**. Es kostet Zeit, Konzentration und mentale Energie. Unser Gehirn ist zwar ein erstaunlich leistungsfähiges Organ, aber zugleich auch ein sehr sparsames. Es sucht ständig nach Wegen, Energie zu sparen, nicht aus Faulheit im moralischen Sinne, sondern aus Effizienzgründen. Deshalb bevorzugt es einfache, schnelle Urteile und routinierte Reaktionsmuster gegenüber komplexer Analyse und bewusster Reflexion.
+**Thinking is exhausting**. It costs time, concentration and mental energy. Our brain is an amazingly powerful organ, but at the same time also a very economical one. It constantly searches for ways to save energy, not out of laziness in the moral sense, but for efficiency reasons. Therefore, it prefers simple, quick judgments and routine reaction patterns over complex analysis and conscious reflection.
 
-Wir könnten sagen: **Unser Geist ist bequem** – oder freundlicher formuliert: er ist ökonomisch. Er greift lieber auf gewohnte Denkmuster, Intuitionen und Automatismen zurück, als sich der Mühe tiefgründigen Nachdenkens zu unterziehen. In vielen Alltagssituationen ist das durchaus sinnvoll: Wir müssen nicht jedes Mal bewusst analysieren, wie wir eine Tür öffnen oder auf eine einfache Frage antworten.
+We could say: **Our mind is comfortable** – or more kindly put: it is economical. It prefers to fall back on familiar thought patterns, intuitions and automatisms rather than submit to the effort of profound thinking. In many everyday situations, this is quite sensible: We don't need to consciously analyze every time how to open a door or answer a simple question.
 
-Dieses Prinzip wurde vom Psychologen Daniel Kahneman[^1] mit seinem Modell von System 1 und System 2 veranschaulicht.
+This principle was illustrated by psychologist Daniel Kahneman[^1] with his model of System 1 and System 2.
 
-    **System 1** arbeitet schnell, automatisch und emotional. Es hilft uns, sofort zu reagieren, etwa wenn wir eine Gefahr erkennen oder eine bekannte Situation einschätzen müssen.
+    **System 1** works fast, automatically and emotionally. It helps us react immediately, for instance when we recognize danger or need to assess a familiar situation.
 
-    **System 2** hingegen ist langsam, bewusst und analytisch – es kommt dann zum Einsatz, wenn wir uns wirklich anstrengen müssen, z. B. bei komplexen Entscheidungen, logischen Schlussfolgerungen oder moralischen Dilemmata.
+    **System 2**, on the other hand, is slow, conscious and analytical – it comes into play when we really need to exert ourselves, e.g., with complex decisions, logical conclusions or moral dilemmas.
 
-[^1]: Daniel Kahneman: _Schnelles Denken, Langsames Denken_. Siedler Verlag, München, aus dem amerikanischen Englisch von Thorsten Schmidt, 2012, Original: Daniel Kahneman: _Thinking, Fast and Slow_. Macmillan, 2011.
+[^1]: Daniel Kahneman: _Thinking, Fast and Slow_. Macmillan, 2011.
 
-Das Problem ist: **Unser Gehirn bevorzugt System 1**, auch dann, wenn eigentlich System 2 angesagt wäre. Aus Bequemlichkeit oder Zeitdruck verlassen wir uns auf erste Eindrücke, Stereotype oder gelernte Meinungen, ohne sie zu hinterfragen.  
-Auf diese Weise umgehen wir kognitive Dissonanz[^2], vermeiden Zweifel und ersparen uns unangenehme Einsichten. Doch diese Bequemlichkeit hat ihren Preis: Sie kann uns daran hindern, fundierte Urteile zu treffen, komplexe Zusammenhänge zu erkennen oder eigene Denkfehler zu bemerken.
+The problem is: **Our brain prefers System 1**, even when System 2 would actually be appropriate. Out of convenience or time pressure, we rely on first impressions, stereotypes or learned opinions without questioning them.  
+In this way, we avoid cognitive dissonance[^2], avoid doubt and spare ourselves unpleasant insights. But this convenience has its price: It can prevent us from making well-founded judgments, recognizing complex connections or noticing our own thinking errors.
 
-[^2]: "kognitive Dissonanz": Widerspruch im Denken. Kognitive Dissonanz bezeichnet das unangenehme Gefühl, das entsteht, wenn wir widersprüchliche Gedanken, Überzeugungen oder Handlungen erleben – zum Beispiel wenn unser Verhalten nicht zu unseren Werten passt.
+[^2]: "cognitive dissonance": Contradiction in thinking. Cognitive dissonance refers to the unpleasant feeling that arises when we experience contradictory thoughts, beliefs or actions – for example when our behavior doesn't match our values.
 
-Kurz gesagt: Unser innerer Energiesparmodus mag uns kurzfristig entlasten, aber auf lange Sicht steht er dem kritischen Denken oft im Weg – gerade in einer Welt, die immer komplexer wird und uns zu durchdachtem, reflektiertem Handeln herausfordert.
-
-
-## Selbstüberschätzung – warum wir uns oft klüger halten, als wir sind
-
-Ein wesentliches Hindernis für kritisches Denken ist unsere **Tendenz zur Selbstüberschätzung**. Wir neigen dazu, unser Wissen und unsere Fähigkeiten zu überschätzen – vor allem dann, wenn wir nur oberflächliche Kenntnisse über ein Thema haben. Gerade Unwissenheit kann zu übersteigertem Selbstvertrauen führen (Donald Trump), weil uns das nötige Wissen fehlt, um unsere Grenzen zu erkennen.
-
-Dieses Phänomen ist als **Dunning-Kruger-Effekt** bekannt. Menschen mit geringer Kompetenz unterschätzen häufig die Komplexität eines Themas und überschätzen gleichzeitig ihre eigene Urteilsfähigkeit. Umgekehrt sind sich kompetente Menschen oft ihrer Unsicherheiten bewusst und daher zurückhaltender in ihren Aussagen.
-
-Im Alltag sehen wir das häufig: Wer sich schnell eine Meinung bildet, tritt oft besonders überzeugt auf – während fundiertes Wissen meist mit mehr Vorsicht und Nachdenklichkeit einhergeht. Leider wird in der öffentlichen Kommunikation Selbstsicherheit oft höher bewertet als Differenzierung. Schau Dir eine Talkshow an, Du weisst, was ich meine.
-
-Diese Selbstüberschätzung erschwert nicht nur das Erkennen eigener Denkfehler, sondern auch den Dialog mit anderen. Wer sich für "klüger als die anderen“ hält, hört seltener zu und hinterfragt seltener eigene Überzeugungen.
-
-Auf den Dunning-Kruger-Effekt werden wir später noch einmal im Kontext der Kognitiven Verzerrungen zurückkommen.
+In short: Our inner energy-saving mode may relieve us in the short term, but in the long run it often stands in the way of critical thinking – especially in a world that is becoming increasingly complex and challenges us to thoughtful, reflective action.
 
 
-## Kognitive Verzerrungen - wir lassen uns austricksen
+## Overconfidence – why we often think we're smarter than we are
 
-Unser Denken wird durch zahlreiche systematische Verzerrungen beeinflusst. Unser Geist trickst sich selbst aus, wie beim berühmt-berüchtigten **Bestätigungsfehler** (die Tendenz, nur Informationen zu suchen, die unsere bestehenden Überzeugungen bestätigen) oder den von Manipulatoren viel benutzten **Ankereffekt** (die übermäßige Beeinflussung durch zuerst präsentierte Informationen).
+A significant obstacle to critical thinking is our **tendency toward overconfidence**. We tend to overestimate our knowledge and abilities – especially when we only have superficial knowledge about a topic. Ignorance in particular can lead to inflated self-confidence (Donald Trump), because we lack the necessary knowledge to recognize our limits.
 
-## Soziale Einflüsse - wir lassen uns manipulieren
+This phenomenon is known as the **Dunning-Kruger effect**. People with low competence frequently underestimate the complexity of a topic while simultaneously overestimating their own judgment ability. Conversely, competent people are often aware of their uncertainties and therefore more cautious in their statements.
 
-Menschen sind soziale Wesen. Schon als Kinder sind wir darauf angewiesen, **Regeln und grundlegende Werte** vermittelt zu bekommen. Sie geben uns Orientierung, Sicherheit und ermöglichen überhaupt erst das Zusammenleben in einer Gemeinschaft. Ohne ein solches Regelsystem könnten wir weder ein Gefühl für richtig und falsch entwickeln, noch ein stabiles Selbstbild oder Zugehörigkeit zur Gesellschaft aufbauen.
+We see this frequently in everyday life: Those who quickly form an opinion often appear particularly convinced – while well-founded knowledge usually comes with more caution and thoughtfulness. Unfortunately, in public communication, self-confidence is often valued higher than differentiation. Watch a talk show, and you know what I mean.
 
-Doch diese notwendige Prägung bringt auch eine Kehrseite mit sich: Sie macht uns empfänglich für soziale Einflüsse, die unser Denken lenken oder sogar einschränken können. So kann es passieren, dass wir Normen, Meinungen oder Autoritäten übernehmen, **ohne sie zu hinterfragen** – nicht aus Überzeugung, sondern aus Gewohnheit oder dem Wunsch nach Zugehörigkeit.
+This overconfidence not only makes it harder to recognize our own thinking errors, but also complicates dialogue with others. Those who consider themselves "smarter than others" listen less often and question their own convictions less frequently.
 
-### Die Familie als erste Instanz der Prägung
+We will return to the Dunning-Kruger effect later in the context of cognitive biases.
 
-In der Familie werden grundlegende Werte und Weltsichten vermittelt. Diese frühen Einflüsse prägen oft unbewusst unser Denken – was „normal“, „richtig“ oder „wahr“ ist, wird selten infrage gestellt, weil es mit emotionaler Bindung und Vertrauen verknüpft ist. Wer gegen die familiären Überzeugungen denkt, riskiert Spannungen oder gar Ausgrenzung.
 
-### Schule und Staat als formelle Sozialisationsinstanzen
+## Cognitive biases - we let ourselves be tricked
 
-Auch das Bildungssystem und staatliche Institutionen vermitteln Werte und Weltbilder. Sie setzen bestimmte Themen, Perspektiven und Interpretationen als „allgemeingültig“ – und wer davon abweicht, läuft Gefahr, als störend, naiv oder ideologisch abgestempelt zu werden. Kritisches Denken, das grundlegende Annahmen infrage stellt, findet oft wenig Raum, besonders wenn es Autoritäten oder bestehende Systeme betrifft.
+Our thinking is influenced by numerous systematic biases. Our mind tricks itself, as with the infamous **confirmation bias** (the tendency to only seek information that confirms our existing beliefs) or the **anchoring effect** much used by manipulators (excessive influence by information presented first).
 
-### Gruppendruck und der Wunsch nach Zugehörigkeit 
+## Social influences - we let ourselves be manipulated
 
-Ein starker sozialer Einfluss geht vom Bedürfnis aus, Teil einer Gemeinschaft zu sein. Menschen passen sich häufig der Meinung der Mehrheit an (der Herdentrieb 🐑🐑🐑), auch wenn sie innerlich Zweifel haben.  
-Gruppendruck, Konformitätszwang und Angst vor Ablehnung oder Lächerlichkeit führen dazu, dass viele lieber schweigen oder ihre eigenen Gedanken anpassen, als sich kritisch mit der herrschenden Meinung auseinanderzusetzen.
+Humans are social beings. Even as children, we depend on having **rules and basic values** conveyed to us. They give us orientation, security and make coexistence in a community possible in the first place. Without such a rule system, we could neither develop a sense of right and wrong, nor build a stable self-image or sense of belonging to society.
 
-### Autoritätsglaube und Manipulation
-Hinzu kommt eine oft tief verankerte Tendenz, Autoritäten zu vertrauen – sei es in der Familie, in der Schule, in den Medien oder in der Politik. Wer als Autorität wahrgenommen wird, bekommt einen Vertrauensvorschuss, auch dann, wenn seine Aussagen unbegründet oder fragwürdig sind. Diese Tendenz kann gezielt ausgenutzt werden: durch Manipulation, Propaganda oder subtile emotionale Appelle, die das kritische Denken untergraben.
+But this necessary shaping also brings a downside: It makes us susceptible to social influences that can guide or even restrict our thinking. Thus it can happen that we adopt norms, opinions or authorities **without questioning them** – not out of conviction, but out of habit or the desire for belonging.
 
-## Emotionale Faktoren 
+### The family as the first instance of shaping
 
-Starke Emotionen können rationales Denken überlagern und zu voreiligen oder verzerrten Urteilen führen.
+In the family, fundamental values and worldviews are conveyed. These early influences often unconsciously shape our thinking – what is "normal," "right" or "true" is rarely questioned because it is linked with emotional bonds and trust. Those who think against family convictions risk tensions or even exclusion.
 
+### School and state as formal socialization institutions
+
+The education system and state institutions also convey values and worldviews. They establish certain topics, perspectives and interpretations as "universally valid" – and those who deviate from them risk being labeled as disruptive, naive or ideological. Critical thinking that questions fundamental assumptions often finds little room, especially when it concerns authorities or existing systems.
+
+### Group pressure and the desire for belonging 
+
+A strong social influence comes from the need to be part of a community. People frequently adapt to the opinion of the majority (the herd instinct 🐑🐑🐑), even when they have inner doubts.  
+Group pressure, conformity pressure and fear of rejection or ridicule lead many to prefer silence or adapt their own thoughts rather than critically engage with the prevailing opinion.
+
+### Authority belief and manipulation
+Added to this is an often deeply rooted tendency to trust authorities – whether in the family, at school, in the media or in politics.   
+Those perceived as authorities receive an advance of trust, even when their statements are unfounded or questionable.  
+This tendency can be deliberately exploited: through manipulation, propaganda or subtle emotional appeals that undermine critical thinking.
+
+## Emotional factors 
+
+Strong emotions can overlay rational thinking and lead to hasty or distorted judgments.

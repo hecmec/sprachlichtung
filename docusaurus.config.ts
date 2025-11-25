@@ -39,22 +39,21 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
+    // locales: ['de','en','fr'],
     locales: ['de','en'],
     localeConfigs: {
       de: {
         label: 'Deutsch',
-        direction: 'ltr',
         htmlLang: 'de-DE',
-        calendar: 'gregory',
-        path: 'de',
+        // path: 'de',
       },
       en: {
         label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en-US',
-        calendar: 'gregory',
-        path: 'en',
       },
+      // fr: {
+      //   label: 'Français',
+      //   htmlLang: 'fr-FR',
+      // },
     },
   },
 
@@ -124,15 +123,16 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'right',
+          
+        },
         // {
-        //   type: 'localeDropdown',
+        //   href: 'https://www.sprachlichtung.org/en/',
+        //   label: 'EN',
         //   position: 'right',
         // },
-        {
-          href: 'https://www.sprachlichtung.org/fr/',
-          label: 'FR',
-          position: 'right',
-        },
         {
           href: 'https://github.com/hecmec/sprachlichtung',
           label: 'GitHub',
@@ -151,10 +151,10 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Tutorial',
           items: [
             {
-              label: 'Tutorial Kritisches Denken',
+              label: 'Kritisches Denken',
               to: '/docs/kritisches_denken/kritisches_denken_kurzgesagt',
             },
           ],

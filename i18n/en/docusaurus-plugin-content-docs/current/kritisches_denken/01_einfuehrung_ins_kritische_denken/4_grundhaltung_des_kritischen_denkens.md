@@ -1,48 +1,49 @@
 ---
-title: Die Grundhaltung des kritischen Denkens
+title: The fundamental Attitude of Critical Thinking
 sidebar_position: 5
-description: "Welche Geisteshaltung und Eigenschaften kritisches Denken fördern." 
+sidebar_label: "Fundamental Attitude"
+description: "Which mindset and characteristics promote critical thinking." 
 keywords:
-    - intellektuelle Neugier
-    - intellektuelle Demut
-    - intellektuelle Autonomie
-    - intellektuelle Integrität
-    - intellektuelle Ausdauer
+    - intellectual curiosity
+    - intellectual humility
+    - intellectual autonomy
+    - intellectual integrity
+    - intellectual perseverance
 last_update:
-  date: 2025-05-10
+  date: 2025-11-25
   author: Immanuel Lupinus
-# slug: 
+slug: "/critical-thinking/fundamental-attitude"
 # image: 
 ---
 
-Kritisches Denken beginnt mit einer bestimmten Geisteshaltung, die folgende Elemente umfasst:
+Critical thinking begins with a specific mindset that includes the following elements:
 
-## Intellektuelle Neugier
+## Intellectual Curiosity
 
-- Aktives Interesse an verschiedenen Themen und Perspektiven
-- Bereitschaft, Fragen zu stellen und nach Antworten zu suchen
-- Wunsch, über oberflächliches Wissen hinauszugehen
+- Active interest in various topics and perspectives
+- Willingness to ask questions and seek answers
+- Desire to go beyond superficial knowledge
 
-## Intellektuelle Demut
+## Intellectual Humility
 
-- Anerkennung der Grenzen des eigenen Wissens
-- Bereitschaft, eigene Überzeugungen zu überprüfen und zu revidieren
-- Offenheit für Kritik und Feedback
+- Recognition of the limits of one's own knowledge
+- Willingness to examine and revise one's own beliefs
+- Openness to criticism and feedback
 
-## Intellektuelle Autonomie
+## Intellectual Autonomy
 
-- Unabhängiges Denken und Urteilen
-- Widerstand gegen unkritische Übernahme von Meinungen
-- Verantwortung für die eigenen Überzeugungen und Entscheidungen
+- Independent thinking and judgment
+- Resistance to uncritical adoption of opinions
+- Responsibility for one's own beliefs and decisions
 
-## Intellektuelle Integrität
+## Intellectual Integrity
 
-- Konsequente Anwendung intellektueller Standards
-- Ehrlichkeit in Bezug auf Widersprüche im eigenen Denken
-- Bereitschaft, unbequeme Wahrheiten anzuerkennen
+- Consistent application of intellectual standards
+- Honesty regarding contradictions in one's own thinking
+- Willingness to acknowledge uncomfortable truths
 
-## Intellektuelle Ausdauer
+## Intellectual Perseverance
 
-- Beharrlichkeit bei der Lösung komplexer Probleme
-- Geduld im Umgang mit Mehrdeutigkeit und Unsicherheit
-- Bereitschaft, Zeit und Mühe in gründliches Denken zu investieren
+- Persistence in solving complex problems
+- Patience in dealing with ambiguity and uncertainty
+- Willingness to invest time and effort in thorough thinking

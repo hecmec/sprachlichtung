@@ -11,6 +11,10 @@
     "message": "Everything you need to know about Critical Thinking.",
     "description": "The generated-index page description for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
   },
+  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken.link.slug": {
+    "message": "/critical-thinking/introduction-to-critical-thinking",
+    "description": "The generated-index page slug for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
+  },
   "sidebar.kritDenkenSidebar.category.Grundlagen der Logik": {
     "message": "Fundamentals of Logic",
     "description": "The label for category Grundlagen der Logik in sidebar kritDenkenSidebar"

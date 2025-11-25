@@ -1,19 +1,19 @@
 ---
-title: Critical Thinking - In a Nutshell
+title: "Critical Thinking - In a Nutshell"
 sidebar_position: 1
 sidebar_label: Critical Thinking 5min
 description: "The essentials of critical thinking, all on one page"
+slug: "/critical-thinking/in-a-nutshell"
 keywords:
     - critical thinking
     - summary
     - argumentation
     - reflection
 last_update:
-  date: 2025-07-11
+  date: 2025-11-25
   author: Immanuel Lupinus
-image: /static/img/compass.svg
+image: "/static/img/compass.svg"
 
-# slug:
 # tags: [test1, test2]
 
 ---

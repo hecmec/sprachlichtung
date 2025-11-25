@@ -1,52 +1,48 @@
 ---
-title: Der Prozess des kritischen Denkens
+title: The process of critical thinking
 sidebar_position: 7
-sidebar_label: "Prozess kritischen Denkens"
-description: "Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion."
+sidebar_label: "Process of Critical Thinking"
+description: "The key steps of critical thinking, from identifying the problem to reflection."
 keywords:
-  - kritisches Denken
-  - Denkprozess
-  - Problemlösung
-  - Analyse
-  - Reflexion
+  - critical thinking
+  - thinking process
+  - problem-solving
+  - analysis
+  - reflection
 last_update:
-  date: 2025-07-11
+  date: 2025-11-25
   author: Immanuel Lupinus
 # slug: 
 # image: 
 ---
 
-// TODO: Sehr ausbaufähig
-Kritisches Denken ist ein systematischer Prozess, der folgende Schritte umfassen kann:
+Critical thinking is a systematic process that can include the following steps:
 
-## 1. **Erkennen und Klären des Problems oder der Frage**
-   - Was genau möchte ich wissen oder entscheiden?
-   - Welche Aspekte sind relevant?
+## 1. **Identifying and clarifying the problem or question**
+   - What exactly do I want to know or decide?
+   - Which aspects are relevant?
 
-## 2. **Sammeln relevanter Informationen**
-   - Welche Fakten und Daten sind verfügbar?
-   - Welche Quellen sind zuverlässig?
+## 2. **Gathering relevant information**
+   - What facts and data are available?
+   - Which sources are reliable?
 
-## 3. **Analysieren und Bewerten der Informationen**
-   - Sind die Informationen akkurat und vollständig?
-   - Welche Annahmen liegen zugrunde?
-   - Gibt es Verzerrungen oder Fehlschlüsse?
+## 3. **Analyzing and evaluating the information**
+   - Are the information accurate and complete?
+   - What assumptions underlie the information?
+   - Are there biases or fallacies?
 
-## 4. **Betrachten alternativer Perspektiven und Erklärungen**
-   - Welche anderen Sichtweisen gibt es?
-   - Welche alternativen Erklärungen sind möglich?
+## 4. **Considering alternative perspectives and explanations**
+   - What other viewpoints exist?
+   - What alternative explanations are possible?
 
-## 5. **Ziehen von Schlussfolgerungen**
-   - Welche Schlussfolgerungen werden durch die Beweise gestützt?
-   - Wie sicher können wir uns dieser Schlussfolgerungen sein?
+## 5. **Drawing conclusions**
+   - What conclusions are supported by the evidence?
+   - How confident can we be in these conclusions?
 
-## 6. **Kommunizieren und Anwenden der Ergebnisse**
-   - Wie können die Ergebnisse klar kommuniziert werden?
-   - Wie können sie in Entscheidungen oder Handlungen umgesetzt werden?
+## 6. **Communicating and applying the results**
+   - How can the results be communicated clearly?
+   - How can they be implemented in decisions or actions?
 
-## 7. **Reflektieren und Anpassen**
-   - Was haben wir aus dem Prozess gelernt?
-   - Wie können wir unseren Denkprozess verbessern?
-
-
-
+## 7. **Reflecting and adjusting**
+   - What have we learned from the process?
+   - How can we improve our thinking process?

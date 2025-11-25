@@ -1,6 +1,16 @@
-
-
-# Schopenhauer: Satz vom zureichenden Grund
+---
+title: "Schopenhauer: Satz vom zureichenden Grund"
+sidebar_position: 1
+sidebar_label: "Schopenhauer: Satz vom zureichenden Grund"
+description: "Schopenhauer: Satz vom zureichenden Grund"
+keywords:
+    - Philosophie
+    - Schopenhauer
+    - Erkenntnistheorie
+last_update:
+  date: 2025-11-24
+  author: Immanuel Lupinus
+---
 
 **Schopenhauer: *Über die vierfache Wurzel des Satzes vom zureichenden Grunde***
 

@@ -1,76 +1,76 @@
 ---
-title: Warum ist kritisches Denken wichtig?
+title: Why is critical thinking important?
 sidebar_position: 3
-sidebar_label: "Warum wichtig?"
-description: "Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt."
+sidebar_label: "Importance"
+description: "Why critical thinking is a key competency and how it helps you in everyday life, studies and career."
+slug: /critical-thinking/why-is-critical-thinking-important
 keywords: 
-    - kritisches Denken
-    - Überprüfung
-    - Propaganda
-    - Manipulation
-    - Werbung
-    - Fake News
+    - critical thinking
+    - verification
+    - propaganda
+    - manipulation
+    - advertising
+    - fake news
 last_update:
-  date: 2025-06-09
+  date: 2025-11-25
   author: Immanuel Lupinus
-# slug:
 # image:
 ---
 
-Das kritische Denken vereinigt die Kampfkünste des Geistes mit dem Zusammenspiel wie wir es im Tanz oder in Teamsportarten finden.
+Critical thinking unites the martial arts of the mind with the interplay we find in dance or team sports.
 
-:::info Bivalenz
-<p class="text--center">**Entgegen wirken (Antagonismus)** und **zusammen wirken (Synergie)**</p> 
+:::info Bivalence
+<p class="text--center">**Counteracting (Antagonism)** and **working together (Synergy)**</p> 
 :::
 
-Wie im Aikido oder Judo hilft es uns, **Angriffen auszuweichen**, sie umzulenken oder zu blockieren (Antagonie).
-Wie im Tanz oder im Gruppensport finden wir kooperative Elemente (Synergie).
+Like in Aikido or Judo, it helps us **dodge attacks**, redirect or block them (Antagony).
+Like in dance or group sports, we find cooperative elements (Synergy).
 
-## In der Informationsflut navigieren
+## Navigating the information flood
 
-In unserer über-vernetzten Welt sind wir täglich einer Flut von Informationen ausgesetzt.
-Im Internet und anderen Medien finden wir zum Teil korrekte und verifizierte Informationen, aber auch viel:
+In our hyper-connected world, we are exposed to a flood of information daily.
+On the internet and other media, we find partly correct and verified information, but also a lot of:
 
-- **"Fake News"** und gezielte Desinformation
-- **Propaganda** und Meinungsmanipulation
-- Irreführende **Werbung**
-- Unbeabsichtigte **Fehler** und Missverständnisse
+- **"Fake News"** and targeted disinformation
+- **Propaganda** and opinion manipulation
+- Misleading **advertising**
+- Unintentional **errors** and misunderstandings
 
-**Algorithmen** entscheiden zudem oft für uns, welche Informationen wir sehen: **Suchmaschinen** wählen, welche Ergebnisse uns zuerst angezeigt werden, während soziale Medien uns Inhalte auf Basis unserer vorherigen Interaktionen empfehlen. Dies kann zu sogenannten "**Filterblasen**" führen, in denen wir nur noch Informationen erhalten, die unsere bestehenden Ansichten bestätigen.
+**Algorithms** often decide for us which information we see: **Search engines** choose which results are displayed to us first, while social media recommends content based on our previous interactions. This can lead to so-called "**filter bubbles**" where we only receive information that confirms our existing views.
 
-Kritisches Denken hilft uns, in dieser komplexen Informationslandschaft zu navigieren, indem es uns befähigt:
+Critical thinking helps us navigate this complex information landscape by enabling us to:
 
-- Glaubwürdige von **unglaubwürdigen** Quellen zu unterscheiden
-- Fakten von puren **Meinungen** zu trennen
-- **Manipulationsversuche** zu erkennen
-- Informationen in ihrem **Kontext** zu bewerten
-- Eigene Schlussfolgerungen auf Basis fundierter **Beweise** zu ziehen
+- Distinguish credible from **unreliable** sources
+- Separate facts from pure **opinions**
+- Recognize **manipulation attempts**
+- Evaluate information in its **context**
+- Draw our own conclusions based on solid **evidence**
 
-## Bessere Entscheidungen treffen
+## Making better decisions
 
-Jeden Tag treffen wir zahlreiche Entscheidungen – **wir müssen entscheiden** – von alltäglichen Fragen wie "Was esse ich zum Mittagessen?" bis hin zu komplexen Lebensentscheidungen wie Berufswahl, finanzielle Investitionen oder medizinische Behandlungen.
+Every day we make numerous decisions – **we must decide** – from everyday questions like "What should I eat for lunch?" to complex life decisions like career choices, financial investments, or medical treatments.
 
-Kritisches Denken **verbessert unsere Entscheidungsfindung** durch:
+Critical thinking **improves our decision-making** through:
 
-- Systematische **Abwägung** von Vor- und Nachteilen
-- Berücksichtigung verschiedener **Perspektiven**
-- Identifizierung und Überwindung **kognitiver Verzerrungen** (Biases)
-- Erkennung von **Fehlern** in der eigenen Argumentation
-- Bewertung der **Qualität und Relevanz** von Informationen und **Informationsquellen**
+- Systematic **weighing** of pros and cons
+- Considering different **perspectives**
+- Identifying and overcoming **cognitive biases**
+- Recognizing **errors** in our own reasoning
+- Evaluating the **quality and relevance** of information and **information sources**
 
-## Persönliche und berufliche Entwicklung
+## Personal and professional development
 
-Kritisches Denken ist eine **Schlüsselkompetenz** in vielen beruflichen Tätigkeiten und fördert:
+Critical thinking is a **key competency** in many professional activities and promotes:
 
-- Problemlösungsfähigkeiten
-- Kreativität und Innovation
-- Effektive Kommunikation und aktives Zuhören
-- Teamarbeit und Zusammenarbeit
-- Lebenslanges Lernen und Anpassungsfähigkeit
+- Problem-solving abilities
+- Creativity and innovation
+- Effective communication and active listening
+- Teamwork and collaboration
+- Lifelong learning and adaptability
 
-Im persönlichen Bereich unterstützt kritisches Denken:
+In the personal sphere, critical thinking supports:
 
-- Selbstreflexion, Selbsterkenntnis und persönliches Wachstum
-- Entwicklung fundierter Werte und Überzeugungen
-- Schutz vor Manipulation und Betrug
-- Förderung von Autonomie und Selbstbestimmung
+- Self-reflection, self-knowledge and personal growth
+- Development of well-founded values and beliefs
+- Protection against manipulation and fraud
+- Promotion of autonomy and self-determination

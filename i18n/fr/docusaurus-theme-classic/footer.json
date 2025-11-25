@@ -1,23 +1,43 @@
 {
-  "link.title.Tutorial": {
-    "message": "Tutorial",
-    "description": "The title of the footer links column with title=Tutorial in the footer"
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Themen": {
-    "message": "Topics",
+    "message": "Thèmes",
     "description": "The title of the footer links column with title=Themen in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Plus",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Tutorial Critical Thinking": {
-    "message": "Tutorial Critical Thinking",
+  "link.item.label.Tutorial Kritisches Denken": {
+    "message": "Tutoriel Pensée Critique",
     "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
   },
   "link.item.label.Sprachspiele": {
-    "message": "Language Games",
+    "message": "Jeux de langage",
     "description": "The label of footer link with label=Sprachspiele linking to /docs/category/sprachspiele-"
+  },
+  "link.item.label.Gesellschaftsspiele": {
+    "message": "Jeux de société",
+    "description": "The label of footer link with label=Gesellschaftsspiele linking to /docs/category/gesellschaftsspiele-"
+  },
+  "link.item.label.Umwelten": {
+    "message": "Environnements",
+    "description": "The label of footer link with label=Umwelten linking to /docs/category/umwelt-"
+  },
+  "link.item.label.Energie": {
+    "message": "Énergie",
+    "description": "The label of footer link with label=Energie linking to /docs/category/energie-und-ressourcen-"
+  },
+  "link.item.label.Quellen": {
+    "message": "Sources",
+    "description": "The label of footer link with label=Quellen linking to /docs/category/quellen-und-medien-"
+  },
+  "link.item.label.Humor": {
+    "message": "Humour",
+    "description": "The label of footer link with label=Humor linking to /docs/category/humor-und-satire-"
   },
   "link.item.label.Blog": {
     "message": "Blog",
@@ -28,31 +48,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/hecmec/sprachlichtung"
   },
   "copyright": {
-    "message": "Copyright © 2025 SprachLichtung. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.",
+    "message": "Copyright © 2025 SprachLichtung. Construit avec ❤️ et Docusaurus à Nantes, Berlin, Zürich avec l'aide de la communauté 🌏.",
     "description": "The footer copyright"
-  },
-  "link.item.label.Tutorial Kritisches Denken": {
-    "message": "Tutorial Critical Thinking",
-    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
-  },
-  "link.item.label.Gesellschaftsspiele": {
-    "message": "Social Games",
-    "description": "The label of footer link with label=Gesellschaftsspiele linking to /docs/category/gesellschaftsspiele-"
-  },
-  "link.item.label.Umwelten": {
-    "message": "Environments",
-    "description": "The label of footer link with label=Umwelten linking to /docs/category/umwelt-"
-  },
-  "link.item.label.Energie": {
-    "message": "Energy",
-    "description": "The label of footer link with label=Energie linking to /docs/category/energie-und-ressourcen-"
-  },
-  "link.item.label.Quellen": {
-    "message": "Sources",
-    "description": "The label of footer link with label=Quellen linking to /docs/category/quellen-und-medien-"
-  },
-  "link.item.label.Humor": {
-    "message": "Humor",
-    "description": "The label of footer link with label=Humor linking to /docs/category/humor-und-satire-"
   }
 }

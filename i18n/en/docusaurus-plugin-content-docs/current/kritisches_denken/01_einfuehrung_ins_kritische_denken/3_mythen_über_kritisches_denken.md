@@ -1,33 +1,33 @@
 ---
-title: Mythen über kritisches Denken
+title: Myths about critical thinking
 sidebar_position: 4
-sidebar_label: "Mythen"
-description: "Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken."
+sidebar_label: "Myths"
+description: "The most important misconceptions and myths surrounding critical thinking."
+slug: /critical-thinking/myths-about-critical-thinking
 keywords:
-    - Kritik
-    - negatives vs positives Denken
-    - Kreativität
+    - criticism
+    - negative vs positive thinking
+    - creativity
 last_update:
-  date: 2025-06-05
+  date: 2025-11-25
   author: Immanuel Lupinus
-# slug:
 # image:
 ---
 
-Es gibt einige hartnäckige Missverständnisse über kritisches Denken, die wir vorab noch klären sollten.
+There are some persistent misconceptions about critical thinking that we should clarify first.
 
-## Mythos 1: Kritisches Denken bedeutet, alles zu kritisieren
+## Myth 1: Critical thinking means criticizing everything
 
-**Realität:** Kritisches Denken ist nicht gleichbedeutend mit Negativität oder ständiger Kritik. Es geht vielmehr um eine sorgfältige, ausgewogene Bewertung von Informationen und Argumenten, die sowohl Stärken als auch Schwächen berücksichtigt.
+**Reality:** Critical thinking is not synonymous with negativity or constant criticism. Rather, it involves careful, balanced evaluation of information and arguments that considers both strengths and weaknesses.
 
-## Mythos 2: Kritisches Denken ist unkreativ und rein analytisch
+## Myth 2: Critical thinking is uncreative and purely analytical
 
-**Realität:** Kritisches Denken und Kreativität ergänzen sich gegenseitig. Kreativität ist notwendig, um alternative Perspektiven zu entwickeln, neue Lösungen zu finden und über konventionelles Denken hinauszugehen. Kritisches Denken hilft, kreative Ideen zu bewerten und zu verfeinern.
+**Reality:** Critical thinking and creativity complement each other. Creativity is necessary to develop alternative perspectives, find new solutions, and think beyond conventional approaches. Critical thinking helps evaluate and refine creative ideas.
 
-## Mythos 3: Kritisches Denken ist nur für Akademiker und Intellektuelle relevant
+## Myth 3: Critical thinking is only relevant for academics and intellectuals
 
-**Realität:** Kritisches Denken ist eine praktische Fähigkeit, die in allen Lebensbereichen nützlich ist – vom Einkaufen und Medienkonsum bis hin zu persönlichen Beziehungen und beruflichen Entscheidungen.
+**Reality:** Critical thinking is a practical skill that is useful in all areas of life – from shopping and media consumption to personal relationships and professional decisions.
 
-## Mythos 4: Man ist entweder ein kritischer Denker oder nicht
+## Myth 4: You are either a critical thinker or you are not
 
-**Realität:** Kritisches Denken ist keine binäre Eigenschaft, sondern ein Kontinuum von Fähigkeiten, die kontinuierlich entwickelt und verbessert werden können. Jeder kann lernen, kritischer zu denken.
+**Reality:** Critical thinking is not a binary trait, but a continuum of skills that can be continuously developed and improved. Everyone can learn to think more critically.

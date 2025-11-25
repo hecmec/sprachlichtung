@@ -13,7 +13,7 @@ yarn
 ```
 
 ## Local Development
-0
+
 ```bash
 yarn start
 
@@ -72,5 +72,16 @@ yarn run start --locale en
 ### files
 
 **code.json**:  defines all text labels used in the React code.
+
+## Theme component overrides
+
+Placing a file under `src/theme/` (e.g. `src/theme/NavbarItem/LocaleDropdownNavbarItem.tsx`) overrides a Docusaurus theme component.
+
+Development:
+1. If the dev server is not running: `yarn start` is enough.
+2. If the dev server is already running when you create a brand‑new file, restart once so it picks it up.
+3. Hot reload will apply subsequent edits automatically.
+
+You only need `yarn build` for a production build; not required just to integrate or test a new component.
 
 

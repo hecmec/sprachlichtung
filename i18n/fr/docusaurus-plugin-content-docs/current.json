@@ -1,0 +1,222 @@
+{
+  "version.label": {
+    "message": "Prochaine",
+    "description": "The label for version current"
+  },
+  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken": {
+    "message": "Introduction à la pensée critique",
+    "description": "The label for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Einführung ins Kritische Denken.link.generated-index.description": {
+    "message": "Tout ce que vous devez savoir sur la pensée critique.",
+    "description": "The generated-index page description for category Einführung ins Kritische Denken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Grundlagen der Logik": {
+    "message": "Fondements de la logique",
+    "description": "The label for category Grundlagen der Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Grundlagen der Logik.link.generated-index.description": {
+    "message": "Tout ce que vous devez savoir sur la pensée critique.",
+    "description": "The generated-index page description for category Grundlagen der Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?": {
+    "message": "Qu'est-ce qu'un bon argument ?",
+    "description": "The label for category Was ist ein gutes Argument? in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Was ist ein gutes Argument?.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous apprenons ce qui fait un bon argument, comprenons la différence entre rhétorique et argumentation, et comment identifier les présupposés cachés.",
+    "description": "The generated-index page description for category Was ist ein gutes Argument? in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen und Holzwege": {
+    "message": "Pièges linguistiques et fausses pistes",
+    "description": "The label for category Sprachfallen und Holzwege in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen und Holzwege.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous abordons les pièges linguistiques, les obstacles et autres fausses pistes. Tout ce qui peut conduire à des malentendus, des erreurs de raisonnement et une pensée floue.",
+    "description": "The generated-index page description for category Sprachfallen und Holzwege in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen und mentale Heuristiken": {
+    "message": "Biais cognitifs et heuristiques mentales",
+    "description": "The label for category Kognitive Verzerrungen und mentale Heuristiken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen und mentale Heuristiken.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous explorons les biais cognitifs et les heuristiques mentales. Ces erreurs systématiques de pensée et raccourcis du cerveau peuvent conduire à de fausses conclusions et évaluations, mais influencent fortement nos décisions et jugements.",
+    "description": "The generated-index page description for category Kognitive Verzerrungen und mentale Heuristiken in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse und schlechtes Argumentieren": {
+    "message": "Sophismes et mauvaise argumentation",
+    "description": "The label for category Fehlschlüsse und schlechtes Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse und schlechtes Argumentieren.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les sophismes et les mauvaises argumentations. Nous analysons les erreurs logiques courantes, les astuces rhétoriques et les faiblesses argumentatives qui peuvent conduire à de fausses conclusions.",
+    "description": "The generated-index page description for category Fehlschlüsse und schlechtes Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen": {
+    "message": "Paradoxes, dilemmes et pièges de pensée",
+    "description": "The label for category Paradoxien, Dilemmas und Denkfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien, Dilemmas und Denkfallen.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous explorons les paradoxes, les dilemmes et les pièges de pensée. Nous examinons des situations apparemment contradictoires, des problèmes de décision complexes et des expériences de pensée étonnantes qui défient notre logique.",
+    "description": "The generated-index page description for category Paradoxien, Dilemmas und Denkfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation und Selbstverteidigung": {
+    "message": "Manipulation et autodéfense",
+    "description": "The label for category Manipulation und Selbstverteidigung in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation und Selbstverteidigung.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les techniques de manipulation et les méthodes d'autodéfense mentale. Nous analysons comment les gens peuvent être influencés par le langage, les médias et les tactiques psychologiques, et comment s'en protéger.",
+    "description": "The generated-index page description for category Manipulation und Selbstverteidigung in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden und Laster": {
+    "message": "Vertus et vices intellectuels",
+    "description": "The label for category Intellektuelle Tugenden und Laster in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden und Laster.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les vertus et les vices intellectuels. Nous analysons quelles caractéristiques et habitudes favorisent ou entravent la pensée critique, et comment cultiver ses vertus intellectuelles.",
+    "description": "The generated-index page description for category Intellektuelle Tugenden und Laster in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Die Wissenschaft und ihre Methoden": {
+    "message": "La science et ses méthodes",
+    "description": "The label for category Die Wissenschaft und ihre Methoden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Die Wissenschaft und ihre Methoden.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons la science et ses méthodes. Nous explorons les modes de pensée scientifique, les méthodes de recherche, le concept de preuve et comment les connaissances scientifiques sont acquises et vérifiées.",
+    "description": "The generated-index page description for category Die Wissenschaft und ihre Methoden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kritisches Denken in der Praxis": {
+    "message": "La pensée critique en pratique",
+    "description": "The label for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kritisches Denken in der Praxis.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous appliquons les concepts de la pensée critique à des situations pratiques du quotidien. Nous examinons comment utiliser ces compétences pour résoudre des problèmes, prendre des décisions et évaluer des informations dans la vie de tous les jours.",
+    "description": "The generated-index page description for category Kritisches Denken in der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Quellen und Medien 📚": {
+    "message": "Sources et médias 📚",
+    "description": "The label for category Quellen und Medien 📚 in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
+    "message": "Sources et médias autour du thème de la langue et de la philosophie.",
+    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Développer sa pensée critique - Cours ULB": {
+    "message": "Développer sa pensée critique - Cours ULB",
+    "description": "The label for category Développer sa pensée critique - Cours ULB in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Développer sa pensée critique - Cours ULB.link.generated-index.description": {
+    "message": "Cette section présente le cours en ligne sur la pensée critique, intitulé « Développer sa pensée critique », proposé par Guy Haarscher à l'Université libre de Bruxelles (ULB).",
+    "description": "The generated-index page description for category Développer sa pensée critique - Cours ULB in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Pensée critique et politique": {
+    "message": "Pensée critique et politique",
+    "description": "The label for category Pensée critique et politique in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Pensée critique et politique.link.generated-index.description": {
+    "message": "La pensée critique et la politique : enjeux et perspectives.",
+    "description": "The generated-index page description for category Pensée critique et politique in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Histoire de la Pensée Critique": {
+    "message": "Histoire de la pensée critique",
+    "description": "The label for category Histoire de la Pensée Critique in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Histoire de la Pensée Critique.link.generated-index.description": {
+    "message": "Histoire de la pensée critique, ses origines et son évolution à travers le temps.",
+    "description": "The generated-index page description for category Histoire de la Pensée Critique in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.La Laïcité": {
+    "message": "La Laïcité",
+    "description": "The label for category La Laïcité in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.La Laïcité.link.generated-index.description": {
+    "message": "La pensée critique et la laïcité sont des concepts clés pour comprendre les enjeux de la société moderne.",
+    "description": "The generated-index page description for category La Laïcité in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.L'argumentation": {
+    "message": "L'argumentation",
+    "description": "The label for category L'argumentation in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.L'argumentation.link.generated-index.description": {
+    "message": "L'argumentation et la liberté d'expression dans les sociétés démocratiques.",
+    "description": "The generated-index page description for category L'argumentation in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Athéisme et PC": {
+    "message": "Athéisme et pensée critique",
+    "description": "The label for category Athéisme et PC in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Athéisme et PC.link.generated-index.description": {
+    "message": "Athéisme et pensée critique : enjeux et perspectives.",
+    "description": "The generated-index page description for category Athéisme et PC in sidebar kritDenkenSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele 🤟": {
+    "message": "Jeux de langage 🤟",
+    "description": "The label for category Sprachspiele 🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Sprachspiele 🤟.link.generated-index.description": {
+    "message": "Tout ce que vous devez savoir sur les jeux de langage.",
+    "description": "The generated-index page description for category Sprachspiele 🤟 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲": {
+    "message": "Jeux de société 🎲",
+    "description": "The label for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Gesellschaftsspiele 🎲.link.generated-index.description": {
+    "message": "Tout ce que vous devez savoir sur les jeux de société.",
+    "description": "The generated-index page description for category Gesellschaftsspiele 🎲 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Politische Argumentation": {
+    "message": "Argumentation politique",
+    "description": "The label for category Politische Argumentation in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Politische Argumentation.link.generated-index.description": {
+    "message": "Comment fonctionne l'argumentation politique ? Avec de nombreux exemples.",
+    "description": "The generated-index page description for category Politische Argumentation in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten 🤖": {
+    "message": "Mondes artificiels 🤖",
+    "description": "The label for category Künstliche Welten 🤖 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Künstliche Welten 🤖.link.generated-index.description": {
+    "message": "IA (Intelligence Artificielle), LLMs, Deep Learning, automates, et plus encore.",
+    "description": "The generated-index page description for category Künstliche Welten 🤖 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Umwelt 🌱": {
+    "message": "Environnement 🌱",
+    "description": "The label for category Umwelt 🌱 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Umwelt 🌱.link.generated-index.description": {
+    "message": "Environnement, durabilité, écologie, et plus encore.",
+    "description": "The generated-index page description for category Umwelt 🌱 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍": {
+    "message": "Énergie et ressources 🌍",
+    "description": "The label for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Energie und Ressourcen 🌍.link.generated-index.description": {
+    "message": "Énergie, ressources, durabilité, et plus encore.",
+    "description": "The generated-index page description for category Energie und Ressourcen 🌍 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚": {
+    "message": "Sources et médias 📚",
+    "description": "The label for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Quellen und Medien 📚.link.generated-index.description": {
+    "message": "Sources et médias autour du thème de la langue et de la philosophie.",
+    "description": "The generated-index page description for category Quellen und Medien 📚 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂": {
+    "message": "Humour et satire 😂",
+    "description": "The label for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Humor und Satire 😂.link.generated-index.description": {
+    "message": "Humour, blagues, mèmes, citations.",
+    "description": "The generated-index page description for category Humor und Satire 😂 in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Philosophie": {
+    "message": "Philosophie",
+    "description": "The label for category Philosophie in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Philosophie.link.generated-index.description": {
+    "message": "Philosophie : notes, résumés et réflexions.",
+    "description": "The generated-index page description for category Philosophie in sidebar umweltSidebar"
+  }
+}
