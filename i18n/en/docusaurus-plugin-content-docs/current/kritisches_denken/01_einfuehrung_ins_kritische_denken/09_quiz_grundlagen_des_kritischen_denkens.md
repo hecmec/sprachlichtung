@@ -1,59 +1,64 @@
 ---
-title: "Quiz: Grundlagen des kritischen Denkens"
+title: "Quiz: Fundamentals of Critical Thinking"
 sidebar_position: 10
 sidebar_label: Quiz
-description: "Ein interaktiver Test zur Überprüfung des Verständnisses grundlegender Konzepte des kritischen Denkens."
+description: "An interactive test to check understanding of fundamental concepts of critical thinking."
 keywords:
-  - kritisches Denken
-  - Quiz
-  - Selbsttest
-  - Wissensüberprüfung
-  - Grundlagen
-  - Lernkontrolle
+  - critical thinking
+  - quiz
+  - self-test
+  - knowledge check
+  - fundamentals
+  - learning assessment
 last_update:
-  date: 2025-05-20
+  date: 2025-11-26
   author: Immanuel Lupinus
 
 # slug: 
 # image: 
 ---
 
-## Quizfragen:
+## Quiz Questions:
 
-### 1. **Was ist kritisches Denken?**
-   - a) Die Fähigkeit, alles zu kritisieren
-   - b) Ein systematischer Prozess zur Analyse und Bewertung von Informationen
-   - c) Eine angeborene Fähigkeit, die nicht erlernt werden kann
-   - d) Ein rein akademischer Ansatz ohne praktische Anwendung
+### 1. What is critical thinking?
 
-### 2. **Welches der folgenden Elemente gehört NICHT zur Grundhaltung des kritischen Denkens?**
-   - a) Intellektuelle Neugier
-   - b) Intellektuelle Demut
-   - c) Intellektuelle Überlegenheit
-   - d) Intellektuelle Ausdaue- r
- 
-### 3. **Warum ist kritisches Denken in der heutigen Informationsgesellschaft besonders wichtig?**
-   - a) Weil es hilft, in sozialen Medien mehr Likes zu bekommen
-   - b) Weil es uns befähigt, in der Informationsflut zu navigieren und Fakten von Fiktion zu unterscheiden
-   - c) Weil es nur für akademische Karrieren relevant ist
-   - d) Weil es uns ermöglicht, andere Menschen zu kritisieren
+- a) The ability to criticize everything
+- b) A systematic process for analyzing and evaluating information
+- c) An innate ability that cannot be learned
+- d) A purely academic approach without practical application
 
-### 4. **Welches der folgenden Beispiele illustriert am besten kritisches Denken?**
-   - a) Sofortige Ablehnung einer Information, die den eigenen Überzeugungen widerspricht
-   - b) Akzeptanz von Informationen aus vertrauenswürdigen Quellen ohne weitere Prüfung
-   - c) Überprüfung der Beweise und Berücksichtigung alternativer Erklärungen vor dem Ziehen von Schlussfolgerungen
-   - d) Vermeidung von Themen, die zu komplex oder kontrovers erscheinen
+### 2. Which of the following elements does NOT belong to the fundamental attitude of critical thinking?
 
-### 5. **Welches der folgenden Hindernisse für kritisches Denken bezieht sich auf die Tendenz, Informationen zu suchen, die unsere bestehenden Überzeugungen bestätigen?**
-   - a) Dunning-Kruger-Effekt
-   - b) Bestätigungsfehler (Confirmation Bias)
-   - c) Ankereffekt
-   - d) Gruppendruck
+- a) Intellectual curiosity
+- b) Intellectual humility
+- c) Intellectual superiority
+- d) Intellectual perseverance
 
-## **Antworten:**
-1. b) Ein systematischer Prozess zur Analyse und Bewertung von Informationen
-2. c) Intellektuelle Überlegenheit
-3. b) Weil es uns befähigt, in der Informationsflut zu navigieren und Fakten von Fiktion zu unterscheiden
-4. c) Überprüfung der Beweise und Berücksichtigung alternativer Erklärungen vor dem Ziehen von Schlussfolgerungen
-5. b) Bestätigungsfehler (Confirmation Bias)
+### 3. Why is critical thinking particularly important in today's information society?
 
+- a) Because it helps get more likes on social media
+- b) Because it enables us to navigate the information flood and distinguish facts from fiction
+- c) Because it is only relevant for academic careers
+- d) Because it allows us to criticize other people
+
+### 4. Which of the following examples best illustrates critical thinking?
+
+- a) Immediate rejection of information that contradicts one's own beliefs
+- b) Acceptance of information from trustworthy sources without further verification
+- c) Examining evidence and considering alternative explanations before drawing conclusions
+- d) Avoiding topics that appear too complex or controversial
+
+### 5. Which of the following obstacles to critical thinking refers to the tendency to seek information that confirms our existing beliefs?
+
+- a) Dunning-Kruger effect
+- b) Confirmation bias
+- c) Anchoring effect
+- d) Group pressure
+
+## Answers:
+
+1. b) A systematic process for analyzing and evaluating information
+2. c) Intellectual superiority
+3. b) Because it enables us to navigate the information flood and distinguish facts from fiction
+4. c) Examining evidence and considering alternative explanations before drawing conclusions
+5. b) Confirmation bias

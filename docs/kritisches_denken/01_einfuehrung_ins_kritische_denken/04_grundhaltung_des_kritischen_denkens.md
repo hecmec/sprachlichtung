@@ -1,6 +1,7 @@
 ---
 title: Die Grundhaltung des kritischen Denkens
 sidebar_position: 5
+sidebar_label: "Grundhaltung"
 description: "Welche Geisteshaltung und Eigenschaften kritisches Denken fördern." 
 keywords:
     - intellektuelle Neugier
@@ -9,7 +10,7 @@ keywords:
     - intellektuelle Integrität
     - intellektuelle Ausdauer
 last_update:
-  date: 2025-05-10
+  date: 2025-11-26
   author: Immanuel Lupinus
 # slug: 
 # image: 

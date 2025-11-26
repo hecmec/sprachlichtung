@@ -18,38 +18,38 @@ last_update:
 
 Critical thinking is a systematic process that can include the following steps:
 
-## 1. **Identifying and clarifying the problem or question**
+## 1. Identifying and clarifying the problem or question
 
 - What exactly do I want to know or decide?
 - Which aspects are relevant?
-
-## 2. **Gathering relevant information**
+  
+## 2. Gathering relevant information
 
 - What facts and data are available?
 - Which sources are reliable?
 
-## 3. **Analyzing and evaluating the information**
+## 3. Analyzing and evaluating the information
 
 - Are the information accurate and complete?
 - What assumptions underlie the information?
 - Are there biases or fallacies?
 
-## 4. **Considering alternative perspectives and explanations**
+## 4. Considering alternative perspectives and explanations
 
 - What other viewpoints exist?
 - What alternative explanations are possible?
 
-## 5. **Drawing conclusions**
+## 5. Drawing conclusions
 
 - What conclusions are supported by the evidence?
 - How confident can we be in these conclusions?
 
-## 6. **Communicating and applying the results**
+## 6. Communicating and applying the results
 
 - How can the results be communicated clearly?
 - How can they be implemented in decisions or actions?
 
-## 7. **Reflecting and adjusting**
+## 7. Reflecting and adjusting
 
 - What have we learned from the process?
 - How can we improve our thinking process?

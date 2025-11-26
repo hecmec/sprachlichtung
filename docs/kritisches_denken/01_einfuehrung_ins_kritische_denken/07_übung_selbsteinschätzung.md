@@ -1,8 +1,8 @@
 ---
-title: "Übung: Selbsteinschätzung der eigenen kritischen Denkfähigkeiten"
+title: "Übung: Selbsteinschätzung deiner kritischen Denkfähigkeiten"
 sidebar_position: 8
 sidebar_label: "Selbsteinschätzung"
-description: "Ein Selbstbewertungstool zur Einschätzung und Reflexion der eigenen Fähigkeiten im kritischen Denken."
+description: "Ein Selbstbewertungstool zur Einschätzung und Reflexion deiner Fähigkeiten im kritischen Denken."
 keywords:
   - kritisches Denken
   - Selbsteinschätzung
@@ -10,7 +10,7 @@ keywords:
   - Denkfähigkeiten
   - persönliche Entwicklung
 last_update:
-  date: 2025-05-20
+  date: 2025-11-26
   author: Immanuel Lupinus
 
 # slug: 
@@ -18,24 +18,87 @@ last_update:
 
 ---
 
+Bewerte deine eigenen kritischen Denkfähigkeiten, indem du die folgenden Fragen auf einer Skala von 1 (selten) bis 5 (sehr häufig) beantwortest:
 
-Bewerten Sie Ihre eigenen kritischen Denkfähigkeiten, indem Sie die folgenden Fragen auf einer Skala von 1 (selten) bis 5 (sehr häufig) beantworten:
+1. Hinterfragst du Informationen, bevor du sie akzeptierst?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
 
-1. Ich hinterfrage Informationen, bevor ich sie akzeptiere.
-2. Ich suche aktiv nach Beweisen, die meinen eigenen Überzeugungen widersprechen könnten.
-3. Ich berücksichtige verschiedene Perspektiven, bevor ich zu einer Schlussfolgerung gelange.
-4. Ich erkenne, wenn meine Emotionen mein Urteilsvermögen beeinflussen.
-5. Ich bin bereit, meine Meinung zu ändern, wenn neue Beweise auftauchen.
-6. Ich identifiziere Annahmen in Argumenten (meinen eigenen und denen anderer).
-7. Ich unterscheide zwischen Fakten und Meinungen.
-8. Ich erkenne Fehlschlüsse in Argumenten.
-9. Ich bewerte die Glaubwürdigkeit von Informationsquellen.
-10. Ich reflektiere regelmäßig über meine eigenen Denkprozesse.
+2. Suchst du aktiv nach Beweisen, die deinen eigenen Überzeugungen widersprechen könnten?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
 
-**Auswertung:**
-- 40-50 Punkte: Starke kritische Denkfähigkeiten
-- 30-39 Punkte: Gute kritische Denkfähigkeiten mit Raum für Verbesserung
-- 20-29 Punkte: Grundlegende kritische Denkfähigkeiten, die weiterentwickelt werden sollten
-- Unter 20 Punkte: Erhebliches Potenzial zur Entwicklung kritischer Denkfähigkeiten
+3. Berücksichtigst du verschiedene Perspektiven, bevor du zu einer Schlussfolgerung gelangst?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
 
-Beachten Sie, dass diese Selbsteinschätzung subjektiv ist und möglicherweise durch kognitive Verzerrungen beeinflusst wird. Sie dient als Ausgangspunkt für Ihre persönliche Entwicklung im kritischen Denken.
+4. Erkennst du, wenn deine Emotionen dein Urteilsvermögen beeinflussen?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+5. Bist du bereit, deine Meinung zu ändern, wenn neue Beweise auftauchen?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+6. Identifizierst du Annahmen in Argumenten (deinen eigenen und denen anderer)?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+7. Unterscheidest du zwischen Fakten und Meinungen?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+8. Erkennst du Fehlschlüsse in Argumenten?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+9. Bewertest du die Glaubwürdigkeit von Informationsquellen?  
+   - [ ] 1 - selten  
+   - [ ] 2  
+   - [ ] 3  
+   - [ ] 4  
+   - [ ] 5 - sehr häufig  
+
+10. Reflektierst du regelmäßig über deine eigenen Denkprozesse?  
+    - [ ] 1 - selten  
+    - [ ] 2  
+    - [ ] 3  
+    - [ ] 4  
+    - [ ] 5 - sehr häufig  
+
+## Auswertung:
+
+Addiere deine Punkte basierend auf deinen Antworten (1-5 für jede Frage), um eine Gesamtpunktzahl von maximal 50 zu erhalten.  
+(Natürlich kannst du schummeln und dich selbst höher bewerten, aber das verringert den Nutzen dieser Übung erheblich.)
+
+- 40-50 Punkte: Starke kritische Denkfähigkeiten  
+- 30-39 Punkte: Gute kritische Denkfähigkeiten mit Raum für Verbesserung  
+- 20-29 Punkte: Grundlegende kritische Denkfähigkeiten, die weiterentwickelt werden sollten  
+- Unter 20 Punkte: Erhebliches Potenzial zur Entwicklung kritischer Denkfähigkeiten  
+
+Beachte, dass diese Selbsteinschätzung subjektiv ist und möglicherweise durch kognitive Verzerrungen beeinflusst wird.  
+Sie dient als Ausgangspunkt für deine persönliche Entwicklung im kritischen Denken.

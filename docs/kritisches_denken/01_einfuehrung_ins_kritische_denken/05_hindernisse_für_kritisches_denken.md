@@ -1,6 +1,7 @@
 ---
 title: Hindernisse für kritisches Denken
 sidebar_position: 6
+sidebar_label: "Hindernisse"
 description: "Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck."
 keywords:
     - Denkfaulheit
@@ -10,7 +11,7 @@ keywords:
     - Gruppendruck
 
 last_update:
-  date: 2025-05-10
+  date: 2025-11-26
   author: Immanuel Lupinus
 # slug: 
 # image: 
