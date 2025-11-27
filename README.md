@@ -41,7 +41,7 @@ or you do a clear
 docusaurus clear
 ```
 
-## Deployment
+## Deployment on GitHub Pages
 
 Using SSH:
 
@@ -56,6 +56,10 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch
+
+## Deployment on Railway
+
+https://github.com/rudemex/railway-docusaurus-v3
 
 ## Versioning
 
@@ -72,6 +76,10 @@ yarn run start --locale en
 ### files
 
 **code.json**:  defines all text labels used in the React code.
+
+### automatic translation with AI
+
+https://github.com/moonrailgun/docusaurus-i18n/tree/master
 
 ## Theme component overrides
 

@@ -1,3 +1,4 @@
+# Dockerfile for Docusaurus Sprachlichtung site
 
 # docker build -t docusaurus-sprachlichtung .
 # docker run -d -p 80:80 --name docusaurus-sprachlichtung-app docusaurus-sprachlichtung
