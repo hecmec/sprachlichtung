@@ -1,4 +1,5 @@
 ---
+id: warum_ist_kritisches_denken_wichtig
 title: Warum ist kritisches Denken wichtig?
 sidebar_position: 3
 sidebar_label: "Warum wichtig?"
@@ -11,7 +12,7 @@ keywords:
     - Werbung
     - Fake News
 last_update:
-  date: 2025-06-09
+  date: 2025-11-27
   author: Immanuel Lupinus
 # slug:
 # image:

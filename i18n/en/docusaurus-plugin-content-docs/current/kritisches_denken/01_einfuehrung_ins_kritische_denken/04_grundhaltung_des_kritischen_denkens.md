@@ -1,4 +1,5 @@
 ---
+id: grundhaltung_des_kritischen_denkens
 title: The fundamental Attitude of Critical Thinking
 sidebar_position: 5
 sidebar_label: "Fundamental Attitude"
@@ -10,7 +11,7 @@ keywords:
     - intellectual integrity
     - intellectual perseverance
 last_update:
-  date: 2025-11-25
+  date: 2025-11-27
   author: Immanuel Lupinus
 slug: "/critical-thinking/fundamental-attitude"
 # image: 

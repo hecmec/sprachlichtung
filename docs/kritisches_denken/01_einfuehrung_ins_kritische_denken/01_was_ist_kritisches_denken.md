@@ -1,4 +1,5 @@
 ---
+id: was_ist_kritisches_denken
 title: Was ist kritisches Denken?
 #sidebar_label: 
 sidebar_position: 2
@@ -8,7 +9,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-09-20
+  date: 2025-11-27
   author: Immanuel Lupinus
 completeness: 3/5
 

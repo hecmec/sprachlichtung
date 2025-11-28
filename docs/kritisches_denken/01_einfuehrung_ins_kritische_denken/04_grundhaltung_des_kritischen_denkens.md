@@ -1,4 +1,5 @@
 ---
+id: grundhaltung_des_kritischen_denkens
 title: Die Grundhaltung des kritischen Denkens
 sidebar_position: 5
 sidebar_label: "Grundhaltung"
@@ -10,7 +11,7 @@ keywords:
     - intellektuelle Integrität
     - intellektuelle Ausdauer
 last_update:
-  date: 2025-11-26
+  date: 2025-11-27
   author: Immanuel Lupinus
 # slug: 
 # image: 

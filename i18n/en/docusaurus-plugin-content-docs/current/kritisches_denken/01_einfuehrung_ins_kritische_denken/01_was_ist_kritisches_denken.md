@@ -1,15 +1,18 @@
 ---
+id: was_ist_kritisches_denken
 title: "What is Critical Thinking?"
 #sidebar_label: 
 sidebar_position: 2
 description: "Introduction to the ability to think reflectively, independently, and rationally, and to systematically analyze information."
 slug: "/critical-thinking/what-is-critical-thinking"
+alternateLinks:
+  en: /docs/critical-thinking/in-a-nutshell
 keywords:
     - critical thinking
     - argumentation
     - reflection
 last_update:
-  date: 2025-11-25
+  date: 2025-11-27
   author: Immanuel Lupinus
 
 # image: 

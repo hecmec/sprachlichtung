@@ -1,4 +1,5 @@
 ---
+id: kritisches_denken_kurzgesagt
 title: Kritisches Denken - Kurzgesagt
 sidebar_position: 1
 sidebar_label: Kritisches Denken 5min
@@ -9,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-09-23
+  date: 2025-11-27
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
