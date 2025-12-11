@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-11-27
+  date: 2025-12-11
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
@@ -32,15 +32,25 @@ Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen:
 von Dir selbst, von  Mitmenschen, Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
 Dein Ziel ist, die besten Entscheidungen zu treffen, für dich, deine Mitmenschen und deine Umwelt.
 
-Richtiges Handeln hat zwei Aspekte. Mit Hume gesagt: Begehren + Wissen = Handlung.
+Entscheidungen treffen wir, um **richtig zu handeln**.
 
-  1. Wo willst du hin? = **Ziele**.  
-    Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer Konstitution als Mensch ab. 
-    Wir brauchen Essen, Wärme, Sicherheit. Zum anderen werden unsere Ziele von unseren Werten bestimmt, die wir in unserer Kultur gelernt haben. 
-    Das sind Dinge wie Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon.
-  2. Wie kommst du da hin? = **Wissen**.  
-    Das ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
-    Gute Entscheidungen sind die, die auf **Wahrheit** (in einem pragmatischen Sinne) basieren und nicht auf **Irrtum**.
+:::info Handeln
+<p class="text--center">**Handeln** = **Begehren** + **Wissen**</p>
+
+&mdash; David Hume [^1]
+:::
+
+[^1]: Hume erklärt, dass Handlungen durch unser" Begierden oder Ziele motiviert sind und dass Wissen uns hilft diese Ziele zu erreichen. "A Treatise of Human Nature", Buch II, Teil 3, Abschnitt 3, "Of the Influencing Motives of the Will" (1739–40).
+
+
+1. Wo willst du hin? = **Ziele / Begehren**.  
+  Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer Konstitution als Mensch ab. 
+  Wir brauchen Essen, Wärme, Sicherheit. Zum anderen werden unsere Ziele von unseren Werten bestimmt, die wir in unserer Kultur gelernt haben. 
+  Das sind Dinge wie Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon.
+2. Wie kommst du da hin? = **Wissen**.  
+  Das ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
+  Gute Entscheidungen sind die, die auf **Wahrheit** (in einem pragmatischen Sinne) basieren und nicht auf **Irrtum**.
+
 
 ## Kriterien für „richtiges“ Handeln
 
@@ -58,29 +68,19 @@ Richtiges Handeln hat zwei Aspekte. Mit Hume gesagt: Begehren + Wissen = Handlun
 :::info Zitat
  "_Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit._"
 
- &mdash; Immanuel Kant: _Was ist Aufklärung_[^1]
+ &mdash; Immanuel Kant: _Was ist Aufklärung_[^2]
 :::
 
-[^1]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
+[^2]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
 **Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. **Sapere aude!** Habe Muth dich deines **eigenen** Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.
 
 &nbsp;
 Kritisches Denken hat zwei Hemisphären.
 
-<p class="text--center crit-think">  
-```mermaid
----
-config:
-  theme: 'base'
----
-flowchart TD
-    C{Kritisches Denken}
-    C --> D[Richtig]
-    C --> E[Kritisch]
-```
-</p>
+:::tip 
+<p class="text--center">**Kritisches Denken** = **Richtig** + **Kritisch** </p>
 
-&nbsp;
+:::
 
 Das kritische Denken has zwei wesentliche Aspekte:  
 
@@ -90,7 +90,10 @@ Das kritische Denken has zwei wesentliche Aspekte:
 2. Wie denkt man **kritisch**?  
   Die Antwort darauf ist eine **Einstellung**, wie "auf der Hut sein", die wir bei Gelegenheit einnehmen.
 
-Wenn du dir unsicher bist, ob du das eine oder das andere beherrschst, keine Sorge: beides kann man lernen.
+Wenn du dir unsicher bist, ob du das eine oder das andere beherrschst, keine Sorge: **beides kann man lernen**.
+
+Beide Aspekte werden wir im Folgenden kurz vorstellen.
+
 
 ## Wie denkst Du richtig?
 
@@ -102,8 +105,8 @@ logisch denken, argumentieren, Sprachverhexung vermeiden, Quellen prüfen, Fehls
 
 Was heisst "_logisch denken_"? Wir können doch alle immer schon denken.
 
-:::tip
-Logisch denken können heisst : von **wahren Voraussetzungen** auf **wahre Schlussfolgerungen** schliessen können.
+:::tip Definition
+**Logisch denken** können heisst : von **wahren Voraussetzungen** auf **wahre Schlussfolgerungen** schliessen können.
 :::
 
 Die **Logik** ist eine riesiges Fach, aber zum Glück für uns Laien, brauchen wir im Alltag nur ganz wenig davon, die wesentlichen Grundlagen.
@@ -132,8 +135,8 @@ Da wird eine absurde Frage aufgeworfen, die lustig sein kann, uns aber auch vorg
 - **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner, mit platten Fingernägeln und Vernunft." 
 Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richtig überzeugend ist.
 
-Exakte Sprache mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.
-Im Alltag aber, auf Grill-parties oder beim Flirten, da ist die Präzision eher ein Nachteil. Da ist es besser, wenn die Sprache feiert.
+**Exakte Sprache** mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.  
+Im Alltag ist etwas mehr Lockerheit erwünscht. Auf Grill-parties oder beim Flirten, da ist die Präzision eher ein Nachteil. Da ist es besser, wenn die Sprache feiert.
 
 ### Quellenprüfung
 
@@ -234,9 +237,8 @@ Bei vielen Themen haben wir:
 
 &nbsp;
 
-
-:::tip
-Bitte 10 mal nachsagen: **"Ich kann mich irren, ich habe mich geirrt, ich werde mich irren."**
+:::tip übung
+Bitte 10 mal nachsagen: **"Ich kann mich irren, ich habe mich schon oft geirrt, ich werde mich wieder irren."**
 :::
 
 Ist es schlimm, dass wir uns irren? Nein. Wir müssen einfach offen sein für **Fehlersuche**, konstruktive Kritik, **Hinterfragung**.
@@ -255,10 +257,10 @@ Ein anderer wichtiger Punkt des kritischen Denkens ist das **Zuhören** und die 
 - Oft hören wir nicht einmal den Satz zu ende und haben schon geurteilt.
 - Andere Menschen haben andere Prioritäten und wir haben schräge Meinungen dazu:
  
-    - das Kind will ein neues Spielzeug (was für ein Unsinn, braucht nicht noch eins)
-    - der Jugentliche träumt davon, ein Musikstar zu sein (das wird ja eh nix, hast du dich mal singen gehört)
-    - jemand will eine neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
-    - jemand isst seit Jahren kein Fleisch mehr (das ideologisch hirnverbrannt und gesundheitsschädlich)
+- das Kind will ein neues Spielzeug (was für ein Unsinn, braucht nicht noch eins)
+- der Jugendliche träumt davon, ein Musikstar zu sein (das wird ja eh nix, hast du den mal singen gehört)
+- jemand will eine neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
+- jemand isst seit Jahren kein Fleisch mehr (das ideologisch hirnverbrannt und gesundheitsschädlich)
 
 - Hier brauchen wir eine Änderung der Einstellung. Wir sind offen für Gegenargumente, hören andere Meinungen.
 
@@ -274,5 +276,35 @@ Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des
 - **Vermeidung von Voreingenommenheit**: Durch das Zurückhalten des Urteils kann man vermeiden, dass vorgefasste Meinungen und Vorurteile die Analyse beeinflussen.
 - **Gründliche Analyse**: Es erlaubt uns eine gründlichere und objektivere Analyse der vorliegenden Informationen und Argumente.
 - **Flexibilität im Denken**: Zurückhaltung des Urteils fördert die Flexibilität im Denken und ermöglicht es, verschiedene Sichtweisen zu berücksichtigen.
+
+## Zusammenfassung
+
+<p class="text--center crit-think">  
+```mermaid
+---
+config:
+  theme: 'base'
+---
+flowchart LR
+    C{Kritisches Denken}
+    C --> D[Richtig]
+    C --> E[Kritisch]
+    D --> G[Richtig Argumentieren]
+    D --> F[Logisch Denken]
+    D --> H[Klare Sprache]
+    D --> I[Quellen prüfen]
+    D --> J[Fehlschlüsse erkennen]
+    D --> K[Biases erkennen]
+    D --> L[Paradoxien & Dilemmas]
+    E --> M[Selbstkritik]
+    E --> N[Zuhören]
+    E --> N2[Offenheit]
+    E --> O[Urteil zurückhalten]
+```
+</p>
+
+&nbsp;
+
+
 
 Nach diesem sehr kondensierten Überblick über das kritische Denken, kommen wir nun zu den Details!

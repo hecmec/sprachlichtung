@@ -123,21 +123,21 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
-        {
-          type: 'localeDropdown',
-          position: 'right',
-          
-        },
         // {
-        //   href: 'https://www.sprachlichtung.org/en/',
-        //   label: 'EN',
+        //   type: 'localeDropdown',
         //   position: 'right',
+          
         // },
         {
-          href: 'https://github.com/hecmec/sprachlichtung',
-          label: 'GitHub',
+          href: 'https://en.sprachlichtung.org',
+          label: 'EN',
           position: 'right',
-        },
+        }
+        // {
+        //   href: 'https://github.com/hecmec/sprachlichtung',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     docs: {
