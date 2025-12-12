@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-12-11
+  date: 2025-12-12
   time: 12:00
   author: Immanuel Lupinus
 image: /static/img/kompass.svg
@@ -28,11 +28,13 @@ completeness: 4/5
 
 ## Was ist Kritisches Denken ?
 
-Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen:
-von Dir selbst, von  Mitmenschen, Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen:
+von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
 Dein Ziel ist, die besten Entscheidungen zu treffen, für dich, deine Mitmenschen und deine Umwelt.
 
-Entscheidungen treffen wir, um **richtig zu handeln**.
+Entscheidungen treffen wir, um **zu handeln**.
+
+**Richtige Entscheidungen** zu treffen, um **'richtig' zu handeln**, ist eine Kunst und eine Wissenschaft zugleich.
 
 :::info Handeln
 <p class="text--center">**Handeln** = **Begehren** + **Wissen**</p>
@@ -42,23 +44,37 @@ Entscheidungen treffen wir, um **richtig zu handeln**.
 
 [^1]: Hume erklärt, dass Handlungen durch unser" Begierden oder Ziele motiviert sind und dass Wissen uns hilft diese Ziele zu erreichen. "A Treatise of Human Nature", Buch II, Teil 3, Abschnitt 3, "Of the Influencing Motives of the Will" (1739–40).
 
+Jedes Handeln, jede Entscheidung, die wir treffen, basiert auf zwei fundamentalen Fragen:
 
-1. Wo willst du hin? = **Ziele / Begehren**.  
-  Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer Konstitution als Mensch ab. 
-  Wir brauchen Essen, Wärme, Sicherheit. Zum anderen werden unsere Ziele von unseren Werten bestimmt, die wir in unserer Kultur gelernt haben. 
-  Das sind Dinge wie Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon.
-2. Wie kommst du da hin? = **Wissen**.  
-  Das ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
+1. **Wo willst du hin? = Ziele / Begehren**.  
+  Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer **menschlichen Konstitution** ab. 
+  Wir brauchen Nahrung, Wärme, Sicherheit, soziale Kontakte, Sexualität, usw.  
+  Zum anderen werden unsere Ziele von unseren familiären und **kulturellen Werten** bestimmt, die wir als soziale Wesen in unserer Kultur gelernt haben. Das sind Werte und Normen wie: Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon. 
+
+2. **Wie kommst du da hin? = Wissen**.  
+  Der zweite Aspekt, ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
   Gute Entscheidungen sind die, die auf **Wahrheit** (in einem pragmatischen Sinne) basieren und nicht auf **Irrtum**.
 
 
-## Kriterien für „richtiges“ Handeln
+## Kriterien für "richtige Entscheidungen" und "richtiges" Handeln
 
-- **Klarheit**: Explizite Formulierung deiner Ziele (Desires bewusst machen).
-- **Wahrheit**: Überzeugungen faktisch möglichst korrekt (Fehler = ineffiziente oder schädliche Mittel).
-- **Konsistenz**: Ziele widersprechen einander nicht; Mittel passen zu allen relevanten Zielen.
-- **Proportionalität**: Stärke des Handelns proportional zur Stärke der gerechtfertigten Gründe.
-- **Revisionierbarkeit**: Sowohl Ziele (wenn reflektiert unhaltbar) als auch Mittelwissen (bei neuer Evidenz) sind anpassbar.
+Die Frage aller Fragen ist natürlich: wie unterscheide ich "richtige" von "falschen" Entscheidungen? Das ist ganz konkret in vielen Situationen wichtig:
+
+- Soll ich den Job wechseln oder nicht?
+- Soll ich kurzfristig planen und mit Kohle heizen oder langfristig ökologisch planen?
+- Soll ich das Auto nehmen oder das Fahrrad?
+- Soll ich ein Haus kaufen oder mieten?
+
+Es gibt keine allgemeingültige Antwort auf diese Fragen, denn sie hängen von deinen individuellen Zielen und Werten ab. 
+Aber Philosophen denken seit tausenden von Jahren darüber nach und haben einige Kriterien entwickelt, die dir helfen können, "richtige Entscheidungen" zu treffen.
+
+Wir werden viele dieser Kriterien im Laufe des Tutorials noch genauer besprechen. Hier eine kurze Übersicht:
+
+- **Wahrheit**: Überzeugungen sollten mit den Fakten übereinstimmen (Fehler = ineffiziente oder schädliche Mittel).
+- **Konsistenz und Kohärenz**: Ziele dürfen sich nicht gegenseiting widersprechen und Mittel sollten zu allen relevanten Zielen passen.
+- **Klarheit**: Es ist besser, wenn du deine Ziele explizit formulierst (Bedürfnisse, Begierden bewusst machen). Und auch beim Mittelwissen ist Klarheit wichtig (Was weiss ich genau, was nicht?).
+- **Proportionalität**: Wir müssen oft in Situationen entscheiden, in denen wir nicht alle Informationen haben. Deswegen sollte die Stärke deines Handelns proportional zur Stärke der gerechtfertigten Gründe sein.
+- **Revisionierbarkeit**: Du kannst und solltest sowohl deine Ziele und Grundüberzeugungen gelegentlich hinterfagen, als auch das Mittelwissen (bei neuer Evidenz) an die Realität anpassen. Werde fähig, deine Meinung mit guten Gründen zu ändern.
 
 ## Warum ist Kritisches Denken wichtig?
 
@@ -135,13 +151,14 @@ Da wird eine absurde Frage aufgeworfen, die lustig sein kann, uns aber auch vorg
 - **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner, mit platten Fingernägeln und Vernunft." 
 Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richtig überzeugend ist.
 
-**Exakte Sprache** mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.  
-Im Alltag ist etwas mehr Lockerheit erwünscht. Auf Grill-parties oder beim Flirten, da ist die Präzision eher ein Nachteil. Da ist es besser, wenn die Sprache feiert.
+**Exakte Sprache** mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.
+
+Im Alltag dagegen, in der Kommunikation, in der Musik, etc, da hilft exakte Sprache auch, aber oft suchen wir nach mehr Spiel in der Sprache. Auf Grill-parties oder beim Flirten, da ist Präzision nicht gefragt. Da ist es besser, wenn die Sprache feiert.
 
 ### Quellenprüfung
 
 Eine der wichtigsten Fähigkeit die wir lernen oder beherrschen sollten ist die, unsere **Quellen überprüfen** zu können.
-Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Textquellen, Erzählungen, eigene Erfahrungen oder die Anderer.
+Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Textquellen, Erzählungen, eigene Erfahrungen oder die Erzählungen Anderer.
 Die Qualität unserer Quellen ist dabei sehr unterschiedlich.
 Hier ein paar Beispiele:
 
@@ -185,7 +202,7 @@ Wir sehen als Menschen dabei so dumm und bemitleidenswert aus, dass wir uns frag
 ### Paradoxien und Dilemmas
 
 Was richtiges Denken von fehlerhaftem Denken unterscheidet, kann man gut in Extremsituationen erkennen.  
-Da, wo unser Denken an den Rand des Denkbaren gerät: an den Steilhängen der Paradoxien und Dilemmas, da wo die Widersprüche hausen.  
+**Wir lernen Denken da, wo unser Denken an den Rand des Denkbaren gerät: an den Steilhängen der Paradoxien und Dilemmas, da wo die Widersprüche hausen.**  
 Da finden wir uns nicht mehr zurecht und sind ratlos. Da müssen wir überlegen, ob wir unsere üblichen Denkweisen anwenden können, oder ob wir neue Denkweisen entwickeln müssen, um die Situation zu meistern.
 
 Typische Beispiele für Paradoxien und Dilemmas sind:
@@ -201,34 +218,45 @@ Typische Beispiele für Paradoxien und Dilemmas sind:
 #### Ethische Dilemmas
 
 - **Das Theodizee-Problem**: Warum gibt es so viel Leid in der Welt, wenn es einen allmächtigen, allwissenden und allgütigen Gott gibt?
-- **Trolley-Problem**: Wenn du eine Schiene umlenkst, stirbt eine Person. Wenn du nichts tust, stirbt eine andere. Was tust du?
-- **Das Gefangenendilemma**: Zwei Gefangene müssen entscheiden, ob sie gestehen oder schweigen. Was ist die beste Strategie?
+- **Trolley-Problem**: Wenn du eine Schienenweiche umstellst, dann stirbt eine Person. Wenn du nichts tust, fährt der Zug in einen Kinderbus. Was tust du?
+- **Das Gefangenendilemma**: Zwei Gefangene müssen entscheiden, ob sie gestehen oder schweigen, vom Verrat profitieren oder von der Solidarität. Was ist die beste Strategie?
 - **Das Dilemma der Meinungsfreiheit**: Wenn es absolute Meinungsfreiheit gibt, müssen wir dann Intoleranz tolerieren und in kauf nehmen, dass man uns der Meinungsfreiheit beraubt?
 
-Das alles gehört zum richtigen Denken dazu. Was aber ist das Kritische am Kritschen Denken?
+Das alles gehört zum richtigen Denken dazu. Was aber ist das "Kritische" am kritischen Denken?
 
 ## Wie denkst du kritisch?
 
 Jetzt kommen wir zum kritischen Teil. "**Kritisch**" ist hier **eine unabdingbare Einstellung zu sich selbst**, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
 
-- Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht, da würdest du verrückt werden.
-- Etablierte Theorien oder in deiner Kultur verwurzelte Werte kann man nicht ständig in Frage stellen.
-Manchmal aber schon. Eben dann, wenn sich **Widersprüche** mit dem Leben oder den Wissenschaften auftun.Widersprüche sind das Treibmittel des Fortschritts.
+- **Nicht immer**: Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht, da würdest du verrückt werden.
+- **Wenn es weh tut**:  Etablierte Theorien oder in deiner Kultur verwurzelte Werte kann man nicht ständig in Frage stellen.
+Manchmal aber schon. Eben dann, wenn sich **Widersprüche** mit dem Leben oder den Wissenschaften auftun. Widersprüche sind das Treibmittel des Fortschritts.
 
 ### Selbstkritik
 
-Meistens wissen wir schon, wo wir hinwollen, wofür oder wogegen wir sind, weil wir eben immer schon **Teil einer Kultur** oder Subkultur sind.
+Die meisten von uns sind totale Egozentriker. Meistens wissen wir schon, wo wir hinwollen, wofür oder wogegen wir sind. Wir sind eben immer schon **Teil einer Kultur** oder Subkultur.
 
-Wir sind voller **Überzeugungen**; wir sind uns **ganz sicher**.
+Wir sind voller **Überzeugungen** und sind uns oft **ganz sicher**.
+
 Die meiste Energie unseres Denken benutzen wir nicht, um ein angemessene oder "richtige" Lösungen auf gegebene Probleme zu finden, sondern um unsere **Vorurteile zu bestätigen**.  
 
 Unsere Gesellschaft ist voller **gegensätzlicher Überzeugungen**:
 
-- Es gibt a) nur einen Gott und dieser ist zufällig der, an den ich glaube. Gott sei Dank! Oder: b) an Gott kann man glauben wie man will, es ist nur kein wissenschaftlicher Ausdruck.
-- Die Erde ist a) ungefähr rund. Oder b) flach oder eckig.
-- Corona19 war a) eine schwere Epidemie, b) eine Verschwörung der Weltregierung.
-- Homosexualität ist a) ein natürliches Phänomen, gibt's bei Tieren und ist moralisch neutral, b) eine Krankheit und Gott nicht gefällig.
-- Wir konstatieren a) eine menschengemachte Klimakrise oder b) bestreiten dies.
+- Es gibt
+  - a) nur einen Gott und dieser ist zufällig der, an den ich glaube. Gott sei Dank!
+  - b) an Gott kann man glauben wie man will, es ist nur kein wissenschaftlicher Ausdruck.
+- Die Erde ist
+  - a) ungefähr rund. 
+  - b) flach oder eckig.
+- Corona19 war
+  - a) eine schwere Epidemie, 
+  - b) eine Verschwörung der Weltregierung.
+- Homosexualität ist 
+  - a) ein natürliches Phänomen, gibt's bei Tieren und ist moralisch neutral, 
+  - b) eine Krankheit und Gott nicht gefällig.
+- Wir konstatieren
+  - a) eine menschengemachte Klimakrise 
+  - b) bestreiten dies.
 
 Bei vielen Themen haben wir:
 
@@ -237,11 +265,19 @@ Bei vielen Themen haben wir:
 
 &nbsp;
 
-:::tip übung
-Bitte 10 mal nachsagen: **"Ich kann mich irren, ich habe mich schon oft geirrt, ich werde mich wieder irren."**
+:::tip Übung
+Bitte 10 mal nachsagen: 
+
+**"Ich kann mich irren, ich habe mich schon oft geirrt, ich werde mich wieder irren."**
 :::
 
-Ist es schlimm, dass wir uns irren? Nein. Wir müssen einfach offen sein für **Fehlersuche**, konstruktive Kritik, **Hinterfragung**.
+### Fehlersuche
+
+Ist es schlimm, dass wir uns irren? 
+
+Nein. Wenn wir uns verbessern wollen, dann müssen wir offen sein für **Fehlersuche**, konstruktive Kritik, **Hinterfragung**.
+
+Solange es uns nicht persönlich weh tut, sind wir oft bereit, Fehler zu suchen.
 
 - Bei Examen in der Schule sagte die Lehrerin: **überprüfe** deine Resultate bevor du abgibst.
 - In der Technik nennen wir es **Testen**.
@@ -262,22 +298,29 @@ Ein anderer wichtiger Punkt des kritischen Denkens ist das **Zuhören** und die 
 - jemand will eine neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
 - jemand isst seit Jahren kein Fleisch mehr (das ideologisch hirnverbrannt und gesundheitsschädlich)
 
-- Hier brauchen wir eine Änderung der Einstellung. Wir sind offen für Gegenargumente, hören andere Meinungen.
+Hier brauchen wir eine Änderung der Einstellung. Wir sollten mehr offen sein für Gegenargumente und andere Meinungen im Allgemeinen.
 
 ### Zurückhaltung meines Urteils
 
-Im kritischen Denken ist die **Zurückhaltung des Urteils** ein zentraler Punkt.  
+Im kritischen Denken ist die **Zurückhaltung des Urteils** ein zentraler Punkt. Das haben wir gerade schon angesprochen.
+
 Nicht alle Rechten sind Nazis, nicht alle Linken sind Chaoten.
 
-Schon in der Antike ist die Zurückhaltung des Urteils, als Epoché bezeichnet, ein wichtiger Punkt in der Philosophie und wurde von Philosophen wie Pyrrhon und Sextus Empiricus hervorgehoben.  
-Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des **Nicht-Anhaftens** (Non-Attachment) verkörpert. Es bedeutet, sich nicht an festen Meinungen oder Überzeugungen festzuhalten.
+Schon in der Antike ist die Zurückhaltung des Urteils, als [_Epoché_ (ἐποχή)](https://de.wikipedia.org/wiki/Epoche_(Philosophie)) bezeichnet, ein wichtiger Punkt in der Philosophie und wurde von Philosophen wie Pyrrhon und Sextus Empiricus hervorgehoben.  
+Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des **Nicht-Anhaftens** (Non-Attachment, 無執着, Mu-shūjaku)[^3] verkörpert. Es bedeutet, sich nicht an festen Meinungen oder Überzeugungen festzuhalten.
+
+[^3]: Zen lehrt, sich nicht an Ansichten, Emotionen oder Wahrnehmungen zu klammern. Das entspricht der pyrrhonischen Enthaltung, aber mit einem entscheidenden Unterschied:  
+**Epoché** sagt: „Ich halte mich nicht fest, um Ruhe zu finden.“  
+**Zen** sagt: „Ich halte mich nicht fest, weil Festhalten selbst die Ursache des Leidens ist.“
+
+#### Vorteile der Zurückhaltung des Urteils
 
 - **Offenheit für neue Informationen**: Zurückhaltung des Urteils ermöglicht es, neue Informationen und Perspektiven zu berücksichtigen, ohne voreilige Schlüsse zu ziehen.
 - **Vermeidung von Voreingenommenheit**: Durch das Zurückhalten des Urteils kann man vermeiden, dass vorgefasste Meinungen und Vorurteile die Analyse beeinflussen.
 - **Gründliche Analyse**: Es erlaubt uns eine gründlichere und objektivere Analyse der vorliegenden Informationen und Argumente.
 - **Flexibilität im Denken**: Zurückhaltung des Urteils fördert die Flexibilität im Denken und ermöglicht es, verschiedene Sichtweisen zu berücksichtigen.
 
-## Zusammenfassung
+## Ein Diagramm zur Zusammenfassung
 
 <p class="text--center crit-think">  
 ```mermaid
@@ -304,7 +347,6 @@ flowchart LR
 </p>
 
 &nbsp;
-
 
 
 Nach diesem sehr kondensierten Überblick über das kritische Denken, kommen wir nun zu den Details!
