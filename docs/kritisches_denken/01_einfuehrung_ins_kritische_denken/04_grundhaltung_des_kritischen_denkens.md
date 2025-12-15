@@ -11,8 +11,9 @@ keywords:
     - intellektuelle Integrität
     - intellektuelle Ausdauer
 last_update:
-  date: 2025-11-27
+  date: 2025-12-15
   author: Immanuel Lupinus
+completeness: 4/5
 # slug: 
 # image: 
 ---
@@ -25,11 +26,15 @@ Kritisches Denken beginnt mit einer bestimmten Geisteshaltung, die folgende Elem
 - Bereitschaft, Fragen zu stellen und nach Antworten zu suchen
 - Wunsch, über oberflächliches Wissen hinauszugehen
 
-## Intellektuelle Demut
+## Intellektuelle Demut [^1]
 
 - Anerkennung der Grenzen des eigenen Wissens
 - Bereitschaft, eigene Überzeugungen zu überprüfen und zu revidieren
 - Offenheit für Kritik und Feedback
+
+[^1]: Das Wort "Demut" gefällt vielen Kritschen Denkern nicht, da es etwas unterwürfiges hat.  
+Es stammt aus dem germanischen Sprachraum (thiomo = "Diener", "Knecht") und war ursprünglich mit der Idee des **Dienens** verbunden. Im Christentum wurde Demut zu einer zentralen Tugend (lat. **humilitas**), die im Gegensatz zu Hochmut (superbia) steht. Hier bedeutet sie die Unterordnung unter Gott und die Anerkennung der eigenen Unvollkommenheit.  
+Im philosophischen und weltlichen Kontext geht es eher um Selbstreflexion und die Abwesenheit von Arroganz – also um eine Haltung, die **Raum für andere lässt**.
 
 ## Intellektuelle Autonomie
 

@@ -13,8 +13,8 @@ last_update:
   date: 2025-12-12
   time: 12:00
   author: Immanuel Lupinus
+completeness: 5/5
 image: /static/img/kompass.svg
-completeness: 4/5
 
 # slug:
 # tags: [test1, test2]

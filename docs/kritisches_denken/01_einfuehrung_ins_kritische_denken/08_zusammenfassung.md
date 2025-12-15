@@ -10,8 +10,10 @@ keywords:
   - Informationsbewertung
   - Entscheidungsfindung
 last_update:
-  date: 2025-11-26
+  date: 2025-12-15
   author: Immanuel Lupinus
+
+completeness: 4/5  
 
 # slug: 
 # image: 
@@ -49,11 +51,14 @@ Kritisches Denken ist die **Fähigkeit, reflektiert und unabhängig zu denken** 
 ## Häufige Mythen (und die Realität)
 
 | Mythos | Realität |
-|--------|----------|
-| Kritisches Denken = alles kritisieren | Ausgewogene Bewertung von Stärken und Schwächen |
-| Nur analytisch, nicht kreativ | Kreativität und kritisches Denken ergänzen sich |
-| Nur für Akademiker relevant | Nützlich in allen Lebensbereichen |
-| Angeborene Eigenschaft | Erlernbare und entwickelbare Fähigkeit |
+|---|---|
+| Kritisches Denken = alles kritisieren | Ausgewogene Bewertung von Stärken und Schwächen, nicht bloße Negativität |
+| Unkreativ und rein analytisch | Kreativität und kritisches Denken ergänzen sich |
+| Nur für Akademiker relevant | Nützlich in allen Lebensbereichen (Alltag, Beruf, Beziehungen) |
+| Entweder man hat es oder nicht | Kontinuierlich erlern- und ausbaubar (kein binärer Zustand) |
+| Untergräbt Autorität und Respekt | Hinterfragt blindes Folgen, anerkennt gerechtfertigte Expertise |
+| Gegen Gefühle/Intuition/Hoffnung | Integriert Emotion und Intuition reflektiert, basiert auf Gründen und Belegen |
+| Gegen Glauben/Spiritualität | Glaube und Wissen trennen; koexistieren, wenn klar abgegrenzt |
 
 ## Die Grundhaltung des kritischen Denkens
 
@@ -92,6 +97,7 @@ Kritisches Denken ist die **Fähigkeit, reflektiert und unabhängig zu denken** 
 6. **Ergebnisse kommunizieren** - Wie kann ich sie klar vermitteln?
 7. **Reflektieren und anpassen** - Was habe ich gelernt?
 
+&nbsp;
 
 :::tip Ausblick
 In den folgenden Kapiteln vertiefen wir diese Grundlagen und stellen dir praktische Werkzeuge zur Verfügung, um deine kritischen Denkfähigkeiten systematisch zu entwickeln.

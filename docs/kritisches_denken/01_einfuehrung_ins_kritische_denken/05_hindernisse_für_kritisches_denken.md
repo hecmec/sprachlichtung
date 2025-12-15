@@ -11,8 +11,11 @@ keywords:
     - Gruppendruck
 
 last_update:
-  date: 2025-11-26
+  date: 2025-12-15
   author: Immanuel Lupinus
+
+completeness: 4/5
+ 
 # slug: 
 # image: 
 ---
@@ -42,6 +45,8 @@ Kurz gesagt: Unser innerer Energiesparmodus mag uns kurzfristig entlasten, aber 
 
 
 ## Selbstüberschätzung – warum wir uns oft klüger halten, als wir sind
+
+<!-- Todo: Bild von Donal Trump -->
 
 Ein wesentliches Hindernis für kritisches Denken ist unsere **Tendenz zur Selbstüberschätzung**. Wir neigen dazu, unser Wissen und unsere Fähigkeiten zu überschätzen – vor allem dann, wenn wir nur oberflächliche Kenntnisse über ein Thema haben. Gerade Unwissenheit kann zu übersteigertem Selbstvertrauen führen (Donald Trump), weil uns das nötige Wissen fehlt, um unsere Grenzen zu erkennen.
 

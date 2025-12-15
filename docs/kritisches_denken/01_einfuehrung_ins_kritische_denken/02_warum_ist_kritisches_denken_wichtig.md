@@ -12,8 +12,10 @@ keywords:
     - Werbung
     - Fake News
 last_update:
-  date: 2025-11-27
+  date: 2025-12-12
   author: Immanuel Lupinus
+completeness: 4/5
+
 # slug:
 # image:
 ---
@@ -75,3 +77,20 @@ Im persönlichen Bereich unterstützt kritisches Denken:
 - Entwicklung fundierter Werte und Überzeugungen
 - Schutz vor Manipulation und Betrug
 - Förderung von Autonomie und Selbstbestimmung
+
+## Bürger der Zivilgesellschaft
+
+In einer demokratischen Gesellschaft ist kritisches Denken unerlässlich für eine informierte und engagierte Bürgerschaft. Es ermöglicht uns:
+- Politische Aussagen und Wahlversprechen kritisch zu hinterfragen
+- Soziale und ethische Fragen aus verschiedenen Perspektiven zu betrachten
+- An öffentlichen Debatten und Entscheidungsprozessen teilzunehmen
+- Verantwortungsvoll mit Informationen umzugehen und diese zu teilen
+- Manipulation durch Populismus und Extremismus zu widerstehen
+
+## Mitmenschlichkeit und Empathie
+
+Kritisches Denken fördert auch **Mitmenschlichkeit** und **Empathie**, indem es uns lehrt, die Perspektiven und Erfahrungen anderer zu verstehen und zu respektieren. Es hilft uns, Vorurteile abzubauen und offen für neue Ideen und Kulturen zu sein. 
+
+Das ist ein Aspekt, der häufig übersehen wird, der aber in der heutigen globalisierten Welt immer wichtiger wird.
+
+
