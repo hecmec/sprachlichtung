@@ -7,7 +7,7 @@ description: "An overview of the Critical Thinking course by Allan Di Donato, co
 #   - docs
 #   - docusaurus
 # tags: [docusaurus]
-# image: ../img/ulb_pc_developper_sa_pc_intro.png
+# image: ../img/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-12-18
   author: Immanuel Lupinus
