@@ -42,7 +42,7 @@ import ReactPlayer from 'react-player';
 
 ## **2. L’expérience de Milgram : obéissance sans contrainte**
 
-![Milgram et l’expérience de la soumission](./../img/exp_milgram_instructor.png)
+![Milgram et l’expérience de la soumission](../img/exp-milgram-instructor.png)
 
 * **Cadre de l’expérience** :
   Des participants croient infliger des chocs électriques à une autre personne. Le seul "pouvoir" du scientifique est son autorité morale et scientifique, sans coercition réelle.
@@ -56,7 +56,7 @@ import ReactPlayer from 'react-player';
 
 ## **3. La reproduction dans un jeu télévisé**
 
-![Jeu de la mort](./../img/jeu_de_la_mort.png)  
+![Jeu de la mort](../img/jeu-de-la-mort.png)  
 source: *[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mort-un-docu-fiction-edifiant-5024583)*
 
 * **Le "Jeu de la mort"** :

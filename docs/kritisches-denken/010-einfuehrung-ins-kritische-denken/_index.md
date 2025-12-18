@@ -28,19 +28,19 @@ last_update:
 - **[Mythen über kritisches Denken](./030-mythen-über-kritisches-denken.md)**  
   Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken.
 
-- **[Die Grundhaltung des kritischen Denkens](./04-grundhaltung-des-kritischen-denkens.md)**  
+- **[Die Grundhaltung des kritischen Denkens](./040-grundhaltung-des-kritischen-denkens.md)**  
   Welche Geisteshaltung und Eigenschaften kritisches Denken fördern.
 
-- **[Hindernisse für kritisches Denken](./05-hindernisse-für-kritisches-denken.md)**  
+- **[Hindernisse für kritisches Denken](./050-hindernisse-für-kritisches-denken.md)**  
   Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck.
 
-- **[Der Prozess des kritischen Denkens](./06-der-prozess-des-kritischen-denkens.md)**  
+- **[Der Prozess des kritischen Denkens](./060-der-prozess-des-kritischen-denkens.md)**  
   Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion.
 
-- **[Übung: Selbsteinschätzung](./_07-übung-selbsteinschätzung.md)**  
+- **[Übung: Selbsteinschätzung](./_070-übung-selbsteinschätzung.md)**  
   Teste und reflektiere deine eigenen Fähigkeiten im kritischen Denken.
 
-- **[Zusammenfassung der Einführung](./_08-zusammenfassung.md)**  
+- **[Zusammenfassung der Einführung](./_080-zusammenfassung.md)**  
   Kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens.
 
 - **[Quiz: Grundlagen des kritischen Denkens](./09-quiz-grundlagen-des-kritischen-denkens.md)**  

@@ -22,6 +22,13 @@ import Admonition from '@theme/Admonition';
 
 ## Wie reden wir über kritisches Denken?
 
+Im Kontext des kritischen Denkens begegnen uns immer wieder bestimmte Begriffe und Konzepte, die für das Verständnis und die Anwendung dieser Fähigkeit zentral sind. Hier sind einige der wichtigsten Begriffe, die du kennen solltest.
+
+### 1. Argument
+
+
+### 
+
 
 ## Quellen
 
