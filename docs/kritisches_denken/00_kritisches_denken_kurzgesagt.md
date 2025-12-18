@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-12-12
+  date: 2025-12-18
   time: 12:00
   author: Immanuel Lupinus
 completeness: 5/5
@@ -28,9 +28,11 @@ image: /static/img/kompass.svg
 
 ## Was ist Kritisches Denken ?
 
-Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen:
-von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
-Dein Ziel ist, die besten Entscheidungen zu treffen, für dich, deine Mitmenschen und deine Umwelt.
+Wir sind Wesen mit Zielen, Werten und Überzeugungen. Um unsere **Ziele** zu erreichen und unsere **Werte** zu leben, handeln wir und dazu müssen wir **Entscheidungen** treffen. 
+Wir entscheiden uns jeden Tag, oft automatisch oder unbewusst, für das eine oder das andere auf der Grundlage von Behauptungen oder Meinungen über die Welt.
+
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen: von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
+Um deine kurz- oder längerfristigen Ziele zu erreichen, musst du **gut informierte Entscheidungen** treffen, für dich, deine Mitmenschen und deine Umwelt.
 
 Entscheidungen treffen wir, um **zu handeln**.
 
