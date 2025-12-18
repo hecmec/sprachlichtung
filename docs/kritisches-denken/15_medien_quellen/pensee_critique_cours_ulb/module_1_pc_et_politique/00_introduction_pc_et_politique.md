@@ -10,7 +10,7 @@ description: "Résumé: Introduction dans la problématique de la pensée critiq
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
-  date: 2025-07-23
+  date: 2025-12-18
   author: Immanuel Lupinus
 ---
 
@@ -46,7 +46,7 @@ Il faut distinguer entre les faits dans le monde et nos valeurs:
 Galilée rejette la vision de Ptolémée (Terre au centre) au profit de celle de Copernic (Soleil au centre), non par intuition, mais par **observation, raisonnement et calcul**.
 Cela illustre l’esprit critique : **comparer plusieurs théories et choisir la plus fondée**.
 
-![ulb_pc_galilee2.png](../img/ulb_pc_galilee2.png)
+![ulb_pc_galilee2.png](./../img/ulb_pc_galilee2.png)
 
 ## 💬 Pensée critique, démocratie et liberté
 
@@ -62,7 +62,7 @@ Exemple opposé : **Ignace de Loyola** (XVIe siècle) recommandait de croire que
 
 C’est **le refus du sens critique**.
 
-![ulb_pc_ignace_de_loyola1.png](../img/ulb_pc_ignace_de_loyola1.png)
+![ulb_pc_ignace_de_loyola1.png](./../img/ulb_pc_ignace_de_loyola1.png)
 
 ## 🛠️ Exercer sa pensée critique
 

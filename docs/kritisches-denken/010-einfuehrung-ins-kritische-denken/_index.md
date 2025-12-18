@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-11-26
+  date: 2025-12-18
   author: Immanuel Lupinus
 # image: /static/img/kompass.svg
 # slug:
@@ -19,30 +19,30 @@ last_update:
 
 ## Kapitelübersicht
 
-- **[Was ist kritisches Denken?](./01_was_ist_kritisches_denken.md)**  
+- **[Was ist kritisches Denken?](./010-was-ist-kritisches-denken.md)**  
   Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren.
 
-- **[Warum ist kritisches Denken wichtig?](./02_warum_ist_kritisches_denken_wichtig.md)**  
+- **[Warum ist kritisches Denken wichtig?](./020-warum-ist-kritisches-denken-wichtig.md)**  
   Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt.
 
-- **[Mythen über kritisches Denken](./03_mythen_über_kritisches_denken.md)**  
+- **[Mythen über kritisches Denken](./030-mythen-über-kritisches-denken.md)**  
   Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken.
 
-- **[Die Grundhaltung des kritischen Denkens](./04_grundhaltung_des_kritischen_denkens.md)**  
+- **[Die Grundhaltung des kritischen Denkens](./04-grundhaltung-des-kritischen-denkens.md)**  
   Welche Geisteshaltung und Eigenschaften kritisches Denken fördern.
 
-- **[Hindernisse für kritisches Denken](./05_hindernisse_für_kritisches_denken.md)**  
+- **[Hindernisse für kritisches Denken](./05-hindernisse-für-kritisches-denken.md)**  
   Was uns vom kritischen Denken abhält – von Denkfehlern bis Gruppendruck.
 
-- **[Der Prozess des kritischen Denkens](./06_der_prozess_des_kritischen_denkens.md)**  
+- **[Der Prozess des kritischen Denkens](./06-der-prozess-des-kritischen-denkens.md)**  
   Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion.
 
-- **[Übung: Selbsteinschätzung](./07_übung_selbsteinschätzung.md)**  
+- **[Übung: Selbsteinschätzung](./_07-übung-selbsteinschätzung.md)**  
   Teste und reflektiere deine eigenen Fähigkeiten im kritischen Denken.
 
-- **[Zusammenfassung der Einführung](./08_zusammenfassung.md)**  
+- **[Zusammenfassung der Einführung](./_08-zusammenfassung.md)**  
   Kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens.
 
-- **[Quiz: Grundlagen des kritischen Denkens](./09_quiz_grundlagen_des_kritischen_denkens.md)**  
+- **[Quiz: Grundlagen des kritischen Denkens](./09-quiz-grundlagen-des-kritischen-denkens.md)**  
   Überprüfe dein Wissen mit einem interaktiven Quiz.
 

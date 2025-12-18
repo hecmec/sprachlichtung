@@ -15,7 +15,7 @@ keywords:
 # tags: [docusaurus]
 image: ../img/ulb_pc_developper_sa_pc_intro.png
 last_update:
-  date: 2025-07-23
+  date: 2025-12-18
   author: Immanuel Lupinus
 
 ---
@@ -35,7 +35,7 @@ import ReactPlayer from 'react-player';
 Dans les années 1960, **Stanley Milgram**, psychologue à Yale, s’inspire du procès **Eichmann** (organisateur de la "solution finale") et du livre d’**Hannah Arendt**, *Eichmann à Jérusalem*, pour interroger l’obéissance à l’autorité.
 Arendt y développe la notion de **« banalité du mal »** : Eichmann ne semble pas monstrueux, mais ordinaire. Le mal vient d’une **incapacité à penser**, à **se mettre à la place d’autrui**.
 
-![arendt_eichman.jpeg](../img/arendt_eichman.jpeg)  
+![arendt_eichman.jpeg](./../img/arendt_eichman.jpeg)  
 *Eichman vs Arendt*
 
 
@@ -56,7 +56,7 @@ La majorité des participants **va jusqu’au bout**, infligeant des décharges 
 * les supplications,
 * l’absence de contrainte physique ou menace réelle.
 
-![experience de milgram](../img/experience_milgram.jpeg)
+![experience de milgram](./../img/experience_milgram.jpeg)
 
 👉 L’obéissance est massive, **sans totalitarisme, sans propagande, sans peur physique**.
 
