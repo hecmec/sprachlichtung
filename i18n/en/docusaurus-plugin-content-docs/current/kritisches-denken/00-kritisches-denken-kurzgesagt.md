@@ -1,5 +1,4 @@
 ---
-id: "kritisches_denken_kurzgesagt"
 title: "Critical Thinking - In a Nutshell"
 sidebar_position: 1
 sidebar_label: Critical Thinking 5min
@@ -11,7 +10,7 @@ keywords:
     - argumentation
     - reflection
 last_update:
-  date: 2025-11-27
+  date: 2025-12-18
   author: Immanuel Lupinus
 image: "/static/img/compass.svg"
 

@@ -14,10 +14,9 @@ keywords:
   - Les faits
   - Guy Haarscher
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro
-.png
+image: ../img/ulb-pc-developper-sa-pc-intro.png
 last_update:
-  date: 2025-07-20
+  date: 2025-12-18
   author: Immanuel Lupinus
 
 ---

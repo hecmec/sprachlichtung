@@ -1,7 +1,7 @@
 ---
 title: Wichtige Begriffe rund ums kritische Denken?
 sidebar_label: Wichtige Begriffe
-sidebar_position: 1.1
+sidebar_position: 1.2
 description: "Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren."
 keywords:
     - kritisches Denken

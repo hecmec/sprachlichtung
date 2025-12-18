@@ -1,5 +1,11 @@
 # Manipulation
 
+## Ideen
+
+- FakeNews: Vorlesung "Bullshit-Resistenz" (2023, UDK Berlin) 2. "Fake News"
+https://www.youtube.com/watch?v=cbYY-EGwvIs&list=WL&index=14&t=3767s
+
+
 ## Definition
 
 - Definition [Manipulation](https://www.spektrum.de/lexikon/psychologie/manipulation/9152) spectrum.de 

@@ -1,5 +1,5 @@
 ---
-id: kritisches_denken_kurzgesagt
+id: kritisches-denken-kurzgesagt
 title: Kritisches Denken - Kurzgesagt
 sidebar_position: 1
 sidebar_label: Kritisches Denken 5min

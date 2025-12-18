@@ -50,7 +50,7 @@ um ihre wirtschaftlichen Interessen zu schützen, mit den tollsten Argumenten.
 
 - Politische Rhetorik spielt eine entscheidende Rolle in der politischen Argumentation. 
 - Sie umfasst die Verwendung von Sprache und Stilmitteln, um die eigene Position zu stärken und die Gegner zu schwächen. 
-- Manipulative Rhetorik kann dazu führen, dass Fakten verzerrt oder übertrieben dargestellt werden, um die öffentliche Meinung zu beeinflussen. (siehe z.B.: [Charlie Kirk](./05_charly_kirk_als_politischer_sophist.md))
+- Manipulative Rhetorik kann dazu führen, dass Fakten verzerrt oder übertrieben dargestellt werden, um die öffentliche Meinung zu beeinflussen. (siehe z.B.: [Charlie Kirk](./05-charly-kirk-als-politischer-sophist.md))
 
 ## Gute und schlechte politische Argumente
 

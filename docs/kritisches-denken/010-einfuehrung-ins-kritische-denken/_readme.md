@@ -7,6 +7,11 @@
 
 - Erklären, was das Overton Fenster ist und wie kritisches Denken uns hilft, es zu erkennen und zu hinterfragen.
 
+- Aufforderungen zum Schönsein, Schlanksein, Erfolgreichsein in der Werbung. youpi
+
+- Fake News https://www.youtube.com/watch?v=cbYY-EGwvIs&list=WL&index=14&t=3767s
+
+
 
 ## Quellen
 

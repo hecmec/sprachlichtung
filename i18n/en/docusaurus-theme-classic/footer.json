@@ -13,7 +13,7 @@
   },
   "link.item.label.Tutorial Critical Thinking": {
     "message": "Tutorial Critical Thinking",
-    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
+    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches-denken/kritisches-denken-kurzgesagt"
   },
   "link.item.label.Sprachspiele": {
     "message": "Language Games",
@@ -33,7 +33,7 @@
   },
   "link.item.label.Tutorial Kritisches Denken": {
     "message": "Tutorial Critical Thinking",
-    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
+    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches-denken/kritisches-denken-kurzgesagt"
   },
   "link.item.label.Gesellschaftsspiele": {
     "message": "Social Games",

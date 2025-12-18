@@ -155,7 +155,7 @@ const config: Config = {
           items: [
             {
               label: 'Kritisches Denken',
-              to: '/docs/kritisches_denken/kritisches_denken_kurzgesagt',
+              to: '/docs/kritisches-denken/kritisches-denken-kurzgesagt',
             },
           ],
         },

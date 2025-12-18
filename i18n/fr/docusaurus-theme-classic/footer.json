@@ -13,7 +13,7 @@
   },
   "link.item.label.Tutorial Kritisches Denken": {
     "message": "Tutoriel Pensée Critique",
-    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches_denken/kritisches_denken_kurzgesagt"
+    "description": "The label of footer link with label=Tutorial Kritisches Denken linking to /docs/kritisches-denken/kritisches-denken-kurzgesagt"
   },
   "link.item.label.Sprachspiele": {
     "message": "Jeux de langage",

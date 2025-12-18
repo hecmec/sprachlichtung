@@ -17,7 +17,7 @@ const FeatureList: FeatureItem[] = [
       id: 'homepage.features.ctFundamentals.title',
       message: 'Kritisches Denken — Grundlagen',
     }),
-    Svg: require('@site/static/img/undraw_educator_6dgp.svg').default,
+    Svg: require('@site/static/img/undraw-educator-6dgp.svg').default,
     description: (
       <>
         <Translate id="homepage.features.ctFundamentals.description">
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
       id: 'homepage.features.selfDefense.title',
       message: 'Selbstverteidigung gegen Manipulation',
     }),
-    Svg: require('@site/static/img/undraw_athletes-training_koqa.svg').default,
+    Svg: require('@site/static/img/undraw-athletes-training-koqa.svg').default,
     description: (
       <>
         <Translate id="homepage.features.selfDefense.description">
@@ -50,7 +50,7 @@ const FeatureList: FeatureItem[] = [
       id: 'homepage.features.practice.title',
       message: 'Grau ist alle Theorie — Praxis ist alles',
     }),
-    Svg: require('@site/static/img/undraw_team-collaboration_phnf.svg').default,
+    Svg: require('@site/static/img/undraw-team-collaboration-phnf.svg').default,
     description: (
       <>
         <Translate id="homepage.features.practice.description">
