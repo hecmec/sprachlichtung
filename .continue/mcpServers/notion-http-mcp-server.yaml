@@ -1,0 +1,12 @@
+name: NotionMCP
+version: 0.0.2
+schema: v1
+mcpServers:
+  - name: NotionMCP
+    type: streamable-http
+    url: https://mcp.notion.com/mcp
+    auth:
+      type: bearer
+      # DO NOT commit real secrets. The token will be read from the NOTION_API_KEY env var.
+      # If your MCP client does not support env interpolation, create a local (untracked) override file.
+      token: "${NOTION_API_KEY}"

@@ -1,0 +1,75 @@
+{
+    "kritisches_denken": {
+        "title": "Kritisches Denken",
+        "page_id": "27e7c6ccb2d78044922cd9259ecea30b",
+        "docs_path": "docs/kritisches_denken",
+        "children": [
+            {
+            "title": "Einführung ins Kritische Denken",
+            "page_id": "27f7c6cc-b2d7-8160-a8f1-eb0006555200",
+            "docs_path": "docs/kritisches_denken/01_einfuehrung_ins_kritische_denken"
+            },
+            {
+            "title": "Grundlagen der Logik",
+            "page_id": "27f7c6cc-b2d7-813e-922d-f4ef51a1501b",
+            "docs_path": "docs/kritisches_denken/02_grundlagen_der_logik"
+            },
+            {
+            "title": "Was ist ein gutes Argument?",
+            "page_id": "27f7c6cc-b2d7-81f5-9336-e16d8d684dc8",
+            "docs_path": "docs/kritisches_denken/03_was_ist_ein_gutes_argument"
+            },
+            {
+            "title": "Sprachfallen und Holzwege",
+            "page_id": "27f7c6cc-b2d7-81fa-a0a1-c02b5e8e6e89",
+            "docs_path": "docs/kritisches_denken/04_sprachfallen_und_holzwege"
+            },
+            {
+            "title": "Kognitive Verzerrungen und mentale Heuristiken",
+            "page_id": "27f7c6cc-b2d7-8133-ba9b-dfd66a7935a3",
+            "docs_path": "docs/kritisches_denken/05_kognitive_verzerrungen_und_mentale_heuristiken"
+            },
+            {
+            "title": "Liste Kognitiver Verzerrungen",
+            "page_id": "27f7c6cc-b2d7-818e-b9e9-dd97013781a2",
+            "docs_path": "docs/kritisches_denken/05b_liste_kognitiver_verzerrungen"
+            },
+            {
+            "title": "Fehlschlüsse und schlechtes Argumentieren",
+            "page_id": "27f7c6cc-b2d7-81c7-ab54-ce2e50644b37",
+            "docs_path": "docs/kritisches_denken/06_fehlschluesse_und_schlechtes_argumentieren"
+            },
+            {
+            "title": "Paradoxien, Dilemmas und Denkfallen",
+            "page_id": "27f7c6cc-b2d7-810a-9932-d01e434416bc",
+            "docs_path": "docs/kritisches_denken/07_paradoxien_dilemmas_denkfallen"
+            },
+            {
+            "title": "Manipulation und Selbstverteidigung",
+            "page_id": "27f7c6cc-b2d7-818c-9ede-c1c782bcae1a",
+            "docs_path": "docs/kritisches_denken/08_manipulation_und_selbstverteidigung"
+            },
+            {
+            "title": "Intellektuelle Tugenden und Laster",
+            "page_id": "27f7c6cc-b2d7-8191-93df-dffcb9f9387c",
+            "docs_path": "docs/kritisches_denken/09_intellektuelle_tugenden_und_laster"
+            },
+            {
+            "title": "Die Wissenschaft und ihre Methoden",
+            "page_id": "27f7c6cc-b2d7-81f5-a593-c83db43b9eaf",
+            "docs_path": "docs/kritisches_denken/10_die_wissenschaft_und_ihre_methoden"
+            },
+            {
+            "title": "Kritisches Denken in der Praxis",
+            "page_id": "27f7c6cc-b2d7-8148-ae31-edfab4eda996",
+            "docs_path": "docs/kritisches_denken/11_kritisches_denken_in_der_praxis"
+            }
+        ]
+  },
+    "lebens_welten": {
+        "title": "LebensWelten",
+        "page_id": "27e7c6ccb2d780e79948d1cfecda04d7",
+        "docs_path": "docs/lebens_welten",
+        "children": []
+    }
+}

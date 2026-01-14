@@ -82,3 +82,12 @@ yarn run start --locale en
 
 
 
+### Notion sync
+
+Official Notion MCP: https://developers.notion.com/docs/mcp
+Getting started: https://developers.notion.com/docs/get-started-with-mcp
+
+https://code.visualstudio.com/docs/copilot/customization/mcp-servers#_configuration-format
+
+
+custom mcp server: https://github.com/makenotion/notion-mcp-server/tree/main

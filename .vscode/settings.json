@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        "sprachlichtung/.vscode/mcp.json: notionApi": {
+            "allowedModels": [
+                "copilot/gpt-4.1",
+                "copilot/claude-sonnet-4",
+                "copilot/gpt-5"
+            ]
+        }
+    }
+}

@@ -18,7 +18,8 @@
     "write-translations:en": "docusaurus write-translations --locale en --messagePrefix '_t_'",
     "write-translations:fr": "docusaurus write-translations --locale fr --messagePrefix '_t_'",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "sync:notion": "node tools/sync_kritisches_denken_notion.js"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
@@ -26,9 +27,12 @@
     "@docusaurus/preset-classic": "3.9.2",
     "@docusaurus/theme-mermaid": "3.9.2",
     "@mdx-js/react": "^3.1.0",
+    "@notionhq/client": "^2.2.15",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
     "docusaurus-plugin-image-zoom": "^3.0.1",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
