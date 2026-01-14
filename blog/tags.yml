@@ -13,7 +13,33 @@ hello:
 #   permalink: /docusaurus
 #   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+philo:
+  label: Philosophie
+  permalink: /Philosophie
+  description: Einträge zur Philosophie
+
+ökolo:
+  label: Ökologie
+  permalink: /ökologie
+  description: Einträge zur Ökologie
+
+kritisch:
+  label: Kritisches Denken
+  permalink: /kritisches-denken
+  description: Einträge zum kritischen Denken
+
+sprache:
+  label: Sprache
+  permalink: /sprache
+  description: Einträge zur Sprache
+
+politik:
+  label: Politik
+  permalink: /politik
+  description: Einträge zur Politik
+
+klima:
+  label: Klima
+  permalink: /klima
+  description: Einträge zum Klima
+

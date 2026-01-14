@@ -1,25 +1,26 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+hecmec:
+  name: Hector Mecker
+  title: Engineer, co-créateur de sprachlichtung
+  url: https://linkedin.com/in/hectormecker
+  image_url: https://github.com/hectormecker.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    x: nobullshit
+    linkedin: hecmec
+    github: hecmec
+    newsletter: https://www.sprachlichtung.com
+    # facebook: 
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+lupinus:
+  name: Immanuel Lupinus
+  title: Philosophe, co-créateur de sprachlichtung
+  url: https://immanuellupinus.com
+  image_url: https://github.com/immanuellupinus.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: '/all-immanuel-lupinus-articles'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: immanuellupinus
+    linkedin: immanuellupinus
+    github: immanuellupinus
+    # newsletter: https://thisweekinreact.com
