@@ -1,6 +1,6 @@
 ---
 title: "Übung: Identifizierung von Prämissen und Schlussfolgerungen"
-sidebar_position: 9
+sidebar_position: 90
 sidebar_label: "Übung"
 description: "Praktische Übungsaufgaben zur Identifizierung von Prämissen und Schlussfolgerungen in verschiedenen Argumenten mit Lösungen."
 keywords:
@@ -11,7 +11,7 @@ keywords:
   - logische Bewertung
   - versteckte Annahmen
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

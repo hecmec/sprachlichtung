@@ -1,6 +1,6 @@
 ---
 title: "Quiz: Kognitive Verzerrungen und mentale Heuristiken"
-sidebar_position: 9
+sidebar_position: 90
 sidebar_label: "Quiz"
 description: "Interaktiver Selbsttest zum Verständnis kognitiver Verzerrungen und mentaler Heuristiken für die Anwendung im kritischen Denken."
 keywords:
@@ -12,7 +12,7 @@ keywords:
   - Selbsttest
   - Wissensüberprüfung
 last_update:
-  date: 2025-05-10
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

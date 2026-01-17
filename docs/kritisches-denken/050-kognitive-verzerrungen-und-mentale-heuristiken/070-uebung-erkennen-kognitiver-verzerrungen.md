@@ -1,6 +1,6 @@
 ---
 title: "Übung: Erkennen von kognitiven Verzerrungen in eigenen Denkprozessen"
-sidebar_position: 7
+sidebar_position: 70
 sidebar_label: "Übung: Kognitive Verzerrungen erkennen"
 description: "Praktische Übung zur Selbstbeobachtung und Identifikation kognitiver Verzerrungen im eigenen Denken"
 keywords:
@@ -11,7 +11,7 @@ keywords:
   - Selbsterkenntnis
   - praktische Anwendung
 last_update:
-  date: 2025-05-10
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

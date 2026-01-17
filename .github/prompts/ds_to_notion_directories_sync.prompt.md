@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 ---
 for each direct sub directory in docs/kritisches_denken recursively
   if the sub directory contains a _category_.json file

@@ -1,6 +1,6 @@
 ---
 title: Kohärenz vs. Konsistenz
-sidebar_position: 2
+sidebar_position: 20
 description: "Erklärung des Unterschieds zwischen Kohärenz und Konsistenz in der Logik mit anschaulichen Beispielen."
 keywords:
   - Kohärenz
@@ -9,7 +9,7 @@ keywords:
   - logischer Zusammenhang
   - kritisches Denken
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

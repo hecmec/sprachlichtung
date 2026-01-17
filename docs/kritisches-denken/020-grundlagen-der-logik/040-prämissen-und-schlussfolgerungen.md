@@ -1,6 +1,6 @@
 ---
 title: Prämissen und Schlussfolgerungen
-sidebar_position: 4
+sidebar_position: 40
 description: "Einführung in die Hauptkomponenten eines Arguments: Prämissen und Schlussfolgerungen, mit Methoden zu deren Identifizierung."
 keywords:
   - Prämissen
@@ -9,7 +9,7 @@ keywords:
   - Argumentanalyse
   - logische Struktur
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

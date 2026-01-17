@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-12-18
+  date: 2026-01-15
   author: Immanuel Lupinus
 # image: /static/img/kompass.svg
 # slug:
@@ -43,6 +43,6 @@ last_update:
 - **[Zusammenfassung der Einführung](./_080-zusammenfassung.md)**  
   Kompakter Überblick über die wichtigsten Konzepte des kritischen Denkens.
 
-- **[Quiz: Grundlagen des kritischen Denkens](./09-quiz-grundlagen-des-kritischen-denkens.md)**  
+- **[Quiz: Grundlagen des kritischen Denkens](./090-quiz-grundlagen-des-kritischen-denkens.md)**  
   Überprüfe dein Wissen mit einem interaktiven Quiz.
 

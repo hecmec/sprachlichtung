@@ -9,10 +9,10 @@ keywords:
    - Scheinprobleme
    - ontologische Unterscheidungen
 last_update:
-   date: 2025-06-10
+   date: 2026-01-15
    author: Immanuel Lupinus
 ---
-
+ 
 <!-- ## Kategorienfehler -->
 
 Ein Kategorienfehler (auch: Kategorienvertauschung) liegt vor, wenn Begriffe oder Konzepte einer Kategorie fälschlicherweise auf eine andere Kategorie angewendet werden, zu der sie logisch nicht gehören. Solche Fehler führen zu Verwirrung und können Scheinprobleme oder Fehlschlüsse erzeugen.

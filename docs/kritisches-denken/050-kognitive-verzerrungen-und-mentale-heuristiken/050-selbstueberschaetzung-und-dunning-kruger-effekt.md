@@ -1,6 +1,6 @@
 ---
 title: "Selbstüberschätzung und Dunning-Kruger-Effekt"
-sidebar_position: 5
+sidebar_position: 50
 description: "Detaillierte Betrachtung der Selbstüberschätzung und des Dunning-Kruger-Effekts sowie deren Auswirkungen auf das kritische Denken"
 keywords:
   - Selbstüberschätzung
@@ -10,7 +10,7 @@ keywords:
   - Selbsteinschätzung
   - illusorische Überlegenheit
 last_update:
-  date: 2025-05-10
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Wichtige kognitive Verzerrungen"
-sidebar_position: 3
+sidebar_position: 30
 description: "Überblick über die häufigsten und wichtigsten kognitiven Verzerrungen mit Beispielen und Gegenstrategien"
 keywords:
   - kognitive Verzerrungen
@@ -13,7 +13,7 @@ keywords:
   - Dunning-Kruger-Effekt
   - Status-quo-Bias
 last_update:
-  date: 2025-09-23
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

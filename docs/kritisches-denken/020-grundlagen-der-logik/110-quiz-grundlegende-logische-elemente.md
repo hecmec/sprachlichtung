@@ -1,6 +1,6 @@
 ---
 title: "Quiz: Grundlegende Logische Elemente"
-sidebar_position: 11
+sidebar_position: 110
 sidebar_label: "Quiz"
 description: "Interaktives Quiz zur Selbstüberprüfung des Verständnisses grundlegender logischer Konzepte mit Lösungen."
 keywords:
@@ -11,7 +11,7 @@ keywords:
   - Wissensüberprüfung
   - Lernkontrolle
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

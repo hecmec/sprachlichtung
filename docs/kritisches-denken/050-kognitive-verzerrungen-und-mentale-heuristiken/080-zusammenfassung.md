@@ -1,6 +1,6 @@
 ---
 title: "Zusammenfassung"
-sidebar_position: 8
+sidebar_position: 80
 description: "Zusammenfassung der wichtigsten Erkenntnisse über kognitive Verzerrungen und mentale Heuristiken"
 keywords:
   - kognitive Verzerrungen
@@ -10,7 +10,7 @@ keywords:
   - Bestätigungsfehler
   - Debiasing-Strategien
 last_update:
-  date: 2025-05-10
+  date: 2026-01-16
   author: Immanuel Lupinus
 ---
 
@@ -39,3 +39,14 @@ Wir haben gelernt:
 - Es gibt verschiedene **Strategien zur Überwindung kognitiver Verzerrungen**, darunter Bewusstseinsentwicklung, Verlangsamung des Denkens, Perspektivenwechsel, aktive Suche nach Gegenbeweisen, Datennutzung, externe Unterstützung und spezifische Debiasing-Techniken.
 
 Das Bewusstsein für kognitive Verzerrungen und die Anwendung von Strategien zu ihrer Überwindung sind wesentliche Bestandteile des kritischen Denkens. Indem wir unsere eigenen Denkprozesse besser verstehen und hinterfragen, können wir rationalere Urteile fällen und bessere Entscheidungen treffen.
+
+## Quellen
+
+- https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen
+
+- https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
+
+- https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
+
+- https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
+

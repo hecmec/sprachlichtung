@@ -1,6 +1,6 @@
 ---
 title: "Strategien zur Überwindung kognitiver Verzerrungen"
-sidebar_position: 6
+sidebar_position: 60
 description: "Praktische Strategien und Methoden zur Reduzierung der Auswirkungen kognitiver Verzerrungen"
 keywords:
   - Debiasing-Strategien
@@ -10,7 +10,7 @@ keywords:
   - System-1-Denken
   - System-2-Denken
 last_update:
-  date: 2025-05-10
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

@@ -59,3 +59,7 @@
   --ifm-h4-font-size: 1rem;
   font-size: var(--ifm-h4-font-size);
 }
+
+.title_f1Hy {
+  font-size: 2rem;
+}

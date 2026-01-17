@@ -11,7 +11,7 @@ keywords:
   - kritisches Denken
   - Argumentationsanalyse
 last_update:
-  date: 2025-05-10
+  date: 2026-01-16
   author: Immanuel Lupinus
 ---
 
@@ -36,3 +36,15 @@ Wir haben gelernt:
 - Es gibt verschiedene **Strategien zur Erkennung von Fehlschlüssen**, wie das Nachfragen nach Beweisen, das Identifizieren emotionaler Trigger, das Suchen nach ausgelassenen Alternativen, das Prüfen von Quellen, das Achten auf Kontext und eine gesunde Skepsis gegenüber perfekten Lösungen.
 
 Das Verständnis von Fehlschlüssen ist ein wesentlicher Bestandteil des kritischen Denkens. Es hilft uns, Manipulationsversuche zu durchschauen, präziser zu argumentieren und die Qualität öffentlicher Diskurse zu verbessern.
+
+## Quellen
+
+- [Wikipedia DE : Fehlschluss](https://de.wikipedia.org/wiki/Fehlschluss)
+- [The Internet Encyclopedia of Philosophy : Fallacy](https://iep.utm.edu/fallacy/)
+- [Wikipedia EN : Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+- [School of Thought - Your Logical Fallacies](https://yourlogicalfallacyis.com/)
+- [Logical Fallacy](https://www.logical-fallacy.com/list-of-logical-fallacies/)
+- [YouTube Video](https://www.youtube.com/watch?v=pCg-SNOteQQ)
+- [Fallacy Files](https://www.fallacyfiles.org/whatarff.html)
+- [42 Fallacies PDF](https://aphilosopher.wordpress.com/wp-content/uploads/2010/09/42-fallacies.pdf)
+- [Scribbr / Logical Fallacies](https://www.scribbr.com/fallacies/logical-fallacy/)

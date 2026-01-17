@@ -1,6 +1,6 @@
 ---
 title: Zusammenfassung
-sidebar_position: 10
+sidebar_position: 100
 description: "Kompakte Zusammenfassung der grundlegenden logischen Konzepte für kritisches Denken und deren Bedeutung für die Argumentationsanalyse."
 keywords:
   - Logik
@@ -9,7 +9,7 @@ keywords:
   - Argumentationsgrundlagen
   - logische Konzepte
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

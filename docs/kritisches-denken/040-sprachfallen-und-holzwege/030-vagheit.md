@@ -10,10 +10,10 @@ keywords:
    - Grenzfälle
    - präzise Kommunikation
 last_update:
-   date: 2025-06-10
+   date: 2026-01-15
    author: Immanuel Lupinus
 ---
-
+ 
 <!-- ## Vagheit -->
 
 Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere klar unterscheidbare Bedeutungen haben, haben vage Ausdrücke unscharfe Grenzen oder Graubereiche, in denen ihre Anwendbarkeit unklar ist.

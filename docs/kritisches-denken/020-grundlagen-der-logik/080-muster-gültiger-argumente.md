@@ -1,6 +1,6 @@
 ---
 title: Muster gültiger Argumente
-sidebar_position: 8
+sidebar_position: 80
 description: "Übersicht der wichtigsten Muster gültiger Argumentationen in der formalen Logik mit Anwendungsbeispielen."
 keywords:
   - gültige Argumente
@@ -10,7 +10,7 @@ keywords:
   - Syllogismen
   - formale Logik
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

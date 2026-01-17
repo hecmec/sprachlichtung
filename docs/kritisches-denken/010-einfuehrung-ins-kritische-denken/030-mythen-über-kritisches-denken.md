@@ -1,6 +1,6 @@
 ---
 title: Mythen über kritisches Denken
-sidebar_position: 4
+sidebar_position: 30
 sidebar_label: "Mythen"
 description: "Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken."
 keywords:
@@ -8,7 +8,7 @@ keywords:
     - negatives vs positives Denken
     - Kreativität
 last_update:
-  date: 2025-12-18
+  date: 2026-01-15
   author: Immanuel Lupinus
 
 completeness: 3/5

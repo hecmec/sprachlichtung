@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Logik
-sidebar_position: 1
+sidebar_position: 10
 description: "Eine grundlegende Einführung in die Logik als Fundament des kritischen Denkens und Argumentierens."
 keywords:
   - Logik
@@ -9,7 +9,7 @@ keywords:
   - Denkgrundlagen
   - rationales Denken
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

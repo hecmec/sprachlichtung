@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 ---
 for each file in docs/kritisches_denken and its subdirectories recursively
   if the file is a markdown file

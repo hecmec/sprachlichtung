@@ -49,6 +49,7 @@ const config: Config = {
       },
       en: {
         label: 'English',
+        htmlLang: 'en-GB',
       },
       // fr: {
       //   label: 'Français',
@@ -123,16 +124,16 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
-        // {
-        //   type: 'localeDropdown',
-        //   position: 'right',
-          
-        // },
         {
-          href: 'https://en.sprachlichtung.org',
-          label: 'EN',
+          type: 'localeDropdown',
           position: 'right',
-        }
+          
+        },
+        // {
+        //   href: 'https://en.sprachlichtung.org',
+        //   label: 'EN',
+        //   position: 'right',
+        // }
         // {
         //   href: 'https://github.com/hecmec/sprachlichtung',
         //   label: 'GitHub',

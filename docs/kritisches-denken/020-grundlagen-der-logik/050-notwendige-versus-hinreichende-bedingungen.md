@@ -1,6 +1,6 @@
 ---
 title: Notwendige versus Hinreichende Bedingungen
-sidebar_position: 5
+sidebar_position: 50
 sidebar_label: "Notwendig vs. Hinreichend"
 description: "Detaillierte Erläuterung des Unterschieds zwischen notwendigen und hinreichenden Bedingungen in der Logik mit praktischen Beispielen."
 keywords:
@@ -10,7 +10,7 @@ keywords:
   - Fehlschlüsse
   - Kausalität
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 

@@ -13,7 +13,7 @@ L'article controversé de Peter Singer de 1972, _"Famine, Affluence, and Moralit
 
 ![Give a man a fish](give_a_man_a_fish.jpg)
 
-J'ai regardé [cette vidéo de Jeffrey Kaplan](https://www.youtube.com/watch?v=KVl5kMXz1vA) sur Peter Singer et je voulais partager mes réflexions.
+J'ai récemment regardé [cette vidéo de Jeffrey Kaplan](https://www.youtube.com/watch?v=KVl5kMXz1vA) sur Peter Singer et cela m'a rappelé à quel point l'article de Singer est percutant. Malheureusement, cet article n'est pas aussi connu qu'il devrait l'être.
 
 Peter Singer, philosophe australien connu pour ses travaux en éthique appliquée et en utilitarisme, a marqué la philosophie morale avec son article **"Famine, Affluence, and Morality"**, publié en 1972 dans la revue *Philosophy & Public Affairs*.
 
@@ -23,7 +23,6 @@ Singer y défend une thèse radicale : nous avons **l’obligation morale** de d
 
 Son argument, inspiré par l’utilitarisme, a suscité de vifs débats et reste aujourd’hui une référence incontournable en éthique pratique.
 
----
 
 ## L’argument de Singer : une obligation morale de donner
 

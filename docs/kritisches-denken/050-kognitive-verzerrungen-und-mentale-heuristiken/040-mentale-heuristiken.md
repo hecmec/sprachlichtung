@@ -1,6 +1,6 @@
 ---
 title: "Mentale Heuristiken"
-sidebar_position: 4
+sidebar_position: 40
 description: "Erklärung mentaler Heuristiken als kognitive Abkürzungen mit ihren Vor- und Nachteilen"
 keywords:
   - mentale Heuristiken
@@ -10,7 +10,7 @@ keywords:
   - kognitive Abkürzungen
   - Entscheidungsfindung
 last_update:
-  date: 2025-05-10
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

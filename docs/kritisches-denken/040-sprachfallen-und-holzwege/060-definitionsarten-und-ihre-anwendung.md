@@ -10,7 +10,7 @@ keywords:
    - persuasive Definition
    - Begriffsklärung
 last_update:
-   date: 2025-06-10
+   date: 2026-01-15
    author: Immanuel Lupinus
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: Was ist kritisches Denken?
 sidebar_label: Was ist kritisches Denken?
-sidebar_position: 1
+sidebar_position: 10
 description: "Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren."
 keywords:
     - kritisches Denken
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-12-18
+  date: 2026-01-15
   author: Immanuel Lupinus
 completeness: 5/5
 

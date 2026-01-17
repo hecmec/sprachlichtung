@@ -1,6 +1,6 @@
 ---
 title: "Was sind kognitive Verzerrungen?"
-sidebar_position: 2
+sidebar_position: 20
 description: "Definition und Erklärung kognitiver Verzerrungen, ihrer Merkmale und Entstehungsgründe"
 keywords:
   - kognitive Verzerrungen
@@ -10,7 +10,7 @@ keywords:
   - Informationsverarbeitung
   - evolutionäre Anpassungen
 last_update:
-  date: 2025-09-23
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

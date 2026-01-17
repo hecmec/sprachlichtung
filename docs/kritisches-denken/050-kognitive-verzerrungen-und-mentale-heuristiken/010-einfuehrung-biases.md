@@ -1,6 +1,6 @@
 ---
 title: "Einführung"
-sidebar_position: 1
+sidebar_position: 10
 description: "Einführung in das Thema kognitive Verzerrungen und deren Auswirkungen auf unser Denken"
 keywords:
   - kognitive Verzerrungen
@@ -12,7 +12,7 @@ keywords:
   - mentale Prozesse
   - Denkfehler
 last_update:
-  date: 2025-09-23
+  date: 2026-01-15
   author: Immanuel Lupinus
 ---
 

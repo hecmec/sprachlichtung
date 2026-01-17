@@ -1,6 +1,6 @@
 ---
 title: Warum ist kritisches Denken wichtig?
-sidebar_position: 3
+sidebar_position: 20
 sidebar_label: "Warum wichtig?"
 description: "Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt."
 keywords: 
@@ -11,7 +11,7 @@ keywords:
     - Werbung
     - Fake News
 last_update:
-  date: 2025-12-18
+  date: 2026-01-15
   author: Immanuel Lupinus
 completeness: 4/5
 

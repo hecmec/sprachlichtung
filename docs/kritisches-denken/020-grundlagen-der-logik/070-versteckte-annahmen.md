@@ -1,6 +1,6 @@
 ---
 title: Versteckte Annahmen
-sidebar_position: 7
+sidebar_position: 70
 description: "Anleitung zum Erkennen und Analysieren impliziter Annahmen in Argumenten für eine tiefere kritische Bewertung."
 keywords:
   - versteckte Annahmen
@@ -9,7 +9,7 @@ keywords:
   - kritisches Denken
   - Lückenanalyse
 last_update:
-  date: 2025-05-20
+  date: 2026-01-15
   author: Immanuel Lupinus
 # slug: 
 # image: 
