@@ -28,13 +28,28 @@ EN: _Anchoring Effect_
 
 ## Verwandschaft
 
+Der Ankereffekt hängt mit mehreren anderen Verzerrungen zusammen und wird von ihnen beeinflusst:
+
+- **Priming:** Frühe, scheinbar irrelevante Reize aktivieren Assoziationen und verstärken die Orientierung am ersten Wert.
+- **Framing-Effekt:** Die Art und Weise, wie Informationen dargestellt werden, bestimmt, wie wir Anker interpretieren.
+- **Bestätigungsfehler (Confirmation Bias):** Nach einem gesetzten Anker suchen wir bevorzugt nach Informationen, die ihn stützen.
+- **Status-quo-Bias:** Der aktuelle Zustand dient oft als impliziter Anker, der Veränderungen erschwert.
+- **Verfügbarkeitsheuristik:** Häufig gehörte Zahlen oder Preise sind mental leichter verfügbar und werden leicht zu Ankern.
 
 
 ## Beispiele
 
-- Bei Preisverhandlungen beeinflusst der zuerst genannte Preis stark das Endergebnis.
-- Richter verhängen längere Strafen, wenn die Staatsanwaltschaft eine hohe Strafe fordert.
-- Bei der Schätzung einer unbekannten Zahl (z.B. "Wie viele Länder gibt es in Afrika?") werden Menschen durch zuvor präsentierte Zahlen beeinflusst, selbst wenn diese offensichtlich falsch sind.
+### Preisverhandlungen
+
+Der zuerst genannte Preis (Listenpreis, „Angebot“) setzt einen Referenzpunkt. Selbst wenn er überhöht ist, bewegen sich Gegenangebote und das Endergebnis in seiner Nähe.
+
+### Gerichtsurteile
+
+Studien zeigen: Fordert die Staatsanwaltschaft eine hohe Strafe, fallen Urteile im Schnitt höher aus – der geforderte Wert dient als Anker, auch wenn Richterinnen und Richter ihn für überzogen halten.
+
+### Schätzfragen mit willkürlichen Zahlen
+
+Wird vor einer Schätzung eine zufällige oder offensichtlich falsche Zahl genannt, nähern sich spätere Antworten dieser Zahl an (z. B. bei „Wie viele Länder gibt es in Afrika?“).
 
 ## Auswirkungen
 
@@ -47,3 +62,9 @@ EN: _Anchoring Effect_
 - Bewusst verschiedene Referenzpunkte betrachten
 - Entscheidungen ohne vorherige Anker treffen
 - Sich Zeit nehmen, um über initiale Eindrücke hinauszudenken
+
+## Quellen
+
+- [Wikipedia: Ankereffekt](https://de.wikipedia.org/wiki/Ankereffekt)
+- Tversky & Kahneman (1974): "Judgment under Uncertainty: Heuristics and Biases".
+- Chapman & Johnson (1999): "Anchoring, Activation, and the Construction of Values".
