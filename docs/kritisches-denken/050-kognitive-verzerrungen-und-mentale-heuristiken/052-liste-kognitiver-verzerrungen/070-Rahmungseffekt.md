@@ -1,6 +1,6 @@
 ---
 title: "Rahmungseffekt"
-sidebar_position: 70
+sidebar_position: 7
 description: "Der Rahmungseffekt beschreibt die kognitive Verzerrung, bei der die Art und Weise, wie Informationen präsentiert werden, die Entscheidungen und Urteile von Menschen beeinflusst."
 keywords:
   - kognitive Verzerrungen
@@ -11,12 +11,16 @@ keywords:
   - Rahmungseffekt
   - Framing
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
 Wie etwas präsentiert wird, beeinflusst die Entscheidung mehr als der Inhalt.
+
+_Der Ton macht die Musik._
 :::
 
 ## Definition

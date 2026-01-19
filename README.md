@@ -81,7 +81,6 @@ yarn run start --locale en
 ## Theme component overrides
 
 
-
 ### Notion sync
 
 Official Notion MCP: https://developers.notion.com/docs/mcp

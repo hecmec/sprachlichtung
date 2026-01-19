@@ -1,6 +1,6 @@
 ---
 title: "Gruppendenkeffekt"
-sidebar_position: 60
+sidebar_position: 6
 description: "Der Gruppendenkeffekt beschreibt die Tendenz in Gruppen, nach Konsens zu streben und abweichende Meinungen zu unterdrücken, was zu schlechten Entscheidungen führt."
 keywords:
   - kognitive Verzerrungen
@@ -11,12 +11,16 @@ keywords:
   - Gruppendenkeffekt
   - Groupthink
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
 Harmoniesucht macht Gruppen blind für bessere Alternativen.
+
+_Friede, Freude, Eierkuchen._
 :::
 
 

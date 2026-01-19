@@ -1,6 +1,6 @@
 ---
 title: "Verfügbarkeitsheuristik"
-sidebar_position: 20
+sidebar_position: 2
 description: "Die Verfügbarkeitsheuristik ist eine mentale Abkürzung, bei der Menschen die Wahrscheinlichkeit von Ereignissen basierend darauf einschätzen, wie leicht ihnen Beispiele dafür einfallen."
 keywords:
   - kognitive Verzerrungen
@@ -10,12 +10,17 @@ keywords:
   - kritisches Denken
   - Verfügbarkeitsheuristik
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
+
 ---
 
 :::tip Kurz
 Das naheliegende scheint wahrscheinlicher.
+
+_Was ich nicht weiß, macht mich nicht heiß_
 :::
 
 

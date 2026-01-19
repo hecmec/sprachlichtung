@@ -1,6 +1,6 @@
 ---
 title: "Grundlagenirrtum"
-sidebar_position: 40
+sidebar_position: 4
 description: "Der Grundlagenirrtum ist eine kognitive Verzerrung, bei der Menschen das Verhalten anderer auf deren Persönlichkeit zurückführen und situative Einflüsse unterschätzen."
 keywords:
   - kognitive Verzerrungen
@@ -10,12 +10,16 @@ keywords:
   - kritisches Denken
   - Grundlagenirrtum
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
-Anderer schlecht = schlechter Charakter. Ich schlecht = schlechte Umstände.
+Wir erklären fremdes Handeln mit Persönlichkeit, nicht mit Umständen.
+
+_Das liegt in seiner Natur._
 :::
 
 

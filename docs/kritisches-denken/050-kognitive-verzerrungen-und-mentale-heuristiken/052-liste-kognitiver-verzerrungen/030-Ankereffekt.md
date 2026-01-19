@@ -1,6 +1,6 @@
 ---
 title: "Ankereffekt"
-sidebar_position: 20
+sidebar_position: 3
 description: "Der Ankereffekt ist eine kognitive Verzerrung, bei der Menschen sich zu stark auf die erste Information (den Anker) verlassen, die sie erhalten, und ihre nachfolgenden Urteile daran ausrichten."
 keywords:
   - kognitive Verzerrungen
@@ -10,13 +10,17 @@ keywords:
   - kritisches Denken
   - Ankereffekt
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 
 :::tip Kurz
 Der erste Eindruck beeinflusst stark unsere Entscheidungen.
+
+_Der erste Eindruck zählt._
 :::
 
 

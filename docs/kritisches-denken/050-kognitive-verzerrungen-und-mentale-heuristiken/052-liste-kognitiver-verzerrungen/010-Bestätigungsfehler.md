@@ -1,6 +1,6 @@
 ---
 title: "Bestätigungsfehler"
-sidebar_position: 10
+sidebar_position: 1
 description: "Der Bestätigungsfehler ist die Tendenz, Informationen so zu suchen, zu interpretieren und zu erinnern, dass sie unsere bestehenden Überzeugungen bestätigen."
 keywords:
   - kognitive Verzerrungen
@@ -10,12 +10,17 @@ keywords:
   - kritisches Denken
   - Bestätigungsfehler
 last_update:
-  date: 2026-01-17
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
+
 ---
 
 :::tip Kurz
 Du bevorzugst Informationen, die deine Überzeugungen bestätigen.
+
+_Man hört nur, was man hören will._
 :::
 
 ## Definition

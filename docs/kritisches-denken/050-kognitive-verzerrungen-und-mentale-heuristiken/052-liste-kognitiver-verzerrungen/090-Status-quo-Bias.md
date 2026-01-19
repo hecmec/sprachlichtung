@@ -1,6 +1,6 @@
 ---
 title: "Status-quo-Bias"
-sidebar_position: 90
+sidebar_position: 9
 description: "Der Status-quo-Bias beschreibt die Tendenz, den aktuellen Zustand zu bevorzugen und Veränderungen zu vermeiden, selbst wenn Veränderungen Vorteile bringen würden."
 keywords:
   - kognitive Verzerrungen
@@ -12,6 +12,8 @@ keywords:
 last_update:
   date: 2026-01-18
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz

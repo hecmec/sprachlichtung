@@ -1,6 +1,6 @@
 ---
 title: "Kognitive Dissonanz"
-sidebar_position: 80
+sidebar_position: 8
 description: "Kognitive Dissonanz beschreibt den inneren Konflikt, der entsteht, wenn Menschen widersprüchliche Überzeugungen, Werte oder Verhaltensweisen wahrnehmen."
 keywords:
   - kognitive Verzerrungen
@@ -12,9 +12,11 @@ keywords:
 last_update:
   date: 2026-01-17
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
 
 :::tip Kurz
 Widersprüche zwischen Überzeugungen und Verhalten erzeugen unbehagliche Spannungen, die wir schnell auflösen wollen.

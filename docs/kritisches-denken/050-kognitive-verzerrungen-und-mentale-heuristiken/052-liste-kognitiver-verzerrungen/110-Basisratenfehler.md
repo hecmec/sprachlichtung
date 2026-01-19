@@ -1,6 +1,6 @@
 ---
 title: "Basisratenfehler"
-sidebar_position: 110
+sidebar_position: 11
 description: "Der Basisratenfehler ist die Tendenz, Grundwahrscheinlichkeiten zu ignorieren und sich stattdessen auf spezifische Informationen zu konzentrieren."
 keywords:
   - kognitive Verzerrungen
@@ -12,11 +12,13 @@ keywords:
 last_update:
   date: 2026-01-18
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
 Grundwahrscheinlichkeiten werden ignoriert zugunsten auffälliger Details.
-****
+
 _Der wirkt aber nicht wie ein Typ, der das machen würde!_
 :::
 

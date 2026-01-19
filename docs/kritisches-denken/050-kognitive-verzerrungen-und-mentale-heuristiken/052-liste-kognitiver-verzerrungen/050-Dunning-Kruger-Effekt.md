@@ -1,6 +1,6 @@
 ---
 title: "Dunning-Kruger-Effekt"
-sidebar_position: 50
+sidebar_position: 5
 description: "Der Dunning-Kruger-Effekt beschreibt die kognitive Verzerrung, bei der Menschen mit geringen Fähigkeiten ihre Kompetenz überschätzen, während Experten ihre Fähigkeiten unterschätzen."
 keywords:
   - kognitive Verzerrungen
@@ -10,12 +10,16 @@ keywords:
   - kritisches Denken
   - Dunning-Kruger-Effekt
 last_update:
-  date: 2026-01-18
+  date: 2026-01-19
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
 Inkompetente halten sich für Experten, Experten zweifeln an sich.
+
+_Unwissenheit ist kühn._
 :::
 
 

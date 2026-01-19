@@ -1,6 +1,6 @@
 ---
 title: "Rückschaufehler"
-sidebar_position: 100
+sidebar_position: 10
 description: "Der Rückschaufehler ist die Tendenz, nach dem Eintreten eines Ereignisses zu glauben, dieses vorhersehen zu können oder sogar vorhergesehen zu haben."
 keywords:
   - kognitive Verzerrungen
@@ -12,6 +12,8 @@ keywords:
 last_update:
   date: 2026-01-18
   author: Immanuel Lupinus
+completeness: 4/5
+draft: false
 ---
 
 :::tip Kurz
