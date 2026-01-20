@@ -10,11 +10,12 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2025-12-18
+  date: 2026-01-20
   time: 12:00
   author: Immanuel Lupinus
 completeness: 5/5
-image: /static/img/kompass.svg
+
+# image: /static/img/kompass.svg
 
 # slug:
 # tags: [test1, test2]
@@ -24,7 +25,9 @@ image: /static/img/kompass.svg
 
 ---
 
- Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
+![discutierende menschen](../../static/img/banner-rationalistät-humains.png)
+
+Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
 
 ## Was ist Kritisches Denken ?
 
@@ -164,12 +167,12 @@ Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Tex
 Die Qualität unserer Quellen ist dabei sehr unterschiedlich.
 Hier ein paar Beispiele:
 
-- "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('./img/tiktok.png').default} alt="tiktok ads" height="30"  />
+- "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('../../static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
 <!-- ![alt text](tiktok.png) -->
-- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('./img/marlboro.png').default} alt="marlboro" height="30"  />
+- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('../../static/img/marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
   <!-- ![malborough|50px](marlboro.png)  -->
-- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('./img/wikipedia.png').default} alt="wikipedia" height="30"  />
-- "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('./img/ipcc.png').default} alt="ipcc" height="30"  />
+- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('../../static/img/wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
+- "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('../../static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 Ich lasse Dich entscheiden, wem Du lieber vertraust.
 

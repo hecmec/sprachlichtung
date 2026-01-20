@@ -2,6 +2,8 @@
 title: "Gruppendenkeffekt"
 sidebar_position: 6
 description: "Der Gruppendenkeffekt beschreibt die Tendenz in Gruppen, nach Konsens zu streben und abweichende Meinungen zu unterdrücken, was zu schlechten Entscheidungen führt."
+image: https://i.imgur.com/mErPwqL.png
+
 keywords:
   - kognitive Verzerrungen
   - mentale Heuristiken

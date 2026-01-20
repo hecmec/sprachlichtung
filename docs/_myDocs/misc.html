@@ -1,0 +1,341 @@
+<style>
+  #quiz-grid {
+    color: #333;
+    display: grid;
+    padding: 10px;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    width: 100%;
+  }
+
+  .quiz-view-card {
+    box-sizing: border-box;
+    width: calc(100% - 16px);
+    margin: 8px;
+    transition: box-shadow .28s cubic-bezier(.4, 0, .2, 1);
+    box-shadow: 0 2px 1px -1px #0003, 0 1px 1px #00000024, 0 1px 3px #0000001f;
+    transition: transform .5s;
+  }
+
+  .quiz-view-card:hover {
+    cursor: pointer;
+    box-shadow: 0 6px 6px -3px #0003, 0 10px 14px 1px #00000024, 0 4px 18px 3px #0000001f;
+    transform: scale(1.04);
+  }
+
+  .quiz-view-card .mat-mdc-card-image {
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 5px;
+  }
+
+  .quiz-view-card .mat-mdc-card-content {
+    margin-bottom: 5px;
+  }
+
+  .quiz-view-card .mat-mdc-card-title {
+    font-size: 1rem;
+    font-weight: 700;
+    height: 2.4rem;
+    margin-bottom: 10px;
+    overflow: hidden;
+    line-height: 1.2rem;
+  }
+
+  .quiz-view-card .points {
+    color: #666;
+    font-size: .75rem;
+    height: 1.6rem;
+    overflow: hidden;
+  }
+
+  .quiz-view-card .points .indicator {
+    display: inline-block;
+    padding-right: 10px;
+  }
+
+  .quiz-view-card .points .indicator i.material-icons {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+  }
+
+  .quiz-view-card .points .indicator span,
+  .quiz-view-card .points .indicator i.material-icons {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+  }
+
+  #intro {
+    font-size: 18px;
+    padding: 0 20px;
+    margin-bottom: 20px;
+    border-left: 10px solid #c0ca33;
+    margin-left: 20px;
+  }
+
+  #intro ul {
+    line-height: 1.8rem;
+  }
+</style>
+
+<section id="intro">
+  <p>
+    Voici une collection des quiz pour améliorer ta maîtrise de <strong>Mathématique</strong>.
+  </p>
+  <ul>
+    <li>
+      Tu veux apprendre <strong>le minimum</strong> pour réussir ton brevet ?
+    </li>
+    <li>
+      Cette liste de quiz mathématiques est <strong>la base de tout</strong> le reste. Si tu maîtrises cela, le reste
+      sera un jeu d'enfant.
+    </li>
+    <li>
+      Ces exercices mathématiques sont <strong>ludiques et interactifs</strong>. Ils t'aideront à progresser rapidement
+      sans t'ennuyer.
+    </li>
+    <li>
+      Ce sont toutes des connaissances de base. Si tu n'obtiens pas 100 % à un quiz, <strong>répète jusqu'à ce que tu
+        maîtrises tout</strong>.
+    </li>
+  </ul>
+  <p>
+    Prêt à relever le défi ? Lancez un quiz dès maintenant!
+  </p>
+</section>
+
+<section id="list">
+  <div id="quiz-grid">
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-nombres-relatifs-additions-et-soustractions">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/thumb_math-brevet-nombres-rel-addpng-1620252449497.jpg"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Les nombres relatifs: Additions et soustractions</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Nombres</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-nombres-relatifs-multiplications-et-divisions">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/math-brevet-fraction-1620083417896.png"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Les nombres relatifs: Multiplications et Divisions</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Multiplications</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-fractions-comment-multiplier-et-diviser-les-pizzas.-la-base-de-la-base.">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/thumb_pizza-parts_640jpg-1731575709666.jpg"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Les Fractions: Comment multiplier et diviser les pizzas. La base de la base.</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Fractions</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-fractions-additionner-et-soustraire">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/math-brevet-addition-fractions-1620170432580.png"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Les Fractions: Additionner et soustraire</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Fractions</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-fractions-multiplier-et-diviser">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/math-brevet-multiplier-fractions-1620251839304.png"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Les Fractions: Multiplier et Diviser</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Fractions</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-pourcentages-exercices-de-calcul-faciles">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/thumb_percent-1176979_640jpg-1733172982942.jpg"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: les pourcentages, exercices de calcul faciles</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Pourcentages</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-les-pourcentages-ii-exercices-de-calcul">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/thumb_percentage_2_40jpg-1734004309162.jpg"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: les pourcentages II, exercices de calcul</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Pourcentages</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="fr/play/brevet-des-colleges-math-proportionnalite-notion-et-exercices">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/thales_theorem_6.svg-1733180097855.png"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet des collèges Math: proportionnalité, notion et exercices</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Fractions</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>12</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+    <wqz-quiz-thumbnail>
+      <a href="/fr/play/brevet-math-puissances-et-comment-calculer-avec">
+        <mat-card appearance="outlined"
+          class="mat-mdc-card mdc-card quiz-view-card mat-mdc-card-outlined mdc-card--outlined">
+          <img mat-card-image="" alt="quiz image for illustration" class="mat-mdc-card-image mdc-card__media"
+            src="https://wunderquiz.cleverapps.io/filedata/image/2018111/math-brevet-puissance-1620596414172.png"
+            style="height: 150px" />
+          <mat-card-content class="mat-mdc-card-content text-left">
+            <mat-card-title class="mat-mdc-card-title">Brevet Math: Puissances et comment calculer avec</mat-card-title>
+            <div class="tag-list-mini">
+              <span class="tag-item">Math</span>
+              <span class="tag-item">Brevet</span>
+              <span class="tag-item">Puissances</span>
+            </div>
+            <div class="points">
+              <div class="indicator" title="Nombre des questions">
+                <i class="material-icons">numbers</i><span>10</span>
+              </div>
+            </div>
+          </mat-card-content>
+          <mat-card-footer class="mat-mdc-card-footer"></mat-card-footer>
+        </mat-card>
+      </a>
+    </wqz-quiz-thumbnail>
+
+  </div>
+</section>
+
+
+
+

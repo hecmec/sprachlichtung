@@ -12,11 +12,13 @@ keywords:
   - mentale Prozesse
   - Denkfehler
 last_update:
-  date: 2026-01-15
+  date: 2026-01-20
   author: Immanuel Lupinus
 ---
 
 <!-- ## Einführung -->
+
+![cognitive bias](../../../static/img/banner_bias_Cognitive_Bias_Codex.webp)
 
 Unser Denken ist nicht so rational und objektiv, wie wir oft glauben. Selbst wenn wir uns bemühen, logisch und kritisch zu denken, können unbewusste mentale Prozesse unsere Urteile und Entscheidungen verzerren. Diese systematischen Abweichungen von Rationalität und gutem Urteilsvermögen werden als kognitive Verzerrungen (cognitive biases) bezeichnet.
 
