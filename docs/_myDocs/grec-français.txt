@@ -1,0 +1,290 @@
+//Racine 	Origine 	Sens 	Exemples de mots comportant la racine
+
+a-, an-,	ἀ-, ἀν- 	absence, privation 	anachronisme, aphone, anonyme, apatride, athéisme
+acro-	ἄκρος	élevé, extrême 	acropole, acrostiche, acropode, acrocarpe
+actine, 	ἀκτίς	rayon 	actiniaire, actinie,
+acou-	ἀκούω	entendre 	acoustique, acouphène, acoumétrie
+adelphe	ἀδελφός	frère 	monadelphe, hétéradelphe, philadelphie
+adéno-	ἀδήν	glande 	adénite, adénome, adénopathie
+aéro-	ἀήρ	air 	aérien, aérophagie, aérobie, aérophore, aéroport, aérodynamique
+-agogue	ἄγω	qui conduit 	pédagogue, démagogue, synagogue
+agro-	ἀγρός	champ [1] 	agronomie, agrologie, agroglyphe
+-algie	ἄλγος	douleur 	névralgie, analgésique, nostalgie, antalgique
+allo-	ἄλλος	autre 	allergie, allogamie, allochtone, allopathie
+amphi-	ἀμφίς	des deux côtés, autour 	amphithéâtre, amphibien, amphibie, amphibraque
+ana-	ἀνά	retour, reprise 	anaphore, anacoluthe, analepse
+andro-	ἀνήρ, ἀνδρός	homme, mâle 	misandrie, polyandrie, andragogie, androgyne, andropause
+anémo-	ἄνεμος	vent 	anémomètre
+antho-	ἄνθος	fleur 	anthologie, anthère, anthocyane
+anthropo-	ἄνθρωπος	homme, être humain 	misanthrope, , anthropophagie, anthropologie,
+anti-	ἀντί	contre, opposé 	antibiotique, antidote, antisymétrie
+apo-	ἀπό	loin de 	apologie, apogée
+arachno-	ἀράχνη	araignée 	arachnéen, arachnides, arachnophobie
+archéo-	ἀρχαῖος	ancien, primitif 	archaïsme, archéologie, archéobactérie
+-archie, -arque	ἄρχω	commander 	anarchisme, oligarchie, monarque
+astro-	ἄστρον	étoile 	astronomie, astrologie, astronaute
+auto-	αὐτός	soi-même 	automobile, automédication, autarcie, automate, autisme
+-bactéri-	βακτηρία	bâton 	bactérie, bactériologie, bactériophage
+bar(o)-	βάρος	pesanteur 	baromètre, baresthésie
+-bate	βαίνω	qui marche 	acrobate, stylobate
+bathy-	βαθύς	profond 	bathyscaphe, bathysphère, bathymétrie
+biblio-	βιβλίον	livre 	bibliothèque, bibliographie, bible
+-bi(o)-	βίοςv	vie 	biologie, biotope, biométrie, biodégradable
+bronch(o)-	βρογχια	bronches 	bronches, bronchite, bronchoscopie
+caco-, cach-	κακός 	mauvais 	cacophonie, cacographie, cachexie
+calli-	καλός 	beau 	calligraphie, callipyge
+-cardi(o)-	καρδία 	cœur 	cardiologie, électrocardiogramme, tachycardie, myocarde
+caryo-	κάρυον 	noix, noyau 	caryotype, caryogamie, caryopse
+cata-	κατά 	en bas, dessous 	cataclysme, catacombes, cataracte, catastrophe
+-céphal-	κεφαλή 	tête 	encéphale, holocéphale, céphalée, bucéphale, céphalopode
+cérat-	κέρας 	corne 	chélicère, tricératops, kératite, kératine
+cerco-	κέρκος 	queue 	cercopithèque, cercopidés
+chir(o)-	χείρ 	main 	chiralité, chiropraxie, chirurgie, chiromancie
+chlor(o)-	χλωρός 	vert 	chlore, chlorophylle, chlorhydrique
+-chol-	χολή 	bile 	cholémie, cholagogue, cholestérol, choléra
+chor-	χορός 	chœur ; danse 	chorale, chorée, chorégraphie
+chor(o)-	χώρα 	pays 	chorologie, choronyme
+-chrom(o)-	χρῶμα 	couleur 	chromatique, chromosome, chromosphère, monochrome
+-chron(o)-	χρόνος 	temps 	chronique, chronomètre, synchronie, chronologie
+chrys(o)-	χρυσός 	or 	chrysalide, chrysanthème, chrysolite
+-clad-	κλάδος 	branche, rameau 	clade, cladistique, cladocère,
+-clasm, -clast-	klaô	briser 	iconoclasme, pyroclastique
+-clin-	κλίνω	incliner ; lit 	clinique, clinostatisme
+coléo-	κολεός	fourreau, étui 	coléoptère, coléoïdes
+-col(o)-	κῶλον	côlon 	côlon, coloscopie, colostomie, entérocolite
+como-	κόμη	chevelure, feuillage 	acomoclitisme
+copro-	κόπρος	excrément 	coprophagie, coprolalie, coprolithe
+-coque	κόκκος	graine 	staphylocoque, streptocoque, gonocoque
+-cosmo-	κόσμος	monde 	cosmonaute, cosmogonie, cosmopolitisme, macrocosme
+-cristall(o)-	κρύσταλλος	verre, glace 	cristal, cristallographie, cristallogenèse
+-crypt(o)-	κρυπτός	caché 	crypte, cryptogame, cryptogramme, cryptanalyse
+-cyan-	κύανος	bleu foncé 	cyan, cyanhydrique, anthocyane, cyanure
+cyber-	κυβερνάω	piloter 	cybernétique, cybermonde, cybercafé
+-cycl-	κύκλος	cercle 	cyclades, bicyclette, hémicycle, cyclope, encyclopédie
+cyn(o)-	κύων	chien 	cynodrome, cynisme, cynocéphale, cynorrhodon
+-cyst(o)-	κύστις	vessie 	cystite, cystoscopie, cystocèle
+-cyt(o)-	κύτος	cellule, cavité 	cytoplasme, cytogénétique, ovocyte, leucocyte
+-dactyl-	δάκτυλος	doigt 	dactylographie, périssodactyle, artiodactyle
+déca-	δέκα	dix 	décamètre, décasyllabe, décade
+-dém(o)-	δῆμος, -ου	peuple 	démocratie, démagogie, démographie, épidémie
+-dendr(o)-	δένδρον	arbre 	dendrite, philodendron, rhododendron
+-derm-	δέρματος	peau 	épiderme, dermatose, pachyderme, échinoderme
+-dési-	δαισία	division 	géodésie
+-deut(éro)-	δεύτερος	deuxième 	deutéronome, deutérium, deutoneurone
+di- ou dy-	δι-, δυ-, δύο	deux 	dimorphisme, dicotylédone, dyadique, dichotomie
+dia-	διά	à travers 	diamètre, dialecte, diarrhée, diagnostic
+-didact-	διδάσκω	enseigner 	autodidacte, didactique, didascalie
+dipl(o)-	διπλοῦς	double 	diplodocus, diplodactyle, diploïde
+dodéca-	δώδεκα	douze 	dodécalogue, dodécaphonisme, Dodécanèse, dodécaèdre
+dory-	δόρυ	lance 	doryphore, doryanthacée
+-dox-	δόξα	opinion 	paradoxe, orthodoxe, doxa
+-dram-	δρᾶμα	action 	drame, mélodrame, dramaturgie, psychodrame
+-dry(o)-	δρῦς	chêne 	dryades, hamadryades, dryopteris, dryopithèque
+-dyn(amo)-	δύναμις	force 	dynamique, dynamite, dynamo, dynamomètre, hétérodyne
+dys-	δυσ-	difficulté, mauvais (état) 	dyslexie, dysenterie, dysplasie, dystrophie
+échino-	ἐχῖνος	hérisson 	échinocoque, échinoderme
+éco-	οἶκος	maison, chez soi 	économie, écologie, écosystème
+ecto-	ἐκτός	au dehors (de), à l'extérieur 	ectoderme, ectoplasme
+-ectomie	ἐκτομή	ablation 	vasectomie, gastrectomie, lobectomie
+-èdre	ἕδρα	base 	tétraèdre, icosaèdre, polyèdre
+électr-	ἤλεκτρον	ambre, électricité 	électricité, électron, électrophorèse
+embry(o)-	ἔμβρυον	fœtus 	embryon, embryologie, embryogenèse
+ennéa-	ἐννέα	neuf (chiffre) 	ennéagone, ennéasyllabe, ennéagramme
+-entér(o)-	ἔντερα	entrailles 	gastroentérite, entérocoque, entérovirus
+-entom(o)-	ἔντομον	insecte 	entomologie, entomofaune, entomophagie
+éol-	Αἴολος	eole (dieu des vents) 	éolien, éolienne
+épi-	ἐπί	au-dessus, à la surface de 	épiderme, épiphénomène, épitaphe
+épistémé	ἐπιστήμη	science, connaissance 	épistémologie, épistémique
+éro-	Ἔρως	eros (dieu de l'amour) 	érotisme, érotomanie
+éryth(r)-	ἐρυθρός	rouge 	érythème, érythrée, érythrocyte
+-esthé(sie)-	αἴσθησις	sensation 	esthétique, anesthésie, synesthésie
+ethn(o)-	ἔθνος	peuple 	ethnie, ethnologie, ethnographie, ethnocentrisme
+éth(o)-	ἦθος	manière d'être, mœurs 	éthique, éthologie
+eu-, ev-	εὖ	bien, beau 	euphorie, eucharistie, eugénisme, euphémisme, évangile
+eudémon-	εὐδαιμονία	bonheur 	eudémonisme, eudémonologie
+etymos-	ἔτυμος	le sens d’un mot 	etymologie
+galact/x-	γάλα, -ακτός	lait 	galactose, galaxie, galactite
+-gam-	γάμος	mariage 	polygamie, monogamie, gamète, phanérogame
+gast(é)ro-	γαστήρ, -τρος	ventre, estomac 	gastronomie, gastéropode, gastroentérite
+-gène, -gén-	γεννάω	engendrer 	oxygène, pathogène, lacrymogène, hallucinogène, eugénisme
+-genèse, -génie	γένεσις	formation 	genèse, parthénogenèse, orogenèse, ontogénie
+géno-	γένος	race 	génocide, génome, génogramme
+-gé(o)-	γῆ	terre 	géologie, géographie, géométrie, gaïa, pangée
+giga-	γίγας	géant 	gigantomachie, gigaoctet, gigahertz
+-glott, -gloss-	γλῶττα, γλῶσσα	langue 	polyglotte, isoglosse, glossaire, glossolalie
+-glyc-	γλυκύς	doux, sucré 	glycérine, glucide, glucose, glycol, hypoglycémie, glycine
+-glyphe	γλύφω	graver 	hiéroglyphe, pétroglyphe, anaglyphe, glyptothèque, glyptodon
+-gone	γωνία	angle 	polygone, pentagone
+-gramm(e)	γράμμα	lettre 	anagramme, lipogramme, chronogramme, grammaire
+-graph(o)-	γράφω	écrire 	graphisme, graphologie, monographie, échographie
+-gymn(o)-	γυμνός	nu 	gymnopédie, gymnastique, gymnase, gymnote
+-gyn-	γυνή	femme 	gynécologie, androgyne, gynécée
+-gyr(o)-	γῦρος	cercle 	gyroscope, gyrophare, gyromagnétisme, dextrogyre
+hapl(o)-	ἁπλοῦς	simple 	haplotype, haplogroupe, haploïde, haplologie
+hecto-	ἑκατόν	cent 	hectare, hectomètre, hectogramme, hectolitre, hectopascal
+-hélic-	ἕλιξ	spirale 	hélice, hélicon, hélicoptère, hélicoïde
+-héli(o)-	ἥλιος	soleil 	héliocentrique, héliothérapie, héliotrope, parhélie
+hém(at)-	αἷμα, -ατος	sang 	hématologie, hémophile, hématome
+-hémère	ἡμέρα	jour 	éphémère, éphéméride, nycthémère
+hémi-	ἥμισυς	demi 	hémisphère, hémiplégie, hémistiche, hémiptère
+hépat(o)-	ἧπαρ, -ατος	foie 	hépatologie, hépatite, hépatique
+hepta-	ἑπτά	sept 	heptagone, heptasyllabe, heptacorde
+herm-	Ἑρμῆς	hermès (dieu) 	hermaphrodite, hermétisme, herméneutique
+herp-	ἕρπω	ramper, glisser 	herpétologie, herpès
+hétéro-	ἕτερος	autre 	hétéroclite, hétérogène, hétérosexuel
+hexa-	ἕξ	six 	hexaèdre, hexamètre, hexagone, hexapode
+hiéro-	ἱερός	sacré 	hiéroglyphe, hiérarchie, hiérophante
+hipp(o)-	ἵππος	cheval 	hippodrome, hippopotame, hippisme, philippe
+hist(o)-	ἱστός	tissu 	histologie, histogenèse, histamine, histogramme
+(h)olo-	ὅλος	entier 	hologramme, holocène, holocauste, holonymie, olographe
+homo-	ὅμοιος	même, semblable 	homothétie, homologue, homogène, homosexualité, homonymie
+hor(o)-	ὥρα	heure 	horodateur, horoscope
+hyal(o)-	ὕαλος	verre, transparent 	hyalin, hyalite, hyaloïde, hyaloplasme
+hydr(o)-	ὕδωρ	eau 	hydroélectricité, hydrocéphale, hydromel
+hymen(o)-	ὑμήν	membrane 	hymen, hyménoptère, hymenaster
+hyper-	ὑπέρ	au-dessus, au-delà 	hyperbole, hypertension, hypermétrope
+hypno-	ὕπνος	sommeil 	hypnotisme, hypnose, hypnotique
+hypo-	ὑπό	au-dessous 	hypoglycémie, hypothèse, hypostase, hypoténuse
+hystér(o)-	ὑστέρα	matrice 	hystérie, hystérectomie, hystéroscopie
+-iatr-	ἰατρός	médecin 	pédiatrie, iatrogène, psychiatre
+ichtyo-, 	ἰχθύς	poisson 	ichtyologie, ichthyosaure, ichtyogramme, ichtyose
+icon(o)-	εἰκών	image 	icône, iconoclaste, iconographie, iconostase
+-ïde	εἶδος	forme 	ellipsoïde, ovoïde, sphéroïde, kaléidoscope
+idio-	ἴδιος	particulier 	idiotisme, idiome, idiotype, idiosyncrasie
+iso-	ἴσος	égal 	isotherme, isocèle, isomérie, isomorphisme, isotope
+-kène	χαίνω	ouvrir 	akène
+kilo-	χίλιοι	mille 	kilogramme, kilomètre, kilowattheure, kilobyte
+kiné-, ciné-	κίνησις	bouger, remuer 	kinésithérapeute, cinématographe, cinétique, kinesthésie
+leuc(o)-	λευκός	blanc 	leucémie, leucoderme, leucocyte
+lip-	λίπος	graisse 	lipide, lipogenèse, liposuccion
+lipo-	λείπω	enlever, laisser 	lipogramme
+-lith(o)-	λίθος	pierre 	lithographie, lithosphère, aérolithe, lithothérapie
+-log(ie)	λόγος	étude, discours, raison, parole, science 	zoologie, philologie, logique, logorrhée, dialogue
+lox(o)-	λοξός	oblique 	loxodromie, loxodon
+-lyse	λύω	délier, détacher 	analyse, pyrolyse, dialyse, électrolyse
+-machie	μάχη	combat 	naumachie, logomachie, tauromachie
+macro-	μακρός	grand, long 	macroéconomie, macrocosme, macrobiotique, macron
+-mancie	μαντεία	divination 	chiromancie, cartomancie, nécromancie
+-man(i)e	μανία	folie 	maniaque, kleptomanie, toxicomanie, anglomanie
+mast(o)-	μαστός	mamelle 	mastodonte, mastologie, mastoïde, mastocytose
+mélan-	μέλας	noir 	mélancolie, mélanome, mélanésie
+mél(o)-	μέλος	chant 	mélodie, mélodrame, mélomane
+méning(o)-	μήνιγξ, -ιγγος	membrane 	méninges, méningite, méningocoque
+-mén(o)-	μήν	lunaison 	ménopause, aménorrhée
+-mér-	μέρος	partie 	polymère, isomère, méroplancton, méréologie
+méta-	μετά	au-delà 	métaphysique, métempsycose, métastase
+météor(o)-	μετέωρος	elevé dans les airs 	météore, météorite, météorologie
+-métr(o)-	μέτρον	mesure, vers 	mètre, diamètre, géométrie, hexamètre, métronome
+mis(o)-	μισέω	haïr 	misanthrope, misogynie, misonéisme
+mnémo-, -mnési-	μνήμη, μνήσια	mémoire 	mnémotechnique, amnésie, anamnèse
+mono-	μόνος	seul 	monodie, monocoque, monoculture, monopole
+-morph(o)-	μορφή	forme 	amorphe, morphogenèse, morphologie, morphème, dimorphisme
+-myc(o)-	μύκης	champignon 	mycologie, mycélium, mycose
+-myél(o)-	μυελός	moelle 	myéline, myélome, poliomyélite
+myo-	μῦς, μύος	muscle 	myopathie, myocarde, myologie, léιomyome
+myri-	μυρίοι	dix mille 	myriade, myriapode, myriamètre
+-myth-	μῦθος	mythe, légende 	mythe, mythologie, mythomane
+nécro-	νεκρός	mort 	nécropole, nécrologie, nécrophage, nécrophilie
+néo-	νέος	nouveau 	néon, néologisme, néophyte, néolithique, néo-zélandais
+néphr(o)-	νεφρός	rein 	néphrologie, néphrite, néphrectomie, néphrétique
+-nès(i)e	νῆσος	île 	Polynésie, Dodécanèse, Mélanésie
+neuro-, névr-	νεῦρον, νεῦρον	nerf 	neurone, neurologie, neurosciences, névralgie, névrose
+-nome, -nomie	νόμος	loi 	astronomie, gastronomie, métronome, autonome
+noso-	νόσος	maladie 	nosologie, nosophobie, nosocomiale
+-nyct(o)-	νύξ, νύκτός	nuit 	nyctalopie, nycthémère, nyctophobie
+ochlo-	ὄχλος	foule, populace 	ochlocratie, ochlophilie, ochlophobie
+octo-	ὀκτώ	huit 	octogone, octosyllabe, octopode
+odo-	ὁδός	chemin 	odometre, odonymie
+-odont-	ὀδούς, ὀδόντος	dent 	odontologie, odontoblaste, parodontie
+œno-	οἶνος	vin 	œnologie, œnométrie, œnanthe
+oligo-	ὀλίγος	en petite quantité, en petit nombre 	oligarchie, oligo-éléments, oligopole
+omphal(o)-	ὀμφαλός	nombril, ombilic 	omphalos, omphalocèle, omphalote
+onco-	ὄγκος	volume, grosseur 	oncologie, oncologue, oncocyte
+onomat(o)-	ὄνομα, -ατος	nom 	onomatopée, onomastique, onomasiologie
+onir(o)-	ὄνειρος	songe 	onirisme, oniromancie, oniroscope
+ont(o)-	ὤν, ὄντος	être, étant 	ontologie, ontogenèse, ontoterminologie
+-onym-	ὄνυμα	nom 	synonyme, homonyme, paronymie, anonymat
+-ophtalm(o)-	ὀφθαλμός	œil 	ophtalmologie, ophtalmoscope, exophtalmie
+-opt(o)-	ὤψ, ὠπός	œil 	optique, dioptrie, optométrie, optronique
+ornitho-	ὄρνιθος	oiseau 	ornithologie, ornithorynque
+ortho-	ὀρθός	droit 	orthogonal, orthopédie, orthographe, orthodoxie
+-osm-	ὀσμή	odeur 	anosmie, osmium
+-osm(o)-	ὠσμός	poussée 	osmose, osmomètre
+ostéo-	ὀστέον	os 	ostéopathie, ostéoporose, ostéosynthèse
+-ot(o)-	οὖς, ὠτός	oreille 	otite, oto-rhino-laryngologie, myosotis, otolithe
+-oure	οὐρά	queue 	anoure, brachyoure, diploure
+-oxy-	ὀξύς	aigu, acide 	oxygène, oxyde, oxydase, oxymore, dioxyde
+paléo-	παλαιός	ancien 	paléontologie, paléothérium, paléographie
+pan-	πᾶν	tout 	panorama, pancréas, pangée, panacée
+para-	παρά	à côté de, auprès de 	paragraphe, parapharmacie, paraphrase, paramètre
+patho-, -pathe	πάθος	ce que l’on éprouve, souffrance, affection 	psychopathe, pathologie, pathogène, sympathie
+péd-	παιδός	enfant 	pédiatrie, pédophilie, pédagogue
+-pédie	παιδεία	éducation 	encyclopédie, orthopédie, wikipédia
+penta-	πέντε	cinq 	pentagone, pentateuque, pentagramme
+péri-	περί	autour de 	périphérique, périscope, périhélie, périple
+pétro-	πέτρα	pierre, roche 	pétrole, pétrographie, pétroglyphe, pétrologie
+-phag-	φαγεῖν	manger 	anthropophagie, phagocyte, nécrophage, aérophagie
+pharmac(o)-	φάρμακον	remède 	pharmacie, pharmacopée, pharmacologie
+-phil-	φιλέω	aimer 	philosophie, philanthropie, philharmonie
+-phon-	φωνή	voix, son 	aphone, cacophonie, microphone, phonétique
+-phob-	φόβος	peur 	arachnophobie, xénophobe, agoraphobie
+-phore	φέρειν	porter 	anaphore, métaphore, photophore, phosphore
+-phot(o)-	φῶς, φωτός	lumière 	photographie, photosynthèse, photon
+-phyll(o)-	φύλλον	feuille 	chlorophylle, phyllotaxie, podophylle, phylloxéra
+-physi(o)-	φύσις	nature 	physique, physiologie, physiognomonie, physiothérapie
+-phyt(o)-	φυτόν	plante 	phytothérapie, phytogenèse, épiphyte
+-pithèque	πίθηκος	singe 	anthropopithèque, australopithèque, cercopithèque
+-plasm-	πλάσμα	ouvrage façonné 	plasma, ectoplasme, cataplasme
+plouto-	πλοῦτος	richesse 	ploutocratie
+pneuma-	πνεῦμα	air, souffle, esprit 	pneumatique, pneumatologie
+pneumo-	πνεύμων	poumon 	pneumonie, pneumothorax
+-pod(o)-	πούς, ποδός	pied 	podologie, arthropode
+poé-, -pée	ποιέω	faire 	poésie, épopée, onomatopée, pharmacopée
+polém-	πόλεμος	guerre 	polémique, polémologie
+-poli-, -pole	πόλις	ville, cité 	politique, lycopolis, police, métropole, cosmopolitisme
+poly-	πολύς	plusieurs 	polygone, polyvalence, polyester
+prot(o)-	πρῶτος	premier 	proton, [protéine], prototype, protozoaire, protocole
+pseud(o)-	ψευδής	menteur, mensonge 	pseudonyme, pseudopode, pseudo-alliage
+psych(o)-	ψυχή	esprit, âme 	psychiatre, psychologie, psychopathe
+-ptèr(o)-	πτερόν	aile 	ptérodactyle, coléoptère, lépidoptère, diptère
+pyr(o)-	πῦρ, -ός	feu 	pyromane, pyrotechnie, pyrite, pyroclastique
+-(r)rhé(o)-	ῥέω	couler, diarrhée, logorrhée, aménorrhée, rhéostat
+rhin(o)-	ῥίς/ῥινός	rhis/rhinos	nez 	rhinocéros, rhinoplastie, oto-rhino-laryngologie, rhinite
+-rhiz(o)-	ῥίζα	racine 	rhizome, rhizosphère, mycorhize, rhizopode
+-rhod(o)-	ῥόδον	rose 	rhodes, rhododendron, rhodium, cynorrhodon
+-rhomb(o)-	ῥόμβος	losange 	rhomboèdre, rhomboplites
+-sarco-	σάρξ, σαρκός	chair 	sarcophage, sarcosine, sarcome
+-saur-	σαύρα	lézard 	saurien, dinosaure, plésiosaure, stégosaure
+-scaph-	σκάφη	barque 	scaphandre, bathyscaphe
+-schiz(o)-	σχίζω	fendre, séparer 	schisme, schizophrénie, schizocarpe, schizotrope
+-scope	σκοπέω	regarder, observer 	télescope, stéthoscope, oscilloscope, périscope
+-sidér(o)-	σίδηρος	fer 	sidérurgie, sidérolithe, sidérographie
+-sophi-	σοφία	sagesse 	philosophie, sophisme, sophistique
+-sperm-	σπέρμα	semence 	sperme, spermatozoïde, angiosperme, gymnosperme
+-sphère	σφαῖρα	sphère 	atmosphère, hémisphère, planisphère, troposphère
+-stas-, -stat-	στάσις	base, arrêt 	métastase, diastase, iconostase
+-stom(a)-	στόμα, -ατος	bouche 	stomatologie, stomatite, chrysostome
+-styl-	στῦλος (1)	colonne, poteau 	péristyle, stylométrie, épistyle, stylite
+-styl-	στῦλος (2)	poinçon à écrire 	stylographe, style
+syn-	σύν	avec 	syncrétisme, symbiose, synchrotron, synthèse, synonyme
+-tachy-	ταχύς	rapide 	tachycardie, tachymètre, tachyphémie
+taphe	τάφος	tombeau 	épitaphe, cénotaphe
+télé-	τῆλε	loin 	télégramme, télépathie, télévision, téléphone, télescope
+tél(é)(o)-	τέλος	fin (n.) 	téléologie, télicité, atélostéogenèse
+-tétra-	τέσσαρα	quatre 	tétraèdre, tétralogie, tétragramme
+-thana(to)-	θάνατος	mort 	euthanasie, thanatologue
+-thé(o)-	θεός	dieu 	théologie, athéisme, panthéon
+-thèque	θήκη	armoire 	bibliothèque, discothèque, pinacothèque, logithèque
+-thér-	θηρίον	bête sauvage 	dinothérium, mégathérium
+-thérap-	θεραπεύω	prendre soin 	thérapie, thalassothérapie, psychothérapeute
+-therm-	θερμός	chaud 	thermes, thermomètre, thermos, thermidor, isotherme
+-tom-	τομή	coupure 	anatomie, tome, atome, épitomé
+-top(o)-	τόπος	lieu 	topologie, topographie, isotope
+-trich(o)-	θρίξ, -τριχός	poil, cheveu 	tricholome, trichocéphale, trichome
+-trop-	τρέπω	tourner 	tropisme, troposphère, héliotrope, apotropaïque
+-troph-	τροφή	croissance, fait de (se) nourrir 	atrophie, hypertrophie, autotrophe, dystrophie
+-typ(o)-	τύπος	modèle, caractère 	typologie, typographie, prototype
+-xér(o)-	ξηρός	sec 	xérocopie, xérophtalmie, phylloxéra
+xyl(o)-	ξύλον	bois 	xylophone, xylophage, xylographie
+-zo(o)-	ζῷον	animal 	zoo, zoologie, zoophilie, protozoaire
+
