@@ -58,6 +58,11 @@ const config: Config = {
     },
   },
 
+  plugins: [
+      'docusaurus-plugin-image-zoom', // can also just be 'image-zoom'    
+  ],
+
+
   presets: [
     [
       'classic',
@@ -213,10 +218,35 @@ const config: Config = {
     mermaid: {
       theme: {light: 'neutral', dark: 'forest'},
     },
+    zoom: {
+      selector: '.markdown img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      },
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      }
+    }
+    /*
+        // Plugin options (all optional)
+        selector: '.markdown img', // CSS selector for images to zoom
+        // You can also use: 'img[src$=".jpg"], img[src$=".png"]'
+        options: {
+          margin: 24,
+          background: '#BADA55',
+          scrollOffset: 0,
+          container: '#zoom-container',
+          template: '#zoom-template',
+        },
+      },
+
+    */
   } satisfies Preset.ThemeConfig,
 
   stylesheets: [
     {
+      // katex stylesheet
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
       type: 'text/css',
       integrity:

@@ -10,20 +10,33 @@ keywords:
   - kritisches Denken
   - Überlebenden-Verzerrung
 last_update:
-  date: 2026-01-21
+  date: 2026-01-22
   author: Immanuel Lupinus
 
 completeness: 2/5
 draft: true
 
 ---
+
+import Admonition from '@theme/Admonition';
+
 <!-- TODO: Flugzeugfoto -->
 
 :::tip Kurz
 Erfolg ist sichtbar, Scheitern bleibt unsichtbar.
 
-„Wir sehen die Gewinner – die Verlierer sind unsichtbar.“
 :::
+
+<Admonition type="note" icon="💬" title="Zitat">
+  <p class="text--center">
+    Denn die einen sind im Dunkeln  
+    Und die andern sind im Licht.  
+    Und man siehet die im Lichte  
+    Die im Dunkeln sieht man nicht.  
+  </p>
+  <p class="text--right">Berthold Brecht, _Die Dreigroschenoper, Lied von der Unzulänglichkeit menschlichen Strebens_, 1928.</p> 
+</Admonition>
+
 
 ## Definition
 
@@ -70,3 +83,4 @@ Erfolgreiche Gründer erzählen Playbooks in Podcasts und Büchern. Man hört nu
 - Wikipedia: [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 - Kahneman, D. (2011): Thinking, Fast and Slow – Abschnitte zu Basisraten und Auswahlverzerrungen.
 - Taleb, N. N. (2001): Fooled by Randomness – Über Zufall, Erfolg und Fehlinterpretationen.
+****
