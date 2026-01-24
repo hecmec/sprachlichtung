@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 last_update:
-  date: 2025-08-23
+  date: 2026-01-22
   author: Immanuel Lupinus
 ---
 
@@ -11,7 +11,7 @@ last_update:
 
 ## Standard Translation
 
-Standard translation is done like described in the starter [tutorial](../_tutorial/translate-your-site.md).
+Standard translation is done like described in the starter [tutorial](../tutorial/translate-your-site.md).
 
 - The standard translation is using the same page urls for all languages. 
 - We want to have different urls for different languages, e.g. `/en/introduction` and `/de/einführung`.

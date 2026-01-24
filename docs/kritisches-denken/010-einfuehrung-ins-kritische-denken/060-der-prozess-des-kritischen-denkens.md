@@ -10,7 +10,7 @@ keywords:
   - Analyse
   - Reflexion
 last_update:
-  date: 2026-01-15
+  date: 2026-01-24
   author: Immanuel Lupinus
 
 completeness: 4/5
@@ -18,6 +18,7 @@ completeness: 4/5
 # image: 
 ---
 
+![der prozess des kritischen Denkens](../img/process_critisches_denken_sprachlichtung.jpg)  
 
 Kritisches Denken ist ein systematischer Prozess, der folgende Schritte umfassen kann:
 

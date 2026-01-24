@@ -1,5 +1,6 @@
 ---
 title: Ambiguität (Mehrdeutigkeit)
+sidebar_label: Ambiguität
 sidebar_position: 2
 description: "Erklärung zu verschiedenen Arten von Mehrdeutigkeiten in der Sprache und deren Auswirkungen auf das kritische Denken"
 keywords:
@@ -11,7 +12,7 @@ keywords:
     - Missverständnisse
     - Fehlschlüsse
 last_update:
-   date: 2026-01-15
+   date: 2026-01-23
    author: Immanuel Lupinus
 ---
 

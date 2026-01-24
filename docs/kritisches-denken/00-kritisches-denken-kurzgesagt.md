@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-20
+  date: 2026-01-24
   time: 12:00
   author: Immanuel Lupinus
 completeness: 5/5
@@ -27,14 +27,15 @@ completeness: 5/5
 
 ![discutierende menschen](../../static/img/banner-rationalistät-humains.png)
 
+
 Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
 
 ## Was ist Kritisches Denken ?
 
-Wir sind Wesen mit Zielen, Werten und Überzeugungen. Um unsere **Ziele** zu erreichen und unsere **Werte** zu leben, handeln wir und dazu müssen wir **Entscheidungen** treffen. 
+Wir sind Wesen mit Zielen, Werten und Überzeugungen. Um unsere **Ziele** zu erreichen und unsere **Werte** zu leben, handeln wir und dazu müssen wir **Entscheidungen** treffen.\
 Wir entscheiden uns jeden Tag, oft automatisch oder unbewusst, für das eine oder das andere auf der Grundlage von Behauptungen oder Meinungen über die Welt.
 
-Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen: von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.  
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen: von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.\
 Um deine kurz- oder längerfristigen Ziele zu erreichen, musst du **gut informierte Entscheidungen** treffen, für dich, deine Mitmenschen und deine Umwelt.
 
 Entscheidungen treffen wir, um **zu handeln**.
@@ -160,7 +161,7 @@ Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richt
 
 Im Alltag dagegen, in der Kommunikation, in der Musik, etc, da hilft exakte Sprache auch, aber oft suchen wir nach mehr Spiel in der Sprache. Auf Grill-parties oder beim Flirten, da ist Präzision nicht gefragt. Da ist es besser, wenn die Sprache feiert.
 
-### Quellenprüfung
+### Quellen und Daten Prüfung
 
 Eine der wichtigsten Fähigkeit die wir lernen oder beherrschen sollten ist die, unsere **Quellen überprüfen** zu können.
 Alle unsere Überzeugungen stützen sich auf Quellen ganz verschiedener Art: Textquellen, Erzählungen, eigene Erfahrungen oder die Erzählungen Anderer.
