@@ -10,8 +10,12 @@ keywords:
   - Pathos
   - Logos
 last_update:
-  date: 2025-05-20
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
+
 ---
 
 <!-- # Rhetorik versus Argumentation -->
@@ -23,6 +27,7 @@ Rhetorik und Argumentation sind verwandte, aber unterschiedliche Disziplinen. W�
 **Argumentation** zielt darauf ab, durch logisches Schließen und Beweise zu überzeugen. Sie appelliert primär an den Intellekt und die Rationalität des Publikums.
 
 Merkmale der Argumentation:
+
 - Fokus auf logische Struktur und Gültigkeit
 - Betonung von Beweisen und Belegen
 - Ziel: rationale Überzeugung durch Gründe

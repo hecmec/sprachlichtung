@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-27
+  date: 2026-01-28
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
@@ -60,7 +60,7 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
 
 ## Kritisches Denken als Metakognition
 
-Metakognition? Meta wie bitte? Das klingt jetzt sehr schick und akademisch, ist aber ganz einfach das Denken über das Denken. Die Philosphen nennen das "die Metaebene einnehmen" und da wir über Kongnition reden eben **Meta-kognition**.  
+Metakognition? _Meta-_ wie bitte? Das klingt jetzt sehr schick und akademisch, ist aber ganz einfach das Denken über das Denken. Die Philosphen nennen das "die Metaebene einnehmen" und da wir über Kongnition reden eben **Meta-kognition**.  
 
 Wir sollten uns einfach öfter fragen, wann wir gut denken und wann wir in die Irre gehen und warum.
 

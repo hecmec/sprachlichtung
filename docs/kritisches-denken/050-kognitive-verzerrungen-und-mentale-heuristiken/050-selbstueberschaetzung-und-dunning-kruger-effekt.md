@@ -10,11 +10,13 @@ keywords:
   - Selbsteinschätzung
   - illusorische Überlegenheit
 last_update:
-  date: 2026-01-15
+  date: 2026-01-28
   author: Immanuel Lupinus
----
 
-<!-- ## Selbstüberschätzung und Dunning-Kruger-Effekt -->
+completeness: 3/5
+draft: false
+---
+<!-- markdownlint-disable MD024 -->
 
 Selbstüberschätzung ist ein weitverbreitetes Phänomen, das eng mit dem bereits erwähnten Dunning-Kruger-Effekt zusammenhängt. Es lohnt sich, dieses Phänomen genauer zu betrachten, da es fundamentale Auswirkungen auf unser kritisches Denken hat.
 

@@ -11,8 +11,12 @@ keywords:
   - versteckte Annahmen
   - kritische Bewertung
 last_update:
-  date: 2025-05-20
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
+
 ---
 
 <!-- # Übung: Analyse und Bewertung von Argumenten -->

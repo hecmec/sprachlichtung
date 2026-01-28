@@ -9,8 +9,12 @@ keywords:
   - Argumentbewertung
   - Übungsauflösungen
 last_update:
-  date: 2025-05-20
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
+
 ---
 
 <!-- # Lösungen -->
@@ -32,6 +36,7 @@ last_update:
 - **Mögliche Verbesserungen**: Weitere Optionen berücksichtigen; empirische Belege für den Zusammenhang zwischen Steuerpolitik und Wirtschaftsleistung anführen.
 
 ## Lösung Argument 3:
+
 - **Prämissen**: "In den letzten drei Jahren hat es immer am ersten Wochenende im Juli geregnet."
 - **Schlussfolgerung**: "Es wird auch dieses Jahr am ersten Wochenende im Juli regnen."
 - **Versteckte Annahmen**: Vergangene Wettermuster setzen sich in der Zukunft fort; drei Jahre sind eine ausreichende Stichprobe.

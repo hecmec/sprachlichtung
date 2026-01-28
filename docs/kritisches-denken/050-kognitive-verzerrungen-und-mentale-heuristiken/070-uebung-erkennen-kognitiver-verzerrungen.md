@@ -11,11 +11,14 @@ keywords:
   - Selbsterkenntnis
   - praktische Anwendung
 last_update:
-  date: 2026-01-15
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
-<!-- ## Übung: Erkennen von kognitiven Verzerrungen in eigenen Denkprozessen -->
+<!-- markdownlint-disable MD024 -->
 
 Diese Übung hilft Ihnen, kognitive Verzerrungen in Ihrem eigenen Denken zu identifizieren und zu reflektieren.
 
@@ -39,6 +42,7 @@ Notieren Sie mindestens drei Situationen, in denen Sie mögliche kognitive Verze
 ## Schritt 3: Reflexion
 
 Reflektieren Sie über Ihre Beobachtungen:
+
 - Welche kognitiven Verzerrungen treten bei Ihnen am häufigsten auf?
 - In welchen Situationen oder bei welchen Themen sind Sie besonders anfällig für Verzerrungen?
 - Welche Strategien könnten Ihnen helfen, diese Verzerrungen zu reduzieren?

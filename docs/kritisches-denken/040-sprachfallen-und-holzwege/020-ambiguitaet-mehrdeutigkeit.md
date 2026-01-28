@@ -12,8 +12,11 @@ keywords:
     - Missverständnisse
     - Fehlschlüsse
 last_update:
-   date: 2026-01-23
+   date: 2026-01-28
    author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Ambiguität (Mehrdeutigkeit) -->

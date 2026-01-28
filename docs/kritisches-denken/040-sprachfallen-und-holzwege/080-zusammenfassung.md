@@ -12,8 +12,11 @@ keywords:
    - Definitionen
    - kritisches Denken
 last_update:
-   date: 2026-01-15
+   date: 2026-01-28
    author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Zusammenfassung -->

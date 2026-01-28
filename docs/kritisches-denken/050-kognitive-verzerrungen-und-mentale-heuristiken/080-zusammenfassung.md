@@ -10,11 +10,14 @@ keywords:
   - Bestätigungsfehler
   - Debiasing-Strategien
 last_update:
-  date: 2026-01-16
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
-<!-- ## Zusammenfassung -->
+<!-- markdownlint-disable MD024 -->
 
 In diesem Kapitel haben wir uns mit kognitiven Verzerrungen und mentalen Heuristiken befasst – systematischen Mustern in unserem Denken, die zu Fehlurteilen und irrationalen Entscheidungen führen können.
 
@@ -47,6 +50,4 @@ Das Bewusstsein für kognitive Verzerrungen und die Anwendung von Strategien zu 
 - https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
-
-- https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
 

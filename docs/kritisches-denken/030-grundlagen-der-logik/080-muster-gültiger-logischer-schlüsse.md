@@ -1,7 +1,8 @@
 ---
-title: Muster gültiger Argumente
+title: Muster gültiger logischer Schlüsse
 sidebar_position: 80
-description: "Übersicht der wichtigsten Muster gültiger Argumentationen in der formalen Logik mit Anwendungsbeispielen."
+sidebar_label: Muster Schlüsse
+description: "Übersicht der wichtigsten Muster gültiger Schlüsse in der formalen Logik mit Anwendungsbeispielen."
 keywords:
   - gültige Argumente
   - Modus Ponens
@@ -10,8 +11,11 @@ keywords:
   - Syllogismen
   - formale Logik
 last_update:
-  date: 2026-01-15
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 # slug: 
 # image: 
 
@@ -58,7 +62,7 @@ In der formalen Logik gibt es bestimmte Argumentationsmuster, die immer gültig 
 ## Disjunktiver Syllogismus (Ausschlussverfahren)
 
 **Form:**
-1. A oder B.
+1. Entweder A oder B.
 2. Nicht A.
 3. Also B.
 

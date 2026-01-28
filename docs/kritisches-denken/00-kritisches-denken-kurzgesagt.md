@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-24
+  date: 2026-01-28
   time: 12:00
   author: Immanuel Lupinus
 completeness: 5/5
@@ -29,6 +29,14 @@ completeness: 5/5
 
 
 Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutorials zum Kritischen Denken.
+
+## Ein Wort zum Stil und Umfang dieses Tutoriums
+
+- Ich wollte etwas schreiben, was zugleich **Einleitung** und **Handbuch** zum Thema Kritisches Denken ist.
+- Alles was Sie hier finden ist alt bekannt, aber leider nicht immer leicht zu finden oder verstreut im Netz.
+- Sie sollten hier die **Dinge finden die wichtig sind** und Verweise zu weiterführender Literatur (wenn möglich online).
+- Dieses Tutorium ist sehr stark gegliedert, mit Punkten und Unterpunkten &mdash; Wenn sie Prosa mögen, dann lesen sie besser einen Roman.
+- Der Originaltext ist in Deutsch. Die Englische und Französische Übersetzung habe ich weitgehend an künstliche Intelligenz delegiert und meist korrigiert. Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen sie doch einfach mal im Originaltext nach.
 
 ## Was ist Kritisches Denken ?
 

@@ -10,10 +10,11 @@ keywords:
   - Analyse
   - Reflexion
 last_update:
-  date: 2026-01-24
+  date: 2026-01-28
   author: Immanuel Lupinus
 
 completeness: 4/5
+draft: false
 # slug: 
 # image: 
 ---

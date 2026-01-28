@@ -9,8 +9,12 @@ keywords:
   - natürliche Sprache
   - logische Struktur
 last_update:
-  date: 2025-05-20
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
+
 ---
 
 <!-- # Formales vs. informelles Schließen -->
@@ -40,6 +44,7 @@ Dieses Argumentationsmuster ist unabhängig vom spezifischen Inhalt gültig. Es 
 **Informelles Schließen** bezieht sich auf Argumentationen in natürlicher Sprache, die nicht vollständig formalisiert sind. Es berücksichtigt den Kontext, Hintergrundwissen und implizite Annahmen.
 
 Merkmale des informellen Schließens:
+
 - Verwendung natürlicher Sprache
 - Berücksichtigung von Kontext und Hintergrundwissen
 - Einbeziehung impliziter Prämissen

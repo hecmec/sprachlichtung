@@ -14,8 +14,11 @@ keywords:
   - mentale Prozesse
   - Denkfehler
 last_update:
-  date: 2026-01-27
+  date: 2026-01-28
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Einführung -->
@@ -29,12 +32,12 @@ Oder bevorzugen sie auch die Herzklinik mit 90% Überlebensrate gegenüber der w
 
 Willkommen im **Klub der Betrogenen und Getäuschten**!
 
-Doch wer ist der Betrüger? Du selbst &mdash; dein Verstand.
+Doch wer ist der Betrüger? Du selbst &mdash; dein Verstand !!
 
-Unser Denken ist nicht so rational und objektiv, wie wir oft glauben. Selbst wenn wir uns bemühen, logisch und kritisch zu denken, können unbewusste mentale Prozesse unsere Urteile und Entscheidungen verzerren. Diese systematischen Abweichungen von Rationalität und gutem Urteilsvermögen werden als **kognitive Verzerrungen**, **Denkfehler**, oder **Wahrnehmungsfehler** (cognitive biases) bezeichnet.
+Unser Denken ist nicht so rational und objektiv, wie wir oft glauben. Selbst wenn wir uns bemühen, logisch und kritisch zu denken, können unbewusste mentale Prozesse unsere Urteile und Entscheidungen verzerren.\
+Diese systematischen Abweichungen von Rationalität und gutem Urteilsvermögen werden als **kognitive Verzerrungen**, **Denkfehler**, oder **Wahrnehmungsfehler** (cognitive biases) bezeichnet.
 
 In diesem Kapitel werden wir untersuchen, was kognitive Verzerrungen sind, wie sie entstehen und welche Auswirkungen sie auf unser Denken haben. Wir werden die wichtigsten dieser Denkfehler kennenlernen, mentale Heuristiken (Denkabkürzungen) untersuchen und Strategien entwickeln, um diese Denkfallen zu vermeiden.
-
 
 
 ## Unterkapitel
