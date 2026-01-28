@@ -11,13 +11,15 @@ keywords:
   - formale Fehlschlüsse
   - informelle Fehlschlüsse
 last_update:
-  date: 2025-05-10
+  date: 2026-01-28
   author: Immanuel Lupinus
 ---
 
 <!-- ## Was sind Fehlschlüsse? -->
 
 Fehlschlüsse (auch: Trugschlüsse oder Fallacies) sind fehlerhafte Argumentationsmuster, die gegen die Prinzipien des logischen Denkens verstoßen. Sie weisen strukturelle oder inhaltliche Mängel auf, die die Gültigkeit oder Stichhaltigkeit des Arguments beeinträchtigen.
+
+Alle Fehlschlüsse sind
 
 ## Merkmale von Fehlschlüssen
 
@@ -43,9 +45,11 @@ Fehlschlüsse sind aus mehreren Gründen problematisch:
 
 ## Arten von Fehlschlüssen
 
-Fehlschlüsse können in verschiedene Kategorien eingeteilt werden:
+Fehlschlüsse können im wesentlichen in zwei grosse Gruppen eingeteilt werden: **Formale** und **informelle** Fehlschlüsse.\
+Wie wir schon gesagt haben, sind die viele gute Argumente sowieso formal logisch nicht gültig. Wenn sie dann auch noch fehlerhaft sind, dann nennt man sie informelle Fehlschlüsse.
 
-1. **Formale Fehlschlüsse**: Diese verstoßen gegen die Regeln der formalen Logik und sind unabhängig vom Inhalt der Aussagen fehlerhaft.
+1. **Formale Fehlschlüsse**: Diese verstoßen gegen die Regeln der formalen Logik und sind unabhängig vom Inhalt der Aussagen fehlerhaft.\
+Diese formalen Fehlschlüsse finden wir vor allem in den Argumentationen, die formal logisch gültig sein sollen, wie in der Mathematik, Logik, Mengenlehre oder in der theoretischen Informatik.
 
 2. **Informelle Fehlschlüsse**: Diese sind inhaltlich oder kontextuell problematisch und lassen sich weiter unterteilen in:
    - **Relevanzfehlschlüsse**: Argumente, die irrelevante Informationen verwenden

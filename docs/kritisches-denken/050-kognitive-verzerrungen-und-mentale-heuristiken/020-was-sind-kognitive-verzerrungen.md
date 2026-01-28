@@ -1,6 +1,7 @@
 ---
 title: "Was sind kognitive Verzerrungen?"
 sidebar_position: 20
+sidebar_label: "Was sind sie?"
 description: "Definition und Erklärung kognitiver Verzerrungen, ihrer Merkmale und Entstehungsgründe"
 keywords:
   - kognitive Verzerrungen
@@ -10,13 +11,18 @@ keywords:
   - Informationsverarbeitung
   - evolutionäre Anpassungen
 last_update:
-  date: 2026-01-15
+  date: 2026-01-26
   author: Immanuel Lupinus
 ---
 
 <!-- ## Was sind kognitive Verzerrungen? -->
 
-Kognitive Verzerrungen (Biases) sind systematische Muster der Abweichung von Norm oder Rationalität im Urteil. Sie stellen "Denkfehler" dar, die in bestimmten Situationen auftreten und zu Fehleinschätzungen, irrationalen Überzeugungen oder verzerrten Wahrnehmungen führen können.
+Kognitive Verzerrungen (Biases, oder auch Wahrnehmungsfehler) sind systematische Denkfehler unseres Verstandes. Ich und Du wir begehen diese Fehler ständig, oft ohne es zu merken.
+
+Diese Denkfehler entstehen meistens dadurch, dass wir (unser Verstand) versuchen Probleme oder Fragen zu vereinfachen. Unser Verstand tut das meist aus Effizienzgründen und in der Regel durch Heuristiken, den sogenannten kognitiven Abkürzungen.
+
+**Die Folge**: wir neigen zu Fehleinschätzungen, irrationalen Überzeugungen oder verzerrten Wahrnehmungen.
+So entstehen allerdings ganz typische Vorurteile und Schubladendenken.
 
 ## Merkmale kognitiver Verzerrungen
 
@@ -26,7 +32,8 @@ Kognitive Verzerrungen (Biases) sind systematische Muster der Abweichung von Nor
 
 3. **Universell**: Sie betreffen alle Menschen, unabhängig von Intelligenz oder Bildung.
 
-4. **Hartnäckig**: Selbst wenn man sich ihrer bewusst ist, können sie weiterhin das Denken beeinflussen.
+4. **Hartnäckig**: Selbst wenn man sich ihrer bewusst ist, können sie weiterhin das Denken beeinflussen.\
+Doch wenn wir sie kennen, dann können wir versuchen, ihnen entgegenzuwirken.
 
 5. **Adaptiv**: Viele kognitive Verzerrungen haben sich entwickelt, weil sie in bestimmten Umgebungen oder Situationen nützlich waren oder sind.
 

@@ -8,10 +8,10 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-20
+  date: 2026-01-27
   author: Immanuel Lupinus
 completeness: 5/5
-
+draft: false
 # slug: 
 # image: 
 
@@ -24,12 +24,16 @@ import Admonition from '@theme/Admonition';
 
 ## Worüber reden wir, wenn wir von kritischem Denken reden?
 
+:::tip kurz
+Kritisches Denken ist die Antwort auf die Frage:
+
+**Warum soll ich das glauben?**
+:::
+
 Kritisches Denken ist einerseits die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren.
 Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren.
 
 Das Ziel: **gut informierte Entscheidungen** zu treffen für uns, unsere Mitmenschen und unsere Umwelt.[^1]
-
-[^1]: Du merkst, es geht nicht nur um dich, sondern auch um andere und unsere Umwelt. Kritisches Denken ist eine soziale Fähigkeit.
 
 
 Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
@@ -48,6 +52,10 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
   Von Kants _Kritik der reinen Vernunft_, über einen _kritischen Punkt_ bis zu den _kritschen Zeiten_ in denen wir leben, "kritisch" ist überall und vielgesichtig.  
   Es kommt zu uns zum teil über das französische "_critique_", welches uns "_kritisch_" und "_Kritik_" gibt.  
   Ursprünglich aus dem Lateinischen "_criticus_".  Die Römer haben es, wie so oft, von den Griechen und da heisst es: "_κριτικός_" (kritikos) und bedeutet: "**fähig zur Unterscheidung**" oder "**urteilsfähig**". Es ist verwand mit _κρίσις_ (crisis) und abgeleitet vom Verb "_krinein_", was soviel heisst wie: "unterscheiden", "auswählen", "entscheiden", "aussieben".
+
+  Ein anderer wichtiger Denker in der Geschichte des Kritischen Denkens war John Dewey (1910), ein pragmatischer amerikanischer Philosoph, der es "reflective thinking" nannte. Für Dewey ist reflektives oder kritisches Denken die: 
+  > aktive, beharrliche und sorgfältige Betrachtung jeder Überzeugung oder vermeintlichen Form von Wissen im Lichte der Gründe, die sie stützen, und der weiteren Schlussfolgerungen, zu denen sie führt.\
+  >(__active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends.__)[^2]
 </details>
 
 ## Kritisches Denken als Metakognition
@@ -73,9 +81,8 @@ Das ständige Hinterfragen der Überzeugungen seiner Mitmenschen hat ihm tiefe F
 
 ## Fähigkeiten und Einstellungen des Kritischen Denkens
 
-In der Moderne wurde das Kritische Denken unter anderem durch Peter Facione wieder bekannt gemacht. Er hat in seinem bekannten "Delphi Report" [^2], den vielen beteiligten Experten folgend, vor allem zwei Dinge unterschieden: 
+In der Moderne wurde das Kritische Denken unter anderem durch Peter Facione wieder bekannt gemacht. Er hat in seinem bekannten "Delphi Report" [^3], den vielen beteiligten Experten folgend, vor allem zwei Dinge unterschieden: 
 
-[^2]: Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._, ERIC, Institute of Education Sciences, 1990, pp.1-112](https://eric.ed.gov/?id=ED315423), Santa Clara University 1990.
 
 :::info Unterscheidung
 <p class="text--center">**kognitive Fähigkeiten** vs. **affektive Einstellungen**</p> 
@@ -91,7 +98,6 @@ Zu den kognitiven Fähigkeiten gehören:
 
 ![Facione, Fähigkeiten des kritischen Denkens](../../../static/img/crit-think-skills-facione.png)
 
-
 ## Einstellungen (affektive Seite)
 
 Neben den kognitiven Fähigkeiten betont Facione die affektiven Einstellungen (_affective dispositions_) als zweite wichtige Seite des kritischen Denkens.
@@ -103,9 +109,9 @@ Dazu gehören Haltungen wie:
 - intellektuelle **Bescheidenheit**,
 - Mut zur Wahrheit,
 - Ausdauer 
-- die Bereitschaft, **eigene Vorurteile zu hinterfragen**[^3]
+- die Bereitschaft, **eigene Vorurteile zu hinterfragen**[^4]
 
-[^3]: "The  ideal  critical  thinker  is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded  in  evaluation,  honest  in  facing  personal  biases,  prudent  in  making judgments, willing to  reconsider, clear about  issues, orderly in complex  matters, diligent  in  seeking  relevant  information,  reasonable  in  the  selection  of  criteria, focused in inquiry, and persistent  in seeking results which are as precise  as the subject  and  the circumstances  of  inquiry permit."
+[^4]: "The  ideal  critical  thinker  is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded  in  evaluation,  honest  in  facing  personal  biases,  prudent  in  making judgments, willing to  reconsider, clear about  issues, orderly in complex  matters, diligent  in  seeking  relevant  information,  reasonable  in  the  selection  of  criteria, focused in inquiry, and persistent  in seeking results which are as precise  as the subject  and  the circumstances  of  inquiry permit."
 
 Ich habe mal die Punkte hervorgehoben, die selten genannt werden, die aber am wichtigsten sind.
 
@@ -128,12 +134,9 @@ Es erfordert Übung, Selbstreflexion und die Bereitschaft, die eigenen Denkproze
 Los geht's !
 
 
-## Quellen
+[^1]: Du merkst, es geht nicht nur um dich, sondern auch um andere und unsere Umwelt. Kritisches Denken ist eine soziale Fähigkeit.
+[^2]: John Dewey, 1910, [_How We Think_](https://archive.org/details/howwethink000838mbp)
+[^3]: Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._, ERIC, Institute of Education Sciences, 1990, pp.1-112](https://eric.ed.gov/?id=ED315423), Santa Clara University 1990.
+[^4]: In Faciones Artikel: "The  ideal  critical  thinker  is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded  in  evaluation,  honest  in  facing  personal  biases,  prudent  in  making judgments, willing to  reconsider, clear about  issues, orderly in complex  matters, diligent  in  seeking  relevant  information,  reasonable  in  the  selection  of  criteria, focused in inquiry, and persistent  in seeking results which are as precise  as the subject  and  the circumstances  of  inquiry permit."
 
-- [_Kritisches Denken_](https://de.wikipedia.org/wiki/Kritisches_Denken), Wikipedia
-- [_Critical Thinking_](https://plato.stanford.edu/entries/critical-thinking/#DefiCritThin), Stanford Encyclopedia of Philosophy
-- Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction), Santa Clara University 1990.
-- Peter A. Facione: [_Critical Thinking: What It Is and Why It Counts_](https://www.researchgate.net/publication/251303244_Critical_Thinking_What_It_Is_and_Why_It_Counts), 2015
 
-&nbsp;  
-&nbsp;  

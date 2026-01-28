@@ -1,5 +1,5 @@
 ---
-title: Artikel zum Thema Sprache und Philosophie
+title: Artikel zum Thema Kritisches Denken
 sidebar_position: 1
 sidebar_label: Artikel
 description: "Wichtige Artikel zum Thema Sprache, Kritisches Denken und Philosophie"
@@ -11,7 +11,7 @@ keywords:
     - Semiotik
     - Kommunikation
 last_update:
-  date: 2025-06-12
+  date: 2026-01-28
   author: Immanuel Lupinus
 
 ---
@@ -22,8 +22,17 @@ last_update:
 ## Kritisches Denken
 
 ### Grundlegend
-- [Paul R., Elder L. (2008). Kritisches Denken, Begriffe & Tools, Ein Leitfaden im Taschenformat](https://www.criticalthinking.org/data/pages/65/0942a6869e3fecf0491debf6af6cb9846504e18baf508.pdf) – Criticalthinking.org
-- [Dorota Gierszewski. Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) – Epale, Europäische Kommission
+- Paul R., Elder L. (2008): [_Kritisches Denken, Begriffe & Tools, Ein Leitfaden im Taschenformat_](https://www.criticalthinking.org/data/pages/65/0942a6869e3fecf0491debf6af6cb9846504e18baf508.pdf) – Criticalthinking.org
+
+- David Hitchcock: [_Critical Thinking_](https://plato.stanford.edu/entries/critical-thinking),in: Edward N. Zalta (Hrsg.): [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu).
+
+- Jamie Carlin Watson: [_Critical Thinking_](https://iep.utm.edu/critical-thinking). In: James Fieser, Bradley Dowden (Hrsg.): [Internet Encyclopedia of Philosophy](https://iep.utm.edu).
+
+- [_Kritisches Denken_](https://de.wikipedia.org/wiki/Kritisches_Denken) – in de.wikipedia.org
+- [_Critical Thinking_](https://en.wikipedia.org/wiki/Critical_thinking): in en.wikipedia.org
+- [_Esprit critique_](https://fr.wikipedia.org/wiki/Esprit_critique) – in fr.wikipedia.org
+
+- Dorota Gierszewski: [_Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?_](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) – Epale, Europäische Kommission
 
 ### Populär
 - [Die Kompetenz des kritischen Denkens – analysiert vor dem Hintergrund der KI-Debatte in der Bildung](https://ebildungslabor.de/blog/die-kompetenz-des-kritischen-denkens-analysiert-vor-dem-hintergrund-der-ki-debatte-in-der-bildung/) &mdash; ebildungslabor.de
@@ -38,6 +47,8 @@ last_update:
 ### Wissenschftlich
 - [Peter Facione (1989), Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction? aka “The Delphi Report”](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction)
 - [Deanna Kuhn (1999), A Developmental Model of Critical Thinking](https://www.educationforthinking.org/sites/default/files/page-image/1-01DevelopmentalModelCriticalThinking.pdf)
+
+
 
 ## Sprachphilosophie
 

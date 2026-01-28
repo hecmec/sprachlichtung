@@ -9,7 +9,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-15
+  date: 2026-01-27
   author: Immanuel Lupinus
 completeness: 2/5
 draft: true
@@ -25,11 +25,83 @@ import Admonition from '@theme/Admonition';
 
 Im Kontext des kritischen Denkens begegnen uns immer wieder bestimmte Begriffe und Konzepte, die für das Verständnis und die Anwendung dieser Fähigkeit zentral sind. Hier sind einige der wichtigsten Begriffe, die du kennen solltest.
 
-### 1. Argument
+
+## Lügen und Bullshit
+
+Propaganda
+
+Agit-Prop
+
+Indoctrination
+
+Werbung
+
+Fake-News
+
+Bullshit
+
+Scheintheorien
+
+Pseudowissenschaften
+
+Komplotismus
+
+Zetetik
+
+## Fehler
+
+Kognitive Verzerrung, Denkfehler, Wahrnehmungsfehler
+
+Logischer Fehlschluss
+
+Informeller Fehlschluss
+
+## Prozess und Praxis
+
+Sapere aude
+
+Absicht
+
+Hermeneutik
+
+Heuristik
+
+Evidenz
 
 
-### 
+## Logik, Argumente und Rhetorik
 
+Klarheit
+
+Richtigkeit
+
+Relevanz
+
+Normativ
+
+Prämissen
+
+Schlussfolgerung
+
+Kohärent
+
+Konsistent
+
+Urteil (im logischen Sinne)
+
+Hypothese
+
+Theorie
+
+Ockhams Rasiermesser
+
+Informelle Logik
+
+Skepsis
+
+Wahrheit
+
+Glaube
 
 ## Quellen
 
