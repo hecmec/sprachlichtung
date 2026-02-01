@@ -1,6 +1,6 @@
 ---
 title: "What Are Cognitive Biases?"
-sidebar_position: 2
+sidebar_position: 20
 description: "Definition and explanation of cognitive biases, their characteristics, and reasons for their emergence"
 keywords:
   - cognitive biases

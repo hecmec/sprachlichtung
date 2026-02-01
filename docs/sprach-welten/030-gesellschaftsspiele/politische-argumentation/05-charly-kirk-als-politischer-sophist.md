@@ -12,7 +12,7 @@ keywords:
     - Konservatismus
     - Argumentationstechniken
 last_update:
-  date: 2025-10-17
+  date: 2026-01-29
   author: Immanuel Lupinus
 # slug: 
 image: ../img/charlie-kirk-memorial-FS.webp
@@ -34,10 +34,12 @@ verschwörungstheoretischer, populistischer, christlich-nationalistischer Inhalt
 [Wikipedia, Charlie Kirk](https://en.wikipedia.org/wiki/Charlie_Kirk#Political_positions_and_activities)
 
 Manche sagen mir, oh, Kirk hat aber nicht nur schlimme Sachen gesagt. Manches ist ja auch richtig.  
-Er liebte seine Mutter und Pfannkuchen und wir lieben das auch. Da sind wir uns ja einig.  
+Er liebte seine Mutter und Pfannkuchen und wir lieben das auch.\
+Tool, da sind wir uns ja einig. Nein! 
 **Aber ich schreibe keinen Artikel darüber, wie toll Pfannkuchen sind, sondern über Kirk's manipulative Rhetorik.**
 
 ### Meine Meinung über den politischen Sophisten Charlie Kirk
+
 - Kirk ist ein politischer Sophist. (In dem guten alten Sinne von Platon, als jemand, der _das schwächere Argument zum stärkeren macht_. Siehe: [Sophisten](https://de.wikipedia.org/wiki/Sophisten#Antike))
 - Er benutzt oft, ohne rot zu werden, rhetorische Tricks und manipulative Argumentationstechniken.
 - Er setzt diese ein, um seine Ziele zu erreichen, die oft einer Mehrheit von Amerikanern schaden.

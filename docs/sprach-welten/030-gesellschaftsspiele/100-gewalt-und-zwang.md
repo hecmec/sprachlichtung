@@ -1,0 +1,18 @@
+---
+title: "Gewalt und Zwang"
+title_meta: "Gewalt und Zwang"
+sidebar_label: Gewalt und Zwang
+sidebar_position: 100
+description: "Gewalt und Zwang als Konzept und Wert in der Gesellschaft"
+keywords:
+  - Gewalt
+  - Zwang
+last_update:
+  date: 2026-01-29
+  author: Immanuel Lupinus
+completeness: 1/5
+draft: true
+# slug: 
+# image: 
+---
+

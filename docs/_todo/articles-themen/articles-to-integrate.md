@@ -18,3 +18,10 @@
 - https://bonpote.com/la-faute-a-notre-cerveau-vraiment-les-erreurs-du-bug-humain-de-s-bohler/
 
 ## Marchmallow test revisited
+
+
+## Wahrheits theroien
+
+causaler Nahbereich 
+https://www.youtube.com/watch?v=nvVKK5W3bBI&t=1071s
+

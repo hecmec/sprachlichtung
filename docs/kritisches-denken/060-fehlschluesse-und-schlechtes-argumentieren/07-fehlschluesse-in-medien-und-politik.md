@@ -12,7 +12,7 @@ keywords:
   - falsche Dichotomien
   - Medienkritik
 last_update:
-  date: 2025-05-10
+  date: 2026-01-29
   author: Immanuel Lupinus
 ---
 
@@ -23,7 +23,7 @@ Fehlschlüsse sind in öffentlichen Diskursen, insbesondere in Medien und Politi
 ## Häufige Fehlschlüsse in Medien
 
 1. **Falsche Ausgewogenheit**: Die Darstellung von wissenschaftlichem Konsens und marginalen Gegenmeinungen als gleichwertige Positionen.
-   
+
    **Beispiel:** "Einige Wissenschaftler sagen, dass der Klimawandel menschengemacht ist, andere bestreiten dies." (Tatsächlich besteht ein überwältigender wissenschaftlicher Konsens über den menschengemachten Klimawandel.)
 
 2. **Anekdotische Evidenz**: Die Verwendung einzelner Geschichten oder Erfahrungen anstelle systematischer Daten.
