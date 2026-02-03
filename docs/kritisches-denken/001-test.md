@@ -5,7 +5,7 @@ keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-01-29
+  date: 2026-02-03
   time: 12:00
   author: Immanuel Lupinus
 
@@ -70,7 +70,7 @@ You can reference images relative to the current file as well. This is particula
 ![Docusaurus logo](../../static/img/docusaurus.png)
 ```
 
-You can also specify image dimensions:
+You can also specify image dimensions ??:
 
 ```md
 ![Docusaurus logo|200x100](../../static/img/docusaurus.png)
@@ -78,19 +78,9 @@ You can also specify image dimensions:
 
 ![Docusaurus logo|100x100](../../static/img/docusaurus.png)
 
-Or just the width (height will be adjusted automatically to maintain aspect ratio):
+You can use **img** tags
 
-```md
-![Docusaurus logo|300](../../static/img/docusaurus.png)
-```
-![Docusaurus logo|300](../../static/img/docusaurus.png)
-
-You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
-
-```md
-![Docusaurus logo](../../static/img/docusaurus.png)
-```
-
+<img src={require("../../static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
 
 ## Code Blocks
 

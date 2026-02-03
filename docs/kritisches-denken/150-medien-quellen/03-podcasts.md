@@ -1,6 +1,6 @@
 ---
 title: Podcasts zum Thema Kritisches Denken
-sidebar_position: 1
+sidebar_position: 3
 sidebar_label: Podcasts
 description: "Wichtige Podcasts zum Thema Sprache, Kritisches Denken und Philosophie"
 keywords:
@@ -12,7 +12,7 @@ keywords:
     - Semiotik
     - Kommunikation
 last_update:
-  date: 2026-01-27
+  date: 2026-02-03
   author: Immanuel Lupinus
 completeness: 1/5
 draft: true

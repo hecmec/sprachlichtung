@@ -1,6 +1,6 @@
 ---
 title: Webseiten und Online-Präsenzen zum Thema Kritisches Denken
-sidebar_position: 1
+sidebar_position: 4
 sidebar_label: Webseiten
 description: "Wichtige Webseiten zum Thema Sprache, Kritisches Denken und Philosophie"
 keywords:
@@ -12,7 +12,7 @@ keywords:
     - Semiotik
     - Kommunikation
 last_update:
-  date: 2026-01-27
+  date: 2026-02-03
   author: Immanuel Lupinus
 completeness: 0/5
 draft: true
