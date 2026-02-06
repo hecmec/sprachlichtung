@@ -16,6 +16,11 @@
 
 - Brendan Myers: Clear and present thinking has a chapter on argumentation
 
+### Argument analysis
+
+https://en.cs.uni-paderborn.de/fileadmin-eim/informatik/fg/css/computational-argumentation-s22/ca22-part03-argumentation.pdf
+
+
 ## Abduction
 
 - [Abduction](https://plato.stanford.edu/entries/abduction/)

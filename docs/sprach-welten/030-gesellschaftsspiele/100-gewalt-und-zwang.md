@@ -8,11 +8,10 @@ keywords:
   - Gewalt
   - Zwang
 last_update:
-  date: 2026-01-29
+  date: 2026-02-05
   author: Immanuel Lupinus
 completeness: 1/5
 draft: true
 # slug: 
 # image: 
 ---
-

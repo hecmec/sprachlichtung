@@ -1,11 +1,11 @@
 ---
 title: KD Test
-sidebar_position: 0.1
+sidebar_position: 0.5
 keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-02-03
+  date: 2026-02-06
   time: 12:00
   author: Immanuel Lupinus
 
@@ -73,12 +73,17 @@ You can reference images relative to the current file as well. This is particula
 You can also specify image dimensions ??:
 
 ```md
-![Docusaurus logo|200x100](../../static/img/docusaurus.png)
+![Docusaurus logo|150](../../static/img/docusaurus.png)
 ```
 
 ![Docusaurus logo|100x100](../../static/img/docusaurus.png)
 
 You can use **img** tags
+
+```html
+<img src={require("../../static/img/docusaurus.png").default} alt="docu img" 
+  width="300" style={{marginBottom: '-10px'}} />
+```
 
 <img src={require("../../static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
 

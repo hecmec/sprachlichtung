@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-01-28
+  date: 2026-02-06
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
@@ -54,8 +54,8 @@ Im Kern bedeutet kritisches Denken, **selbstständig zu denken**. Es geht darum:
   Ursprünglich aus dem Lateinischen "_criticus_".  Die Römer haben es, wie so oft, von den Griechen und da heisst es: "_κριτικός_" (kritikos) und bedeutet: "**fähig zur Unterscheidung**" oder "**urteilsfähig**". Es ist verwand mit _κρίσις_ (crisis) und abgeleitet vom Verb "_krinein_", was soviel heisst wie: "unterscheiden", "auswählen", "entscheiden", "aussieben".
 
   Ein anderer wichtiger Denker in der Geschichte des Kritischen Denkens war John Dewey (1910), ein pragmatischer amerikanischer Philosoph, der es "reflective thinking" nannte. Für Dewey ist reflektives oder kritisches Denken die: 
-  > aktive, beharrliche und sorgfältige Betrachtung jeder Überzeugung oder vermeintlichen Form von Wissen im Lichte der Gründe, die sie stützen, und der weiteren Schlussfolgerungen, zu denen sie führt.\
-  >(__active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends.__)[^2]
+  "aktive, beharrliche und sorgfältige Betrachtung jeder Überzeugung oder vermeintlichen Form von Wissen im Lichte der Gründe, die sie stützen, und der weiteren Schlussfolgerungen, zu denen sie führt.\
+  (_active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends._)"[^2]
 </details>
 
 ## Kritisches Denken als Metakognition

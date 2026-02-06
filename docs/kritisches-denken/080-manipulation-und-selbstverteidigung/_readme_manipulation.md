@@ -5,6 +5,10 @@
 - FakeNews: Vorlesung "Bullshit-Resistenz" (2023, UDK Berlin) 2. "Fake News"
 https://www.youtube.com/watch?v=cbYY-EGwvIs&list=WL&index=14&t=3767s
 
+- FUD
+https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
+
+- online Betrug
 
 ## Definition
 
@@ -26,9 +30,10 @@ https://www.youtube.com/watch?v=cbYY-EGwvIs&list=WL&index=14&t=3767s
 
 
 - [Online Manipulation](https://www.foolprooffoundation.org/projects/online-manipulation) foolprooffoundation.org
-  - explanations and two nice videos about advertising
-  - they don't give anything but want [donnation](https://www.foolprooffoundation.org/donate)
-  - [Healthy Skeptic](https://www.foolproofme.org/fundamentals/healthy-skeptic)
+
+- explanations and two nice videos about advertising
+- they don't give anything but want [donnation](https://www.foolprooffoundation.org/donate)
+- [Healthy Skeptic](https://www.foolproofme.org/fundamentals/healthy-skeptic)
 
 ## Bücher
 - https://fr.slideshare.net/slideshow/30-manipulation-techniques-to-be-a-smart-person-in-society-1-pdf/269449230#3
