@@ -180,19 +180,6 @@ const config: Config = {
               label: 'Umwelten',
               href: '/docs/category/umwelt-'
             },
-            {
-              label: 'Energie',
-              href: '/docs/category/energie-und-ressourcen-'
-            },
-            {
-              label: 'Quellen',
-              href: '/docs/category/quellen-und-medien-'
-            },
-            {
-              label: 'Humor',
-              href: '/docs/category/humor-und-satire-',
-            },
-
           ],
         },
         {
@@ -228,20 +215,6 @@ const config: Config = {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       }
     }
-    /*
-        // Plugin options (all optional)
-        selector: '.markdown img', // CSS selector for images to zoom
-        // You can also use: 'img[src$=".jpg"], img[src$=".png"]'
-        options: {
-          margin: 24,
-          background: '#BADA55',
-          scrollOffset: 0,
-          container: '#zoom-container',
-          template: '#zoom-template',
-        },
-      },
-
-    */
   } satisfies Preset.ThemeConfig,
 
   stylesheets: [

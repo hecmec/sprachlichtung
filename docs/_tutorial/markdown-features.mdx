@@ -156,9 +156,13 @@ This is <Highlight color="#1877F2">Facebook blue</Highlight> !
 
 https://www.npmjs.com/package/react-player
 
-    ```import ReactPlayer from 'react-player'```
+```
+import React from 'react';
+import ReactPlayer from 'react-player';
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Bse3QVU1yfY' />
 
-<ReactPlayer playing controls url='video.mp4' />
+```
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Bse3QVU1yfY' />
 
 ## Iframe video
 
@@ -172,3 +176,12 @@ https://www.npmjs.com/package/react-player
   allowfullscreen>
 </iframe>
 ```
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/lHu02MWIPUY"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen>
+</iframe>

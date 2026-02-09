@@ -172,7 +172,7 @@ You can use emojis
 
 Adds support for Github's - [ ] and - [x] check box syntax to VS Code's built-in markdown preview.
 
-- [x]
+- [ ]
 
 ## Footnotes
 
@@ -228,10 +228,85 @@ toto
 
 this is working
 
-## tooltip
-import Tooltip from "@site/src/components/Tooltip/Tooltip";
+## Tooltip
 
-This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and this is another  <Tooltip type="another-subject-area" content="different-topic">Tooltip</Tooltip>
+### Standard tooltip (closes on mouse leave)
+
+```md
+<Tooltip text="Info Tooltip" model="info">
+  Brief explanation
+</Tooltip>
+```
+<Tooltip text="Text Tooltip" model="text">
+  Eine Text Nachricht in grau
+</Tooltip> 
+
+<Tooltip text="Info Tooltip" model="info">
+  Brief explanation
+</Tooltip> 
+
+<Tooltip text="Success Tooltip" model="success">
+  ## Success message.  
+  Das war der totale Erfolg :heart: 
+  Hier kommt eine lange Zeile um zu sehen wann das aufhört, oder ob das immer weitergeht.
+</Tooltip>
+
+<Tooltip text="Warning Tooltip" model="warning">
+  Warning message
+</Tooltip>
+
+<Tooltip text="Error Tooltip" model="error">
+  Error message
+</Tooltip>
+
+### Persistent tooltip (stays open until click outside/escape)
+
+```md
+<Tooltip text="Complex Term" model="teacher" persistent={true}>
+  This is a longer explanation that users might want to 
+  keep open while reading other content on the page.
+</Tooltip>
+```
+
+<Tooltip text="Complex Term" model="teacher" persistent={true}>
+  This is a longer explanation that users might want to 
+  keep open while reading other content on the page.
+</Tooltip>
+
+### Persistent tooltip with Video
+
+```
+<Tooltip text="Here is a video" model="video" persistent={true} >
+  ## How to sync files.
+  <ReactPlayer style={{ maxWidth: '560px', width: 'calc(100vw - 60px)', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Bse3QVU1yfY' />
+</Tooltip>
+
+```
+
+<Tooltip text="Here is a video" model="video" persistent={true} >
+  ## How to sync files.
+  <ReactPlayer style={{ maxWidth: '560px', width: 'calc(100vw - 60px)', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Bse3QVU1yfY' />
+</Tooltip>
+
+### Persistent tooltip with Video iframe
+
+```
+<Tooltip text="Here is a video" model="video" persistent={true} >
+  <iframe width="560" height="315"
+    style={{ maxWidth: '560px', width: 'calc(100vw - 60px)', height: 'auto', aspectRatio: '16/9' }}
+    src="https://www.youtube.com/embed/lHu02MWIPUY"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+  </iframe>
+</Tooltip>
+```
+
+<Tooltip text="Here is a video" model="video" persistent={true} >
+  <iframe width="560" height="315"
+    style={{ maxWidth: '560px', width: 'calc(100vw - 60px)', height: 'auto', aspectRatio: '16/9' }}
+    src="https://www.youtube.com/embed/lHu02MWIPUY"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+  </iframe>
+</Tooltip>
 
 ## tabs
 
@@ -249,6 +324,8 @@ import TabItem from '@theme/TabItem';
     This is a banana 🍌
   </TabItem>
 </Tabs>
+
+
 
 ## highlight
 

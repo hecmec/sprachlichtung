@@ -41,6 +41,29 @@ or you do a clear
 docusaurus clear
 ```
 
+## Plugins
+
+[Plugin Directory](https://docusaurus.community/plugindirectory/)
+
+### Zoom
+
+https://github.com/francoischalifour/medium-zoom#usage
+
+configured in the docusaurus config
+
+### try Post generator
+
+ https://github.com/moojing/docusaurus-post-generator
+
+### try 
+
+### Tooltip
+https://docuxlab.com/blog/Tooltip-tools-docusaurus/
+
+### Columns
+https://docuxlab.com/blog/columns-component-docusaurus-infima/
+
+
 ## Deployment on GitHub Pages
 
 Using SSH:
@@ -87,6 +110,5 @@ Official Notion MCP: https://developers.notion.com/docs/mcp
 Getting started: https://developers.notion.com/docs/get-started-with-mcp
 
 https://code.visualstudio.com/docs/copilot/customization/mcp-servers#_configuration-format
-
 
 custom mcp server: https://github.com/makenotion/notion-mcp-server/tree/main
