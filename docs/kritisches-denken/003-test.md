@@ -15,7 +15,6 @@ draft: true
 ---
 import React from 'react';
 import ReactPlayer from 'react-player';
-import BrowserWindow from '@site/src/components/BrowserWindow';
 
 
 # Markdown Features
@@ -366,6 +365,69 @@ This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and thi
   </iframe>
 </Tooltip>
 
+## Cards
+
+<Columns>
+  <Column className="col--6">
+    <Card shadow='tl'>
+      <CardHeader >
+          <h3>Lorem Ipsum</h3>
+      </CardHeader>
+      <CardBody>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+          gravida.
+      </CardBody>
+      <CardFooter>
+        <button className="button button--secondary button--block">See All</button>
+      </CardFooter>
+    </Card>
+  </Column>
+
+  <Column className="col--6">
+  ```html
+  <Card shadow='tl'>
+    <CardHeader >
+        <h3>Lorem Ipsum</h3>
+    </CardHeader>
+    <CardBody>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+        gravida.
+    </CardBody>
+    <CardFooter>
+      <button className="button button--secondary button--block">See All</button>
+    </CardFooter>
+  </Card>
+  ```
+  </Column>
+</Columns>
+
+## Columns
+
+Classnames can be: 'text--left', 'text--center', 'text--right', 'text-justify'
+And column width as 1/12 : 'col--4', 'col--8', etc.
+
+```
+<Columns>
+  <Column className='col--4'>
+    Hier ist die linke Seite
+  </Column>
+  <Column>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  </Column>
+</Columns>
+
+```
+
+<Columns>
+  <Column className='col--4'>
+    Hier ist die linke Seite
+  </Column>
+  <Column>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  </Column>
+</Columns>
 
 ## Tabs
 
@@ -386,9 +448,7 @@ import TabItem from '@theme/TabItem';
 
 ## highlight
 
-import Highlight from '@site/src/components/Highlight/Highlight';
-
-<Highlight color="#25c2a0">Docusaurus green</Highlight> option
+<Highlight color="hsl(267, 100%, 81%)">Docusaurus lila</Highlight> option
 
 ## SVG
 

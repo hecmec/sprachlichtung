@@ -329,11 +329,7 @@ import TabItem from '@theme/TabItem';
 
 ## highlight
 
-import Highlight from '@site/src/components/Highlight/Highlight';
-
 <Highlight color="#25c2a0">Docusaurus green</Highlight> option
-
-
 
 
 ## SVG

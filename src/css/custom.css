@@ -1,6 +1,8 @@
 /**
  * Any CSS included here will be global. The classic template bundles Infima by default. 
  * Infima is a CSS framework designed to work well for content-centric websites.
+
+ https://infima.dev/docs/getting-started/introduction
  */
 
 /* You can override the default Infima variables here. */
@@ -29,9 +31,10 @@
   --docusaurus-highlighted-code-line-bg: hsla(0, 0%, 0%, 0.3);
 }
 
-.container {
+main > .container {
   padding-left: 2rem;
 }
+
 
 /* .menu__list-item:not(:first-child) { */
 .menu__list-item {
@@ -62,4 +65,9 @@
 
 .title_f1Hy {
   font-size: 2rem;
+}
+
+/* for columns component */
+.columns .row > .col:first-child {
+  padding-left: 0;
 }
