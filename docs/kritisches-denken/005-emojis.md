@@ -1,11 +1,11 @@
 ---
 title: Emojis
-sidebar_position: 0.2
+sidebar_position: 0.5
 keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-01-29
+  date: 2026-02-10
   time: 12:00
   author: Immanuel Lupinus
 

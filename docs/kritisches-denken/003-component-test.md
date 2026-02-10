@@ -1,11 +1,11 @@
 ---
-title: KD Test
-sidebar_position: 0.5
+title: Komponenten
+sidebar_position: 0.3
 keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-02-09
+  date: 2026-02-10
   time: 12:00
   author: Immanuel Lupinus
 
@@ -211,9 +211,9 @@ Adds support for Github's - [ ] and - [x] check box syntax to VS Code's built-in
 
 - [ ]
 
-## Footnotes
+## Fussnoten
 
-Footnotes allow you to add notes and references without cluttering the main content.
+Fussnoten erlauben es Anmerkungen ...
 
 ```md
 Here's a sentence with a footnote[^1].
@@ -228,9 +228,23 @@ Here's a sentence with a footnote[^1].
 You can also use named footnotes:
 
 ```md
-Here's another sentence[^note].
+Here's another sentence[^namedNote].
 
-[^note]: This is a named footnote.
+[^namedNote]: This is a named footnote.
+
+```
+
+Here's another sentence[^namedNote].
+
+[^namedNote]: This is a named footnote.
+
+## Mermaid
+
+```mermaid
+flowchart TD
+    C{Critical Thinking}
+    C --> D[Correct]
+    C --> E[Critical]
 ```
 
 ## Shortcuts
@@ -369,7 +383,7 @@ This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and thi
 
 <Columns>
   <Column className="col--6">
-    <Card shadow='tl'>
+    <Card shadow='md'>
       <CardHeader >
           <h3>Lorem Ipsum</h3>
       </CardHeader>
@@ -386,7 +400,8 @@ This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and thi
 
   <Column className="col--6">
   ```html
-  <Card shadow='tl'>
+  <!-- low (lw), medium (md), tall (tl) -->
+  <Card shadow='md'>
     <CardHeader >
         <h3>Lorem Ipsum</h3>
     </CardHeader>
@@ -424,7 +439,7 @@ And column width as 1/12 : 'col--4', 'col--8', etc.
   <Column className='col--4'>
     Hier ist die linke Seite
   </Column>
-  <Column>
+  <Column className='col--8'>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   </Column>
 </Columns>

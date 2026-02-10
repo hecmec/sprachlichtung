@@ -11,7 +11,7 @@ keywords:
   - Argumentation
   - Reflexion
 last_update:
-  date: 2026-02-06
+  date: 2026-02-10
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false

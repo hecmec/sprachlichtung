@@ -45,11 +45,15 @@ const config: Config = {
       de: {
         label: 'Deutsch',
         htmlLang: 'de-DE',
+        url: 'https://de.sprachlichtung.org',
+        baseUrl: '/',
         // path: 'de',
       },
       en: {
         label: 'English',
         htmlLang: 'en-GB',
+        url: 'https://en.sprachlichtung.org',
+        baseUrl: '/',
       },
       // fr: {
       //   label: 'Français',
