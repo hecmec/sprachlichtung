@@ -9,7 +9,7 @@ keywords:
   - Solidarität
   - Chancengleichheit
 last_update:
-  date: 2026-01-29
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
@@ -24,7 +24,7 @@ Originaltitel in der Zeitung _Le Monde_:\
 
 ## Strukturierte Zusammenfassung: Chancengleichheit und Gleichheit der Bedingungen angesichts des Triumphs des Egoismus
 
-### 1. Egoismus als „neuer sozialer Zwang“
+### 1. Egoismus als "neuer sozialer Zwang"
 
 Camille Peugny, Soziologe, analysiert die Herausbildung eines **generalisierten Egoismus** seit den 1980er Jahren, der in Frankreich und anderen westlichen Gesellschaften zur sozialen Norm geworden ist. 
 
@@ -34,7 +34,7 @@ Najat Vallaud-Belkacem, ehemalige Ministerin, bestätigt diese Analyse: die **Ko
 
 ### 2. Gefahren für die Gleichheit
 
-- **Schulische Ungleichheiten**: Bevorzugte Klassen verteidigen ihre Privilegien (Privatschulen, Ablehnung sozialer Durchmischung) und machen die Schule zum Feld der **Rangkämpfe**. Meritokratie wird zum Trugbild, das eine „**Erbokratie**“ verschleiert.
+- **Schulische Ungleichheiten**: Bevorzugte Klassen verteidigen ihre Privilegien (Privatschulen, Ablehnung sozialer Durchmischung) und machen die Schule zum Feld der **Rangkämpfe**. Meritokratie wird zum Trugbild, das eine "**Erbokratie**" verschleiert.
 - **Prekarisierung der Arbeiterklassen**: Prekäre Beschäftigung (Lieferdienste, Haushaltshilfen) und Uberisierung drängen die Verletzlichsten in eine **erzwungene individuelle Verantwortlichkeit** – ohne soziales Sicherheitsnetz.
 - **Aufstieg des Neoliberalismus**: Obere Mittelschichten, einst progressiv, bekennen sich heute zu **Wettbewerb und Verdienst** und deuten Ungleichheiten als Resultat individueller Wege. Dieser ideologische Schwenk schwächt Umverteilungspolitiken.
 - **Schwächung des Kollektivs**: Soziale Bewegungen (Gelbwesten, Rentenproteste) finden kaum Gehör; das **demotiviert bürgerschaftliches Engagement**.
@@ -111,7 +111,7 @@ Nous avons fait dialoguer Camille Peugny avec une personnalité de gauche attach
 Depuis son départ du gouvernement, Najat Vallaud-Belkacem a été directrice générale déléguée de l’institut Ipsos, puis directrice générale de l’organisation non gouvernementale One ; en 2022, elle a été nommée présidente de l’association France terre d’asile. Aujourd’hui, elle publie un livre intitulé Sevrage numérique. Enquête sur notre rapport aux écrans et comment nous en libérer (240 pages, 19,90 euros, Tallandier, à paraître le 29 janvier).
 Dans votre nouvel ouvrage, Camille Peugny, vous analysez le « triomphe des égoïsmes » dans les sociétés occidentales. Avec l’effritement de l’Etat social, l’égoïsme serait devenu non seulement une disposition psychologique individuelle, mais une « contrainte sociale généralisée ». Que voulez-vous dire ?
 
-Camille Peugny : Le point de départ de ma réflexion, c’est l’inquiétude exprimée par le sociologue Robert Castel dans Les Métamorphoses de la question sociale [Fayard, 1995]. Observant les prémices du retrait de l’Etat social tel qu’il s’était construit au lendemain de la seconde guerre mondiale, il craignait que le lien social ne finisse par se déliter. « La vie sociale risque de se vivre sur le monde du “struggle for life” », écrivait-il.
+Camille Peugny : Le point de départ de ma réflexion, c’est l’inquiétude exprimée par le sociologue Robert Castel dans Les Métamorphoses de la question sociale [Fayard, 1995]. Observant les prémices du retrait de l’Etat social tel qu’il s’était construit au lendemain de la seconde guerre mondiale, il craignait que le lien social ne finisse par se déliter. « La vie sociale risque de se vivre sur le monde du "struggle for life” », écrivait-il.
 
 Trente ans plus tard, sa prophétie s’est réalisée : aujourd’hui, la société nous contraint à agir de plus en plus souvent de manière égoïste. Fondée sur la concurrence entre toutes et tous, cette logique de responsabilisation individuelle se déploie dans les failles béantes laissées par le retrait de l’Etat social : elle jette les individus les uns contre les autres dans tous les domaines de la vie sociale – l’école, le travail, l’anticipation de l’avenir, les trajectoires des enfants.
 Pourquoi avez-vous choisi le terme « égoïsme », une notion morale négativement connotée, et non pas les termes « individualisation » ou « individualisme », qui sont des concepts de sciences sociales ?

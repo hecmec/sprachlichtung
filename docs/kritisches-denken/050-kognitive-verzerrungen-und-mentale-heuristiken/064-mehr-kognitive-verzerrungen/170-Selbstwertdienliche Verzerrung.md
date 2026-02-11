@@ -18,7 +18,7 @@ draft: false
 ---
 
 :::tip Kurz
-Erfolge sind „mein Verdienst“, Misserfolge „Pech und Umstände“.
+Erfolge sind "mein Verdienst", Misserfolge "Pech und Umstände".
 
 _Bescheidenheit ist eine Zier, doch weiter kommst du ohne ihr_
 :::
@@ -37,7 +37,7 @@ Selbstwertdienliche Verzerrungen stehen in enger Beziehung zu:
 
 - **Fundamentaler Attributionsfehler:** Eigene Handlungen intern, fremde Handlungen extern erklären (umgekehrt je nach Bedarf).
 - **Bestätigungsfehler:** Bevorzugt Informationen aufnehmen, die das Selbstbild stützen.
-- **Kognitive Dissonanz:** Widersprüche zum Selbstbild werden „weg erklärt“.
+- **Kognitive Dissonanz:** Widersprüche zum Selbstbild werden "weg erklärt".
 - **Halo-Effekt:** Positives Selbstbild färbt auf Einzelleistungen ab.
 - **Illusion der Kontrolle:** Erfolge werden überschätzt, Zufall unterschätzt.
 - **Optimismus-Bias:** Risiken/Fehler werden für die eigene Person geringer eingeschätzt.
@@ -46,19 +46,19 @@ Selbstwertdienliche Verzerrungen stehen in enger Beziehung zu:
 
 ### Prüfungsnote
 
-Gute Note: „Ich habe hart gearbeitet und bin klug.“ Schlechte Note: „Die Aufgaben waren unfair, der Prüfer hatte etwas gegen mich.“
+Gute Note: "Ich habe hart gearbeitet und bin klug." Schlechte Note: "Die Aufgaben waren unfair, der Prüfer hatte etwas gegen mich."
 
 ### Teamleistung
 
-Gewonnen: „Meine Strategie war ausschlaggebend.“ Verloren: „Das Wetter, die Umstände, die Gegner – alles gegen uns.“
+Gewonnen: "Meine Strategie war ausschlaggebend." Verloren: "Das Wetter, die Umstände, die Gegner – alles gegen uns."
 
 ### Unternehmensziele
 
-Ziele erreicht: „Gute Führung, starke Leistung.“ Ziele verfehlt: „Markt war schwierig, neue Regulierung, unvorhersehbare Faktoren.“
+Ziele erreicht: "Gute Führung, starke Leistung." Ziele verfehlt: "Markt war schwierig, neue Regulierung, unvorhersehbare Faktoren."
 
 ### Beziehungen
 
-Komplimente werden ernst genommen, Kritik als „überempfindlich“ oder „missverständlich“ abgetan.
+Komplimente werden ernst genommen, Kritik als "überempfindlich" oder "missverständlich" abgetan.
 
 ## Auswirkungen
 
@@ -69,7 +69,7 @@ Komplimente werden ernst genommen, Kritik als „überempfindlich“ oder „mis
 
 ## Gegenstrategien
 
-- **Attributions-Check:** Ursachen systematisch intern/extern prüfen („Was lag wirklich in meiner Kontrolle?“).
+- **Attributions-Check:** Ursachen systematisch intern/extern prüfen ("Was lag wirklich in meiner Kontrolle?").
 - **Feedback-Kultur:** Konkretes, verhaltensbezogenes Feedback einholen; defensivfreie Räume schaffen.
 - **Errate-die-Gegenposition:** Eigene Leistung aus Sicht der anderen beschreiben.
 - **Daten statt Eindrücke:** Kennzahlen und objektive Kriterien nutzen.

@@ -8,7 +8,7 @@ keywords:
     - Gesellschaftsspiele
     - Definition
 last_update:
-  date: 2025-09-23
+  date: 2026-02-11
   author: Immanuel Lupinus
 # slug: 
 # image: 
@@ -25,11 +25,11 @@ Here is a summary of some of her key ideas, explained by Butler herself in this 
 
 ## **Judith Butler on Gender, Freedom, and Democracy**
 
-Judith Butler, a distinguished professor at the University of California, Berkeley, is best known for her groundbreaking work on gender, particularly her books *Gender Trouble* (1990) and *Bodies That Matter* (1993). Her theories have sparked global debates, but she emphasizes that her work is just one perspective among many. For Butler, gender is not a fixed or natural fact, but a complex interplay of culture, history, family, desire, and personal agency. She argues that everyone has a “theory of gender”—a set of assumptions about what gender is or should be—and that questioning these assumptions is essential for creating more livable, just, and free lives.
+Judith Butler, a distinguished professor at the University of California, Berkeley, is best known for her groundbreaking work on gender, particularly her books *Gender Trouble* (1990) and *Bodies That Matter* (1993). Her theories have sparked global debates, but she emphasizes that her work is just one perspective among many. For Butler, gender is not a fixed or natural fact, but a complex interplay of culture, history, family, desire, and personal agency. She argues that everyone has a "theory of gender”—a set of assumptions about what gender is or should be—and that questioning these assumptions is essential for creating more livable, just, and free lives.
 
 ### **The Distinction Between Sex and Gender**
 
-Butler draws a critical distinction between **sex** and **gender**. **Sex** is typically assigned at birth and holds significance in medical and legal contexts. **Gender**, however, is a dynamic mix of cultural norms, historical influences, family expectations, and individual desires. While biological differences exist, Butler insists they do not determine identity in a final or rigid way. Gender is something we “do,” not just something we “are.”
+Butler draws a critical distinction between **sex** and **gender**. **Sex** is typically assigned at birth and holds significance in medical and legal contexts. **Gender**, however, is a dynamic mix of cultural norms, historical influences, family expectations, and individual desires. While biological differences exist, Butler insists they do not determine identity in a final or rigid way. Gender is something we "do,” not just something we "are.”
 
 This idea challenges the notion that gender is a static, natural category. Instead, Butler sees it as something we **perform**—not in the sense of acting falsely, but in the sense of actively shaping our identities through repeated actions, choices, and expressions. This performative aspect of gender means that reality is not fixed; it can change as people live, speak, and act in new ways.
 
@@ -39,17 +39,17 @@ Butler’s thinking was shaped by the social movements of the 1960s and her Jewi
 
 In the 1970s and 1980s, Butler was part of a movement rethinking gender. Queer theory was emerging, though trans issues were not yet central to public discourse. She opposed feminist theories that defined women solely as mothers or as inherently heterosexual, arguing that such definitions were exclusionary and limiting.
 
-Butler acknowledges that she was not the first to question gender norms. **Simone de Beauvoir**, in *The Second Sex* (1949), famously wrote, *“One is not born, but rather becomes, a woman,”* suggesting that gender is constructed, not innate. **Gayle Rubin**, an anthropologist, explored how families and societies reproduce gender norms, often suppressing alternative ways of being. Rubin’s work highlighted the psychological and social pressures that enforce conformity to traditional gender roles.
+Butler acknowledges that she was not the first to question gender norms. **Simone de Beauvoir**, in *The Second Sex* (1949), famously wrote, *"One is not born, but rather becomes, a woman,”* suggesting that gender is constructed, not innate. **Gayle Rubin**, an anthropologist, explored how families and societies reproduce gender norms, often suppressing alternative ways of being. Rubin’s work highlighted the psychological and social pressures that enforce conformity to traditional gender roles.
 
 ### **Gender as Performance**
 
-Butler’s concept of **performativity** builds on the philosopher J.L. Austin’s idea of “performative utterances”—words that do not just describe reality but create it. For example, when a judge declares a couple married, the act of speaking makes it so. Similarly, Butler argues that gender is enacted through daily actions. When people come out as gay, lesbian, or trans, or when they challenge traditional norms, they are not just expressing their identity; they are **changing reality**.
+Butler’s concept of **performativity** builds on the philosopher J.L. Austin’s idea of "performative utterances”—words that do not just describe reality but create it. For example, when a judge declares a couple married, the act of speaking makes it so. Similarly, Butler argues that gender is enacted through daily actions. When people come out as gay, lesbian, or trans, or when they challenge traditional norms, they are not just expressing their identity; they are **changing reality**.
 
-This performative understanding of gender has real-world consequences. Language evolves as society does: terms like “family,” “woman,” and “man” no longer mean what they once did. Even institutions like the Cambridge Dictionary have updated definitions to reflect these shifts. Butler sees this as evidence that gender is not a fixed essence but a fluid, evolving process.
+This performative understanding of gender has real-world consequences. Language evolves as society does: terms like "family,” "woman,” and "man” no longer mean what they once did. Even institutions like the Cambridge Dictionary have updated definitions to reflect these shifts. Butler sees this as evidence that gender is not a fixed essence but a fluid, evolving process.
 
 ### **Resistance and Learning**
 
-Despite progress, resistance persists. Some people dismiss gender equality, LGBTQ+ rights, or trans rights as “secondary issues” or feel uncomfortable adapting to new language (e.g., using “they/them” pronouns). Butler acknowledges that change can be difficult, but she compares it to past struggles, such as learning to speak about Black people or women with respect. Stumbling over new terms is part of learning, and mistakes are opportunities for growth.
+Despite progress, resistance persists. Some people dismiss gender equality, LGBTQ+ rights, or trans rights as "secondary issues” or feel uncomfortable adapting to new language (e.g., using "they/them” pronouns). Butler acknowledges that change can be difficult, but she compares it to past struggles, such as learning to speak about Black people or women with respect. Stumbling over new terms is part of learning, and mistakes are opportunities for growth.
 
 She critiques the tendency to polarize debates—canceling those who disagree or refusing to engage with challenging ideas. Instead, she advocates for openness and humility, recognizing that our deepest sense of self is formed over time and can evolve.
 
@@ -74,4 +74,4 @@ Butler is less interested in defending her theory than in finding ways to counte
 - Resistance to change is natural, but learning and growth require openness and humility.
 - The fight for gender freedom is part of the broader struggle for democracy and justice.
 
-Butler’s work invites us to question assumptions, challenge norms, and imagine a more inclusive world. As she puts it, *“We are all the time struggling to achieve that goal.”*
+Butler’s work invites us to question assumptions, challenge norms, and imagine a more inclusive world. As she puts it, *"We are all the time struggling to achieve that goal.”*

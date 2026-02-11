@@ -13,7 +13,7 @@ keywords:
   - Salienz
   - Doomscrolling
 last_update:
-  date: 2026-01-21
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 3/5
@@ -62,7 +62,7 @@ Ein einzelner 1‑Stern‑Kommentar beeinflusst die Kaufentscheidung mehr als vi
 
 ## Gegenstrategien
 
-- Positive Evidenz systematisch mit tracken (z. B. „Erfolgs-/Dankbarkeitsjournal“)
+- Positive Evidenz systematisch mit tracken (z. B. "Erfolgs-/Dankbarkeitsjournal")
 - Baselines und Zeitreihen betrachten statt Schlaglichter (Base Rates)
 - Balancierte Informationsdiät: Quellenvielfalt, bewusste Pausen von Nachrichten
 - Feedback strukturieren: erst Stärken, dann Verbesserungen, dann nächste Schritte

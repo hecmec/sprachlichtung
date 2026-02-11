@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Verfügbarkeitsheuristik
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -36,11 +36,11 @@ EN: _Availability Bias_
 
 Die Verfügbarkeitsheuristik hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihnen verstärkt:
 
-- **Auffälligkeitsverzerrung (Salience Bias):** Was besonders eindrücklich, emotional oder visuell markant ist, ist leichter abrufbar – und wirkt dadurch „wichtiger“.
+- **Auffälligkeitsverzerrung (Salience Bias):** Was besonders eindrücklich, emotional oder visuell markant ist, ist leichter abrufbar – und wirkt dadurch "wichtiger".
 - **Rezenzeffekt (Recency Effect):** Kürzlich erlebte oder gesehene Informationen sind besonders verfügbar und prägen Urteile unverhältnismäßig stark.
 - **Negativitätsbias:** Negative Ereignisse bleiben besser im Gedächtnis, wodurch Risiken systematisch überschätzt werden.
 - **Bestätigungsfehler (Confirmation Bias):** Wir suchen und erinnern vor allem Beispiele, die unsere Überzeugungen stützen – genau die werden dann besonders verfügbar.
-- **Überlebenden-Verzerrung (Survivorship Bias):** Nur die sichtbaren „Erfolgsgeschichten“ sind präsent; die unsichtbaren Fehlversuche fehlen im mentalen Datensatz.
+- **Überlebenden-Verzerrung (Survivorship Bias):** Nur die sichtbaren "Erfolgsgeschichten" sind präsent; die unsichtbaren Fehlversuche fehlen im mentalen Datensatz.
 - **Repräsentativitätsheuristik:** Lebendige, stereotype Beispiele werden fälschlich als typisch angesehen; Verfügbarkeit und Repräsentativität beeinflussen sich gegenseitig.
 - **Erinnerungsverzerrung (Recall Bias):** Systematische Fehler beim Erinnern (z. B. in Studien) verstärken die scheinbare Häufigkeit bestimmter Ereignisse.
 

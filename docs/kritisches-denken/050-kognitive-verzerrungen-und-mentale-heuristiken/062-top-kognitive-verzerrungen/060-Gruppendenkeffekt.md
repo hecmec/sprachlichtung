@@ -13,7 +13,7 @@ keywords:
   - Gruppendenkeffekt
   - Groupthink
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -50,7 +50,7 @@ Der Gruppendenkeffekt hängt mit verschiedenen anderen psychologischen Phänomen
 
 ### Unternehmensentscheidungen
 
-Teammitglieder stimmen einem Projektplan zu, obwohl sie individuelle Bedenken haben, um nicht als „Spielverderber" zu gelten. Warnzeichen für Probleme werden ignoriert oder heruntergespielt, um den Konsens nicht zu gefährden.  
+Teammitglieder stimmen einem Projektplan zu, obwohl sie individuelle Bedenken haben, um nicht als "Spielverderber" zu gelten. Warnzeichen für Probleme werden ignoriert oder heruntergespielt, um den Konsens nicht zu gefährden.  
 Dies führt zu **kostspieligen Fehlentscheidungen**.
 
 ### Politische Gremien und Institutionen

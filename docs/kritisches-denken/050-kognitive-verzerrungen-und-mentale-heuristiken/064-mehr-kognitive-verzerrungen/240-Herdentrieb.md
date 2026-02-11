@@ -13,7 +13,7 @@ keywords:
   - Konformität
   - soziale Bewährtheit
 last_update:
-  date: 2026-01-21
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 3/5
@@ -54,7 +54,7 @@ Der Herdentrieb hängt eng mit verschiedenen weiteren Verzerrungen und sozialen 
 
 ### Finanzmärkte: Blasen und Crashs
 
-Anleger kaufen, weil „alle kaufen“ (Preis steigt), und verkaufen panisch, weil „alle verkaufen“. Informationskaskaden führen zu Überbewertungen – bis zur Korrektur.
+Anleger kaufen, weil "alle kaufen" (Preis steigt), und verkaufen panisch, weil "alle verkaufen". Informationskaskaden führen zu Überbewertungen – bis zur Korrektur.
 
 ### Panikkäufe und Trends
 

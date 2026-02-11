@@ -10,7 +10,7 @@ keywords:
     - argumentation
     - reflection
 last_update:
-  date: 2026-01-15
+  date: 2026-02-11
   author: Immanuel Lupinus
 image: "/static/img/compass.svg"
 
@@ -106,7 +106,7 @@ Here are a few examples:
 - "Smoking is cool and not harmful to health!", signed Dr. Marlboro <img src={require('./img/marlboro.png').default} alt="marlboro" height="30"  />
   <!-- ![malborough|50px](marlboro.png)  -->
 - "The majority of Americans believe that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('./img/wikipedia.png').default} alt="wikipedia" height="30"  />
-- "The influence of humans on the climate is clear“ Intergovernmental Panel on Climate Change (IPCC) <img src={require('./img/ipcc.png').default} alt="ipcc" height="30"  />
+- "The influence of humans on the climate is clear" Intergovernmental Panel on Climate Change (IPCC) <img src={require('./img/ipcc.png').default} alt="ipcc" height="30"  />
 
 I'll let you decide who you trust more.
 

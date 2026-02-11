@@ -10,7 +10,7 @@ keywords:
     - Sprachphilosophie
     - Bedeutungstheorie
 last_update:
-  date: 2025-06-24
+  date: 2026-02-11
   author: Immanuel Lupinus
 # slug: 
 # image: 
@@ -20,7 +20,7 @@ last_update:
 
 ## Allgemein
 
-In Wittgensteins Sprachspielbegriff sind Sprache und Handeln eng miteinander verwoben. Wittgenstein argumentiert, dass die Bedeutung von Wörtern und Sätzen nicht isoliert betrachtet werden kann, sondern immer im Kontext von Handlungen und Praktiken steht. Er nennt das Ganze aus Sprache und den Tätigkeiten, mit denen sie verwoben ist, ein „Sprachspiel“.
+In Wittgensteins Sprachspielbegriff sind Sprache und Handeln eng miteinander verwoben. Wittgenstein argumentiert, dass die Bedeutung von Wörtern und Sätzen nicht isoliert betrachtet werden kann, sondern immer im Kontext von Handlungen und Praktiken steht. Er nennt das Ganze aus Sprache und den Tätigkeiten, mit denen sie verwoben ist, ein "Sprachspiel".
 
 Ein Wort, ein Begriff oder ein Satz hat seine Bedeutung nicht unabhängig davon, was man mit diesem Wort, dem Begriff oder dem Satz tut und in welcher Situation man ihn äußert. Dies bedeutet, dass die Bedeutung von Sprache durch ihre Verwendung in bestimmten Kontexten und Praktiken bestimmt wird1.
 

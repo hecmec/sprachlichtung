@@ -5,7 +5,8 @@
     "line_length": 300
   },
   "MD007": {
-    "indent": 4
+    "enabled": true,
+    "indent": 2
   },
   "MD029": {
     "style": "ordered"

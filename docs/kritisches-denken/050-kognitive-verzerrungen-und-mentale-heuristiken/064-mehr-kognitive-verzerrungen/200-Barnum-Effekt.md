@@ -7,7 +7,7 @@ keywords:
   - Barnum-Effekt
   - Forer-Effekt
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 4/5
@@ -31,15 +31,15 @@ EN: _Barnum Effect / Forer Effect_
 - **Bestätigungsfehler:** Man merkt sich Passendes, ignoriert Unpassendes.
 - **Halo-Effekt:** Positive Formulierungen färben die Gesamtbewertung.
 - **Selbstwertdienliche Verzerrung:** Schmeichelhaftes wird eher angenommen.
-- **Autoritäts- und Expertenbias:** „Tests“ oder „Astrolog:innen“ erhöhen Glaubwürdigkeit.
+- **Autoritäts- und Expertenbias:** "Tests" oder "Astrolog:innen" erhöhen Glaubwürdigkeit.
 - **Cold Reading / subjektive Validierung:** Mehrdeutiges wird passend gemacht.
 
 ## Beispiele
 
-- **Horoskope:** „Sie sind manchmal gesellig, brauchen aber auch Rückzug.“
+- **Horoskope:** "Sie sind manchmal gesellig, brauchen aber auch Rückzug."
 - **Online-Persönlichkeitstests:** Triviale Fragen, hochpräzise klingende Auswertung.
 - **Recruiting-/Coaching-Reports:** Eindrucksvoll formuliert, aber nicht prüfbar spezifisch.
-- **Werbung:** „Für alle Hauttypen – genau was Ihre Haut jetzt braucht.“
+- **Werbung:** "Für alle Hauttypen – genau was Ihre Haut jetzt braucht."
 - **Wahrsagerei:** Breite Aussagen, die jeder auf sich beziehen kann.
 
 ## Auswirkungen

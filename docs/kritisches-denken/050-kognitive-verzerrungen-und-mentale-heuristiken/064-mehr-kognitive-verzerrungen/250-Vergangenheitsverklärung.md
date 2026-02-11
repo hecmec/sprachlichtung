@@ -13,7 +13,7 @@ keywords:
   - Rosy Retrospection
   - Peak-End-Regel
 last_update:
-  date: 2026-01-21
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 3/5
@@ -29,7 +29,7 @@ _Früher war mehr Lametta._
 
 ## Definition
 
-Die **Vergangenheitsverklärung** beschreibt die Tendenz, vergangene Ereignisse systematisch verzerrt zu erinnern – häufig positiver (Nostalgie, Rosy Retrospection), teils aber auch negativer (Declinism: „Früher war alles besser, heute ist alles schlechter“), als sie tatsächlich waren.
+Die **Vergangenheitsverklärung** beschreibt die Tendenz, vergangene Ereignisse systematisch verzerrt zu erinnern – häufig positiver (Nostalgie, Rosy Retrospection), teils aber auch negativer (Declinism: "Früher war alles besser, heute ist alles schlechter"), als sie tatsächlich waren.
 
 EN: _Rosy retrospection_, _Declinism_
 
@@ -37,9 +37,9 @@ EN: _Rosy retrospection_, _Declinism_
 
 Die Vergangenheitsverklärung hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihnen beeinflusst:
 
-- **Rückschaufehler (Hindsight Bias):** Im Nachhinein erscheint vieles „schon immer klar“ – das glättet die Erinnerung.
+- **Rückschaufehler (Hindsight Bias):** Im Nachhinein erscheint vieles "schon immer klar" – das glättet die Erinnerung.
 - **Peak-End-Regel:** Wir erinnern vor allem Höhepunkte und das Ende, nicht den Durchschnitt.
-- **Negativitätsbias:** In Krisenphasen überbetonen wir negative Rückblicke („Niedergang“).
+- **Negativitätsbias:** In Krisenphasen überbetonen wir negative Rückblicke ("Niedergang").
 - **Konsistenzbias:** Erinnerungen passen wir unbewusst an aktuelle Überzeugungen an.
 - **Verfügbarkeitsheuristik:** Leicht abrufbare, eindrückliche Episoden dominieren das Gesamtbild.
 
@@ -47,7 +47,7 @@ Die Vergangenheitsverklärung hängt eng mit mehreren anderen Verzerrungen zusam
 
 ### Die goldene Kindheit
 
-Erinnerungen an Schulzeit oder Sommerurlaube blenden Langeweile, Streit und Misserfolge aus. Übrig bleibt ein idealisiertes „Früher war es unbeschwert“.  
+Erinnerungen an Schulzeit oder Sommerurlaube blenden Langeweile, Streit und Misserfolge aus. Übrig bleibt ein idealisiertes "Früher war es unbeschwert".  
 Kinder müssen meistens auch keine Verantwortung tragen und leben oft in einer bunten Erlebniswelt.
 
 ### Früher war die Musik besser (das stimmt aber)
@@ -63,7 +63,7 @@ Zu dem Thema gesellschaftlicher Niedergang und warum das nicht stimmt gibt es ei
 ## Auswirkungen
 
 - Verzerrte Bewertungen von Entwicklungen (übertriebene Nostalgie oder Kulturpessimismus)
-- Fehlallokation von Aufmerksamkeit und Ressourcen („Früherer Zustand als Zielbild“)
+- Fehlallokation von Aufmerksamkeit und Ressourcen ("Früherer Zustand als Zielbild")
 - Resistenz gegenüber Daten, die positive Trends zeigen
 
 ## Gegenstrategien
@@ -71,7 +71,7 @@ Zu dem Thema gesellschaftlicher Niedergang und warum das nicht stimmt gibt es ei
 - Systematisch Daten vergleichen (Langzeitstatistiken statt Einzelanekdoten)
 - Erinnerungen kontextualisieren: Welche Teile blende ich aus? Welche Quellen prägen mein Bild?
 - Zeitgenössische Aufzeichnungen/Journale nutzen, statt auf spätere Erinnerung zu vertrauen
-- Sowohl „Höhepunkte“ als auch „Durchschnitt“ betrachten (Peak-End-Falle vermeiden)
+- Sowohl "Höhepunkte" als auch "Durchschnitt" betrachten (Peak-End-Falle vermeiden)
 
 ## Quellen
 
@@ -87,13 +87,13 @@ Weltweit über Jahrzehnte stark gesunken; gleichzeitig stiegen Lebenserwartung, 
 ### Gewalttrend
 
 Langfristig sinkende Gewalt- und Mordraten in vielen Regionen. 
-- Steven Pinker – _Better Angels of Our Nature_ (dt.: „Gewalt: Eine neue Geschichte der Menschheit“), dazu Datenübersichten bei Our World in Data.
+- Steven Pinker – _Better Angels of Our Nature_ (dt.: "Gewalt: Eine neue Geschichte der Menschheit"), dazu Datenübersichten bei Our World in Data.
 
 ### Allgemeiner Fortschritt
 
 Datenbasierter Überblick zu Armut, Gesundheit, Bildung, Sicherheit.  
 - Hans Rosling, _Factfulness_
-- Steven Pinker, _Enlightenment Now_ (dt.: „Aufklärung jetzt“)
+- Steven Pinker, _Enlightenment Now_ (dt.: "Aufklärung jetzt")
 - Max Roser, _The short history of global living conditions_ (Our World in Data)
-- Johan Norberg, _Progress_ (dt.: „Fortschritt: Zehn Gründe, warum die Welt besser ist, als du denkst“)
-- Matt Ridley, _The Rational Optimist_ (dt.: „Der rationale Optimist: Warum wir immer reicher werden“)
+- Johan Norberg, _Progress_ (dt.: "Fortschritt: Zehn Gründe, warum die Welt besser ist, als du denkst")
+- Matt Ridley, _The Rational Optimist_ (dt.: "Der rationale Optimist: Warum wir immer reicher werden")

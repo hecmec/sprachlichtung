@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Mitläufereffekt
 last_update:
-  date: 2026-01-18
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -44,7 +44,7 @@ Der Mitläufereffekt ist eng mit mehreren anderen Verzerrungen und Dynamiken ver
 
 ### Hype um Kryptowährungen und Meme-Aktien
 
-Menschen kaufen, weil „alle“ kaufen. Die Zahl der Käufer wird mit **Qualität** oder **Sicherheit** verwechselt. Späte Mitläufer tragen die größten Verluste.
+Menschen kaufen, weil "alle" kaufen. Die Zahl der Käufer wird mit **Qualität** oder **Sicherheit** verwechselt. Späte Mitläufer tragen die größten Verluste.
 
 ### Produktbewertungen und Sterne-Ratings
 
@@ -52,11 +52,11 @@ Viele 5-Sterne-Rezensionen erzeugen Vertrauen, auch wenn die Bewertungen inhaltl
 
 ### Politische Parolen und Wahlentscheidungen
 
-Slogans verbreiten sich viral; „jeder“ scheint dafür — differenzierte Argumente gehen unter. Konformität ersetzt Debatte.
+Slogans verbreiten sich viral; "jeder" scheint dafür — differenzierte Argumente gehen unter. Konformität ersetzt Debatte.
 
 ### Hamsterkäufe
 
-Leere Regale erzeugen den Eindruck: „Alle kaufen das – ich muss auch.“ So verstärkt sich das Verhalten selbst.
+Leere Regale erzeugen den Eindruck: "Alle kaufen das – ich muss auch." So verstärkt sich das Verhalten selbst.
 
 ### Modetrends
 

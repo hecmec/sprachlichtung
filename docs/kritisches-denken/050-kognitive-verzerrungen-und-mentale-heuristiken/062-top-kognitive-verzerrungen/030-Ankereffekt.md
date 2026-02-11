@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Ankereffekt
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -45,7 +45,7 @@ Der Ankereffekt hängt mit mehreren anderen Verzerrungen zusammen und wird von i
 
 ### Preisverhandlungen
 
-Der zuerst genannte Preis (Listenpreis, „Angebot“) setzt einen Referenzpunkt. Selbst wenn er überhöht ist, bewegen sich Gegenangebote und das Endergebnis in seiner Nähe.
+Der zuerst genannte Preis (Listenpreis, "Angebot") setzt einen Referenzpunkt. Selbst wenn er überhöht ist, bewegen sich Gegenangebote und das Endergebnis in seiner Nähe.
 
 ### Gerichtsurteile
 
@@ -53,7 +53,7 @@ Studien zeigen: Fordert die Staatsanwaltschaft eine hohe Strafe, fallen Urteile 
 
 ### Schätzfragen mit willkürlichen Zahlen
 
-Wird vor einer Schätzung eine zufällige oder offensichtlich falsche Zahl genannt, nähern sich spätere Antworten dieser Zahl an (z. B. bei „Wie viele Länder gibt es in Afrika?“).
+Wird vor einer Schätzung eine zufällige oder offensichtlich falsche Zahl genannt, nähern sich spätere Antworten dieser Zahl an (z. B. bei "Wie viele Länder gibt es in Afrika?").
 
 ## Auswirkungen
 

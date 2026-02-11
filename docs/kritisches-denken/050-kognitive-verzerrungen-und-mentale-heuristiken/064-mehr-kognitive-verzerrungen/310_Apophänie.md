@@ -11,7 +11,7 @@ keywords:
   - Apophänie
   - Pareidolie
 last_update:
-  date: 2026-01-23
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -36,10 +36,10 @@ EN: _Apophenia_ (visual subtype: _Pareidolia_)
 Apophänie hängt eng mit mehreren anderen Verzerrungen und Denkfehlern zusammen:
 
 - **Clustering-Illusion:** Zufällige Häufungen werden als echte Strukturen fehlinterpretiert.
-- **Texas-Sharpshooter-Irrtum:** Nachträgliches Einzeichnen von Zielen um bereits vorhandene „Treffer“.
-- **Repräsentativitätsheuristik:** Einzelne prägnante Beispiele wirken „typisch“ für ein Muster.
+- **Texas-Sharpshooter-Irrtum:** Nachträgliches Einzeichnen von Zielen um bereits vorhandene "Treffer".
+- **Repräsentativitätsheuristik:** Einzelne prägnante Beispiele wirken "typisch" für ein Muster.
 - **Bestätigungsfehler:** Erwartete Muster werden bevorzugt gesehen und erinnert.
-- **Gambler’s Fallacy:** Scheinmuster in Zufallsfolgen (z. B. Münzwürfe) suggerieren „fällige“ Ergebnisse.
+- **Gambler’s Fallacy:** Scheinmuster in Zufallsfolgen (z. B. Münzwürfe) suggerieren "fällige" Ergebnisse.
 - **Pareidolie:** Spezielle Form der Apophänie im Bereich des Sehens.
 
 ## Beispiele
@@ -50,15 +50,15 @@ Menschen sehen Gesichter in Wolken, auf dem Mars, in Steckdosen, Autoscheinwerfe
 
 ### Muster in Finanzdaten
 
-Kurven und Kerzencharts regen die Mustererkennung an. Aus zufälligen Schwankungen werden „Formationen“ (Kopf‑Schulter, Doppelboden) gelesen, die vermeintlich zukünftige Bewegungen vorhersagen, obwohl sie oft statistisch nicht belastbar sind.
+Kurven und Kerzencharts regen die Mustererkennung an. Aus zufälligen Schwankungen werden "Formationen" (Kopf‑Schulter, Doppelboden) gelesen, die vermeintlich zukünftige Bewegungen vorhersagen, obwohl sie oft statistisch nicht belastbar sind.
 
 ### Bedeutungsvolle Zufälle
 
-Zwei Personen treffen sich mehrfach „zufällig“ in kurzer Zeit und deuten das als Schicksal. Häufig liegen jedoch simple Basisraten und gemeinsame Wege zugrunde – nicht Kausalität.
+Zwei Personen treffen sich mehrfach "zufällig" in kurzer Zeit und deuten das als Schicksal. Häufig liegen jedoch simple Basisraten und gemeinsame Wege zugrunde – nicht Kausalität.
 
 ### Datenfischen in Studien
 
-Wer viele Variablen ohne klare Hypothese testet, wird fast sicher „signifikante“ Muster finden. Ohne Vorregistrierung, Korrekturen für multiple Tests und Replikation ist das oft nur Rauschen.
+Wer viele Variablen ohne klare Hypothese testet, wird fast sicher "signifikante" Muster finden. Ohne Vorregistrierung, Korrekturen für multiple Tests und Replikation ist das oft nur Rauschen.
 
 ## Auswirkungen
 
@@ -71,7 +71,7 @@ Wer viele Variablen ohne klare Hypothese testet, wird fast sicher „signifikant
 
 - Vorab-Hypothesen formulieren und Studien vorregistrieren; Exploratives klar von Konfirmatorischem trennen
 - Korrekturen für multiple Tests (z. B. Bonferroni), Out-of-sample-Validierung und Replikationen nutzen
-- Nullmodelle, Randomisierungstests und Simulationen heranziehen: „Wie sähe reiner Zufall aus?“
+- Nullmodelle, Randomisierungstests und Simulationen heranziehen: "Wie sähe reiner Zufall aus?"
 - Visualisierungen kritisch lesen; auf Achsenskalierung, Auswahl und nachträgliches Clustern achten
 - Bewusst Gegenbeispiele suchen und Basisraten einbeziehen
 

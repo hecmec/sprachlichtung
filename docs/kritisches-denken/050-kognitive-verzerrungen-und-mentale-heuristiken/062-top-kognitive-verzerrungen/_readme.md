@@ -173,7 +173,7 @@ Nostalgische Verklärung vergangener Jahrzehnte (z.B. "die goldenen 50er Jahre")
 Die falsche Annahme, zufällige Ereignisse durch eigenes Verhalten kontrollieren zu können. 
 
 # Überlebenden-Verzerrung (Survivorship bias)
-Verzerrung zugunsten der „Überlebenden“/„Erfolgreichen“, Erfahrungen „erfolgloser“ Individuen werden nicht gleichermaßen berücksichtigt. 
+Verzerrung zugunsten der "Überlebenden"/"Erfolgreichen", Erfahrungen "erfolgloser" Individuen werden nicht gleichermaßen berücksichtigt. 
 
 
 # Zuschauereffekt (the bystander effect)
@@ -301,10 +301,10 @@ Beispiel
 
 Hier ein Gedankenexperiment von Daniel Kahneman:
 
-„Linda ist einunddreißig Jahre alt, ledig, direkt und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Anti-Atomkraft-Demonstrationen teil. Welche Alternative ist wahrscheinlicher?
+"Linda ist einunddreißig Jahre alt, ledig, direkt und sehr intelligent. Sie hat Philosophie studiert. Als Studentin beschäftigte sie sich intensiv mit Fragen der Diskriminierung und sozialen Gerechtigkeit und nahm auch an Anti-Atomkraft-Demonstrationen teil. Welche Alternative ist wahrscheinlicher?
 
     Linda ist eine Bankangestellte.
-    Linda ist Bankangestellte und engagiert sich in der feministischen Bewegung.“
+    Linda ist Bankangestellte und engagiert sich in der feministischen Bewegung."
 
 Du könntest denken, dass die zweite Option wahrscheinlicher ist, weil sie zu dem Bild passt, das du von Linda hast.
 
@@ -346,7 +346,7 @@ Wenn Marken eine dritte Option hinzufügen, bieten sie dir nicht nur mehr Auswah
 
 Der Köder ist so gestaltet, dass er weniger attraktiv ist als die teuerste Option, aber besser als die günstigste. Dadurch erscheint die mittlere Wahl als die klügste Entscheidung.
 
-Preisstrategien sind deshalb oft in drei Stufen unterteilt: eine Basis-, eine Premium- und eine „Best-Value“-Option in der Mitte. So werden Verbraucher dazu angeregt, mehr auszugeben, haben dabei aber das Gefühl, die Kontrolle zu behalten.
+Preisstrategien sind deshalb oft in drei Stufen unterteilt: eine Basis-, eine Premium- und eine "Best-Value"-Option in der Mitte. So werden Verbraucher dazu angeregt, mehr auszugeben, haben dabei aber das Gefühl, die Kontrolle zu behalten.
 Beispiel
 
 Ein bekanntes Beispiel stammt von dem Psychologen und Verhaltensökonomen Dan Ariely. Für die Fachzeitschrift The Economist hat er drei Abonnement-Optionen erarbeitet:
@@ -387,7 +387,7 @@ Beispiel
 
 Guinness stand vor der Herausforderung, dass ihr Bier länger zum Einschenken brauchte als das anderer Marken. Aber anstatt dies als Problem zu sehen, machte die Marke daraus einen Vorteil.
 
-Mit der Kampagne „Good things come to those who wait“ (Gute Dinge kommen zu denen, die warten) inszenierte Guinness das Warten als Zeichen von Qualität und machte es zu einem unvergesslichen Erlebnis, wodurch die Marke letztlich sogar gestärkt wurde [4].
+Mit der Kampagne "Good things come to those who wait" (Gute Dinge kommen zu denen, die warten) inszenierte Guinness das Warten als Zeichen von Qualität und machte es zu einem unvergesslichen Erlebnis, wodurch die Marke letztlich sogar gestärkt wurde [4].
 
 ## 14. Halo-Effekt (Halo Effect)
 
@@ -422,7 +422,7 @@ Tatsächlich ist der emotionale Effekt eines Verlusts etwa doppelt so stark wie 
 Als Unternehmen kannst du die Verlustaversion deiner Kunden ausnutzen, indem du zeigst, dass Nicht-Handeln später teurer wird. Für meine Branding-Kunden bedeutet das zum Beispiel: Wer nicht in ein professionelles Logo, eine klare Markenbotschaft oder ein einheitliches Design investiert, hinterlässt einen schlechten ersten Eindruck, verwirrt Kunden und muss später ein Rebranding durchführen. Das führt zu weniger Umsatz und möglicherweise zusätzlichen Kosten.
 Beispiel
 
-Die Wirtschaftswissenschaftler Richard Thaler und Shlomo Benartzi haben das Renten-Modell „Save more tomorrow“ (Morgen mehr sparen) entworfen.
+Die Wirtschaftswissenschaftler Richard Thaler und Shlomo Benartzi haben das Renten-Modell "Save more tomorrow" (Morgen mehr sparen) entworfen.
 
 Anstatt monatlich einen bestimmten Betrag in die Rentenkasse einzuzahlen, verpflichtet man sich, einen Prozentsatz aller zukünftigen Gehaltserhöhungen einzuzahlen—sagen wir 20 % einer Gehaltserhöhung von 500 Euro. Auf diese Weise hat man nie das Gefühl, Geld zu verlieren.[3]
 
@@ -487,9 +487,9 @@ Der erste Eindruck bei einem Vorstellungsgespräch zählt unverhältnismäßig v
 
 ## 22. Priming Effect (Priming Effect)
 
-Warum denken wir bei dem Wort „Zitrone“ an die Farbe „Gelb“? Das liegt am sogenannten Priming-Effekt. Die Wahrnehmung eines Reizes beeinflusst, wie wir auf einen nachfolgenden, verwandten Reiz reagieren.
+Warum denken wir bei dem Wort "Zitrone" an die Farbe "Gelb"? Das liegt am sogenannten Priming-Effekt. Die Wahrnehmung eines Reizes beeinflusst, wie wir auf einen nachfolgenden, verwandten Reiz reagieren.
 
-Hören wir das Wort „Zitrone“, ist unser Gehirn sozusagen darauf „vorbereitet“, an verwandte Konzepte wie die Farbe Gelb, den säuerlichen Geschmack oder das Aussehen der Frucht zu denken. Der erste Hinweis löst eine Kette assoziierter Gedanken aus.
+Hören wir das Wort "Zitrone", ist unser Gehirn sozusagen darauf "vorbereitet", an verwandte Konzepte wie die Farbe Gelb, den säuerlichen Geschmack oder das Aussehen der Frucht zu denken. Der erste Hinweis löst eine Kette assoziierter Gedanken aus.
 
 Marken können durch solche Assoziationen gezielt bestimmte Gefühle und Verhaltensweisen bei Menschen auslösen.
 Beispiel
@@ -559,8 +559,8 @@ Wenn du Fragen, Feedback oder spannende Beispiele hast, freue ich mich darauf, v
 
 In der Zwischenzeit könnten dich diese Artikel interessieren:
 
-    „10 kognitive Verzerrungen, die Marken nutzen können“
-    „Wie Ogilvy Psychologie nutzte, um den Verkauf von KFC-Pommes um 56 % zu steigern“
+    "10 kognitive Verzerrungen, die Marken nutzen können"
+    "Wie Ogilvy Psychologie nutzte, um den Verkauf von KFC-Pommes um 56 % zu steigern"
 
 Referenz:
 

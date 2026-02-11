@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Eigengruppenbevorzugung
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -18,7 +18,7 @@ draft: false
 ---
 
 :::tip Kurz
-Wir bevorzugen „uns“ gegenüber „den anderen“.
+Wir bevorzugen "uns" gegenüber "den anderen".
 
 "_Blut ist dicker als Wasser._"
 "_Das ist einer von uns._"
@@ -47,19 +47,19 @@ Die Eigengruppenbevorzugung hängt eng mit mehreren anderen Verzerrungen und soz
 
 ### Bewerbungen und Beförderungen
 
-Vorgesetzte bewerten Kandidaten aus der „eigenen Schule/Abteilung/Netzwerk“ wohlwollender, geben mehr Vertrauensvorschuss und interpretieren Fehler milder.
+Vorgesetzte bewerten Kandidaten aus der "eigenen Schule/Abteilung/Netzwerk" wohlwollender, geben mehr Vertrauensvorschuss und interpretieren Fehler milder.
 
 ### Sportfans und Schiedsrichterurteile
 
-Fans sehen identische Szenen je nach Teamzugehörigkeit verschieden; Schiedsrichter werden als „gegen uns“ wahrgenommen, Entscheidungen zugunsten der Ingroup gelten als „gerecht“.
+Fans sehen identische Szenen je nach Teamzugehörigkeit verschieden; Schiedsrichter werden als "gegen uns" wahrgenommen, Entscheidungen zugunsten der Ingroup gelten als "gerecht".
 
 ### Kundendienst und Stammkunden
 
-Stammkunden („gehören zu uns“) erhalten schnellere, freundlichere Hilfe; neue oder „fremde“ Kundengruppen werden strenger behandelt.
+Stammkunden ("gehören zu uns") erhalten schnellere, freundlichere Hilfe; neue oder "fremde" Kundengruppen werden strenger behandelt.
 
 ### Politik und Identität
 
-Argumente der eigenen politischen Lager werden großzügiger bewertet; dieselben Argumente aus der „anderen Seite“ gelten als „Propaganda“.
+Argumente der eigenen politischen Lager werden großzügiger bewertet; dieselben Argumente aus der "anderen Seite" gelten als "Propaganda".
 
 ### Minimalgruppen-Paradigma (Tajfel)
 
@@ -77,7 +77,7 @@ Schon zufällige Einteilungen (z. B. Präferenz für Gemälde A vs. B) führen d
 - **Klare, objektive Kriterien:** Entscheidungen an vorab definierten Maßstäben prüfen.
 - **Anonymisierte Verfahren:** Namen/Zuordnungen verbergen (Blind Auditions, Blind Reviews).
 - **Diversität in Entscheidungsgremien:** Mehr Perspektiven senken Ingroup-Bias.
-- **Rollenwechsel/„Perspective Taking“:** Systematisch aus der Sicht der Outgroup bewerten.
+- **Rollenwechsel/"Perspective Taking":** Systematisch aus der Sicht der Outgroup bewerten.
 - **Checks & Audits:** Entscheidungsdaten auf Muster von Bevorzugung/Benachteiligung analysieren.
 
 ## Quellen

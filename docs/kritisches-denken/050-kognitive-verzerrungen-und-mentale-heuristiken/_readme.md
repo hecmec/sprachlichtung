@@ -137,7 +137,7 @@ The original test penned by Dr. Frederick contained only the three following que
 
 ## Example fallacies due to cognitive bias
 #### Gamblers Fallacy 1
-“When playing slot machines, people win something about 1 in every 10  
+"When playing slot machines, people win something about 1 in every 10  
 times. Julie, however, has just won on her first three plays. What are her chances of winning the next time she plays? ... out of ....”
 
 ####  Gambler's Fallacy 2

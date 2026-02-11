@@ -11,7 +11,7 @@ keywords:
     - Gruppendruck
 
 last_update:
-  date: 2026-01-28
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 4/5
@@ -54,7 +54,7 @@ Dieses Phänomen ist als **Dunning-Kruger-Effekt** bekannt. Menschen mit geringe
 
 Im Alltag sehen wir das häufig: Wer sich schnell eine Meinung bildet, tritt oft besonders überzeugt auf – während fundiertes Wissen meist mit mehr Vorsicht und Nachdenklichkeit einhergeht. Leider wird in der öffentlichen Kommunikation Selbstsicherheit oft höher bewertet als Differenzierung. Schau Dir eine Talkshow an, Du weisst, was ich meine.
 
-Diese Selbstüberschätzung erschwert nicht nur das Erkennen eigener Denkfehler, sondern auch den Dialog mit anderen. Wer sich für "klüger als die anderen“ hält, hört seltener zu und hinterfragt seltener eigene Überzeugungen.
+Diese Selbstüberschätzung erschwert nicht nur das Erkennen eigener Denkfehler, sondern auch den Dialog mit anderen. Wer sich für "klüger als die anderen" hält, hört seltener zu und hinterfragt seltener eigene Überzeugungen.
 
 Auf den Dunning-Kruger-Effekt werden wir später noch einmal im Kontext der Kognitiven Verzerrungen zurückkommen.
 
@@ -71,11 +71,11 @@ Doch diese notwendige Prägung bringt auch eine Kehrseite mit sich: Sie macht un
 
 ### Die Familie als erste Instanz der Prägung
 
-In der Familie werden grundlegende Werte und Weltsichten vermittelt. Diese frühen Einflüsse prägen oft unbewusst unser Denken – was „normal“, „richtig“ oder „wahr“ ist, wird selten infrage gestellt, weil es mit emotionaler Bindung und Vertrauen verknüpft ist. Wer gegen die familiären Überzeugungen denkt, riskiert Spannungen oder gar Ausgrenzung.
+In der Familie werden grundlegende Werte und Weltsichten vermittelt. Diese frühen Einflüsse prägen oft unbewusst unser Denken – was "normal", "richtig" oder "wahr" ist, wird selten infrage gestellt, weil es mit emotionaler Bindung und Vertrauen verknüpft ist. Wer gegen die familiären Überzeugungen denkt, riskiert Spannungen oder gar Ausgrenzung.
 
 ### Schule und Staat als formelle Sozialisationsinstanzen
 
-Auch das Bildungssystem und staatliche Institutionen vermitteln Werte und Weltbilder. Sie setzen bestimmte Themen, Perspektiven und Interpretationen als „allgemeingültig“ – und wer davon abweicht, läuft Gefahr, als störend, naiv oder ideologisch abgestempelt zu werden. Kritisches Denken, das grundlegende Annahmen infrage stellt, findet oft wenig Raum, besonders wenn es Autoritäten oder bestehende Systeme betrifft.
+Auch das Bildungssystem und staatliche Institutionen vermitteln Werte und Weltbilder. Sie setzen bestimmte Themen, Perspektiven und Interpretationen als "allgemeingültig" – und wer davon abweicht, läuft Gefahr, als störend, naiv oder ideologisch abgestempelt zu werden. Kritisches Denken, das grundlegende Annahmen infrage stellt, findet oft wenig Raum, besonders wenn es Autoritäten oder bestehende Systeme betrifft.
 
 ### Gruppendruck und der Wunsch nach Zugehörigkeit 
 

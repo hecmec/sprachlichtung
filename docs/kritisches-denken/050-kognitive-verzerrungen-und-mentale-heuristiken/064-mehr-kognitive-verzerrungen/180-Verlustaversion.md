@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Verlustaversion
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -37,7 +37,7 @@ Verlustaversion hängt eng mit mehreren anderen Verzerrungen und Effekten zusamm
 
 - **Besitztumseffekt (Endowment Effect):** Besitz wird höher bewertet, weil ein möglicher Verlust schmerzt.
 - **Status-quo-Bias:** Veränderungen werden gemieden, da sie mögliche Verluste mit sich bringen könnten.
-- **Versunkene-Kosten-Falle:** Bereits investierte Ressourcen werden durch weitere Investitionen „geschützt“.
+- **Versunkene-Kosten-Falle:** Bereits investierte Ressourcen werden durch weitere Investitionen "geschützt".
 - **Framing-Effekt:** Die Darstellung als Gewinn oder Verlust verändert Entscheidungen.
 - **Dispositionseffekt:** Anleger halten Verlierer-Aktien zu lange und verkaufen Gewinner zu früh.
 
@@ -45,11 +45,11 @@ Verlustaversion hängt eng mit mehreren anderen Verzerrungen und Effekten zusamm
 
 ### Preis- und Gebühren-Framing
 
-„5 € Gebühr“ wird stärker gemieden als „5 € entgangener Rabatt“, obwohl es ökonomisch gleich ist.
+"5 € Gebühr" wird stärker gemieden als "5 € entgangener Rabatt", obwohl es ökonomisch gleich ist.
 
 ### Geldanlage
 
-Verluste werden „ausgesessen“, Gewinner werden früh verkauft, um Gewinne „einzusperren“. Das verschlechtert die Rendite.
+Verluste werden "ausgesessen", Gewinner werden früh verkauft, um Gewinne "einzusperren". Das verschlechtert die Rendite.
 
 ### Versicherungen und Garantien
 
@@ -57,11 +57,11 @@ Verluste werden „ausgesessen“, Gewinner werden früh verkauft, um Gewinne �
 
 ### Vertragskündigungen und Probezeiten
 
-„Nicht verlieren, was man hat“: Probeabos werden behalten, teure Verträge nicht gekündigt – rein aus Verlustangst.
+"Nicht verlieren, was man hat": Probeabos werden behalten, teure Verträge nicht gekündigt – rein aus Verlustangst.
 
 ### Medizin und Risikoaufklärung
 
-„90 % Überlebensrate“ wirkt anders als „10 % Sterblichkeit“ – identische Zahlen, unterschiedliche Entscheidungen.
+"90 % Überlebensrate" wirkt anders als "10 % Sterblichkeit" – identische Zahlen, unterschiedliche Entscheidungen.
 
 ## Auswirkungen
 

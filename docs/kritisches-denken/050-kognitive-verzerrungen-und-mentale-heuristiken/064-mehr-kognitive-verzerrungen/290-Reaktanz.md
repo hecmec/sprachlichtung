@@ -12,7 +12,7 @@ keywords:
   - Psychologische Reaktanz
   - Reverse Psychology
 last_update:
-  date: 2026-01-21
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 completeness: 1/5
@@ -44,10 +44,10 @@ Reaktanz hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihne
 ## Beispiele
 
 ### Jugendliche und Verbote
-Elternverbote („Du darfst nicht rauchen") können genau das Gegenteil bewirken – das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
+Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken – das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
 
-### Marketing und „Limitierte Angebote"
-„Nur noch wenige verfügbar" oder „Nicht für jeden geeignet" löst Reaktanz aus und macht Produkte begehrenswerter.
+### Marketing und "Limitierte Angebote"
+"Nur noch wenige verfügbar" oder "Nicht für jeden geeignet" löst Reaktanz aus und macht Produkte begehrenswerter.
 
 ### Zensur und Streisand-Effekt
 Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interessant und viral – der Versuch der Kontrolle verstärkt die Verbreitung.
@@ -60,7 +60,7 @@ Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interess
 
 ## Gegenstrategien
 
-- Optionen statt Verbote anbieten („Du kannst wählen zwischen X und Y")
+- Optionen statt Verbote anbieten ("Du kannst wählen zwischen X und Y")
 - Begründungen liefern und Verständnis schaffen statt bloße Anweisungen
 - Selbstbestimmung wahren: Menschen in Entscheidungsprozesse einbeziehen
 - Reverse Psychology bewusst vermeiden – oft wirkt sie manipulativ und verstärkt Reaktanz

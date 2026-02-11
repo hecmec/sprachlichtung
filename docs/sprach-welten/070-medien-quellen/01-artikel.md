@@ -11,7 +11,7 @@ keywords:
     - Semiotik
     - Kommunikation
 last_update:
-  date: 2025-06-12
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 ---
@@ -36,7 +36,7 @@ last_update:
 <!-- https://karlhosang.de/kritisches-denken/ -->
 
 ### Wissenschftlich
-- [Peter Facione (1989), Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction? aka “The Delphi Report”](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction)
+- [Peter Facione (1989), Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction? aka "The Delphi Report”](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction)
 - [Deanna Kuhn (1999), A Developmental Model of Critical Thinking](https://www.educationforthinking.org/sites/default/files/page-image/1-01DevelopmentalModelCriticalThinking.pdf)
 
 ## Sprachphilosophie

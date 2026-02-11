@@ -8,7 +8,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-02-06
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
@@ -29,6 +29,15 @@ Kritisches Denken ist die Antwort auf die Frage:
 
 **Warum soll ich das glauben?**
 :::
+
+<details>
+  <summary>Hier kannst du mehr Quellen finden</summary>
+
+- Quelle 1
+- Quelle 2
+- Quelle 3
+
+</details>
 
 Kritisches Denken ist einerseits die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren.
 Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren.
@@ -68,8 +77,8 @@ Einer der weisesten alten Philosophen, **Sokrates** - schon wieder ein alter Gri
 
 <Admonition type="note" icon="💬" title="Zitat">
 
-  „**Ich weiß, dass ich nichts weiß**“  
-  wörtlich: „Denn von mir selbst wusste ich, dass ich gar nichts weiß ...“ 
+  "**Ich weiß, dass ich nichts weiß**"  
+  wörtlich: "Denn von mir selbst wusste ich, dass ich gar nichts weiß ..." 
 
   <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p> 
 </Admonition>

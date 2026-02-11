@@ -16,7 +16,7 @@ keywords:
 # tags: [docusaurus]
 image: ../img/ulb-pc-developper-sa-pc-intro.png
 last_update:
-  date: 2025-07-20
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 ---
@@ -40,7 +40,7 @@ Le **communautarisme** désigne l’attitude qui consiste à faire prévaloir le
 * Certains groupes radicaux (ex. intégrismes religieux ou nationalismes extrêmes) utilisent leurs **valeurs communautaires** pour **justifier la violence** ou l'exclusion.
 * Exemple : des extrémistes religieux commettent des attentats au nom de "valeurs supérieures" perçues comme universelles.
 
-## 🎯 Le “communautarisme des faits”
+## 🎯 Le "communautarisme des faits”
 
 Haarscher introduit une forme plus insidieuse : **le communautarisme des faits** :
 

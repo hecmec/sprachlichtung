@@ -11,7 +11,7 @@ keywords:
   - logische Struktur
   - Syllogismus
 last_update:
-  date: 2026-01-28
+  date: 2026-02-11
   author: Immanuel Lupinus
 ---
 
@@ -19,7 +19,7 @@ last_update:
 
 Formale Fehlschlüsse verstoßen gegen die Regeln der formalen Logik. Sie sind strukturell fehlerhaft, unabhängig vom spezifischen Inhalt der Aussagen.
 
-Alle formalen Fehlschlüsse sind spezielle Fälle von **Non sequitur** (lat. für „es folgt nicht“)
+Alle formalen Fehlschlüsse sind spezielle Fälle von **Non sequitur** (lat. für "es folgt nicht")
 
 ## 1. Bestätigungsfehler des Nachsatzes (Affirming the Consequent)
 

@@ -5,7 +5,7 @@ keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-02-10
+  date: 2026-02-11
   time: 12:00
   author: Immanuel Lupinus
 
@@ -16,8 +16,6 @@ draft: true
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-
-# Markdown Features
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
@@ -189,8 +187,8 @@ import Admonition from '@theme/Admonition';
 
 <Admonition type="note" icon="💬" title="Zitat">
 
-  „**Ich weiß, dass ich nichts weiß**“  
-  wörtlich: „Denn von mir selbst wusste ich, dass ich gar nichts weiß ...“
+  "**Ich weiß, dass ich nichts weiß**"  
+  wörtlich: "Denn von mir selbst wusste ich, dass ich gar nichts weiß ..."
 
   <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p>
 </Admonition>

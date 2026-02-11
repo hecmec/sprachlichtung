@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Grundlagenirrtum
 last_update:
-  date: 2026-01-19
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -39,7 +39,7 @@ Der Grundlagenirrtum hängt eng mit anderen kognitiven Verzerrungen zusammen:
 - **Bestätigungsfehler (Confirmation Bias):** Wir suchen bevorzugt nach Informationen, die unsere ersten Eindrücke über andere bestätigen.
 - **Halo-Effekt:** Ein positiver oder negativer Eindruck in einem Bereich beeinflusst unser Gesamturteil über eine Person.
 - **Stereotype:** Vorgefertigte Annahmen über Gruppen verstärken die Tendenz, individuelles Verhalten durch Persönlichkeit zu erklären.
-- **Rückschaufehler (Hindsight Bias):** Im Nachhinein scheinen situative Faktoren weniger wichtig, weil das Ergebnis „unvermeidlich" wirkt.
+- **Rückschaufehler (Hindsight Bias):** Im Nachhinein scheinen situative Faktoren weniger wichtig, weil das Ergebnis "unvermeidlich" wirkt.
 - **Negativitätsbias:** Negative Eigenschaften anderer bleiben besser im Gedächtnis und verstärken Charakterzuschreibungen.
 
 ## Beispiele
@@ -50,7 +50,7 @@ Wenn jemand zu spät zu einem Treffen kommt, nehmen wir an, dass die Person unzu
 
 ### Schulische Leistungen
 
-Ein Schüler mit schlechten Noten wird schnell als „faul" oder „unbegabt" abgestempelt, während äußere Faktoren wie Unterrichtsqualität, familiäre Probleme oder Lernstörungen übersehen werden.
+Ein Schüler mit schlechten Noten wird schnell als "faul" oder "unbegabt" abgestempelt, während äußere Faktoren wie Unterrichtsqualität, familiäre Probleme oder Lernstörungen übersehen werden.
 
 ### Berufliche Präsentationen
 

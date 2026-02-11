@@ -151,8 +151,8 @@ import Admonition from '@theme/Admonition';
 
 <Admonition type="note" icon="💬" title="Zitat">
 
-  „**Ich weiß, dass ich nichts weiß**“  
-  wörtlich: „Denn von mir selbst wusste ich, dass ich gar nichts weiß ...“ 
+  "**Ich weiß, dass ich nichts weiß**"  
+  wörtlich: "Denn von mir selbst wusste ich, dass ich gar nichts weiß ..." 
 
   <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p> 
 </Admonition>

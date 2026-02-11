@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Bumerang-Effekt
 last_update:
-  date: 2026-01-18
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -49,15 +49,15 @@ Konfrontiert man eine impfskeptische Person mit Studien und Fakten, kann dies �
 
 ### Politik und Korrekturen
 
-Faktenchecks zu populären, aber falschen Aussagen führen bei einigen Anhängern dazu, die **falsche Aussage noch entschiedener zu vertreten** („Medienlüge!“).
+Faktenchecks zu populären, aber falschen Aussagen führen bei einigen Anhängern dazu, die **falsche Aussage noch entschiedener zu vertreten** ("Medienlüge!").
 
 ### Klimakommunikation
 
-Aggressives „Ihr liegt falsch!“ erzeugt Abwehr: Menschen halten stärker an ihrer **Gruppenposition** fest, statt Argumente aufzunehmen.
+Aggressives "Ihr liegt falsch!" erzeugt Abwehr: Menschen halten stärker an ihrer **Gruppenposition** fest, statt Argumente aufzunehmen.
 
 ### Erziehungs- und Beziehungsratgeber
 
-Je mehr man moralisiert („Du musst…“), desto eher folgt **Trotz**; die Person macht **bewusst das Gegenteil**.
+Je mehr man moralisiert ("Du musst…"), desto eher folgt **Trotz**; die Person macht **bewusst das Gegenteil**.
 
 ## Auswirkungen
 
@@ -79,4 +79,4 @@ Je mehr man moralisiert („Du musst…“), desto eher folgt **Trotz**; die Per
 
 - [Wikipedia: Backfire effect](https://en.wikipedia.org/wiki/Backfire_effect)
 - Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions.
-- Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the “post-truth” era.
+- Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth” era.

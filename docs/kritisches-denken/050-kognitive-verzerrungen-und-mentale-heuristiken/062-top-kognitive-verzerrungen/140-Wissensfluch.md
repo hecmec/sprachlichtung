@@ -10,7 +10,7 @@ keywords:
   - kritisches Denken
   - Wissensfluch
 last_update:
-  date: 2026-01-18
+  date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
@@ -49,11 +49,11 @@ Setup-Anleitungen setzen versteckte Vorkenntnisse voraus (CLI, Pfade, Rechte) un
 
 ### Unterricht und Prüfungsvorbereitung
 
-Lehrende überspringen „offensichtliche“ Zwischenschritte. Lernende verstehen die Herleitung nicht und können Aufgaben nicht eigenständig lösen.
+Lehrende überspringen "offensichtliche" Zwischenschritte. Lernende verstehen die Herleitung nicht und können Aufgaben nicht eigenständig lösen.
 
 ### Medizinische Aufklärung
 
-Ärztliche Beratung voller Fachjargon („idiopathisch“, „Komorbidität“) – Patientinnen verstehen Risiken, Alternativen und Nebenwirkungen nicht.
+Ärztliche Beratung voller Fachjargon ("idiopathisch", "Komorbidität") – Patientinnen verstehen Risiken, Alternativen und Nebenwirkungen nicht.
 
 ### Produkt- und UX-Design
 
@@ -78,7 +78,7 @@ Finanz- oder Rechtsjargon in Mails/Reports; Teams treffen falsche Entscheidungen
 - **Rückfrage-Methode:** Gegenüber erklärt mit eigenen Worten – Verständnis prüfen.
 - **Tests mit der Zielgruppe:** Verständlichkeit und Nutzbarkeit mit Anfängerinnen testen; iterativ verbessern.
 - **Glossar & Beispiele:** Schlüsselbegriffe definieren; anschauliche Analogien und Schritt-für-Schritt-Beispiele.
-- **Checklisten:** Explizite Schritte statt impliziter „Selbstverständlichkeiten“.
+- **Checklisten:** Explizite Schritte statt impliziter "Selbstverständlichkeiten".
 
 ## Quellen
 

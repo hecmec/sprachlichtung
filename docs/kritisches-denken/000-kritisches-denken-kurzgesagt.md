@@ -10,7 +10,7 @@ keywords:
     - Argumentation
     - Reflexion
 last_update:
-  date: 2026-02-06
+  date: 2026-02-11
   time: 12:00
   author: Immanuel Lupinus
 completeness: 5/5
@@ -174,7 +174,7 @@ Hier ein paar Beispiele:
 - "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('../../static/img/marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
   <!-- ![malborough|50px](marlboro.png)  -->
 - "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('../../static/img/wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
-- "Der Einfluss des Menschen auf das Klima ist eindeutig“ Weltklimarat (IPCC) <img src={require('../../static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
+- "Der Einfluss des Menschen auf das Klima ist eindeutig" Weltklimarat (IPCC) <img src={require('../../static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 Ich lasse Dich entscheiden, wem Du lieber vertraust.
 
@@ -317,8 +317,8 @@ Schon in der Antike ist die Zurückhaltung des Urteils, als [_Epoché_ (ἐπο�
 Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des **Nicht-Anhaftens** (Non-Attachment, 無執着, Mu-shūjaku)[^3] verkörpert. Es bedeutet, sich nicht an festen Meinungen oder Überzeugungen festzuhalten.
 
 [^3]: Zen lehrt, sich nicht an Ansichten, Emotionen oder Wahrnehmungen zu klammern. Das entspricht der pyrrhonischen Enthaltung, aber mit einem entscheidenden Unterschied:  
-**Epoché** sagt: „Ich halte mich nicht fest, um Ruhe zu finden.“  
-**Zen** sagt: „Ich halte mich nicht fest, weil Festhalten selbst die Ursache des Leidens ist.“
+**Epoché** sagt: "Ich halte mich nicht fest, um Ruhe zu finden."  
+**Zen** sagt: "Ich halte mich nicht fest, weil Festhalten selbst die Ursache des Leidens ist."
 
 #### Vorteile der Zurückhaltung des Urteils
 

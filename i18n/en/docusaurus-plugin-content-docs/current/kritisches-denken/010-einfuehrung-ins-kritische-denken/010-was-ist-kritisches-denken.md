@@ -9,7 +9,7 @@ keywords:
     - argumentation
     - reflection
 last_update:
-  date: 2026-01-15
+  date: 2026-02-11
   author: Immanuel Lupinus
 
 # image: 
@@ -52,8 +52,8 @@ One of the wisest old philosophers (another Greek) demonstrated this with his di
 
 <Admonition type="note" icon="💬" title="Quote">
 
-  „**I know that I know nothing**“  
-  literally: „For I myself knew that I knew nothing at all ...“ 
+  "**I know that I know nothing**"  
+  literally: "For I myself knew that I knew nothing at all ..." 
 
   <p class="text--right">Socrates in Plato: _Apology of Socrates_ 22d</p> 
 </Admonition>
