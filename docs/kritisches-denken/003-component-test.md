@@ -5,7 +5,7 @@ keywords:
   - kritisches Denken
   - test
 last_update:
-  date: 2026-02-11
+  date: 2026-02-12
   time: 12:00
   author: Immanuel Lupinus
 
@@ -296,16 +296,22 @@ toto
 This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and this is another  
 <Tooltip type="another-subject-area" content="different-topic">Tooltip</Tooltip> 
 -->
+## Html Tooltip
+```
+<a title="This is a tooltip">Hover over me</a>
+```
+<a title="This is a tooltip">Hover over me</a>
 
-## Tooltip
+## Extended Tooltip
 
 ### Standard tooltip (closes on mouse leave)
 
 ```md
-<Tooltip text="Info Tooltip" model="info">
+<Tooltip text="Text Tooltip" model="text">
   Brief explanation
 </Tooltip>
 ```
+
 <Tooltip text="Text Tooltip" model="text">
   Eine Text Nachricht in grau
 </Tooltip> 
