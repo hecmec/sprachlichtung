@@ -1,14 +1,14 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import remarkMath from 'remark-math';
-import rehypeKatex from 'rehype-katex';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'SprachLichtung',
-  tagline: 'La clairière du langage',
-  favicon: 'img/favicon.ico',
+  title: "SprachLichtung",
+  tagline: "La clairière du langage",
+  favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -16,44 +16,45 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: "https://immanuellupinus.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/sprachlichtung/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mental-web', // Usually your GitHub org/user name.
-  projectName: 'sprachlichtung', // Usually your repo name.
+  organizationName: "immanuellupinus", // Usually your GitHub org/user name.
+  projectName: "sprachlichtung", // Usually your repo name.
 
-  onBrokenLinks: 'ignore', //'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "ignore", //'throw',
+  onBrokenMarkdownLinks: "warn",
 
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid'],
+  themes: ["@docusaurus/theme-mermaid"],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'de',
+    defaultLocale: "de",
     // locales: ['de','en','fr'],
-    locales: ['de','en'],
+    locales: ["de", "en"],
     localeConfigs: {
       de: {
-        label: 'Deutsch',
-        htmlLang: 'de-DE',
-        url: 'https://de.sprachlichtung.org',
-        baseUrl: '/',
-        // path: 'de',
+        label: "Deutsch",
+        htmlLang: "de-DE",
+        url: "https://immanuellupinus.github.io/sprachlichtung/",
+        baseUrl: "/sprachlichtung/",
+        path: "de",
       },
       en: {
-        label: 'English',
-        htmlLang: 'en-GB',
-        url: 'https://en.sprachlichtung.org',
-        baseUrl: '/',
+        label: "English",
+        htmlLang: "en-GB",
+        url: "https://immanuellupinus.github.io/sprachlichtung/",
+        baseUrl: "/sprachlichtung/",
+        path: "en",
       },
       // fr: {
       //   label: 'Français',
@@ -63,46 +64,43 @@ const config: Config = {
   },
 
   plugins: [
-      'docusaurus-plugin-image-zoom', // can also just be 'image-zoom'    
+    "docusaurus-plugin-image-zoom", // can also just be 'image-zoom'
   ],
-
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           exclude: [
-            '**/_*/**', // Exclude folders that start with underscore
-            '**/_*', // Exclude files that start with underscore
-          ],    
+            "**/_*/**", // Exclude folders that start with underscore
+            "**/_*", // Exclude files that start with underscore
+          ],
 
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/hecmec/sprachlichtung/blob/main',
+          editUrl: "https://github.com/hecmec/sprachlichtung/blob/main",
         },
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/hecmec/sprachlichtung/blob/main',
+          editUrl: "https://github.com/hecmec/sprachlichtung/blob/main",
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -110,33 +108,31 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: 'SprachLichtung',
+      title: "SprachLichtung",
       logo: {
-        alt: 'sprachlichtung Logo',
-        src: 'img/kompass.svg',
+        alt: "sprachlichtung Logo",
+        src: "img/kompass.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'kritDenkenSidebar',
-          position: 'left',
-          label: 'Kritisches Denken',
-          
+          type: "docSidebar",
+          sidebarId: "kritDenkenSidebar",
+          position: "left",
+          label: "Kritisches Denken",
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'umweltSidebar',
-          position: 'left',
-          label: 'UmWelten',
+          type: "docSidebar",
+          sidebarId: "umweltSidebar",
+          position: "left",
+          label: "UmWelten",
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/about', label: 'About', position: 'left'},
+        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/about", label: "About", position: "left" },
         {
-          type: 'localeDropdown',
-          position: 'right',
-          
+          type: "localeDropdown",
+          position: "right",
         },
         // {
         //   href: 'https://en.sprachlichtung.org',
@@ -156,46 +152,46 @@ const config: Config = {
         hideable: true,
         autoCollapseCategories: true,
       },
-    },    
+    },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Tutorial',
+          title: "Tutorial",
           items: [
             {
-              label: 'Kritisches Denken',
-              to: '/docs/kritisches-denken/kritisches-denken-kurzgesagt',
+              label: "Kritisches Denken",
+              to: "/docs/kritisches-denken/kritisches-denken-kurzgesagt",
             },
           ],
         },
         {
-          title: 'Themen',
+          title: "Themen",
           items: [
             {
-              label: 'Sprachspiele',
-              href: '/docs/category/sprachspiele-',              
+              label: "Sprachspiele",
+              href: "/docs/category/sprachspiele-",
             },
             {
-              label: 'Gesellschaftsspiele',
-              href: '/docs/category/gesellschaftsspiele-'
+              label: "Gesellschaftsspiele",
+              href: "/docs/category/gesellschaftsspiele-",
             },
             {
-              label: 'Umwelten',
-              href: '/docs/category/umwelt-'
+              label: "Umwelten",
+              href: "/docs/category/umwelt-",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: "Blog",
+              to: "/blog",
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/hecmec/sprachlichtung',
+              label: "GitHub",
+              href: "https://github.com/hecmec/sprachlichtung",
             },
           ],
         },
@@ -207,28 +203,27 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
     mermaid: {
-      theme: {light: 'neutral', dark: 'forest'},
+      theme: { light: "neutral", dark: "forest" },
     },
     zoom: {
-      selector: '.markdown img',
+      selector: ".markdown img",
       background: {
-        light: 'rgb(255, 255, 255)',
-        dark: 'rgb(50, 50, 50)'
+        light: "rgb(255, 255, 255)",
+        dark: "rgb(50, 50, 50)",
       },
       config: {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-      }
-    }
+      },
+    },
   } satisfies Preset.ThemeConfig,
 
   stylesheets: [
     {
       // katex stylesheet
-      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
-      type: 'text/css',
-      integrity:
-        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
-      crossorigin: 'anonymous',
+      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      type: "text/css",
+      integrity: "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      crossorigin: "anonymous",
     },
   ],
 };
