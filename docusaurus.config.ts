@@ -16,14 +16,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://immanuellupinus.github.io",
+  url: "https://hecmec.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/sprachlichtung/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "immanuellupinus", // Usually your GitHub org/user name.
+  organizationName: "hecmec", // Usually your GitHub org/user name.
   projectName: "sprachlichtung", // Usually your repo name.
 
   onBrokenLinks: "ignore", //'throw',
@@ -45,14 +45,14 @@ const config: Config = {
       de: {
         label: "Deutsch",
         htmlLang: "de-DE",
-        url: "https://immanuellupinus.github.io/sprachlichtung/",
+        url: "https://hecmec.github.io/sprachlichtung/",
         baseUrl: "/sprachlichtung/",
         path: "de",
       },
       en: {
         label: "English",
         htmlLang: "en-GB",
-        url: "https://immanuellupinus.github.io/sprachlichtung/",
+        url: "https://hecmec.github.io/sprachlichtung/",
         baseUrl: "/sprachlichtung/",
         path: "en",
       },

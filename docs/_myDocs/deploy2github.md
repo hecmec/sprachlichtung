@@ -7,7 +7,7 @@ This guide covers deploying this site to GitHub Pages as the primary host for `s
 ## Prerequisites
 
 - The GitHub repo must be **public** (GitHub Pages is free for public repos). For private repos it requires a paid GitHub plan (Team or higher).
-- You need push access to the `immanuellupinus/sprachlichtung` repository.
+- You need push access to the `hecmec/sprachlichtung` repository.
 - Node.js ≥ 18 and yarn installed locally.
 
 ---
@@ -17,13 +17,13 @@ This guide covers deploying this site to GitHub Pages as the primary host for `s
 These fields in `docusaurus.config.ts` must match your GitHub setup:
 
 ```ts
-url: "https://sprachlichtung.org",   // your custom domain, or https://immanuellupinus.github.io
+url: "https://sprachlichtung.org",   // your custom domain, or https://hecmec.github.io
 baseUrl: "/",                         // "/" if using custom domain, "/sprachlichtung/" if not
-organizationName: "immanuellupinus",       // GitHub username or org
+organizationName: "hecmec",       // GitHub username or org
 projectName: "sprachlichtung",        // exact repo name
 ```
 
-> **If you have no custom domain**, set `url` to `https://mental-web.github.io` and `baseUrl` to `/sprachlichtung/`.
+> **If you have no custom domain**, set `url` to `https://hecmec.github.io` and `baseUrl` to `/sprachlichtung/`.
 > With a custom domain (`sprachlichtung.org`), keep `baseUrl: "/"`.
 
 The `localeConfigs` `url` values also need updating if you're using locale-specific subdomains (`de.sprachlichtung.org`, `en.sprachlichtung.org`) — those require separate DNS records pointing to GitHub Pages.
@@ -32,7 +32,7 @@ The `localeConfigs` `url` values also need updating if you're using locale-speci
 
 ## 2. Enable GitHub Pages in the repo settings
 
-1. Go to `https://github.com/mental-web/sprachlichtung` → **Settings** → **Pages**
+1. Go to `https://github.com/hecmec/sprachlichtung` → **Settings** → **Pages**
 2. Under **Build and deployment**, set **Source** to `Deploy from a branch`
 3. Set branch to `gh-pages`, folder `/` (root)
 4. Click **Save**
@@ -49,13 +49,13 @@ If pointing `sprachlichtung.org` to GitHub Pages:
    This creates a `CNAME` file on the `gh-pages` branch automatically.
 2. At your DNS registrar, add these records:
 
-   | Type  | Name  | Value                  |
-   | ----- | ----- | ---------------------- |
-   | A     | `@`   | `185.199.108.153`      |
-   | A     | `@`   | `185.199.109.153`      |
-   | A     | `@`   | `185.199.110.153`      |
-   | A     | `@`   | `185.199.111.153`      |
-   | CNAME | `www` | `mental-web.github.io` |
+   | Type  | Name  | Value              |
+   | ----- | ----- | ------------------ |
+   | A     | `@`   | `185.199.108.153`  |
+   | A     | `@`   | `185.199.109.153`  |
+   | A     | `@`   | `185.199.110.153`  |
+   | A     | `@`   | `185.199.111.153`  |
+   | CNAME | `www` | `hecmec.github.io` |
 
 3. Enable **Enforce HTTPS** in the Pages settings once DNS propagates.
 

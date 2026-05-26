@@ -9,18 +9,18 @@ hecmec:
     linkedin: hecmec
     github: hecmec
     newsletter: https://www.sprachlichtung.com
-    # facebook: 
+    # facebook:
 
 lupinus:
   name: Immanuel Lupinus
   title: Philosophe, co-créateur de sprachlichtung
-  url: https://immanuellupinus.com
-  image_url: https://github.com/immanuellupinus.png
+  url: https://hecmec.com
+  image_url: https://github.com/hecmec.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-immanuel-lupinus-articles'
+    permalink: "/all-immanuel-lupinus-articles"
   socials:
-    x: immanuellupinus
-    linkedin: immanuellupinus
-    github: immanuellupinus
+    x: hecmec
+    linkedin: hecmec
+    github: hecmec
     # newsletter: https://thisweekinreact.com
