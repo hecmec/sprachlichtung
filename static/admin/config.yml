@@ -1,0 +1,41 @@
+backend:
+  name: github
+  repo: hecmec/sprachlichtung
+  branch: main
+
+media_folder: static/img/uploads
+public_folder: /sprachlichtung/img/uploads
+
+i18n:
+  structure: multiple_folders
+  locales: [de, en]
+  default_locale: de
+
+collections:
+  - name: kritisches-denken
+    label: Kritisches Denken
+    folder: docs/kritisches-denken
+    create: true
+    extension: md
+    format: frontmatter
+    i18n: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string, required: false }
+      - { label: "Sidebar position", name: sidebar_position, widget: number, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: sprach-welten
+    label: Sprach-Welten
+    folder: docs/sprach-welten
+    create: true
+    extension: md
+    format: frontmatter
+    i18n: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string, required: false }
+      - { label: "Sidebar position", name: sidebar_position, widget: number, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Body, name: body, widget: markdown }
