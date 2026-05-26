@@ -45,15 +45,11 @@ const config: Config = {
       de: {
         label: "Deutsch",
         htmlLang: "de-DE",
-        url: "https://hecmec.github.io/",
-        baseUrl: "/sprachlichtung/",
         path: "de",
       },
       en: {
         label: "English",
         htmlLang: "en-GB",
-        url: "https://hecmec.github.io/",
-        baseUrl: "/sprachlichtung/",
         path: "en",
       },
       // fr: {
