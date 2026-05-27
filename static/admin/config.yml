@@ -16,11 +16,12 @@ collections:
     nested:
       depth: 100
       summary: "{{title}}"
-      subfolders: true
+      subfolders: false
     meta:
       path:
         widget: string
         label: "Path"
+        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -37,11 +38,12 @@ collections:
     nested:
       depth: 100
       summary: "{{title}}"
-      subfolders: true
+      subfolders: false
     meta:
       path:
         widget: string
         label: "Path"
+        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -63,6 +65,7 @@ collections:
       path:
         widget: string
         label: "Path"
+        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -84,6 +87,7 @@ collections:
       path:
         widget: string
         label: "Path"
+        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
