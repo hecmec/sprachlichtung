@@ -142,31 +142,24 @@ public_folder: /sprachlichtung/img/uploads
 
 Images dropped into the CMS land in [static/img/uploads/](static/img/uploads/) and are referenced with the `/sprachlichtung/` baseUrl prefix so links resolve correctly on GitHub Pages.
 
-### Internationalization
+### Collections and the German/English split
 
-```yaml
-i18n:
-  structure: multiple_folders
-  locales: [de, en]
-  default_locale: de
-```
+Docusaurus stores the default-locale content under `docs/` and translations under `i18n/<locale>/docusaurus-plugin-content-docs/current/`. None of Sveltia's built-in `i18n.structure` values reproduce that exact split, so this site does **not** use Sveltia's i18n linking. Instead, each topic exposes two independent collections — one writing to the German tree, one writing to the English tree:
 
-German entries are saved under `docs/<collection>/`; English entries are mirrored under `i18n/en/docusaurus-plugin-content-docs/current/<collection>/`, matching Docusaurus's i18n layout.
-
-### Collections
-
-Two collections, one per top-level docs tree:
-
-| Collection | Folder | Label |
-| --- | --- | --- |
-| `kritisches-denken` | [docs/kritisches-denken/](docs/kritisches-denken/) | Kritisches Denken |
-| `sprach-welten` | [docs/sprach-welten/](docs/sprach-welten/) | Sprach-Welten |
+| Collection | Folder |
+| --- | --- |
+| `kritisches-denken` (DE) | [docs/kritisches-denken/](docs/kritisches-denken/) |
+| `kritisches-denken-en` (EN) | [i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/](i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/) |
+| `sprach-welten` (DE) | [docs/sprach-welten/](docs/sprach-welten/) |
+| `sprach-welten-en` (EN) | [i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/](i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/) |
 
 Each entry exposes the standard Docusaurus frontmatter fields (`title`, `description`, `sidebar_position`, `tags`) plus a Markdown body editor. `create: true` lets editors add new pages from the UI.
 
-### Adding a collection
+Trade-off: editors don't get the side-by-side "view translation" UI; the German and English versions are unrelated entries that happen to share a filename. When translating a page, copy the filename exactly from DE to EN so Docusaurus pairs them up at build time.
 
-1. Append a new entry to `collections:` in [static/admin/config.yml](static/admin/config.yml) pointing at a folder under `docs/`.
+### Adding a topic
+
+1. Append **two** entries to `collections:` in [static/admin/config.yml](static/admin/config.yml) — one pointing at `docs/<topic>/`, one at `i18n/en/docusaurus-plugin-content-docs/current/<topic>/`.
 2. Mirror the field list from an existing collection unless the schema needs to differ.
 3. Commit and push — the change is live on the next deploy.
 
