@@ -6,10 +6,10 @@
 
 ## How it works
 
-Decap CMS is a single-page app you host alongside your site (`static/admin/`). It talks directly to the GitHub API and commits changes to your repo. Because GitHub Pages is a static host, it cannot handle the GitHub OAuth callback itself — you need a small auth proxy. The easiest free option is to register the site on **Netlify** solely for its OAuth proxy (you don't host anything there).
+Decap CMS is a single-page app you host alongside your site (`static/admin/`). It talks directly to the GitHub API and commits changes to your repo. Because GitHub Pages is a static host, it cannot complete the GitHub OAuth handshake itself — that step needs a server with a client secret. The simplest free option is **Netlify's built-in OAuth gateway** (`https://api.netlify.com`): you don't host anything on Netlify, you just install a GitHub provider in a Netlify site and Decap routes the login through it.
 
 ```
-Browser → Decap CMS → GitHub OAuth (via Netlify proxy) → GitHub API → commit to main → GitHub Actions → redeploy
+Browser → Decap CMS → api.netlify.com (OAuth gateway) → GitHub API → commit to main → GitHub Actions → redeploy
 ```
 
 ---
@@ -35,52 +35,30 @@ Decap CMS needs two files under `static/admin/`. Docusaurus copies everything in
 
 ### `static/admin/config.yml`
 
+The backend needs no `base_url` — Decap defaults it to `https://api.netlify.com`, the gateway you configure in step 3:
+
 ```yaml
 backend:
   name: github
   repo: hecmec/sprachlichtung # owner/repo
   branch: main
-  base_url: https://YOUR-NETLIFY-SITE.netlify.app # OAuth proxy (step 3)
 
-# Uploaded images go into static/img/uploads/
 media_folder: static/img/uploads
-public_folder: /img/uploads
-
-# i18n — German is default, English is secondary
-i18n:
-  structure: multiple_folders
-  locales: [de, en]
-  default_locale: de
-
-collections:
-  - name: kritisches-denken
-    label: Kritisches Denken
-    folder: docs/kritisches-denken
-    create: true
-    extension: md
-    format: frontmatter
-    i18n: true
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Description, name: description, widget: string, required: false }
-      - { label: "Sidebar position", name: sidebar_position, widget: number, required: false }
-      - { label: Tags, name: tags, widget: list, required: false }
-      - { label: Body, name: body, widget: markdown }
-
-  - name: sprach-welten
-    label: Sprach-Welten
-    folder: docs/sprach-welten
-    create: true
-    extension: md
-    format: frontmatter
-    i18n: true
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Description, name: description, widget: string, required: false }
-      - { label: "Sidebar position", name: sidebar_position, widget: number, required: false }
-      - { label: Tags, name: tags, widget: list, required: false }
-      - { label: Body, name: body, widget: markdown }
+public_folder: /sprachlichtung/img/uploads
 ```
+
+The live [static/admin/config.yml](../../static/admin/config.yml) defines four collections — `kritisches-denken`, `sprach-welten`, and their `-en` translation counterparts. Each one sets:
+
+```yaml
+nested:
+  depth: 100
+  summary: "{{title}}"
+  subfolders: false
+meta:
+  path: { widget: string, label: "Path" }
+```
+
+`subfolders: false` is the key line: it tells Decap the entries are slug-named `.md` files living inside subfolders (e.g. `010-einfuehrung.../010-was-ist…md`), **not** `index.md` files. This is what surfaces the full folder tree in the editor — the capability Sveltia lacked.
 
 > **Adjust `repo:`** to match the actual GitHub owner/repo if the org name changes.
 
@@ -94,8 +72,8 @@ Decap CMS uses GitHub OAuth to authenticate editors. You only need to do this on
 2. Fill in:
    - **Application name**: SprachLichtung CMS
    - **Homepage URL**: `https://sprachlichtung.org`
-   - **Authorization callback URL**: `https://YOUR-NETLIFY-SITE.netlify.app/callback`  
-     _(replace with your Netlify proxy URL from step 3)_
+   - **Authorization callback URL**: `https://api.netlify.com/auth/done`  
+     _(this is Netlify's fixed gateway callback — it is the same for everyone)_
 3. Click **Register application**
 4. Copy the **Client ID** and generate a **Client secret** — you'll need both in step 3.
 
@@ -103,17 +81,15 @@ Decap CMS uses GitHub OAuth to authenticate editors. You only need to do this on
 
 ## 3. Set up the Netlify OAuth proxy
 
-GitHub Pages cannot receive the OAuth redirect, so Decap CMS needs a tiny server to complete the handshake. Netlify's free tier provides this with zero configuration.
+GitHub Pages cannot complete the OAuth handshake, so Decap routes login through Netlify's shared gateway at `https://api.netlify.com`. You just need *a* Netlify site that holds your GitHub provider credentials — it does not have to host this project.
 
 1. Create a free account at [netlify.com](https://netlify.com) if you don't have one.
-2. In the Netlify dashboard: **Add new site → Deploy manually** — drag any dummy `index.html` (the content doesn't matter, it's just a proxy).
-3. Go to **Site configuration → Access & security → OAuth**
-4. Under **Authentication providers**, click **Install provider → GitHub**
-5. Paste your GitHub OAuth **Client ID** and **Client secret** from step 2.
-6. Note your Netlify site's URL (e.g. `https://jolly-fox-abc123.netlify.app`).
-7. Update two places with this URL:
-   - `base_url` in `static/admin/config.yml`
-   - **Authorization callback URL** back in the GitHub OAuth App settings
+2. In the Netlify dashboard: **Add new site** — connect the `hecmec/sprachlichtung` repo, or deploy any dummy site. The deploy itself is irrelevant; we only need the site's OAuth settings.
+3. Go to **Site configuration → Access & security → OAuth**.
+4. Under **Authentication providers**, click **Install provider → GitHub**.
+5. Paste your GitHub OAuth **Client ID** and **Client secret** from step 2, and save.
+
+That's it — no `base_url` in `config.yml` and no callback edits. Decap's default `base_url` (`https://api.netlify.com`) plus the GitHub OAuth App callback (`https://api.netlify.com/auth/done`) already point at this gateway.
 
 ---
 
@@ -175,8 +151,8 @@ backend:
 
 | Problem                           | Likely cause                                                                       |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
-| "Unable to authenticate" on login | Callback URL mismatch between GitHub OAuth App and `base_url`                      |
+| "Unable to authenticate" on login | GitHub OAuth App callback isn't `https://api.netlify.com/auth/done`, or the provider isn't installed on a Netlify site |
 | Changes not appearing on site     | GitHub Actions deploy not triggered; check the Actions tab                         |
 | Images not showing after upload   | `media_folder` / `public_folder` mismatch in config                                |
 | Files created in wrong folder     | Check the `folder:` path in the collection config matches actual `docs/` structure |
-| Nested doc folders not editable   | Add a separate collection per subfolder, or use `nested: { depth: 10 }`            |
+| Subfolder files not listed        | Ensure each collection has `nested: { subfolders: false }` (slug-named files, not `index.md`) |

@@ -13,6 +13,14 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    nested:
+      depth: 100
+      summary: "{{title}}"
+      subfolders: true
+    meta:
+      path:
+        widget: string
+        label: "Path"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -26,6 +34,14 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    nested:
+      depth: 100
+      summary: "{{title}}"
+      subfolders: true
+    meta:
+      path:
+        widget: string
+        label: "Path"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -39,6 +55,14 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    nested:
+      depth: 100
+      summary: "{{title}}"
+      subfolders: false
+    meta:
+      path:
+        widget: string
+        label: "Path"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
@@ -52,6 +76,14 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    nested:
+      depth: 100
+      summary: "{{title}}"
+      subfolders: false
+    meta:
+      path:
+        widget: string
+        label: "Path"
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
