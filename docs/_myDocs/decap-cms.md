@@ -35,13 +35,19 @@ Decap CMS needs two files under `static/admin/`. Docusaurus copies everything in
 
 ### `static/admin/config.yml`
 
-The backend needs no `base_url` — Decap defaults it to `https://api.netlify.com`, the gateway you configure in step 3:
+`base_url` defaults to `https://api.netlify.com` so you don't need to set it.
+But because the admin page is served from **GitHub Pages**, not Netlify, you
+**do** need `site_domain` — otherwise Decap sends `site_id=<your-pages-host>`
+to the gateway, no Netlify site matches that domain, and the login redirect
+returns a 404. Set it to the `.netlify.app` subdomain of the dummy Netlify
+site you create in step 3:
 
 ```yaml
 backend:
   name: github
   repo: hecmec/sprachlichtung # owner/repo
   branch: main
+  site_domain: heroic-seahorse-7f141c.netlify.app # the Netlify site from step 3
 
 media_folder: static/img/uploads
 public_folder: /sprachlichtung/img/uploads
@@ -85,11 +91,12 @@ GitHub Pages cannot complete the OAuth handshake, so Decap routes login through 
 
 1. Create a free account at [netlify.com](https://netlify.com) if you don't have one.
 2. In the Netlify dashboard: **Add new site** — connect the `hecmec/sprachlichtung` repo, or deploy any dummy site. The deploy itself is irrelevant; we only need the site's OAuth settings.
-3. Go to **Site configuration → Access & security → OAuth**.
-4. Under **Authentication providers**, click **Install provider → GitHub**.
-5. Paste your GitHub OAuth **Client ID** and **Client secret** from step 2, and save.
+3. Note the site's auto-generated **`<adjective-noun-hex>.netlify.app`** subdomain — you'll paste it as `site_domain` in `config.yml` (step 1).
+4. Go to **Site configuration → Access & security → OAuth**.
+5. Under **Authentication providers**, click **Install provider → GitHub**.
+6. Paste your GitHub OAuth **Client ID** and **Client secret** from step 2, and save.
 
-That's it — no `base_url` in `config.yml` and no callback edits. Decap's default `base_url` (`https://api.netlify.com`) plus the GitHub OAuth App callback (`https://api.netlify.com/auth/done`) already point at this gateway.
+No `base_url` or callback edits needed — Decap's default `base_url` is `https://api.netlify.com` and the GitHub OAuth App callback (`https://api.netlify.com/auth/done`) already points at this gateway. The one required `config.yml` change is `site_domain`, covered in step 1.
 
 ---
 
@@ -152,6 +159,7 @@ backend:
 | Problem                           | Likely cause                                                                       |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
 | "Unable to authenticate" on login | GitHub OAuth App callback isn't `https://api.netlify.com/auth/done`, or the provider isn't installed on a Netlify site |
+| 404 at `api.netlify.com/auth?...&site_id=<github-pages-host>` | Missing `site_domain` in `config.yml` — Decap defaulted to the GitHub Pages hostname, which Netlify can't resolve. Set `site_domain` to the dummy Netlify site's `.netlify.app` subdomain |
 | Changes not appearing on site     | GitHub Actions deploy not triggered; check the Actions tab                         |
 | Images not showing after upload   | `media_folder` / `public_folder` mismatch in config                                |
 | Files created in wrong folder     | Check the `folder:` path in the collection config matches actual `docs/` structure |
