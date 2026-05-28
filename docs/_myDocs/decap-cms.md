@@ -6,10 +6,19 @@
 
 ## How it works
 
-Decap CMS is a single-page app you host alongside your site (`static/admin/`). It talks directly to the GitHub API and commits changes to your repo. Because GitHub Pages is a static host, it cannot complete the GitHub OAuth handshake itself — that step needs a server with a client secret. The simplest free option is **Netlify's built-in OAuth gateway** (`https://api.netlify.com`): you don't host anything on Netlify, you just install a GitHub provider in a Netlify site and Decap routes the login through it.
+Decap CMS is a single-page app you host alongside your site (`static/admin/`). It talks directly to the GitHub API and commits changes to your repo. Because GitHub Pages is a static host, it cannot complete the GitHub OAuth handshake itself — that step needs a server holding the client secret.
+
+We use a **self-hosted OAuth proxy deployed to Netlify** (a tiny serverless app, e.g. [vencax/netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider)). Decap sends users to `<our-proxy>/auth`, the proxy redirects to GitHub, GitHub redirects back to `<our-proxy>/callback` with a code, the proxy exchanges the code for a token using its env-var-stored client secret, and `postMessage`s the token back to the admin tab.
+
+> **Why not Netlify's built-in `api.netlify.com` gateway?** That gateway still exists, but Netlify deprecated Decap CMS support, and the gateway's `/auth/done` page postMessages with origin `https://api.netlify.com`. Decap then checks the message origin against `base_url`. If you ever want both flows or need to point at a different OAuth proxy, the same `base_url` machinery is what you'd configure — so the proxy approach is more flexible and self-contained.
 
 ```
-Browser → Decap CMS → api.netlify.com (OAuth gateway) → GitHub API → commit to main → GitHub Actions → redeploy
+Browser → /admin/ on GitHub Pages
+       → <proxy>.netlify.app/auth      (popup opens)
+       → github.com/login/oauth        (user authorizes)
+       → <proxy>.netlify.app/callback  (proxy exchanges code → token)
+       → postMessage(token) back to /admin/
+       → Decap commits to main → GitHub Actions → redeploy
 ```
 
 ---
@@ -35,19 +44,16 @@ Decap CMS needs two files under `static/admin/`. Docusaurus copies everything in
 
 ### `static/admin/config.yml`
 
-`base_url` defaults to `https://api.netlify.com` so you don't need to set it.
-But because the admin page is served from **GitHub Pages**, not Netlify, you
-**do** need `site_domain` — otherwise Decap sends `site_id=<your-pages-host>`
-to the gateway, no Netlify site matches that domain, and the login redirect
-returns a 404. Set it to the `.netlify.app` subdomain of the dummy Netlify
-site you create in step 3:
+Set `base_url` to the proxy's URL (from step 3). Don't set `site_domain` —
+that's only for Netlify's built-in `api.netlify.com` gateway; the self-hosted
+proxy reads its credentials from its own env vars and ignores `site_id`.
 
 ```yaml
 backend:
   name: github
   repo: hecmec/sprachlichtung # owner/repo
   branch: main
-  site_domain: heroic-seahorse-7f141c.netlify.app # the Netlify site from step 3
+  base_url: https://heroic-seahorse-7f141c.netlify.app # the proxy from step 3
 
 media_folder: static/img/uploads
 public_folder: /sprachlichtung/img/uploads
@@ -78,25 +84,26 @@ Decap CMS uses GitHub OAuth to authenticate editors. You only need to do this on
 2. Fill in:
    - **Application name**: SprachLichtung CMS
    - **Homepage URL**: `https://sprachlichtung.org`
-   - **Authorization callback URL**: `https://api.netlify.com/auth/done`  
-     _(this is Netlify's fixed gateway callback — it is the same for everyone)_
+   - **Authorization callback URL**: `https://<your-proxy>.netlify.app/callback`  
+     _(must match the proxy's callback route — `/callback` for [vencax/netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider). You'll have the proxy URL after step 3; if you do these out of order, come back and edit it.)_
 3. Click **Register application**
-4. Copy the **Client ID** and generate a **Client secret** — you'll need both in step 3.
+4. Copy the **Client ID** and generate a **Client secret** — you'll need both as env vars on the proxy in step 3.
 
 ---
 
-## 3. Set up the Netlify OAuth proxy
+## 3. Deploy the OAuth proxy to Netlify
 
-GitHub Pages cannot complete the OAuth handshake, so Decap routes login through Netlify's shared gateway at `https://api.netlify.com`. You just need *a* Netlify site that holds your GitHub provider credentials — it does not have to host this project.
+We deploy a tiny self-hosted OAuth proxy. The popular and battle-tested choice is [vencax/netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider) — its README has a one-click "Deploy to Netlify" button.
 
 1. Create a free account at [netlify.com](https://netlify.com) if you don't have one.
-2. In the Netlify dashboard: **Add new site** — connect the `hecmec/sprachlichtung` repo, or deploy any dummy site. The deploy itself is irrelevant; we only need the site's OAuth settings.
-3. Note the site's auto-generated **`<adjective-noun-hex>.netlify.app`** subdomain — you'll paste it as `site_domain` in `config.yml` (step 1).
-4. Go to **Site configuration → Access & security → OAuth**.
-5. Under **Authentication providers**, click **Install provider → GitHub**.
-6. Paste your GitHub OAuth **Client ID** and **Client secret** from step 2, and save.
+2. Click the **Deploy to Netlify** button on the proxy's README. Netlify will fork the repo and ask for two **environment variables**:
+   - `OAUTH_CLIENT_ID` — the GitHub OAuth App **Client ID** from step 2
+   - `OAUTH_CLIENT_SECRET` — the GitHub OAuth App **Client secret** from step 2
+3. After deploy, Netlify gives you a `<adjective-noun-hex>.netlify.app` subdomain. Paste this into `config.yml` as `base_url` (step 1).
+4. Visit `https://<subdomain>.netlify.app/` — it should show "GitHub OAuth Proxy" with config instructions. That confirms the deploy worked.
+5. **Go back to your GitHub OAuth App (step 2) and update the Authorization callback URL** to `https://<subdomain>.netlify.app/callback` if you left a placeholder.
 
-No `base_url` or callback edits needed — Decap's default `base_url` is `https://api.netlify.com` and the GitHub OAuth App callback (`https://api.netlify.com/auth/done`) already points at this gateway. The one required `config.yml` change is `site_domain`, covered in step 1.
+> **Sanity check:** the GitHub OAuth App callback URL and the proxy URL must agree on the same hostname and path (`/callback` for vencax). Mismatch → after GitHub auth the popup ends up on `api.netlify.com/auth/done` (or wherever the old callback pointed), Decap rejects the postMessage because the origin doesn't match `base_url`, and the popup hangs at "Authorized" forever.
 
 ---
 
@@ -158,8 +165,9 @@ backend:
 
 | Problem                           | Likely cause                                                                       |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
-| "Unable to authenticate" on login | GitHub OAuth App callback isn't `https://api.netlify.com/auth/done`, or the provider isn't installed on a Netlify site |
-| 404 at `api.netlify.com/auth?...&site_id=<github-pages-host>` | Missing `site_domain` in `config.yml` — Decap defaulted to the GitHub Pages hostname, which Netlify can't resolve. Set `site_domain` to the dummy Netlify site's `.netlify.app` subdomain |
+| "Unable to authenticate" on login | GitHub OAuth App callback doesn't match the proxy's callback URL (should be `https://<proxy>.netlify.app/callback`), or `OAUTH_CLIENT_ID`/`OAUTH_CLIENT_SECRET` env vars are unset/wrong on the Netlify proxy |
+| Popup reaches "Authorized" then hangs (in any browser) | GitHub OAuth App callback URL points somewhere other than the proxy (e.g. left at `api.netlify.com/auth/done`), so `postMessage` origin mismatches `base_url`. Fix the callback in GitHub OAuth App settings |
+| `base_url` mismatch / "multiple popups blocked" in console | Downstream symptom of the row above — once the handshake fails Decap tries to reopen a popup and the browser blocks it because click activation expired |
 | Changes not appearing on site     | GitHub Actions deploy not triggered; check the Actions tab                         |
 | Images not showing after upload   | `media_folder` / `public_folder` mismatch in config                                |
 | Files created in wrong folder     | Check the `folder:` path in the collection config matches actual `docs/` structure |

@@ -2,11 +2,13 @@ backend:
   name: github
   repo: hecmec/sprachlichtung
   branch: main
-  # The site is hosted on GitHub Pages, not Netlify. Without this, Decap sends
-  # site_id=hecmec.github.io to api.netlify.com/auth and Netlify returns 404
-  # because no Netlify site matches that domain. site_domain points the OAuth
-  # gateway at our Netlify "dummy" site that holds the GitHub OAuth provider.
-  site_domain: heroic-seahorse-7f141c.netlify.app
+  # The site is on GitHub Pages, so it cannot complete the GitHub OAuth
+  # handshake itself (no server, no client_secret). We route login through a
+  # self-hosted OAuth proxy deployed to Netlify. The proxy must have the
+  # GitHub OAuth App's CLIENT_ID and CLIENT_SECRET set as env vars in Netlify,
+  # and the GitHub OAuth App's callback URL must be
+  # https://heroic-seahorse-7f141c.netlify.app/callback (NOT api.netlify.com).
+  base_url: https://heroic-seahorse-7f141c.netlify.app
 
 media_folder: static/img/uploads
 public_folder: /sprachlichtung/img/uploads
