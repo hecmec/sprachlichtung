@@ -1,7 +1,9 @@
 # compiled output
 /node_modules
+
+# Use yarn as the single package manager; keep yarn.lock committed for
+# reproducible builds (Docker/Coolify), and ignore the npm lockfile.
 package-lock.json
-yarn.lock
 
 # Production
 /build
