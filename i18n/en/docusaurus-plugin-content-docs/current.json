@@ -218,5 +218,121 @@
   "sidebar.umweltSidebar.category.Philosophie.link.generated-index.description": {
     "message": "Philosophy: Notes, summaries, and thoughts.",
     "description": "The generated-index page description for category Philosophie in sidebar umweltSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Richtig Argumentieren": {
+    "message": "Sound Argumentation",
+    "description": "The label for category Richtig Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Richtig Argumentieren.link.generated-index.description": {
+    "message": "In this chapter, we learn what makes a good argument, understand the difference between rhetoric and argumentation, and how to recognize hidden assumptions.",
+    "description": "The generated-index page description for category Richtig Argumentieren in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Logik": {
+    "message": "Logic",
+    "description": "The label for category Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Logik.link.generated-index.description": {
+    "message": "Everything you need to know about critical thinking.",
+    "description": "The generated-index page description for category Logik in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen": {
+    "message": "Language Traps",
+    "description": "The label for category Sprachfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen.link.generated-index.description": {
+    "message": "In this chapter, we deal with language traps, stumbling blocks, and other dead ends. Everything that can lead to misunderstandings, fallacies, and unclear thinking.",
+    "description": "The generated-index page description for category Sprachfallen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen": {
+    "message": "Cognitive Biases",
+    "description": "The label for category Kognitive Verzerrungen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste Kognitiver Verzerrungen": {
+    "message": "List of Cognitive Biases",
+    "description": "The label for category Liste Kognitiver Verzerrungen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste Kognitiver Verzerrungen.link.generated-index.description": {
+    "message": "Here is a list of cognitive biases and mental heuristics. You'll find all the important biases in this list.",
+    "description": "The generated-index page description for category Liste Kognitiver Verzerrungen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.mehr-kognitive-verzerrungen": {
+    "message": "More Cognitive Biases",
+    "description": "The label for category mehr-kognitive-verzerrungen in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse": {
+    "message": "Fallacies",
+    "description": "The label for category Fehlschlüsse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse.link.generated-index.description": {
+    "message": "In this chapter, we deal with fallacies and poor argumentation. We examine common logical errors, rhetorical tricks, and weaknesses in argumentation that can lead to false conclusions.",
+    "description": "The generated-index page description for category Fehlschlüsse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten Fehlschlüsse": {
+    "message": "List of the Best-Known Fallacies",
+    "description": "The label for category Liste der bekanntesten Fehlschlüsse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten Fehlschlüsse.link.generated-index.description": {
+    "message": "Here is a list of the best-known fallacies, from antiquity to today.",
+    "description": "The generated-index page description for category Liste der bekanntesten Fehlschlüsse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.liste-formeller-fehlschlüsse": {
+    "message": "List of Formal Fallacies",
+    "description": "The label for category liste-formeller-fehlschlüsse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien und Dilemmas": {
+    "message": "Paradoxes and Dilemmas",
+    "description": "The label for category Paradoxien und Dilemmas in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien und Dilemmas.link.generated-index.description": {
+    "message": "In this chapter, we explore paradoxes, dilemmas, and traps of thought. We examine seemingly contradictory situations, difficult decision problems, and puzzling thought experiments that challenge our logical thinking.",
+    "description": "The generated-index page description for category Paradoxien und Dilemmas in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation": {
+    "message": "Manipulation",
+    "description": "The label for category Manipulation in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation.link.generated-index.description": {
+    "message": "In this chapter, we examine manipulation techniques and methods of mental self-defense. We consider how people can be influenced by language, media, and psychological tactics, and how to defend against them.",
+    "description": "The generated-index page description for category Manipulation in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden": {
+    "message": "Intellectual Virtues",
+    "description": "The label for category Intellektuelle Tugenden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden.link.generated-index.description": {
+    "message": "In this chapter, we examine intellectual virtues and vices. We consider which character traits and habits promote or hinder critical thinking, and how to cultivate one's intellectual virtues.",
+    "description": "The generated-index page description for category Intellektuelle Tugenden in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Wissenschaft": {
+    "message": "Science",
+    "description": "The label for category Wissenschaft in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Wissenschaft.link.generated-index.description": {
+    "message": "In this chapter, we examine science and its methods. We consider scientific ways of thinking, research methods, the concept of evidence, and how scientific knowledge is generated and verified.",
+    "description": "The generated-index page description for category Wissenschaft in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.In der Praxis": {
+    "message": "In Practice",
+    "description": "The label for category In der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.In der Praxis.link.generated-index.description": {
+    "message": "In this chapter, we apply the concepts of critical thinking to practical everyday situations. We explore how we can use these skills to solve problems, make decisions, and evaluate information in daily life.",
+    "description": "The generated-index page description for category In der Praxis in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Videokurse": {
+    "message": "Video Courses",
+    "description": "The label for category Videokurse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Videokurse.link.generated-index.description": {
+    "message": "Here we present good video courses on critical thinking.\n\nWe have not translated these, but we have created summaries and commentary on them.",
+    "description": "The generated-index page description for category Videokurse in sidebar kritDenkenSidebar"
+  },
+  "sidebar.umweltSidebar.category.Soziales": {
+    "message": "Social",
+    "description": "The label for category Soziales in sidebar umweltSidebar"
+  },
+  "sidebar.umweltSidebar.category.Soziales.link.generated-index.description": {
+    "message": "Social board games, democracy, and social interactions.",
+    "description": "The generated-index page description for category Soziales in sidebar umweltSidebar"
   }
 }

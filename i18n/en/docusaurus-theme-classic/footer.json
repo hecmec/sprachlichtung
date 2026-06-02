@@ -54,5 +54,9 @@
   "link.item.label.Humor": {
     "message": "Humor",
     "description": "The label of footer link with label=Humor linking to /docs/category/humor-und-satire-"
+  },
+  "link.item.label.Kritisches Denken": {
+    "message": "Critical Thinking",
+    "description": "The label of footer link with label=Kritisches Denken linking to /docs/kritisches-denken/kritisches-denken-kurzgesagt"
   }
 }

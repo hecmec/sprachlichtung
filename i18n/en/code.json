@@ -347,5 +347,13 @@
   },
   "homepage.features.practice.description": {
     "message": "Here it's about putting what you've learned into practice. We develop exercises and quizzes to make critical thinking a habit for you and help you apply it in your everyday life."
+  },
+  "aboutpage.title": {
+    "message": "About Us",
+    "description": "The title on the about page"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "(opens in new tab)",
+    "description": "The ARIA label for the external link icon"
   }
 }
