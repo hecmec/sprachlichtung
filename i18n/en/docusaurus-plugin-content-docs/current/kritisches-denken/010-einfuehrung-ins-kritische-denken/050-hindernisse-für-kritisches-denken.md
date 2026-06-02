@@ -11,7 +11,7 @@ keywords:
     - group pressure
 
 last_update:
-  date: 2025-11-25
+  date: 2026-02-11
   author: Immanuel Lupinus
 # slug: "/critical_thinking/obstacles_to_critical_thinking"
 # image: 

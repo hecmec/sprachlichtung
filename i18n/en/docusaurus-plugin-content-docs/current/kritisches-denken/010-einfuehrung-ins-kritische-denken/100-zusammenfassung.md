@@ -10,7 +10,7 @@ keywords:
   - information evaluation
   - decision making
 last_update:
-  date: 2026-01-15
+  date: 2026-01-28
   author: Immanuel Lupinus
 
 # slug: 

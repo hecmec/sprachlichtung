@@ -5,15 +5,15 @@ sidebar_label: "Importance"
 sidebar_position: 3
 description: "Why critical thinking is a key competency and how it helps you in everyday life, studies and career."
 # slug: /critical-thinking/why-is-critical-thinking-important
-keywords: 
-    - critical thinking
-    - verification
-    - propaganda
-    - manipulation
-    - advertising
-    - fake news
+keywords:
+  - critical thinking
+  - verification
+  - propaganda
+  - manipulation
+  - advertising
+  - fake news
 last_update:
-  date: 2026-01-15
+  date: 2026-01-28
   author: Immanuel Lupinus
 # image:
 ---
@@ -21,6 +21,7 @@ last_update:
 Critical thinking unites the martial arts of the mind with the interplay we find in dance or team sports.
 
 :::info Bivalence
+
 <p class="text--center">**Counteracting (Antagonism)** and **working together (Synergy)**</p> 
 :::
 
@@ -75,3 +76,19 @@ In the personal sphere, critical thinking supports:
 - Development of well-founded values and beliefs
 - Protection against manipulation and fraud
 - Promotion of autonomy and self-determination
+
+## Citizens of civil society
+
+In a democratic society, critical thinking is essential for an informed and engaged citizenry. It enables us to:
+
+- Critically question political statements and campaign promises
+- Consider social and ethical questions from different perspectives
+- Participate in public debates and decision-making processes
+- Handle and share information responsibly
+- Resist manipulation through populism and extremism
+
+## Humanity and empathy
+
+Critical thinking also promotes **humanity** and **empathy** by teaching us to understand and respect the perspectives and experiences of others. It helps us break down prejudices and remain open to new ideas and different cultures.
+
+This is an aspect that is often overlooked, but is becoming increasingly important in today's globalized world.

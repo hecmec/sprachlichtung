@@ -10,11 +10,13 @@ keywords:
   - analysis
   - reflection
 last_update:
-  date: 2025-11-26
+  date: 2026-01-28
   author: Immanuel Lupinus
 # slug: 
 # image: 
 ---
+
+![the process of critical thinking](../img/process_critisches_denken_sprachlichtung.jpg)  
 
 Critical thinking is a systematic process that can include the following steps:
 
