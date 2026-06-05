@@ -19,7 +19,10 @@
     "write-translations:fr": "docusaurus write-translations --locale fr --messagePrefix '_t_'",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "sync:notion": "node tools/sync_kritisches_denken_notion.js"
+    "sync:notion": "node tools/sync_kritisches_denken_notion.js",
+    "verify_translation": "node tools/translation/verify_translation.js",
+    "translate:plan": "node tools/translation/translate_plan.js",
+    "translate:apply": "node tools/translation/translate_apply.js"
   },
   "dependencies": {
     "@docusaurus/core": "~3.9.2",

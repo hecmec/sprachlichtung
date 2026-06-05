@@ -1,10 +1,9 @@
 ---
 id: warum_ist_kritisches_denken_wichtig
 title: Why is critical thinking important?
-sidebar_label: "Importance"
+sidebar_label: Importance
 sidebar_position: 3
-description: "Why critical thinking is a key competency and how it helps you in everyday life, studies and career."
-# slug: /critical-thinking/why-is-critical-thinking-important
+description: Why critical thinking is a key competency and how it helps you in everyday life, studies and career.
 keywords:
   - critical thinking
   - verification
@@ -15,80 +14,101 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-# image:
+translation_status: auto
 ---
 
-Critical thinking unites the martial arts of the mind with the interplay we find in dance or team sports.
+<!--t src=d1524ddc-->
+Critical thinking unites the martial arts of the mind with the interplay we find in dance or in team sports.
 
+<!--t src=320b277f-->
 :::info Bivalence
-
-<p class="text--center">**Counteracting (Antagonism)** and **working together (Synergy)**</p> 
+<p class="text--center">**Counteracting (antagonism)** and **working together (synergy)**</p>
 :::
 
-Like in Aikido or Judo, it helps us **dodge attacks**, redirect or block them (Antagony).
-Like in dance or group sports, we find cooperative elements (Synergy).
+<!--t src=df97acfc-->
+Like in Aikido or Judo, it helps us to **dodge attacks**, redirect them, or block them (antagony).
+Like in dance or group sports, we find cooperative elements (synergy).
 
+<!--t src=bd35d7e4-->
 ## Navigating the information flood
 
-In our hyper-connected world, we are exposed to a flood of information daily.
-On the internet and other media, we find partly correct and verified information, but also a lot of:
+<!--t src=86f0b891-->
+In our hyper-connected world, we are exposed to a flood of information every day.
+On the internet and in other media, we find partly correct and verified information, but also a great deal of:
 
-- **"Fake News"** and targeted disinformation
+<!--t src=7eec0c72-->
+- **"Fake news"** and targeted disinformation
 - **Propaganda** and opinion manipulation
 - Misleading **advertising**
 - Unintentional **errors** and misunderstandings
 
-**Algorithms** often decide for us which information we see: **Search engines** choose which results are displayed to us first, while social media recommends content based on our previous interactions. This can lead to so-called "**filter bubbles**" where we only receive information that confirms our existing views.
+<!--t src=8e7eba5d-->
+**Algorithms** also often decide for us which information we see: **search engines** choose which results are shown to us first, while social media recommend content based on our previous interactions. This can lead to so-called "**filter bubbles**", in which we only receive information that confirms our existing views.
 
-Critical thinking helps us navigate this complex information landscape by enabling us to:
+<!--t src=f5fd481f-->
+Critical thinking helps us to navigate this complex information landscape by enabling us to:
 
-- Distinguish credible from **unreliable** sources
-- Separate facts from pure **opinions**
-- Recognize **manipulation attempts**
-- Evaluate information in its **context**
-- Draw our own conclusions based on solid **evidence**
+<!--t src=fd3e6610-->
+- distinguish credible from **untrustworthy** sources
+- separate facts from pure **opinions**
+- recognize **manipulation attempts**
+- evaluate information in its **context**
+- draw our own conclusions on the basis of solid **evidence**
 
+<!--t src=b3cbe4ee-->
 ## Making better decisions
 
-Every day we make numerous decisions – **we must decide** – from everyday questions like "What should I eat for lunch?" to complex life decisions like career choices, financial investments, or medical treatments.
+<!--t src=62b50437-->
+Every day we make numerous decisions – **we have to decide** – from everyday questions like "What should I have for lunch?" to complex life decisions such as career choices, financial investments, or medical treatments.
 
+<!--t src=79e76255-->
 Critical thinking **improves our decision-making** through:
 
-- Systematic **weighing** of pros and cons
-- Considering different **perspectives**
-- Identifying and overcoming **cognitive biases**
-- Recognizing **errors** in our own reasoning
-- Evaluating the **quality and relevance** of information and **information sources**
+<!--t src=140a641a-->
+- systematically **weighing** the pros and cons
+- taking different **perspectives** into account
+- identifying and overcoming **cognitive biases**
+- recognizing **errors** in our own reasoning
+- evaluating the **quality and relevance** of information and **information sources**
 
+<!--t src=9122b2a9-->
 ## Personal and professional development
 
-Critical thinking is a **key competency** in many professional activities and promotes:
+<!--t src=506ae1bb-->
+Critical thinking is a **key competency** in many professional activities, and it fosters:
 
-- Problem-solving abilities
-- Creativity and innovation
-- Effective communication and active listening
-- Teamwork and collaboration
-- Lifelong learning and adaptability
+<!--t src=9122fa65-->
+- problem-solving skills
+- creativity and innovation
+- effective communication and active listening
+- teamwork and collaboration
+- lifelong learning and adaptability
 
+<!--t src=f42c701c-->
 In the personal sphere, critical thinking supports:
 
-- Self-reflection, self-knowledge and personal growth
-- Development of well-founded values and beliefs
-- Protection against manipulation and fraud
-- Promotion of autonomy and self-determination
+<!--t src=7a83f57e-->
+- self-reflection, self-knowledge, and personal growth
+- the development of well-founded values and convictions
+- protection against manipulation and fraud
+- the fostering of autonomy and self-determination
 
+<!--t src=e373098c-->
 ## Citizens of civil society
 
+<!--t src=910a93cb-->
 In a democratic society, critical thinking is essential for an informed and engaged citizenry. It enables us to:
+- critically question political statements and campaign promises
+- consider social and ethical questions from different perspectives
+- take part in public debates and decision-making processes
+- handle and share information responsibly
+- resist manipulation through populism and extremism
 
-- Critically question political statements and campaign promises
-- Consider social and ethical questions from different perspectives
-- Participate in public debates and decision-making processes
-- Handle and share information responsibly
-- Resist manipulation through populism and extremism
-
+<!--t src=8b4b1087-->
 ## Humanity and empathy
 
-Critical thinking also promotes **humanity** and **empathy** by teaching us to understand and respect the perspectives and experiences of others. It helps us break down prejudices and remain open to new ideas and different cultures.
+<!--t src=f0e25a93-->
+Critical thinking also fosters **humanity** and **empathy** by teaching us to understand and respect the perspectives and experiences of others. It helps us to break down prejudices and to stay open to new ideas and cultures.
 
-This is an aspect that is often overlooked, but is becoming increasingly important in today's globalized world.
+<!--t src=bf64dc33-->
+This is an aspect that is often overlooked, but that is becoming ever more important in today's globalized world.
