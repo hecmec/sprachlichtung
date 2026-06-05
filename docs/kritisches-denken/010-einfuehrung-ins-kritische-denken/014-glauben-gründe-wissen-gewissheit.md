@@ -17,9 +17,8 @@ last_update:
 completeness: 2/5
 draft: true
 
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 import Admonition from '@theme/Admonition';
@@ -61,7 +60,7 @@ _Wir setzten 'immer schon' implizit voraus:_
 - Wenn ich morgens aufwache, dann bin wirklich wach und träume das nicht nur.
 - Wenn du hinter dem Baum vorbei gehst, dann verschwindest du hinter dem Baum und dann kommt da auf der anderen Seite nicht plötzlich ein Tiger heraus, sonder du. (Kinder haben oft solche kreativen Vorstellungen)
 - Wenn ich einen Meter hier messe und ich gehe ans andere Ende des Feldes, dann ist das Metermass noch genauso lang.[^rubberMeter]
-- Meine Zeit auf dem Sofa und dein im Auto vergehen gleich schnell. Oder, alle Uhren gehen gleich schnell. (das ist intuitiv richtig, aber wie die spezielle Relativitätstheorie zeigt, nicht der Fall)
+- Meine Zeit auf dem Sofa und deine Zeit im Auto vergehen gleich schnell. Oder, alle Uhren gehen gleich schnell. (das ist intuitiv richtig, aber wie die spezielle Relativitätstheorie zeigt, nicht der Fall)
 - Wenn etwas "natürlich" ist, ist es tendenziell gut/gesund – und wenn etwas "künstlich" ist, tendenziell schlecht/gefährlich. (intuitiv plausibel, aber oft ein Fehlschluss)
 
 [^rubberMeter]: Der Philosoph Wittgenstein hat solche Gedankenexperimente geliebt. Können wir uns eine Welt vorstellen, in der ein Metermaß sich ausdehnt, wenn wir uns vom einen Ende des Feldes zum anderen bewegen? Nicht sehr praktisch, aber vielleicht lustig.
@@ -77,7 +76,7 @@ _ich glaube :_
 - "Ein Sprung vom Balkon der 10. Etage ist lebensgefährlich."
   - Das ist eine Alltagssituation; es passiert dass Leute vom Haus fallen.
   - Wenn wir aus grosser Höhe auf den Boden fallen, dann ist das meistens das Ender der Geschichte.
-  - Die allermeisten Wissenschaftler sind sich hier einig und es gibt keinen Interessenkonflikt wie beim Klimawandel.
+  - Die allermeisten Wissenschaftler sind sich hier einig und es gibt keinen Interessenkonflikt wie beim Klimawandel. (es gibt kaum Vom-haus-fallen-ist-gefährlich-leugner)
   - Hier gibt es selten _Fake-News_: es ist sofort testbar, das Resultat ist eindeutig und man kann sich nur einmal irren.
   - Diese Situation wird manchmal der "kausale Nahbereich" genannt.
 
@@ -99,12 +98,12 @@ _ich glaube :_
   - Aber der Satz ist nicht einfach wahr oder falsch, denn er sagt etwas über die Zukunft einer bestimmten Schaukel.
 
 Wir sehen, schon im Alltag gibt es viele verschiedene Arten etwas zu glauben im Sinne von "Ich glaube dass ...". In jedem dieser Fälle scheint uns eine Frage wichtig:
-  
+
 :::warning methodischer Zweifel
-  Ist das, was ich glaube auch wahr?
+Ist das, was ich glaube auch wahr?
 :::
 
-Kann ich mich irren und was habe ich für Gründe zu glauben, was ich glaube?
+Kann ich mich **irren** und was habe ich für **Gründe** zu glauben, was ich glaube?
 Das ist der Zusammenhang zwischen Glauben und Wissen.
 
 ### "Glauben-an" als Vertrauen
@@ -134,7 +133,7 @@ _ich glaube :_
 - "Die Erde ist (annähernd) kugelförmig."
   - Das ist total kontraintuitiv, schon klar. Wir sehen die Kugel ja nicht.
   - Die Hypothese der runden Erde gibt es seit der Antike, aber spätestens im Zeitalter der Raumfahrt ist sie allgemein anerkannt: jetzt kann auch der letzte Zweifler es sehen.
-  - Trotzdem gibt es immer noch Menschen die sogar ihr Leben riskieren, um zu beweisen, dass die Erde platt ist. [Mad Mike](https://de.wikipedia.org/wiki/Mike_Hughes_(Stuntman)) :rocket:
+  - Trotzdem gibt es immer noch Menschen die sogar ihr Leben riskieren, um zu beweisen, dass die Erde platt ist. [Mad Mike](<https://de.wikipedia.org/wiki/Mike_Hughes_(Stuntman)>) :rocket:
   - Wer profitiert: diejenigen, die den "Kampf gegen die Intellektuellen" führen[^antiIntello].
 
 - "Der menschengemachte Anteil am Klimawandel ist erheblich."
@@ -147,19 +146,22 @@ _ich glaube :_
   - Die interessante Frage ist dann: wie viel Risiko bin ich bereit einzugehen, um meinen Wohlstand nicht zu gefährden.
   - Manche wollen lieber Atomkraftwerke trotz ihren Sicherheitsbedenken, andere wollen lieber Windräder: sicherer aber hässlich und lästig.
 
-[^bernays]: **Edward Bernays** (1891–1995), ein früher PR- und Propaganda-Pionier.
-1929 organisierte er in den USA eine Medienaktion ("**Torches of Freedom**"), bei der Frauen öffentlich Zigaretten rauchten, um das Rauchen als Symbol weiblicher Emanzipation zu rahmen. Das war weniger ein Ausdruck realer Befreiung als eine gezielte Marketingstrategie (u. a. im Interesse der Tabakindustrie, wer hätte das gedacht :rofl:).
+[^bernays]:
+    **Edward Bernays** (1891–1995), ein früher PR- und Propaganda-Pionier.
+    1929 organisierte er in den USA eine Medienaktion ("**Torches of Freedom**"), bei der Frauen öffentlich Zigaretten rauchten, um das Rauchen als Symbol weiblicher Emanzipation zu rahmen. Das war weniger ein Ausdruck realer Befreiung als eine gezielte Marketingstrategie (u. a. im Interesse der Tabakindustrie, wer hätte das gedacht :rofl:).
 
-[^antiIntello]: Die Intellektuellen haben immer genervt. **Sokrates** wurde gleich mal wegen "Verderbung der Jugend" zum Tode verurteilt.\
-In **Nazideutschland** werden die Intellektuellen als "entartet", "undeutsch", "jüdisch-bolschewistisch" und allgemein als "Volksfeinde" diffamiert. Ihre Bücher werden verbrand, sie werden ausgewiesen, verfolgt bis zur physischen Auslöschung.\
-In **China unter Mao Zedong** (Kulturrevolution, 1966–1976) wurden Intellektuelle verfolgt, gedemütigt und auch physisch misshandelt. Intellektuelle mussten öffentlich ihre "feindlichen" Ansichten ablegen. ("Selbstkritik")\
-In den **USA unter Trump** gibt es einen Grossangriff auf die Intellektuellen. Intellektuelle und Experten werden als "Eliten" oder "abgehoben" diffamiert (z. B. in der Rhetorik von Donald Trump oder Teilen der rechten Medien).\
-Es gibt Angriffe auf Wissenschaften: Klimaforschung, Gender Studies oder kritische Rassentheorie werden als "politisch motiviert" oder "unamerikanisch" angegriffen.\
-Wir sehen Zensurversuche: Bücherverbote in Schulen (z. B. in Florida oder Texas), Einschränkung der akademischen Freiheit.
+[^antiIntello]:
+    Die Intellektuellen haben immer genervt. **Sokrates** wurde gleich mal wegen "Verderbung der Jugend" zum Tode verurteilt.\
+    In **Nazideutschland** werden die Intellektuellen als "entartet", "undeutsch", "jüdisch-bolschewistisch" und allgemein als "Volksfeinde" diffamiert. Ihre Bücher werden verbrand, sie werden ausgewiesen, verfolgt bis zur physischen Auslöschung.\
+    In **China unter Mao Zedong** (Kulturrevolution, 1966–1976) wurden Intellektuelle verfolgt, gedemütigt und auch physisch misshandelt. Intellektuelle mussten öffentlich ihre "feindlichen" Ansichten ablegen. ("Selbstkritik")\
+    In den **USA unter Trump** gibt es einen Grossangriff auf die Intellektuellen. Intellektuelle und Experten werden als "Eliten" oder "abgehoben" diffamiert (z. B. in der Rhetorik von Donald Trump oder Teilen der rechten Medien).\
+    Es gibt Angriffe auf Wissenschaften: Klimaforschung, Gender Studies oder kritische Rassentheorie werden als "politisch motiviert" oder "unamerikanisch" angegriffen.\
+    Wir sehen Zensurversuche: Bücherverbote in Schulen (z. B. in Florida oder Texas), Einschränkung der akademischen Freiheit.
 
-[^climaConsens]: Dieser Konsens liegt mittlerweile bei über 99 % der aktiv publizierenden Klimawissenschaftler. Im streng wissenschaftlichen Sinne gibt es keine anerkannte Forschungsorganisation, die den menschengemachten Klimawandel als Ganzes bestreitet.
-Es gibt natürlich politisch-ökonomische Think Tanks, wie das _Heartland Institute_ (USA) oder _EIKE_ (Europäisches Institut für Klima und Energie, Deutschland), die oft zitiert werden.
-Diese Institute betreiben keine eigene, ergebnisoffene Forschung, sondern sind meist politisch motiviert oder werden durch Industriegelder (z. B. aus der Kohle- und Ölbranche) finanziert. Ihre "Studien" halten einer wissenschaftlichen Peer-Review-Prüfung in Fachmagazinen in der Regel nicht stand.
+[^climaConsens]:
+    Dieser Konsens liegt mittlerweile bei über 99 % der aktiv publizierenden Klimawissenschaftler. Im streng wissenschaftlichen Sinne gibt es keine anerkannte Forschungsorganisation, die den menschengemachten Klimawandel als Ganzes bestreitet.
+    Es gibt natürlich politisch-ökonomische Think Tanks, wie das _Heartland Institute_ (USA) oder _EIKE_ (Europäisches Institut für Klima und Energie, Deutschland), die oft zitiert werden.
+    Diese Institute betreiben keine eigene, ergebnisoffene Forschung, sondern sind meist politisch motiviert oder werden durch Industriegelder (z. B. aus der Kohle- und Ölbranche) finanziert. Ihre "Studien" halten einer wissenschaftlichen Peer-Review-Prüfung in Fachmagazinen in der Regel nicht stand.
 
 ### Normative (Sollen) Überzeugungen – "Was soll man tun?" (Ethik/Politik)
 
@@ -176,12 +178,13 @@ _ich glaube :_
   - Artikel 1 der Allgemeinen Erklärung der Menschenrechte[^humanRights]
   - Das ist ein ethischer Grundsatz, keine universelle Wahrheit.
 
-[^humanRights]: Der ganze Artikel lautet:
-"Artikel 1 (Freiheit, Gleichheit, Solidarität)  
-Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Solidarität begegnen."
-[Amnesty International &mdash; Die Allgemeine Erklärung der Menschenrechte: Deine Rechte auf einen Blick](https://www.amnesty.de/alle-30-artikel-der-allgemeinen-erklaerung-der-menschenrechte)
-[UN Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)\
-Klassische Vorläufer dieser Menscherechtserklärung sind die [Grundrechteerklärung von Virginia](https://de.wikipedia.org/wiki/Virginia_Declaration_of_Rights) (Virginia Declaration of Rights) von 1776, und die französische [Erklärung der Menschen- und Bürgerrechte](https://de.wikipedia.org/wiki/Erkl%C3%A4rung_der_Menschen-_und_B%C3%BCrgerrechte).
+[^humanRights]:
+    Der ganze Artikel lautet:
+    "Artikel 1 (Freiheit, Gleichheit, Solidarität)  
+    Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Solidarität begegnen."
+    [Amnesty International &mdash; Die Allgemeine Erklärung der Menschenrechte: Deine Rechte auf einen Blick](https://www.amnesty.de/alle-30-artikel-der-allgemeinen-erklaerung-der-menschenrechte)
+    [UN Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)\
+    Klassische Vorläufer dieser Menscherechtserklärung sind die [Grundrechteerklärung von Virginia](https://de.wikipedia.org/wiki/Virginia_Declaration_of_Rights) (Virginia Declaration of Rights) von 1776, und die französische [Erklärung der Menschen- und Bürgerrechte](https://de.wikipedia.org/wiki/Erkl%C3%A4rung_der_Menschen-_und_B%C3%BCrgerrechte).
 
 Viele unserer Werte sind traditionnel verankert und haben sich bewährt, andere nicht.
 Wichtig ist es hier zu verstehen, dass dies **keine Behauptungen über Tatsachen** sind.
@@ -271,9 +274,10 @@ Manche Glaubenssätze sind gut fundiert und testbar (empirisch), andere sind pri
 ## Wissen
 
 Da gab es im ehemaligen Ostblock diesen Witz:
->Was ist der Unterschied zwischen Christen und Kommunisten?\
->Die Christen wissen, dass sie glauben &mdash;\
->Die Kommunisten glauben, dass die wissen.
+
+> Was ist der Unterschied zwischen Christen und Kommunisten?\
+> Die Christen wissen, dass sie glauben &mdash;\
+> Die Kommunisten glauben, dass die wissen.
 
 ### Was ist der Unterschied zwischen Glauben und Wissen?
 
@@ -296,13 +300,14 @@ Das bedeutet: Ich glaube etwas (Überzeugung), es ist tatsächlich richtig (wahr
 <details>
   <summary>Ein Blick in die Geschichte: Wie dachten Philosophen über Wissen?</summary>
 
-  **Platon** (428–348 v. Chr.) unterschied zwischen Wissen (_episteme_) und Meinung (_doxa_). Wahres Wissen bezog sich für ihn auf unveränderliche Ideen – wie mathematische Wahrheiten oder absolute Gerechtigkeit. Sinnliche Erfahrung war für ihn unzuverlässig.
+**Platon** (428–348 v. Chr.) unterschied zwischen Wissen (_episteme_) und Meinung (_doxa_). Wahres Wissen bezog sich für ihn auf unveränderliche Ideen – wie mathematische Wahrheiten oder absolute Gerechtigkeit. Sinnliche Erfahrung war für ihn unzuverlässig.
 
-  **Aristoteles** (384–322 v. Chr.) war praktischer orientiert. Er sah Wissen als das Ergebnis von Beobachtung und logischer Schlussfolgerung. Seine Kategorien und Syllogismen prägten jahrhundertelang das abendländische Denken.
+**Aristoteles** (384–322 v. Chr.) war praktischer orientiert. Er sah Wissen als das Ergebnis von Beobachtung und logischer Schlussfolgerung. Seine Kategorien und Syllogismen prägten jahrhundertelang das abendländische Denken.
 
-  **Edmund Gettier** (1927–2021) erschütterte 1963 mit nur drei Seiten die klassische Wissensdefinition. Er zeigte durch clevere Gedankenexperimente, dass man wahre, gerechtfertigte Überzeugungen haben kann, die trotzdem kein Wissen darstellen – die berühmten "Gettier-Probleme".
+**Edmund Gettier** (1927–2021) erschütterte 1963 mit nur drei Seiten die klassische Wissensdefinition. Er zeigte durch clevere Gedankenexperimente, dass man wahre, gerechtfertigte Überzeugungen haben kann, die trotzdem kein Wissen darstellen – die berühmten "Gettier-Probleme".
 
-  Ein **Gettier-Beispiel**: Sie schauen auf die Uhr und denken "Es ist 14:30 Uhr". Die Uhr zeigt tatsächlich 14:30, aber sie ist seit gestern stehengeblieben. Zufällig ist es wirklich 14:30. Sie haben eine wahre, gerechtfertigte Überzeugung – aber ist das Wissen?
+Ein **Gettier-Beispiel**: Sie schauen auf die Uhr und denken "Es ist 14:30 Uhr". Die Uhr zeigt tatsächlich 14:30, aber sie ist seit gestern stehengeblieben. Zufällig ist es wirklich 14:30. Sie haben eine wahre, gerechtfertigte Überzeugung – aber ist das Wissen?
+
 </details>
 
 Das größte Problem ist die Wahrheitsfrage: Woher wissen wir, ob etwas wirklich wahr ist?
@@ -362,8 +367,6 @@ In der Logik zählen nur die Regeln korrekten Schließens:
 
 **Logische Rechtfertigung** ist unabhängig vom Inhalt – sie garantiert nur, dass die Schlüsse korrekt sind, nicht dass die Ausgangspunkte wahr sind.
 
-
-
 ### Wissenschaft: Empirische Überprüfbarkeit und Reproduzierbarkeit
 
 Wissenschaftliche Rechtfertigungen müssen strengen Standards genügen:
@@ -382,8 +385,6 @@ Einige Populisten kritisieren die Wissenschaft als wolle sie sich als "unkritisi
 
 Wie wir später noch sehen werden: **Wissenschaftliche Aussagen und Theorien müssen prinzipielle falsifizierbar sein**.
 
-
-
 ### Kunst und Literatur: Ästhetische und emotionale Rechtfertigungen
 
 In der Kunst gelten andere Standards:
@@ -393,15 +394,13 @@ In der Kunst gelten andere Standards:
   - Standard: Subjektivität ist legitim, aber nicht beliebig
 
 - **"Dieser Roman bringt uns den wahren Gehalt menschlicher Freiheit vor Augen."**
-Wer wagt, durch das Reich der Träume zu schreiten, gelangt zur Wahrheit" E. T. A. Hoffmann
+  Wer wagt, durch das Reich der Träume zu schreiten, gelangt zur Wahrheit" E. T. A. Hoffmann
 
 - **"Diese Musik bewegt mich zu Tränen."**
   - Grund: Emotionale Resonanz
   - Standard: Authentische persönliche Erfahrung
 
 **Ästhetische Rechtfertigung** ist subjektiver, aber nicht irrational – sie basiert auf Erfahrung, Tradition und geteilten kulturellen Codes.
-
-
 
 ### Geisteswissenschaften: Interpretation und historische Kontextualisierung
 
@@ -440,8 +439,9 @@ Sie ist Kritik an Urteilsvermögen, Begriffsbildung und Sprache:
 
 :::tip Fazit
 Je nach Kontext gelten andere Standards für gute Gründe:
+
 - **Alltag**: praktisch und lebensdienlich
-- **Politik**: machtbewusst und wertorientiert  
+- **Politik**: machtbewusst und wertorientiert
 - **Logik**: formal korrekt
 - **Wissenschaft**: empirisch überprüfbar
 - **Kunst**: ästhetisch erfahrbar
@@ -450,7 +450,6 @@ Je nach Kontext gelten andere Standards für gute Gründe:
 
 Die Kunst liegt darin, den jeweils angemessenen Standard zu erkennen und nicht verschiedene Bereiche zu verwechseln.
 :::
-
 
 ## Wahrheit und Gewissheit
 
