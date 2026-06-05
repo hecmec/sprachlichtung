@@ -12,13 +12,13 @@ last_update:
 Standard translation is done like described in the starter [tutorial](../tutorial/translate-your-site.md).
 
 - The standard translation is using the same page urls for all languages.
-- We want to have different urls for different languages, e.g. `/en/introduction` and `/de/einführung`.
+- That is the way the system finds equivalent pages
+- We want to have different urls for different languages, e.g. `/de/einführung` and `/en/einführung`.
 
 ## Translating SprachLichtung
 
-We actually create one Docusaurus instance per language.
-
-The main language is German, so we have our main Docusaurus instance in the root folder.
+- The main language is German, so we have our main Docusaurus instance in the root folder.
+- All other languages are inside i18n.
 
 ---
 
@@ -72,14 +72,14 @@ A block is a blank-line-separated unit, with these elements treated as a single
 **atomic** block (never split):
 
 - a heading line,
-- a fenced code block (```` ``` ````),
+- a fenced code block (` ``` `),
 - an admonition (`:::note … :::`),
 - a table,
 - an MDX/JSX component block (e.g. `<Tooltip>…</Tooltip>`).
 
 Each German block gets a **stable short hash** — the first 8 hex characters of
 the SHA-1 of the block's normalized text (trim trailing whitespace, collapse
-internal runs of blank lines). The hash is what lets us detect *which* paragraph
+internal runs of blank lines). The hash is what lets us detect _which_ paragraph
 changed, independent of position.
 
 ## 4. In-file anchor convention (tracking state)
@@ -90,9 +90,11 @@ sits immediately before each translated block:
 
 ```markdown
 <!--t src=9f3a2b-->
+
 This paragraph was produced by machine translation.
 
 <!--t src=7c1d44 by="Immanuel Lupinus" on=2026-06-05-->
+
 This paragraph was hand-corrected, so it is protected.
 ```
 
@@ -111,7 +113,7 @@ In addition to the existing fields (`id`, `title`, `sidebar_label`,
 `draft`), translated files carry:
 
 ```yaml
-translation_status: auto        # auto | mixed | manual
+translation_status: auto # auto | mixed | manual
 custom_translation_overwritten: false
 # raised to true (with a review log) when a protected paragraph's German
 # source changed and was replaced by machine translation — see §9.
@@ -152,16 +154,16 @@ optional `--ci` mode exits non-zero when anything is untranslated or stale.
 
 ## 8. Update — paragraph-level re-translation
 
-When `verify_translation` reports a file as *needs update*, run a **3-way merge
+When `verify_translation` reports a file as _needs update_, run a **3-way merge
 keyed by block hash** — only the changed paragraphs are re-translated:
 
 1. Parse the German file into blocks → ordered list of hashes.
 2. Parse the translated file into ordered anchors → `(src hash, text,
-   protected?)`.
+protected?)`.
 3. For each German block:
    - **Unchanged** (its hash is still present in the translated anchors) → keep
-     the existing translation untouched. *This is what preserves human
-     corrections.*
+     the existing translation untouched. _This is what preserves human
+     corrections._
    - **Changed or new** (hash not found) → machine-translate **only this
      block**, splice it into position (aligned using the surrounding unchanged
      anchors as fixed points), and update its anchor's `src` hash.
@@ -208,7 +210,7 @@ only ever sees text snippets:
     needing translation.
   - `translate_apply.js` (`yarn translate:apply`) — splices translations back,
     applying the 3-way merge, the protected-overwrite rule, and frontmatter.
-  **No AI here.**
+    **No AI here.**
 - **AI translation step** (the `translate-docs-folder` skill / Claude): fills in
   each block's `translation` in the job, then runs `apply`.
 
@@ -230,26 +232,30 @@ applies unchanged to `fr`.
 
 ```markdown
 <!--t src=9f3a2b-->
+
 Critical thinking means examining our beliefs deliberately.
 
 <!--t src=7c1d44 by="Immanuel Lupinus" on=2026-06-05-->
+
 "I know that I know nothing." — Socrates
 ```
 
 **The German source's second block is edited.** Its hash changes from
-`7c1d44` → `b8e0f1`. `verify_translation` now reports `intro.md` as *needs
-update — 1 changed block (protected)*.
+`7c1d44` → `b8e0f1`. `verify_translation` now reports `intro.md` as _needs
+update — 1 changed block (protected)_.
 
 **After** the update run (protected-overwrite rule applied):
 
 ```markdown
 <!--t src=9f3a2b-->
+
 Critical thinking means examining our beliefs deliberately.
 
 <!--t src=b8e0f1 by="Immanuel Lupinus" on=2026-06-05 overwritten_on=2026-06-10-->
 <!-- PREVIOUS HUMAN TRANSLATION (German source changed, review needed):
 "I know that I know nothing." — Socrates
 -->
+
 "I know that I know nothing, and that is the beginning of wisdom." — Socrates
 ```
 
