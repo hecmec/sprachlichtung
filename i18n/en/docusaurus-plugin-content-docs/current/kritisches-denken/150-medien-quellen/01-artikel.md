@@ -1,40 +1,59 @@
 ---
-title: Artikel zum Thema Kritisches Denken
+title: Articles on Critical Thinking
 sidebar_position: 1
-sidebar_label: Artikel
-description: "Wichtige Artikel zum Thema Sprache, Kritisches Denken und Philosophie"
+sidebar_label: Articles
+description: Important articles on language, critical thinking and philosophy
 keywords:
-  - Sprache
-  - Philosophie
-  - Kritisches Denken
-  - Linguistik
-  - Semiotik
-  - Kommunikation
+  - Language
+  - Philosophy
+  - Critical Thinking
+  - Linguistics
+  - Semiotics
+  - Communication
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
+id: articles
+translation_status: auto
+custom_translation_overwritten: false
 ---
 
-- Hier sind ein paar einführende Artikel zum Thema Sprache, Kritisches Denken und Philosophie.
-- Wir fügen immer wieder neue hinzu.
+<!--t src=3d878f80-->
 
-## Kritisches Denken
+- Here are a few introductory articles on language, critical thinking and philosophy.
+- We keep adding new ones.
 
-### Grundlegend
+<!--t src=d9064981-->
+
+## Critical Thinking
+
+<!--t src=8f01eee8-->
+
+### Fundamental
 
 - 🇩🇪 Paul R., Elder L. (2008): [_Kritisches Denken, Begriffe & Tools, Ein Leitfaden im Taschenformat_](https://www.criticalthinking.org/data/pages/65/0942a6869e3fecf0491debf6af6cb9846504e18baf508.pdf) – Criticalthinking.org
 
-- 🇬🇧 David Hitchcock: [_Critical Thinking_](https://plato.stanford.edu/entries/critical-thinking),in: Edward N. Zalta (Hrsg.): [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu).
+<!--t src=97081294-->
 
-- 🇬🇧 Jamie Carlin Watson: [_Critical Thinking_](https://iep.utm.edu/critical-thinking). In: James Fieser, Bradley Dowden (Hrsg.): [Internet Encyclopedia of Philosophy](https://iep.utm.edu).
+- 🇬🇧 David Hitchcock: [_Critical Thinking_](https://plato.stanford.edu/entries/critical-thinking),in: Edward N. Zalta (ed.): [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu).
 
-- 🇩🇪 [_Kritisches Denken_](https://de.wikipedia.org/wiki/Kritisches_Denken) – in de.wikipedia.org
-- 🇬🇧 [_Critical Thinking_](https://en.wikipedia.org/wiki/Critical_thinking): in en.wikipedia.org
-- 🇫🇷 [_Esprit critique_](https://fr.wikipedia.org/wiki/Esprit_critique) – in fr.wikipedia.org
+<!--t src=f682fe7e-->
 
-- 🇩🇪 Dorota Gierszewski: [_Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?_](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) – Epale, Europäische Kommission
+- 🇬🇧 Jamie Carlin Watson: [_Critical Thinking_](https://iep.utm.edu/critical-thinking). In: James Fieser, Bradley Dowden (eds.): [Internet Encyclopedia of Philosophy](https://iep.utm.edu).
 
-### Populär
+<!--t src=96c157e3-->
+
+- 🇩🇪 [_Kritisches Denken_](https://de.wikipedia.org/wiki/Kritisches_Denken) – on de.wikipedia.org
+- 🇬🇧 [_Critical Thinking_](https://en.wikipedia.org/wiki/Critical_thinking): on en.wikipedia.org
+- 🇫🇷 [_Esprit critique_](https://fr.wikipedia.org/wiki/Esprit_critique) – on fr.wikipedia.org
+
+<!--t src=119076e0-->
+
+- 🇩🇪 Dorota Gierszewski: [_Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?_](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) – Epale, European Commission
+
+<!--t src=5c458fd6-->
+
+### Popular
 
 - 🇩🇪 [Die Kompetenz des kritischen Denkens – analysiert vor dem Hintergrund der KI-Debatte in der Bildung](https://ebildungslabor.de/blog/die-kompetenz-des-kritischen-denkens-analysiert-vor-dem-hintergrund-der-ki-debatte-in-der-bildung/) &mdash; ebildungslabor.de
 - 🇩🇪 [Die Bedeutung des kritischen Denkens in der modernen Gesellschaft](https://digitales-institut.de/die-bedeutung-des-kritischen-denkens-in-der-modernen-gesellschaft/) – digitales-institut.de
@@ -46,14 +65,21 @@ last_update:
 - 🇫🇷 [Douze conseils pour éduquer à l'esprit critique](https://www.cahiers-pedagogiques.com/12-conseils-pour-eduquer-a-l-esprit-critique/) &mdash; Cahiers pédagogiques
 - 🇫🇷 [Former l'esprit critique : ressources pour enseignant·e·s](https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/) &mdash; CORTECS
 
+<!--t src=b7bd0f69-->
 <!-- https://karlhosang.de/kritisches-denken/ -->
 
-### Wissenschftlich
+<!--t src=971f82de-->
+
+### Scientific
 
 - 🇬🇧 [Peter Facione (1989), Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction? aka "The Delphi Report”](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction)
 - 🇬🇧 [Deanna Kuhn (1999), A Developmental Model of Critical Thinking](https://www.educationforthinking.org/sites/default/files/page-image/1-01DevelopmentalModelCriticalThinking.pdf)
 
-## Sprachphilosophie
+<!--t src=035e163a-->
+
+## Philosophy of Language
+
+<!--t src=dab91512-->
 
 - 🇩🇪 [Sprachphilosophie](https://de.wikipedia.org/wiki/Sprachphilosophie) – Wikipedia
 - 🇩🇪 [Sprachphilosophie](https://www.philosophie.ch/sprachphilosophie) &mdash; philosophie.ch
@@ -62,7 +88,9 @@ last_update:
 - 🇬🇧 Michael P. Wolf: [_Philosophy of Language_](https://iep.utm.edu/lang-phi/) &mdash; Internet Encyclopedia of Philosophy
 - 🇫🇷 [_Philosophie du langage_](https://encyclo-philo.fr/philosophie-du-langage-a) &mdash; L'Encyclopédie philosophique
 
-## Sprache und Gesellschaft
+<!--t src=e98cf83b-->
+
+## Language and Society
 
 - 🇩🇪 [Josef Klein, Sprache und Macht (2010)](https://www.bpb.de/shop/zeitschriften/apuz/32949/sprache-und-macht/) – bpb.de
 - 🇩🇪 [Wie die Sprache das Denken formt](https://www.spektrum.de/news/linguistik-wie-die-sprache-das-denken-formt/1145804) – Spektrum.de
