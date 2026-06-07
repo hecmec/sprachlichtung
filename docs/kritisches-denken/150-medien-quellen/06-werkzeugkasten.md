@@ -46,6 +46,16 @@ Wir fügen immer wieder neue hinzu.
 - Sie können alles spreichern und exportieren.
 - Mit einem [e-Buch](https://docs.rationaleonline.com/e-book/1-critical-thinking)
 
+**[Kialo](https://www.kialo.com/)**
+
+- Plattform für strukturierte Debatten: Pro- und Contra-Argumente werden als Baum aufgefächert.
+- Kostenlos nutzbar, mit einer Bildungsversion ([Kialo Edu](https://www.kialo-edu.com/)) für den Unterricht.
+
+**[Argdown](https://argdown.org/)**
+
+- Eine einfache Auszeichnungssprache, um Argumente als Text zu schreiben und automatisch als Diagramm darzustellen.
+- Frei und **open-source**: https://github.com/christianvoigt/argdown
+
 
 ### Mindmap WebApps
 

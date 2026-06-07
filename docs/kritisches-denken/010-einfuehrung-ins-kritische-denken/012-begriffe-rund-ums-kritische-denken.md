@@ -4,19 +4,18 @@ sidebar_label: Wichtige Begriffe
 sidebar_position: 12
 description: "Einführung in die Fähigkeit, reflektiert, unabhängig und rational zu denken und Informationen systematisch zu analysieren."
 keywords:
-    - kritisches Denken
-    - Wichtige Begriffe
-    - Argumentation
-    - Reflexion
+  - kritisches Denken
+  - Wichtige Begriffe
+  - Argumentation
+  - Reflexion
 last_update:
   date: 2026-01-27
   author: Immanuel Lupinus
 completeness: 2/5
 draft: true
 
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 import Admonition from '@theme/Admonition';
@@ -25,83 +24,81 @@ import Admonition from '@theme/Admonition';
 
 Im Kontext des kritischen Denkens begegnen uns immer wieder bestimmte Begriffe und Konzepte, die für das Verständnis und die Anwendung dieser Fähigkeit zentral sind. Hier sind einige der wichtigsten Begriffe, die du kennen solltest.
 
-
 ## Lügen und Bullshit
 
-Propaganda
+### Propaganda
 
-Agit-Prop
+### Agit-Prop
 
-Indoctrination
+### Indoctrination
 
-Werbung
+### Werbung
 
-Fake-News
+### Fake-News
 
-Bullshit
+### Bullshit
 
-Scheintheorien
+### Scheintheorien
 
-Pseudowissenschaften
+### Pseudowissenschaften
 
-Komplotismus
+### Komplotismus
 
-Zetetik
+### Zetetik
 
 ## Fehler
 
-Kognitive Verzerrung, Denkfehler, Wahrnehmungsfehler
+### Kognitive Verzerrung, Denkfehler, Wahrnehmungsfehler
 
-Logischer Fehlschluss
+### Logischer Fehlschluss
 
-Informeller Fehlschluss
+### Informeller Fehlschluss
 
 ## Prozess und Praxis
 
-Sapere aude
+### Sapere aude
 
-Absicht
+### Absicht
 
-Hermeneutik
+### Hermeneutik
 
-Heuristik
+### Heuristik
 
-Evidenz
-
+### Evidenz
 
 ## Logik, Argumente und Rhetorik
 
-Klarheit
+### Klarheit
 
-Richtigkeit
+### Richtigkeit
 
-Relevanz
+### Relevanz
 
-Normativ
+### Normativ
 
-Prämissen
+### Prämissen
 
-Schlussfolgerung
+### Schlussfolgerung
 
-Kohärent
+### Kohärent
 
-Konsistent
+### Konsistent
 
-Urteil (im logischen Sinne)
+### Urteil (im logischen Sinne)
 
-Hypothese
+### Hypothese
 
-Theorie
+### Theorie
 
-Ockhams Rasiermesser
+### Ockhams Rasiermesser
 
-Informelle Logik
+### Informelle Logik
 
-Skepsis
+### Skepsis
 
-Wahrheit
+### Wahrheit
 
-Glaube
+### Glaube
 
 ## Quellen
 
@@ -109,6 +106,3 @@ Glaube
 - [_Critical Thinking_](https://plato.stanford.edu/entries/critical-thinking/#DefiCritThin), Stanford Encyclopedia of Philosophy
 - Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction), Santa Clara University 1990.
 - Peter A. Facione: [_Critical Thinking: What It Is and Why It Counts_](https://www.researchgate.net/publication/251303244_Critical_Thinking_What_It_Is_and_Why_It_Counts), 2015
-
-&nbsp;  
-&nbsp;  
