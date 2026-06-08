@@ -1,0 +1,8 @@
+{
+  "label": "Liste der bekanntesten formellen Fehlschlüsse",
+  "position": 7.1,
+  "link": {
+    "type": "generated-index",
+    "description": "Hier kommt eine Liste der bekanntesten formellen Fehlschlüsse. Diese Fehlschlüsse entstehen durch Fehler in der logischen Struktur eines Arguments, unabhängig von dessen Inhalt. Sie führen zu ungültigen Schlussfolgerungen, selbst wenn die Prämissen wahr sind. Diese Fehlschlüsse kann man in drei Gruppen einteilen: Logische Fehlschlüsse, Fehlschlüsse der Wahrscheinlichkeit und Fehlschlüsse in klassischen Syllogismen."
+  }
+}
