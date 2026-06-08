@@ -56,11 +56,11 @@ EN: _affirming a disjunct_
 
 <!-- Beschreibung Beispiel eins -->
 
-> 1. Lena ist Ärztin oder sie ist klug.
+> 1. Lena ist Ärztin oder Künstlerin.
 > 2. Lena ist Ärztin.
-> 3. Also ist Lena nicht klug.
+> 3. Also ist Lena nicht Künstlerin.
 
-Lena kann zugleich Ärztin _und_ klug sein. Die Wahrheit des einen Glieds schliesst das andere nicht aus.
+Lena kann zugleich Ärztin _und_ Künstlerin sein. Die Wahrheit des einen Glieds schliesst das andere nicht aus.
 
 ### Beispiel 2
 
@@ -70,7 +70,7 @@ Lena kann zugleich Ärztin _und_ klug sein. Die Wahrheit des einen Glieds schlie
 
 Solange nicht ausdrücklich „entweder … oder“ gemeint ist, kann es auch beides geben.  
 Der Schluss ist nicht gültig.  
-Wenn Sie die Gastgeberin freundlich fragen, dann gibt Sie Ihnen sicherlich Kuchen und Eis.
+Wenn Sie die Gastgeberin freundlich fragen, dann gibt Sie Ihnen sicherlich Kuchen _und_ Eis, und vieleicht sogar noch einen Kaffee.
 
 ## Quellen
 

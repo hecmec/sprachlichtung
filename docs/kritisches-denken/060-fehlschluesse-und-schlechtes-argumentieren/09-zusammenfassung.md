@@ -42,6 +42,7 @@ Das Verständnis von Fehlschlüssen ist ein wesentlicher Bestandteil des kritisc
 - [Wikipedia DE : Fehlschluss](https://de.wikipedia.org/wiki/Fehlschluss)
 - [The Internet Encyclopedia of Philosophy : Fallacy](https://iep.utm.edu/fallacy/)
 - [Wikipedia EN : Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+- [Introduction to Logic and Critical Thinking](https://justinfer.com/media/books/Van%20Cleave%20-%20Introduction%20to%20Critical%20Thinking%20v%202.0.pdf)
 - [School of Thought - Your Logical Fallacies](https://yourlogicalfallacyis.com/)
 - [Logical Fallacy](https://www.logical-fallacy.com/list-of-logical-fallacies/)
 - [YouTube Video](https://www.youtube.com/watch?v=pCg-SNOteQQ)
