@@ -82,11 +82,9 @@ GIT_USER=<Your GitHub username> yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch
 
-## Deployment on Railway
-
-https://github.com/rudemex/railway-docusaurus-v3
-
 ## Versioning
+
+not used
 
 ## Translation
 
@@ -101,6 +99,14 @@ yarn run start --locale en
 ### files
 
 **code.json**: defines all text labels used in the React code.
+
+<!-- ############################################################################# -->
+
+# Legacy
+
+## Deployment on Railway
+
+https://github.com/rudemex/railway-docusaurus-v3
 
 ## Online Editing with Decap CMS
 
@@ -131,7 +137,7 @@ backend:
   branch: main
 ```
 
-The `github` backend authenticates via a GitHub OAuth App, brokered through Netlify's hosted OAuth gateway (`https://api.netlify.com`, Decap's default `base_url`). The site itself stays on GitHub Pages — Netlify is used **only** as the OAuth provider, not for hosting. One-time setup steps (GitHub OAuth App + Netlify provider) are documented in [docs/_myDocs/decap-cms.md](docs/_myDocs/decap-cms.md).
+The `github` backend authenticates via a GitHub OAuth App, brokered through Netlify's hosted OAuth gateway (`https://api.netlify.com`, Decap's default `base_url`). The site itself stays on GitHub Pages — Netlify is used **only** as the OAuth provider, not for hosting. One-time setup steps (GitHub OAuth App + Netlify provider) are documented in [docs/\_myDocs/decap-cms.md](docs/_myDocs/decap-cms.md).
 
 ### Nested collections (subfolders)
 
@@ -150,12 +156,12 @@ Images dropped into the CMS land in [static/img/uploads/](static/img/uploads/) a
 
 Docusaurus stores the default-locale content under `docs/` and translations under `i18n/<locale>/docusaurus-plugin-content-docs/current/`. None of Decap's built-in `i18n.structure` values reproduce that exact split, so this site does **not** use Decap's i18n linking. Instead, each topic exposes two independent collections — one writing to the German tree, one writing to the English tree:
 
-| Collection | Folder |
-| --- | --- |
-| `kritisches-denken` (DE) | [docs/kritisches-denken/](docs/kritisches-denken/) |
+| Collection                  | Folder                                                                                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `kritisches-denken` (DE)    | [docs/kritisches-denken/](docs/kritisches-denken/)                                                                                     |
 | `kritisches-denken-en` (EN) | [i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/](i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/) |
-| `sprach-welten` (DE) | [docs/sprach-welten/](docs/sprach-welten/) |
-| `sprach-welten-en` (EN) | [i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/](i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/) |
+| `sprach-welten` (DE)        | [docs/sprach-welten/](docs/sprach-welten/)                                                                                             |
+| `sprach-welten-en` (EN)     | [i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/](i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/)         |
 
 Each entry exposes the standard Docusaurus frontmatter fields (`title`, `description`, `sidebar_position`, `tags`) plus a Markdown body editor. `create: true` lets editors add new pages from the UI.
 
@@ -173,9 +179,7 @@ Trade-off: editors don't get the side-by-side "view translation" UI; the German 
 - Files prefixed with `_` are excluded from the Docusaurus build but **are still visible** in the Decap UI — treat them as drafts.
 - Decap commits straight to `main`; there is no review/PR workflow configured. If that becomes necessary, set `publish_mode: editorial_workflow` in `config.yml`.
 
-## Theme component overrides
-
-### Notion sync (legacy)
+## Notion sync (legacy)
 
 Official Notion MCP: https://developers.notion.com/docs/mcp
 Getting started: https://developers.notion.com/docs/get-started-with-mcp
