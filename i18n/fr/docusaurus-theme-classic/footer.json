@@ -46,9 +46,5 @@
   "link.item.label.GitHub": {
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/hecmec/sprachlichtung"
-  },
-  "copyright": {
-    "message": "Copyright © 2025 SprachLichtung. Construit avec ❤️ et Docusaurus à Nantes, Berlin, Zürich avec l'aide de la communauté 🌏.",
-    "description": "The footer copyright"
   }
 }

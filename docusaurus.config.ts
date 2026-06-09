@@ -3,6 +3,7 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { version } from "./package.json";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
@@ -77,9 +78,8 @@ const config: Config = {
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
 
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/hecmec/sprachlichtung/blob/main",
+          editUrl: "https://github.com/hecmec/sprachlichtung/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -87,9 +87,8 @@ const config: Config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/hecmec/sprachlichtung/blob/main",
+          editUrl: "https://github.com/hecmec/sprachlichtung/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -192,7 +191,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung · v${version}. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.`,
     },
     prism: {
       theme: prismThemes.github,
