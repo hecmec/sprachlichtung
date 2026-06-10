@@ -15,7 +15,6 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
 
 <!-- # Zusammenfassung -->
@@ -35,3 +34,8 @@ In diesem Kapitel haben wir untersucht, was ein Argument zu einem guten Argument
 Die Fähigkeit, gute Argumente zu erkennen und zu konstruieren, ist eine Kernkompetenz des kritischen Denkens. Sie ermöglicht es uns, fundierte Entscheidungen zu treffen, uns vor Manipulation zu schützen und konstruktiv an Diskussionen teilzunehmen.
 
 In den folgenden Kapiteln werden wir weitere Aspekte des kritischen Denkens erkunden, darunter sprachliche Fallstricke, kognitive Verzerrungen und Fehlschlüsse, die gutes Argumentieren behindern können.
+
+## Quellen
+
+Reconstructing and Analyzing Arguments
+https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
