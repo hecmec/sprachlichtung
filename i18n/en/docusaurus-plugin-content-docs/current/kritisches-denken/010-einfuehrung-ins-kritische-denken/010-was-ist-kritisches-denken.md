@@ -31,14 +31,14 @@ Critical thinking is the answer to the question:
 :::
 
 <!--t src=f289db1e-->
-<details>
+<!-- <details>
   <summary>Here you can find more sources</summary>
 
 - Source 1
 - Source 2
 - Source 3
 
-</details>
+</details> -->
 
 <!--t src=80f89fa0-->
 Critical thinking is, on the one hand, the ability to think reflectively and independently, as well as to formulate thoughts clearly and rationally.

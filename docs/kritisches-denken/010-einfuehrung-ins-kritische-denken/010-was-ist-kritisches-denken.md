@@ -30,14 +30,14 @@ Kritisches Denken ist die Antwort auf die Frage:
 **Warum soll ich das glauben?**
 :::
 
-<details>
+<!-- <details>
   <summary>Hier kannst du mehr Quellen finden</summary>
 
 - Quelle 1
 - Quelle 2
 - Quelle 3
 
-</details>
+</details> -->
 
 Kritisches Denken ist einerseits die Fähigkeit, reflektiert und unabhängig zu denken sowie klar und rational Gedanken zu formulieren.
 Es ist ein aktiver und systematischer Prozess, der darauf abzielt, Informationen zu analysieren, zu bewerten und zu interpretieren.
