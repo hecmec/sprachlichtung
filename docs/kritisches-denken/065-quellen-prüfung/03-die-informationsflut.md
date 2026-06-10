@@ -2,7 +2,7 @@
 title: "Die Informationsflut und ihre Tücken"
 sidebar_position: 3
 sidebar_label: "Die Informationsflut"
-description: "Warum Quellenkritik heute unverzichtbar ist &mdash; Fehlinformation, Desinformation und Malinformation im Überblick"
+description: "Warum Quellenkritik heute unverzichtbar ist: Fehlinformation, Desinformation und Malinformation im Überblick"
 keywords:
   - Informationsflut
   - Desinformation
@@ -31,7 +31,7 @@ Nicht jede falsche Information ist eine Lüge, und nicht jede schädliche Inform
 
 Quelle: Wardle & Derakhshan, _Information Disorder_, Council of Europe 2017 ([PDF](https://rm.coe.int/information-disorder-report-version-august-2018/16808c9c77)).
 
-Der entscheidende Punkt: Der Unterschied zwischen **Fehl-** und **Desinformation** ist _nicht_ der Wahrheitsgehalt &mdash; beide sind falsch &mdash;, sondern die **Absicht**. Wer ein Gerücht arglos weitergibt, betreibt Fehlinformation; wer es erfindet und gezielt streut, Desinformation.
+Der entscheidende Punkt: Der Unterschied zwischen **Fehl-** und **Desinformation** ist _nicht_ der Wahrheitsgehalt (beide sind falsch), sondern die **Absicht**. Wer ein Gerücht arglos weitergibt, betreibt Fehlinformation; wer es erfindet und gezielt streut, Desinformation.
 
 :::info Merke
 **Fehlinformation = Irrtum. Desinformation = Täuschung. Malinformation = Wahrheit als Waffe.**
@@ -39,7 +39,7 @@ Der entscheidende Punkt: Der Unterschied zwischen **Fehl-** und **Desinformation
 
 ## Warum „Fake News“ ein schlechtes Wort ist
 
-Der populäre Begriff **„Fake News“** klingt griffig, taugt aber wenig. Wardle und Derakhshan vermeiden ihn bewusst und nennen ihn „woefully inadequate“ &mdash; hoffnungslos unzureichend, um die Vielfalt von „information pollution“ zu erfassen.
+Der populäre Begriff **„Fake News“** klingt griffig, taugt aber wenig. Wardle und Derakhshan vermeiden ihn bewusst und nennen ihn „woefully inadequate“, also hoffnungslos unzureichend, um die Vielfalt von „information pollution“ zu erfassen.
 
 Zwei Probleme:
 
@@ -63,4 +63,4 @@ Diese Mechanismen sind aus dem Kapitel über **kognitive Verzerrungen** bekannt.
 Die gefährlichste Falschmeldung ist die, die wir glauben _wollen_. Gerade bei Inhalten, die uns sofort zustimmen oder empören lassen, lohnt sich das Prüfen am meisten.
 :::
 
-Wie dieses Prüfen praktisch geht, zeigt die nächste Seite &mdash; mit der einfachsten und wirksamsten Methode, die es dafür gibt.
+Wie dieses Prüfen praktisch geht, zeigt die nächste Seite, mit der einfachsten und wirksamsten Methode, die es dafür gibt.

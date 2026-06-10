@@ -5,6 +5,10 @@ description: Wie Paradoxien unser Denken beeinflussen und warum sie wichtig für
 keywords: [Paradoxien, Kritisches Denken, Grenzen der Logik, formale Systeme, Vagheit, Erkenntnistheorie, Ethik]
 last_update:
   date: 2025-06-12
+  author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Paradoxien und ihre Bedeutung für das Denken -->

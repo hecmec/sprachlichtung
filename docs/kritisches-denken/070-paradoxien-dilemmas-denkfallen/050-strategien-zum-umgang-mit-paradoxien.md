@@ -5,6 +5,10 @@ description: Methoden und Ansätze zur Bewältigung und Auflösung von paradoxen
 keywords: [Paradoxien, Strategien, versteckte Annahmen, Sprachebenen, vage Begriffe, kontextuelle Analyse, theoretische Rahmen]
 last_update:
   date: 2025-06-12
+  author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Strategien zum Umgang mit Paradoxien -->

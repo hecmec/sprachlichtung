@@ -1,7 +1,7 @@
 ---
 title: "Einführung"
 sidebar_position: 1
-description: "Einführung in Medienkompetenz und Quellenkritik &mdash; warum wir im digitalen Informationszeitalter prüfen lernen müssen"
+description: "Einführung in Medienkompetenz und Quellenkritik: warum wir im digitalen Informationszeitalter prüfen lernen müssen"
 keywords:
   - Medienkompetenz
   - Quellenkritik
@@ -20,7 +20,7 @@ draft: false
 <!-- ## Einführung -->
 
 Noch nie war es so leicht, an Informationen zu kommen, und noch nie war es so schwer, die guten (verlässlichen) von den schlechten (falschen) zu trennen. Ein einziges Smartphone gibt uns Zugriff auf mehr Wissen, als in jeder Bibliothek der Geschichte stand.
-Der Strom der Informationen ist gewalting, und darin schwimmen nun auch mehr Gerüchte, Werbung als Nachricht getarnt, ehrliche Irrtümer, viele bezahlte Meinung und gezielte Lügen &mdash; heute zunehmend auch von Maschinen erzeugt.
+Der Strom der Informationen ist gewalting, und darin schwimmen nun auch mehr Gerüchte, Werbung als Nachricht getarnt, ehrliche Irrtümer, viele bezahlte Meinung und gezielte Lügen, heute zunehmend auch von Maschinen erzeugt.
 
 Wer kritisch denken will, kommt deshalb an einer Schlüsselfrage nicht vorbei:
 

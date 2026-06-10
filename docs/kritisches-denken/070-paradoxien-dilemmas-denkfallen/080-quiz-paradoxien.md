@@ -5,6 +5,10 @@ description: Ein Quiz zum Testen des Verständnisses über verschiedene Arten vo
 keywords: [Paradoxien, Quiz, Lügner-Paradoxon, Schiff des Theseus, Gefangenendilemma, Sorites-Paradoxon, Tarski]
 last_update:
   date: 2025-06-12
+  author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Quiz: Paradoxien -->
@@ -42,6 +46,7 @@ last_update:
    d) Präzisierung vager Begriffe
 
 **Antworten:**
+
 1. c) Lügner-Paradoxon
 2. b) Identitätsparadoxon
 3. b) Gefangenendilemma

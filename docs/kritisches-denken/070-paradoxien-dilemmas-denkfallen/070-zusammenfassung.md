@@ -5,6 +5,10 @@ description: Zusammenfassung der wichtigsten Erkenntnisse über Paradoxien und i
 keywords: [Paradoxien, Zusammenfassung, Arten von Paradoxien, Auswirkungen, Strategien, kritisches Denken]
 last_update:
   date: 2025-06-12
+  author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Zusammenfassung -->

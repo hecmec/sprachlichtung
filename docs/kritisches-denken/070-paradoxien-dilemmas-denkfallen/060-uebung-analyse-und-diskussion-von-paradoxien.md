@@ -5,6 +5,10 @@ description: Praktische Übungen zur Analyse verschiedener Paradoxien mit Lösun
 keywords: [Paradoxien, Übungen, Großvater-Paradoxon, Toleranzparadoxon, Allwissenheitsparadoxon, Sorites-Paradoxon, Bootstrap-Paradoxon]
 last_update:
   date: 2025-06-12
+  author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Übung: Analyse und Diskussion von Paradoxien -->

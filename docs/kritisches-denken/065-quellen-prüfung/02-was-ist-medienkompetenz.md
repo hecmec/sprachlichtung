@@ -21,20 +21,20 @@ draft: false
 
 **Medienkompetenz** ist mehr als "mit Geräten umgehen können". Sie umfasst vier Fähigkeiten, die zusammenspielen:
 
-1. **Zugang** &mdash; Medien und Informationen finden und technisch nutzen können.
-2. **Analyse & Bewertung** &mdash; Inhalte verstehen, einordnen und kritisch beurteilen: Wer sagt das? Mit welcher Absicht? Wie gut belegt?
-3. **Reflexion** &mdash; die Rolle der Medien in Gesellschaft und im eigenen Leben durchschauen (Geschäftsmodelle, Algorithmen, Wirkung auf Meinung und Gefühle).
-4. **Produktion & Teilhabe** &mdash; selbst verantwortungsvoll kommunizieren, also auch wissen, _was_ man teilt und _welche Folgen_ das hat.
+1. **Zugang**: Medien und Informationen finden und technisch nutzen können.
+2. **Analyse & Bewertung**: Inhalte verstehen, einordnen und kritisch beurteilen. Wer sagt das? Mit welcher Absicht? Wie gut belegt?
+3. **Reflexion**: die Rolle der Medien in Gesellschaft und im eigenen Leben durchschauen (Geschäftsmodelle, Algorithmen, Wirkung auf Meinung und Gefühle).
+4. **Produktion & Teilhabe**: selbst verantwortungsvoll kommunizieren, also auch wissen, _was_ man teilt und _welche Folgen_ das hat.
 
-Quellenkritik ist der Kern von Punkt 2 &mdash; aber sie wirkt nur, wenn die anderen drei dazukommen.
+Quellenkritik ist der Kern von Punkt 2, aber sie wirkt nur, wenn die anderen drei dazukommen.
 
 ## Informationskompetenz
 
-Eng verwandt ist die **Informationskompetenz**: die Fähigkeit, einen Informationsbedarf zu erkennen, gezielt zu recherchieren, das Gefundene zu bewerten und korrekt (mit Quellenangabe) weiterzuverwenden. Klassisch kommt sie aus der Bibliothekswelt und der Wissenschaft &mdash; heute brauchen sie alle.
+Eng verwandt ist die **Informationskompetenz**: die Fähigkeit, einen Informationsbedarf zu erkennen, gezielt zu recherchieren, das Gefundene zu bewerten und korrekt (mit Quellenangabe) weiterzuverwenden. Klassisch kommt sie aus der Bibliothekswelt und der Wissenschaft; heute brauchen sie alle.
 
 ## MIL: Medien- und Informationskompetenz
 
-Die UNESCO fasst beides unter einem Dach zusammen: **MIL &mdash; Media and Information Literacy** (Medien- und Informationskompetenz). Das Konzept wird unter anderem von UNESCO, Europäischer Kommission und Europarat verwendet, um zu betonen, dass Medien- und Informationsfähigkeiten zusammengehören.
+Die UNESCO fasst beides unter einem Dach zusammen: **MIL, Media and Information Literacy** (Medien- und Informationskompetenz). Das Konzept wird unter anderem von UNESCO, Europäischer Kommission und Europarat verwendet, um zu betonen, dass Medien- und Informationsfähigkeiten zusammengehören.
 
 Die UNESCO beschreibt MIL als Bündel von Kompetenzen, das den Herausforderungen des 21. Jahrhunderts begegnet:
 
@@ -42,7 +42,7 @@ Die UNESCO beschreibt MIL als Bündel von Kompetenzen, das den Herausforderungen
 >
 > — UNESCO, _Media and Information Literacy_ ([unesco.org](https://www.unesco.org/en/media-information-literacy))
 
-Auf Deutsch sinngemäß: MIL liefert die grundlegenden Fähigkeiten, um den Herausforderungen unserer Zeit zu begegnen &mdash; der Ausbreitung von Fehl- und Desinformation und Hassrede, dem schwindenden Vertrauen in Medien und neuen Technologien wie der Künstlichen Intelligenz.
+Auf Deutsch sinngemäß: MIL liefert die grundlegenden Fähigkeiten, um den Herausforderungen unserer Zeit zu begegnen: der Ausbreitung von Fehl- und Desinformation und Hassrede, dem schwindenden Vertrauen in Medien und neuen Technologien wie der Künstlichen Intelligenz.
 
 :::tip Kurz
 **MIL** verbindet Medienkompetenz und Informationskompetenz: Inhalte finden, kritisch bewerten, verantwortungsvoll nutzen und erstellen.
@@ -52,8 +52,8 @@ Auf Deutsch sinngemäß: MIL liefert die grundlegenden Fähigkeiten, um den Hera
 
 Drei Entwicklungen machen MIL heute besonders dringlich:
 
-- **Jeder ist Sender.** Früher entschieden Verlage und Medien, was veröffentlicht wurde. Heute kann jeder publizieren &mdash; ohne Redaktion, ohne Faktencheck.
+- **Jeder ist Sender.** Früher entschieden Verlage und Medien, was veröffentlicht wurde. Heute kann jeder publizieren, ohne Redaktion, ohne Faktencheck.
 - **Maschinen schreiben mit.** Künstliche Intelligenz erzeugt Texte, Bilder, Stimmen und Videos, die echt wirken. Die alte Faustregel "Bilder lügen nicht" gilt nicht mehr.
-- **Aufmerksamkeit ist Geld.** Plattformen verdienen an unserer Verweildauer. Inhalte, die uns lange fesseln, werden bevorzugt &mdash; nicht unbedingt die wahren (mehr dazu im Kapitel über [Algorithmen](07-soziale-medien-algorithmen.md)).
+- **Aufmerksamkeit ist Geld.** Plattformen verdienen an unserer Verweildauer. Inhalte, die uns lange fesseln, werden bevorzugt, nicht unbedingt die wahren (mehr dazu im Kapitel über [Algorithmen](07-soziale-medien-algorithmen.md)).
 
 Medienkompetenz ist damit keine Spezialdisziplin für Journalisten mehr, sondern eine **Alltagskompetenz** wie Lesen und Rechnen.

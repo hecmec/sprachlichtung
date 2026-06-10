@@ -13,6 +13,9 @@ keywords:
 last_update:
   date: 2025-05-10
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Einführung -->

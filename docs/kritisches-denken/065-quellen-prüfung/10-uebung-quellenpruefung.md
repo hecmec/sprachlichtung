@@ -2,7 +2,7 @@
 title: "Übung: Quellen prüfen in der Praxis"
 sidebar_position: 10
 sidebar_label: "Übung: Quellen prüfen"
-description: "Praktische Übungen zur Quellenkritik mit Lösungen &mdash; SIFT anwenden, Warnsignale erkennen, Behauptungen einordnen"
+description: "Praktische Übungen zur Quellenkritik mit Lösungen: SIFT anwenden, Warnsignale erkennen, Behauptungen einordnen"
 keywords:
   - Übung
   - Quellenkritik
@@ -55,21 +55,21 @@ Klassifizieren Sie als **Fehlinformation**, **Desinformation** oder **Malinforma
 
 ### Teil A
 
-1. **I &mdash; Investigate the source.** Den Ruf der Quelle über andere Quellen prüfen ist laterales Lesen.
-2. **S &mdash; Stop.** Innehalten statt reflexhaft reagieren.
-3. **F &mdash; Find better coverage.** Nach unabhängiger Bestätigung suchen.
-4. **T &mdash; Trace.** Die Behauptung zur Originalquelle zurückverfolgen.
+1. **I, Investigate the source.** Den Ruf der Quelle über andere Quellen prüfen ist laterales Lesen.
+2. **S, Stop.** Innehalten statt reflexhaft reagieren.
+3. **F, Find better coverage.** Nach unabhängiger Bestätigung suchen.
+4. **T, Trace.** Die Behauptung zur Originalquelle zurückverfolgen.
 
 ### Teil B
 
 Warnsignale:
 
-- **Kein Autor, kein Impressum** &mdash; Verantwortung wird verschleiert.
-- **Reißerische Sprache** in Großbuchstaben („SENSATION“, „HASSEN“) &mdash; appelliert an Emotion statt an Verstand.
-- **Verschwörungston** („die Pharmaindustrie will nicht …“) &mdash; immunisiert gegen Gegenargumente.
-- **Kein Datum** &mdash; Aktualität nicht prüfbar.
-- **Keine Quellenangaben** &mdash; Behauptung ohne Beleg.
-- **Verkaufsabsicht** am Seitenende &mdash; die Nutzenfrage _Cui bono_ ist sofort beantwortet: Hier soll etwas verkauft werden.
+- **Kein Autor, kein Impressum**: Verantwortung wird verschleiert.
+- **Reißerische Sprache** in Großbuchstaben („SENSATION“, „HASSEN“): appelliert an Emotion statt an Verstand.
+- **Verschwörungston** („die Pharmaindustrie will nicht …“): immunisiert gegen Gegenargumente.
+- **Kein Datum**: Aktualität nicht prüfbar.
+- **Keine Quellenangaben**: Behauptung ohne Beleg.
+- **Verkaufsabsicht** am Seitenende: die Nutzenfrage _Cui bono_ ist sofort beantwortet: Hier soll etwas verkauft werden.
 
 Fazit: praktisch jedes Kriterium aus dem Kapitel [Quellen bewerten](05-quellen-bewerten.md) schlägt Alarm.
 
@@ -78,16 +78,16 @@ Fazit: praktisch jedes Kriterium aus dem Kapitel [Quellen bewerten](05-quellen-b
 Ein guter Weg:
 
 - **Stopp:** Nicht sofort teilen, obwohl es dramatisch ist.
-- **Investigate:** Wer hat das gepostet &mdash; ein lokales Medium oder ein anonymes Konto?
+- **Investigate:** Wer hat das gepostet, ein lokales Medium oder ein anonymes Konto?
 - **Find:** Berichten lokale Zeitungen, Behörden oder der Rundfunk über ein Hochwasser heute hier? Wenn nicht, ist Skepsis angebracht.
-- **Trace:** Rückwärts-Bildersuche &mdash; stammt das Foto vielleicht von einem anderen Ort oder von vor Jahren? (Sehr häufig bei Katastrophenbildern.)
+- **Trace:** Rückwärts-Bildersuche: Stammt das Foto vielleicht von einem anderen Ort oder von vor Jahren? (Sehr häufig bei Katastrophenbildern.)
 
 ### Teil D
 
-1. **Fehlinformation** &mdash; falsch, aber ohne Schädigungsabsicht (arglos geteilt).
-2. **Desinformation** &mdash; falsch und mit Absicht zu schaden.
-3. **Malinformation** &mdash; wahr, aber gezielt zur Schädigung eingesetzt.
+1. **Fehlinformation**: falsch, aber ohne Schädigungsabsicht (arglos geteilt).
+2. **Desinformation**: falsch und mit Absicht zu schaden.
+3. **Malinformation**: wahr, aber gezielt zur Schädigung eingesetzt.
 
 :::tip Geschafft?
-Wenn Sie bei Teil C automatisch an die Rückwärts-Bildersuche gedacht haben, sind Sie schon auf dem Niveau geübter Faktenprüfer. Genau dieser Reflex &mdash; _zum Original zurück_ &mdash; unterscheidet sie von Laien.
+Wenn Sie bei Teil C automatisch an die Rückwärts-Bildersuche gedacht haben, sind Sie schon auf dem Niveau geübter Faktenprüfer. Genau dieser Reflex, _zum Original zurück_, unterscheidet sie von Laien.
 :::

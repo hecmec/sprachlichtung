@@ -13,6 +13,9 @@ keywords:
 last_update:
   date: 2026-06-10
   author: Immanuel Lupinus
+
+completeness: 3/5
+draft: false
 ---
 
 <!-- ## Quiz: Medienkompetenz & Quellenkritik -->
@@ -58,12 +61,12 @@ d) Filterblase und Echokammer sind dasselbe
 
 a) „Wie alt ist die Quelle?“
 b) „Wie viele Likes hat der Beitrag?“
-c) „Cui bono &mdash; wem nützt diese Information?“
+c) „Cui bono: wem nützt diese Information?“
 d) „Sieht die Webseite professionell aus?“
 
 ### 7. **Wie sollte man Wikipedia laut diesem Kapitel nutzen?**
 
-a) Gar nicht &mdash; sie ist unzuverlässig
+a) Gar nicht, sie ist unzuverlässig
 b) Als alleinige Quelle, die man direkt zitiert
 c) Als Startpunkt, und dann den Einzelnachweisen zu den Primärquellen folgen
 d) Nur die Diskussionsseite lesen
@@ -98,7 +101,7 @@ d) An einem auffälligen Logo
 3. c) Fehlinformation
 4. b) Engagement (Verweildauer, Klicks, Reaktionen)
 5. b) Sie ist empirisch erstaunlich schwach belegt; Algorithmen führen eher zu mehr Vielfalt
-6. c) „Cui bono &mdash; wem nützt diese Information?“
+6. c) „Cui bono: wem nützt diese Information?“
 7. c) Als Startpunkt, und dann den Einzelnachweisen zu den Primärquellen folgen
 8. b) Ein erfahrener Nutzer hat die Version auf offensichtlichen Vandalismus geprüft
 9. c) Eine Bilder-Rückwärtssuche

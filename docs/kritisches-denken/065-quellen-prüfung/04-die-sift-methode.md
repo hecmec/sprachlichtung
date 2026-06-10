@@ -1,7 +1,7 @@
 ---
 title: "Die SIFT-Methode"
 sidebar_position: 4
-description: "SIFT &mdash; vier einfache Handgriffe zum schnellen Prüfen von Quellen, plus laterales Lesen und Click Restraint"
+description: "SIFT: vier einfache Handgriffe zum schnellen Prüfen von Quellen, plus laterales Lesen und Click Restraint"
 keywords:
   - SIFT
   - Mike Caulfield
@@ -26,7 +26,7 @@ Wenn Sie aus diesem Kapitel nur eine Sache mitnehmen, dann diese: die **SIFT-Met
 >
 > — Mike Caulfield, _SIFT (The Four Moves)_ ([hapgood.us](https://hapgood.us/2019/06/19/sift-the-four-moves/))
 
-## S &mdash; Stop (Innehalten)
+## S: Stop (Innehalten)
 
 Bevor Sie lesen, glauben oder teilen: **kurz anhalten.** Zwei Fragen genügen:
 
@@ -35,17 +35,17 @@ Bevor Sie lesen, glauben oder teilen: **kurz anhalten.** Zwei Fragen genügen:
 
 Stopp heißt auch: nicht im Reflex teilen. Wenn ein Beitrag Sie stark aufwühlt, ist das gerade das Signal zum Innehalten, nicht zum Klicken.
 
-## I &mdash; Investigate the source (Die Quelle untersuchen)
+## I: Investigate the source (Die Quelle untersuchen)
 
-Finden Sie heraus, **wer hinter der Information steckt**, _bevor_ Sie den Inhalt verinnerlichen. Sie müssen keine Doktorarbeit schreiben &mdash; es reicht zu wissen, ob die Quelle ein seriöses Fachmedium, ein Lobbyverband, ein Satireportal oder ein anonymer Blog ist.
+Finden Sie heraus, **wer hinter der Information steckt**, _bevor_ Sie den Inhalt verinnerlichen. Sie müssen keine Doktorarbeit schreiben: es reicht zu wissen, ob die Quelle ein seriöses Fachmedium, ein Lobbyverband, ein Satireportal oder ein anonymer Blog ist.
 
 Der Trick dazu heißt **laterales Lesen**.
 
-## F &mdash; Find better coverage (Bessere Berichterstattung suchen)
+## F: Find better coverage (Bessere Berichterstattung suchen)
 
 Oft interessiert uns gar nicht die konkrete Seite, sondern ob die **Behauptung** stimmt. Dann gilt: die Ausgangsquelle ruhig beiseitelegen und schauen, was **andere, vertrauenswürdige Quellen** zum Thema sagen. Berichten mehrere unabhängige, seriöse Quellen dasselbe? Oder findet sich die Behauptung nur in einer einzigen, zweifelhaften Ecke des Internets?
 
-## T &mdash; Trace (Zum Original zurückverfolgen)
+## T: Trace (Zum Original zurückverfolgen)
 
 Behauptungen, Zitate, Bilder und Videos sind im Netz oft aus dem Zusammenhang gerissen. Verfolgen Sie sie **zurück zur Originalquelle**: Wurde das Zitat wirklich so gesagt? Stammt das Foto wirklich von diesem Ereignis? Steht die Studie wirklich für das, was jemand aus ihr macht?
 
@@ -65,7 +65,7 @@ Das klingt banal, ist aber der entscheidende Unterschied zwischen Profis und Lai
 Quelle: Wineburg & McGrew, _Lateral Reading and the Nature of Expertise_, Teachers College Record 2019 ([Link](https://journals.sagepub.com/doi/10.1177/016146811912101102)).
 
 :::info Beispiel
-Sie stoßen auf die Seite „Institut für Klima-Wahrheit e.V.“ mit seriösem Logo. **Vertikal:** Sie lesen das schöne „Über uns“ und sind beeindruckt. **Lateral:** Sie öffnen einen Tab, suchen den Namen + „Kritik“ oder „Finanzierung“ und lesen den Wikipedia-Eintrag &mdash; und erfahren, dass der Verein von der Fossilenergie-Branche finanziert wird. Erst jetzt können Sie die Inhalte einordnen.
+Sie stoßen auf die Seite „Institut für Klima-Wahrheit e.V.“ mit seriösem Logo. **Vertikal:** Sie lesen das schöne „Über uns“ und sind beeindruckt. **Lateral:** Sie öffnen einen Tab, suchen den Namen + „Kritik“ oder „Finanzierung“ und lesen den Wikipedia-Eintrag, und erfahren, dass der Verein von der Fossilenergie-Branche finanziert wird. Erst jetzt können Sie die Inhalte einordnen.
 :::
 
 ## Bonus: Click Restraint
