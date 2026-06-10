@@ -63,5 +63,5 @@ Heißt das, Algorithmen seien harmlos? Nein. Die Sorge verschiebt sich nur vom r
 
 - **Den Feed nicht mit der Welt verwechseln.** Was Sie sehen, ist eine algorithmische Auswahl, kein repräsentativer Querschnitt.
 - **Bewusst ausbrechen.** Gezielt seriöse Quellen direkt ansteuern, statt nur auf den Feed zu warten. Verschiedene Quellen aktiv aufsuchen.
-- **Beim Aufwühlen innehalten.** Starke Emotion ist im Feed oft ein Zeichen dafür, dass ein Inhalt auf Reichweite optimiert wurde, also Zeit für [SIFT](04-die-sift-methode.md).
+- **Beim Aufwühlen innehalten.** Starke Emotion ist im Feed oft ein Zeichen dafür, dass ein Inhalt auf Reichweite optimiert wurde, also Zeit für [SIFT](040-die-sift-methode.md).
 - **Teilen ist Verbreiten.** Jeder Klick auf „Teilen“ ist eine Stimme für den Algorithmus. Erst prüfen, dann teilen.

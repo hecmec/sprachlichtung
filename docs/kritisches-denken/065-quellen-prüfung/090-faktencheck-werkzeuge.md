@@ -60,7 +60,7 @@ Wer selbst strukturiert vorgehen will, kann sich am **EUfactcheck-Flowchart** or
 2. **Autor/Quelle analysieren**: Wer behauptet es? Mit welcher Glaubwürdigkeit, Expertise und welchem möglichen Motiv?
 3. **Faktencheck**: Belege recherchieren und die Richtigkeit bestimmen.
 
-Das ist im Kern dieselbe Logik wie [SIFT](04-die-sift-methode.md), nur ausführlicher.
+Das ist im Kern dieselbe Logik wie [SIFT](040-die-sift-methode.md), nur ausführlicher.
 
 ## Werkzeuge zur Bild- und Videoprüfung
 

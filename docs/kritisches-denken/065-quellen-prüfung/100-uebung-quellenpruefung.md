@@ -71,7 +71,7 @@ Warnsignale:
 - **Keine Quellenangaben**: Behauptung ohne Beleg.
 - **Verkaufsabsicht** am Seitenende: die Nutzenfrage _Cui bono_ ist sofort beantwortet: Hier soll etwas verkauft werden.
 
-Fazit: praktisch jedes Kriterium aus dem Kapitel [Quellen bewerten](05-quellen-bewerten.md) schlägt Alarm.
+Fazit: praktisch jedes Kriterium aus dem Kapitel [Quellen bewerten](050-quellen-bewerten.md) schlägt Alarm.
 
 ### Teil C
 

@@ -54,6 +54,6 @@ Drei Entwicklungen machen MIL heute besonders dringlich:
 
 - **Jeder ist Sender.** Früher entschieden Verlage und Medien, was veröffentlicht wurde. Heute kann jeder publizieren, ohne Redaktion, ohne Faktencheck.
 - **Maschinen schreiben mit.** Künstliche Intelligenz erzeugt Texte, Bilder, Stimmen und Videos, die echt wirken. Die alte Faustregel "Bilder lügen nicht" gilt nicht mehr.
-- **Aufmerksamkeit ist Geld.** Plattformen verdienen an unserer Verweildauer. Inhalte, die uns lange fesseln, werden bevorzugt, nicht unbedingt die wahren (mehr dazu im Kapitel über [Algorithmen](07-soziale-medien-algorithmen.md)).
+- **Aufmerksamkeit ist Geld.** Plattformen verdienen an unserer Verweildauer. Inhalte, die uns lange fesseln, werden bevorzugt, nicht unbedingt die wahren (mehr dazu im Kapitel über [Algorithmen](070-soziale-medien-algorithmen.md)).
 
 Medienkompetenz ist damit keine Spezialdisziplin für Journalisten mehr, sondern eine **Alltagskompetenz** wie Lesen und Rechnen.

@@ -28,7 +28,7 @@ Quellenkritik beginnt nicht erst beim Bewerten, sondern beim **Suchen**. Wer sch
 - **Präzise Begriffe wählen.** Statt „ist Kaffee schädlich“ lieber „Kaffee Herzgesundheit Studie Übersichtsarbeit“. Fachbegriffe führen zu Fachquellen.
 - **Mehrere Suchbegriffe und Synonyme** ausprobieren, auch auf Englisch, denn die größten Wissensbestände sind englischsprachig.
 - **Operatoren nutzen:** Anführungszeichen für exakte Wendungen (`"künstliche Verknappung"`), `site:` für eine bestimmte Seite (`site:bundestag.de`), Minus zum Ausschließen (`Jaguar -auto`).
-- **Click Restraint** anwenden: erst die Trefferliste lesen, dann gezielt klicken (siehe [SIFT-Seite](04-die-sift-methode.md)).
+- **Click Restraint** anwenden: erst die Trefferliste lesen, dann gezielt klicken (siehe [SIFT-Seite](040-die-sift-methode.md)).
 - **Über den ersten Tab hinaus.** Die wenigsten guten Recherchen enden auf Seite eins der Ergebnisse.
 
 :::warning Achtung

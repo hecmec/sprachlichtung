@@ -21,7 +21,7 @@ draft: false
 
 <!-- ## Desinformation, Fake News und KI-Fälschungen -->
 
-Auf der [Seite zur Informationsflut](03-die-informationsflut.md) haben wir Fehl-, Des- und Malinformation unterschieden. Hier schauen wir genauer auf die _gezielte_ Variante, und auf eine neue Spielart, die alles schwieriger macht: von Maschinen erzeugte Inhalte.
+Auf der [Seite zur Informationsflut](030-die-informationsflut.md) haben wir Fehl-, Des- und Malinformation unterschieden. Hier schauen wir genauer auf die _gezielte_ Variante, und auf eine neue Spielart, die alles schwieriger macht: von Maschinen erzeugte Inhalte.
 
 ## Gezielte Desinformation
 
@@ -54,7 +54,7 @@ Es gibt keine 100-%-Methode, aber verräterische Anzeichen:
 - **Details, die nicht stimmen:** Hände mit zu vielen Fingern, unlesbare Schrift auf Schildern, verzerrte Hintergründe, „schwebende“ oder ineinander übergehende Objekte.
 - **Fehlende Bestätigung:** Ein dramatisches Ereignis, über das _nur_ dieses eine Bild existiert und keine seriöse Quelle berichtet, ist verdächtig.
 - **Quelle prüfen:** Wer hat es zuerst gepostet? Ein echtes oder ein nachgeahmtes Konto?
-- **Kontext prüfen:** Rückwärts-Bildersuche zeigt oft, dass ein Bild alt ist oder von woanders stammt (siehe [Werkzeuge](09-faktencheck-werkzeuge.md)).
+- **Kontext prüfen:** Rückwärts-Bildersuche zeigt oft, dass ein Bild alt ist oder von woanders stammt (siehe [Werkzeuge](090-faktencheck-werkzeuge.md)).
 
 ## Eine Prüf-Routine für virale Behauptungen
 
