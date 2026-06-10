@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -56,7 +55,7 @@ Slogans verbreiten sich viral; "jeder" scheint dafür — differenzierte Argumen
 
 ### Hamsterkäufe
 
-Leere Regale erzeugen den Eindruck: "Alle kaufen das – ich muss auch." So verstärkt sich das Verhalten selbst.
+Leere Regale erzeugen den Eindruck: "Alle kaufen das &mdash; ich muss auch." So verstärkt sich das Verhalten selbst.
 
 ### Modetrends
 

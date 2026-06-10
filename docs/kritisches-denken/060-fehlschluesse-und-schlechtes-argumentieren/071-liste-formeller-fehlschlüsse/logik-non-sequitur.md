@@ -38,7 +38,7 @@ Der Fehlschluss hat die folgende Form:
 1. Prämisse P (und ggf. weitere).
 2. Also Konklusion K.
 
-…wobei K aus P logisch nicht ableitbar ist. Die Wahrheit der Prämissen ist dabei unerheblich: Auch aus wahren Prämissen kann ein Non sequitur eine (zufällig) wahre oder eine falsche Konklusion „ableiten“ – gültig ist der Schluss in keinem Fall.
+…wobei K aus P logisch nicht ableitbar ist. Die Wahrheit der Prämissen ist dabei unerheblich: Auch aus wahren Prämissen kann ein Non sequitur eine (zufällig) wahre oder eine falsche Konklusion „ableiten“ &mdash; gültig ist der Schluss in keinem Fall.
 
 EN: _non sequitur_
 
@@ -46,10 +46,10 @@ EN: _non sequitur_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bestätigung der Konsequenz** – Spezialfall des Non sequitur beim Konditional.
-- **Verneinung des Antezedens** – ebenfalls ein benannter Spezialfall.
-- **Argumentum ad Logicam** – Sonderform: Aus „das Argument ist fehlerhaft“ folgt nicht „die Behauptung ist falsch“.
-- **Ignoratio elenchi (Thema verfehlt)** – die Konklusion ist zwar begründet, aber nicht die, um die es eigentlich geht.
+- **Bestätigung der Konsequenz** &mdash; Spezialfall des Non sequitur beim Konditional.
+- **Verneinung des Antezedens** &mdash; ebenfalls ein benannter Spezialfall.
+- **Argumentum ad Logicam** &mdash; Sonderform: Aus „das Argument ist fehlerhaft“ folgt nicht „die Behauptung ist falsch“.
+- **Ignoratio elenchi (Thema verfehlt)** &mdash; die Konklusion ist zwar begründet, aber nicht die, um die es eigentlich geht.
 
 ## Beispiele
 

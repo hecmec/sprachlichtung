@@ -42,7 +42,7 @@ Das Sprachspiel des Lügens zeigt sich in vielfältigen Erscheinungsformen:
 
 ## Worauf es abzielt
 
-Das Sprachspiel des Lügens zielt auf verschiedene Wirkungen ab, die über die bloße Täuschung hinausgehen. Primär dient es oft dem Schutz – sei es dem Schutz des eigenen Selbstbilds, der eigenen Interessen, der eigenen Privatsphäre oder dem Schutz anderer vor verletzenden Wahrheiten. Es kann der Vermeidung von Konflikten, dem Aufrechthalten sozialer Harmonie, der Erlangung von Vorteilen oder der Manipulation sozialer Beziehungen dienen. Im komplexeren Sinne kann das Lügen auch darauf abzielen, gesellschaftliche Normen zu umgehen, die als einengend empfunden werden, oder sogar als kreatives Element, um alternative Realitäten zu erschaffen oder Möglichkeitsräume zu erkunden.
+Das Sprachspiel des Lügens zielt auf verschiedene Wirkungen ab, die über die bloße Täuschung hinausgehen. Primär dient es oft dem Schutz &mdash; sei es dem Schutz des eigenen Selbstbilds, der eigenen Interessen, der eigenen Privatsphäre oder dem Schutz anderer vor verletzenden Wahrheiten. Es kann der Vermeidung von Konflikten, dem Aufrechthalten sozialer Harmonie, der Erlangung von Vorteilen oder der Manipulation sozialer Beziehungen dienen. Im komplexeren Sinne kann das Lügen auch darauf abzielen, gesellschaftliche Normen zu umgehen, die als einengend empfunden werden, oder sogar als kreatives Element, um alternative Realitäten zu erschaffen oder Möglichkeitsräume zu erkunden.
 
 ## Erfolgskriterien
 
@@ -109,7 +109,7 @@ Die Fähigkeit zur Lüge ist paradoxerweise eine zentrale Voraussetzung für soz
 
 ### Historische Fälle
 
-**Die Dreyfus-Affäre** (1894–1906): der Lehrbuchfall schlechthin. Hauptmann Alfred Dreyfus wird auf Basis gefälschter Dokumente (u. a. der Fälschungen von Major Henry) wegen Landesverrats verurteilt; Armee und Staat decken den Justizirrtum jahrelang. Émile Zolas "J'accuse…!" (1898 in L'Aurore) ist das Urmodell des Intellektuellen, der gegen die Staatslüge schreibt — ideal für eine Seite über Sprache und Wahrheitsanspruch.
+**Die Dreyfus-Affäre** (1894&mdash;1906): der Lehrbuchfall schlechthin. Hauptmann Alfred Dreyfus wird auf Basis gefälschter Dokumente (u. a. der Fälschungen von Major Henry) wegen Landesverrats verurteilt; Armee und Staat decken den Justizirrtum jahrelang. Émile Zolas "J'accuse…!" (1898 in L'Aurore) ist das Urmodell des Intellektuellen, der gegen die Staatslüge schreibt — ideal für eine Seite über Sprache und Wahrheitsanspruch.
 
 **Dolchstoßlegende** (nach 1918): Die Behauptung, das deutsche Heer sei im Feld "unbesiegt" und von der Heimat "erdolcht" worden, eine Geschichtsfälschung mit verheerender Wirkung.
 
@@ -124,11 +124,11 @@ Das Regime von Adolf Hitler verbreitete systematisch antisemitische Verschwörun
 
 **Holodomor-Leugnung**: Stalins Hungersnot in der Ukraine, vom NYT-Korrespondenten Walter Duranty beschönigend "weggeschrieben" (Pulitzer-Preis, bis heute umstritten).
 
-**Folter im Algerienkrieg** (1954–62): Frankreich leugnete lange die systematische Folter. Henri Allegs La Question (1958) und der Fall Maurice Audin widerlegten das; Amnesty International dokumentierte; Macron gestand die Verantwortung erst 2018 ein.
+**Folter im Algerienkrieg** (1954&mdash;62): Frankreich leugnete lange die systematische Folter. Henri Allegs La Question (1958) und der Fall Maurice Audin widerlegten das; Amnesty International dokumentierte; Macron gestand die Verantwortung erst 2018 ein.
 
 **Tonkin-Zwischenfall** (1964): Der angebliche zweite nordvietnamesische Angriff, der die Eskalation in Vietnam legitimierte, fand so nicht statt; durch die Pentagon Papers (1971) entlarvt.
 
-**GAL** (1983–87): staatlich gedeckte Todesschwadrone gegen die ETA unter der Regierung González; der Staat leugnete die Verstrickung, bis der Skandal aufflog. Klassischer Fall staatlicher Lüge in einer Demokratie.
+**GAL** (1983&mdash;87): staatlich gedeckte Todesschwadrone gegen die ETA unter der Regierung González; der Staat leugnete die Verstrickung, bis der Skandal aufflog. Klassischer Fall staatlicher Lüge in einer Demokratie.
 
 **Affäre Rainbow Warrior** (1985): der französische Geheimdienst versenkte das Greenpeace-Schiff in Neuseeland (ein Toter); Paris leugnete jede Beteiligung, bis der Staatsterror aufflog. Schöner moderner Fall einer entlarvten Regierungslüge.
 

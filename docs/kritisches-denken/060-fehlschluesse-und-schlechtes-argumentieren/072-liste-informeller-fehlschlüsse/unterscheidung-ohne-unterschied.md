@@ -27,7 +27,7 @@ _Andere Worte, dieselbe Sache._
 
 ## Definition
 
-Die **Unterscheidung ohne Unterschied** (*distinction without a difference*) behauptet einen Unterschied zwischen zwei Dingen, die sich nur in der **Formulierung**, nicht aber in der **Sache** unterscheiden. Die Umformulierung soll einen Vorwurf entkräften oder eine Position retten, obwohl sich inhaltlich nichts ändert.
+Die **Unterscheidung ohne Unterschied** (_distinction without a difference_) behauptet einen Unterschied zwischen zwei Dingen, die sich nur in der **Formulierung**, nicht aber in der **Sache** unterscheiden. Die Umformulierung soll einen Vorwurf entkräften oder eine Position retten, obwohl sich inhaltlich nichts ändert.
 
 Der Fehler: Zwei Beschreibungen desselben Sachverhalts werden so dargestellt, als bezeichneten sie verschiedene Dinge. Der „Unterschied“ ist rein verbal.
 
@@ -43,9 +43,9 @@ EN: _distinction without a difference_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Kein wahrer Schotte** – verwandt: nachträgliche Umdefinition zur Rettung einer Behauptung.
-- **Äquivokation** – verwandt: Spiel mit Wortbedeutungen.
-- **Forderung nach einem Privileg** – verwandt, wenn der scheinbare Unterschied eine Ausnahme begründen soll.
+- **Kein wahrer Schotte** &mdash; verwandt: nachträgliche Umdefinition zur Rettung einer Behauptung.
+- **Äquivokation** &mdash; verwandt: Spiel mit Wortbedeutungen.
+- **Forderung nach einem Privileg** &mdash; verwandt, wenn der scheinbare Unterschied eine Ausnahme begründen soll.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _distinction without a difference_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Ich bin doch kein Rassist – ich mag bloss bestimmte Gruppen von Menschen nicht.“
+> „Ich bin doch kein Rassist &mdash; ich mag bloss bestimmte Gruppen von Menschen nicht.“
 
 „Bestimmte Gruppen nicht mögen“ ist genau das, was hier mit Rassismus gemeint ist. Die Umformulierung benennt keinen echten Unterschied.
 

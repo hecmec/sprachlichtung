@@ -20,16 +20,16 @@ draft: false
 ---
 
 :::tip Kurz
-Eine kühne These wird vertreten, bei Gegenwehr aber auf eine harmlose zurückgezogen – und später wieder vorgebracht.
+Eine kühne These wird vertreten, bei Gegenwehr aber auf eine harmlose zurückgezogen &mdash; und später wieder vorgebracht.
 
 _Vorpreschen, sich in den Turm zurückziehen, erneut vorpreschen._
 :::
 
 ## Definition
 
-Der **Turm-und-Wall-Fehler** (*motte and bailey*) verbindet zwei unterschiedlich starke Thesen: eine **umstrittene, weitreichende** These (der „Wall“, *bailey*) und eine **bescheidene, kaum bestreitbare** These (der „Turm“, *motte*). Wird die starke These angegriffen, zieht man sich auf die schwache zurück („das habe ich doch nur gemeint“); ist die Gefahr vorbei, vertritt man wieder die starke.
+Der **Turm-und-Wall-Fehler** (_motte and bailey_) verbindet zwei unterschiedlich starke Thesen: eine **umstrittene, weitreichende** These (der „Wall“, _bailey_) und eine **bescheidene, kaum bestreitbare** These (der „Turm“, _motte_). Wird die starke These angegriffen, zieht man sich auf die schwache zurück („das habe ich doch nur gemeint“); ist die Gefahr vorbei, vertritt man wieder die starke.
 
-Der Name stammt von einer mittelalterlichen Burgform: Der bewohnte, aber schwer zu verteidigende Hof (*bailey*) wird im Angriff zugunsten des leicht zu haltenden Turmhügels (*motte*) geräumt.
+Der Name stammt von einer mittelalterlichen Burgform: Der bewohnte, aber schwer zu verteidigende Hof (_bailey_) wird im Angriff zugunsten des leicht zu haltenden Turmhügels (_motte_) geräumt.
 
 Der Fehler: Die leicht verteidigbare These wird benutzt, um die ganz andere, umstrittene These zu retten. Beide werden unzulässig als dasselbe behandelt.
 
@@ -45,9 +45,9 @@ EN: _motte-and-bailey fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Äquivokation** – verwandt: zwei Bedeutungen werden gleichgesetzt; hier zwei Thesen.
-- **Strohmann** – gewissermassen das Spiegelbild: dort verzerrt man die *fremde* Position, hier verschiebt man die *eigene*.
-- **Unterscheidung ohne Unterschied** – verwandtes Spiel mit Bedeutungsverschiebung.
+- **Äquivokation** &mdash; verwandt: zwei Bedeutungen werden gleichgesetzt; hier zwei Thesen.
+- **Strohmann** &mdash; gewissermassen das Spiegelbild: dort verzerrt man die _fremde_ Position, hier verschiebt man die _eigene_.
+- **Unterscheidung ohne Unterschied** &mdash; verwandtes Spiel mit Bedeutungsverschiebung.
 
 ## Beispiele
 
@@ -55,9 +55,9 @@ EN: _motte-and-bailey fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Alles ist eine soziale Konstruktion.“ (starke These)
-> – „Auch die Schwerkraft?“
-> – „Natürlich nur unsere *Begriffe* von den Dingen.“ (schwache These)
+> &mdash; „Alles ist eine soziale Konstruktion.“ (starke These)
+> &mdash; „Auch die Schwerkraft?“
+> &mdash; „Natürlich nur unsere _Begriffe_ von den Dingen.“ (schwache These)
 
 Sobald der Einwand verstummt, taucht wieder die starke Behauptung auf. Verteidigt wurde aber nur die harmlose.
 
@@ -65,9 +65,9 @@ Sobald der Einwand verstummt, taucht wieder die starke Behauptung auf. Verteidig
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Diese Diät heilt Krankheiten.“ (Wall)
-> – „Welche denn, mit welchem Beleg?“
-> – „Na ja, gesunde Ernährung tut dem Körper eben gut.“ (Turm)
+> &mdash; „Diese Diät heilt Krankheiten.“ (Wall)
+> &mdash; „Welche denn, mit welchem Beleg?“
+> &mdash; „Na ja, gesunde Ernährung tut dem Körper eben gut.“ (Turm)
 
 Niemand bestreitet, dass gesunde Ernährung guttut. Mit dieser Binsenweisheit wird die unbelegte Heilversprechung gedeckt.
 

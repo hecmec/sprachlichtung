@@ -30,9 +30,9 @@ Wissenschaftliche Thesen, journalistische Aussagen, politische Versprechen und a
 
 ## Worauf es abzielt
 
-Wer behauptet, will einen Sachverhalt als wahr oder zutreffend darstellen. Das Behaupten ist also ein sprachlicher Akt, mit dem wir uns auf die Welt beziehen, Wissen vermitteln und andere Menschen beeinflussen – nicht selten behaupten wir dabei gerade das, was unserem Eigeninteresse dient.
+Wer behauptet, will einen Sachverhalt als wahr oder zutreffend darstellen. Das Behaupten ist also ein sprachlicher Akt, mit dem wir uns auf die Welt beziehen, Wissen vermitteln und andere Menschen beeinflussen &mdash; nicht selten behaupten wir dabei gerade das, was unserem Eigeninteresse dient.
 
-Im Gegensatz zum Fragen oder Befehlen erheben Behauptungen einen **Wahrheitsanspruch**: Sie geben vor, dass es sich tatsächlich so verhält, wie behauptet wird. Das Ziel kann dabei variieren – von der reinen Informationsweitergabe über die Überzeugung anderer bis hin zur Selbstvergewisserung.
+Im Gegensatz zum Fragen oder Befehlen erheben Behauptungen einen **Wahrheitsanspruch**: Sie geben vor, dass es sich tatsächlich so verhält, wie behauptet wird. Das Ziel kann dabei variieren &mdash; von der reinen Informationsweitergabe über die Überzeugung anderer bis hin zur Selbstvergewisserung.
 
 ## Erfolgskriterien
 
@@ -42,9 +42,9 @@ Ob eine Behauptung "erfolgreich" ist, lässt sich auf drei verschiedenen Ebenen 
 
 - Der Sprecher meint, was er sagt, und glaubt selbst, dass es zutrifft.
 - Er kann auf Nachfrage Gründe oder Belege nennen.
-- Der Empfänger versteht, dass hier etwas behauptet – und nicht etwa gefragt, gescherzt oder befohlen – wird.
+- Der Empfänger versteht, dass hier etwas behauptet &mdash; und nicht etwa gefragt, gescherzt oder befohlen &mdash; wird.
 
-**2. Trifft die Behauptung zu?** (Eine eigene Frage – eine Behauptung bleibt eine Behauptung, auch wenn sie falsch ist.)
+**2. Trifft die Behauptung zu?** (Eine eigene Frage &mdash; eine Behauptung bleibt eine Behauptung, auch wenn sie falsch ist.)
 
 - Das Behauptete entspricht den Tatsachen, oder es ist zumindest gut begründet.
 
@@ -63,7 +63,7 @@ Welche Maßstäbe dabei gelten, hängt stark vom Kontext ab: In wissenschaftlich
 
 ## Wie es schiefgehen kann
 
-Eine Behauptung kann auf zwei grundverschiedene Weisen misslingen – und beide haben _nichts_ damit zu tun, ob das Behauptete wahr ist. (Eine falsche Behauptung ist immer noch eine Behauptung; ihre Falschheit ist ein eigenes Thema.)
+Eine Behauptung kann auf zwei grundverschiedene Weisen misslingen &mdash; und beide haben _nichts_ damit zu tun, ob das Behauptete wahr ist. (Eine falsche Behauptung ist immer noch eine Behauptung; ihre Falschheit ist ein eigenes Thema.)
 
 **Der Akt kommt gar nicht richtig zustande**, wenn:
 
@@ -76,7 +76,7 @@ Eine Behauptung kann auf zwei grundverschiedene Weisen misslingen – und beide 
 - der Behauptende selbst nicht glaubt, was er sagt (im Extremfall: die Lüge).
 - er keinerlei Gründe oder Belege für seine Behauptung hat und auch keine nennen könnte.
 
-Davon zu unterscheiden ist die _Glaubwürdigkeit_: Wer als Sprecher kein Vertrauen oder keine Sachkenntnis genießt, dessen Behauptung gelingt durchaus – sie wird nur eher nicht geglaubt. Besonders heikel sind schließlich Behauptungen, die auf falschen Prämissen beruhen oder sich gar nicht überprüfen lassen.
+Davon zu unterscheiden ist die _Glaubwürdigkeit_: Wer als Sprecher kein Vertrauen oder keine Sachkenntnis genießt, dessen Behauptung gelingt durchaus &mdash; sie wird nur eher nicht geglaubt. Besonders heikel sind schließlich Behauptungen, die auf falschen Prämissen beruhen oder sich gar nicht überprüfen lassen.
 
 ## Wie es missbraucht wird
 

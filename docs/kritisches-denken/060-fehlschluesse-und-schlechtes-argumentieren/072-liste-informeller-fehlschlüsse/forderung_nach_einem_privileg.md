@@ -22,14 +22,14 @@ draft: false
 :::tip Kurz
 Für den eigenen Fall wird eine Ausnahme von einer allgemeinen Regel beansprucht, ohne sie zu rechtfertigen.
 
-_Regeln für alle – nur nicht für mich._
+_Regeln für alle &mdash; nur nicht für mich._
 :::
 
 ## Definition
 
-Die **Forderung nach einem Privileg** (*special pleading*) beansprucht für den eigenen Fall (oder den der eigenen Seite) eine **Ausnahme** von einer allgemein anerkannten Regel, **ohne** einen sachlich relevanten Grund für diese Ausnahme zu nennen.
+Die **Forderung nach einem Privileg** (_special pleading_) beansprucht für den eigenen Fall (oder den der eigenen Seite) eine **Ausnahme** von einer allgemein anerkannten Regel, **ohne** einen sachlich relevanten Grund für diese Ausnahme zu nennen.
 
-Der Fehler: Eine Regel auf andere anzuwenden, sie für sich selbst aber ohne triftigen Grund auszusetzen, ist inkonsequent. Eine Ausnahme ist nur dann berechtigt, wenn ein *relevanter* Unterschied vorliegt – fehlt er, ist die Forderung willkürlich.
+Der Fehler: Eine Regel auf andere anzuwenden, sie für sich selbst aber ohne triftigen Grund auszusetzen, ist inkonsequent. Eine Ausnahme ist nur dann berechtigt, wenn ein _relevanter_ Unterschied vorliegt &mdash; fehlt er, ist die Forderung willkürlich.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _special pleading_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Kein wahrer Schotte** – verwandt: nachträgliche Ausnahme, um ein Gegenbeispiel abzuwehren.
-- **Doppelmoral** – verwandt: zweierlei Mass für gleichartige Fälle.
-- **Unterscheidung ohne Unterschied** – verwandt, wenn die behauptete Ausnahme keinen echten Unterschied benennt.
+- **Kein wahrer Schotte** &mdash; verwandt: nachträgliche Ausnahme, um ein Gegenbeispiel abzuwehren.
+- **Doppelmoral** &mdash; verwandt: zweierlei Mass für gleichartige Fälle.
+- **Unterscheidung ohne Unterschied** &mdash; verwandt, wenn die behauptete Ausnahme keinen echten Unterschied benennt.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _special pleading_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Pünktlichkeit ist Pflicht – aber bei mir ist das etwas anderes, ich bin eben kreativ.“
+> „Pünktlichkeit ist Pflicht &mdash; aber bei mir ist das etwas anderes, ich bin eben kreativ.“
 
 „Kreativ sein“ ist kein relevanter Grund, von der Pünktlichkeitsregel ausgenommen zu werden. Die Ausnahme bleibt unbegründet.
 

@@ -19,11 +19,12 @@ last_update:
 
 # Intellektuelle Laster: Hindernisse für gutes Denken
 
-Intellektuelle Laster sind das Gegenteil intellektueller Tugenden – Eigenschaften, die gutes Denken behindern und uns vom Erwerb von Wissen und Verständnis abhalten.
+Intellektuelle Laster sind das Gegenteil intellektueller Tugenden &mdash; Eigenschaften, die gutes Denken behindern und uns vom Erwerb von Wissen und Verständnis abhalten.
 
 ## Was sind intellektuelle Laster?
 
 Intellektuelle Laster können definiert werden als Eigenschaften, die:
+
 - Die Wahrheitsfindung behindern
 - Zu schlechtem Denken und Urteilen führen
 - Den Erwerb von Wissen und Verständnis erschweren
@@ -38,6 +39,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Arroganz** ist die übermäßige Selbstsicherheit bezüglich des eigenen Wissens und der eigenen Fähigkeiten, verbunden mit der Geringschätzung anderer Perspektiven.
 
 **Merkmale:**
+
 - Überschätzung des eigenen Wissens und der eigenen Urteilsfähigkeit
 - Abwertung abweichender Meinungen und ihrer Vertreter
 - Unwilligkeit, die eigenen Überzeugungen zu überprüfen
@@ -52,6 +54,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Faulheit** ist die Tendenz, den Weg des geringsten Widerstands zu wählen, anstatt die notwendige Anstrengung für gründliches Denken aufzubringen.
 
 **Merkmale:**
+
 - Vermeidung komplexer oder anstrengender Denkaufgaben
 - Bevorzugung einfacher Erklärungen über nuancierte Analysen
 - Oberflächliche Informationsverarbeitung
@@ -66,6 +69,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Feigheit** ist die Unwilligkeit, unpopuläre Ideen zu verfolgen oder etablierte Überzeugungen zu hinterfragen aus Angst vor sozialen Sanktionen oder Unbehagen.
 
 **Merkmale:**
+
 - Vermeidung kontroverser Themen oder Fragen
 - Konformität mit vorherrschenden Meinungen aus Angst vor Ablehnung
 - Unwilligkeit, tief verwurzelte Überzeugungen zu überprüfen
@@ -80,6 +84,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Unredlichkeit** ist die bewusste oder unbewusste Verzerrung von Beweisen oder Argumenten, um vorgefasste Überzeugungen zu stützen.
 
 **Merkmale:**
+
 - Selektive Verwendung von Beweisen
 - Doppelstandards bei der Bewertung von Argumenten
 - Rationalisierung statt echter Begründung
@@ -94,6 +99,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Engstirnigkeit** ist die Unwilligkeit, alternative Perspektiven oder neue Ideen ernsthaft in Betracht zu ziehen.
 
 **Merkmale:**
+
 - Verschlossenheit gegenüber neuen Ideen oder Beweisen
 - Dogmatisches Festhalten an bestehenden Überzeugungen
 - Unfähigkeit oder Unwilligkeit, die Welt aus anderen Perspektiven zu betrachten
@@ -108,6 +114,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Ungeduld** ist die Tendenz, vorschnelle Urteile zu fällen oder komplexe Probleme zu vereinfachen, um schnelle Antworten zu erhalten.
 
 **Merkmale:**
+
 - Voreiliges Urteilen ohne ausreichende Überlegung
 - Unwilligkeit, mit Ambiguität oder Unsicherheit umzugehen
 - Übermäßige Vereinfachung komplexer Sachverhalte
@@ -122,6 +129,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektueller Egozentrismus** ist die Unfähigkeit oder Unwilligkeit, die Welt aus anderen Perspektiven als der eigenen zu betrachten.
 
 **Merkmale:**
+
 - Unfähigkeit, sich in andere Denkweisen hineinzuversetzen
 - Annahme, dass die eigene Perspektive universell oder objektiv ist
 - Mangel an Bewusstsein für die eigenen intellektuellen Vorurteile
@@ -136,6 +144,7 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Intellektuelle Konformität** ist die Tendenz, Überzeugungen und Meinungen unkritisch zu übernehmen, weil sie von der eigenen Gruppe oder Autorität geteilt werden.
 
 **Merkmale:**
+
 - Unkritische Akzeptanz vorherrschender Meinungen in der eigenen Gruppe
 - Übermäßige Abhängigkeit von Autoritäten oder der Mehrheitsmeinung
 - Anpassung der eigenen Überzeugungen an soziale Erwartungen

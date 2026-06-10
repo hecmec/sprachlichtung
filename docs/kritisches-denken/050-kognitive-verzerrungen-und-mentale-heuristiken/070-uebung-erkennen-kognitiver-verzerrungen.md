@@ -25,6 +25,7 @@ Diese Übung hilft Ihnen, kognitive Verzerrungen in Ihrem eigenen Denken zu iden
 ## Schritt 1: Selbstbeobachtung
 
 Wählen Sie einen Tag in der kommenden Woche und beobachten Sie bewusst Ihre Gedanken, Urteile und Entscheidungen. Achten Sie besonders auf Situationen, in denen:
+
 - Sie schnelle Urteile über Menschen oder Situationen fällen
 - Sie Informationen sofort akzeptieren oder ablehnen
 - Sie sich sicher fühlen, ohne viele Beweise zu haben
@@ -53,6 +54,6 @@ Reflektieren Sie über Ihre Beobachtungen:
 
 **Gedanken/Urteile**: "Dieser Artikel ist offensichtlich voreingenommen. Die angeführten Statistiken sind sicher manipuliert. Der Autor hat keine Ahnung, wovon er spricht."
 
-**Mögliche Verzerrung**: Bestätigungsfehler – Ich habe den Artikel sofort abgelehnt, weil er meinen bestehenden Überzeugungen widersprach, ohne die Argumente oder Daten objektiv zu prüfen.
+**Mögliche Verzerrung**: Bestätigungsfehler &mdash; Ich habe den Artikel sofort abgelehnt, weil er meinen bestehenden Überzeugungen widersprach, ohne die Argumente oder Daten objektiv zu prüfen.
 
 **Alternative Perspektive**: Auch wenn ich mit der Schlussfolgerung des Autors nicht übereinstimme, könnten einige der präsentierten Fakten korrekt sein. Ich sollte die Quellen der Statistiken prüfen und überlegen, ob es valide Punkte gibt, die ich berücksichtigen sollte.

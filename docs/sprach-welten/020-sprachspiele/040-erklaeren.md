@@ -1,19 +1,19 @@
 ---
 title: Das Sprachspiel des Erklärens
-sidebar_label: Erklären 
+sidebar_label: Erklären
 sidebar_position: 4
 description: "Das Sprachspiel des Erklärens"
 keywords:
-    - Sprachspiele
-    - Wortbedeutung
-    - Erklären
-    - Erläuterung
-    - Verständnis
+  - Sprachspiele
+  - Wortbedeutung
+  - Erklären
+  - Erläuterung
+  - Verständnis
 last_update:
   date: 2025-06-24
   author: Immanuel Lupinus
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 <!-- # Das Sprachspiel des Erklärens -->
@@ -57,14 +57,14 @@ Besonders häufig ist das "Fluch des Wissens"-Phänomen: Experten fällt es schw
 
 Das Erklären kann auf verschiedene Weisen missbraucht werden:
 
-- Durch "Overexplaining" – übermäßiges Erklären von Selbstverständlichem, oft mit einer herablassenden Note ("Mansplaining")
+- Durch "Overexplaining" &mdash; übermäßiges Erklären von Selbstverständlichem, oft mit einer herablassenden Note ("Mansplaining")
 - Durch Pseudoerklärungen, die wissenschaftlich klingen, aber inhaltlich leer sind
 - Durch tendenziöse Erklärungen, die bewusst Fakten verzerren oder weglassen
 - Durch mystifizierende Erklärungen, die Komplexität künstlich erhöhen, um Autorität zu demonstrieren
 - Durch vereinfachende Erklärungen komplexer Phänomene, die falsche Gewissheiten erzeugen
 - Durch das Vortäuschen von Expertise in Bereichen, in denen man nicht qualifiziert ist
 
-Ein besonders problematischer Missbrauch ist das "Erklären als Waffe" – wenn Erklärungen primär dazu dienen, die eigene Überlegenheit zu demonstrieren und andere zu beschämen.
+Ein besonders problematischer Missbrauch ist das "Erklären als Waffe" &mdash; wenn Erklärungen primär dazu dienen, die eigene Überlegenheit zu demonstrieren und andere zu beschämen.
 
 ## Soziale Rolle
 

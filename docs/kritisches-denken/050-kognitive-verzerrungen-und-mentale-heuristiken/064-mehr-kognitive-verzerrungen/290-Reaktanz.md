@@ -17,7 +17,6 @@ last_update:
 
 completeness: 1/5
 draft: true
-
 ---
 
 :::tip Kurz
@@ -44,13 +43,16 @@ Reaktanz hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihne
 ## Beispiele
 
 ### Jugendliche und Verbote
-Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken – das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
+
+Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken &mdash; das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
 
 ### Marketing und "Limitierte Angebote"
+
 "Nur noch wenige verfügbar" oder "Nicht für jeden geeignet" löst Reaktanz aus und macht Produkte begehrenswerter.
 
 ### Zensur und Streisand-Effekt
-Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interessant und viral – der Versuch der Kontrolle verstärkt die Verbreitung.
+
+Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interessant und viral &mdash; der Versuch der Kontrolle verstärkt die Verbreitung.
 
 ## Auswirkungen
 
@@ -63,10 +65,10 @@ Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interess
 - Optionen statt Verbote anbieten ("Du kannst wählen zwischen X und Y")
 - Begründungen liefern und Verständnis schaffen statt bloße Anweisungen
 - Selbstbestimmung wahren: Menschen in Entscheidungsprozesse einbeziehen
-- Reverse Psychology bewusst vermeiden – oft wirkt sie manipulativ und verstärkt Reaktanz
+- Reverse Psychology bewusst vermeiden &mdash; oft wirkt sie manipulativ und verstärkt Reaktanz
 
 ## Quellen
 
 - Wikipedia: [Psychological reactance](https://en.wikipedia.org/wiki/Psychological_reactance)
 - Brehm, J. W. (1966): A theory of psychological reactance. Academic Press.
-- Cialdini, R. (2006): Influence: The Psychology of Persuasion – Kapitel zu Knappheit und Reaktanz.
+- Cialdini, R. (2006): Influence: The Psychology of Persuasion &mdash; Kapitel zu Knappheit und Reaktanz.

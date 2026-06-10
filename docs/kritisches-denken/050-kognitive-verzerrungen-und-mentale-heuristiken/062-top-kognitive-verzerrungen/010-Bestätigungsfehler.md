@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -49,7 +48,7 @@ Sie wird zum Experten für die eine negative Impfstudie aus den 90ern, die läng
 
 Ein Fußballfan erinnert sich kristallklar an jede umstrittene Schiedsrichterentscheidungen gegen sein Team aus den letzten fünf Jahren, aber die drei offensichtlichen Fehlentscheidungen zu seinen Gunsten? Nie passiert! Er sieht sie nicht.
 
-Er entwickelt detaillierte Verschwörungstheorien über korrupte Schiedsrichter und führt akribisch Statistiken – allerdings nur über die Ungerechtigkeit gegenüber seinem Verein.
+Er entwickelt detaillierte Verschwörungstheorien über korrupte Schiedsrichter und führt akribisch Statistiken &mdash; allerdings nur über die Ungerechtigkeit gegenüber seinem Verein.
 
 Seine selektive Erinnerung funktioniert wie ein Schweizer Uhrwerk, nur rückwärts und mit Scheuklappen.
 

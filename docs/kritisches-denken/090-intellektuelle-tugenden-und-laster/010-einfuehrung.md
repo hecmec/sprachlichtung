@@ -17,7 +17,7 @@ last_update:
 
 # Einführung
 
-In den bisherigen Kapiteln haben wir uns mit verschiedenen Aspekten des kritischen Denkens befasst – von logischen Grundlagen über Argumentationsstrukturen bis hin zu kognitiven Verzerrungen, Fehlschlüssen und Manipulationstechniken. In diesem Kapitel wenden wir uns einem oft übersehenen, aber fundamentalen Aspekt des kritischen Denkens zu: den intellektuellen Tugenden und Lastern.
+In den bisherigen Kapiteln haben wir uns mit verschiedenen Aspekten des kritischen Denkens befasst &mdash; von logischen Grundlagen über Argumentationsstrukturen bis hin zu kognitiven Verzerrungen, Fehlschlüssen und Manipulationstechniken. In diesem Kapitel wenden wir uns einem oft übersehenen, aber fundamentalen Aspekt des kritischen Denkens zu: den intellektuellen Tugenden und Lastern.
 
 Intellektuelle Tugenden sind Charaktereigenschaften und Haltungen, die gutes Denken fördern und uns helfen, Wissen zu erlangen und zu teilen. Intellektuelle Laster hingegen sind Eigenschaften, die unser Denken behindern und uns vom Erwerb von Wissen und Verständnis abhalten. Diese Tugenden und Laster beeinflussen nicht nur, wie wir denken, sondern auch, wie wir mit anderen in intellektuellen Austausch treten.
 

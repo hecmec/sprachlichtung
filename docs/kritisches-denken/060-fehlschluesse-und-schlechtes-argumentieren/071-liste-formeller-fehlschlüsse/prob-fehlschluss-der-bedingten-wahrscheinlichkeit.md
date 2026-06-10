@@ -48,9 +48,9 @@ EN: _confusion of the inverse_ / _conditional probability fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Prävalenzfehler** – die häufigste Erscheinungsform, wenn zusätzlich die Grundrate vernachlässigt wird.
-- **Prosecutor's Fallacy** – die forensische Variante: $P(\text{Spur} \mid \text{unschuldig})$ wird mit $P(\text{unschuldig} \mid \text{Spur})$ verwechselt.
-- **Umkehrung des Konditionals** – das logische Pendant: dort die unzulässige Umkehrung des Konditionals statt der bedingten Wahrscheinlichkeit.
+- **Prävalenzfehler** &mdash; die häufigste Erscheinungsform, wenn zusätzlich die Grundrate vernachlässigt wird.
+- **Prosecutor's Fallacy** &mdash; die forensische Variante: $P(\text{Spur} \mid \text{unschuldig})$ wird mit $P(\text{unschuldig} \mid \text{Spur})$ verwechselt.
+- **Umkehrung des Konditionals** &mdash; das logische Pendant: dort die unzulässige Umkehrung des Konditionals statt der bedingten Wahrscheinlichkeit.
 
 ## Beispiele
 
@@ -58,7 +58,7 @@ EN: _confusion of the inverse_ / _conditional probability fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Die meisten Verkehrstoten trugen keinen Helm – also schützt ein Helm kaum.“
+> „Die meisten Verkehrstoten trugen keinen Helm &mdash; also schützt ein Helm kaum.“
 
 Gefragt wäre $P(\text{Unfalltod} \mid \text{kein Helm})$, angegeben wird aber so etwas wie $P(\text{kein Helm} \mid \text{Unfalltod})$. Ohne die Grundrate (wie viele Personen überhaupt keinen Helm tragen) ist der Schluss wertlos.
 

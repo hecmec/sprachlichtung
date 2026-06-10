@@ -16,9 +16,10 @@ last_update:
 completeness: 3/5
 draft: false
 ---
+
 <!-- markdownlint-disable MD024 -->
 
-Mentale Heuristiken sind kognitive Abkürzungen oder Daumenregeln, die wir verwenden, um schnell Urteile zu fällen oder Entscheidungen zu treffen. Sie sind nicht per se schlecht – tatsächlich sind sie oft nützlich und effizient. Allerdings können sie unter bestimmten Umständen zu systematischen Fehlern führen.
+Mentale Heuristiken sind kognitive Abkürzungen oder Daumenregeln, die wir verwenden, um schnell Urteile zu fällen oder Entscheidungen zu treffen. Sie sind nicht per se schlecht &mdash; tatsächlich sind sie oft nützlich und effizient. Allerdings können sie unter bestimmten Umständen zu systematischen Fehlern führen.
 
 ## 1. Repräsentativitätsheuristik
 

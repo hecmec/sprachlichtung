@@ -27,7 +27,7 @@ _Der Beweis dreht sich im Kreis._
 
 ## Definition
 
-Beim **Zirkelschluss** (lat. *petitio principii*, engl. *begging the question*) wird eine Behauptung mit Aussagen begründet, die das zu Beweisende **schon voraussetzen**. Die Konklusion steckt – offen oder verdeckt – bereits in den Prämissen.
+Beim **Zirkelschluss** (lat. _petitio principii_, engl. _begging the question_) wird eine Behauptung mit Aussagen begründet, die das zu Beweisende **schon voraussetzen**. Die Konklusion steckt &mdash; offen oder verdeckt &mdash; bereits in den Prämissen.
 
 Der Fehler: Ein solches Argument ist zwar formal gültig (die Konklusion folgt aus den Prämissen), beweist aber nichts, weil es genau das annimmt, was es zeigen soll. Wer den Schluss anzweifelt, zweifelt schon die Prämisse an.
 
@@ -36,7 +36,7 @@ Der Fehlschluss hat die folgende Form:
 1. Prämisse: A (setzt B bereits voraus).
 2. Also B.
 
-…wobei B nur akzeptiert, wer A – und damit B – schon glaubt.
+…wobei B nur akzeptiert, wer A &mdash; und damit B &mdash; schon glaubt.
 
 EN: _begging the question_ / _petitio principii_
 
@@ -44,9 +44,9 @@ EN: _begging the question_ / _petitio principii_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Zirkeldefinition (Idem per idem)** – Sonderform auf der Ebene der Definition.
-- **Komplexe Frage** – verwandt: eine unbewiesene Annahme steckt in der Frage.
-- **Kein wahrer Schotte** – verwandt: die Begriffe werden so gewählt, dass die These wahr bleiben muss.
+- **Zirkeldefinition (Idem per idem)** &mdash; Sonderform auf der Ebene der Definition.
+- **Komplexe Frage** &mdash; verwandt: eine unbewiesene Annahme steckt in der Frage.
+- **Kein wahrer Schotte** &mdash; verwandt: die Begriffe werden so gewählt, dass die These wahr bleiben muss.
 
 ## Beispiele
 

@@ -18,18 +18,17 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
 
 :::tip Kurz
-Die Vergangenheit wirkt verzerrt – oft besser oder schlimmer, meistens besser.
+Die Vergangenheit wirkt verzerrt &mdash; oft besser oder schlimmer, meistens besser.
 
 _Früher war mehr Lametta._
 :::
 
 ## Definition
 
-Die **Vergangenheitsverklärung** beschreibt die Tendenz, vergangene Ereignisse systematisch verzerrt zu erinnern – häufig positiver (Nostalgie, Rosy Retrospection), teils aber auch negativer (Declinism: "Früher war alles besser, heute ist alles schlechter"), als sie tatsächlich waren.
+Die **Vergangenheitsverklärung** beschreibt die Tendenz, vergangene Ereignisse systematisch verzerrt zu erinnern &mdash; häufig positiver (Nostalgie, Rosy Retrospection), teils aber auch negativer (Declinism: "Früher war alles besser, heute ist alles schlechter"), als sie tatsächlich waren.
 
 EN: _Rosy retrospection_, _Declinism_
 
@@ -37,7 +36,7 @@ EN: _Rosy retrospection_, _Declinism_
 
 Die Vergangenheitsverklärung hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihnen beeinflusst:
 
-- **Rückschaufehler (Hindsight Bias):** Im Nachhinein erscheint vieles "schon immer klar" – das glättet die Erinnerung.
+- **Rückschaufehler (Hindsight Bias):** Im Nachhinein erscheint vieles "schon immer klar" &mdash; das glättet die Erinnerung.
 - **Peak-End-Regel:** Wir erinnern vor allem Höhepunkte und das Ende, nicht den Durchschnitt.
 - **Negativitätsbias:** In Krisenphasen überbetonen wir negative Rückblicke ("Niedergang").
 - **Konsistenzbias:** Erinnerungen passen wir unbewusst an aktuelle Überzeugungen an.
@@ -77,21 +76,24 @@ Zu dem Thema gesellschaftlicher Niedergang und warum das nicht stimmt gibt es ei
 
 - Wikipedia: [Rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection)
 - Wikipedia: [Declinism](https://en.wikipedia.org/wiki/Declinism)
-- Kahneman, D. (2011). Thinking, Fast and Slow – Kapitel zu Erinnerung und Peak-End-Regel.
+- Kahneman, D. (2011). Thinking, Fast and Slow &mdash; Kapitel zu Erinnerung und Peak-End-Regel.
 
 ### Kindersterblichkeit
 
-Weltweit über Jahrzehnte stark gesunken; gleichzeitig stiegen Lebenserwartung, Bildung und Impfquoten.  
-- _Our World in Data_ – Child Mortality, Life Expectancy, Global Education datasets_ (ourworldindata.org).
+Weltweit über Jahrzehnte stark gesunken; gleichzeitig stiegen Lebenserwartung, Bildung und Impfquoten.
+
+- _Our World in Data_ &mdash; Child Mortality, Life Expectancy, Global Education datasets\_ (ourworldindata.org).
 
 ### Gewalttrend
 
-Langfristig sinkende Gewalt- und Mordraten in vielen Regionen. 
-- Steven Pinker – _Better Angels of Our Nature_ (dt.: "Gewalt: Eine neue Geschichte der Menschheit"), dazu Datenübersichten bei Our World in Data.
+Langfristig sinkende Gewalt- und Mordraten in vielen Regionen.
+
+- Steven Pinker &mdash; _Better Angels of Our Nature_ (dt.: "Gewalt: Eine neue Geschichte der Menschheit"), dazu Datenübersichten bei Our World in Data.
 
 ### Allgemeiner Fortschritt
 
-Datenbasierter Überblick zu Armut, Gesundheit, Bildung, Sicherheit.  
+Datenbasierter Überblick zu Armut, Gesundheit, Bildung, Sicherheit.
+
 - Hans Rosling, _Factfulness_
 - Steven Pinker, _Enlightenment Now_ (dt.: "Aufklärung jetzt")
 - Max Roser, _The short history of global living conditions_ (Our World in Data)

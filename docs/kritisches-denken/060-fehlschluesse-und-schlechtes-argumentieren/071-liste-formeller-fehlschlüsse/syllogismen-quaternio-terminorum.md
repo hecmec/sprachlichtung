@@ -21,7 +21,7 @@ draft: false
 ---
 
 :::tip Kurz
-Ein Syllogismus enthält scheinbar drei, in Wahrheit aber vier Begriffe – meist durch ein doppeldeutiges Wort.
+Ein Syllogismus enthält scheinbar drei, in Wahrheit aber vier Begriffe &mdash; meist durch ein doppeldeutiges Wort.
 
 _Ein Wort, zwei Bedeutungen, kein gültiger Schluss._
 :::
@@ -30,7 +30,7 @@ _Ein Wort, zwei Bedeutungen, kein gültiger Schluss._
 
 Ein gültiger kategorischer Syllogismus besteht aus genau **drei** Begriffen: zwei Endbegriffen und einem Mittelbegriff, der beide verbindet. Beim **Quaternio Terminorum** (lat. „Vierheit der Begriffe“) sind es tatsächlich **vier** Begriffe.
 
-Am häufigsten entsteht der vierte Begriff durch **Äquivokation**: Ein Wort wird in den beiden Prämissen in *unterschiedlicher Bedeutung* verwendet. Der vermeintliche Mittelbegriff ist dann gar kein gemeinsamer Begriff mehr und kann die Prämissen nicht verknüpfen.
+Am häufigsten entsteht der vierte Begriff durch **Äquivokation**: Ein Wort wird in den beiden Prämissen in _unterschiedlicher Bedeutung_ verwendet. Der vermeintliche Mittelbegriff ist dann gar kein gemeinsamer Begriff mehr und kann die Prämissen nicht verknüpfen.
 
 Der Fehlschluss hat die folgende Form ($M_1$, $M_2$ = dasselbe Wort in zwei Bedeutungen):
 
@@ -46,8 +46,8 @@ EN: _four-term fallacy_ / _fallacy of four terms_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Äquivokation (Mehrdeutigkeitsfehlschluss)** – die informelle Wurzel: Der vierte Begriff entsteht durch ein doppeldeutiges Wort.
-- **Non distributio medii** – verwandter Strukturfehler des Syllogismus, dort durch einen unverteilten statt einen verdoppelten Mittelbegriff.
+- **Äquivokation (Mehrdeutigkeitsfehlschluss)** &mdash; die informelle Wurzel: Der vierte Begriff entsteht durch ein doppeldeutiges Wort.
+- **Non distributio medii** &mdash; verwandter Strukturfehler des Syllogismus, dort durch einen unverteilten statt einen verdoppelten Mittelbegriff.
 
 ## Beispiele
 
@@ -59,7 +59,7 @@ EN: _four-term fallacy_ / _fallacy of four terms_
 > 2. Was leicht ist, ist leicht zu verstehen.
 > 3. Also ist eine Feder leicht zu verstehen.
 
-„Leicht“ bedeutet in Prämisse 1 *nicht schwer (von Gewicht)*, in Prämisse 2 *einfach*. Das Wort verbindet die Sätze nur scheinbar – es liegen vier Begriffe vor.
+„Leicht“ bedeutet in Prämisse 1 _nicht schwer (von Gewicht)_, in Prämisse 2 _einfach_. Das Wort verbindet die Sätze nur scheinbar &mdash; es liegen vier Begriffe vor.
 
 ### Beispiel 2
 
@@ -69,7 +69,7 @@ EN: _four-term fallacy_ / _fallacy of four terms_
 > 2. Manche Filmschauspieler sind Stars (Sterne).
 > 3. Also leuchten manche Filmschauspieler am Nachthimmel.
 
-„Stern“ meint einmal einen *Himmelskörper*, einmal eine *berühmte Person*. Die beiden Bedeutungen sind verschiedene Begriffe.
+„Stern“ meint einmal einen _Himmelskörper_, einmal eine _berühmte Person_. Die beiden Bedeutungen sind verschiedene Begriffe.
 
 ## Quellen
 

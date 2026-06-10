@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -50,7 +49,7 @@ Gute Note: "Ich habe hart gearbeitet und bin klug." Schlechte Note: "Die Aufgabe
 
 ### Teamleistung
 
-Gewonnen: "Meine Strategie war ausschlaggebend." Verloren: "Das Wetter, die Umstände, die Gegner – alles gegen uns."
+Gewonnen: "Meine Strategie war ausschlaggebend." Verloren: "Das Wetter, die Umstände, die Gegner &mdash; alles gegen uns."
 
 ### Unternehmensziele
 
@@ -80,5 +79,5 @@ Komplimente werden ernst genommen, Kritik als "überempfindlich" oder "missverst
 - [Wikipedia: Selbstwertdienliche Verzerrung](https://de.wikipedia.org/wiki/Selbstwertdienliche_Verzerrung)
 - Miller, D. T., & Ross, M. (1975). Self-serving biases in the attribution of causality.
 - Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias? A meta-analytic review of self-serving attribution.
-Selbstwertdienliche Verzerrung
-Die Verzerrungen, die der Aufrechterhaltung eines positiven konsistenten Selbstbildes dienen. 
+  Selbstwertdienliche Verzerrung
+  Die Verzerrungen, die der Aufrechterhaltung eines positiven konsistenten Selbstbildes dienen.

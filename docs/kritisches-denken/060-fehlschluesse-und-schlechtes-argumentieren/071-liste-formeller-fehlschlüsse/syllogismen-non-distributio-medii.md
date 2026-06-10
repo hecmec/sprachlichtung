@@ -28,9 +28,9 @@ _Gemeinsame Eigenschaft ist nicht Gleichheit._
 
 ## Definition
 
-Beim Fehlschluss des **unverteilten Mittelbegriffs** (lat. *non distributio medii*) ist der Mittelbegriff $M$ – der Begriff, der in beiden Prämissen vorkommt und sie verknüpfen soll – in **keiner** der beiden Prämissen *verteilt*.
+Beim Fehlschluss des **unverteilten Mittelbegriffs** (lat. _non distributio medii_) ist der Mittelbegriff $M$ &mdash; der Begriff, der in beiden Prämissen vorkommt und sie verknüpfen soll &mdash; in **keiner** der beiden Prämissen _verteilt_.
 
-Ein Begriff ist „verteilt“, wenn sich die Aussage auf **alle** seine Mitglieder bezieht. Im Satz „Alle $S$ sind $P$“ ist nur das Subjekt $S$ verteilt, nicht das Prädikat $P$. Bleibt $M$ in beiden Prämissen unverteilt, stellt es keine Verbindung zwischen den Endbegriffen her – aus einer bloss *gemeinsamen* Eigenschaft folgt keine Gleichheit.
+Ein Begriff ist „verteilt“, wenn sich die Aussage auf **alle** seine Mitglieder bezieht. Im Satz „Alle $S$ sind $P$“ ist nur das Subjekt $S$ verteilt, nicht das Prädikat $P$. Bleibt $M$ in beiden Prämissen unverteilt, stellt es keine Verbindung zwischen den Endbegriffen her &mdash; aus einer bloss _gemeinsamen_ Eigenschaft folgt keine Gleichheit.
 
 Der Fehlschluss hat die folgende Form ($S$, $P$ = End­begriffe, $M$ = Mittelbegriff):
 
@@ -46,9 +46,9 @@ EN: _undistributed middle_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Quaternio Terminorum** – verwandter Strukturfehler des Syllogismus, dort durch einen Begriff zu viel.
-- **Bestätigung der Konsequenz** – das aussagenlogische Gegenstück: auch dort wird aus einer gemeinsamen Folge auf Gleichheit der Ursache geschlossen.
-- **Hastige Verallgemeinerung** – inhaltlich verwandt, wenn aus einem geteilten Merkmal auf Identität geschlossen wird.
+- **Quaternio Terminorum** &mdash; verwandter Strukturfehler des Syllogismus, dort durch einen Begriff zu viel.
+- **Bestätigung der Konsequenz** &mdash; das aussagenlogische Gegenstück: auch dort wird aus einer gemeinsamen Folge auf Gleichheit der Ursache geschlossen.
+- **Hastige Verallgemeinerung** &mdash; inhaltlich verwandt, wenn aus einem geteilten Merkmal auf Identität geschlossen wird.
 
 ## Beispiele
 
@@ -60,7 +60,7 @@ EN: _undistributed middle_
 > 2. Alle Katzen sind Tiere.
 > 3. Also sind alle Löwen Katzen.
 
-Der Mittelbegriff „Tiere“ ist in beiden Prämissen unverteilt (er meint jeweils nur *einige* Tiere). Dass Löwen und Katzen beide Tiere sind, macht sie nicht zu demselben.
+Der Mittelbegriff „Tiere“ ist in beiden Prämissen unverteilt (er meint jeweils nur _einige_ Tiere). Dass Löwen und Katzen beide Tiere sind, macht sie nicht zu demselben.
 
 ### Beispiel 2
 

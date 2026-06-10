@@ -18,7 +18,6 @@ last_update:
 
 completeness: 3/5
 draft: true
-
 ---
 
 :::tip Kurz
@@ -41,17 +40,20 @@ Der Negativitätsbias hängt eng mit mehreren anderen Verzerrungen zusammen und 
 - **Verfügbarkeitsheuristik:** Dramatische, negative Beispiele sind besonders erinnerungsfähig und dominieren Urteile.
 - **Aufmerksamkeits-Bias:** Aufmerksamkeit richtet sich reflexhaft auf Gefahren und Probleme.
 - **Bestätigungsfehler:** Wer an Niedergang glaubt, selektiert vorrangig negative Evidenz.
-- **Medien-Bias:** Nachrichten fokussieren auf Ausnahmen/Krisen – verstärken die gefühlte Negativität.
+- **Medien-Bias:** Nachrichten fokussieren auf Ausnahmen/Krisen &mdash; verstärken die gefühlte Negativität.
 
 ## Beispiele
 
 ### Nachrichtenkonsum
+
 Tägliche Schlagzeilen zu Krisen, Kriegen und Skandalen führen zu einer überschätzt negativen Weltsicht, obwohl Langzeitdaten oft Verbesserungen zeigen.
 
 ### Leistungsfeedback
-In Mitarbeitergesprächen bleibt eine kritische Bemerkung stärker haften als mehrere positive Punkte – Motivation leidet.
+
+In Mitarbeitergesprächen bleibt eine kritische Bemerkung stärker haften als mehrere positive Punkte &mdash; Motivation leidet.
 
 ### Produktbewertungen
+
 Ein einzelner 1‑Stern‑Kommentar beeinflusst die Kaufentscheidung mehr als viele 5‑Sterne‑Bewertungen.
 
 ## Auswirkungen
@@ -71,4 +73,4 @@ Ein einzelner 1‑Stern‑Kommentar beeinflusst die Kaufentscheidung mehr als vi
 
 - Wikipedia: [Negativitätsbias](https://de.wikipedia.org/wiki/Negativit%C3%A4tsbias)
 - Baumeister, R. F. et al. (2001). "Bad is stronger than good". Review of General Psychology.
-- Kahneman, D. & Tversky, A. – Prospect Theory und Verlustaversion.
+- Kahneman, D. & Tversky, A. &mdash; Prospect Theory und Verlustaversion.

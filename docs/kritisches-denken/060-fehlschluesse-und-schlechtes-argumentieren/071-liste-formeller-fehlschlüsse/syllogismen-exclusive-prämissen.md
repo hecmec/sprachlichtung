@@ -28,9 +28,9 @@ _Zwei Trennungen ergeben keine Verbindung._
 
 ## Definition
 
-Eine **Regel des kategorischen Syllogismus** lautet: Aus **zwei verneinenden Prämissen** folgt nichts. Wird trotzdem eine Konklusion gezogen, liegt der Fehlschluss der „ausschliessenden Prämissen“ (*exclusive premises*) vor.
+Eine **Regel des kategorischen Syllogismus** lautet: Aus **zwei verneinenden Prämissen** folgt nichts. Wird trotzdem eine Konklusion gezogen, liegt der Fehlschluss der „ausschliessenden Prämissen“ (_exclusive premises_) vor.
 
-Der Grund: Jede verneinende Prämisse besagt nur, dass der Mittelbegriff von einem Endbegriff *getrennt* ist. Sind **beide** Prämissen verneinend, wird der Mittelbegriff von beiden Endbegriffen getrennt – er kann dann keine Brücke zwischen ihnen schlagen. Über das Verhältnis der Endbegriffe zueinander bleibt alles offen.
+Der Grund: Jede verneinende Prämisse besagt nur, dass der Mittelbegriff von einem Endbegriff _getrennt_ ist. Sind **beide** Prämissen verneinend, wird der Mittelbegriff von beiden Endbegriffen getrennt &mdash; er kann dann keine Brücke zwischen ihnen schlagen. Über das Verhältnis der Endbegriffe zueinander bleibt alles offen.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -46,9 +46,9 @@ EN: _exclusive premises_ / _fallacy of exclusive premises_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bejahende Konklusion aus verneinender Prämisse** – verwandter Verstoss gegen die Qualitätsregeln des Syllogismus.
-- **Negative Konklusion aus bejahenden Prämissen** – das Gegenstück auf der bejahenden Seite.
-- **Non distributio medii** – ebenfalls ein Fall, in dem der Mittelbegriff die Endbegriffe nicht verbindet.
+- **Bejahende Konklusion aus verneinender Prämisse** &mdash; verwandter Verstoss gegen die Qualitätsregeln des Syllogismus.
+- **Negative Konklusion aus bejahenden Prämissen** &mdash; das Gegenstück auf der bejahenden Seite.
+- **Non distributio medii** &mdash; ebenfalls ein Fall, in dem der Mittelbegriff die Endbegriffe nicht verbindet.
 
 ## Beispiele
 
@@ -60,7 +60,7 @@ EN: _exclusive premises_ / _fallacy of exclusive premises_
 > 2. Manche Haustiere sind keine Säugetiere.
 > 3. Also sind manche Haustiere Reptilien.
 
-Beide Prämissen sind verneinend. Sie sagen nur, was *nicht* zusammenhängt; über das Verhältnis von Haustieren und Reptilien sagen sie nichts. Die Konklusion ist nicht gedeckt.
+Beide Prämissen sind verneinend. Sie sagen nur, was _nicht_ zusammenhängt; über das Verhältnis von Haustieren und Reptilien sagen sie nichts. Die Konklusion ist nicht gedeckt.
 
 ### Beispiel 2
 

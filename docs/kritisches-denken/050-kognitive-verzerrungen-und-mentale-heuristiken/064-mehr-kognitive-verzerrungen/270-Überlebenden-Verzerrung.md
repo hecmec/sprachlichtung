@@ -15,7 +15,6 @@ last_update:
 
 completeness: 2/5
 draft: true
-
 ---
 
 import Admonition from '@theme/Admonition';
@@ -37,7 +36,6 @@ Erfolg ist sichtbar, Scheitern bleibt unsichtbar.
   <p class="text--right">Berthold Brecht, _Die Dreigroschenoper, Lied von der Unzulänglichkeit menschlichen Strebens_, 1928.</p> 
 </Admonition>
 
-
 ## Definition
 
 Die **Überlebenden-Verzerrung** (Survivorship Bias) beschreibt die Tendenz, aus den Eigenschaften oder Strategien der Erfolgreichen falsche Schlüsse zu ziehen, weil die zahlreichen gescheiterten Fälle unsichtbar bleiben und nicht mitbetrachtet werden.
@@ -51,7 +49,7 @@ Die Überlebenden-Verzerrung hängt eng mit mehreren anderen Verzerrungen zusamm
 - **Selektionsbias:** Verzerrte Stichprobe durch Auswahl nur sichtbarer/erfolgreicher Fälle.
 - **Publikationsbias:** Studien mit positiven Ergebnissen werden eher veröffentlicht als negative oder Null-Ergebnisse.
 - **Basisratenfehler:** Grundwahrscheinlichkeiten werden ignoriert, wenn nur die "Gewinner" betrachtet werden.
-- **Verfügbarkeitsheuristik:** Erfolgsstories sind präsent und einprägsam – Misserfolge verschwinden aus dem Blick.
+- **Verfügbarkeitsheuristik:** Erfolgsstories sind präsent und einprägsam &mdash; Misserfolge verschwinden aus dem Blick.
 - **Rückschaufehler:** Nachträgliche Rationalisierung von Erfolg ("Es war doch klar, dass das klappt").
 
 ## Beispiele
@@ -63,6 +61,7 @@ Wir schauen auf Olympiasieger und leiten "Erfolgsrezepte" aus deren Training, Di
 ### Startuper, die "alles verstanden" haben
 
 Erfolgreiche Gründer erzählen Playbooks in Podcasts und Büchern. Man hört nur die Stimmen der Überlebenden, nicht die der unzähligen Gründer mit derselben Strategie, die gescheitert sind. Das produziert Schein-Kausalität ("X führt zu Erfolg") statt einer nüchternen Betrachtung von Wahrscheinlichkeiten, Marktbedingungen und Zufall.
+
 <!-- TODO: mehr Anekdoten -->
 
 ## Auswirkungen
@@ -81,6 +80,7 @@ Erfolgreiche Gründer erzählen Playbooks in Podcasts und Büchern. Man hört nu
 ## Quellen
 
 - Wikipedia: [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
-- Kahneman, D. (2011): Thinking, Fast and Slow – Abschnitte zu Basisraten und Auswahlverzerrungen.
-- Taleb, N. N. (2001): Fooled by Randomness – Über Zufall, Erfolg und Fehlinterpretationen.
-****
+- Kahneman, D. (2011): Thinking, Fast and Slow &mdash; Abschnitte zu Basisraten und Auswahlverzerrungen.
+- Taleb, N. N. (2001): Fooled by Randomness &mdash; Über Zufall, Erfolg und Fehlinterpretationen.
+
+---

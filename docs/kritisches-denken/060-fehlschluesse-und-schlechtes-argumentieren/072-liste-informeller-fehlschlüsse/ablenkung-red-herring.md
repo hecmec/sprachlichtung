@@ -27,7 +27,7 @@ _Eine falsche Fährte legen._
 
 ## Definition
 
-Die **Ablenkung** (engl. *red herring* – „geräucherter Hering“, eine falsche Fährte) führt von der eigentlichen Frage weg, indem ein **irrelevantes, aber interessantes Nebenthema** eingeführt wird. Die Aufmerksamkeit wird umgelenkt, statt die strittige Frage zu beantworten.
+Die **Ablenkung** (engl. _red herring_ &mdash; „geräucherter Hering“, eine falsche Fährte) führt von der eigentlichen Frage weg, indem ein **irrelevantes, aber interessantes Nebenthema** eingeführt wird. Die Aufmerksamkeit wird umgelenkt, statt die strittige Frage zu beantworten.
 
 Der Fehler: Das Nebenthema mag für sich genommen wichtig sein, hat aber mit der ursprünglichen Frage nichts zu tun. Es wird benutzt, um einer Antwort auszuweichen.
 
@@ -43,9 +43,9 @@ EN: _red herring_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Strohmann** – verwandt: dort wird die *Gegenposition* verzerrt, hier auf ein anderes *Thema* gelenkt.
-- **Tu quoque / Whataboutism** – Sonderform der Ablenkung durch Gegenvorwürfe.
-- **Suggestive Anspielung** – verwandt: ein Nebenschauplatz wird angedeutet.
+- **Strohmann** &mdash; verwandt: dort wird die _Gegenposition_ verzerrt, hier auf ein anderes _Thema_ gelenkt.
+- **Tu quoque / Whataboutism** &mdash; Sonderform der Ablenkung durch Gegenvorwürfe.
+- **Suggestive Anspielung** &mdash; verwandt: ein Nebenschauplatz wird angedeutet.
 
 ## Beispiele
 
@@ -53,8 +53,8 @@ EN: _red herring_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Warum haben Sie die Zahlen geschönt?“
-> – „Wissen Sie, ich habe diese Firma aus dem Nichts aufgebaut und Hunderte Arbeitsplätze geschaffen.“
+> &mdash; „Warum haben Sie die Zahlen geschönt?“
+> &mdash; „Wissen Sie, ich habe diese Firma aus dem Nichts aufgebaut und Hunderte Arbeitsplätze geschaffen.“
 
 Die Aufbauleistung ist nicht die Frage. Sie lenkt von der eigentlichen Frage nach den geschönten Zahlen ab.
 
@@ -62,8 +62,8 @@ Die Aufbauleistung ist nicht die Frage. Sie lenkt von der eigentlichen Frage nac
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Sollten wir den Müll besser trennen?“
-> – „Solange China so viel CO2 ausstösst, ist das doch ohnehin egal.“
+> &mdash; „Sollten wir den Müll besser trennen?“
+> &mdash; „Solange China so viel CO2 ausstösst, ist das doch ohnehin egal.“
 
 Der Verweis auf China beantwortet die Frage nach der Mülltrennung nicht, sondern weicht ihr aus.
 
@@ -71,6 +71,6 @@ Der Verweis auf China beantwortet die Frage nach der Mülltrennung nicht, sonder
 
 <!-- Wo wird dieser Fehlschluss beschrieben. (Wikipedia, etc) -->
 
-- [Wikipedia: Red herring (Redewendung)](https://de.wikipedia.org/wiki/Red_herring_(Redewendung))
+- [Wikipedia: Red herring (Redewendung)](<https://de.wikipedia.org/wiki/Red_herring_(Redewendung)>)
 - [Wikipedia: Red herring (fallacy)](https://en.wikipedia.org/wiki/Red_herring)
 - [Logically Fallacious: Red Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)

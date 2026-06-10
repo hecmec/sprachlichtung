@@ -18,8 +18,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
+
 :::tip Kurz
 Wir folgen der Gruppe auch ohne gute Gründe, das fühlt sich gut, sicher und warm an.
 
@@ -29,12 +29,12 @@ _Trend ist keine Evidenz._
 
 ## Definition
 
-Der **Herdentrieb** (auch: Herdenverhalten) bezeichnet die Tendenz von Menschen, sich an den Entscheidungen und Verhaltensweisen einer Gruppe zu orientieren, häufig ohne eigene, unabhängige Prüfung der Fakten. 
+Der **Herdentrieb** (auch: Herdenverhalten) bezeichnet die Tendenz von Menschen, sich an den Entscheidungen und Verhaltensweisen einer Gruppe zu orientieren, häufig ohne eigene, unabhängige Prüfung der Fakten.
 
-Er entsteht durch zwei Hauptmechanismen: 
+Er entsteht durch zwei Hauptmechanismen:
 
-- **Informationeller sozialer Einfluss:** Andere könnten mehr wissen – also folgt man ihrem Beispiel.
-- **Normativer sozialer Einfluss:** Zugehörigkeit und Zustimmung sind wichtig – Abweichung wird vermieden.
+- **Informationeller sozialer Einfluss:** Andere könnten mehr wissen &mdash; also folgt man ihrem Beispiel.
+- **Normativer sozialer Einfluss:** Zugehörigkeit und Zustimmung sind wichtig &mdash; Abweichung wird vermieden.
 
 EN: _Herd behaviour_, verwandt mit dem _Bandwagon effect_
 
@@ -45,7 +45,7 @@ Der Herdentrieb hängt eng mit verschiedenen weiteren Verzerrungen und sozialen 
 - **Bandwagon-Effekt:** Etwas wird attraktiver, je mehr Menschen es bereits tun oder unterstützen.
 - **Asch-Konformitätseffekt:** Menschen passen Urteile der (scheinbaren) Mehrheit an, selbst gegen eigene Wahrnehmung.
 - **Soziale Bewährtheit (Social Proof):** Wir interpretieren Popularität als Hinweis auf Richtigkeit oder Qualität.
-- **Gruppendenken (Groupthink):** Konsens wird wichtiger als kritisches Prüfen – abweichende Stimmen verstummen.
+- **Gruppendenken (Groupthink):** Konsens wird wichtiger als kritisches Prüfen &mdash; abweichende Stimmen verstummen.
 - **Status-quo-Bias:** Etablierte Gruppennormen werden beibehalten, Veränderungen werden gemieden.
 - **Autoritäts-Bias:** Zustimmung steigt, wenn die Gruppe von Autoritäten angeführt wird.
 - **Verfügbarkeitsheuristik:** Sichtbare Mehrheiten und starke Signale scheinen repräsentativer als sie sind.
@@ -54,7 +54,7 @@ Der Herdentrieb hängt eng mit verschiedenen weiteren Verzerrungen und sozialen 
 
 ### Finanzmärkte: Blasen und Crashs
 
-Anleger kaufen, weil "alle kaufen" (Preis steigt), und verkaufen panisch, weil "alle verkaufen". Informationskaskaden führen zu Überbewertungen – bis zur Korrektur.
+Anleger kaufen, weil "alle kaufen" (Preis steigt), und verkaufen panisch, weil "alle verkaufen". Informationskaskaden führen zu Überbewertungen &mdash; bis zur Korrektur.
 
 ### Panikkäufe und Trends
 
@@ -62,11 +62,11 @@ Leere Regale (Toilettenpapier, Treibstoff) oder virale Social-Media-Challenges v
 
 ### Produktbewertungen und Warteschlangen
 
-Viele Sterne, viele Rezensionen, lange Schlangen: Beliebtheit wird mit Qualität verwechselt – Alternativen werden ignoriert.
+Viele Sterne, viele Rezensionen, lange Schlangen: Beliebtheit wird mit Qualität verwechselt &mdash; Alternativen werden ignoriert.
 
 ### Meetings und Abstimmungen
 
-Wenn die ersten Wortmeldungen in eine Richtung gehen (oder Führungskräfte vorlegen), kippt die Gruppe – abweichende Meinungen werden zurückgehalten.
+Wenn die ersten Wortmeldungen in eine Richtung gehen (oder Führungskräfte vorlegen), kippt die Gruppe &mdash; abweichende Meinungen werden zurückgehalten.
 
 ### Mode und Kultur
 

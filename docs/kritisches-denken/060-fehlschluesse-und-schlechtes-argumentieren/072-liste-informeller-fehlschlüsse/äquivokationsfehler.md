@@ -27,7 +27,7 @@ _Dasselbe Wort, zwei Bedeutungen._
 
 ## Definition
 
-Bei der **Äquivokation** (*equivocation*) wird ein **mehrdeutiges Wort** im selben Argument in **unterschiedlichen Bedeutungen** gebraucht. Weil das Wort äusserlich gleich bleibt, scheint der Schluss zu „passen“ – in Wahrheit reden die Sätze von verschiedenen Dingen.
+Bei der **Äquivokation** (_equivocation_) wird ein **mehrdeutiges Wort** im selben Argument in **unterschiedlichen Bedeutungen** gebraucht. Weil das Wort äusserlich gleich bleibt, scheint der Schluss zu „passen“ &mdash; in Wahrheit reden die Sätze von verschiedenen Dingen.
 
 Der Fehler: Die Schlüssigkeit beruht nur auf dem gleichen Wortlaut, nicht auf einer gemeinsamen Bedeutung. In Syllogismen erzeugt dies den **Quaternio Terminorum** (einen vierten Begriff).
 
@@ -43,9 +43,9 @@ EN: _equivocation_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Quaternio Terminorum** – der formale Niederschlag im Syllogismus (vier statt drei Begriffe).
-- **Mehrdeutigkeitsfehler (Amphibolie)** – verwandt: Mehrdeutigkeit durch *Satzbau* statt durch ein Wort.
-- **Unterscheidung ohne Unterschied** – verwandtes Spiel mit Bedeutungen.
+- **Quaternio Terminorum** &mdash; der formale Niederschlag im Syllogismus (vier statt drei Begriffe).
+- **Mehrdeutigkeitsfehler (Amphibolie)** &mdash; verwandt: Mehrdeutigkeit durch _Satzbau_ statt durch ein Wort.
+- **Unterscheidung ohne Unterschied** &mdash; verwandtes Spiel mit Bedeutungen.
 
 ## Beispiele
 
@@ -57,7 +57,7 @@ EN: _equivocation_
 > 2. Die Naturgesetze sind Gesetze.
 > 3. Also brauchen die Naturgesetze einen Gesetzgeber.
 
-„Gesetz“ meint in 1 eine *rechtliche Vorschrift*, in 2 eine *naturwissenschaftliche Regelmässigkeit*. Die beiden Bedeutungen werden unzulässig gleichgesetzt.
+„Gesetz“ meint in 1 eine _rechtliche Vorschrift_, in 2 eine _naturwissenschaftliche Regelmässigkeit_. Die beiden Bedeutungen werden unzulässig gleichgesetzt.
 
 ### Beispiel 2
 

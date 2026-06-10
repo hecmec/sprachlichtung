@@ -28,7 +28,7 @@ _Ein Ausschluss kann keine Zugehörigkeit begründen._
 
 ## Definition
 
-Eine **Regel des kategorischen Syllogismus** lautet: Ist **eine der Prämissen verneinend**, so muss auch die Konklusion verneinend sein. Wird daraus dennoch eine **bejahende** Konklusion gezogen, liegt der Fehlschluss der „bejahenden Konklusion aus verneinender Prämisse“ (auch *illicit negative*) vor.
+Eine **Regel des kategorischen Syllogismus** lautet: Ist **eine der Prämissen verneinend**, so muss auch die Konklusion verneinend sein. Wird daraus dennoch eine **bejahende** Konklusion gezogen, liegt der Fehlschluss der „bejahenden Konklusion aus verneinender Prämisse“ (auch _illicit negative_) vor.
 
 Der Grund: Eine verneinende Prämisse trennt zwei Klassen voneinander. Eine solche Trennung kann niemals zu einer bejahenden Konklusion führen, die ja gerade eine Zugehörigkeit behauptet.
 
@@ -46,8 +46,8 @@ EN: _illicit negative_ / _affirmative conclusion from a negative premise_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Negative Konklusion aus bejahenden Prämissen** – der spiegelbildliche Verstoss gegen dieselbe Qualitätsregel.
-- **Zwei verneinende Prämissen** – ebenfalls ein Verstoss gegen die Regeln zur Qualität der Sätze.
+- **Negative Konklusion aus bejahenden Prämissen** &mdash; der spiegelbildliche Verstoss gegen dieselbe Qualitätsregel.
+- **Zwei verneinende Prämissen** &mdash; ebenfalls ein Verstoss gegen die Regeln zur Qualität der Sätze.
 
 ## Beispiele
 
@@ -69,7 +69,7 @@ Die verneinende Prämisse trennt Fische von Säugetieren. Daraus kann keine beja
 > 2. Alle Soldaten tragen eine Waffe.
 > 3. Also sind manche Soldaten Pazifisten.
 
-Auch hier wird aus einer Trennung (verneinend) eine Zugehörigkeit (bejahend) abgeleitet – formal unzulässig. Gültig folgt nur „Kein Soldat ist Pazifist“.
+Auch hier wird aus einer Trennung (verneinend) eine Zugehörigkeit (bejahend) abgeleitet &mdash; formal unzulässig. Gültig folgt nur „Kein Soldat ist Pazifist“.
 
 ## Quellen
 

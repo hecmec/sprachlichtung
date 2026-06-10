@@ -27,9 +27,9 @@ _Die Grenzen der eigenen Vorstellung sind nicht die Grenzen der Wirklichkeit._
 
 ## Definition
 
-Beim **Argument aus persönlicher Skepsis** (*argument from incredulity*) wird aus dem Umstand, dass jemand sich etwas **nicht vorstellen oder nicht verstehen** kann, geschlossen, dass es **nicht wahr** sein könne (oder umgekehrt: weil keine andere Erklärung einfällt, müsse die naheliegende stimmen).
+Beim **Argument aus persönlicher Skepsis** (_argument from incredulity_) wird aus dem Umstand, dass jemand sich etwas **nicht vorstellen oder nicht verstehen** kann, geschlossen, dass es **nicht wahr** sein könne (oder umgekehrt: weil keine andere Erklärung einfällt, müsse die naheliegende stimmen).
 
-Der Fehler: Was eine Person für unvorstellbar hält, hängt von ihrem Wissen und ihrer Fantasie ab – nicht von der Wirklichkeit. Vieles Wahre ist kontraintuitiv. Unvorstellbarkeit ist kein Gegenbeweis.
+Der Fehler: Was eine Person für unvorstellbar hält, hängt von ihrem Wissen und ihrer Fantasie ab &mdash; nicht von der Wirklichkeit. Vieles Wahre ist kontraintuitiv. Unvorstellbarkeit ist kein Gegenbeweis.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _argument from incredulity_ / _personal incredulity_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Ignorantiam** – verwandt: aus Nichtwissen wird ein Schluss gezogen.
-- **Gott-der-Lücken-Argument** – Sonderform: die Erklärungslücke wird mit dem Übernatürlichen gefüllt.
-- **Wunschdenken** – verwandt, wenn die Skepsis dem dient, was man nicht glauben *will*.
+- **Argumentum ad Ignorantiam** &mdash; verwandt: aus Nichtwissen wird ein Schluss gezogen.
+- **Gott-der-Lücken-Argument** &mdash; Sonderform: die Erklärungslücke wird mit dem Übernatürlichen gefüllt.
+- **Wunschdenken** &mdash; verwandt, wenn die Skepsis dem dient, was man nicht glauben _will_.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _argument from incredulity_ / _personal incredulity_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Ich kann mir nicht vorstellen, dass aus einfachen Zellen so komplexe Lebewesen entstehen – also kann die Evolution nicht stimmen.“
+> „Ich kann mir nicht vorstellen, dass aus einfachen Zellen so komplexe Lebewesen entstehen &mdash; also kann die Evolution nicht stimmen.“
 
 Die Schwierigkeit, sich einen Vorgang vorzustellen, sagt nichts darüber, ob er stattgefunden hat.
 
@@ -60,7 +60,7 @@ Die Schwierigkeit, sich einen Vorgang vorzustellen, sagt nichts darüber, ob er 
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „So riesige Steinblöcke konnten Menschen unmöglich allein bewegen – das müssen Ausserirdische gebaut haben.“
+> „So riesige Steinblöcke konnten Menschen unmöglich allein bewegen &mdash; das müssen Ausserirdische gebaut haben.“
 
 Aus dem eigenen Unvermögen, sich die Technik vorzustellen, folgt keine ausserirdische Erklärung.
 

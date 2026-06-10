@@ -13,7 +13,7 @@ https://de.wikipedia.org/wiki/Typen_von_Argumenten
 - implizite Unterstellung
 - Zirkeldefinition (idem per idem)
 
-## Selbstwiderspruch 
+## Selbstwiderspruch
 
 - Inkonsistente >Prämissen
 - Leugnung des Antezedens
@@ -34,7 +34,7 @@ https://de.wikipedia.org/wiki/Typen_von_Argumenten
 - Argumentum ad populum (Volksmeinung, jeder weiss doch)
 - Argumentum ad baculum (Drohung, wenn wir aufhören, werden wir alle sterben)
 - Argumentum ad antiquitatem - Traditionsargument (Weil es immer so gemacht wurde)
-- Argumentum ad novitatem – das Innovationsargument. (Weil es neu ist, muss es besser sein)
+- Argumentum ad novitatem &mdash; das Innovationsargument. (Weil es neu ist, muss es besser sein)
 - Argumentum ad misericordiam (Mitleid, Lass ihn doch auch mal gewinnen)
 - Emotionsappell ()
 
@@ -60,7 +60,7 @@ https://de.wikipedia.org/wiki/Typen_von_Argumenten
 
 ## Unberechtigte Annahmen
 
-- Fehlschluss der relativen Geringfügigkeit (Ein Glässchen macht nichts) 
+- Fehlschluss der relativen Geringfügigkeit (Ein Glässchen macht nichts)
 - Fehlschluss der Komposition (das Teil ist P also auch das Ganze, Alle Politiker sind doch korrupt)
 - Trugschluss der division (das Ganze ist zu Gross, also auch jedes Teil)
 - Falsches Dilemma (Black and White, Für oder gegen mich)
@@ -101,34 +101,31 @@ fehlerhafte-analogie
 - Monokausales Denken (causal oversimplification, Keine Körperstrafen also keine Disziplin mehr)
 - Post hoc ergo propter hoc (danach, also deswegen)
 - Cum hoc ergo propter hoc (gleichzeitig, also deswegen)
-- Missachtung einer gemeinsamen Ursache 
+- Missachtung einer gemeinsamen Ursache
 - Dammbruchargument (Slippery Slope, Wenn wir Homoehen erlauben, werden bald Gruppenehen erlaubt sein)
 - Spielerfehlschluss (gambler's fallacy, ich habe jetzt lange keine 6 gewürfelt)
 
-
-
 ## Formale Fehlschlüsse
 
-- All formal fallacies are types of non sequitur. 
+- All formal fallacies are types of non sequitur.
 
-- Non sequitur fallacy – where the conclusion does not logically follow from the premise.
-- Appeal to probability – taking something for granted because it would probably be the case (or might possibly be the case).
-- Argument from fallacy (also known as the fallacy fallacy) – the assumption that, if a particular argument for a "conclusion" is fallacious, then the conclusion by itself is false.
-- Base rate fallacy – making a probability judgement based on conditional probabilities, without taking into account the effect of prior probabilities.
-- Conjunction fallacy – the assumption that an outcome simultaneously satisfying multiple conditions is more probable than an outcome satisfying a single one of them.
-- Masked-man fallacy (illicit substitution of identicals) – the substitution of identical designators in a true statement can lead to a false one.
+- Non sequitur fallacy &mdash; where the conclusion does not logically follow from the premise.
+- Appeal to probability &mdash; taking something for granted because it would probably be the case (or might possibly be the case).
+- Argument from fallacy (also known as the fallacy fallacy) &mdash; the assumption that, if a particular argument for a "conclusion" is fallacious, then the conclusion by itself is false.
+- Base rate fallacy &mdash; making a probability judgement based on conditional probabilities, without taking into account the effect of prior probabilities.
+- Conjunction fallacy &mdash; the assumption that an outcome simultaneously satisfying multiple conditions is more probable than an outcome satisfying a single one of them.
+- Masked-man fallacy (illicit substitution of identicals) &mdash; the substitution of identical designators in a true statement can lead to a false one.
 
-- Affirming a disjunct – concluding that one disjunct of a logical disjunction must be false because the other disjunct is true; A or B; A, therefore not B.
-- Affirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent is true; if A, then B; B, therefore A.
-- Denying the antecedent – the consequent in an indicative conditional is claimed to be false because the antecedent is false; if A, then B; not A, therefore not B.
-- Existential fallacy – an argument that has a universal premise and a particular conclusion.
-- Fallacy of the undistributed middle – the middle term in a categorical syllogism is not distributed.
-- Modal fallacy – confusing necessity with sufficiency. 
-
+- Affirming a disjunct &mdash; concluding that one disjunct of a logical disjunction must be false because the other disjunct is true; A or B; A, therefore not B.
+- Affirming the consequent &mdash; the antecedent in an indicative conditional is claimed to be true because the consequent is true; if A, then B; B, therefore A.
+- Denying the antecedent &mdash; the consequent in an indicative conditional is claimed to be false because the antecedent is false; if A, then B; not A, therefore not B.
+- Existential fallacy &mdash; an argument that has a universal premise and a particular conclusion.
+- Fallacy of the undistributed middle &mdash; the middle term in a categorical syllogism is not distributed.
+- Modal fallacy &mdash; confusing necessity with sufficiency.
 
 ## Informelle Fehlschlüsse
 
-- Ad Hominem - (personal attack) 
+- Ad Hominem - (personal attack)
   - Brunnenvergiftung
 
 - Ad Hominem Tu Quoque
@@ -137,11 +134,9 @@ fehlerhafte-analogie
 
 - Strohman (Ablenkungs­fehlschlüsse)
 
-
-
 - Slippery Slope
 
-- Appeal to Authority - (argumentum ad verecundiam) 
+- Appeal to Authority - (argumentum ad verecundiam)
 
 - Begging the Question (Petitio Principii)
 
@@ -167,12 +162,7 @@ fehlerhafte-analogie
 
 - Appeal to Emotion (par ex Appeal to Fear)
 
-
-
-
-
 ## Quellen
-
 
 - [Wikipedia DE : Fehlschluss](https://de.wikipedia.org/wiki/Fehlschluss)
 - [Arten von Fehlschlüssen](https://de.wikipedia.org/wiki/Typen_von_Argumenten)
@@ -187,26 +177,23 @@ fehlerhafte-analogie
 
 - [Logical Fallacy](https://www.logical-fallacy.com/list-of-logical-fallacies/)
 
-
 - [Fallacy Files](https://www.fallacyfiles.org/whatarff.html)
 
 - [42 Fallacies PDF](https://aphilosopher.wordpress.com/wp-content/uploads/2010/09/42-fallacies.pdf)
 
 - [Scribbr / Logical Fallacies](https://www.scribbr.com/fallacies/logical-fallacy/)
 
-- [Moisissures Argumentatives](https://cortecs.org/language-argumentation/moisissures-argumentatives/)  
+- [Moisissures Argumentatives](https://cortecs.org/language-argumentation/moisissures-argumentatives/)
 
 - [Denkfehler Online](https://denkfehler.online/wiki/denkfehler/hauptseite)
 
 - [Populär Artikel](https://www.firstlife.de/10-scheinargumente-die-jeder-erkennen-sollte/)
-
 
 https://pup.schule.at/portale/psychologie-und-philosophie/lernpakete/detail/argumentationstheorie-logische-fehlschluesse.html
 
 ## Bücher
 
 - Brendan Myers: Clear and present thinking has a chapter on fallacies
-
 
 ## Videos
 
@@ -215,4 +202,3 @@ https://pup.schule.at/portale/psychologie-und-philosophie/lernpakete/detail/argu
 
 - [YouTube Video, Unsolicited advice: Every Single Logical Fallacy Explained](https://www.youtube.com/watch?v=TFlGhXeooPA)
   - Eine systematische Erklärung von Fehlschlüssen und warum man sich nicht alle Fehlschlüsse beim Namen merken muss.
-

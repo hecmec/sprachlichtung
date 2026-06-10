@@ -20,14 +20,14 @@ draft: false
 ---
 
 :::tip Kurz
-Ein Begriff wird mit Hilfe seiner selbst definiert – die Definition erklärt nichts.
+Ein Begriff wird mit Hilfe seiner selbst definiert &mdash; die Definition erklärt nichts.
 
 _Dasselbe durch dasselbe._
 :::
 
 ## Definition
 
-Die **Zirkeldefinition** (lat. *idem per idem* – „dasselbe durch dasselbe“) erklärt einen Begriff, indem sie ihn (oder ein gleichbedeutendes Wort) in der Erklärung **wieder verwendet**. Wer den Begriff nicht kennt, ist hinterher genauso klug wie zuvor.
+Die **Zirkeldefinition** (lat. _idem per idem_ &mdash; „dasselbe durch dasselbe“) erklärt einen Begriff, indem sie ihn (oder ein gleichbedeutendes Wort) in der Erklärung **wieder verwendet**. Wer den Begriff nicht kennt, ist hinterher genauso klug wie zuvor.
 
 Der Fehler: Eine Definition soll Unbekanntes auf Bekanntes zurückführen. Dreht sie sich im Kreis, leistet sie das nicht. Sie ist die Definitions-Variante des **Zirkelschlusses**.
 
@@ -43,8 +43,8 @@ EN: _circular definition_ / _idem per idem_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Zirkelschluss** – der Oberbegriff auf der Ebene der Argumentation.
-- **Unterscheidung ohne Unterschied** – verwandt: Worte werden umgestellt, ohne etwas zu erklären.
+- **Zirkelschluss** &mdash; der Oberbegriff auf der Ebene der Argumentation.
+- **Unterscheidung ohne Unterschied** &mdash; verwandt: Worte werden umgestellt, ohne etwas zu erklären.
 
 ## Beispiele
 

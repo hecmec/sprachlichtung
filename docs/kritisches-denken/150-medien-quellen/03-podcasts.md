@@ -4,13 +4,13 @@ sidebar_position: 3
 sidebar_label: Podcasts
 description: "Wichtige Podcasts zum Thema Sprache, Kritisches Denken und Philosophie"
 keywords:
-    - Podcasts
-    - Sprache
-    - Philosophie
-    - Kritisches Denken
-    - Linguistik
-    - Semiotik
-    - Kommunikation
+  - Podcasts
+  - Sprache
+  - Philosophie
+  - Kritisches Denken
+  - Linguistik
+  - Semiotik
+  - Kommunikation
 last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
@@ -34,21 +34,18 @@ draft: true
 - 🇫🇷 [Scepticisme scientifique](https://www.scepticisme-scientifique.com/) (Jean-Michel Abrassart)
   - Langlebiger französischer Podcast zu Zététik, Pseudowissenschaften und kritischem Denken.
 
-
 ## Sprachphilosophie
 
 - 🇬🇧 [Philosophy Bites](https://philosophybites.com/) (Nigel Warburton & David Edmonds)
   - Kurze Interviews mit führenden Philosophen, u.a. zu Bedeutung, Sprache und Logik.
-- 🇫🇷 [Les Chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) – France Culture
+- 🇫🇷 [Les Chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) &mdash; France Culture
   - Tägliche, gut recherchierte Sendung zu philosophischen Themen, auch zur Sprachphilosophie.
-
 
 ## Sprache und Gesellschaft
 
-- 🇩🇪 [Wortcast – der Podcast der GfdS](https://gfds.de/podcast/) – Gesellschaft für deutsche Sprache
+- 🇩🇪 [Wortcast &mdash; der Podcast der GfdS](https://gfds.de/podcast/) &mdash; Gesellschaft für deutsche Sprache
   - Aktuelle sprachliche Themen: Sprachwandel, Wörter des Jahres, Duzen und Siezen.
 - 🇬🇧 [Lingthusiasm](https://lingthusiasm.com/) (Gretchen McCulloch & Lauren Gawne)
-  - „A podcast that's enthusiastic about linguistics" – fundiert und unterhaltsam zu Sprache im Alltag.
-- 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) – Binge Audio
+  - „A podcast that's enthusiastic about linguistics" &mdash; fundiert und unterhaltsam zu Sprache im Alltag.
+- 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) &mdash; Binge Audio
   - Linguistin Laélia Véron über Sprache, Macht und gesellschaftliche Debatten rund ums Sprechen.
-

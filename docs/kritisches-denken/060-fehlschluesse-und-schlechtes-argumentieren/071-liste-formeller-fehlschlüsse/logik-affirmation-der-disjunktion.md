@@ -46,9 +46,9 @@ EN: _affirming a disjunct_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Verneinung eines Konjunkts** – das Gegenstück auf der Ebene der Konjunktion.
-- **Falsches Dilemma** – verwandt: Auch dort wird ein einschliessendes oder unvollständiges „oder“ wie ein striktes Entweder-oder behandelt.
-- **Non sequitur** – der Oberbegriff.
+- **Verneinung eines Konjunkts** &mdash; das Gegenstück auf der Ebene der Konjunktion.
+- **Falsches Dilemma** &mdash; verwandt: Auch dort wird ein einschliessendes oder unvollständiges „oder“ wie ein striktes Entweder-oder behandelt.
+- **Non sequitur** &mdash; der Oberbegriff.
 
 ## Beispiele
 
@@ -66,7 +66,7 @@ Lena kann zugleich Ärztin _und_ Künstlerin sein. Die Wahrheit des einen Glieds
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Zum Dessert gibt es Kuchen oder Eis. Es gibt Kuchen – also kein Eis.“
+> „Zum Dessert gibt es Kuchen oder Eis. Es gibt Kuchen &mdash; also kein Eis.“
 
 Solange nicht ausdrücklich „entweder … oder“ gemeint ist, kann es auch beides geben.  
 Der Schluss ist nicht gültig.  

@@ -29,7 +29,7 @@ _Danach heisst nicht deswegen._
 
 Beim **Post hoc ergo propter hoc** (lat. „danach, also deswegen“) wird aus der blossen **zeitlichen Abfolge** zweier Ereignisse auf einen **ursächlichen** Zusammenhang geschlossen: Weil B nach A geschah, soll A die Ursache von B sein.
 
-Der Fehler: Aufeinanderfolge ist nicht Ursächlichkeit. B kann zufällig folgen, eine dritte Ursache kann beide bewirken, oder der Zusammenhang ist umgekehrt. Die nahe verwandte Variante **Cum hoc ergo propter hoc** schliesst entsprechend aus blosser *Gleichzeitigkeit* (Korrelation) auf Ursache.
+Der Fehler: Aufeinanderfolge ist nicht Ursächlichkeit. B kann zufällig folgen, eine dritte Ursache kann beide bewirken, oder der Zusammenhang ist umgekehrt. Die nahe verwandte Variante **Cum hoc ergo propter hoc** schliesst entsprechend aus blosser _Gleichzeitigkeit_ (Korrelation) auf Ursache.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _post hoc ergo propter hoc_ / _false cause_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Cum hoc ergo propter hoc** – die Schwestervariante: Gleichzeitigkeit statt Abfolge.
-- **Mono-kausales Denken** – verwandt: vorschnelle Festlegung auf eine Ursache.
-- **Teleologischer Irrtum** – verwandt: Hineindeuten von Zusammenhängen.
+- **Cum hoc ergo propter hoc** &mdash; die Schwestervariante: Gleichzeitigkeit statt Abfolge.
+- **Mono-kausales Denken** &mdash; verwandt: vorschnelle Festlegung auf eine Ursache.
+- **Teleologischer Irrtum** &mdash; verwandt: Hineindeuten von Zusammenhängen.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _post hoc ergo propter hoc_ / _false cause_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Nachdem die neue Regierung antrat, stieg die Kriminalität – also ist die Regierung schuld.“
+> „Nachdem die neue Regierung antrat, stieg die Kriminalität &mdash; also ist die Regierung schuld.“
 
 Die zeitliche Abfolge belegt keine Ursache. Der Anstieg kann ganz andere Gründe haben.
 
@@ -60,7 +60,7 @@ Die zeitliche Abfolge belegt keine Ursache. Der Anstieg kann ganz andere Gründe
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Ich habe diesen Glücksbringer dabeigehabt und dann die Prüfung bestanden – er wirkt also.“
+> „Ich habe diesen Glücksbringer dabeigehabt und dann die Prüfung bestanden &mdash; er wirkt also.“
 
 Dass das Bestehen folgte, macht den Glücksbringer nicht zur Ursache. Hier wirkte das Lernen, nicht der Talisman.
 

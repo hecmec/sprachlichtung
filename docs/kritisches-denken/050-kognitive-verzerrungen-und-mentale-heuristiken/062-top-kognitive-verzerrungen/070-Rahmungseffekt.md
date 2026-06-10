@@ -25,7 +25,7 @@ _Der Ton macht die Musik._
 
 ## Definition
 
-Der **Rahmungseffekt** (Framing-Effekt) beschreibt die kognitive Verzerrung, bei der die Art und Weise, wie Informationen präsentiert werden, die Entscheidungen und Urteile von Menschen beeinflusst – obwohl der sachliche Inhalt identisch bleibt.
+Der **Rahmungseffekt** (Framing-Effekt) beschreibt die kognitive Verzerrung, bei der die Art und Weise, wie Informationen präsentiert werden, die Entscheidungen und Urteile von Menschen beeinflusst &mdash; obwohl der sachliche Inhalt identisch bleibt.
 
 Menschen reagieren unterschiedlich auf dieselbe Information, je nachdem, ob sie als **Gewinn oder Verlust**, **positiv oder negativ**, oder in einem anderen **Kontext** dargestellt wird.
 
@@ -35,7 +35,7 @@ EN: _Framing Effect_
 
 Der Rahmungseffekt steht in enger Verbindung zu anderen kognitiven Verzerrungen:
 
-- **Verlustaversion:** Verluste werden stärker gewichtet als gleichwertige Gewinne – deshalb sind verlustbezogene Rahmungen besonders wirksam.
+- **Verlustaversion:** Verluste werden stärker gewichtet als gleichwertige Gewinne &mdash; deshalb sind verlustbezogene Rahmungen besonders wirksam.
 - **Ankereffekt:** Die erste präsentierte Information dient als mentaler Referenzpunkt und beeinflusst alle folgenden Urteile.
 - **Bestätigungsfehler (Confirmation Bias):** Menschen bevorzugen Rahmungen, die ihre bestehenden Überzeugungen bestätigen.
 - **Emotionseffekt:** Emotional aufgeladene Rahmungen (positiv oder negativ) verstärken den Framing-Effekt erheblich.
@@ -47,6 +47,7 @@ Der Rahmungseffekt steht in enger Verbindung zu anderen kognitiven Verzerrungen:
 ### Medizinische Behandlung
 
 Eine Operation wird beschrieben als:
+
 - "90% Überlebensrate" vs. "10% sterben an der Operation"
 
 Obwohl beide Aussagen identisch sind, wirkt die erste Formulierung beruhigender und führt häufiger zur Zustimmung zur Operation.
@@ -54,6 +55,7 @@ Obwohl beide Aussagen identisch sind, wirkt die erste Formulierung beruhigender 
 ### Fleischqualität
 
 Ein Fleischpaket wird beworben als:
+
 - "95% fettfrei" vs. "5% Fett"
 
 Die erste Variante klingt gesünder, obwohl der Fettgehalt derselbe ist.
@@ -61,12 +63,14 @@ Die erste Variante klingt gesünder, obwohl der Fettgehalt derselbe ist.
 ### Politische Kommunikation
 
 Derselbe Sachverhalt wird unterschiedlich gerahmt:
+
 - "Steuererleichterungen für Familien" vs. "Steuergeschenke für Reiche"
 - "Investitionen in die Zukunft" vs. "Verschuldung der nächsten Generation"
 
 ### Produktpreise
 
 Ein Preis wird dargestellt als:
+
 - "Nur 3€ pro Tag" vs. "1095€ pro Jahr"
 - "50% Rabatt" vs. "Zahlen Sie die Hälfte"
 

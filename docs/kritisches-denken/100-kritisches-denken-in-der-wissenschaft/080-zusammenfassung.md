@@ -17,7 +17,7 @@ last_update:
 
 # Zusammenfassung
 
-In diesem Kapitel haben wir uns mit der Wissenschaft und ihren Methoden befasst – einem Bereich, der kritisches Denken systematisch anwendet und institutionalisiert hat.
+In diesem Kapitel haben wir uns mit der Wissenschaft und ihren Methoden befasst &mdash; einem Bereich, der kritisches Denken systematisch anwendet und institutionalisiert hat.
 
 Wir haben gelernt:
 

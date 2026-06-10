@@ -14,8 +14,8 @@ keywords:
 last_update:
   date: 2026-02-12
   author: Immanuel Lupinus
-completeness: 2/5
-draft: true
+completeness: 3/5
+draft: false
 
 # slug:
 # image:
@@ -61,13 +61,13 @@ _Wir setzten 'immer schon' implizit voraus:_
 - Wenn du hinter dem Baum vorbei gehst, dann verschwindest du hinter dem Baum und dann kommt da auf der anderen Seite nicht plötzlich ein Tiger heraus, sonder du. (Kinder haben oft solche kreativen Vorstellungen)
 - Wenn ich einen Meter hier messe und ich gehe ans andere Ende des Feldes, dann ist das Metermass noch genauso lang.[^rubberMeter]
 - Meine Zeit auf dem Sofa und deine Zeit im Auto vergehen gleich schnell. Oder, alle Uhren gehen gleich schnell. (das ist intuitiv richtig, aber wie die spezielle Relativitätstheorie zeigt, nicht der Fall)
-- Wenn etwas "natürlich" ist, ist es tendenziell gut/gesund – und wenn etwas "künstlich" ist, tendenziell schlecht/gefährlich. (intuitiv plausibel, aber oft ein Fehlschluss)
+- Wenn etwas "natürlich" ist, ist es tendenziell gut/gesund &mdash; und wenn etwas "künstlich" ist, tendenziell schlecht/gefährlich. (intuitiv plausibel, aber oft ein Fehlschluss)
 
 [^rubberMeter]: Der Philosoph Wittgenstein hat solche Gedankenexperimente geliebt. Können wir uns eine Welt vorstellen, in der ein Metermaß sich ausdehnt, wenn wir uns vom einen Ende des Feldes zum anderen bewegen? Nicht sehr praktisch, aber vielleicht lustig.
 
 Wir sehen schon, einfach um zu leben, müssen wir unglaublich viele Dinge voraussetzen, ohne sie ständig zu hinterfragen. Wir glauben.
 
-### Ausdrückliche empirische Überzeugungen – Wie ist die Welt im Alltag?
+### Ausdrückliche empirische Überzeugungen &mdash; Wie ist die Welt im Alltag?
 
 Viele Sachverhalte glauben wir ausdrücklich. Diese Aussagen sind grundsätzlich beobachtbar/testbar (zumindest indirekt).
 
@@ -119,7 +119,7 @@ Das ist eher _Vertrauen_, nicht nur als Wahrheits-, sondern als Beziehungsbegrif
 Ob jemand _wirklich_ vertrauenswürdig ist, lässt sich nicht feststellen, da es von der Zukunft abhängt (kontrafaktisch). Es ist keine prüfbare Tatsachenbehauptung über die Welt,
 eher eine <Tooltip text="Extrapolation" model="text">Ein Verfahren zur Ausdehnung von Aussagen über ihre eigentlichen Gültigkeitsbereiche.</Tooltip> von der Vergangenheit auf die Zukunft.
 
-### Abgeleitete Alltagsüberzeugungen aus Wissenschaft – _popularisiertes Wissen_
+### Abgeleitete Alltagsüberzeugungen aus Wissenschaft &mdash; _popularisiertes Wissen_
 
 Viele Menschen übernehmen gut bestätigte wissenschaftliche Ergebnisse als Überzeugungen, ohne die Studien selbst zu kennen. Sie glauben es einfach. :scream:
 
@@ -147,13 +147,13 @@ _ich glaube :_
   - Manche wollen lieber Atomkraftwerke trotz ihren Sicherheitsbedenken, andere wollen lieber Windräder: sicherer aber hässlich und lästig.
 
 [^bernays]:
-    **Edward Bernays** (1891–1995), ein früher PR- und Propaganda-Pionier.
+    **Edward Bernays** (1891&mdash;1995), ein früher PR- und Propaganda-Pionier.
     1929 organisierte er in den USA eine Medienaktion ("**Torches of Freedom**"), bei der Frauen öffentlich Zigaretten rauchten, um das Rauchen als Symbol weiblicher Emanzipation zu rahmen. Das war weniger ein Ausdruck realer Befreiung als eine gezielte Marketingstrategie (u. a. im Interesse der Tabakindustrie, wer hätte das gedacht :rofl:).
 
 [^antiIntello]:
     Die Intellektuellen haben immer genervt. **Sokrates** wurde gleich mal wegen "Verderbung der Jugend" zum Tode verurteilt.\
     In **Nazideutschland** werden die Intellektuellen als "entartet", "undeutsch", "jüdisch-bolschewistisch" und allgemein als "Volksfeinde" diffamiert. Ihre Bücher werden verbrand, sie werden ausgewiesen, verfolgt bis zur physischen Auslöschung.\
-    In **China unter Mao Zedong** (Kulturrevolution, 1966–1976) wurden Intellektuelle verfolgt, gedemütigt und auch physisch misshandelt. Intellektuelle mussten öffentlich ihre "feindlichen" Ansichten ablegen. ("Selbstkritik")\
+    In **China unter Mao Zedong** (Kulturrevolution, 1966&mdash;1976) wurden Intellektuelle verfolgt, gedemütigt und auch physisch misshandelt. Intellektuelle mussten öffentlich ihre "feindlichen" Ansichten ablegen. ("Selbstkritik")\
     In den **USA unter Trump** gibt es einen Grossangriff auf die Intellektuellen. Intellektuelle und Experten werden als "Eliten" oder "abgehoben" diffamiert (z. B. in der Rhetorik von Donald Trump oder Teilen der rechten Medien).\
     Es gibt Angriffe auf Wissenschaften: Klimaforschung, Gender Studies oder kritische Rassentheorie werden als "politisch motiviert" oder "unamerikanisch" angegriffen.\
     Wir sehen Zensurversuche: Bücherverbote in Schulen (z. B. in Florida oder Texas), Einschränkung der akademischen Freiheit.
@@ -163,7 +163,7 @@ _ich glaube :_
     Es gibt natürlich politisch-ökonomische Think Tanks, wie das _Heartland Institute_ (USA) oder _EIKE_ (Europäisches Institut für Klima und Energie, Deutschland), die oft zitiert werden.
     Diese Institute betreiben keine eigene, ergebnisoffene Forschung, sondern sind meist politisch motiviert oder werden durch Industriegelder (z. B. aus der Kohle- und Ölbranche) finanziert. Ihre "Studien" halten einer wissenschaftlichen Peer-Review-Prüfung in Fachmagazinen in der Regel nicht stand.
 
-### Normative (Sollen) Überzeugungen – "Was soll man tun?" (Ethik/Politik)
+### Normative (Sollen) Überzeugungen &mdash; "Was soll man tun?" (Ethik/Politik)
 
 Hier geht es nicht (nur) um Fakten, sondern um Werte und Handlungsregeln.
 
@@ -204,7 +204,7 @@ Meistens werden wir nur **aufzeigen** können (in Büchern, Filmen, Dokumentatio
 
 Mit Menschen, denen das Leid Anderer egal ist, die keine Empathie kennen, wie Rassisten, Sklavenhalter oder Absolutisten, kann man nicht oder nur sehr schwer argumentieren.
 
-### Metaphysischer Glauben und weltanschauliche Überzeugungen – Was existiert grundsätzlich?
+### Metaphysischer Glauben und weltanschauliche Überzeugungen &mdash; Was existiert grundsätzlich?
 
 Diese Fragen sind oft nicht (oder nur teilweise) empirisch entscheidbar.\
 Diese Glauben bilden die Grundlage unserer **Weltanschauung**, aller unserer **Überzeugungen**, unserer **Handlungensmaximen** und damit unserer **Identität**.
@@ -281,9 +281,9 @@ Da gab es im ehemaligen Ostblock diesen Witz:
 
 ### Was ist der Unterschied zwischen Glauben und Wissen?
 
-Glauben bedeutet, etwas für wahr zu halten, ohne es beweisen zu können. Wissen hingegen ist Glauben mit guten Gründen – wir haben Belege, Erfahrungen oder logische Argumente. Der Übergang ist fließend: Was heute Glauben ist, kann morgen durch neue Erkenntnisse zu Wissen werden.
+Glauben bedeutet, etwas für wahr zu halten, ohne es beweisen zu können. Wissen hingegen ist Glauben mit guten Gründen &mdash; wir haben Belege, Erfahrungen oder logische Argumente. Der Übergang ist fließend: Was heute Glauben ist, kann morgen durch neue Erkenntnisse zu Wissen werden.
 
-**Glauben** ist schnell und praktisch – wir können handeln, ohne alles zu durchdenken. Er gibt uns Orientierung und Halt in unsicheren Situationen.
+**Glauben** ist schnell und praktisch &mdash; wir können handeln, ohne alles zu durchdenken. Er gibt uns Orientierung und Halt in unsicheren Situationen.
 
 **Wissen** dagegen ist verlässlicher und hilft uns, bessere Entscheidungen zu treffen. Es schützt uns vor Irrtümern und macht uns unabhängiger von Autoritäten.
 
@@ -300,18 +300,18 @@ Das bedeutet: Ich glaube etwas (Überzeugung), es ist tatsächlich richtig (wahr
 <details>
   <summary>Ein Blick in die Geschichte: Wie dachten Philosophen über Wissen?</summary>
 
-**Platon** (428–348 v. Chr.) unterschied zwischen Wissen (_episteme_) und Meinung (_doxa_). Wahres Wissen bezog sich für ihn auf unveränderliche Ideen – wie mathematische Wahrheiten oder absolute Gerechtigkeit. Sinnliche Erfahrung war für ihn unzuverlässig.
+**Platon** (428&mdash;348 v. Chr.) unterschied zwischen Wissen (_episteme_) und Meinung (_doxa_). Wahres Wissen bezog sich für ihn auf unveränderliche Ideen &mdash; wie mathematische Wahrheiten oder absolute Gerechtigkeit. Sinnliche Erfahrung war für ihn unzuverlässig.
 
-**Aristoteles** (384–322 v. Chr.) war praktischer orientiert. Er sah Wissen als das Ergebnis von Beobachtung und logischer Schlussfolgerung. Seine Kategorien und Syllogismen prägten jahrhundertelang das abendländische Denken.
+**Aristoteles** (384&mdash;322 v. Chr.) war praktischer orientiert. Er sah Wissen als das Ergebnis von Beobachtung und logischer Schlussfolgerung. Seine Kategorien und Syllogismen prägten jahrhundertelang das abendländische Denken.
 
-**Edmund Gettier** (1927–2021) erschütterte 1963 mit nur drei Seiten die klassische Wissensdefinition. Er zeigte durch clevere Gedankenexperimente, dass man wahre, gerechtfertigte Überzeugungen haben kann, die trotzdem kein Wissen darstellen – die berühmten "Gettier-Probleme".
+**Edmund Gettier** (1927&mdash;2021) erschütterte 1963 mit nur drei Seiten die klassische Wissensdefinition. Er zeigte durch clevere Gedankenexperimente, dass man wahre, gerechtfertigte Überzeugungen haben kann, die trotzdem kein Wissen darstellen &mdash; die berühmten "Gettier-Probleme".
 
-Ein **Gettier-Beispiel**: Sie schauen auf die Uhr und denken "Es ist 14:30 Uhr". Die Uhr zeigt tatsächlich 14:30, aber sie ist seit gestern stehengeblieben. Zufällig ist es wirklich 14:30. Sie haben eine wahre, gerechtfertigte Überzeugung – aber ist das Wissen?
+Ein **Gettier-Beispiel**: Sie schauen auf die Uhr und denken "Es ist 14:30 Uhr". Die Uhr zeigt tatsächlich 14:30, aber sie ist seit gestern stehengeblieben. Zufällig ist es wirklich 14:30. Sie haben eine wahre, gerechtfertigte Überzeugung &mdash; aber ist das Wissen?
 
 </details>
 
 Das größte Problem ist die Wahrheitsfrage: Woher wissen wir, ob etwas wirklich wahr ist?
-Außerdem können wir auch mit guten Gründen falsch liegen – wie die Geschichte der Wissenschaft zeigt. Manche Philosophen bezweifeln daher, ob "absolutes" Wissen überhaupt möglich ist.
+Außerdem können wir auch mit guten Gründen falsch liegen &mdash; wie die Geschichte der Wissenschaft zeigt. Manche Philosophen bezweifeln daher, ob "absolutes" Wissen überhaupt möglich ist.
 
 ## Gründe und Rechtfertigungen
 
@@ -347,7 +347,7 @@ In der Politik geht es selten nur um Wahrheit, sondern auch um Macht, Werte und 
   - Grund: Extrapolation aus Wahlprogramm oder der Vergangenheit
   - Problem: Spekulation über ungewisse Zukunft
 
-- **"Das Volk hat entschieden – die Mehrheit hat recht."**
+- **"Das Volk hat entschieden &mdash; die Mehrheit hat recht."**
   - Grund: Demokratische Legitimität
   - Problem: Die Mehrheit kann sich auch irren. Wir haben oft keine Ahnung von der Komplexität gewisser Fragen.
 
@@ -365,7 +365,7 @@ In der Logik zählen nur die Regeln korrekten Schließens:
   - Grund: Gültige Schlussregel
   - Standard: Formale Gültigkeit
 
-**Logische Rechtfertigung** ist unabhängig vom Inhalt – sie garantiert nur, dass die Schlüsse korrekt sind, nicht dass die Ausgangspunkte wahr sind.
+**Logische Rechtfertigung** ist unabhängig vom Inhalt &mdash; sie garantiert nur, dass die Schlüsse korrekt sind, nicht dass die Ausgangspunkte wahr sind.
 
 ### Wissenschaft: Empirische Überprüfbarkeit und Reproduzierbarkeit
 
@@ -400,7 +400,7 @@ In der Kunst gelten andere Standards:
   - Grund: Emotionale Resonanz
   - Standard: Authentische persönliche Erfahrung
 
-**Ästhetische Rechtfertigung** ist subjektiver, aber nicht irrational – sie basiert auf Erfahrung, Tradition und geteilten kulturellen Codes.
+**Ästhetische Rechtfertigung** ist subjektiver, aber nicht irrational &mdash; sie basiert auf Erfahrung, Tradition und geteilten kulturellen Codes.
 
 ### Geisteswissenschaften: Interpretation und historische Kontextualisierung
 
@@ -415,7 +415,7 @@ Hier geht es um Verstehen, nicht nur Erklären:
   - Standard: Kohärente Erzählung mit historischen Quellen
   - Hier sollte man das "unvermeidlich" nicht zu stark betonen, denn wir sind in einem sozial-historischem Zusammenhang und nicht in der newtonischen Mechanik
 
-**Geisteswissenschaftliche Rechtfertigung** kombiniert empirische Forschung mit interpretativer Deutung – sie ist weniger "beweisend" als "plausibel machend".
+**Geisteswissenschaftliche Rechtfertigung** kombiniert empirische Forschung mit interpretativer Deutung &mdash; sie ist weniger "beweisend" als "plausibel machend".
 
 ### Philosophie: Rationale Argumentation und begriffliche Klarheit
 
@@ -435,7 +435,7 @@ Sie ist Kritik an Urteilsvermögen, Begriffsbildung und Sprache:
   - Grund: Vogelperspektive, philosophiegeschichtliche Betrachtungen
   - Standard: Plausibilität
 
-**Philosophische Rechtfertigung** will rein rational durch Vernunftkritik überzeugen – aber oft bleiben verschiedene, gleichermaßen rationale Positionen bestehen.
+**Philosophische Rechtfertigung** will rein rational durch Vernunftkritik überzeugen &mdash; aber oft bleiben verschiedene, gleichermaßen rationale Positionen bestehen.
 
 :::tip Fazit
 Je nach Kontext gelten andere Standards für gute Gründe:
@@ -535,7 +535,7 @@ Genau wie bei den Rechtfertigungen gibt es verschiedene Arten von Wahrheit:
 - Wissenschaftlicher Fortschritt ist Annäherung an Wahrheit, nicht deren Besitz.
 
 :::warning Die Gewissheitsfalle
-Absolute Gewissheit ist menschlich unmöglich – und das ist gut so.\
+Absolute Gewissheit ist menschlich unmöglich &mdash; und das ist gut so.\
 Gewissheit macht uns unbelehrbar und fanatisch.\
 Kritische Offenheit dagegen macht uns lernfähig.
 

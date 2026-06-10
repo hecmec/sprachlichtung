@@ -27,9 +27,9 @@ _Der Knüppel ist kein Argument._
 
 ## Definition
 
-Beim **Argumentum ad Baculum** (lat. *baculum* „Stock, Knüppel“) wird eine Behauptung nicht durch Gründe gestützt, sondern durch die **Androhung von Nachteilen** – Gewalt, Strafe, Jobverlust, sozialer Ausschluss – durchgesetzt.
+Beim **Argumentum ad Baculum** (lat. _baculum_ „Stock, Knüppel“) wird eine Behauptung nicht durch Gründe gestützt, sondern durch die **Androhung von Nachteilen** &mdash; Gewalt, Strafe, Jobverlust, sozialer Ausschluss &mdash; durchgesetzt.
 
-Der Fehler: Eine Drohung kann jemanden zur *Zustimmung* zwingen, sie macht die Behauptung aber nicht *wahr*. Macht ersetzt kein Argument.
+Der Fehler: Eine Drohung kann jemanden zur _Zustimmung_ zwingen, sie macht die Behauptung aber nicht _wahr_. Macht ersetzt kein Argument.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _appeal to force_ / _argumentum ad baculum_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Emotionsappell** – der Oberbegriff: hier wird die Furcht angesprochen.
-- **Argumentum ad Populum** – verwandt: sozialer Druck statt Sachgründe.
-- **Appell an die Folgen** – abzugrenzen: dort entscheiden die (unerwünschten) Folgen einer These über ihren Wahrheitswert; beim Baculum droht der Sprecher selbst mit einem Nachteil.
+- **Emotionsappell** &mdash; der Oberbegriff: hier wird die Furcht angesprochen.
+- **Argumentum ad Populum** &mdash; verwandt: sozialer Druck statt Sachgründe.
+- **Appell an die Folgen** &mdash; abzugrenzen: dort entscheiden die (unerwünschten) Folgen einer These über ihren Wahrheitswert; beim Baculum droht der Sprecher selbst mit einem Nachteil.
 
 ## Beispiele
 
@@ -61,7 +61,7 @@ Die Drohung sagt nichts darüber, ob der Vorschlag gut ist. Sie erzwingt nur äu
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Du wirst schon einsehen, dass ich recht habe – sonst gibt es Ärger.“
+> „Du wirst schon einsehen, dass ich recht habe &mdash; sonst gibt es Ärger.“
 
 Aus angedrohtem Ärger folgt nicht, dass die Behauptung zutrifft.
 

@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -26,9 +25,9 @@ Wir bevorzugen "uns" gegenüber "den anderen".
 
 ## Definition
 
-**Eigengruppenbevorzugung** ist die Tendenz, Mitglieder der eigenen ("Ingroup") gegenüber Mitgliedern einer anderen ("Outgroup") **systematisch zu bevorzugen** – in Bewertungen, Entscheidungen, Vertrauen und Ressourcenzuteilung.
+**Eigengruppenbevorzugung** ist die Tendenz, Mitglieder der eigenen ("Ingroup") gegenüber Mitgliedern einer anderen ("Outgroup") **systematisch zu bevorzugen** &mdash; in Bewertungen, Entscheidungen, Vertrauen und Ressourcenzuteilung.
 
-Die Zugehörigkeit allein – oft schon bei **Minimalgruppen** (zufällige Einteilung) – reicht aus, um spürbare Bevorzugungen zu erzeugen.
+Die Zugehörigkeit allein &mdash; oft schon bei **Minimalgruppen** (zufällige Einteilung) &mdash; reicht aus, um spürbare Bevorzugungen zu erzeugen.
 
 EN: _Ingroup Favoritism_ / _Ingroup Bias_
 
@@ -63,7 +62,7 @@ Argumente der eigenen politischen Lager werden großzügiger bewertet; dieselben
 
 ### Minimalgruppen-Paradigma (Tajfel)
 
-Schon zufällige Einteilungen (z. B. Präferenz für Gemälde A vs. B) führen dazu, dass Menschen **eigene Gruppenmitglieder bevorzugt** belohnen – ohne echte Geschichte oder Konflikt.
+Schon zufällige Einteilungen (z. B. Präferenz für Gemälde A vs. B) führen dazu, dass Menschen **eigene Gruppenmitglieder bevorzugt** belohnen &mdash; ohne echte Geschichte oder Konflikt.
 
 ## Auswirkungen
 

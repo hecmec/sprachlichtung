@@ -16,13 +16,11 @@ completeness: 4/5
 draft: false
 ---
 
-
 :::tip Kurz
 Der erste Eindruck beeinflusst stark unsere Entscheidungen.
 
 _Der erste Eindruck zählt._
 :::
-
 
 ## Definition
 
@@ -40,7 +38,6 @@ Der Ankereffekt hängt mit mehreren anderen Verzerrungen zusammen und wird von i
 - **Status-quo-Bias:** Der aktuelle Zustand dient oft als impliziter Anker, der Veränderungen erschwert.
 - **Verfügbarkeitsheuristik:** Häufig gehörte Zahlen oder Preise sind mental leichter verfügbar und werden leicht zu Ankern.
 
-
 ## Beispiele
 
 ### Preisverhandlungen
@@ -49,7 +46,7 @@ Der zuerst genannte Preis (Listenpreis, "Angebot") setzt einen Referenzpunkt. Se
 
 ### Gerichtsurteile
 
-Studien zeigen: Fordert die Staatsanwaltschaft eine hohe Strafe, fallen Urteile im Schnitt höher aus – der geforderte Wert dient als Anker, auch wenn Richterinnen und Richter ihn für überzogen halten.
+Studien zeigen: Fordert die Staatsanwaltschaft eine hohe Strafe, fallen Urteile im Schnitt höher aus &mdash; der geforderte Wert dient als Anker, auch wenn Richterinnen und Richter ihn für überzogen halten.
 
 ### Schätzfragen mit willkürlichen Zahlen
 

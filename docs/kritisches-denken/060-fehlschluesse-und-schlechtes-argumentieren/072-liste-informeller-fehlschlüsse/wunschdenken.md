@@ -27,9 +27,9 @@ _Wünschen macht es nicht wahr._
 
 ## Definition
 
-Beim **Wunschdenken** (*wishful thinking*) bestimmt nicht die Sachlage, sondern der **Wunsch**, was jemand für wahr hält. Die Annehmlichkeit einer Vorstellung wird mit ihrer Wahrheit verwechselt.
+Beim **Wunschdenken** (_wishful thinking_) bestimmt nicht die Sachlage, sondern der **Wunsch**, was jemand für wahr hält. Die Annehmlichkeit einer Vorstellung wird mit ihrer Wahrheit verwechselt.
 
-Der Fehler: Dass eine Aussage *angenehm* oder *wünschenswert* ist, sagt nichts über ihre *Richtigkeit*. Eng verwandt ist der Appell an die Folgen, bei dem aus den (un)erwünschten Konsequenzen einer These auf ihren Wahrheitswert geschlossen wird.
+Der Fehler: Dass eine Aussage _angenehm_ oder _wünschenswert_ ist, sagt nichts über ihre _Richtigkeit_. Eng verwandt ist der Appell an die Folgen, bei dem aus den (un)erwünschten Konsequenzen einer These auf ihren Wahrheitswert geschlossen wird.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _wishful thinking_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Emotionsappell** – verwandt: ein Gefühl (hier der Wunsch) ersetzt den Beleg.
-- **Persönliche Skepsis** – das negative Gegenstück: „Ich will/kann das nicht glauben, also ist es falsch.“
-- **Appell an die Folgen** – verwandt: aus den Folgen einer These auf ihren Wahrheitswert schliessen.
+- **Emotionsappell** &mdash; verwandt: ein Gefühl (hier der Wunsch) ersetzt den Beleg.
+- **Persönliche Skepsis** &mdash; das negative Gegenstück: „Ich will/kann das nicht glauben, also ist es falsch.“
+- **Appell an die Folgen** &mdash; verwandt: aus den Folgen einer These auf ihren Wahrheitswert schliessen.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _wishful thinking_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Mein Los wird sicher gewinnen – ich brauche das Geld einfach zu dringend.“
+> „Mein Los wird sicher gewinnen &mdash; ich brauche das Geld einfach zu dringend.“
 
 Die Dringlichkeit des Bedürfnisses ändert die Gewinnwahrscheinlichkeit nicht.
 

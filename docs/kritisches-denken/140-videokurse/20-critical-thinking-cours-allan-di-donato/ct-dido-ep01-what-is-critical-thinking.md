@@ -17,9 +17,9 @@ completeness: 3/5
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-This page provides an **overview of the Critical Thinking course** taught by Allan Di Donato, a philosophy professor at Central Piedmont Community College,  with nearly 20 years of experience.
+This page provides an **overview of the Critical Thinking course** taught by Allan Di Donato, a philosophy professor at Central Piedmont Community College, with nearly 20 years of experience.
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} 
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }}
 controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 
 &nbsp;
@@ -29,14 +29,16 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **1. Introduction to the Course and Instructor**
+
 - **Instructor:** Alan Ditonato, teaching philosophy and humanities for nearly 20 years.
-- **Course:** Humanities 115 – Critical Thinking, designed to be accessible and engaging, especially for online learners.
+- **Course:** Humanities 115 &mdash; Critical Thinking, designed to be accessible and engaging, especially for online learners.
 - **Approach:** Informal, conversational style, mirroring in-person teaching.
 - **Background:** Experience in logic, ethics, cultural studies, and leading study abroad programs.
 
 ---
 
 ### **2. Course Topics & Schedule**
+
 - **Key Themes:**
   - **Cognitive Bias & Persuasion:** Understanding how biases and rhetoric shape thinking and decision-making.
   - **Advertising Tactics:** Analyzing how media and store layouts exploit psychological predispositions.
@@ -45,12 +47,13 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
     - **Inductive Reasoning:** Certainty, probability, scientific/historical methods, causal reasoning.
     - **Deductive Logic:** Categorical logic, propositional logic, syllogisms, and formal argument structures.
   - **Philosophy of Science:** Exploring the intersection of science, logic, and critical analysis.
-- **Case Study:** Darwinism vs. Intelligent Design – A controversial, interdisciplinary topic to apply critical thinking skills (science, education, politics, religion).
+- **Case Study:** Darwinism vs. Intelligent Design &mdash; A controversial, interdisciplinary topic to apply critical thinking skills (science, education, politics, religion).
 - **Goal:** Develop skills to analyze arguments, spot fallacies, and distinguish science from pseudoscience.
 
 ---
 
 ### **3. What is Critical Thinking?**
+
 - **Definition:** The careful application of reason to determine the truth of claims.
 - **Core Skills:**
   - Distinguish rational from emotional claims.
@@ -63,6 +66,7 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **4. Key Vocabulary & Concepts**
+
 - **Belief/Opinion/Judgment:** Interchangeable terms for ideas held about a subject.
 - **Claim:** A statement with a truth value (true or false).
   - **Objective Claim:** Truth value independent of personal opinion (e.g., "Earth is round").
@@ -74,6 +78,7 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **5. Types of Claims & Issues**
+
 - **Factual (Objective) vs. Non-Factual (Subjective):**
   - **Factual:** Can be verified by agreed-upon criteria (e.g., "There is a planet beyond Pluto").
   - **Non-Factual:** Based on personal taste or preference (e.g., "Eggplant is funnier than broccoli").
@@ -86,6 +91,7 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **6. Arguments: Structure & Types**
+
 - **Components:**
   - **Premises:** Supporting claims.
   - **Conclusion:** The claim being argued for.
@@ -97,6 +103,7 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **7. Practical Application**
+
 - **Determining Subjective vs. Objective Issues:**
   - If disagreement means at least one party is wrong, it’s likely objective.
   - If established methods exist to settle the question, it’s objective.
@@ -108,12 +115,15 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 ---
 
 ### **8. Course Takeaways**
+
 - **Critical Thinking as a Process:** Actively assess opinions, claims, and arguments.
 - **Avoid Pitfalls:** Clarify ambiguity, question assumptions, and seek evidence.
 - **Interdisciplinary Relevance:** Skills apply to science, philosophy, ethics, and everyday decision-making.
 
 ---
+
 **Next Steps:** The course will delve into cognitive biases, followed by deeper exploration of logic, argumentation, and case studies.
 
 ---
+
 **Question for Reflection:** How might you apply these critical thinking skills to a real-world issue you care about?

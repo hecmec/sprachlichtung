@@ -27,7 +27,7 @@ _Ein Schritt, und alles rutscht ab._
 
 ## Definition
 
-Beim **Dammbruchargument** (*slippery slope*) wird behauptet, ein vergleichsweise harmloser erster Schritt führe **unausweichlich** zu einer Kette immer schlimmerer Folgen – ohne dass diese Unausweichlichkeit begründet wird.
+Beim **Dammbruchargument** (_slippery slope_) wird behauptet, ein vergleichsweise harmloser erster Schritt führe **unausweichlich** zu einer Kette immer schlimmerer Folgen &mdash; ohne dass diese Unausweichlichkeit begründet wird.
 
 Der Fehler: Die einzelnen Glieder der Folgenkette werden weder belegt noch in ihrer Wahrscheinlichkeit geprüft. Aus „A könnte zu B führen“ wird unzulässig „A führt zwangsläufig bis Z“. (Wo die Kette tatsächlich begründet wird, ist es kein Fehlschluss.)
 
@@ -43,9 +43,9 @@ EN: _slippery slope_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Baculum** – verwandt: Zustimmung durch geschürte Angst vor Folgen.
-- **Fehlschluss der relativen Geringfügigkeit** – die Gegenrichtung: dort wird ein Schritt verharmlost.
-- **Falsches Dilemma** – verwandt, wenn nur „alles zulassen“ oder „nichts zulassen“ erscheint.
+- **Argumentum ad Baculum** &mdash; verwandt: Zustimmung durch geschürte Angst vor Folgen.
+- **Fehlschluss der relativen Geringfügigkeit** &mdash; die Gegenrichtung: dort wird ein Schritt verharmlost.
+- **Falsches Dilemma** &mdash; verwandt, wenn nur „alles zulassen“ oder „nichts zulassen“ erscheint.
 
 ## Beispiele
 

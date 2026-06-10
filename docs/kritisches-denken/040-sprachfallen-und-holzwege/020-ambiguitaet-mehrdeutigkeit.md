@@ -4,16 +4,16 @@ sidebar_label: Ambiguität
 sidebar_position: 2
 description: "Erklärung zu verschiedenen Arten von Mehrdeutigkeiten in der Sprache und deren Auswirkungen auf das kritische Denken"
 keywords:
-    - Ambiguität
-    - Mehrdeutigkeit
-    - lexikalische Ambiguität
-    - syntaktische Ambiguität
-    - referentielle Ambiguität
-    - Missverständnisse
-    - Fehlschlüsse
+  - Ambiguität
+  - Mehrdeutigkeit
+  - lexikalische Ambiguität
+  - syntaktische Ambiguität
+  - referentielle Ambiguität
+  - Missverständnisse
+  - Fehlschlüsse
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
@@ -46,7 +46,7 @@ Syntaktische Ambiguität entsteht durch die Struktur eines Satzes, der auf versc
 
 **Beispiele:**
 
-- "Ich sah den Mann mit dem Fernglas." (Wer hatte das Fernglas – ich oder der Mann?)
+- "Ich sah den Mann mit dem Fernglas." (Wer hatte das Fernglas &mdash; ich oder der Mann?)
 - "Fliegende Flugzeuge können gefährlich sein." (Sind fliegende Flugzeuge gefährlich, oder können Flugzeuge gefährlich sein, wenn sie fliegen?)
 - "Sie sprach über Politik mit Leidenschaft." (War die Politik leidenschaftlich, oder war die Art des Sprechens leidenschaftlich?)
 
@@ -62,7 +62,7 @@ Referentielle Ambiguität entsteht, wenn unklar ist, worauf sich ein Pronomen od
 
 **Beispiele:**
 
-- "Paul sprach mit Peter über sein Problem." (Wessen Problem – Pauls oder Peters?)
+- "Paul sprach mit Peter über sein Problem." (Wessen Problem &mdash; Pauls oder Peters?)
 - "Nachdem die Mutter ihre Tochter geschlagen hatte, entschuldigte sie sich." (Wer entschuldigte sich?)
 - "Die Lehrer diskutierten mit den Schülern, weil sie unzufrieden waren." (Wer war unzufrieden?)
 

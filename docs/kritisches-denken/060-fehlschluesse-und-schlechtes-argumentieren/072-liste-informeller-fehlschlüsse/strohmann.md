@@ -27,7 +27,7 @@ _Einen Strohmann umstossen statt den Gegner._
 
 ## Definition
 
-Beim **Strohmann-Argument** (*straw man*) wird die Position des Gegenübers **verzerrt, übertrieben oder vereinfacht** dargestellt und dann diese leicht angreifbare Karikatur widerlegt – als hätte man die echte Position widerlegt.
+Beim **Strohmann-Argument** (_straw man_) wird die Position des Gegenübers **verzerrt, übertrieben oder vereinfacht** dargestellt und dann diese leicht angreifbare Karikatur widerlegt &mdash; als hätte man die echte Position widerlegt.
 
 Der Fehler: Widerlegt wird nicht das, was die Person tatsächlich vertritt, sondern ein selbst gebautes Zerrbild. Die wirkliche Position bleibt unangetastet.
 
@@ -44,9 +44,9 @@ EN: _straw man_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Ablenkung (Red Herring)** – verwandt: beide weichen der echten Sache aus.
-- **Turm-und-Wall-Fehler** – verwandtes Spiel mit verschobenen Positionen.
-- **Falsches Dilemma** – verwandt, wenn die Gegenposition auf eine extreme Variante verengt wird.
+- **Ablenkung (Red Herring)** &mdash; verwandt: beide weichen der echten Sache aus.
+- **Turm-und-Wall-Fehler** &mdash; verwandtes Spiel mit verschobenen Positionen.
+- **Falsches Dilemma** &mdash; verwandt, wenn die Gegenposition auf eine extreme Variante verengt wird.
 
 ## Beispiele
 
@@ -54,17 +54,17 @@ EN: _straw man_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Wir sollten Geflüchtete aufnehmen, die in Not sind.“
-> – „Du willst also das gesamte Elend der Welt zu uns holen und die Grenzen abschaffen.“
+> &mdash; „Wir sollten Geflüchtete aufnehmen, die in Not sind.“
+> &mdash; „Du willst also das gesamte Elend der Welt zu uns holen und die Grenzen abschaffen.“
 
-Aus „Menschen in Not aufnehmen“ wird „alle Grenzen abschaffen“ gemacht – eine Übertreibung, die so niemand vertreten hat.
+Aus „Menschen in Not aufnehmen“ wird „alle Grenzen abschaffen“ gemacht &mdash; eine Übertreibung, die so niemand vertreten hat.
 
 ### Beispiel 2
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Ich finde, Kinder sollten nicht den ganzen Tag fernsehen.“
-> – „Du willst den Kindern also jede Freude verbieten.“
+> &mdash; „Ich finde, Kinder sollten nicht den ganzen Tag fernsehen.“
+> &mdash; „Du willst den Kindern also jede Freude verbieten.“
 
 Die massvolle Aussage wird zu einem Verbot „jeder Freude“ aufgebauscht und dann empört zurückgewiesen.
 

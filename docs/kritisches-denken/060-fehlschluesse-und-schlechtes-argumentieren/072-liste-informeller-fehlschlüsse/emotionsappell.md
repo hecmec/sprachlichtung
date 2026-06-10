@@ -27,9 +27,9 @@ _Gefühle überzeugen, beweisen aber nicht._
 
 ## Definition
 
-Der **Emotionsappell** (*appeal to emotion*) ersetzt sachliche Gründe durch das gezielte Wecken von **Gefühlen** – Furcht, Mitleid, Stolz, Empörung, Hoffnung –, um Zustimmung zu erzeugen.
+Der **Emotionsappell** (_appeal to emotion_) ersetzt sachliche Gründe durch das gezielte Wecken von **Gefühlen** &mdash; Furcht, Mitleid, Stolz, Empörung, Hoffnung &mdash;, um Zustimmung zu erzeugen.
 
-Der Fehler: Gefühle können beeinflussen, was wir glauben *wollen*, sie sind aber kein Beleg dafür, was *wahr* ist. Ein starkes Gefühl macht eine Behauptung nicht richtig. Der Emotionsappell ist der Oberbegriff mehrerer benannter Spielarten.
+Der Fehler: Gefühle können beeinflussen, was wir glauben _wollen_, sie sind aber kein Beleg dafür, was _wahr_ ist. Ein starkes Gefühl macht eine Behauptung nicht richtig. Der Emotionsappell ist der Oberbegriff mehrerer benannter Spielarten.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _appeal to emotion_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Misericordiam** – Spielart: Appell an das Mitleid.
-- **Argumentum ad Baculum** – Spielart: Appell an die Furcht.
-- **Wunschdenken** – verwandt: der Wunsch ersetzt den Beleg.
+- **Argumentum ad Misericordiam** &mdash; Spielart: Appell an das Mitleid.
+- **Argumentum ad Baculum** &mdash; Spielart: Appell an die Furcht.
+- **Wunschdenken** &mdash; verwandt: der Wunsch ersetzt den Beleg.
 
 ## Beispiele
 
@@ -61,7 +61,7 @@ Der Appell an Schuld und Sorge ersetzt die sachliche Prüfung, ob das Gesetz tat
 
 <!-- Beschreibung Beispiel zwei -->
 
-> Ein Werbespot zeigt glückliche Familien zu emotionaler Musik – ohne ein einziges Argument für das Produkt.
+> Ein Werbespot zeigt glückliche Familien zu emotionaler Musik &mdash; ohne ein einziges Argument für das Produkt.
 
 Das erzeugte Wohlgefühl soll die Kaufentscheidung tragen, sagt aber nichts über die Qualität des Produkts.
 

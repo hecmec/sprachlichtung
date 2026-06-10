@@ -29,7 +29,7 @@ Der **Halo-Effekt** (auch: Heiligenschein-Effekt) ist eine kognitive Verzerrung,
 
 EN: _Halo Effect_
 
-Hinweis: Das Gegenstück ist der **Horn-Effekt** – ein negatives Merkmal färbt das übrige Urteil ab.
+Hinweis: Das Gegenstück ist der **Horn-Effekt** &mdash; ein negatives Merkmal färbt das übrige Urteil ab.
 
 ## Verwandschaft
 
@@ -47,7 +47,7 @@ Der Halo-Effekt hängt mit mehreren anderen Verzerrungen zusammen und wird von i
 
 ### Bewerbung und Leistungsbewertung
 
-Ein Bewerber mit sehr charismatischer Ausstrahlung oder eindrucksvoller Station im Lebenslauf wird insgesamt als kompetenter eingeschätzt – selbst bei schwachen Arbeitsproben. Das eine Merkmal (Charisma/Prestige) überstrahlt die eigentliche Eignung.
+Ein Bewerber mit sehr charismatischer Ausstrahlung oder eindrucksvoller Station im Lebenslauf wird insgesamt als kompetenter eingeschätzt &mdash; selbst bei schwachen Arbeitsproben. Das eine Merkmal (Charisma/Prestige) überstrahlt die eigentliche Eignung.
 
 ### Schule und Noten
 
@@ -55,7 +55,7 @@ Schülerinnen und Schüler, die besonders motiviert oder beliebt wirken, erhalte
 
 ### Marken- und Produktwahrnehmung
 
-Edles Design, hoher Preis oder ein prominentes Testurteil lassen Konsumentinnen und Konsumenten andere Eigenschaften (Zuverlässigkeit, Langlebigkeit, Sicherheit) überbewerten – unabhängig von harten Daten.
+Edles Design, hoher Preis oder ein prominentes Testurteil lassen Konsumentinnen und Konsumenten andere Eigenschaften (Zuverlässigkeit, Langlebigkeit, Sicherheit) überbewerten &mdash; unabhängig von harten Daten.
 
 ## Auswirkungen
 

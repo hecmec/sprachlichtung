@@ -24,6 +24,7 @@ Intellektuelle Tugenden sind Charaktereigenschaften, die eine Person zu einem gu
 ## Was sind intellektuelle Tugenden?
 
 Intellektuelle Tugenden können definiert werden als Eigenschaften, die:
+
 - Zur Wahrheitsfindung beitragen
 - Gutes Denken und Urteilen fördern
 - Den Erwerb von Wissen und Verständnis unterstützen
@@ -38,6 +39,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Neugier** ist der Wunsch, zu verstehen und zu wissen. Sie treibt uns an, Fragen zu stellen, zu forschen und über den Tellerrand hinauszuschauen.
 
 **Merkmale:**
+
 - Aktives Interesse an verschiedenen Themen und Perspektiven
 - Bereitschaft, Zeit und Energie in die Erforschung neuer Ideen zu investieren
 - Freude am Lernen und Entdecken
@@ -52,6 +54,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Demut** ist das Bewusstsein für die Grenzen des eigenen Wissens und die Bereitschaft, diese anzuerkennen.
 
 **Merkmale:**
+
 - Anerkennung der eigenen Fehlbarkeit
 - Offenheit für Korrekturen und Kritik
 - Bereitschaft, von anderen zu lernen
@@ -66,6 +69,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Autonomie** ist die Fähigkeit, selbstständig zu denken und eigene Urteile zu fällen, anstatt sich unkritisch auf Autoritäten oder die Meinung anderer zu verlassen.
 
 **Merkmale:**
+
 - Kritische Prüfung von Behauptungen, unabhängig von ihrer Quelle
 - Eigenständige Bewertung von Beweisen und Argumenten
 - Widerstand gegen intellektuellen Konformitätsdruck
@@ -80,6 +84,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Integrität** ist die Verpflichtung zu intellektueller Ehrlichkeit und die konsequente Anwendung der eigenen intellektuellen Standards.
 
 **Merkmale:**
+
 - Ehrliche Darstellung von Beweisen und Argumenten
 - Konsistente Anwendung von Standards, unabhängig davon, ob sie die eigene Position stützen
 - Bereitschaft, Fehler einzugestehen und zu korrigieren
@@ -94,6 +99,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Ausdauer** ist die Bereitschaft, trotz Schwierigkeiten, Frustration oder Widerstand an der Lösung komplexer Probleme zu arbeiten.
 
 **Merkmale:**
+
 - Beharrlichkeit bei der Verfolgung intellektueller Ziele
 - Widerstandsfähigkeit gegenüber Frustration und Rückschlägen
 - Bereitschaft, Zeit und Energie in tiefes Verständnis zu investieren
@@ -108,6 +114,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Fairness** ist die Bereitschaft, alle relevanten Perspektiven fair und unvoreingenommen zu betrachten.
 
 **Merkmale:**
+
 - Berücksichtigung aller relevanten Beweise und Argumente
 - Faire Darstellung gegnerischer Positionen
 - Vermeidung von Voreingenommenheit und Doppelstandards
@@ -122,12 +129,13 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektueller Mut** ist die Bereitschaft, unpopuläre Ideen zu verfolgen, etablierte Überzeugungen zu hinterfragen und intellektuelle Risiken einzugehen.
 
 **Merkmale:**
+
 - Bereitschaft, gegen den Strom zu schwimmen
 - Mut, schwierige oder unbequeme Fragen zu stellen
 - Standhaftigkeit gegenüber sozialen Sanktionen für abweichende Meinungen
 - Offenheit für die Revision tief verwurzelter Überzeugungen
 
-**Beispiel:** Ignaz Semmelweis zeigte intellektuellen Mut, als er gegen den medizinischen Konsens seiner Zeit die Theorie aufstellte, dass Ärzte durch mangelnde Handhygiene Kindbettfieber verbreiteten – eine Idee, die zunächst vehement abgelehnt wurde, sich aber später als richtig erwies.
+**Beispiel:** Ignaz Semmelweis zeigte intellektuellen Mut, als er gegen den medizinischen Konsens seiner Zeit die Theorie aufstellte, dass Ärzte durch mangelnde Handhygiene Kindbettfieber verbreiteten &mdash; eine Idee, die zunächst vehement abgelehnt wurde, sich aber später als richtig erwies.
 
 **Praktische Anwendung:** Üben Sie, respektvoll Fragen zu stellen, die grundlegende Annahmen herausfordern. Verfolgen Sie Gedanken, die zunächst unkonventionell erscheinen. Seien Sie bereit, Ihre eigenen Überzeugungen zu überprüfen, selbst wenn dies unbequem ist.
 
@@ -136,6 +144,7 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Intellektuelle Empathie** ist die Fähigkeit, sich in die Denkweise anderer hineinzuversetzen und ihre Perspektiven zu verstehen.
 
 **Merkmale:**
+
 - Fähigkeit, Argumente aus der Perspektive anderer zu betrachten
 - Verständnis für die Gründe und Motivationen hinter abweichenden Meinungen
 - Sensibilität für unterschiedliche intellektuelle Hintergründe und Kontexte

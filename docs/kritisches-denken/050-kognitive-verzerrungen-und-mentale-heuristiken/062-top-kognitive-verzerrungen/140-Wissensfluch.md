@@ -53,7 +53,7 @@ Lehrende überspringen "offensichtliche" Zwischenschritte. Lernende verstehen di
 
 ### Medizinische Aufklärung
 
-Ärztliche Beratung voller Fachjargon ("idiopathisch", "Komorbidität") – Patientinnen verstehen Risiken, Alternativen und Nebenwirkungen nicht.
+Ärztliche Beratung voller Fachjargon ("idiopathisch", "Komorbidität") &mdash; Patientinnen verstehen Risiken, Alternativen und Nebenwirkungen nicht.
 
 ### Produkt- und UX-Design
 
@@ -75,7 +75,7 @@ Finanz- oder Rechtsjargon in Mails/Reports; Teams treffen falsche Entscheidungen
 
 - **Einfache Sprache:** Klare, kurze Sätze verwenden; Fachbegriffe erklären.
 - **Abgestufte Erklärungen:** Erst Überblick (Zusammenfassung, Schnelleinstieg), dann Details; schrittweise Vertiefung.
-- **Rückfrage-Methode:** Gegenüber erklärt mit eigenen Worten – Verständnis prüfen.
+- **Rückfrage-Methode:** Gegenüber erklärt mit eigenen Worten &mdash; Verständnis prüfen.
 - **Tests mit der Zielgruppe:** Verständlichkeit und Nutzbarkeit mit Anfängerinnen testen; iterativ verbessern.
 - **Glossar & Beispiele:** Schlüsselbegriffe definieren; anschauliche Analogien und Schritt-für-Schritt-Beispiele.
 - **Checklisten:** Explizite Schritte statt impliziter "Selbstverständlichkeiten".

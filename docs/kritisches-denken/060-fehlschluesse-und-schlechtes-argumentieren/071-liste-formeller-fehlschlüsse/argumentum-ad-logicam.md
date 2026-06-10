@@ -55,9 +55,9 @@ EN: _fallacy fallacy_ / _argument from fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Non sequitur** – Der Argumentum ad Logicam ist letztlich ein Non sequitur: Aus „das Argument ist fehlerhaft“ folgt eben nicht „die Behauptung ist falsch“.
-- **Genetischer Fehlschluss** – Verwandt insofern, als auch hier eine Behauptung nicht anhand ihres Inhalts, sondern anhand von etwas Äusserlichem (ihrer Herkunft bzw. ihrer Begründung) bewertet wird.
-- **Strohmann-Argument** – Wird oft mit dem Argumentum ad Logicam kombiniert: Man widerlegt eine schwache (oder verzerrte) Begründung und erklärt damit die eigentliche These für erledigt.
+- **Non sequitur** &mdash; Der Argumentum ad Logicam ist letztlich ein Non sequitur: Aus „das Argument ist fehlerhaft“ folgt eben nicht „die Behauptung ist falsch“.
+- **Genetischer Fehlschluss** &mdash; Verwandt insofern, als auch hier eine Behauptung nicht anhand ihres Inhalts, sondern anhand von etwas Äusserlichem (ihrer Herkunft bzw. ihrer Begründung) bewertet wird.
+- **Strohmann-Argument** &mdash; Wird oft mit dem Argumentum ad Logicam kombiniert: Man widerlegt eine schwache (oder verzerrte) Begründung und erklärt damit die eigentliche These für erledigt.
 
 ## Beispiele
 
@@ -80,8 +80,8 @@ Egal wie der heisst, der Schluss ist tatsächlich ungültig, doch das deswegen s
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Die Erde ist rund, denn meine Lehrerin hat das gesagt.“
-> – „Das ist ein Autoritätsargument, also ein Fehlschluss. Folglich ist die Erde _nicht_ rund.“
+> &mdash; „Die Erde ist rund, denn meine Lehrerin hat das gesagt.“
+> &mdash; „Das ist ein Autoritätsargument, also ein Fehlschluss. Folglich ist die Erde _nicht_ rund.“
 
 Die Begründung („meine Lehrerin hat das gesagt“) ist tatsächlich ein schwaches Argument. Daraus zu schliessen, die Erde sei nicht rund, ist jedoch der Argumentum ad Logicam: Die Erde ist nach wie vor rund, nur eben aus anderen Gründen.
 
@@ -89,8 +89,8 @@ Die Begründung („meine Lehrerin hat das gesagt“) ist tatsächlich ein schwa
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Rauchen ist ungesund, weil es schon meine Grossmutter immer gesagt hat.“
-> – „Das ist nur ein Anekdoten- und Traditionsargument. Rauchen ist also gar nicht ungesund.“
+> &mdash; „Rauchen ist ungesund, weil es schon meine Grossmutter immer gesagt hat.“
+> &mdash; „Das ist nur ein Anekdoten- und Traditionsargument. Rauchen ist also gar nicht ungesund.“
 
 Auch hier ist das vorgebrachte Argument schwach. Die Schädlichkeit des Rauchens ist aber durch umfangreiche wissenschaftliche Evidenz gut belegt. Der schlechte Begründungsversuch der einen Person ändert daran nichts.
 

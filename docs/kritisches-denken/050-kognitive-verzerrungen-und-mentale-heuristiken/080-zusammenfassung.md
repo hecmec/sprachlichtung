@@ -19,7 +19,7 @@ draft: false
 
 <!-- markdownlint-disable MD024 -->
 
-In diesem Kapitel haben wir uns mit kognitiven Verzerrungen und mentalen Heuristiken befasst – systematischen Mustern in unserem Denken, die zu Fehlurteilen und irrationalen Entscheidungen führen können.
+In diesem Kapitel haben wir uns mit kognitiven Verzerrungen und mentalen Heuristiken befasst &mdash; systematischen Mustern in unserem Denken, die zu Fehlurteilen und irrationalen Entscheidungen führen können.
 
 Wir haben gelernt:
 
@@ -50,4 +50,3 @@ Das Bewusstsein für kognitive Verzerrungen und die Anwendung von Strategien zu 
 - https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
-

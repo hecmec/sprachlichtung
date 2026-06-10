@@ -27,9 +27,9 @@ _Eine Ursache, wo viele zusammenwirken._
 
 ## Definition
 
-Beim **mono-kausalen Denken** (*causal oversimplification*) wird eine Wirkung, die in Wahrheit von **mehreren Ursachen** abhängt, auf eine **einzige** Ursache zurückgeführt. Das Zusammenspiel der Faktoren wird ausgeblendet.
+Beim **mono-kausalen Denken** (_causal oversimplification_) wird eine Wirkung, die in Wahrheit von **mehreren Ursachen** abhängt, auf eine **einzige** Ursache zurückgeführt. Das Zusammenspiel der Faktoren wird ausgeblendet.
 
-Der Fehler: Viele Phänomene – gesellschaftliche, gesundheitliche, wirtschaftliche – entstehen aus einem Geflecht von Ursachen. Wer nur eine herausgreift, vereinfacht unzulässig und zieht oft die falschen Schlüsse.
+Der Fehler: Viele Phänomene &mdash; gesellschaftliche, gesundheitliche, wirtschaftliche &mdash; entstehen aus einem Geflecht von Ursachen. Wer nur eine herausgreift, vereinfacht unzulässig und zieht oft die falschen Schlüsse.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _causal oversimplification_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Post hoc ergo propter hoc** – verwandt: vorschnelle Ursachenzuschreibung.
-- **Falsches Dilemma** – verwandt: künstliche Verengung der Möglichkeiten.
-- **Rosinenpicken** – verwandt, wenn nur der eine passende Faktor betont wird.
+- **Post hoc ergo propter hoc** &mdash; verwandt: vorschnelle Ursachenzuschreibung.
+- **Falsches Dilemma** &mdash; verwandt: künstliche Verengung der Möglichkeiten.
+- **Rosinenpicken** &mdash; verwandt, wenn nur der eine passende Faktor betont wird.
 
 ## Beispiele
 

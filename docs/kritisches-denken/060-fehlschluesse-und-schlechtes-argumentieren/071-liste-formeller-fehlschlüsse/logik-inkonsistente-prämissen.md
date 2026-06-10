@@ -30,7 +30,7 @@ _Wer sich widerspricht, kann alles beweisen._
 
 Von **inkonsistenten Prämissen** spricht man, wenn die Voraussetzungen eines Arguments einander widersprechen, also nicht alle zugleich wahr sein können.
 
-Das Tückische daran: Aus einem Widerspruch folgt formal _alles_ (lat. _ex falso quodlibet_ – „aus Falschem beliebiges“). Ein solches Argument kann jede beliebige Konklusion scheinbar „beweisen“ – und beweist gerade deshalb nichts. Da die Prämissen nicht gemeinsam wahr sein können, ist das Argument niemals stichhaltig (_unsound_), auch wenn die Schlussform gültig ist.
+Das Tückische daran: Aus einem Widerspruch folgt formal _alles_ (lat. _ex falso quodlibet_ &mdash; „aus Falschem beliebiges“). Ein solches Argument kann jede beliebige Konklusion scheinbar „beweisen“ &mdash; und beweist gerade deshalb nichts. Da die Prämissen nicht gemeinsam wahr sein können, ist das Argument niemals stichhaltig (_unsound_), auch wenn die Schlussform gültig ist.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -46,9 +46,9 @@ EN: _inconsistent premises_ / _contradictory premises_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Ex falso quodlibet** – das logische Prinzip, das dem Fehlschluss zugrunde liegt.
-- **Non sequitur** – verwandt insofern, als die Konklusion in keinem inhaltlichen Verhältnis zu den Prämissen steht.
-- **Zirkelschluss** – ebenfalls ein Strukturfehler der Prämissen, dort durch Voraussetzung des zu Beweisenden.
+- **Ex falso quodlibet** &mdash; das logische Prinzip, das dem Fehlschluss zugrunde liegt.
+- **Non sequitur** &mdash; verwandt insofern, als die Konklusion in keinem inhaltlichen Verhältnis zu den Prämissen steht.
+- **Zirkelschluss** &mdash; ebenfalls ein Strukturfehler der Prämissen, dort durch Voraussetzung des zu Beweisenden.
 
 ## Beispiele
 
@@ -61,16 +61,16 @@ EN: _inconsistent premises_ / _contradictory premises_
 > 3. Ein Pinguin kann nicht fliegen.
 > 4. Also ist der Mond aus Käse.
 
-Die Prämissen 1–3 können nicht alle zugleich wahr sein: Aus 1 und 2 folgt, dass ein Pinguin fliegen kann – im Widerspruch zu 3. Sobald ein solcher Widerspruch im Spiel ist, lässt sich formal **jede beliebige**, auch völlig unverbundene Konklusion „herleiten“. Genau das macht das Argument wertlos.
+Die Prämissen 1&mdash;3 können nicht alle zugleich wahr sein: Aus 1 und 2 folgt, dass ein Pinguin fliegen kann &mdash; im Widerspruch zu 3. Sobald ein solcher Widerspruch im Spiel ist, lässt sich formal **jede beliebige**, auch völlig unverbundene Konklusion „herleiten“. Genau das macht das Argument wertlos.
 
 ### Beispiel 2
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Ich war den ganzen Abend allein zu Hause, also kann ich der Täter nicht sein.“
-> – „Du hast vorhin selbst gesagt, du seist den ganzen Abend mit Tom im Kino gewesen.“
+> &mdash; „Ich war den ganzen Abend allein zu Hause, also kann ich der Täter nicht sein.“
+> &mdash; „Du hast vorhin selbst gesagt, du seist den ganzen Abend mit Tom im Kino gewesen.“
 
-Beide Aussagen können nicht zugleich wahr sein. Eine Verteidigung, die sich auf widersprüchliche Voraussetzungen stützt, begründet nichts – aus ihr liesse sich ebenso „beweisen“, dass die Person der Täter *ist*.
+Beide Aussagen können nicht zugleich wahr sein. Eine Verteidigung, die sich auf widersprüchliche Voraussetzungen stützt, begründet nichts &mdash; aus ihr liesse sich ebenso „beweisen“, dass die Person der Täter _ist_.
 
 ## Quellen
 

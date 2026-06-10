@@ -22,12 +22,12 @@ draft: false
 :::tip Kurz
 Eine allgemeine Regel wird starr auf einen Ausnahmefall angewandt, für den sie nicht gilt.
 
-_Die Regel kennt Ausnahmen – das Argument nicht._
+_Die Regel kennt Ausnahmen &mdash; das Argument nicht._
 :::
 
 ## Definition
 
-Beim **Accident-Fehlschluss** (lat. *a dicto simpliciter ad dictum secundum quid* – „vom einfach Gesagten zum unter Umständen Gesagten“) wird eine **allgemeine Regel**, die im Normalfall gilt, auf einen **Sonderfall** übertragen, auf den sie gerade nicht passt.
+Beim **Accident-Fehlschluss** (lat. _a dicto simpliciter ad dictum secundum quid_ &mdash; „vom einfach Gesagten zum unter Umständen Gesagten“) wird eine **allgemeine Regel**, die im Normalfall gilt, auf einen **Sonderfall** übertragen, auf den sie gerade nicht passt.
 
 Der Fehler: Allgemeine Regeln gelten „grundsätzlich“ und kennen begründete Ausnahmen. Wer den Ausnahmecharakter eines Falls übergeht, zieht aus einer richtigen Regel einen falschen Schluss.
 
@@ -43,9 +43,9 @@ EN: _fallacy of accident_ / _a dicto simpliciter_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Missbrauch eines Prinzips** – sehr eng verwandt: starre Anwendung einer Regel ausserhalb ihres Geltungsbereichs.
-- **Hastige Verallgemeinerung** – das Gegenstück (*converse accident*): aus einem Sonderfall wird eine allgemeine Regel.
-- **Kein wahrer Schotte** – verwandtes Spiel mit Regeln und Ausnahmen.
+- **Missbrauch eines Prinzips** &mdash; sehr eng verwandt: starre Anwendung einer Regel ausserhalb ihres Geltungsbereichs.
+- **Hastige Verallgemeinerung** &mdash; das Gegenstück (_converse accident_): aus einem Sonderfall wird eine allgemeine Regel.
+- **Kein wahrer Schotte** &mdash; verwandtes Spiel mit Regeln und Ausnahmen.
 
 ## Beispiele
 
@@ -70,5 +70,5 @@ Die Regel „die Wahrheit sagen“ deckt diesen Notfall nicht ab. Ihre starre An
 <!-- Wo wird dieser Fehlschluss beschrieben. (Wikipedia, etc) -->
 
 - [Wikipedia: Trugschluss der Akzidenz](https://de.wikipedia.org/wiki/Trugschluss_der_Akzidenz)
-- [Wikipedia: Accident (fallacy)](https://en.wikipedia.org/wiki/Accident_(fallacy))
+- [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)

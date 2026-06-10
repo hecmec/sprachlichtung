@@ -27,14 +27,14 @@ _Was nicht gesagt wird, wirkt am stärksten._
 
 ## Definition
 
-Die **suggestive Anspielung** (*innuendo*) erzeugt einen negativen Eindruck nicht durch eine offene Behauptung, sondern durch **Andeutungen, Fragen oder Auslassungen**. So wird ein Verdacht in den Raum gestellt, ohne dass man ihn ausspricht – und damit auch nicht belegen muss.
+Die **suggestive Anspielung** (_innuendo_) erzeugt einen negativen Eindruck nicht durch eine offene Behauptung, sondern durch **Andeutungen, Fragen oder Auslassungen**. So wird ein Verdacht in den Raum gestellt, ohne dass man ihn ausspricht &mdash; und damit auch nicht belegen muss.
 
 Der Fehler: Die Andeutung schmuggelt eine unbewiesene Unterstellung ein. Sie nutzt aus, dass Zuhörer die Lücke selbst mit dem nahegelegten Verdacht füllen.
 
 Der Fehlschluss hat die folgende Form:
 
 1. Es wird suggeriert, dass über A etwas Belastendes (E) gilt.
-2. E wird nie ausdrücklich behauptet – und daher auch nicht belegt.
+2. E wird nie ausdrücklich behauptet &mdash; und daher auch nicht belegt.
 3. Das Publikum hält E dennoch für nahegelegt.
 
 EN: _insinuation_ / _innuendo_
@@ -43,9 +43,9 @@ EN: _insinuation_ / _innuendo_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Brunnenvergiftung** – verwandt: vorab erzeugtes Misstrauen gegen eine Person.
-- **Komplexe Frage** – verwandt: eine unbewiesene Annahme steckt in einer Frage.
-- **Ablenkung (Red Herring)** – verwandt, wenn die Anspielung vom Thema weglenkt.
+- **Brunnenvergiftung** &mdash; verwandt: vorab erzeugtes Misstrauen gegen eine Person.
+- **Komplexe Frage** &mdash; verwandt: eine unbewiesene Annahme steckt in einer Frage.
+- **Ablenkung (Red Herring)** &mdash; verwandt, wenn die Anspielung vom Thema weglenkt.
 
 ## Beispiele
 
@@ -55,7 +55,7 @@ EN: _insinuation_ / _innuendo_
 
 > „Fragen Sie ihn doch einmal, wie er eigentlich seinen Wahlkampf finanziert.“
 
-Es wird nichts behauptet – und doch der Verdacht dunkler Geldquellen geweckt, ganz ohne Beleg.
+Es wird nichts behauptet &mdash; und doch der Verdacht dunkler Geldquellen geweckt, ganz ohne Beleg.
 
 ### Beispiel 2
 

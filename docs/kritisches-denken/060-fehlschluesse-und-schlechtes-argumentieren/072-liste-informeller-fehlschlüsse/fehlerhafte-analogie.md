@@ -27,9 +27,9 @@ _Ähnlich ist nicht gleich._
 
 ## Definition
 
-Bei der **fehlerhaften Analogie** (*false analogy*) wird aus der Ähnlichkeit zweier Dinge in **einem** Merkmal geschlossen, sie stimmten auch in einem **anderen, entscheidenden** Merkmal überein – obwohl gerade in diesem Punkt **relevante Unterschiede** bestehen.
+Bei der **fehlerhaften Analogie** (_false analogy_) wird aus der Ähnlichkeit zweier Dinge in **einem** Merkmal geschlossen, sie stimmten auch in einem **anderen, entscheidenden** Merkmal überein &mdash; obwohl gerade in diesem Punkt **relevante Unterschiede** bestehen.
 
-Der Fehler: Analogien können erhellen, beweisen aber nichts, wenn die verglichenen Fälle sich gerade im fraglichen Punkt unterscheiden. Massgeblich ist, ob die Ähnlichkeit *relevant* für die gezogene Schlussfolgerung ist.
+Der Fehler: Analogien können erhellen, beweisen aber nichts, wenn die verglichenen Fälle sich gerade im fraglichen Punkt unterscheiden. Massgeblich ist, ob die Ähnlichkeit _relevant_ für die gezogene Schlussfolgerung ist.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -45,8 +45,8 @@ EN: _false analogy_ / _weak analogy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Hastige Verallgemeinerung** – verwandt: unzulässiger Übertrag auf einen anderen Fall.
-- **Missbrauch eines Prinzips** – verwandt, wenn eine Regel auf einen nicht vergleichbaren Fall übertragen wird.
+- **Hastige Verallgemeinerung** &mdash; verwandt: unzulässiger Übertrag auf einen anderen Fall.
+- **Missbrauch eines Prinzips** &mdash; verwandt, wenn eine Regel auf einen nicht vergleichbaren Fall übertragen wird.
 
 ## Beispiele
 
@@ -62,7 +62,7 @@ Staat und Familie ähneln sich in manchem, unterscheiden sich aber gerade in den
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Der Körper braucht bei Krankheit manchmal einen Schnitt – also braucht die Gesellschaft bei Problemen harte Einschnitte.“
+> „Der Körper braucht bei Krankheit manchmal einen Schnitt &mdash; also braucht die Gesellschaft bei Problemen harte Einschnitte.“
 
 Die Übertragung der medizinischen Bildsprache auf die Gesellschaft setzt Vergleichbarkeit voraus, die nicht gegeben ist.
 

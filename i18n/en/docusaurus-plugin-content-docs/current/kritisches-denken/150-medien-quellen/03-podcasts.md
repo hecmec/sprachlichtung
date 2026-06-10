@@ -22,13 +22,16 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=51411da4-->
+
 - Here are a few podcasts on language, critical thinking and philosophy.
 - We keep adding new ones.
 
 <!--t src=d9064981-->
+
 ## Critical Thinking
 
 <!--t src=346bccbe-->
+
 - 🇩🇪 [kritisches-denken-podcast.de](https://kritisches-denken-podcast.de/)
   - Over 100 episodes on critical thinking and science, and how it creates knowledge.
 - 🇬🇧 [The Skeptics' Guide to the Universe](https://www.theskepticsguide.org/) (Steven Novella)
@@ -41,21 +44,25 @@ custom_translation_overwritten: false
   - A long-running French podcast on zététique, pseudosciences and critical thinking.
 
 <!--t src=035e163a-->
+
 ## Philosophy of Language
 
 <!--t src=b5237572-->
+
 - 🇬🇧 [Philosophy Bites](https://philosophybites.com/) (Nigel Warburton & David Edmonds)
   - Short interviews with leading philosophers, including on meaning, language and logic.
-- 🇫🇷 [Les Chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) – France Culture
+- 🇫🇷 [Les Chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) &mdash; France Culture
   - A daily, well-researched programme on philosophical topics, including the philosophy of language.
 
 <!--t src=07c849dc-->
+
 ## Language and Society
 
 <!--t src=abf44a95-->
-- 🇩🇪 [Wortcast – der Podcast der GfdS](https://gfds.de/podcast/) – Gesellschaft für deutsche Sprache
+
+- 🇩🇪 [Wortcast &mdash; der Podcast der GfdS](https://gfds.de/podcast/) &mdash; Gesellschaft für deutsche Sprache
   - Current topics around language: language change, words of the year, the formal vs. informal "you".
 - 🇬🇧 [Lingthusiasm](https://lingthusiasm.com/) (Gretchen McCulloch & Lauren Gawne)
-  - "A podcast that's enthusiastic about linguistics" – well-grounded and entertaining on everyday language.
-- 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) – Binge Audio
+  - "A podcast that's enthusiastic about linguistics" &mdash; well-grounded and entertaining on everyday language.
+- 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) &mdash; Binge Audio
   - Linguist Laélia Véron on language, power and societal debates around speech.

@@ -11,7 +11,7 @@ last_update:
 
 # Zusammenfassung
 
-In diesem Kapitel haben wir uns mit Paradoxien befasst – scheinbar widersprüchlichen Aussagen oder Situationen, die trotz logisch korrekter Argumentation zu Widersprüchen oder absurden Schlussfolgerungen führen.
+In diesem Kapitel haben wir uns mit Paradoxien befasst &mdash; scheinbar widersprüchlichen Aussagen oder Situationen, die trotz logisch korrekter Argumentation zu Widersprüchen oder absurden Schlussfolgerungen führen.
 
 Wir haben gelernt:
 

@@ -27,7 +27,7 @@ _Den Brunnen vergiften, bevor jemand trinkt._
 
 ## Definition
 
-Die **Brunnenvergiftung** (engl. *poisoning the well*) ist eine vorbeugende Form des **Argumentum ad Hominem**: Noch bevor eine Person ein Argument vorbringt, wird sie mit negativen (oft irrelevanten) Informationen belegt, sodass das Publikum sie von vornherein ablehnt.
+Die **Brunnenvergiftung** (engl. _poisoning the well_) ist eine vorbeugende Form des **Argumentum ad Hominem**: Noch bevor eine Person ein Argument vorbringt, wird sie mit negativen (oft irrelevanten) Informationen belegt, sodass das Publikum sie von vornherein ablehnt.
 
 Der Fehler: Was über die Person gesagt wird, betrifft nicht den Wahrheitsgehalt dessen, was sie anschliessend sagt. Die Vorab-Diskreditierung soll eine sachliche Prüfung verhindern.
 
@@ -43,9 +43,9 @@ EN: _poisoning the well_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Hominem** – der Oberbegriff; die Brunnenvergiftung ist die *präventive* Variante.
-- **Suggestive Anspielung** – verwandt: ein Verdacht wird ohne Beleg in den Raum gestellt.
-- **Genetischer Fehlschluss** – Bewertung nach Quelle statt nach Inhalt.
+- **Argumentum ad Hominem** &mdash; der Oberbegriff; die Brunnenvergiftung ist die _präventive_ Variante.
+- **Suggestive Anspielung** &mdash; verwandt: ein Verdacht wird ohne Beleg in den Raum gestellt.
+- **Genetischer Fehlschluss** &mdash; Bewertung nach Quelle statt nach Inhalt.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _poisoning the well_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Bevor mein Vorredner gleich spricht, sollten Sie wissen, dass er von der Industrie bezahlt wird – urteilen Sie selbst.“
+> „Bevor mein Vorredner gleich spricht, sollten Sie wissen, dass er von der Industrie bezahlt wird &mdash; urteilen Sie selbst.“
 
 Die Bezahlung mag Anlass zur Vorsicht geben, widerlegt seine Argumente aber nicht im Voraus. Das Publikum wird gegen ihn eingenommen, bevor er etwas gesagt hat.
 
@@ -69,6 +69,6 @@ Wer dem Vorschlag danach zustimmt, gilt automatisch als herzlos. Die Aussage imm
 
 <!-- Wo wird dieser Fehlschluss beschrieben. (Wikipedia, etc) -->
 
-- [Wikipedia: Brunnenvergiftung (Rhetorik)](https://de.wikipedia.org/wiki/Brunnenvergiftung_(Rhetorik))
+- [Wikipedia: Brunnenvergiftung (Rhetorik)](<https://de.wikipedia.org/wiki/Brunnenvergiftung_(Rhetorik)>)
 - [Wikipedia: Poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well)
 - [Logically Fallacious: Poisoning the Well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)

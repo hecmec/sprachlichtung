@@ -14,7 +14,6 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
 
 <!-- # Formales vs. informelles Schließen -->
@@ -26,6 +25,7 @@ Logisches Schließen kann in zwei Hauptkategorien eingeteilt werden: formales un
 **Formales Schließen** basiert auf expliziten Regeln und Strukturen, die unabhängig vom Inhalt der Argumente sind. Es konzentriert sich auf die Form oder Struktur eines Arguments und verwendet oft symbolische Notation.
 
 Merkmale des formalen Schließens:
+
 - Verwendung formaler Systeme wie Prädikatenlogik oder Aussagenlogik
 - Strenge Regeln für gültige Schlussfolgerungen
 - Unabhängigkeit vom spezifischen Inhalt
@@ -37,7 +37,7 @@ Prämisse 1: Alle A sind B.
 Prämisse 2: Alle B sind C.
 Schlussfolgerung: Alle A sind C.
 
-Dieses Argumentationsmuster ist unabhängig vom spezifischen Inhalt gültig. Es spielt keine Rolle, wofür A, B und C stehen – die Schlussfolgerung folgt notwendigerweise aus den Prämissen.
+Dieses Argumentationsmuster ist unabhängig vom spezifischen Inhalt gültig. Es spielt keine Rolle, wofür A, B und C stehen &mdash; die Schlussfolgerung folgt notwendigerweise aus den Prämissen.
 
 ## Informelles Schließen
 

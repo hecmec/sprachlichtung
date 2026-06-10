@@ -23,14 +23,14 @@ draft: false
 :::tip Kurz
 Aus „Wenn A, dann B“ und „A ist falsch“ wird fälschlich auf „B ist falsch“ geschlossen.
 
-_Keine Ursache, also keine Wirkung – obwohl die Wirkung auch anders kommen kann._
+_Keine Ursache, also keine Wirkung &mdash; obwohl die Wirkung auch anders kommen kann._
 :::
 
 ## Definition
 
 Die **Verneinung des Antezedens** (auch Leugnung des Vordersatzes) schliesst aus einem Konditional und der Falschheit seines Vordersatzes (Antezedens) auf die Falschheit des Nachsatzes (Konsequens).
 
-Der Fehler liegt darin, dass A nur eine *hinreichende*, nicht aber eine *notwendige* Bedingung für B ist. B kann auch ohne A eintreten.
+Der Fehler liegt darin, dass A nur eine _hinreichende_, nicht aber eine _notwendige_ Bedingung für B ist. B kann auch ohne A eintreten.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -38,7 +38,7 @@ Der Fehlschluss hat die folgende Form:
 2. A ist nicht wahr.
 3. Also ist B nicht wahr.
 
-Gültig wäre dagegen nur der *Modus tollens* (1. Wenn A, dann B. 2. Nicht B. 3. Also nicht A.).
+Gültig wäre dagegen nur der _Modus tollens_ (1. Wenn A, dann B. 2. Nicht B. 3. Also nicht A.).
 
 EN: _denying the antecedent_
 
@@ -46,9 +46,9 @@ EN: _denying the antecedent_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bestätigung der Konsequenz** – das Spiegelbild: dort wird vom bejahten Nachsatz auf den bejahten Vordersatz geschlossen.
-- **Umkehrung des Konditionals** – verwandt, weil beide notwendige und hinreichende Bedingung verwechseln.
-- **Non sequitur** – der Oberbegriff aller dieser ungültigen Schlüsse.
+- **Bestätigung der Konsequenz** &mdash; das Spiegelbild: dort wird vom bejahten Nachsatz auf den bejahten Vordersatz geschlossen.
+- **Umkehrung des Konditionals** &mdash; verwandt, weil beide notwendige und hinreichende Bedingung verwechseln.
+- **Non sequitur** &mdash; der Oberbegriff aller dieser ungültigen Schlüsse.
 
 ## Beispiele
 

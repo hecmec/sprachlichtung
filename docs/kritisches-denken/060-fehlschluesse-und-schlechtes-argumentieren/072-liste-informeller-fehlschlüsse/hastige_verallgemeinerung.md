@@ -27,7 +27,7 @@ _Von der Stichprobe vorschnell aufs Ganze._
 
 ## Definition
 
-Bei der **hastigen Verallgemeinerung** (voreilige Verallgemeinerung, *hasty generalization*) wird aus einer **zu kleinen oder nicht repräsentativen Stichprobe** auf eine **allgemeine Regel** geschlossen.
+Bei der **hastigen Verallgemeinerung** (voreilige Verallgemeinerung, _hasty generalization_) wird aus einer **zu kleinen oder nicht repräsentativen Stichprobe** auf eine **allgemeine Regel** geschlossen.
 
 Der Fehler: Eine verlässliche Verallgemeinerung braucht eine ausreichend grosse und typische Auswahl. Aus wenigen, womöglich zufällig herausgegriffenen Fällen lässt sich keine Allgemeingültigkeit gewinnen. So entstehen Vorurteile und Stereotype.
 
@@ -42,9 +42,9 @@ EN: _hasty generalization_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Rosinenpicken** – verwandt: die Auswahl der Fälle ist nicht repräsentativ.
-- **Fehlerhafte Analogie** – verwandt: unzulässiger Übertrag auf andere Fälle.
-- **Accident** – das Gegenstück (*converse accident*): von der allgemeinen Regel auf den Sonderfall.
+- **Rosinenpicken** &mdash; verwandt: die Auswahl der Fälle ist nicht repräsentativ.
+- **Fehlerhafte Analogie** &mdash; verwandt: unzulässiger Übertrag auf andere Fälle.
+- **Accident** &mdash; das Gegenstück (_converse accident_): von der allgemeinen Regel auf den Sonderfall.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _hasty generalization_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Zwei Touristen aus diesem Land waren unhöflich – die Leute von dort sind eben alle unhöflich.“
+> „Zwei Touristen aus diesem Land waren unhöflich &mdash; die Leute von dort sind eben alle unhöflich.“
 
 Zwei Fälle sind keine taugliche Grundlage für ein Urteil über Millionen Menschen. So entstehen Stereotype.
 
@@ -60,7 +60,7 @@ Zwei Fälle sind keine taugliche Grundlage für ein Urteil über Millionen Mensc
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Mein Grossvater hat geraucht und wurde 95 – Rauchen kann also nicht schädlich sein.“
+> „Mein Grossvater hat geraucht und wurde 95 &mdash; Rauchen kann also nicht schädlich sein.“
 
 Ein Einzelfall widerlegt keine Statistik. Aus ihm lässt sich keine allgemeine Regel ableiten.
 

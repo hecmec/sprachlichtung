@@ -17,7 +17,7 @@ last_update:
 
 <!-- ## Zusammenfassung -->
 
-In diesem Kapitel haben wir uns mit Fehlschlüssen befasst – fehlerhaften Argumentationsmustern, die auf den ersten Blick überzeugend wirken können, bei genauerer Betrachtung jedoch logische Mängel aufweisen.
+In diesem Kapitel haben wir uns mit Fehlschlüssen befasst &mdash; fehlerhaften Argumentationsmustern, die auf den ersten Blick überzeugend wirken können, bei genauerer Betrachtung jedoch logische Mängel aufweisen.
 
 Wir haben gelernt:
 

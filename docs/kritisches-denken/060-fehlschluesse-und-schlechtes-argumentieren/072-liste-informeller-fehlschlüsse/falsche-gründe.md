@@ -27,9 +27,9 @@ _Das Richtige aus den falschen Gründen._
 
 ## Definition
 
-Beim Fehlschluss der **falschen Gründe** (irrelevante Begründung) wird eine Behauptung mit Gründen gestützt, die **unwahr oder für die Sache unerheblich** sind. Die Konklusion mag zutreffen – aber nicht *wegen* der angeführten Gründe.
+Beim Fehlschluss der **falschen Gründe** (irrelevante Begründung) wird eine Behauptung mit Gründen gestützt, die **unwahr oder für die Sache unerheblich** sind. Die Konklusion mag zutreffen &mdash; aber nicht _wegen_ der angeführten Gründe.
 
-Der Fehler: Eine richtige Schlussfolgerung wird nicht dadurch gut begründet, dass man *irgendwelche* Gründe nennt. Ein schlechtes Argument bleibt schlecht, auch wenn das Ergebnis stimmt.
+Der Fehler: Eine richtige Schlussfolgerung wird nicht dadurch gut begründet, dass man _irgendwelche_ Gründe nennt. Ein schlechtes Argument bleibt schlecht, auch wenn das Ergebnis stimmt.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _irrelevant reason_ / _bad reasons_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Non sequitur** – verwandt: die Konklusion folgt nicht aus den Prämissen.
-- **Argumentum ad Logicam** – das Gegenstück: dort wird aus *schlechten* Gründen auf die *Falschheit* geschlossen.
-- **Rosinenpicken** – verwandt, wenn nur scheinbar stützende Gründe ausgewählt werden.
+- **Non sequitur** &mdash; verwandt: die Konklusion folgt nicht aus den Prämissen.
+- **Argumentum ad Logicam** &mdash; das Gegenstück: dort wird aus _schlechten_ Gründen auf die _Falschheit_ geschlossen.
+- **Rosinenpicken** &mdash; verwandt, wenn nur scheinbar stützende Gründe ausgewählt werden.
 
 ## Beispiele
 
@@ -55,7 +55,7 @@ EN: _irrelevant reason_ / _bad reasons_
 
 > „Du solltest nicht rauchen, denn Zigaretten sind radioaktiv.“
 
-Dass man nicht rauchen sollte, stimmt – aber der angeführte Grund (Radioaktivität) ist nicht der eigentliche und trägt das Urteil nicht. Es ist ein falscher Grund für eine richtige Konklusion.
+Dass man nicht rauchen sollte, stimmt &mdash; aber der angeführte Grund (Radioaktivität) ist nicht der eigentliche und trägt das Urteil nicht. Es ist ein falscher Grund für eine richtige Konklusion.
 
 ### Beispiel 2
 

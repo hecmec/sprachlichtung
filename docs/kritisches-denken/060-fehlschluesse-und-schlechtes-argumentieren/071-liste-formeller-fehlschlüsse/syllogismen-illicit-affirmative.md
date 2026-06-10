@@ -28,7 +28,7 @@ _Wo nichts ausgeschlossen wird, lässt sich nichts ausschliessen._
 
 ## Definition
 
-Eine **Regel des kategorischen Syllogismus** lautet: Sind **beide Prämissen bejahend**, so muss auch die Konklusion bejahend sein. Wird daraus dennoch eine **verneinende** Konklusion gezogen, liegt der Fehlschluss der „negativen Konklusion aus bejahenden Prämissen“ (auch *illicit affirmative*) vor.
+Eine **Regel des kategorischen Syllogismus** lautet: Sind **beide Prämissen bejahend**, so muss auch die Konklusion bejahend sein. Wird daraus dennoch eine **verneinende** Konklusion gezogen, liegt der Fehlschluss der „negativen Konklusion aus bejahenden Prämissen“ (auch _illicit affirmative_) vor.
 
 Der Grund: Eine verneinende Konklusion behauptet, dass zwei Klassen einander (ganz oder teilweise) **ausschliessen**. Bejahende Prämissen stellen aber nur Einschlüsse fest und können einen solchen Ausschluss nie begründen.
 
@@ -46,8 +46,8 @@ EN: _illicit affirmative_ / _negative conclusion from affirmative premises_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bejahende Konklusion aus verneinender Prämisse** – der spiegelbildliche Verstoss gegen dieselbe Qualitätsregel.
-- **Zwei verneinende Prämissen** – ebenfalls ein Verstoss gegen die Regeln zur Qualität (bejahend/verneinend) der Sätze.
+- **Bejahende Konklusion aus verneinender Prämisse** &mdash; der spiegelbildliche Verstoss gegen dieselbe Qualitätsregel.
+- **Zwei verneinende Prämissen** &mdash; ebenfalls ein Verstoss gegen die Regeln zur Qualität (bejahend/verneinend) der Sätze.
 
 ## Beispiele
 
@@ -59,7 +59,7 @@ EN: _illicit affirmative_ / _negative conclusion from affirmative premises_
 > 2. Alle Säugetiere sind Tiere.
 > 3. Also sind manche Tiere keine Katzen.
 
-Die Konklusion ist zwar *inhaltlich* wahr, folgt aber nicht: Aus zwei bejahenden Sätzen lässt sich keine Verneinung gewinnen. Gültig folgt nur „Alle Katzen sind Tiere“.
+Die Konklusion ist zwar _inhaltlich_ wahr, folgt aber nicht: Aus zwei bejahenden Sätzen lässt sich keine Verneinung gewinnen. Gültig folgt nur „Alle Katzen sind Tiere“.
 
 ### Beispiel 2
 
@@ -69,7 +69,7 @@ Die Konklusion ist zwar *inhaltlich* wahr, folgt aber nicht: Aus zwei bejahenden
 > 2. Alle Pflanzen sind Lebewesen.
 > 3. Also sind manche Lebewesen keine Rosen.
 
-Auch hier wird aus reinem Einschluss (bejahend) ein Ausschluss (verneinend) behauptet – das ist formal unzulässig.
+Auch hier wird aus reinem Einschluss (bejahend) ein Ausschluss (verneinend) behauptet &mdash; das ist formal unzulässig.
 
 ## Quellen
 

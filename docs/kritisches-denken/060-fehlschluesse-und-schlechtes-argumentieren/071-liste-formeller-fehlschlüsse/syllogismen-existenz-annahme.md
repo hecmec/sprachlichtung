@@ -28,9 +28,9 @@ _„Alle“ sagt noch nicht, dass es welche gibt._
 
 ## Definition
 
-Der **Existenzfehlschluss** (*existential fallacy*) zieht aus zwei **allgemeinen** Prämissen („alle …“, „kein …“) eine **partikuläre** Konklusion („manche …“, „es gibt …“), die die **Existenz** von Gegenständen behauptet.
+Der **Existenzfehlschluss** (_existential fallacy_) zieht aus zwei **allgemeinen** Prämissen („alle …“, „kein …“) eine **partikuläre** Konklusion („manche …“, „es gibt …“), die die **Existenz** von Gegenständen behauptet.
 
-In der modernen (booleschen) Logik tragen allgemeine Aussagen **keine Existenzannahme**: „Alle $S$ sind $P$“ heisst nur „es gibt kein $S$, das nicht $P$ ist“ – und ist auch dann wahr, wenn es gar keine $S$ gibt. Aus solchen Prämissen darf man daher nicht folgern, dass es überhaupt ein $S$ gibt.
+In der modernen (booleschen) Logik tragen allgemeine Aussagen **keine Existenzannahme**: „Alle $S$ sind $P$“ heisst nur „es gibt kein $S$, das nicht $P$ ist“ &mdash; und ist auch dann wahr, wenn es gar keine $S$ gibt. Aus solchen Prämissen darf man daher nicht folgern, dass es überhaupt ein $S$ gibt.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -46,8 +46,8 @@ EN: _existential fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Inkonsistente Prämissen** – verwandt insofern, als auch hier eine versteckte (hier: existenzielle) Annahme im Spiel ist.
-- **Komplexe Frage** – inhaltlich verwandt: Auch dort wird eine unausgesprochene Voraussetzung (eine Existenz) untergeschoben.
+- **Inkonsistente Prämissen** &mdash; verwandt insofern, als auch hier eine versteckte (hier: existenzielle) Annahme im Spiel ist.
+- **Komplexe Frage** &mdash; inhaltlich verwandt: Auch dort wird eine unausgesprochene Voraussetzung (eine Existenz) untergeschoben.
 
 ## Beispiele
 
@@ -69,7 +69,7 @@ Die Prämissen können wahr sein, ohne dass ein einziges Einhorn existiert. Die 
 > 2. Alle, die Mondsteuer zahlen, sind registriert.
 > 3. Also gibt es registrierte Mondsteuerzahler.
 
-Solange niemand auf dem Mond wohnt, sind die Prämissen leer wahr – und die Existenzbehauptung der Konklusion unbegründet.
+Solange niemand auf dem Mond wohnt, sind die Prämissen leer wahr &mdash; und die Existenzbehauptung der Konklusion unbegründet.
 
 ## Quellen
 

@@ -1,7 +1,7 @@
 ---
 title: "Zuschauereffekt"
 sidebar_position: 280
-description: "Die Wahrscheinlichkeit zu helfen sinkt, je mehr andere anwesend sind – Verantwortung diffundiert und Unsicherheit nimmt zu."
+description: "Die Wahrscheinlichkeit zu helfen sinkt, je mehr andere anwesend sind &mdash; Verantwortung diffundiert und Unsicherheit nimmt zu."
 keywords:
   - kognitive Verzerrungen
   - mentale Heuristiken
@@ -18,7 +18,6 @@ last_update:
 
 completeness: 1/5
 draft: true
-
 ---
 
 :::tip Kurz
@@ -45,12 +44,15 @@ Der Zuschauereffekt hängt eng mit mehreren sozialen Verzerrungen zusammen und w
 ## Beispiele
 
 ### Notfall in der Öffentlichkeit
+
 Bei einem Unfall auf einer belebten Straße zögern Passanten, weil jede Person annimmt, dass "sicher jemand anderes schon den Notruf wählt".
 
 ### Online-Foren und Livestreams
-Viele sehen einen klaren Regelverstoß oder Hate-Speech, doch kaum jemand meldet ihn – jeder nimmt an, dass andere melden oder Moderation eingreift.
+
+Viele sehen einen klaren Regelverstoß oder Hate-Speech, doch kaum jemand meldet ihn &mdash; jeder nimmt an, dass andere melden oder Moderation eingreift.
 
 ### Arbeitsplatz/Schule
+
 Mehrere beobachten Mobbing oder einen gravierenden Prozessfehler. Niemand greift ein, da unklar ist, wer zuständig ist und wie die Gruppe reagiert.
 
 ## Auswirkungen
@@ -63,7 +65,7 @@ Mehrere beobachten Mobbing oder einen gravierenden Prozessfehler. Niemand greift
 
 - Zuständigkeit direkt zuweisen: "Sie mit der roten Jacke, rufen Sie 112!"
 - Handlungsskripte trainieren (Erste Hilfe, Meldewege, Moderationsregeln)
-- Signale der Ernsthaftigkeit schaffen: "Notfall", "Stop", "Ich übernehme" – Ambiguität reduzieren
+- Signale der Ernsthaftigkeit schaffen: "Notfall", "Stop", "Ich übernehme" &mdash; Ambiguität reduzieren
 - Verantwortlichkeit sichtbar machen (Incident-Owner, klare Rollen)
 
 ## Quellen

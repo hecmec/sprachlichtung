@@ -20,13 +20,17 @@ custom_translation_overwritten: false
 <!-- ## Introduction -->
 
 <!--t src=71202942-->
+
 # Introduction
 
 <!--t src=b1153ecf-->
-In the previous chapters we have got to know various aspects of critical thinking – from logical foundations through structures of argumentation to cognitive biases, fallacies and intellectual virtues. In this chapter we turn to a field that has applied and institutionalised critical thinking systematically: science and its methods.
+
+In the previous chapters we have got to know various aspects of critical thinking &mdash; from logical foundations through structures of argumentation to cognitive biases, fallacies and intellectual virtues. In this chapter we turn to a field that has applied and institutionalised critical thinking systematically: science and its methods.
 
 <!--t src=b5c94694-->
+
 Science is one of humanity's most successful endeavours for obtaining reliable knowledge about the world. It has not only revolutionised our understanding of the universe but has also led to technological innovations that have fundamentally changed our lives. But what makes the scientific method so special? How does science work, and how can we apply scientific thinking in our everyday lives?
 
 <!--t src=5db73c6f-->
+
 In this chapter we will examine the foundations of the scientific method, get to know various scientific approaches and understand how science generates and tests knowledge. We will also consider the limits of science and learn how we can critically evaluate scientific claims.

@@ -38,7 +38,7 @@ Der Fehlschluss hat die folgende Form:
 2. Bei einer Person fällt der Test positiv aus.
 3. Also hat die Person das Merkmal mit etwa 99 % Wahrscheinlichkeit.
 
-Korrekt verlangt die Frage „Wie wahrscheinlich ist das Merkmal *bei positivem Test*?“ die Grundrate – sie wird über das **Bayes-Theorem** berücksichtigt.
+Korrekt verlangt die Frage „Wie wahrscheinlich ist das Merkmal _bei positivem Test_?“ die Grundrate &mdash; sie wird über das **Bayes-Theorem** berücksichtigt.
 
 ### Rechenbeispiel
 
@@ -57,9 +57,9 @@ EN: _base rate fallacy_ / _base rate neglect_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Fehlschluss der bedingten Wahrscheinlichkeit** – eng verwandt: Der Prävalenzfehler ist im Kern eine Vertauschung von $P(A \mid B)$ und $P(B \mid A)$.
-- **Prosecutor's Fallacy** – die forensische Variante desselben Fehlers.
-- **Spielerfehlschluss** – verwandt als typischer Wahrscheinlichkeitsfehler.
+- **Fehlschluss der bedingten Wahrscheinlichkeit** &mdash; eng verwandt: Der Prävalenzfehler ist im Kern eine Vertauschung von $P(A \mid B)$ und $P(B \mid A)$.
+- **Prosecutor's Fallacy** &mdash; die forensische Variante desselben Fehlers.
+- **Spielerfehlschluss** &mdash; verwandt als typischer Wahrscheinlichkeitsfehler.
 
 ## Beispiele
 
@@ -67,7 +67,7 @@ EN: _base rate fallacy_ / _base rate neglect_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Der Drogentest ist zu 99 % zuverlässig und bei dir positiv – also bist du mit 99 % Wahrscheinlichkeit Konsument.“
+> „Der Drogentest ist zu 99 % zuverlässig und bei dir positiv &mdash; also bist du mit 99 % Wahrscheinlichkeit Konsument.“
 
 Ist Konsum in der getesteten Gruppe selten, überwiegen die falsch Positiven. Die tatsächliche Wahrscheinlichkeit liegt oft weit unter 99 % (siehe Rechenbeispiel).
 

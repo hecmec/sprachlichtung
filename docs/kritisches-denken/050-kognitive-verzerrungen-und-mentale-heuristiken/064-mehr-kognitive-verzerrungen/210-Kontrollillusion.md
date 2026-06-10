@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -25,7 +24,7 @@ _Ich hab's im Griff._
 
 ## Definition
 
-Die **Kontrollillusion** beschreibt die Tendenz, die eigene Kontrolle über Ereignisse oder Ergebnisse zu überschätzen, obwohl diese häufig vom Zufall, von komplexen Systemen oder externen Faktoren bestimmt werden. 
+Die **Kontrollillusion** beschreibt die Tendenz, die eigene Kontrolle über Ereignisse oder Ergebnisse zu überschätzen, obwohl diese häufig vom Zufall, von komplexen Systemen oder externen Faktoren bestimmt werden.
 
 EN: _Illusion of Control_
 
@@ -36,21 +35,23 @@ Die Kontrollillusion steht in Wechselwirkung mit mehreren Verzerrungen:
 - **Selbstüberschätzung (Overconfidence Effect):** Zu großes Vertrauen in die eigenen Fähigkeiten nährt das Gefühl von Kontrolle.
 - **Optimismus-Bias:** Wir erwarten zu häufig gute Ergebnisse und unterschätzen Risiken.
 - **Glücksspielerfehlschluss (Gambler’s Fallacy):** Wir glauben, Zufall "gleiche sich aus" und sei beeinflussbar.
-- **Ergebnisverzerrung (Outcome Bias):** Gute Resultate werden dem eigenen Können zugeschrieben – auch wenn Glück maßgeblich war.
+- **Ergebnisverzerrung (Outcome Bias):** Gute Resultate werden dem eigenen Können zugeschrieben &mdash; auch wenn Glück maßgeblich war.
 - **Bestätigungsfehler:** Hinweise, die scheinbare Kontrolle stützen, werden bevorzugt wahrgenommen.
 - **Scheinkorrelation / magisches Denken:** Wir verbinden irrelevante Handlungen mit Ergebnissen.
 
 ## Beispiele
 
 ### Würfel und Rituale
+
 Menschen werfen "für hohe Zahlen" den Würfel bewusst kräftiger, als ob das helfen würde. Oder sie glauben, bestimmte Gesten oder Worte vor dem Wurf würden das Ergebnis beeinflussen. Der Ausgang bleibt jedoch vollständig zufällig.
 
 ### Lotterielos selbst auswählen
-Wenn Personen ihr Lotterielos selbst wählen dürfen, bewerten sie es als wertvoller und glauben eher an einen Gewinn – klassischer Befund aus Studien von Ellen Langer.
+
+Wenn Personen ihr Lotterielos selbst wählen dürfen, bewerten sie es als wertvoller und glauben eher an einen Gewinn &mdash; klassischer Befund aus Studien von Ellen Langer.
 
 ### Daytrading und "den Markt lesen"
-Kurzfristiger Handel wird oft mit der Überzeugung betrieben, den Markt "im Griff" zu haben. Objektiv dominieren Zufall, Rauschen und schwer vorhersagbare externe Faktoren.
 
+Kurzfristiger Handel wird oft mit der Überzeugung betrieben, den Markt "im Griff" zu haben. Objektiv dominieren Zufall, Rauschen und schwer vorhersagbare externe Faktoren.
 
 ## Auswirkungen
 

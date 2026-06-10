@@ -27,14 +27,14 @@ _Was gewesen wäre, weiss niemand sicher._
 
 ## Definition
 
-Ein **kontrafaktisches Konditional** ist eine Aussage der Form „**Wenn** A geschehen wäre, **dann** wäre B eingetreten“ – über eine Lage, die *nicht* eingetreten ist. Zum Fehlschluss wird es, wenn man aus einer solchen Annahme einen **sicheren** Schluss zieht, obwohl der angenommene Verlauf gar nicht überprüfbar ist.
+Ein **kontrafaktisches Konditional** ist eine Aussage der Form „**Wenn** A geschehen wäre, **dann** wäre B eingetreten“ &mdash; über eine Lage, die _nicht_ eingetreten ist. Zum Fehlschluss wird es, wenn man aus einer solchen Annahme einen **sicheren** Schluss zieht, obwohl der angenommene Verlauf gar nicht überprüfbar ist.
 
-Der Fehler: Die hypothetische Welt, in der A geschah, ist nicht zugänglich. Welche Folgen A *wirklich* gehabt hätte, lässt sich meist nicht mit Gewissheit sagen – zu viele andere Faktoren hätten mitgespielt. Die Behauptung suggeriert eine Gewissheit, die es nicht gibt.
+Der Fehler: Die hypothetische Welt, in der A geschah, ist nicht zugänglich. Welche Folgen A _wirklich_ gehabt hätte, lässt sich meist nicht mit Gewissheit sagen &mdash; zu viele andere Faktoren hätten mitgespielt. Die Behauptung suggeriert eine Gewissheit, die es nicht gibt.
 
 Der Fehlschluss hat die folgende Form:
 
 1. A ist nicht geschehen.
-2. Behauptung: „Wäre A geschehen, dann *sicher* B.“
+2. Behauptung: „Wäre A geschehen, dann _sicher_ B.“
 3. Der Schluss auf B wird als feststehend ausgegeben.
 
 EN: _counterfactual fallacy_
@@ -43,9 +43,9 @@ EN: _counterfactual fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Wunschdenken** – verwandt, wenn die hypothetische Folge dem entspricht, was man sich wünscht.
-- **Post hoc ergo propter hoc** – verwandt: unbelegte Ursache-Wirkungs-Behauptungen.
-- **Mono-kausales Denken** – verwandt: nur ein Faktor wird für den hypothetischen Verlauf verantwortlich gemacht.
+- **Wunschdenken** &mdash; verwandt, wenn die hypothetische Folge dem entspricht, was man sich wünscht.
+- **Post hoc ergo propter hoc** &mdash; verwandt: unbelegte Ursache-Wirkungs-Behauptungen.
+- **Mono-kausales Denken** &mdash; verwandt: nur ein Faktor wird für den hypothetischen Verlauf verantwortlich gemacht.
 
 ## Beispiele
 
@@ -63,7 +63,7 @@ Niemand weiss, wie dieser andere Lebensweg verlaufen wäre. Die Behauptung tut s
 
 > „Ohne diesen einen Pass hätten wir das Spiel sicher gewonnen.“
 
-Ein anderer Pass hätte unzählige Folgen gehabt – auch der Gegner hätte anders gespielt. Der sichere Sieg ist reine Spekulation.
+Ein anderer Pass hätte unzählige Folgen gehabt &mdash; auch der Gegner hätte anders gespielt. Der sichere Sieg ist reine Spekulation.
 
 ## Quellen
 

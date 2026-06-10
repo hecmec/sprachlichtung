@@ -26,7 +26,7 @@ _Das klingt einleuchtend!_
 
 Der **Überzeugungsbias** ist die Tendenz, **glaubwürdige oder plausibel erscheinende Schlussfolgerungen zu akzeptieren**, ohne zu prüfen, ob sie logisch korrekt aus den gegebenen Prämissen hergeleitet werden können.
 
-Menschen bewerten oft die **Plausibilität des Ergebnisses** statt die **Korrektheit der Argumentation** – logische Fehler werden übersehen, wenn das Fazit "stimmt" oder vertraut klingt.
+Menschen bewerten oft die **Plausibilität des Ergebnisses** statt die **Korrektheit der Argumentation** &mdash; logische Fehler werden übersehen, wenn das Fazit "stimmt" oder vertraut klingt.
 
 EN: _Belief Bias_
 
@@ -67,7 +67,7 @@ Menschen akzeptieren sie trotzdem, weil das Ergebnis plausibel ist.
 
 "Studien zeigen: Vitamin C stärkt das Immunsystem. Corona ist eine Immunschwäche-Krankheit. Also schützt Vitamin C vor Corona."
 
-Die Schlussfolgerung klingt vernünftig, aber die logische Verbindung ist fehlerhaft – trotzdem wird sie oft akzeptiert.
+Die Schlussfolgerung klingt vernünftig, aber die logische Verbindung ist fehlerhaft &mdash; trotzdem wird sie oft akzeptiert.
 
 ### Einfache schön wär's Logik
 
@@ -78,7 +78,7 @@ Oder, vielleicht nicht?
 
 "Die Wirtschaft läuft schlecht. Die Regierung ist verantwortlich für die Wirtschaft. Also ist die Regierung schuld."
 
-Vereinfacht komplexe Zusammenhänge zu einer scheinbar logischen Kette – wird akzeptiert, weil das Ergebnis zur eigenen politischen Sichtweise passt.
+Vereinfacht komplexe Zusammenhänge zu einer scheinbar logischen Kette &mdash; wird akzeptiert, weil das Ergebnis zur eigenen politischen Sichtweise passt.
 
 ### Medizinische Fehlschlüsse
 
@@ -108,4 +108,3 @@ Die Prämissen sind fragwürdig und die Logik fehlerhaft, aber viele Menschen ak
 - Evans, J. St. B. T. (2002). Logic and human reasoning: An assessment of the deduction paradigm.
 - Klauer, K. C., Musch, J., & Naumer, B. (2000). On belief bias in syllogistic reasoning.
 - Markovits, H., & Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions.
-

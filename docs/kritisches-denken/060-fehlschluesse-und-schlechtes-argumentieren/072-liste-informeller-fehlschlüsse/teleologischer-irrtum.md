@@ -27,14 +27,14 @@ _„Wozu ist das gut?“ ist nicht immer die richtige Frage._
 
 ## Definition
 
-Beim **teleologischen Irrtum** wird einem Vorgang oder Ding ein **Zweck oder eine Absicht** unterstellt, obwohl es dafür keinen Anhaltspunkt gibt. Aus „etwas erfüllt eine Funktion“ wird fälschlich „etwas wurde zu diesem Zweck gemacht“ oder „die Dinge geschehen, *damit* …“.
+Beim **teleologischen Irrtum** wird einem Vorgang oder Ding ein **Zweck oder eine Absicht** unterstellt, obwohl es dafür keinen Anhaltspunkt gibt. Aus „etwas erfüllt eine Funktion“ wird fälschlich „etwas wurde zu diesem Zweck gemacht“ oder „die Dinge geschehen, _damit_ …“.
 
 Der Fehler: Funktionen und Wirkungen entstehen oft ohne planenden Zweck (z. B. durch Evolution oder Zufall). Eine nützliche Wirkung zu beobachten, beweist keine dahinterstehende Absicht.
 
 Der Fehlschluss hat die folgende Form:
 
 1. X erfüllt die Funktion / hat die Wirkung F.
-2. Also existiert X *zu dem Zweck*, F zu erfüllen (jemand/etwas hat es so beabsichtigt).
+2. Also existiert X _zu dem Zweck_, F zu erfüllen (jemand/etwas hat es so beabsichtigt).
 
 EN: _teleological fallacy_
 
@@ -42,9 +42,9 @@ EN: _teleological fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Naturalistischer Fehlschluss** – verwandt: aus einem Naturzweck wird ein Sollen abgeleitet.
-- **Gott-der-Lücken-Argument** – verwandt: eine planende Instanz wird zur Erklärung herangezogen.
-- **Post hoc ergo propter hoc** – verwandt: vorschnelle Deutung von Zusammenhängen.
+- **Naturalistischer Fehlschluss** &mdash; verwandt: aus einem Naturzweck wird ein Sollen abgeleitet.
+- **Gott-der-Lücken-Argument** &mdash; verwandt: eine planende Instanz wird zur Erklärung herangezogen.
+- **Post hoc ergo propter hoc** &mdash; verwandt: vorschnelle Deutung von Zusammenhängen.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _teleological fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Die Nase sitzt offenbar dort, *damit* wir die Brille tragen können.“
+> „Die Nase sitzt offenbar dort, _damit_ wir die Brille tragen können.“
 
 Brillen gibt es erst seit Kurzem; die Nase entstand nicht zu ihrem Tragen. Eine Funktion wird mit einer Absicht verwechselt (so schon Voltaires Spott über Dr. Pangloss).
 
@@ -60,9 +60,9 @@ Brillen gibt es erst seit Kurzem; die Nase entstand nicht zu ihrem Tragen. Eine 
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Alles geschieht aus einem Grund – auch diese Katastrophe hatte ihren Sinn.“
+> „Alles geschieht aus einem Grund &mdash; auch diese Katastrophe hatte ihren Sinn.“
 
-Dass ein Ereignis Folgen hat, heisst nicht, dass es *zu einem Zweck* eintrat. Sinn wird hier hineingelesen, nicht festgestellt.
+Dass ein Ereignis Folgen hat, heisst nicht, dass es _zu einem Zweck_ eintrat. Sinn wird hier hineingelesen, nicht festgestellt.
 
 ## Quellen
 

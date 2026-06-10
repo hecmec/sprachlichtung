@@ -27,7 +27,7 @@ _„Kein echter …“ rettet jede Behauptung._
 
 ## Definition
 
-Beim Fehlschluss **„Kein wahrer Schotte“** (*no true Scotsman*) wird eine allgemeine Behauptung gegen ein Gegenbeispiel verteidigt, indem man die Definition **nachträglich verengt**: Das Gegenbeispiel zählt angeblich nicht, weil es kein „wahrer“ Vertreter der Gruppe sei.
+Beim Fehlschluss **„Kein wahrer Schotte“** (_no true Scotsman_) wird eine allgemeine Behauptung gegen ein Gegenbeispiel verteidigt, indem man die Definition **nachträglich verengt**: Das Gegenbeispiel zählt angeblich nicht, weil es kein „wahrer“ Vertreter der Gruppe sei.
 
 Der Fehler: Statt die widerlegte Behauptung aufzugeben, wird das Wort „wahr/echt“ eingeschoben und der Begriff so umgebogen, dass das Gegenbeispiel per Definition ausgeschlossen ist. Die Behauptung wird damit gegen jede Widerlegung immunisiert.
 
@@ -35,7 +35,7 @@ Der Fehlschluss hat die folgende Form:
 
 1. Behauptung: „Alle A tun (nicht) X.“
 2. Gegenbeispiel: „Hier ist ein A, das X tut.“
-3. Antwort: „Kein *wahrer* A tut X.“
+3. Antwort: „Kein _wahrer_ A tut X.“
 
 EN: _no true Scotsman_
 
@@ -43,9 +43,9 @@ EN: _no true Scotsman_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Forderung nach einem Privileg** – verwandt: eine willkürliche Sonderregel zur Rettung der eigenen Position.
-- **Unterscheidung ohne Unterschied** – verwandt: die nachgeschobene Umdefinition benennt keinen echten Unterschied.
-- **Zirkelschluss** – verwandt, da die Definition so gewählt wird, dass die Behauptung wahr bleiben *muss*.
+- **Forderung nach einem Privileg** &mdash; verwandt: eine willkürliche Sonderregel zur Rettung der eigenen Position.
+- **Unterscheidung ohne Unterschied** &mdash; verwandt: die nachgeschobene Umdefinition benennt keinen echten Unterschied.
+- **Zirkelschluss** &mdash; verwandt, da die Definition so gewählt wird, dass die Behauptung wahr bleiben _muss_.
 
 ## Beispiele
 
@@ -53,9 +53,9 @@ EN: _no true Scotsman_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Kein Schotte gibt Zucker in seinen Porridge.“
-> – „Mein Onkel Hamish ist Schotte und tut genau das.“
-> – „Nun, kein *wahrer* Schotte tut das.“
+> &mdash; „Kein Schotte gibt Zucker in seinen Porridge.“
+> &mdash; „Mein Onkel Hamish ist Schotte und tut genau das.“
+> &mdash; „Nun, kein _wahrer_ Schotte tut das.“
 
 Das Gegenbeispiel wird nicht widerlegt, sondern durch das eingeschobene „wahr“ einfach aus der Gruppe definiert.
 
@@ -63,9 +63,9 @@ Das Gegenbeispiel wird nicht widerlegt, sondern durch das eingeschobene „wahr�
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Ein gläubiger Mensch würde so etwas nie tun.“
-> – „Diese Person ist gläubig und hat es getan.“
-> – „Dann war sie eben nicht wirklich gläubig.“
+> &mdash; „Ein gläubiger Mensch würde so etwas nie tun.“
+> &mdash; „Diese Person ist gläubig und hat es getan.“
+> &mdash; „Dann war sie eben nicht wirklich gläubig.“
 
 Die Definition von „gläubig“ wird nachträglich so verengt, dass die Behauptung unwiderlegbar wird.
 

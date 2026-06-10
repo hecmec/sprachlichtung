@@ -43,9 +43,9 @@ EN: _tu quoque_ / _appeal to hypocrisy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Hominem** – der Oberbegriff: Angriff auf die Person statt die Sache.
-- **Whataboutism** – nahe verwandt: Ablenkung durch Gegenvorwürfe.
-- **Ablenkung (Red Herring)** – der Gegenvorwurf führt vom Thema weg.
+- **Argumentum ad Hominem** &mdash; der Oberbegriff: Angriff auf die Person statt die Sache.
+- **Whataboutism** &mdash; nahe verwandt: Ablenkung durch Gegenvorwürfe.
+- **Ablenkung (Red Herring)** &mdash; der Gegenvorwurf führt vom Thema weg.
 
 ## Beispiele
 
@@ -53,8 +53,8 @@ EN: _tu quoque_ / _appeal to hypocrisy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Du solltest weniger rauchen, das ist ungesund.“
-> – „Du trinkst doch selbst jeden Abend Wein!“
+> &mdash; „Du solltest weniger rauchen, das ist ungesund.“
+> &mdash; „Du trinkst doch selbst jeden Abend Wein!“
 
 Der Hinweis auf das Trinken ändert nichts daran, dass Rauchen ungesund ist. Der Vorwurf wird nicht beantwortet, sondern umgelenkt.
 
@@ -62,8 +62,8 @@ Der Hinweis auf das Trinken ändert nichts daran, dass Rauchen ungesund ist. Der
 
 <!-- Beschreibung Beispiel zwei -->
 
-> – „Dieses Land verletzt Menschenrechte.“
-> – „Und ihr? Bei euch gibt es doch auch Polizeigewalt!“
+> &mdash; „Dieses Land verletzt Menschenrechte.“
+> &mdash; „Und ihr? Bei euch gibt es doch auch Polizeigewalt!“
 
 Selbst wenn der Gegenvorwurf zuträfe, würde er die ursprüngliche Kritik nicht entkräften.
 

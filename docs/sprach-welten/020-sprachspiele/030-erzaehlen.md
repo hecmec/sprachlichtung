@@ -4,16 +4,16 @@ sidebar_label: Erzählen
 sidebar_position: 4
 description: "Das Sprachspiel des Erzählens"
 keywords:
-    - Sprachspiele
-    - Wortbedeutung
-    - Erzählen
-    - Narrativ
-    - Geschichte
+  - Sprachspiele
+  - Wortbedeutung
+  - Erzählen
+  - Narrativ
+  - Geschichte
 last_update:
   date: 2025-06-24
   author: Immanuel Lupinus
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 <!-- # Das Sprachspiel des Erzählens -->
@@ -29,6 +29,7 @@ Das Sprachspiel des Erzählens zielt primär darauf ab, Erfahrungen und Ereignis
 ## Erfolgskriterien
 
 Eine Erzählung gilt dann als gelungen, wenn:
+
 - Sie für die Zuhörer verständlich und nachvollziehbar ist
 - Sie eine innere Konsistenz und Kohärenz aufweist
 - Sie den erwarteten emotionalen Effekt erzielt (Unterhaltung, Trost, Überraschung, etc.)
@@ -74,4 +75,4 @@ Das Erzählen erfüllt fundamentale soziale Funktionen:
 - Es bietet emotionale Entlastung und Verarbeitung von Erlebnissen
 - Es schafft gemeinsame Wirklichkeitsinterpretationen
 
-Letztlich sind menschliche Gesellschaften von Erzählungen durchdrungen – von den großen kulturellen "Meta-Erzählungen" bis hin zu den kleinen Alltagsgeschichten. In der Fähigkeit, Geschichten zu erzählen und zu verstehen, liegt ein Schlüssel zur menschlichen Kooperation und kulturellen Evolution. Gleichzeitig bleibt kritische Distanz zu den Narrativen, die uns umgeben und prägen, eine zentrale Aufgabe reflektierten Denkens.
+Letztlich sind menschliche Gesellschaften von Erzählungen durchdrungen &mdash; von den großen kulturellen "Meta-Erzählungen" bis hin zu den kleinen Alltagsgeschichten. In der Fähigkeit, Geschichten zu erzählen und zu verstehen, liegt ein Schlüssel zur menschlichen Kooperation und kulturellen Evolution. Gleichzeitig bleibt kritische Distanz zu den Narrativen, die uns umgeben und prägen, eine zentrale Aufgabe reflektierten Denkens.

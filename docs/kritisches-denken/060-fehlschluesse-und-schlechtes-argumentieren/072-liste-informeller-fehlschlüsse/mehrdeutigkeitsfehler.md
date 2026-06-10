@@ -27,9 +27,9 @@ _Nicht das Wort, der Satzbau ist doppeldeutig._
 
 ## Definition
 
-Beim **Mehrdeutigkeitsfehler** – bei Mehrdeutigkeit durch **Satzbau** spricht man von **Amphibolie** – ist nicht ein einzelnes Wort doppeldeutig, sondern die **grammatische Struktur** eines Satzes lässt mehrere Lesarten zu. Aus der mehrdeutigen Formulierung wird die *unbeabsichtigte* (oder bequeme) Bedeutung herausgelesen.
+Beim **Mehrdeutigkeitsfehler** &mdash; bei Mehrdeutigkeit durch **Satzbau** spricht man von **Amphibolie** &mdash; ist nicht ein einzelnes Wort doppeldeutig, sondern die **grammatische Struktur** eines Satzes lässt mehrere Lesarten zu. Aus der mehrdeutigen Formulierung wird die _unbeabsichtigte_ (oder bequeme) Bedeutung herausgelesen.
 
-Der Fehler: Die Aussage stützt einen Schluss nur unter *einer* Lesart; das Argument nutzt jedoch eine *andere*. Während die **Äquivokation** auf der Wortebene spielt, spielt die Amphibolie auf der Satzebene.
+Der Fehler: Die Aussage stützt einen Schluss nur unter _einer_ Lesart; das Argument nutzt jedoch eine _andere_. Während die **Äquivokation** auf der Wortebene spielt, spielt die Amphibolie auf der Satzebene.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,8 +43,8 @@ EN: _amphiboly_ / _syntactic ambiguity_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Äquivokation** – das Gegenstück auf der Wortebene (ein Wort, zwei Bedeutungen).
-- **Suggestive Anspielung** – verwandt, wenn die Doppeldeutigkeit gezielt zum Nahelegen genutzt wird.
+- **Äquivokation** &mdash; das Gegenstück auf der Wortebene (ein Wort, zwei Bedeutungen).
+- **Suggestive Anspielung** &mdash; verwandt, wenn die Doppeldeutigkeit gezielt zum Nahelegen genutzt wird.
 
 ## Beispiele
 
@@ -54,15 +54,15 @@ EN: _amphiboly_ / _syntactic ambiguity_
 
 > „Er hat seinen Vater gehasst, als er trank.“
 
-Wer trank – der Vater oder der Sohn? Der Satzbau lässt beides zu. Auf die jeweils passende Lesart kann ein ganzes (Fehl-)Argument gebaut werden.
+Wer trank &mdash; der Vater oder der Sohn? Der Satzbau lässt beides zu. Auf die jeweils passende Lesart kann ein ganzes (Fehl-)Argument gebaut werden.
 
 ### Beispiel 2
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Gesucht: Freiwillige, die Folteropfern helfen.“ (engl. *Volunteers needed to help torture survivors.*)
+> „Gesucht: Freiwillige, die Folteropfern helfen.“ (engl. _Volunteers needed to help torture survivors._)
 
-Die Struktur erlaubt zu lesen, man solle „Überlebende foltern“ helfen. Gemeint ist das Gegenteil – die Mehrdeutigkeit entsteht aus dem Satzbau.
+Die Struktur erlaubt zu lesen, man solle „Überlebende foltern“ helfen. Gemeint ist das Gegenteil &mdash; die Mehrdeutigkeit entsteht aus dem Satzbau.
 
 ## Quellen
 

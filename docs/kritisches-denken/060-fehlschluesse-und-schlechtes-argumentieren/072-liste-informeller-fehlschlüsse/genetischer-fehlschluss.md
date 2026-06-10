@@ -27,7 +27,7 @@ _Woher etwas kommt, sagt nichts darüber, ob es stimmt._
 
 ## Definition
 
-Der **genetische Fehlschluss** (*genetic fallacy*) bewertet eine Behauptung, Idee oder Sache anhand ihres **Ursprungs** – wer sie erfunden hat, woher sie stammt, wie sie entstanden ist – statt anhand ihres tatsächlichen Gehalts.
+Der **genetische Fehlschluss** (_genetic fallacy_) bewertet eine Behauptung, Idee oder Sache anhand ihres **Ursprungs** &mdash; wer sie erfunden hat, woher sie stammt, wie sie entstanden ist &mdash; statt anhand ihres tatsächlichen Gehalts.
 
 Der Fehler: Die Herkunft einer Idee ist für ihre Richtigkeit oder ihren Wert unerheblich. Auch eine Idee mit fragwürdigem Ursprung kann zutreffen, eine mit ehrwürdigem Ursprung kann falsch sein.
 
@@ -43,9 +43,9 @@ EN: _genetic fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Hominem** – Sonderform: die Quelle ist eine Person.
-- **Brunnenvergiftung** – Sonderform: vorab diskreditierende Herkunftszuschreibung.
-- **Argumentum ad Antiquitatem** – die positive Variante: Herkunft aus der Tradition als vermeintlicher Vorzug.
+- **Argumentum ad Hominem** &mdash; Sonderform: die Quelle ist eine Person.
+- **Brunnenvergiftung** &mdash; Sonderform: vorab diskreditierende Herkunftszuschreibung.
+- **Argumentum ad Antiquitatem** &mdash; die positive Variante: Herkunft aus der Tradition als vermeintlicher Vorzug.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _genetic fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Die Autobahn wurde unter den Nationalsozialisten ausgebaut – wie kannst du Autobahnen gut finden?“
+> „Die Autobahn wurde unter den Nationalsozialisten ausgebaut &mdash; wie kannst du Autobahnen gut finden?“
 
 Der historische Ursprung entscheidet nicht über den heutigen Nutzen oder Unnutzen von Autobahnen. Herkunft ist kein Sachargument.
 
@@ -61,7 +61,7 @@ Der historische Ursprung entscheidet nicht über den heutigen Nutzen oder Unnutz
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Diese Idee kam ihm im Traum – sie kann also nicht ernst zu nehmen sein.“
+> „Diese Idee kam ihm im Traum &mdash; sie kann also nicht ernst zu nehmen sein.“
 
 Wie eine Idee entstanden ist, sagt nichts über ihre Richtigkeit. Auch eine Eingebung kann sich als zutreffend erweisen.
 

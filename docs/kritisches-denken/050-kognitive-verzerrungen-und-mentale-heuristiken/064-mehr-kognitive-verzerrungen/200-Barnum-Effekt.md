@@ -22,7 +22,7 @@ _Widder und Stier sind heute besonders kreativ._
 
 ## Definition
 
-Der **Barnum-Effekt** (auch: **Forer-Effekt**) beschreibt die Tendenz, **allgemeine, mehrdeutige** Aussagen über Persönlichkeit als **individuell treffend** zu empfinden – besonders wenn sie **positiv** oder schmeichelhaft formuliert sind.
+Der **Barnum-Effekt** (auch: **Forer-Effekt**) beschreibt die Tendenz, **allgemeine, mehrdeutige** Aussagen über Persönlichkeit als **individuell treffend** zu empfinden &mdash; besonders wenn sie **positiv** oder schmeichelhaft formuliert sind.
 
 EN: _Barnum Effect / Forer Effect_
 
@@ -39,7 +39,7 @@ EN: _Barnum Effect / Forer Effect_
 - **Horoskope:** "Sie sind manchmal gesellig, brauchen aber auch Rückzug."
 - **Online-Persönlichkeitstests:** Triviale Fragen, hochpräzise klingende Auswertung.
 - **Recruiting-/Coaching-Reports:** Eindrucksvoll formuliert, aber nicht prüfbar spezifisch.
-- **Werbung:** "Für alle Hauttypen – genau was Ihre Haut jetzt braucht."
+- **Werbung:** "Für alle Hauttypen &mdash; genau was Ihre Haut jetzt braucht."
 - **Wahrsagerei:** Breite Aussagen, die jeder auf sich beziehen kann.
 
 ## Auswirkungen

@@ -27,9 +27,9 @@ _Aus dem Sein folgt kein Sollen._
 
 ## Definition
 
-Der **naturalistische Fehlschluss** schliesst von einer **Tatsache** (was *ist* oder was *natürlich* ist) unmittelbar auf eine **Norm** (was sein *soll* oder *gut* ist). Aus einer Beschreibung der Welt wird eine Wertung abgeleitet, ohne dass ein wertender Zwischenschritt begründet wird.
+Der **naturalistische Fehlschluss** schliesst von einer **Tatsache** (was _ist_ oder was _natürlich_ ist) unmittelbar auf eine **Norm** (was sein _soll_ oder _gut_ ist). Aus einer Beschreibung der Welt wird eine Wertung abgeleitet, ohne dass ein wertender Zwischenschritt begründet wird.
 
-Hintergrund: Schon **David Hume** stellte fest, dass sich aus reinen *Ist*-Sätzen kein *Soll*-Satz ableiten lässt (das **Sein-Sollen-Problem**). Eng verwandt ist der **Appell an die Natur**: „natürlich“ gelte als „gut“, „unnatürlich“ als „schlecht“. (Streng genommen meinte **G. E. Moore** mit „naturalistic fallacy“ etwas Engeres – die Gleichsetzung von „gut“ mit einer natürlichen Eigenschaft; im Alltag werden beide Lesarten oft zusammengefasst.)
+Hintergrund: Schon **David Hume** stellte fest, dass sich aus reinen _Ist_-Sätzen kein _Soll_-Satz ableiten lässt (das **Sein-Sollen-Problem**). Eng verwandt ist der **Appell an die Natur**: „natürlich“ gelte als „gut“, „unnatürlich“ als „schlecht“. (Streng genommen meinte **G. E. Moore** mit „naturalistic fallacy“ etwas Engeres &mdash; die Gleichsetzung von „gut“ mit einer natürlichen Eigenschaft; im Alltag werden beide Lesarten oft zusammengefasst.)
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Antiquitatem** – verwandt: von „so ist es üblich/seit jeher“ auf „so soll es sein“.
-- **Teleologischer Irrtum** – verwandt: aus einem unterstellten Naturzweck wird ein Sollen abgeleitet.
-- **Moralistischer Fehlschluss** – das Gegenstück: aus „soll nicht sein“ auf „ist nicht der Fall“.
+- **Argumentum ad Antiquitatem** &mdash; verwandt: von „so ist es üblich/seit jeher“ auf „so soll es sein“.
+- **Teleologischer Irrtum** &mdash; verwandt: aus einem unterstellten Naturzweck wird ein Sollen abgeleitet.
+- **Moralistischer Fehlschluss** &mdash; das Gegenstück: aus „soll nicht sein“ auf „ist nicht der Fall“.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „In der Natur setzt sich der Stärkere durch – also ist rücksichtsloser Wettbewerb richtig.“
+> „In der Natur setzt sich der Stärkere durch &mdash; also ist rücksichtsloser Wettbewerb richtig.“
 
 Dass etwas in der Natur vorkommt, macht es nicht moralisch geboten. Der Schluss vom Sein aufs Sollen ist nicht gedeckt.
 
@@ -62,7 +62,7 @@ Dass etwas in der Natur vorkommt, macht es nicht moralisch geboten. Der Schluss 
 
 > „Dieses Heilmittel ist rein natürlich, also ist es gut und unbedenklich.“
 
-„Natürlich“ ist kein Gütesiegel – auch Tollkirsche und Schlangengift sind natürlich. Natürlichkeit begründet keinen Wert.
+„Natürlich“ ist kein Gütesiegel &mdash; auch Tollkirsche und Schlangengift sind natürlich. Natürlichkeit begründet keinen Wert.
 
 ## Quellen
 

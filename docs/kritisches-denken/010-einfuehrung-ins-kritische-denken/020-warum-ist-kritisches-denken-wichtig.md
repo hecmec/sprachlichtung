@@ -3,13 +3,13 @@ title: Warum ist kritisches Denken wichtig?
 sidebar_position: 20
 sidebar_label: "Warum wichtig?"
 description: "Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt."
-keywords: 
-    - kritisches Denken
-    - Überprüfung
-    - Propaganda
-    - Manipulation
-    - Werbung
-    - Fake News
+keywords:
+  - kritisches Denken
+  - Überprüfung
+  - Propaganda
+  - Manipulation
+  - Werbung
+  - Fake News
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
@@ -22,6 +22,7 @@ draft: false
 Das kritische Denken vereinigt die Kampfkünste des Geistes mit dem Zusammenspiel wie wir es im Tanz oder in Teamsportarten finden.
 
 :::info Bivalenz
+
 <p class="text--center">**Entgegen wirken (Antagonismus)** und **zusammen wirken (Synergie)**</p> 
 :::
 
@@ -50,7 +51,7 @@ Kritisches Denken hilft uns, in dieser komplexen Informationslandschaft zu navig
 
 ## Bessere Entscheidungen treffen
 
-Jeden Tag treffen wir zahlreiche Entscheidungen – **wir müssen entscheiden** – von alltäglichen Fragen wie "Was esse ich zum Mittagessen?" bis hin zu komplexen Lebensentscheidungen wie Berufswahl, finanzielle Investitionen oder medizinische Behandlungen.
+Jeden Tag treffen wir zahlreiche Entscheidungen &mdash; **wir müssen entscheiden** &mdash; von alltäglichen Fragen wie "Was esse ich zum Mittagessen?" bis hin zu komplexen Lebensentscheidungen wie Berufswahl, finanzielle Investitionen oder medizinische Behandlungen.
 
 Kritisches Denken **verbessert unsere Entscheidungsfindung** durch:
 
@@ -80,6 +81,7 @@ Im persönlichen Bereich unterstützt kritisches Denken:
 ## Bürger der Zivilgesellschaft
 
 In einer demokratischen Gesellschaft ist kritisches Denken unerlässlich für eine informierte und engagierte Bürgerschaft. Es ermöglicht uns:
+
 - Politische Aussagen und Wahlversprechen kritisch zu hinterfragen
 - Soziale und ethische Fragen aus verschiedenen Perspektiven zu betrachten
 - An öffentlichen Debatten und Entscheidungsprozessen teilzunehmen
@@ -88,8 +90,6 @@ In einer demokratischen Gesellschaft ist kritisches Denken unerlässlich für ei
 
 ## Mitmenschlichkeit und Empathie
 
-Kritisches Denken fördert auch **Mitmenschlichkeit** und **Empathie**, indem es uns lehrt, die Perspektiven und Erfahrungen anderer zu verstehen und zu respektieren. Es hilft uns, Vorurteile abzubauen und offen für neue Ideen und Kulturen zu sein. 
+Kritisches Denken fördert auch **Mitmenschlichkeit** und **Empathie**, indem es uns lehrt, die Perspektiven und Erfahrungen anderer zu verstehen und zu respektieren. Es hilft uns, Vorurteile abzubauen und offen für neue Ideen und Kulturen zu sein.
 
 Das ist ein Aspekt, der häufig übersehen wird, der aber in der heutigen globalisierten Welt immer wichtiger wird.
-
-

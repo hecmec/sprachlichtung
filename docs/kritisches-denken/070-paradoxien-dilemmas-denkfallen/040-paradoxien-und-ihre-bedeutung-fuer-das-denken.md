@@ -15,7 +15,7 @@ Paradoxien sind nicht nur intellektuelle Kuriositäten, sondern haben tiefgreife
 
 ## 1. Grenzen der Logik und formaler Systeme
 
-Paradoxien wie das Lügner-Paradoxon und Russells Paradoxon haben gezeigt, dass selbst scheinbar solide logische und mathematische Systeme Grenzen haben. Kurt Gödel bewies mit seinen Unvollständigkeitssätzen, dass jedes hinreichend mächtige formale System entweder unvollständig oder inkonsistent sein muss – ein Ergebnis, das direkt von der Auseinandersetzung mit Paradoxien inspiriert wurde.
+Paradoxien wie das Lügner-Paradoxon und Russells Paradoxon haben gezeigt, dass selbst scheinbar solide logische und mathematische Systeme Grenzen haben. Kurt Gödel bewies mit seinen Unvollständigkeitssätzen, dass jedes hinreichend mächtige formale System entweder unvollständig oder inkonsistent sein muss &mdash; ein Ergebnis, das direkt von der Auseinandersetzung mit Paradoxien inspiriert wurde.
 
 ## 2. Sprachliche Präzision und Vagheit
 
@@ -32,6 +32,7 @@ Paradoxien wie das Gefangenendilemma verdeutlichen, wie rationales Eigeninteress
 ## 5. Förderung des kritischen Denkens
 
 Die Auseinandersetzung mit Paradoxien fördert kritisches Denken, indem sie uns zwingt:
+
 - Annahmen zu hinterfragen
 - Präziser zu denken und zu kommunizieren
 - Kreative Lösungsansätze zu entwickeln

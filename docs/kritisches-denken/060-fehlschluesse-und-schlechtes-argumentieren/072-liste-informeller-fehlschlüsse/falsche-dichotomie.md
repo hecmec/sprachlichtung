@@ -29,7 +29,7 @@ _Nur Schwarz oder Weiss, kein Grau._
 
 Die **falsche Dichotomie** (Schwarz-Weiss-Denken) teilt einen Bereich von Möglichkeiten in **zwei sich ausschliessende und angeblich vollständige Klassen** auf, obwohl die Wirklichkeit ein **Kontinuum** oder mehrere Abstufungen kennt.
 
-Sie ist die begriffliche Grundlage des **falschen Dilemmas**: Während das Dilemma die Zweiteilung *im Argument* nutzt, um eine Wahl zu erzwingen, bezeichnet die Dichotomie die unzulässige *Zweiteilung selbst*.
+Sie ist die begriffliche Grundlage des **falschen Dilemmas**: Während das Dilemma die Zweiteilung _im Argument_ nutzt, um eine Wahl zu erzwingen, bezeichnet die Dichotomie die unzulässige _Zweiteilung selbst_.
 
 Der Fehler: Die Welt ist selten zweiwertig. Wer nur „alles oder nichts“ kennt, übersieht die Grautöne dazwischen.
 
@@ -44,9 +44,9 @@ EN: _false dichotomy_ / _black-and-white thinking_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Falsches Dilemma** – die argumentative Anwendung der Zweiteilung.
-- **Haufen-Paradox** – das Gegenstück: dort wird die *Unschärfe* der Grenze überdehnt.
-- **Unterscheidung ohne Unterschied** – verwandtes Spiel mit Kategorien.
+- **Falsches Dilemma** &mdash; die argumentative Anwendung der Zweiteilung.
+- **Haufen-Paradox** &mdash; das Gegenstück: dort wird die _Unschärfe_ der Grenze überdehnt.
+- **Unterscheidung ohne Unterschied** &mdash; verwandtes Spiel mit Kategorien.
 
 ## Beispiele
 

@@ -67,7 +67,7 @@ Schluss vom Allgemeinen aufs Besondere: Sind die Prämissen wahr und ist die For
 
 ### Induktion
 
-Schluss vom Einzelnen aufs Allgemeine: Aus Beobachtungen wird eine allgemeine Regel vermutet – wahrscheinlich, aber nicht zwingend wahr.
+Schluss vom Einzelnen aufs Allgemeine: Aus Beobachtungen wird eine allgemeine Regel vermutet &mdash; wahrscheinlich, aber nicht zwingend wahr.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Induktion_%28Philosophie%29)
 
@@ -137,7 +137,7 @@ Systematisches, begründetes Gefüge von Aussagen, das Phänomene erklärt, ordn
 
 ### Ockhams Rasiermesser
 
-Sparsamkeitsprinzip: Von mehreren Erklärungen ist die mit den wenigsten Annahmen vorzuziehen – überflüssige Annahmen sollen „weggeschnitten" werden.
+Sparsamkeitsprinzip: Von mehreren Erklärungen ist die mit den wenigsten Annahmen vorzuziehen &mdash; überflüssige Annahmen sollen „weggeschnitten" werden.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Ockhams_Rasiermesser)
 
@@ -183,7 +183,7 @@ Fürwahrhalten ohne methodische Begründung; das Annehmen einer Aussage, ohne da
 
 ## Denkfehler und Fehlschlüsse
 
-_Typische Fehler im Denken und in Argumenten – erst wer sie kennt, kann sie vermeiden._
+_Typische Fehler im Denken und in Argumenten &mdash; erst wer sie kennt, kann sie vermeiden._
 
 ### Kognitive Verzerrung, Denkfehler, Wahrnehmungsfehler
 
@@ -199,7 +199,7 @@ Tendenz, Informationen so zu suchen und zu deuten, dass sie die eigene Erwartung
 
 ### Logischer Fehlschluss
 
-Ein Schluss, dessen Form ungültig ist, sodass die Konklusion nicht zwingend aus den Prämissen folgt – unabhängig vom Inhalt.
+Ein Schluss, dessen Form ungültig ist, sodass die Konklusion nicht zwingend aus den Prämissen folgt &mdash; unabhängig vom Inhalt.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Fehlschluss)
 
@@ -223,7 +223,7 @@ Statt des Arguments wird die Person angegriffen; eine Behauptung gilt als falsch
 
 ### Autoritätsargument
 
-Etwas gilt als wahr, nur weil eine Autorität es sagt – ohne dass deren Kompetenz oder die Belege geprüft werden.
+Etwas gilt als wahr, nur weil eine Autorität es sagt &mdash; ohne dass deren Kompetenz oder die Belege geprüft werden.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Argumentum_ad_verecundiam)
 
@@ -241,13 +241,13 @@ Argument, das seine eigene Schlussfolgerung bereits als Voraussetzung benutzt; d
 
 ### Falsches Dilemma
 
-Es werden nur zwei Möglichkeiten dargestellt, obwohl weitere bestehen – Schwarz-Weiß-Denken, das zu einer Scheinentscheidung zwingt.
+Es werden nur zwei Möglichkeiten dargestellt, obwohl weitere bestehen &mdash; Schwarz-Weiß-Denken, das zu einer Scheinentscheidung zwingt.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Falsches_Dilemma)
 
 ### Korrelation und Kausalität
 
-Dass zwei Dinge gemeinsam auftreten (Korrelation), heißt nicht, dass eines das andere verursacht (Kausalität) – ein häufiger Trugschluss.
+Dass zwei Dinge gemeinsam auftreten (Korrelation), heißt nicht, dass eines das andere verursacht (Kausalität) &mdash; ein häufiger Trugschluss.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Scheinkorrelation)
 
@@ -303,7 +303,7 @@ Bewusst falsche oder irreführende Nachrichten, die wie seriöser Journalismus a
 
 ### Desinformation
 
-Gezielt verbreitete falsche oder irreführende Informationen, die absichtlich täuschen sollen – im Unterschied zur unabsichtlichen Fehlinformation (Misinformation).
+Gezielt verbreitete falsche oder irreführende Informationen, die absichtlich täuschen sollen &mdash; im Unterschied zur unabsichtlichen Fehlinformation (Misinformation).
 
 [Wikipedia](https://de.wikipedia.org/wiki/Desinformation)
 
@@ -353,7 +353,7 @@ _Haltungen und Methoden, die gutes Denken in die Praxis bringen._
 
 ### Sapere aude
 
-Lateinisch „Wage es, weise zu sein!" – Kants Wahlspruch der Aufklärung: Habe den Mut, dich deines eigenen Verstandes zu bedienen.
+Lateinisch „Wage es, weise zu sein!" &mdash; Kants Wahlspruch der Aufklärung: Habe den Mut, dich deines eigenen Verstandes zu bedienen.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Sapere_aude)
 
@@ -389,7 +389,7 @@ Lehre vom Verstehen und Auslegen von Texten und Sinn; sie fragt, wie wir Bedeutu
 
 ### Heuristik
 
-Faustregel oder vereinfachtes Verfahren, das mit begrenztem Wissen schnell zu brauchbaren Lösungen führt – nützlich, aber fehleranfällig.
+Faustregel oder vereinfachtes Verfahren, das mit begrenztem Wissen schnell zu brauchbaren Lösungen führt &mdash; nützlich, aber fehleranfällig.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Heuristik)
 
@@ -431,7 +431,7 @@ Die Fähigkeit, einen Sachverhalt aus der Sicht anderer zu betrachten und sich i
 
 ### Dogmatismus
 
-Starres Festhalten an Lehrsätzen, die als unumstößlich gelten und nicht hinterfragt werden dürfen – das Gegenteil kritischer Offenheit.
+Starres Festhalten an Lehrsätzen, die als unumstößlich gelten und nicht hinterfragt werden dürfen &mdash; das Gegenteil kritischer Offenheit.
 
 [Wikipedia](https://de.wikipedia.org/wiki/Dogmatismus)
 

@@ -30,7 +30,7 @@ _Die Wirkung beweist nicht die Ursache._
 
 Die **Bestätigung der Konsequenz** (auch Bejahung des Nachsatzes) schliesst aus einem Konditional und der Wahrheit seines Nachsatzes (Konsequens) auf die Wahrheit des Vordersatzes (Antezedens).
 
-Der Fehler liegt darin, dass „Wenn A, dann B“ nur besagt, dass A für B _hinreichend_ ist – nicht, dass A die einzige mögliche Ursache von B ist. B kann auch aus anderen Gründen wahr sein.
+Der Fehler liegt darin, dass „Wenn A, dann B“ nur besagt, dass A für B _hinreichend_ ist &mdash; nicht, dass A die einzige mögliche Ursache von B ist. B kann auch aus anderen Gründen wahr sein.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -46,9 +46,9 @@ EN: _affirming the consequent_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Verneinung des Antezedens** – das Spiegelbild: dort wird vom verneinten Vordersatz auf den verneinten Nachsatz geschlossen.
-- **Umkehrung des Konditionals** – die zugrunde liegende Verwechslung: „Wenn A, dann B“ wird wie „Wenn B, dann A“ behandelt.
-- **Non sequitur** – der Oberbegriff aller dieser ungültigen Schlüsse.
+- **Verneinung des Antezedens** &mdash; das Spiegelbild: dort wird vom verneinten Vordersatz auf den verneinten Nachsatz geschlossen.
+- **Umkehrung des Konditionals** &mdash; die zugrunde liegende Verwechslung: „Wenn A, dann B“ wird wie „Wenn B, dann A“ behandelt.
+- **Non sequitur** &mdash; der Oberbegriff aller dieser ungültigen Schlüsse.
 
 ## Beispiele
 

@@ -27,7 +27,7 @@ _Ein gutes Ganzes hat nicht nur gute Teile._
 
 ## Definition
 
-Beim **Trugschluss der Division** (*fallacy of division*) wird angenommen, eine Eigenschaft des **Ganzen** gelte automatisch auch für jeden seiner **Teile**. Er ist das Spiegelbild des **Kompositionsfehlschlusses**.
+Beim **Trugschluss der Division** (_fallacy of division_) wird angenommen, eine Eigenschaft des **Ganzen** gelte automatisch auch für jeden seiner **Teile**. Er ist das Spiegelbild des **Kompositionsfehlschlusses**.
 
 Der Fehler: Eigenschaften des Ganzen entstehen oft erst aus dem Zusammenspiel der Teile und kommen den einzelnen Teilen nicht zu. Vom Ganzen auf jedes Glied zu schliessen, ist deshalb unzulässig.
 
@@ -42,8 +42,8 @@ EN: _fallacy of division_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Fehlschluss der Komposition** – das Spiegelbild: von den Teilen aufs Ganze.
-- **Ökologischer Fehlschluss** – verwandt: vom Gruppenwert auf das Individuum schliessen.
+- **Fehlschluss der Komposition** &mdash; das Spiegelbild: von den Teilen aufs Ganze.
+- **Ökologischer Fehlschluss** &mdash; verwandt: vom Gruppenwert auf das Individuum schliessen.
 
 ## Beispiele
 
@@ -51,7 +51,7 @@ EN: _fallacy of division_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Diese Mannschaft ist die beste der Liga – also ist jeder ihrer Spieler der beste auf seiner Position.“
+> „Diese Mannschaft ist die beste der Liga &mdash; also ist jeder ihrer Spieler der beste auf seiner Position.“
 
 Eine Spitzenmannschaft kann auch durchschnittliche Einzelspieler haben, die als Team stark sind. Die Eigenschaft des Ganzen überträgt sich nicht auf jeden Teil.
 
@@ -61,7 +61,7 @@ Eine Spitzenmannschaft kann auch durchschnittliche Einzelspieler haben, die als 
 
 > „Wasser löscht Feuer. Wasser besteht aus Wasserstoff und Sauerstoff. Also löschen Wasserstoff und Sauerstoff Feuer.“
 
-Sauerstoff fördert die Verbrennung, Wasserstoff ist sogar selbst brennbar – Feuer löschen die beiden Elemente gerade nicht. Die Eigenschaft der Verbindung kommt ihren Bestandteilen nicht zu.
+Sauerstoff fördert die Verbrennung, Wasserstoff ist sogar selbst brennbar &mdash; Feuer löschen die beiden Elemente gerade nicht. Die Eigenschaft der Verbindung kommt ihren Bestandteilen nicht zu.
 
 ## Quellen
 

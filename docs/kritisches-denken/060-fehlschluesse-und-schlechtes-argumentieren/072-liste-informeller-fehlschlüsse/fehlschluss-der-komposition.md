@@ -27,9 +27,9 @@ _Aus guten Teilen wird nicht zwingend ein gutes Ganzes._
 
 ## Definition
 
-Beim **Fehlschluss der Komposition** (*fallacy of composition*) wird angenommen, eine Eigenschaft der **Teile** gelte automatisch auch für das **Ganze**, das sie bilden.
+Beim **Fehlschluss der Komposition** (_fallacy of composition_) wird angenommen, eine Eigenschaft der **Teile** gelte automatisch auch für das **Ganze**, das sie bilden.
 
-Der Fehler: Manche Eigenschaften übertragen sich von den Teilen aufs Ganze, viele aber nicht – gerade dort, wo es auf das **Zusammenwirken** ankommt. Das Ganze kann Eigenschaften haben, die kein Teil für sich besitzt (Emergenz).
+Der Fehler: Manche Eigenschaften übertragen sich von den Teilen aufs Ganze, viele aber nicht &mdash; gerade dort, wo es auf das **Zusammenwirken** ankommt. Das Ganze kann Eigenschaften haben, die kein Teil für sich besitzt (Emergenz).
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _fallacy of composition_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Trugschluss der Division** – das Spiegelbild: vom Ganzen auf die Teile.
-- **Hastige Verallgemeinerung** – verwandt: unzulässiger Übertrag auf eine andere Ebene.
-- **Ökologischer Fehlschluss** – verwandt: Schluss von Gruppen- auf Einzeldaten und umgekehrt.
+- **Trugschluss der Division** &mdash; das Spiegelbild: vom Ganzen auf die Teile.
+- **Hastige Verallgemeinerung** &mdash; verwandt: unzulässiger Übertrag auf eine andere Ebene.
+- **Ökologischer Fehlschluss** &mdash; verwandt: Schluss von Gruppen- auf Einzeldaten und umgekehrt.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _fallacy of composition_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Jeder Spieler dieser Mannschaft ist hervorragend – also ist es eine hervorragende Mannschaft.“
+> „Jeder Spieler dieser Mannschaft ist hervorragend &mdash; also ist es eine hervorragende Mannschaft.“
 
 Eine Mannschaft kann trotz starker Einzelspieler schlecht zusammenspielen. Die Eigenschaft des Teils überträgt sich nicht automatisch aufs Ganze.
 

@@ -30,7 +30,7 @@ _„Nicht beide“ lässt offen, dass auch keines zutrifft._
 
 Die **Verneinung eines Konjunkts** schliesst aus der Verneinung einer Konjunktion („nicht beides, A und B“) und der Falschheit eines Glieds auf die Wahrheit des anderen.
 
-Der Fehler liegt darin, dass „nicht (A und B)“ nur ausschliesst, dass *beide zugleich* zutreffen. Es lässt offen, dass *keines* von beiden zutrifft. Aus „nicht A“ folgt deshalb nicht „B“.
+Der Fehler liegt darin, dass „nicht (A und B)“ nur ausschliesst, dass _beide zugleich_ zutreffen. Es lässt offen, dass _keines_ von beiden zutrifft. Aus „nicht A“ folgt deshalb nicht „B“.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -44,9 +44,9 @@ EN: _denying a conjunct_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bestätigung eines Disjunkts** – das Gegenstück auf der Ebene der Disjunktion.
-- **Falsches Dilemma** – verwandt: Auch hier wird stillschweigend angenommen, dass mindestens eine Option zutreffen müsse.
-- **Non sequitur** – der Oberbegriff.
+- **Bestätigung eines Disjunkts** &mdash; das Gegenstück auf der Ebene der Disjunktion.
+- **Falsches Dilemma** &mdash; verwandt: Auch hier wird stillschweigend angenommen, dass mindestens eine Option zutreffen müsse.
+- **Non sequitur** &mdash; der Oberbegriff.
 
 ## Beispiele
 
@@ -64,7 +64,7 @@ Paul könnte auch weder reich noch glücklich sein. Dass nicht beides zugleich g
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Sie kann nicht gleichzeitig in Berlin und in München sein. Sie ist nicht in Berlin – also ist sie in München.“
+> „Sie kann nicht gleichzeitig in Berlin und in München sein. Sie ist nicht in Berlin &mdash; also ist sie in München.“
 
 Sie könnte ebenso gut in Hamburg sein. Der Ausschluss der gleichzeitigen Anwesenheit erlaubt keinen Schluss auf einen bestimmten Ort.
 

@@ -26,6 +26,7 @@ Ein zentrales Konzept in der Entwicklung intellektueller Tugenden ist die **Epoc
 Epoché bedeutet, vorschnelle Urteile zurückzuhalten und einen Zustand der Offenheit gegenüber verschiedenen Möglichkeiten zu bewahren. Es ist nicht dasselbe wie Unentschlossenheit oder Relativismus, sondern eine bewusste Praxis, die es uns ermöglicht, Beweise und Argumente gründlicher zu prüfen, bevor wir zu Schlussfolgerungen gelangen.
 
 **Merkmale der Epoché:**
+
 - Bewusste Zurückhaltung vorschneller Urteile
 - Offenheit für verschiedene Interpretationen und Perspektiven
 - Bereitschaft, mit Unsicherheit und Ambiguität umzugehen
@@ -37,9 +38,10 @@ Epoché bedeutet, vorschnelle Urteile zurückzuhalten und einen Zustand der Offe
 
 ## Produktiver Zweifel
 
-Eng verbunden mit der Epoché ist der **produktive Zweifel** – eine Form des Zweifels, die nicht in Zynismus oder Lähmung mündet, sondern als Werkzeug für tieferes Verständnis und besseres Denken dient.
+Eng verbunden mit der Epoché ist der **produktive Zweifel** &mdash; eine Form des Zweifels, die nicht in Zynismus oder Lähmung mündet, sondern als Werkzeug für tieferes Verständnis und besseres Denken dient.
 
 **Merkmale des produktiven Zweifels:**
+
 - Gezielte Infragestellung von Annahmen und Behauptungen
 - Offenheit für Revision im Lichte neuer Beweise
 - Balance zwischen Skepsis und Vertrauen
@@ -47,13 +49,13 @@ Eng verbunden mit der Epoché ist der **produktive Zweifel** – eine Form des Z
 
 **Unterschied zwischen produktivem und unproduktivem Zweifel:**
 
-| Produktiver Zweifel | Unproduktiver Zweifel |
-|---------------------|------------------------|
-| Zielt auf tieferes Verständnis | Zielt auf Vermeidung von Festlegung |
-| Spezifisch und gezielt | Allgemein und unterschiedslos |
-| Führt zu weiterer Untersuchung | Führt zu intellektueller Lähmung |
+| Produktiver Zweifel                 | Unproduktiver Zweifel                 |
+| ----------------------------------- | ------------------------------------- |
+| Zielt auf tieferes Verständnis      | Zielt auf Vermeidung von Festlegung   |
+| Spezifisch und gezielt              | Allgemein und unterschiedslos         |
+| Führt zu weiterer Untersuchung      | Führt zu intellektueller Lähmung      |
 | Offen für Überzeugung durch Beweise | Resistent gegenüber jeder Überzeugung |
-| Motiviert durch Wahrheitssuche | Motiviert durch Angst oder Zynismus |
+| Motiviert durch Wahrheitssuche      | Motiviert durch Angst oder Zynismus   |
 
 **Beispiel:** Ein Wissenschaftler, der eine etablierte Theorie hinterfragt, nicht um sie zu widerlegen, sondern um sie besser zu verstehen oder zu verbessern, und bereit ist, seine Zweifel aufzugeben, wenn die Beweise überzeugend sind.
 

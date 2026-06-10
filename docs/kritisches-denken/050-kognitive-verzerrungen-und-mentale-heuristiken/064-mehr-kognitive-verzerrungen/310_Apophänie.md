@@ -15,13 +15,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
 Du erkennst Sinn, wo keiner ist.
 
 <!-- _Alles sieht aus wie ein Gesicht._ -->
+
 _Die Wolken sehen aus wie Gesichter._
 :::
 
@@ -46,7 +46,7 @@ Apophänie hängt eng mit mehreren anderen Verzerrungen und Denkfehlern zusammen
 
 ### Gesichter überall
 
-Menschen sehen Gesichter in Wolken, auf dem Mars, in Steckdosen, Autoscheinwerfern oder Toastbroten. Das Gehirn ist extrem sensitiv für Gesichter – lieber ein Fehlalarm als ein verpasstes Signal.
+Menschen sehen Gesichter in Wolken, auf dem Mars, in Steckdosen, Autoscheinwerfern oder Toastbroten. Das Gehirn ist extrem sensitiv für Gesichter &mdash; lieber ein Fehlalarm als ein verpasstes Signal.
 
 ### Muster in Finanzdaten
 
@@ -54,7 +54,7 @@ Kurven und Kerzencharts regen die Mustererkennung an. Aus zufälligen Schwankung
 
 ### Bedeutungsvolle Zufälle
 
-Zwei Personen treffen sich mehrfach "zufällig" in kurzer Zeit und deuten das als Schicksal. Häufig liegen jedoch simple Basisraten und gemeinsame Wege zugrunde – nicht Kausalität.
+Zwei Personen treffen sich mehrfach "zufällig" in kurzer Zeit und deuten das als Schicksal. Häufig liegen jedoch simple Basisraten und gemeinsame Wege zugrunde &mdash; nicht Kausalität.
 
 ### Datenfischen in Studien
 
@@ -79,7 +79,6 @@ Wer viele Variablen ohne klare Hypothese testet, wird fast sicher "signifikante"
 
 - Wikipedia: [Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 - Wikipedia: [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-- Kahneman, D. (2011): Thinking, Fast and Slow – Kapitel zu Mustererkennung und Zufall.
-- Taleb, N. N. (2001): Fooled by Randomness – Über Scheinmuster in Rauschdaten.
-- Gilovich, T. (1991): How We Know What Isn’t So – Irrtümer des Alltagsdenkens.
-
+- Kahneman, D. (2011): Thinking, Fast and Slow &mdash; Kapitel zu Mustererkennung und Zufall.
+- Taleb, N. N. (2001): Fooled by Randomness &mdash; Über Scheinmuster in Rauschdaten.
+- Gilovich, T. (1991): How We Know What Isn’t So &mdash; Irrtümer des Alltagsdenkens.

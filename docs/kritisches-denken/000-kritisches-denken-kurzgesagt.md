@@ -5,10 +5,10 @@ sidebar_position: 0
 sidebar_label: Kritisches Denken 5min
 description: "Das Wichtigste zum kritischen Denkens, alles auf einer Seite"
 keywords:
-    - kritisches Denken
-    - Zusammenfassung
-    - Argumentation
-    - Reflexion
+  - kritisches Denken
+  - Zusammenfassung
+  - Argumentation
+  - Reflexion
 last_update:
   date: 2026-02-11
   time: 12:00
@@ -22,7 +22,6 @@ completeness: 5/5
 # https://nairaquest.com/de/topics/10452-14-great-philosophical-dilemmas-and-their-possible-solution
 # https://de.wikipedia.org/wiki/Dilemma
 # https://de.wikipedia.org/wiki/Liste_von_Paradoxa
-
 ---
 
 ![discutierende menschen](../../static/img/banner-rationalistät-humains.png)
@@ -44,24 +43,24 @@ Entscheidungen treffen wir, um **zu handeln**.
 **Richtige Entscheidungen** zu treffen, um **'richtig' zu handeln**, ist eine Kunst und eine Wissenschaft zugleich.
 
 :::info Handeln
+
 <p class="text--center">**Handeln** = **Begehren** + **Wissen**</p>
 
 &mdash; David Hume [^1]
 :::
 
-[^1]: Hume erklärt, dass Handlungen durch unser" Begierden oder Ziele motiviert sind und dass Wissen uns hilft diese Ziele zu erreichen. "A Treatise of Human Nature", Buch II, Teil 3, Abschnitt 3, "Of the Influencing Motives of the Will" (1739–40).
+[^1]: Hume erklärt, dass Handlungen durch unser" Begierden oder Ziele motiviert sind und dass Wissen uns hilft diese Ziele zu erreichen. "A Treatise of Human Nature", Buch II, Teil 3, Abschnitt 3, "Of the Influencing Motives of the Will" (1739&mdash;40).
 
 Jedes Handeln, jede Entscheidung, die wir treffen, basiert auf zwei fundamentalen Fragen:
 
 1. **Wo willst du hin? = Ziele / Begehren**.  
-  Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer **menschlichen Konstitution** ab. 
-  Wir brauchen Nahrung, Wärme, Sicherheit, soziale Kontakte, Sexualität, usw.  
-  Zum anderen werden unsere Ziele von unseren familiären und **kulturellen Werten** bestimmt, die wir als soziale Wesen in unserer Kultur gelernt haben. Das sind Werte und Normen wie: Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon. 
+   Das sind die Ziele die wir anstreben oder begehren. Diese hängen zum einen von unserer **menschlichen Konstitution** ab.
+   Wir brauchen Nahrung, Wärme, Sicherheit, soziale Kontakte, Sexualität, usw.  
+   Zum anderen werden unsere Ziele von unseren familiären und **kulturellen Werten** bestimmt, die wir als soziale Wesen in unserer Kultur gelernt haben. Das sind Werte und Normen wie: Freiheit, Gerechtigkeit, Gleichheit, Toleranz, Respekt, Mitgefühl, Solidarität, Ehrlichkeit oder das Gegenteil davon.
 
 2. **Wie kommst du da hin? = Wissen**.  
-  Der zweite Aspekt, ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
-  Gute Entscheidungen sind die, die auf **Wahrheit** (in einem pragmatischen Sinne) basieren und nicht auf **Irrtum**.
-
+   Der zweite Aspekt, ist das Wissen, das wir brauchen, um unsere Ziele zu erreichen. Du brauchst Wissen von der Welt.
+   Gute Entscheidungen sind die, die auf **Wahrheit** (in einem pragmatischen Sinne) basieren und nicht auf **Irrtum**.
 
 ## Kriterien für "richtige Entscheidungen" und "richtiges" Handeln
 
@@ -72,7 +71,7 @@ Die Frage aller Fragen ist natürlich: wie unterscheide ich "richtige" von "fals
 - Soll ich das Auto nehmen oder das Fahrrad?
 - Soll ich ein Haus kaufen oder mieten?
 
-Es gibt keine allgemeingültige Antwort auf diese Fragen, denn sie hängen von deinen individuellen Zielen und Werten ab. 
+Es gibt keine allgemeingültige Antwort auf diese Fragen, denn sie hängen von deinen individuellen Zielen und Werten ab.
 Aber Philosophen denken seit tausenden von Jahren darüber nach und haben einige Kriterien entwickelt, die dir helfen können, "richtige Entscheidungen" zu treffen.
 
 Wir werden viele dieser Kriterien im Laufe des Tutorials noch genauer besprechen. Hier eine kurze Übersicht:
@@ -89,34 +88,35 @@ Wir werden viele dieser Kriterien im Laufe des Tutorials noch genauer besprechen
 &nbsp;
 
 :::info Zitat
- "_Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit._"
+"_Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit._"
 
- &mdash; Immanuel Kant: _Was ist Aufklärung_[^2]
+&mdash; Immanuel Kant: _Was ist Aufklärung_[^2]
 :::
 
-[^2]: Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
-**Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. **Sapere aude!** Habe Muth dich deines **eigenen** Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.
+[^2]:
+    Einleitung in Kants berühmten Aufsatz ("[Was ist Aufklärung](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
+    **Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. **Sapere aude!** Habe Muth dich deines **eigenen** Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.
 
 &nbsp;
 Kritisches Denken hat zwei Hemisphären.
 
-:::tip 
+:::tip
+
 <p class="text--center">**Kritisches Denken** = **Richtig** + **Kritisch** </p>
 
 :::
 
-Das kritische Denken has zwei wesentliche Aspekte:  
+Das kritische Denken has zwei wesentliche Aspekte:
 
 1. Wie denkt man **richtig**?  
-  Die Antwort darauf ist eine **Fähigkeit**, wie "Fahrrad fahren" oder "einen Apfelstrudel backen".
+   Die Antwort darauf ist eine **Fähigkeit**, wie "Fahrrad fahren" oder "einen Apfelstrudel backen".
 
 2. Wie denkt man **kritisch**?  
-  Die Antwort darauf ist eine **Einstellung**, wie "auf der Hut sein", die wir bei Gelegenheit einnehmen.
+   Die Antwort darauf ist eine **Einstellung**, wie "auf der Hut sein", die wir bei Gelegenheit einnehmen.
 
 Wenn du dir unsicher bist, ob du das eine oder das andere beherrschst, keine Sorge: **beides kann man lernen**.
 
 Beide Aspekte werden wir im Folgenden kurz vorstellen.
-
 
 ## Wie denkst Du richtig?
 
@@ -148,15 +148,15 @@ Du musst verstehen, **wie gute Argumente funktionieren** und warum schlechte Arg
 
 Um klar und kritisch zu denken, müssen wir lernen **Sprachfallen und Sprachverhexungen aufzudecken** und sie zu umgehen.
 
-Sprache ist kein starres System, sie lebt, wandelt sich und entzieht sich oft jeder Kontrolle. Sehr oft spielt uns die Sprache selbst einen Streich. 
+Sprache ist kein starres System, sie lebt, wandelt sich und entzieht sich oft jeder Kontrolle. Sehr oft spielt uns die Sprache selbst einen Streich.
 Hier sind ein paar Beispiele:
 
 - **Geladene Sprache**, z. B.: "Unser unterbelichteter Präsident hat gesagt ..."
-Da hat jemand eine Meinung über den Präsidenten, die er uns unterschieben will.
-- **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?" 
-Da wird eine absurde Frage aufgeworfen, die lustig sein kann, uns aber auch vorgaukelt, dass es eine sinnvolle Antwort darauf gibt.
-- **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner, mit platten Fingernägeln und Vernunft." 
-Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richtig überzeugend ist.
+  Da hat jemand eine Meinung über den Präsidenten, die er uns unterschieben will.
+- **Unsinn**, z. B.: "Wie spät ist es eigentlich auf dem Mond gerade?"
+  Da wird eine absurde Frage aufgeworfen, die lustig sein kann, uns aber auch vorgaukelt, dass es eine sinnvolle Antwort darauf gibt.
+- **Schiefe Definitionen**, z. B.: "Der Mensch ist ein federloser Zweibeiner, mit platten Fingernägeln und Vernunft."
+  Das ist eine klassische Definition, die vielleicht zutrifft, aber nicht so richtig überzeugend ist.
 
 **Exakte Sprache** mit präzisen Begriffen, das brauchen wir im Recht, auf der Arbeit, in der Wissenschaft und Technik. In der Politik wäre es auch mal ganz gut.
 
@@ -236,8 +236,8 @@ Das alles gehört zum richtigen Denken dazu. Was aber ist das "Kritische" am kri
 Jetzt kommen wir zum kritischen Teil. "**Kritisch**" ist hier **eine unabdingbare Einstellung zu sich selbst**, zu jeder Art von Behauptung, Hypothese, Theorie, zu Quellen aller Art, zur Wissenschaft und Kultur und selbst zu Werten.
 
 - **Nicht immer**: Das soll nicht heissen, dass wir immer überall und alles hinterfragen sollten. Oh nein, bitte nicht, da würdest du verrückt werden.
-- **Wenn es weh tut**:  Etablierte Theorien oder in deiner Kultur verwurzelte Werte kann man nicht ständig in Frage stellen.
-Manchmal aber schon. Eben dann, wenn sich **Widersprüche** mit dem Leben oder den Wissenschaften auftun. Widersprüche sind das Treibmittel des Fortschritts.
+- **Wenn es weh tut**: Etablierte Theorien oder in deiner Kultur verwurzelte Werte kann man nicht ständig in Frage stellen.
+  Manchmal aber schon. Eben dann, wenn sich **Widersprüche** mit dem Leben oder den Wissenschaften auftun. Widersprüche sind das Treibmittel des Fortschritts.
 
 ### Selbstkritik
 
@@ -245,7 +245,7 @@ Die meisten von uns sind totale Egozentriker. Meistens wissen wir schon, wo wir 
 
 Wir sind voller **Überzeugungen** und sind uns oft **ganz sicher**.
 
-Die meiste Energie unseres Denken benutzen wir nicht, um ein angemessene oder "richtige" Lösungen auf gegebene Probleme zu finden, sondern um unsere **Vorurteile zu bestätigen**.  
+Die meiste Energie unseres Denken benutzen wir nicht, um ein angemessene oder "richtige" Lösungen auf gegebene Probleme zu finden, sondern um unsere **Vorurteile zu bestätigen**.
 
 Unsere Gesellschaft ist voller **gegensätzlicher Überzeugungen**:
 
@@ -253,34 +253,34 @@ Unsere Gesellschaft ist voller **gegensätzlicher Überzeugungen**:
   - a) nur einen Gott und dieser ist zufällig der, an den ich glaube. Gott sei Dank!
   - b) an Gott kann man glauben wie man will, es ist nur kein wissenschaftlicher Ausdruck.
 - Die Erde ist
-  - a) ungefähr rund. 
+  - a) ungefähr rund.
   - b) flach oder eckig.
 - Corona19 war
-  - a) eine schwere Epidemie, 
+  - a) eine schwere Epidemie,
   - b) eine Verschwörung der Weltregierung.
-- Homosexualität ist 
-  - a) ein natürliches Phänomen, gibt's bei Tieren und ist moralisch neutral, 
+- Homosexualität ist
+  - a) ein natürliches Phänomen, gibt's bei Tieren und ist moralisch neutral,
   - b) eine Krankheit und Gott nicht gefällig.
 - Wir konstatieren
-  - a) eine menschengemachte Klimakrise 
+  - a) eine menschengemachte Klimakrise
   - b) bestreiten dies.
 
 Bei vielen Themen haben wir:
 
-  1. sehr oft **keine Ahnung** von der Materie
-  2. trotzdem meistens **eine feste Überzeugung**.
+1. sehr oft **keine Ahnung** von der Materie
+2. trotzdem meistens **eine feste Überzeugung**.
 
 &nbsp;
 
 :::tip Übung
-Bitte 10 mal nachsagen: 
+Bitte 10 mal nachsagen:
 
 **"Ich kann mich irren, ich habe mich schon oft geirrt, ich werde mich wieder irren."**
 :::
 
 ### Fehlersuche
 
-Ist es schlimm, dass wir uns irren? 
+Ist es schlimm, dass wir uns irren?
 
 Nein. Wenn wir uns verbessern wollen, dann müssen wir offen sein für **Fehlersuche**, konstruktive Kritik, **Hinterfragung**.
 
@@ -299,7 +299,7 @@ Ein anderer wichtiger Punkt des kritischen Denkens ist das **Zuhören** und die 
 - Offen sein für die Erfahrung Anderer.
 - Oft hören wir nicht einmal den Satz zu ende und haben schon geurteilt.
 - Andere Menschen haben andere Prioritäten und wir haben schräge Meinungen dazu:
- 
+
 - das Kind will ein neues Spielzeug (was für ein Unsinn, braucht nicht noch eins)
 - der Jugendliche träumt davon, ein Musikstar zu sein (das wird ja eh nix, hast du den mal singen gehört)
 - jemand will eine neuen Sportwagen (wozu das denn, das ist teuer und verpestet die Umwelt)
@@ -313,12 +313,13 @@ Im kritischen Denken ist die **Zurückhaltung des Urteils** ein zentraler Punkt.
 
 Nicht alle Rechten sind Nazis, nicht alle Linken sind Chaoten.
 
-Schon in der Antike ist die Zurückhaltung des Urteils, als [_Epoché_ (ἐποχή)](https://de.wikipedia.org/wiki/Epoche_(Philosophie)) bezeichnet, ein wichtiger Punkt in der Philosophie und wurde von Philosophen wie Pyrrhon und Sextus Empiricus hervorgehoben.  
+Schon in der Antike ist die Zurückhaltung des Urteils, als [_Epoché_ (ἐποχή)](<https://de.wikipedia.org/wiki/Epoche_(Philosophie)>) bezeichnet, ein wichtiger Punkt in der Philosophie und wurde von Philosophen wie Pyrrhon und Sextus Empiricus hervorgehoben.  
 Auch im Zen-Buddhismus wird die Zurückhaltung des Urteils durch das Prinzip des **Nicht-Anhaftens** (Non-Attachment, 無執着, Mu-shūjaku)[^3] verkörpert. Es bedeutet, sich nicht an festen Meinungen oder Überzeugungen festzuhalten.
 
-[^3]: Zen lehrt, sich nicht an Ansichten, Emotionen oder Wahrnehmungen zu klammern. Das entspricht der pyrrhonischen Enthaltung, aber mit einem entscheidenden Unterschied:  
-**Epoché** sagt: "Ich halte mich nicht fest, um Ruhe zu finden."  
-**Zen** sagt: "Ich halte mich nicht fest, weil Festhalten selbst die Ursache des Leidens ist."
+[^3]:
+    Zen lehrt, sich nicht an Ansichten, Emotionen oder Wahrnehmungen zu klammern. Das entspricht der pyrrhonischen Enthaltung, aber mit einem entscheidenden Unterschied:  
+    **Epoché** sagt: "Ich halte mich nicht fest, um Ruhe zu finden."  
+    **Zen** sagt: "Ich halte mich nicht fest, weil Festhalten selbst die Ursache des Leidens ist."
 
 #### Vorteile der Zurückhaltung des Urteils
 
@@ -354,6 +355,5 @@ flowchart LR
 </p>
 
 &nbsp;
-
 
 Nach diesem sehr kondensierten Überblick über das kritische Denken, kommen wir nun zu den Details!

@@ -27,7 +27,7 @@ _„Das bisschen“ summiert sich._
 
 ## Definition
 
-Beim **Fehlschluss der relativen Geringfügigkeit** wird ein Problem, Beitrag oder Schaden abgetan, weil er **für sich genommen klein** sei – sei es im Vergleich zu „Schlimmerem“ (*relative privation*) oder weil der Einzelfall kaum ins Gewicht falle.
+Beim **Fehlschluss der relativen Geringfügigkeit** wird ein Problem, Beitrag oder Schaden abgetan, weil er **für sich genommen klein** sei &mdash; sei es im Vergleich zu „Schlimmerem“ (_relative privation_) oder weil der Einzelfall kaum ins Gewicht falle.
 
 Der Fehler: Die Geringfügigkeit eines Einzelbeitrags sagt nichts über die **Summe** oder das **Prinzip**. Viele kleine Beiträge ergeben grosse Wirkungen; und dass es Schlimmeres gibt, macht das Kleinere nicht harmlos.
 
@@ -37,15 +37,15 @@ Der Fehlschluss hat die folgende Form:
 2. Also ist X unbedeutend / kein Problem.
 3. (Häufig:) Es gibt ohnehin Schlimmeres.
 
-EN: _appeal to relative triviality_ / _minimization_ (Sonderform: _relative privation_ – „es gibt Schlimmeres“)
+EN: _appeal to relative triviality_ / _minimization_ (Sonderform: _relative privation_ &mdash; „es gibt Schlimmeres“)
 
 ## Verwandtschaft
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Dammbruchargument** – die Gegenrichtung: dort wird ein kleiner Schritt masslos dramatisiert.
-- **Haufen-Paradox** – verwandt: die Frage, ab wann viele Kleinigkeiten zählen.
-- **Ablenkung (Red Herring)** – verwandt, wenn „es gibt Schlimmeres“ vom Thema weglenkt.
+- **Dammbruchargument** &mdash; die Gegenrichtung: dort wird ein kleiner Schritt masslos dramatisiert.
+- **Haufen-Paradox** &mdash; verwandt: die Frage, ab wann viele Kleinigkeiten zählen.
+- **Ablenkung (Red Herring)** &mdash; verwandt, wenn „es gibt Schlimmeres“ vom Thema weglenkt.
 
 ## Beispiele
 
@@ -55,7 +55,7 @@ EN: _appeal to relative triviality_ / _minimization_ (Sonderform: _relative priv
 
 > „Ein Gläschen schadet doch nicht.“
 
-Für sich mag ein Glas wenig sein – regelmässig getrunken summiert es sich. Die Geringfügigkeit des Einzelfalls verdeckt die Wirkung der Gewohnheit.
+Für sich mag ein Glas wenig sein &mdash; regelmässig getrunken summiert es sich. Die Geringfügigkeit des Einzelfalls verdeckt die Wirkung der Gewohnheit.
 
 ### Beispiel 2
 

@@ -19,7 +19,7 @@ last_update:
 
 # Zusammenfassung
 
-In diesem Kapitel haben wir uns mit intellektuellen Tugenden und Lastern befasst – Charaktereigenschaften und Haltungen, die unser Denken und unseren intellektuellen Austausch mit anderen beeinflussen.
+In diesem Kapitel haben wir uns mit intellektuellen Tugenden und Lastern befasst &mdash; Charaktereigenschaften und Haltungen, die unser Denken und unseren intellektuellen Austausch mit anderen beeinflussen.
 
 Wir haben gelernt:
 

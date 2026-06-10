@@ -27,7 +27,7 @@ _Den Boten treffen, nicht die Botschaft._
 
 ## Definition
 
-Beim **Argumentum ad Hominem** („Argument gegen die Person“) richtet sich der Angriff nicht gegen die *Behauptung*, sondern gegen die *Person*, die sie aufstellt. Eigenschaften, Herkunft, Charakter oder Umstände der Person sollen die Behauptung entkräften.
+Beim **Argumentum ad Hominem** („Argument gegen die Person“) richtet sich der Angriff nicht gegen die _Behauptung_, sondern gegen die _Person_, die sie aufstellt. Eigenschaften, Herkunft, Charakter oder Umstände der Person sollen die Behauptung entkräften.
 
 Das ist ein Fehlschluss, weil die Wahrheit einer Aussage nicht davon abhängt, **wer** sie äussert. Auch eine unsympathische oder unglaubwürdige Person kann recht haben.
 
@@ -37,7 +37,7 @@ Der Fehlschluss hat die folgende Form:
 2. Person A hat die (negative) Eigenschaft E.
 3. Also ist B falsch.
 
-Davon zu unterscheiden ist die *legitime* Kritik an der Glaubwürdigkeit eines Zeugen – dort geht es nicht um die Wahrheit der Aussage, sondern um ihre Verlässlichkeit als Quelle.
+Davon zu unterscheiden ist die _legitime_ Kritik an der Glaubwürdigkeit eines Zeugen &mdash; dort geht es nicht um die Wahrheit der Aussage, sondern um ihre Verlässlichkeit als Quelle.
 
 EN: _ad hominem_
 
@@ -45,9 +45,9 @@ EN: _ad hominem_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Tu quoque** – Sonderform: der Vorwurf der Heuchelei statt einer Sachantwort.
-- **Brunnenvergiftung** – Sonderform: die Person wird *vorab* diskreditiert.
-- **Genetischer Fehlschluss** – verwandt: Bewertung nach Herkunft statt Inhalt.
+- **Tu quoque** &mdash; Sonderform: der Vorwurf der Heuchelei statt einer Sachantwort.
+- **Brunnenvergiftung** &mdash; Sonderform: die Person wird _vorab_ diskreditiert.
+- **Genetischer Fehlschluss** &mdash; verwandt: Bewertung nach Herkunft statt Inhalt.
 
 ## Beispiele
 
@@ -55,8 +55,8 @@ EN: _ad hominem_
 
 <!-- Beschreibung Beispiel eins -->
 
-> – „Die Klimaforscherin hat ihre Messdaten vorgelegt.“
-> – „Ach, die ist doch eine verbohrte Aktivistin – das muss man nicht ernst nehmen.“
+> &mdash; „Die Klimaforscherin hat ihre Messdaten vorgelegt.“
+> &mdash; „Ach, die ist doch eine verbohrte Aktivistin &mdash; das muss man nicht ernst nehmen.“
 
 Statt die vorgelegten Daten zu prüfen, wird die Person als „Aktivistin“ abgestempelt. Eine Beschimpfung widerlegt keine Daten.
 

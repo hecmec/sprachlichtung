@@ -20,16 +20,16 @@ draft: false
 ---
 
 :::tip Kurz
-Etwas gilt als wahr, weil es nicht widerlegt ist – oder als falsch, weil es nicht bewiesen ist.
+Etwas gilt als wahr, weil es nicht widerlegt ist &mdash; oder als falsch, weil es nicht bewiesen ist.
 
 _Nicht widerlegt heisst nicht bewiesen._
 :::
 
 ## Definition
 
-Beim **Argumentum ad Ignorantiam** (Appell an das Nichtwissen) wird aus dem **Fehlen eines Gegenbeweises** auf die Wahrheit einer Behauptung geschlossen – oder umgekehrt aus dem Fehlen eines Beweises auf ihre Falschheit.
+Beim **Argumentum ad Ignorantiam** (Appell an das Nichtwissen) wird aus dem **Fehlen eines Gegenbeweises** auf die Wahrheit einer Behauptung geschlossen &mdash; oder umgekehrt aus dem Fehlen eines Beweises auf ihre Falschheit.
 
-Der Fehler: Unwissenheit ist kein Beleg. Dass etwas (noch) nicht widerlegt wurde, macht es nicht wahr; dass etwas (noch) nicht bewiesen wurde, macht es nicht falsch. Häufig wird dabei die **Beweislast** unzulässig umgekehrt: Wer eine Behauptung aufstellt, muss sie belegen – nicht der Zweifelnde das Gegenteil.
+Der Fehler: Unwissenheit ist kein Beleg. Dass etwas (noch) nicht widerlegt wurde, macht es nicht wahr; dass etwas (noch) nicht bewiesen wurde, macht es nicht falsch. Häufig wird dabei die **Beweislast** unzulässig umgekehrt: Wer eine Behauptung aufstellt, muss sie belegen &mdash; nicht der Zweifelnde das Gegenteil.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,8 +42,8 @@ EN: _appeal to ignorance_ / _argumentum ad ignorantiam_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Gott-der-Lücken-Argument** – Sonderform: die Wissenslücke wird selbst zum Beweis erklärt.
-- **Persönliche Skepsis** – verwandt: „Ich kann es mir nicht vorstellen, also ist es falsch.“
+- **Gott-der-Lücken-Argument** &mdash; Sonderform: die Wissenslücke wird selbst zum Beweis erklärt.
+- **Persönliche Skepsis** &mdash; verwandt: „Ich kann es mir nicht vorstellen, also ist es falsch.“
 
 ## Beispiele
 
@@ -51,7 +51,7 @@ EN: _appeal to ignorance_ / _argumentum ad ignorantiam_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Niemand hat je bewiesen, dass es keine Geister gibt – also gibt es sie.“
+> „Niemand hat je bewiesen, dass es keine Geister gibt &mdash; also gibt es sie.“
 
 Das Ausbleiben eines Gegenbeweises belegt die Existenz von Geistern nicht. Die Beweislast liegt bei dem, der ihre Existenz behauptet.
 
@@ -59,7 +59,7 @@ Das Ausbleiben eines Gegenbeweises belegt die Existenz von Geistern nicht. Die B
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Es gibt keine Studie, die belegt, dass dieser Stoff schädlich ist – also ist er unbedenklich.“
+> „Es gibt keine Studie, die belegt, dass dieser Stoff schädlich ist &mdash; also ist er unbedenklich.“
 
 Eine fehlende Studie ist kein Unbedenklichkeitsnachweis. „Nicht untersucht“ ist nicht dasselbe wie „nachweislich harmlos“.
 

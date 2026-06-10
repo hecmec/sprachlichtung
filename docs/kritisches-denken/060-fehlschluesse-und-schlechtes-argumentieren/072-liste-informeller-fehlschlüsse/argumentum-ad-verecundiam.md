@@ -27,9 +27,9 @@ _Ein grosser Name ist kein Beweis._
 
 ## Definition
 
-Beim **Argumentum ad Verecundiam** (Autoritätsargument) wird eine Behauptung allein deshalb für wahr gehalten, weil eine **Autorität** sie äussert – häufig eine Autorität, die für das Thema *nicht zuständig* oder *nicht zuverlässig* ist.
+Beim **Argumentum ad Verecundiam** (Autoritätsargument) wird eine Behauptung allein deshalb für wahr gehalten, weil eine **Autorität** sie äussert &mdash; häufig eine Autorität, die für das Thema _nicht zuständig_ oder _nicht zuverlässig_ ist.
 
-Wichtig: Sich auf einschlägige Fachleute zu stützen, ist *kein* Fehlschluss, sondern vernünftig. Zum Fehlschluss wird es, wenn (a) die Autorität fachfremd ist, (b) im Fachgebiet kein Konsens besteht, oder (c) die blosse Autorität ein *Sachargument ersetzen* soll.
+Wichtig: Sich auf einschlägige Fachleute zu stützen, ist _kein_ Fehlschluss, sondern vernünftig. Zum Fehlschluss wird es, wenn (a) die Autorität fachfremd ist, (b) im Fachgebiet kein Konsens besteht, oder (c) die blosse Autorität ein _Sachargument ersetzen_ soll.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _appeal to authority_ / _argumentum ad verecundiam_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Populum** – verwandt: die Menge statt einer Einzelautorität.
-- **Genetischer Fehlschluss** – verwandt: Bewertung nach Quelle statt nach Inhalt.
-- **Argumentum ad Antiquitatem** – verwandt: die „Autorität“ der Tradition.
+- **Argumentum ad Populum** &mdash; verwandt: die Menge statt einer Einzelautorität.
+- **Genetischer Fehlschluss** &mdash; verwandt: Bewertung nach Quelle statt nach Inhalt.
+- **Argumentum ad Antiquitatem** &mdash; verwandt: die „Autorität“ der Tradition.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _appeal to authority_ / _argumentum ad verecundiam_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Ein bekannter Schauspieler empfiehlt dieses Nahrungsergänzungsmittel – dann muss es ja gut sein.“
+> „Ein bekannter Schauspieler empfiehlt dieses Nahrungsergänzungsmittel &mdash; dann muss es ja gut sein.“
 
 Schauspielkunst begründet keine medizinische Kompetenz. Die Prominenz der Person sagt nichts über die Wirkung des Mittels.
 

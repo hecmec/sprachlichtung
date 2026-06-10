@@ -42,8 +42,8 @@ EN: _appeal to novelty_ / _argumentum ad novitatem_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Antiquitatem** – das Gegenstück: „alt, also bewährt“.
-- **Argumentum ad Populum** – verwandt, wenn das Neue zugleich als das Angesagte gilt.
+- **Argumentum ad Antiquitatem** &mdash; das Gegenstück: „alt, also bewährt“.
+- **Argumentum ad Populum** &mdash; verwandt, wenn das Neue zugleich als das Angesagte gilt.
 
 ## Beispiele
 
@@ -53,7 +53,7 @@ EN: _appeal to novelty_ / _argumentum ad novitatem_
 
 > „Das ist das neueste Modell, also ist es die beste Wahl.“
 
-Ob es die beste Wahl ist, hängt von Eigenschaften und Eignung ab – nicht vom Erscheinungsdatum.
+Ob es die beste Wahl ist, hängt von Eigenschaften und Eignung ab &mdash; nicht vom Erscheinungsdatum.
 
 ### Beispiel 2
 

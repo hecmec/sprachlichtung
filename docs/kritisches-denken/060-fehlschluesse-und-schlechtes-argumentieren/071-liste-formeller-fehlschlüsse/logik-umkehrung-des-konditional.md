@@ -30,7 +30,7 @@ _Die Umkehrung eines wahren Konditionals muss nicht wahr sein._
 
 Die **Umkehrung des Konditionals** behandelt die Aussage „Wenn A, dann B“ so, als sei sie gleichbedeutend mit ihrer Umkehrung „Wenn B, dann A“. Tatsächlich sind die beiden Aussagen logisch nicht äquivalent.
 
-Der Fehler verwechselt eine *hinreichende* Bedingung mit einer *notwendigen*: Dass A für B genügt, heisst nicht, dass A für B erforderlich ist. Logisch äquivalent zu „Wenn A, dann B“ ist nur die Kontraposition „Wenn nicht B, dann nicht A“ – nicht die Umkehrung.
+Der Fehler verwechselt eine _hinreichende_ Bedingung mit einer _notwendigen_: Dass A für B genügt, heisst nicht, dass A für B erforderlich ist. Logisch äquivalent zu „Wenn A, dann B“ ist nur die Kontraposition „Wenn nicht B, dann nicht A“ &mdash; nicht die Umkehrung.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -45,9 +45,9 @@ EN: _converse error_ / _illicit conversion_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Bestätigung der Konsequenz** – die angewandte Form derselben Verwechslung.
-- **Verneinung des Antezedens** – verwandt: auch hier wird notwendige und hinreichende Bedingung vertauscht.
-- **Non sequitur** – der Oberbegriff.
+- **Bestätigung der Konsequenz** &mdash; die angewandte Form derselben Verwechslung.
+- **Verneinung des Antezedens** &mdash; verwandt: auch hier wird notwendige und hinreichende Bedingung vertauscht.
+- **Non sequitur** &mdash; der Oberbegriff.
 
 ## Beispiele
 
@@ -72,7 +72,7 @@ Frühes Aufstehen mag bei Erfolgreichen häufig sein, ist aber keine Garantie f�
 
 <!-- Wo wird dieser Fehlschluss beschrieben. (Wikipedia, etc) -->
 
-- [Wikipedia: Konversion (Logik)](https://de.wikipedia.org/wiki/Konversion_(Logik))
-- [Wikipedia: Converse (logic)](https://en.wikipedia.org/wiki/Converse_(logic))
+- [Wikipedia: Konversion (Logik)](<https://de.wikipedia.org/wiki/Konversion_(Logik)>)
+- [Wikipedia: Converse (logic)](<https://en.wikipedia.org/wiki/Converse_(logic)>)
 - [Wikipedia: Konversionsfehlschluss](https://de.wikipedia.org/wiki/Konversionsfehlschluss)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)

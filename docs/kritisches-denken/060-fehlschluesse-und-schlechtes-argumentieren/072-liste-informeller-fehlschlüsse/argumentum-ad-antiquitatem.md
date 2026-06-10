@@ -29,7 +29,7 @@ _Alt heisst nicht gut._
 
 Beim **Argumentum ad Antiquitatem** (Traditionsargument) wird eine Behauptung oder Praxis für richtig gehalten, **weil sie alt ist** oder „schon immer“ so gehandhabt wurde.
 
-Der Fehler: Das Alter einer Überzeugung ist kein Beleg für ihre Richtigkeit. Auch lange gepflegte Bräuche können falsch, überholt oder schädlich sein. (Umgekehrt ist Tradition nicht automatisch falsch – sie ist nur kein *Argument* für sich.)
+Der Fehler: Das Alter einer Überzeugung ist kein Beleg für ihre Richtigkeit. Auch lange gepflegte Bräuche können falsch, überholt oder schädlich sein. (Umgekehrt ist Tradition nicht automatisch falsch &mdash; sie ist nur kein _Argument_ für sich.)
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,9 +42,9 @@ EN: _appeal to tradition_ / _argumentum ad antiquitatem_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Novitatem** – das Gegenstück: „neu, also besser“.
-- **Argumentum ad Populum** – verwandt: nicht „lange“, sondern „viele“.
-- **Naturalistischer Fehlschluss** – verwandt: von „so ist es üblich“ auf „so soll es sein“.
+- **Argumentum ad Novitatem** &mdash; das Gegenstück: „neu, also besser“.
+- **Argumentum ad Populum** &mdash; verwandt: nicht „lange“, sondern „viele“.
+- **Naturalistischer Fehlschluss** &mdash; verwandt: von „so ist es üblich“ auf „so soll es sein“.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _appeal to tradition_ / _argumentum ad antiquitatem_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Das haben wir hier schon immer so gemacht – warum sollten wir es ändern?“
+> „Das haben wir hier schon immer so gemacht &mdash; warum sollten wir es ändern?“
 
 Dass etwas lange Praxis war, sagt nichts darüber, ob es die beste Praxis ist.
 

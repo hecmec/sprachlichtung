@@ -22,14 +22,14 @@ draft: false
 :::tip Kurz
 Nur zwei Möglichkeiten werden zur Wahl gestellt, obwohl es mehr gibt.
 
-_Entweder–oder, wo ein Drittes möglich wäre._
+_Entweder&mdash;oder, wo ein Drittes möglich wäre._
 :::
 
 ## Definition
 
-Beim **falschen Dilemma** (*false dilemma*) werden nur **zwei Optionen** präsentiert und als erschöpfend dargestellt, obwohl in Wirklichkeit **weitere Möglichkeiten** (oder Zwischenstufen) bestehen. Lehnt man die eine Option ab, soll man zwangsläufig die andere annehmen.
+Beim **falschen Dilemma** (_false dilemma_) werden nur **zwei Optionen** präsentiert und als erschöpfend dargestellt, obwohl in Wirklichkeit **weitere Möglichkeiten** (oder Zwischenstufen) bestehen. Lehnt man die eine Option ab, soll man zwangsläufig die andere annehmen.
 
-Der Fehler: Die Auswahl ist künstlich verengt. Wer das „Entweder–oder“ akzeptiert, übersieht das ausgeblendete Dritte.
+Der Fehler: Die Auswahl ist künstlich verengt. Wer das „Entweder&mdash;oder“ akzeptiert, übersieht das ausgeblendete Dritte.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -43,9 +43,9 @@ EN: _false dilemma_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Falsche Dichotomie** – nahezu gleichbedeutend: die entweder-oder-Aufteilung selbst.
-- **Strohmann** – verwandt, wenn die Gegenposition auf eine extreme Option verengt wird.
-- **Mono-kausales Denken** – verwandt: künstliche Verengung möglicher Ursachen.
+- **Falsche Dichotomie** &mdash; nahezu gleichbedeutend: die entweder-oder-Aufteilung selbst.
+- **Strohmann** &mdash; verwandt, wenn die Gegenposition auf eine extreme Option verengt wird.
+- **Mono-kausales Denken** &mdash; verwandt: künstliche Verengung möglicher Ursachen.
 
 ## Beispiele
 
@@ -55,7 +55,7 @@ EN: _false dilemma_
 
 > „Entweder du bist für uns oder du bist gegen uns.“
 
-Dazwischen liegen viele Haltungen – teilweise Zustimmung, Neutralität, differenzierte Kritik. Die Wahl wird auf zwei Extreme verkürzt.
+Dazwischen liegen viele Haltungen &mdash; teilweise Zustimmung, Neutralität, differenzierte Kritik. Die Wahl wird auf zwei Extreme verkürzt.
 
 ### Beispiel 2
 

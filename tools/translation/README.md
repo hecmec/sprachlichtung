@@ -11,13 +11,13 @@ skill, which drives these commands.
 
 ## Files
 
-| File | Role |
-|------|------|
-| `blocks.js` | **Foundation.** The single source of truth for what a *block* is, its `src` hash, the `<!--t src=… by=… on=…-->` anchor format, and block alignment. Everything else imports it. |
-| `paths.js` | Filesystem + frontmatter helpers: the `_`-prefix eligibility rule, the `docs/ ↔ i18n/<locale>/…/current/` path mapping, and date-safe frontmatter read/write. |
-| `verify_translation.js` | Reports what is untranslated / stale / legacy per locale. |
-| `translate_plan.js` | Emits a JSON *job* of the blocks that need translating. |
-| `translate_apply.js` | Splices the filled-in job back into the locale file. |
+| File                    | Role                                                                                                                                                                             |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `blocks.js`             | **Foundation.** The single source of truth for what a _block_ is, its `src` hash, the `<!--t src=… by=… on=…-->` anchor format, and block alignment. Everything else imports it. |
+| `paths.js`              | Filesystem + frontmatter helpers: the `_`-prefix eligibility rule, the `docs/ ↔ i18n/<locale>/…/current/` path mapping, and date-safe frontmatter read/write.                    |
+| `verify_translation.js` | Reports what is untranslated / stale / legacy per locale.                                                                                                                        |
+| `translate_plan.js`     | Emits a JSON _job_ of the blocks that need translating.                                                                                                                          |
+| `translate_apply.js`    | Splices the filled-in job back into the locale file.                                                                                                                             |
 
 ## Commands
 
@@ -45,12 +45,12 @@ node tools/translation/translate_apply.js --job /tmp/job.json [--dry-run]
   `<!--t src=7c1d44 by="Name" on=2026-06-05-->`.
 - On update, only blocks whose German hash changed are re-translated; everything
   else (including protected human text) is kept verbatim.
-- If a *protected* block's German source changed, `apply` keeps the old human
+- If a _protected_ block's German source changed, `apply` keeps the old human
   text as a comment, inserts the new machine translation, stamps
   `overwritten_on=…` on the anchor, and raises `custom_translation_overwritten`
-  + a `translation_review` entry in the frontmatter for a human to reconcile.
+  - a `translation_review` entry in the frontmatter for a human to reconcile.
 
-See `translate-jpe.md` §3–§9 for the full spec.
+See `translate-jpe.md` §3&mdash;§9 for the full spec.
 
 ## Notes & limits
 

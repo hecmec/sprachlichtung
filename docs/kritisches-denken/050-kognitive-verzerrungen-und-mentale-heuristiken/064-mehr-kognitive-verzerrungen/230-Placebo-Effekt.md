@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -27,7 +26,7 @@ _Der Glaube versetzt Berge._
 
 Der **Placebo-Effekt** beschreibt das Phänomen, dass eine positive Erwartungshaltung gegenüber einer Behandlung zu einer tatsächlichen Verbesserung des Gesundheitszustands oder der Leistung führen kann, auch wenn die Behandlung selbst keine spezifische Wirksamkeit besitzt.
 
-Die Kraft der Erwartung löst messbare physiologische und psychologische Veränderungen aus – der Körper heilt sich gewissermaßen selbst durch den Glauben an die Heilung.
+Die Kraft der Erwartung löst messbare physiologische und psychologische Veränderungen aus &mdash; der Körper heilt sich gewissermaßen selbst durch den Glauben an die Heilung.
 
 EN: _Placebo Effect_
 
@@ -35,12 +34,12 @@ EN: _Placebo Effect_
 
 Der Placebo-Effekt steht in enger Verbindung mit mehreren anderen psychologischen Phänomenen:
 
-- **Nocebo-Effekt:** Das negative Gegenstück – schlechte Erwartungen können tatsächlich Schäden verursachen.
+- **Nocebo-Effekt:** Das negative Gegenstück &mdash; schlechte Erwartungen können tatsächlich Schäden verursachen.
 - **Bestätigungsfehler (Confirmation Bias):** Wer an die Wirkung glaubt, nimmt bevorzugt positive Veränderungen wahr und ignoriert ausbleibende Verbesserungen.
 - **Erwartungseffekt:** Sowohl Patient als auch Behandler können unbewusst Verhalten zeigen, das die erwarteten Ergebnisse hervorruft.
 - **Hawthorne-Effekt:** Allein das Bewusstsein, beobachtet oder behandelt zu werden, kann Verhalten und Befinden beeinflussen.
 - **Rückschaufehler (Hindsight Bias):** Nach einer "erfolgreichen" Placebo-Behandlung wird die ursprüngliche Schwere der Symptome oft unterschätzt.
-- **Regression zur Mitte:** Extreme Symptome normalisieren sich oft von selbst – wird fälschlich dem Placebo zugeschrieben.
+- **Regression zur Mitte:** Extreme Symptome normalisieren sich oft von selbst &mdash; wird fälschlich dem Placebo zugeschrieben.
 - **Autoritätshörigkeit:** Die Glaubwürdigkeit des Behandlers verstärkt den Placebo-Effekt erheblich.
 
 ## Beispiele
@@ -55,11 +54,11 @@ Besonders stark wirkt es, wenn die "Tablette" teurer aussieht, vom Arzt persönl
 
 Eine berühmte Studie zeigte: Patienten mit Kniearthrose, die nur eine Schein-OP erhielten (Hautschnitt ohne tatsächlichen Eingriff), berichteten genauso oft von Besserung wie Patienten nach echter Operation.
 
-Die Rituale, die Narkose, das Gefühl "etwas wurde getan" – all das aktivierte die Selbstheilungskräfte.
+Die Rituale, die Narkose, das Gefühl "etwas wurde getan" &mdash; all das aktivierte die Selbstheilungskräfte.
 
 ### Energydrinks ohne Koffein
 
-Testpersonen, die glaubten, einen koffeinhaltigen Energydrink zu erhalten, zeigten erhöhte Aufmerksamkeit und bessere Reaktionszeiten – auch wenn das Getränk koffeinfrei war.
+Testpersonen, die glaubten, einen koffeinhaltigen Energydrink zu erhalten, zeigten erhöhte Aufmerksamkeit und bessere Reaktionszeiten &mdash; auch wenn das Getränk koffeinfrei war.
 
 Die Erwartung von Wachheit und Energie erzeugte messbare kognitive Verbesserungen.
 

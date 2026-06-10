@@ -1,6 +1,6 @@
 ---
 id: 070-quiz-kritisches-denken-in-der-praxis
-title: Quiz – Critical Thinking in Practice
+title: Quiz &mdash; Critical Thinking in Practice
 sidebar_position: 7
 description: Self-test on understanding the practical application of critical thinking
 keywords:
@@ -20,9 +20,11 @@ custom_translation_overwritten: false
 <!-- ## Quiz: Critical Thinking in Practice -->
 
 <!--t src=c60da98a-->
+
 # Quiz: Critical Thinking in Practice
 
 <!--t src=9b608cd3-->
+
 1. **Which of the following is NOT a component of the critical thinking process?**
    a) Clear problem definition
    b) Gathering information
@@ -30,6 +32,7 @@ custom_translation_overwritten: false
    d) Alternative perspectives
 
 <!--t src=b11b153f-->
+
 2. **Which tool is best suited to representing the structure of a complex argument visually?**
    a) Pro-and-con table
    b) SWOT analysis
@@ -37,6 +40,7 @@ custom_translation_overwritten: false
    d) Decision matrix
 
 <!--t src=53cd4257-->
+
 3. **Which strategy is best suited to overcoming confirmation bias?**
    a) Practising emotional distancing
    b) Actively looking for information that contradicts one's own beliefs
@@ -44,6 +48,7 @@ custom_translation_overwritten: false
    d) Fostering psychological safety in groups
 
 <!--t src=a63b4dc2-->
+
 4. **Which of the following is an external obstacle to critical thinking?**
    a) Cognitive biases
    b) Emotional barriers
@@ -51,6 +56,7 @@ custom_translation_overwritten: false
    d) Hasty judgement
 
 <!--t src=f7c1ee5e-->
+
 5. **Which principle is most important in goal-setting for the development of critical thinking?**
    a) The goals should be as demanding as possible
    b) The goals should be specific and measurable
@@ -58,7 +64,9 @@ custom_translation_overwritten: false
    d) The goals should focus on theoretical knowledge
 
 <!--t src=20be9f22-->
+
 **Answers:**
+
 1. c) Emotional reaction
 2. c) Argument mapping
 3. b) Actively looking for information that contradicts one's own beliefs

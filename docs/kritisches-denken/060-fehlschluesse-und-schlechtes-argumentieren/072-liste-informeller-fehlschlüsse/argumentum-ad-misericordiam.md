@@ -29,7 +29,7 @@ _Mitleid beweist nichts._
 
 Beim **Argumentum ad Misericordiam** (Appell an das Mitleid) wird statt sachlicher Gründe das **Mitgefühl** des Gegenübers angesprochen, um eine Behauptung oder Forderung durchzusetzen.
 
-Der Fehler: Mitleid ist ein nachvollziehbares Gefühl, aber kein Beleg. Ob eine Behauptung wahr oder eine Forderung berechtigt ist, hängt nicht davon ab, wie sehr uns die betroffene Person dauert. (Mitgefühl kann moralisch *relevant* sein – zum Fehlschluss wird es, wenn es einen *sachlichen* Beleg ersetzt.)
+Der Fehler: Mitleid ist ein nachvollziehbares Gefühl, aber kein Beleg. Ob eine Behauptung wahr oder eine Forderung berechtigt ist, hängt nicht davon ab, wie sehr uns die betroffene Person dauert. (Mitgefühl kann moralisch _relevant_ sein &mdash; zum Fehlschluss wird es, wenn es einen _sachlichen_ Beleg ersetzt.)
 
 Der Fehlschluss hat die folgende Form:
 
@@ -42,8 +42,8 @@ EN: _appeal to pity_ / _argumentum ad misericordiam_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Emotionsappell** – der Oberbegriff: hier wird das Mitgefühl angesprochen.
-- **Argumentum ad Baculum** – das Gegenstück über die Furcht statt das Mitleid.
+- **Emotionsappell** &mdash; der Oberbegriff: hier wird das Mitgefühl angesprochen.
+- **Argumentum ad Baculum** &mdash; das Gegenstück über die Furcht statt das Mitleid.
 
 ## Beispiele
 
@@ -51,7 +51,7 @@ EN: _appeal to pity_ / _argumentum ad misericordiam_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Herr Professor, Sie müssen mir eine bessere Note geben – ich habe die ganze Nacht gelernt und brauche das Stipendium dringend.“
+> „Herr Professor, Sie müssen mir eine bessere Note geben &mdash; ich habe die ganze Nacht gelernt und brauche das Stipendium dringend.“
 
 So verständlich die Lage ist: Sie sagt nichts über die Qualität der Prüfungsleistung, um die es bei der Note geht.
 

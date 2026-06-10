@@ -29,6 +29,7 @@ Das **Lügner-Paradoxon** ist eines der ältesten und bekanntesten semantischen 
 Wenn wir annehmen, dass der Satz wahr ist, dann muss er seinem Inhalt entsprechend falsch sein. Wenn wir hingegen annehmen, dass er falsch ist, dann ist seine Aussage nicht zutreffend, was bedeutet, dass er wahr sein muss. Wir geraten in einen endlosen Zirkel.
 
 **Varianten:**
+
 - "Ich lüge jetzt gerade."
 - "Der nächste Satz ist wahr. Der vorherige Satz ist falsch."
 - "Dieser Satz ist nicht wahr."
@@ -51,7 +52,7 @@ Wenn R sich selbst enthält, dann gehört es per Definition nicht zu R. Wenn R s
 
 Das **Schiff des Theseus** ist ein klassisches philosophisches Paradoxon zur Identität und lautet:
 
-"Theseus besitzt ein Schiff. Im Laufe der Zeit werden alle Planken und Teile des Schiffes nach und nach durch neue ersetzt. Ist es am Ende noch dasselbe Schiff? Was, wenn jemand aus den alten Teilen ein zweites Schiff baut – welches ist dann das 'echte' Schiff des Theseus?"
+"Theseus besitzt ein Schiff. Im Laufe der Zeit werden alle Planken und Teile des Schiffes nach und nach durch neue ersetzt. Ist es am Ende noch dasselbe Schiff? Was, wenn jemand aus den alten Teilen ein zweites Schiff baut &mdash; welches ist dann das 'echte' Schiff des Theseus?"
 
 **Bedeutung:** Dieses Paradoxon wirft grundlegende Fragen zur Identität von Objekten über die Zeit hinweg auf. Es ist relevant für Diskussionen über persönliche Identität (wenn alle Zellen unseres Körpers ersetzt werden, sind wir noch dieselbe Person?) und für rechtliche und ethische Fragen.
 
@@ -62,6 +63,7 @@ Das **Sorites-Paradoxon** (von griechisch "soros" für "Haufen") betrifft vage B
 "Ein Haufen Sand bleibt ein Haufen, wenn man ein Sandkorn entfernt. Wenn man diesen Prozess fortsetzt, müsste auch ein einzelnes Sandkorn noch ein 'Haufen' sein, was offensichtlich falsch ist."
 
 **Varianten:**
+
 - "Ab wie vielen Haaren ist man nicht mehr kahl?"
 - "Ab welchem Einkommen ist man reich?"
 - "Wann wird ein Embryo zu einem Menschen?"
@@ -75,6 +77,7 @@ Das **Sorites-Paradoxon** (von griechisch "soros" für "Haufen") betrifft vage B
 "Achilles, der schnellste Läufer, gibt einer Schildkröte einen Vorsprung. Wenn Achilles zum Startpunkt der Schildkröte gelangt, ist diese bereits ein Stück weiter. Wenn er diesen neuen Punkt erreicht, ist die Schildkröte wieder ein Stück weiter, und so weiter. Es scheint, dass Achilles die Schildkröte nie einholen kann."
 
 **Andere Varianten:**
+
 - "Der fliegende Pfeil": Ein fliegender Pfeil muss in jedem Moment an einem bestimmten Ort sein. Wenn er an einem Ort ist, bewegt er sich in diesem Moment nicht. Wenn er sich in keinem Moment bewegt, wie kann er sich überhaupt bewegen?
 - "Die Dichotomie": Um eine Strecke zurückzulegen, muss man zuerst die Hälfte zurücklegen, davor die Hälfte der Hälfte, und so weiter. Da es unendlich viele solcher Schritte gibt, scheint es unmöglich, überhaupt loszulaufen.
 
@@ -92,7 +95,7 @@ Das **Gefangenendilemma** ist ein Paradoxon aus der Spieltheorie:
 
 Das **Überraschungsprüfungs-Paradoxon** lautet:
 
-"Ein Lehrer kündigt an, dass in der kommenden Woche ein Überraschungstest stattfinden wird – an einem Tag, den die Schüler nicht vorhersehen können. Die Schüler argumentieren: Der Test kann nicht am Freitag stattfinden, denn wenn bis Donnerstag kein Test stattgefunden hat, wäre Freitag vorhersehbar. Aus dem gleichen Grund kann er nicht am Donnerstag stattfinden, und so weiter zurück bis Montag. Die Schüler schließen, dass kein Überraschungstest möglich ist. Dennoch findet der Test am Mittwoch statt und ist tatsächlich eine Überraschung."
+"Ein Lehrer kündigt an, dass in der kommenden Woche ein Überraschungstest stattfinden wird &mdash; an einem Tag, den die Schüler nicht vorhersehen können. Die Schüler argumentieren: Der Test kann nicht am Freitag stattfinden, denn wenn bis Donnerstag kein Test stattgefunden hat, wäre Freitag vorhersehbar. Aus dem gleichen Grund kann er nicht am Donnerstag stattfinden, und so weiter zurück bis Montag. Die Schüler schließen, dass kein Überraschungstest möglich ist. Dennoch findet der Test am Mittwoch statt und ist tatsächlich eine Überraschung."
 
 **Bedeutung:** Dieses Paradoxon betrifft epistemische Logik und das Konzept des Wissens über Wissen. Es zeigt die Komplexität von Ankündigungen, die ihre eigene Unvorhersehbarkeit beinhalten.
 

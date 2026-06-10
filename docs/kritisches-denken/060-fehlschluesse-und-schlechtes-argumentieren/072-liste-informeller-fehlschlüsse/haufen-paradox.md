@@ -20,14 +20,14 @@ draft: false
 ---
 
 :::tip Kurz
-Aus der Unschärfe eines Begriffs wird gefolgert, dass es ihn gar nicht gibt – oder dass jede Grenze willkürlich sei.
+Aus der Unschärfe eines Begriffs wird gefolgert, dass es ihn gar nicht gibt &mdash; oder dass jede Grenze willkürlich sei.
 
 _Wann wird aus Körnern ein Haufen?_
 :::
 
 ## Definition
 
-Das **Haufen-Paradox** (*sorites*, von griech. *sorós* „Haufen“) entsteht bei **vagen Begriffen** ohne scharfe Grenze: Ein einzelnes Sandkorn ist kein Haufen; ein Korn mehr macht (jeweils) keinen Unterschied – also wäre auch eine Million Körner kein Haufen. Umgekehrt lässt sich „beweisen“, dass schon ein Korn ein Haufen sei.
+Das **Haufen-Paradox** (_sorites_, von griech. _sorós_ „Haufen“) entsteht bei **vagen Begriffen** ohne scharfe Grenze: Ein einzelnes Sandkorn ist kein Haufen; ein Korn mehr macht (jeweils) keinen Unterschied &mdash; also wäre auch eine Million Körner kein Haufen. Umgekehrt lässt sich „beweisen“, dass schon ein Korn ein Haufen sei.
 
 Der Fehler liegt im **Kontinuum-Fehlschluss**: Aus der Tatsache, dass es **keine scharfe Grenze** gibt, wird falsch gefolgert, dass es **gar keinen Unterschied** gebe (zwischen Haufen und Nicht-Haufen, kahl und behaart, jung und alt). Die fehlende exakte Grenze hebt die klaren Fälle nicht auf.
 
@@ -43,8 +43,8 @@ EN: _sorites paradox_ / _continuum fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Falsche Dichotomie** – das Gegenstück: dort wird ein Kontinuum zu Unrecht *zweigeteilt*, hier die Existenz von Stufen *geleugnet*.
-- **Fehlschluss der relativen Geringfügigkeit** – verwandt: jeder kleine Schritt „zählt nicht“.
+- **Falsche Dichotomie** &mdash; das Gegenstück: dort wird ein Kontinuum zu Unrecht _zweigeteilt_, hier die Existenz von Stufen _geleugnet_.
+- **Fehlschluss der relativen Geringfügigkeit** &mdash; verwandt: jeder kleine Schritt „zählt nicht“.
 
 ## Beispiele
 

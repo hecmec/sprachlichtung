@@ -35,19 +35,20 @@ Sorites-Paradoxien können durch die Präzisierung vager Begriffe oder die Einf�
 
 Manche Paradoxien lösen sich auf, wenn wir den Kontext berücksichtigen, in dem sie auftreten.
 
-**Beispiel:** Das Schiff des Theseus kann je nach Kontext unterschiedlich betrachtet werden – aus rechtlicher, physikalischer oder historischer Perspektive könnten verschiedene Antworten angemessen sein.
+**Beispiel:** Das Schiff des Theseus kann je nach Kontext unterschiedlich betrachtet werden &mdash; aus rechtlicher, physikalischer oder historischer Perspektive könnten verschiedene Antworten angemessen sein.
 
 ## 5. Akzeptanz der Grenzen
 
 Manchmal müssen wir akzeptieren, dass bestimmte Paradoxien auf fundamentale Grenzen unserer Konzepte, Sprache oder Logik hinweisen.
 
-**Beispiel:** Gödels Unvollständigkeitssätze zeigen, dass wir die Grenzen formaler Systeme akzeptieren müssen – nicht jede wahre Aussage kann innerhalb eines Systems bewiesen werden.
+**Beispiel:** Gödels Unvollständigkeitssätze zeigen, dass wir die Grenzen formaler Systeme akzeptieren müssen &mdash; nicht jede wahre Aussage kann innerhalb eines Systems bewiesen werden.
 
 ## 6. Entwicklung neuer theoretischer Rahmen
 
 Einige Paradoxien haben zur Entwicklung völlig neuer theoretischer Rahmen geführt.
 
 **Beispiele:**
+
 - Russells Paradoxon führte zur Typentheorie und axiomatischen Mengenlehre
 - Zenons Paradoxien inspirierten die Entwicklung der Infinitesimalrechnung
 - Das Gefangenendilemma führte zu neuen Ansätzen in der Spieltheorie und Evolutionsbiologie

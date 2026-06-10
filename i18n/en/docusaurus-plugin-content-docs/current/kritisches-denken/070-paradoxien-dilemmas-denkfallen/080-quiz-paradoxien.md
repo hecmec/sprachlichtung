@@ -1,6 +1,6 @@
 ---
 id: 080-quiz-paradoxien
-title: Quiz – Paradoxes
+title: Quiz &mdash; Paradoxes
 sidebar_position: 8
 description: A quiz to test your understanding of the various types of paradoxes and their approaches to solutions.
 keywords:
@@ -21,9 +21,11 @@ custom_translation_overwritten: false
 <!-- ## Quiz: Paradoxes -->
 
 <!--t src=22808c2d-->
+
 # Quiz: Paradoxes
 
 <!--t src=edb7480c-->
+
 1. **Which paradox arises from the sentence "This sentence is false"?**
    a) Russell's paradox
    b) Sorites paradox
@@ -31,6 +33,7 @@ custom_translation_overwritten: false
    d) Zeno's paradox
 
 <!--t src=263aebc5-->
+
 2. **The Ship of Theseus is an example of which type of paradox?**
    a) Temporal paradox
    b) Identity paradox
@@ -38,6 +41,7 @@ custom_translation_overwritten: false
    d) Decision paradox
 
 <!--t src=e39eadd0-->
+
 3. **Which paradox shows that individually rational behaviour can lead to collectively suboptimal outcomes?**
    a) Newcomb's paradox
    b) Prisoner's dilemma
@@ -45,6 +49,7 @@ custom_translation_overwritten: false
    d) Grandfather paradox
 
 <!--t src=d1d99a82-->
+
 4. **The sorites paradox (paradox of the heap) is mainly concerned with:**
    a) The limits of formal systems
    b) Problems with self-reference
@@ -52,6 +57,7 @@ custom_translation_overwritten: false
    d) Temporal causality
 
 <!--t src=3b142271-->
+
 5. **Which strategy for dealing with the liar paradox was proposed by Alfred Tarski?**
    a) Introducing many-valued logic
    b) Distinguishing between object language and metalanguage
@@ -59,7 +65,9 @@ custom_translation_overwritten: false
    d) Making vague concepts precise
 
 <!--t src=cfa13161-->
+
 **Answers:**
+
 1. c) Liar paradox
 2. b) Identity paradox
 3. b) Prisoner's dilemma

@@ -30,7 +30,7 @@ _Der Zufall hat kein Gedächtnis._
 
 Der **Spielerfehlschluss** ist die Annahme, dass bei voneinander **unabhängigen** Zufallsereignissen ein bestimmtes Ergebnis „fälliger“ oder „unwahrscheinlicher“ werde, je nachdem wie oft es zuletzt eingetreten ist.
 
-Der Fehler verkennt die **Unabhängigkeit** der Ereignisse: Eine faire Münze hat bei jedem Wurf unverändert die Wahrscheinlichkeit $P = 0{,}5$ für „Kopf“ – unabhängig davon, was vorher fiel. Die Wahrscheinlichkeit langer Serien ist zwar klein, doch nach einer bereits eingetretenen Serie ist der nächste Wurf wieder ein neues, unbeeinflusstes Ereignis.
+Der Fehler verkennt die **Unabhängigkeit** der Ereignisse: Eine faire Münze hat bei jedem Wurf unverändert die Wahrscheinlichkeit $P = 0{,}5$ für „Kopf“ &mdash; unabhängig davon, was vorher fiel. Die Wahrscheinlichkeit langer Serien ist zwar klein, doch nach einer bereits eingetretenen Serie ist der nächste Wurf wieder ein neues, unbeeinflusstes Ereignis.
 
 Der Fehlschluss hat die folgende Form:
 
@@ -46,10 +46,10 @@ EN: _gambler's fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Hot-Hand-Fehlschluss** – die Gegenrichtung: Aus einer Serie wird auf deren Fortdauer geschlossen („läuft gerade gut, läuft weiter“).
-- **Umgekehrter Spielerfehlschluss** – davon zu unterscheiden: Aus einem seltenen Einzelergebnis wird (fälschlich) geschlossen, dass ihm schon viele Versuche vorausgegangen sein müssen.
-- **Prävalenzfehler** – verwandt als typischer Fehler im Umgang mit Wahrscheinlichkeiten.
-- **Repräsentativitätsheuristik** – die kognitive Wurzel: kurze Serien sollen „zufällig aussehen“.
+- **Hot-Hand-Fehlschluss** &mdash; die Gegenrichtung: Aus einer Serie wird auf deren Fortdauer geschlossen („läuft gerade gut, läuft weiter“).
+- **Umgekehrter Spielerfehlschluss** &mdash; davon zu unterscheiden: Aus einem seltenen Einzelergebnis wird (fälschlich) geschlossen, dass ihm schon viele Versuche vorausgegangen sein müssen.
+- **Prävalenzfehler** &mdash; verwandt als typischer Fehler im Umgang mit Wahrscheinlichkeiten.
+- **Repräsentativitätsheuristik** &mdash; die kognitive Wurzel: kurze Serien sollen „zufällig aussehen“.
 
 ## Beispiele
 
@@ -65,7 +65,7 @@ Die Kugel kennt die vorherigen Runden nicht. Die Wahrscheinlichkeit für Schwarz
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Wir haben schon drei Töchter bekommen – das nächste Kind wird bestimmt ein Junge.“
+> „Wir haben schon drei Töchter bekommen &mdash; das nächste Kind wird bestimmt ein Junge.“
 
 Das Geschlecht jedes Kindes ist annähernd unabhängig von den vorherigen. Die Vorgeschichte erhöht die Wahrscheinlichkeit eines Jungen nicht.
 

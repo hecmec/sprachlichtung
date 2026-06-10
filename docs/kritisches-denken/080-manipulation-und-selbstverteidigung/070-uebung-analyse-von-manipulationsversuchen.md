@@ -23,19 +23,19 @@ Analysieren Sie die folgenden Beispiele und identifizieren Sie die verwendeten M
 
 ## Beispiel 1: Werbeanzeige
 
-"Wissenschaftlich bewiesen: 9 von 10 Experten empfehlen MiracleCream für jugendlichere Haut! Nur noch für kurze Zeit zum Sonderpreis erhältlich. Verpassen Sie nicht Ihre Chance auf ein jüngeres Aussehen – bestellen Sie jetzt, bevor es zu spät ist!"
+"Wissenschaftlich bewiesen: 9 von 10 Experten empfehlen MiracleCream für jugendlichere Haut! Nur noch für kurze Zeit zum Sonderpreis erhältlich. Verpassen Sie nicht Ihre Chance auf ein jüngeres Aussehen &mdash; bestellen Sie jetzt, bevor es zu spät ist!"
 
 ## Beispiel 2: Politische Aussage
 
-"Mein Gegner will unser Gesundheitssystem komplett umkrempeln und damit Millionen von Menschen ihre Wahlfreiheit nehmen. Ist das wirklich, was Sie wollen? Jemanden, der Ihnen vorschreibt, welchen Arzt Sie besuchen dürfen? Wir stehen für Freiheit und Selbstbestimmung – die schweigende Mehrheit der Bürger steht hinter uns!"
+"Mein Gegner will unser Gesundheitssystem komplett umkrempeln und damit Millionen von Menschen ihre Wahlfreiheit nehmen. Ist das wirklich, was Sie wollen? Jemanden, der Ihnen vorschreibt, welchen Arzt Sie besuchen dürfen? Wir stehen für Freiheit und Selbstbestimmung &mdash; die schweigende Mehrheit der Bürger steht hinter uns!"
 
 ## Beispiel 3: Social Media Post
 
-"TEILEN SIE DIES, BEVOR ES GELÖSCHT WIRD! Eine geheime Studie, die die Regierung verbergen will, zeigt, dass die neue 5G-Technologie schwere Gesundheitsschäden verursacht. Die Mainstream-Medien berichten nicht darüber, weil sie von den Telekommunikationsunternehmen kontrolliert werden. Schützen Sie Ihre Familie – teilen Sie diese Information mit allen, die Ihnen wichtig sind!"
+"TEILEN SIE DIES, BEVOR ES GELÖSCHT WIRD! Eine geheime Studie, die die Regierung verbergen will, zeigt, dass die neue 5G-Technologie schwere Gesundheitsschäden verursacht. Die Mainstream-Medien berichten nicht darüber, weil sie von den Telekommunikationsunternehmen kontrolliert werden. Schützen Sie Ihre Familie &mdash; teilen Sie diese Information mit allen, die Ihnen wichtig sind!"
 
 ## Beispiel 4: Persönliche Manipulation
 
-"Nach allem, was ich für dich getan habe, kannst du mir diesen kleinen Gefallen nicht verweigern? Ich dachte, wir wären Freunde. Alle anderen haben schon zugestimmt – willst du wirklich der Einzige sein, der nicht mitmacht?"
+"Nach allem, was ich für dich getan habe, kannst du mir diesen kleinen Gefallen nicht verweigern? Ich dachte, wir wären Freunde. Alle anderen haben schon zugestimmt &mdash; willst du wirklich der Einzige sein, der nicht mitmacht?"
 
 ## Beispiel 5: Nachrichtenartikel-Überschrift
 

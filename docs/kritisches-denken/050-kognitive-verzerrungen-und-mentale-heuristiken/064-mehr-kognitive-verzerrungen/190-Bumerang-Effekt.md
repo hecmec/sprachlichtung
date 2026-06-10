@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -22,12 +21,12 @@ Je mehr man drückt, desto stärker wird der Widerstand.
 
 _Jetzt erst recht!_
 :::
-  
+
 ## Definition
 
 Der **Bumerang-Effekt** beschreibt, dass **Überzeugungsversuche** (Argumente, Fakten, Druck, Korrekturen) bei manchen Menschen dazu führen, ihre **ursprüngliche Überzeugung zu verstärken**, statt sie zu verändern.
 
-Ursache ist oft **psychologische Reaktanz**: Das Gefühl, in der **Meinungsfreiheit** eingeschränkt zu werden, löst **Gegenwehr** aus – man hält stärker an der eigenen Position fest.
+Ursache ist oft **psychologische Reaktanz**: Das Gefühl, in der **Meinungsfreiheit** eingeschränkt zu werden, löst **Gegenwehr** aus &mdash; man hält stärker an der eigenen Position fest.
 
 EN: _Backfire Effect_
 
@@ -45,7 +44,7 @@ Der Bumerang-Effekt hängt eng mit anderen Mechanismen zusammen:
 
 ### Impfen und Gegenargumente
 
-Konfrontiert man eine impfskeptische Person mit Studien und Fakten, kann dies – je nach Ton und Kontext – dazu führen, dass sie sich **noch stärker gegen Impfungen positioniert**.
+Konfrontiert man eine impfskeptische Person mit Studien und Fakten, kann dies &mdash; je nach Ton und Kontext &mdash; dazu führen, dass sie sich **noch stärker gegen Impfungen positioniert**.
 
 ### Politik und Korrekturen
 

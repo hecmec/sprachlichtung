@@ -18,7 +18,6 @@ last_update:
 
 completeness: 1/5
 draft: false
-
 ---
 
 :::tip Kurz
@@ -29,7 +28,7 @@ _Wer leiden muss, hat es verdient._
 
 ## Definition
 
-Der **Gerechte-Welt-Glaube** ist die kognitive Verzerrung, dass die Welt grundsätzlich fair und gerecht funktioniert – gute Menschen werden belohnt, schlechte bestraft. Diese Annahme führt dazu, dass Opfer von Unglück, Verbrechen oder Ungerechtigkeit oft mitverantwortlich gemacht werden ("victim blaming").
+Der **Gerechte-Welt-Glaube** ist die kognitive Verzerrung, dass die Welt grundsätzlich fair und gerecht funktioniert &mdash; gute Menschen werden belohnt, schlechte bestraft. Diese Annahme führt dazu, dass Opfer von Unglück, Verbrechen oder Ungerechtigkeit oft mitverantwortlich gemacht werden ("victim blaming").
 
 EN: _Just-World Hypothesis_, _Just-World Fallacy_
 
@@ -37,7 +36,7 @@ EN: _Just-World Hypothesis_, _Just-World Fallacy_
 
 Der Gerechte-Welt-Glaube hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihnen verstärkt:
 
-- **Rückschaufehler (Hindsight Bias):** Im Nachhinein wirken negative Ereignisse "vorhersehbar" – das Opfer "hätte es wissen müssen".
+- **Rückschaufehler (Hindsight Bias):** Im Nachhinein wirken negative Ereignisse "vorhersehbar" &mdash; das Opfer "hätte es wissen müssen".
 - **Fundamentaler Attributionsfehler:** Negative Ereignisse werden den Charaktereigenschaften der Person zugeschrieben, nicht den Umständen.
 - **Kontrollillusion:** Der Glaube, Menschen könnten ihr Schicksal vollständig kontrollieren.
 - **System-Rechtfertigung:** Bestehende gesellschaftliche Ungleichheiten werden als gerechtfertigt rationalisiert.
@@ -46,13 +45,16 @@ Der Gerechte-Welt-Glaube hängt eng mit mehreren anderen Verzerrungen zusammen u
 ## Beispiele
 
 ### Opfer von Verbrechen
-"Sie hätte nicht so spät allein nach Hause gehen sollen" – das Verbrechen wird (mit)der Lebensführung des Opfers angelastet.
+
+"Sie hätte nicht so spät allein nach Hause gehen sollen" &mdash; das Verbrechen wird (mit)der Lebensführung des Opfers angelastet.
 
 ### Armut und Arbeitslosigkeit
-"Wer arbeitslos ist, ist selbst schuld" – strukturelle Probleme werden zu individuellen Charakterschwächen umgedeutet.
+
+"Wer arbeitslos ist, ist selbst schuld" &mdash; strukturelle Probleme werden zu individuellen Charakterschwächen umgedeutet.
 
 ### Krankheit und Unfall
-"Krebs bekommt man nur durch ungesunde Lebensweise" oder "Wer positiv denkt, wird nicht krank" – Zufall und genetische Faktoren werden ausgeblendet.
+
+"Krebs bekommt man nur durch ungesunde Lebensweise" oder "Wer positiv denkt, wird nicht krank" &mdash; Zufall und genetische Faktoren werden ausgeblendet.
 
 ## Auswirkungen
 

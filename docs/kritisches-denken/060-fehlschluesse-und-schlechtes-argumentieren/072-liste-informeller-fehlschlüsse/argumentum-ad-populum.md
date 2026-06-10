@@ -27,7 +27,7 @@ _Millionen Fliegen können sich nicht irren?_
 
 ## Definition
 
-Beim **Argumentum ad Populum** (Appell an die Mehrheit, *bandwagon*) gilt eine Behauptung als wahr oder eine Handlung als richtig, **weil viele** ihr zustimmen oder so handeln.
+Beim **Argumentum ad Populum** (Appell an die Mehrheit, _bandwagon_) gilt eine Behauptung als wahr oder eine Handlung als richtig, **weil viele** ihr zustimmen oder so handeln.
 
 Der Fehler: Die Verbreitung einer Meinung ist kein Beleg für ihre Wahrheit. Mehrheiten haben sich oft geirrt. Beliebtheit und Richtigkeit sind zwei verschiedene Dinge.
 
@@ -42,9 +42,9 @@ EN: _appeal to the people_ / _bandwagon_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Argumentum ad Verecundiam** – verwandt: Berufung auf eine vermeintliche Autorität statt auf die Menge.
-- **Argumentum ad Antiquitatem** – verwandt: nicht „viele“, sondern „lange schon so“.
-- **Argumentum ad Baculum** – verwandt, wenn aus der Mehrheit sozialer Druck wird.
+- **Argumentum ad Verecundiam** &mdash; verwandt: Berufung auf eine vermeintliche Autorität statt auf die Menge.
+- **Argumentum ad Antiquitatem** &mdash; verwandt: nicht „viele“, sondern „lange schon so“.
+- **Argumentum ad Baculum** &mdash; verwandt, wenn aus der Mehrheit sozialer Druck wird.
 
 ## Beispiele
 
@@ -52,7 +52,7 @@ EN: _appeal to the people_ / _bandwagon_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Das kann nicht falsch sein – Millionen Menschen nutzen es doch.“
+> „Das kann nicht falsch sein &mdash; Millionen Menschen nutzen es doch.“
 
 Wie viele etwas nutzen, sagt nichts darüber, ob es taugt. Auch weit verbreitete Produkte oder Ansichten können schlecht oder falsch sein.
 

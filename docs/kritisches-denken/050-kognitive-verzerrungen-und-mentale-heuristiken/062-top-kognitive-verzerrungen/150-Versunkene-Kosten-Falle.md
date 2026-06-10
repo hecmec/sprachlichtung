@@ -26,7 +26,7 @@ _Wir haben schon so viel investiert!_
 
 Die **Versunkene-Kosten-Falle** ist die irrationale Tendenz, ein erfolgloses Projekt, eine schlechte Entscheidung oder eine toxische Situation fortzusetzen, nur weil bereits **Zeit, Geld, Mühe oder andere Ressourcen** investiert wurden.
 
-Rational betrachtet sollten vergangene Investitionen **keine Rolle** für zukünftige Entscheidungen spielen – nur die erwarteten zukünftigen Kosten und Nutzen sind relevant.
+Rational betrachtet sollten vergangene Investitionen **keine Rolle** für zukünftige Entscheidungen spielen &mdash; nur die erwarteten zukünftigen Kosten und Nutzen sind relevant.
 
 EN: _Sunk Cost Fallacy_
 
@@ -53,15 +53,15 @@ Monat für Monat teure Reparaturen an einem alten Auto: "Ich habe schon so viel 
 
 ### Studium oder Berufsausbildung
 
-Ein ungeliebtes Studium wird zu Ende gebracht, weil "die vier Jahre sonst umsonst waren" – statt zu einem passenden Fach zu wechseln.
+Ein ungeliebtes Studium wird zu Ende gebracht, weil "die vier Jahre sonst umsonst waren" &mdash; statt zu einem passenden Fach zu wechseln.
 
 ### Verlustreiches Glücksspiel
 
-Im Casino weitere Einsätze, um vorherige Verluste "wieder reinzuholen" – was meist zu noch größeren Verlusten führt.
+Im Casino weitere Einsätze, um vorherige Verluste "wieder reinzuholen" &mdash; was meist zu noch größeren Verlusten führt.
 
 ### Berliner Flughafen BER
 
-Ursprünglich für 2011 geplant und 2,83 Milliarden Euro budgetiert. Nach zahllosen Pannen und Verzögerungen 2020 eröffnet – für über 7 Milliarden Euro. "Wir haben schon so viel investiert, jetzt müssen wir weitermachen."
+Ursprünglich für 2011 geplant und 2,83 Milliarden Euro budgetiert. Nach zahllosen Pannen und Verzögerungen 2020 eröffnet &mdash; für über 7 Milliarden Euro. "Wir haben schon so viel investiert, jetzt müssen wir weitermachen."
 
 ### Stuttgart 21
 
@@ -69,7 +69,7 @@ Das Bahnprojekt sollte ursprünglich 2,5 Milliarden kosten, liegt inzwischen bei
 
 ### Elbphilharmonie Hamburg
 
-Geplant für 77 Millionen Euro (2007), finale Kosten: 866 Millionen Euro. Jeder Stopp hätte Geld gespart – aber die bereits investierten Millionen "rechtfertigten" das Weitermachen.
+Geplant für 77 Millionen Euro (2007), finale Kosten: 866 Millionen Euro. Jeder Stopp hätte Geld gespart &mdash; aber die bereits investierten Millionen "rechtfertigten" das Weitermachen.
 
 ## Auswirkungen
 

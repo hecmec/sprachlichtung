@@ -1,61 +1,74 @@
 # Bestätigungsfehler (confirmation bias)
+
 Der **Bestätigungsfehler** ist die Tendenz, Informationen so zu suchen, zu interpretieren und zu erinnern, dass sie unsere bestehenden Überzeugungen bestätigen.
 
 You favor things that confirm your existing beliefs.
 
 # Verfügbarkeitsheuristik (Availability Heuristic)
+
 Die **Verfügbarkeitsheuristik** ist die Tendenz, die Wahrscheinlichkeit oder Häufigkeit eines Ereignisses danach zu beurteilen, wie leicht Beispiele oder Fälle im Gedächtnis abgerufen werden können.
 
 Your judgments are influenced by what springs most easily to mind.
 
 # Ankereffekt (Anchoring Bias)
+
 Der **Ankereffekt** beschreibt die Tendenz, sich bei Entscheidungen oder Schätzungen zu stark an einem ersten Referenzwert (dem "Anker") zu orientieren, selbst wenn dieser Wert irrelevant oder willkürlich ist.
 
 The first thing you judge influences your judgment of all that follows.
 
 # Grundlagenirrtum (Fundamental Attribution Error)
+
 Der **Grundlagenirrtum** ist die Tendenz, das Verhalten anderer Menschen durch ihre persönlichen Eigenschaften zu erklären und situative Faktoren zu unterschätzen, während wir bei uns selbst eher situative Faktoren zur Erklärung heranziehen.
 
 You judge others on their character, but yourself on the situation.
 
 # Dunning-Kruger-Effekt
+
 Der **Dunning-Kruger-Effekt** beschreibt die kognitive Verzerrung, bei der Menschen mit geringen Fähigkeiten in einem bestimmten Bereich dazu neigen, ihre Fähigkeiten zu überschätzen, während Menschen mit hohen Fähigkeiten dazu neigen, ihre Fähigkeiten zu unterschätzen.
 
 The more you know, the less confident you're likely to be.
 
 # Gruppendenkeffekt, Gruppenzwang (Groupthink, Peer pressure)
+
 Der **Gruppendenkeffekt** beschreibt die Tendenz in Gruppen, nach Konsens zu streben und abweichende Meinungen zu unterdrücken, was zu schlechten Entscheidungen führen kann.
 
 You let the social dynamics of a group situation override the best outcomes.
 
 # Rahmungseffekt (Framing Effect)
+
 Die Art und Weise, wie Informationen präsentiert werden, beeinflusst, wie wir sie wahrnehmen—das ist der Framing-Effekt.
 
 You allow yourself to be unduly influenced by context and delivery.
 
 # Kognitive Dissonanz (Cognitive Dissonance)
+
 Warum fällt es uns so schwer, unsere Meinung zu ändern?
 Wir fühlen uns unwohl, wenn neue Informationen unseren Überzeugungen, Werten oder Einstellungen widersprechen.
 
 # Status-quo-Bias
+
 Der **Status-quo-Bias** ist die Tendenz, den aktuellen Zustand zu bevorzugen und Veränderungen zu vermeiden, selbst wenn Veränderungen Vorteile bringen würden.
 
 # Rückschaufehler (Hindsight Bias)
+
 Der **Rückschaufehler** ist die Tendenz, nach dem Eintreten eines Ereignisses zu glauben, dass man dieses Ereignis hätte vorhersehen können oder sogar vorhergesehen hat.
 
 # Basisratenfehler, Prävalenzfehler (Base Rate Neglect)
+
 Wenn wir uns ein Urteil bilden, neigen wir dazu, uns mehr auf spezifische Informationen als auf Statistiken zu verlassen.
 https://de.wikipedia.org/wiki/Pr%C3%A4valenzfehler
 
 # Mitläufereffekt (Bandwagon Effect)
-Wahrgenommener Erfolg von anderen erhöht die Bereitschaft, sich voraussichtlich erfolgreichen Handlungsweisen von ihnen anzuschließen. 
 
-Wer wäre nicht gern auf der Gewinnerseite. 
-Sind sie auch Bayern München Fan. 
+Wahrgenommener Erfolg von anderen erhöht die Bereitschaft, sich voraussichtlich erfolgreichen Handlungsweisen von ihnen anzuschließen.
+
+Wer wäre nicht gern auf der Gewinnerseite.
+Sind sie auch Bayern München Fan.
 
 https://de.wikipedia.org/wiki/Mitl%C3%A4ufereffekt
 
 # Eigengruppenbevorzugung (in-group bias)
+
 Diese kognitive Verzerrung beschreibt die Tendenz, Menschen aus der eigenen Gruppe automatisch zu bevorzugen und positiver zu bewerten als Menschen aus anderen Gruppen - oft ohne sachliche Begründung.
 
 Eigenschaften der Eigengruppenbevorzugung:
@@ -74,23 +87,27 @@ Nationalität: "Wir Deutsche sind..." vs. kritischere Sicht auf andere Länder
 You unfairly favor those who belong to your group.
 
 # Wissensfluch (the curse of knowledge)
-Beschreibt die Tendenz, dass Menschen, die etwas wissen oder verstehen, Schwierigkeiten haben, sich in den Zustand eines anderen hineinzuversetzen, der dieses Wissen nicht hat. Menschen neigen dazu, ihre Kenntnisse für allgemein bekannt zu halten. 
+
+Beschreibt die Tendenz, dass Menschen, die etwas wissen oder verstehen, Schwierigkeiten haben, sich in den Zustand eines anderen hineinzuversetzen, der dieses Wissen nicht hat. Menschen neigen dazu, ihre Kenntnisse für allgemein bekannt zu halten.
 
 Once you understand something you presume it to be obvious to everyone.
 
 # Versunkene-Kosten-Falle (the sunk cost fallacy)
+
 Eine erfolglose Sache, in die bereits Zeit, Geld und Anstrengung investiert wurde, kann man nicht so einfach wieder abbrechen.
 Bahnhof Stuttgart, Flughafen Berlin ...
 
 You irrationally cling to things that have already cost you something.
 
 # Überzeugungsbias (belief bias)
+
 Die Tendenz, glaubwürdige Schlussfolgerungen zu akzeptieren, unabhängig davon, ob sie logisch korrekt aus den Prämissen hergeleitet werden können.
 https://de.wikipedia.org/wiki/Belief-Bias
 
 If a conclusion supports your existing beliefs, you'll rationalize anything that supports it.
 
 # Selbstwertdienliche Verzerrung (self-serving bias)
+
 Diese kognitive Verzerrung beschreibt die Tendenz, dass wir:
 Erfolge unseren eigenen Fähigkeiten, unserem Talent oder unserer harten Arbeit zuschreiben
 Misserfolge aber externen Faktoren wie Pech, unfairen Umständen oder anderen Menschen zuschreiben
@@ -98,36 +115,43 @@ Misserfolge aber externen Faktoren wie Pech, unfairen Umständen oder anderen Me
 You believe your failures are due to external factors, yet you're responsible for your successes.
 
 # Verlustaversion (Loss Aversion)
+
 Warum fühlt sich der Verlust von 100 Euro schlimmer an als sich der Gewinn von 100 Euro gut anfühlt?
 Tatsächlich ist der emotionale Effekt eines Verlusts etwa doppelt so stark wie die Freude über einen Gewinn.
 
 # Bumerang-Effekt (the backfire effect)
-Die Neigung, Fakten, die der eigenen Überzeugung widersprechen, als Bestätigung der eigenen Überzeugung zu betrachten. 
+
+Die Neigung, Fakten, die der eigenen Überzeugung widersprechen, als Bestätigung der eigenen Überzeugung zu betrachten.
 
 When some aspect of your core beliefs is challenged, it can cause you to believe even more strongly.
 
 https://de.wikipedia.org/wiki/Backfire-Effekt
 
 # Barnum-Effekt (the barnum effect)
-Bezeichnet die Neigung, vage und allgemeingültige Aussagen über die eigene Person so zu interpretieren, dass sie als zutreffende Beschreibung empfunden werden. 
+
+Bezeichnet die Neigung, vage und allgemeingültige Aussagen über die eigene Person so zu interpretieren, dass sie als zutreffende Beschreibung empfunden werden.
 
 You see personal specifics in vague statements by filling in the gaps.
 
 # Negativitätsbias (negativity bias)
+
 Wir neigen dazu, Risiken und Gefahren mehr Aufmerksamkeit zu schenken und uns stärker von negativen Ereignissen beeinflussen zu lassen. Dies kann zu einer verzerrten Wahrnehmung der Realität führen und uns davon abhalten, Chancen zu erkennen und zu nutzen.
 
 You allow negative things to disproportionately influence your thinking.
 
 # Halo-Effekt (the halo effect)
+
 Die Tendenz, von bekannten Eigenschaften einer Person auf unbekannte Eigenschaften zu schließen.
 
 How much you like someone, or how attractive they are, influences your other judgments of them.
 
 # Placebo-Effekt (the placebo effect)
+
 Wenn du glaubst, dass du Medizin einnimmst, kann sie manchmal "wirken", auch wenn sie eigentlich nur ein Placebo ist.
 
 # Herdenverhalten, Herdentrieb (the herd mentality)
-Die Neigung, sich an der Mehrheit zu orientieren. Ein Beispiel ist die Neigung, am Aktienmarkt die gleichen Entscheidungen zu treffen, wie andere sie bereits getroffen haben. 
+
+Die Neigung, sich an der Mehrheit zu orientieren. Ein Beispiel ist die Neigung, am Aktienmarkt die gleichen Entscheidungen zu treffen, wie andere sie bereits getroffen haben.
 
 Herdenverhalten beschreibt die Tendenz von Menschen, den Entscheidungen und Handlungen der Masse zu folgen, anstatt eigenständige, rationale Entscheidungen zu treffen.
 
@@ -150,6 +174,7 @@ Evolutionärer Hintergrund:
 In der Steinzeit war es überlebenswichtig, der Gruppe zu folgen. Heute kann es aber zu irrationalen Entscheidungen führen.
 
 # Vergangenheitsverklärung (declinism)
+
 Du erinnerst dich an die Vergangenheit als besser, als sie war, und erwartest, dass die Zukunft schlechter sein wird, als sie wahrscheinlich sein wird.
 
 Deklinismus beschreibt die kognitive Verzerrung, bei der wir:
@@ -170,17 +195,20 @@ Nostalgische Verklärung vergangener Jahrzehnte (z.B. "die goldenen 50er Jahre")
 Überschätzen aktueller Bedrohungen im Vergleich zu früher
 
 # Kontrollillusion (Illusion of control)
-Die falsche Annahme, zufällige Ereignisse durch eigenes Verhalten kontrollieren zu können. 
+
+Die falsche Annahme, zufällige Ereignisse durch eigenes Verhalten kontrollieren zu können.
 
 # Überlebenden-Verzerrung (Survivorship bias)
-Verzerrung zugunsten der "Überlebenden"/"Erfolgreichen", Erfahrungen "erfolgloser" Individuen werden nicht gleichermaßen berücksichtigt. 
 
+Verzerrung zugunsten der "Überlebenden"/"Erfolgreichen", Erfahrungen "erfolgloser" Individuen werden nicht gleichermaßen berücksichtigt.
 
 # Zuschauereffekt (the bystander effect)
+
 Du gehst davon aus, dass jemand anderes in einer Notsituation etwas unternehmen wird.
 Diese kognitive Verzerrung beschreibt das Phänomen, dass Menschen in Notsituationen seltener helfen, wenn andere Personen anwesend sind.
 
 # Reaktanz (reactance)
+
 Diese kognitive Verzerrung beschreibt die Tendenz, das Gegenteil von dem zu tun, was jemand von uns verlangt - besonders wenn wir uns in unserer Entscheidungsfreiheit bedroht fühlen.
 
 You'd rather do the opposite of what someone is trying to make you do.
@@ -199,20 +227,19 @@ Politik: "Du musst XY wählen" führt zur Gegenwehr
 Erziehung: "Du darfst nicht..." macht es attraktiver
 Beziehungen: Kontrolle führt zu Widerstand
 
-****
+---
 
 # Pessimismus-Bias (pessimism bias)
+
 Diese kognitive Verzerrung beschreibt die Tendenz, negative Ereignisse und Ergebnisse als wahrscheinlicher einzuschätzen, als sie tatsächlich sind.
 
 # Optimismus-Bias (optimism bias)
+
 Die Tendenz, die Zukunft zu positiv zu sehen
 
-
 # Gerechte-Welt-Glaube (just-world hypothesis)
+
 Diese kognitive Verzerrung beschreibt die Tendenz zu glauben, dass die Welt grundsätzlich gerecht ist und Menschen das bekommen, was sie verdienen.
-
-
-
 
 # 25 Kognitive Verzerrungen, die das irrationale Verhalten von Verbrauchern erklären
 
@@ -281,7 +308,8 @@ Beispiel
 Nach schweren Flugzeugunglücken neigen Menschen oft dazu, das Risiko des Fliegens zu überschätzen. Tatsächlich ist Fliegen jedoch viel sicherer als Autofahren. Laut dem National Safety Council beträgt die Wahrscheinlichkeit, bei einem Autounfall zu sterben, 1 zu 95, während die Wahrscheinlichkeit, bei einem Flugzeugabsturz zu sterben, so gering ist, dass sie nicht berechnet werden konnte (Daten von 2023).
 
 ## 6. Mitläufereffekt (Bandwagon Effect)
-Wahrgenommener Erfolg von anderen erhöht die Bereitschaft, sich voraussichtlich erfolgreichen Handlungsweisen von ihnen anzuschließen. 
+
+Wahrgenommener Erfolg von anderen erhöht die Bereitschaft, sich voraussichtlich erfolgreichen Handlungsweisen von ihnen anzuschließen.
 
 Hast du dich schon einmal gefragt, warum bestimmte Trends sich durchsetzen?
 
@@ -480,7 +508,7 @@ Warum erinnern wir uns am besten an die ersten Dinge auf unserem Einkaufszettel?
 
 Der Primacy-Effekt besagt, dass wir uns an die ersten Informationen besser erinnern als an alles, was danach kommt. Unser Gehirn schenkt dem, was zuerst präsentiert wird, mehr Aufmerksamkeit, deshalb bleibt es leichter im Gedächtnis.
 
-Der Primacy-Effekt spielt auch im Branding eine wichtige Rolle. Der erste Eindruck einer Marke kann langfristig wirken. Deshalb sollten Marken von Anfang an einen starken Eindruck hinterlassen – zum Beispiel durch eine ansprechende Website, gut durchdachte Texte oder ein einprägsames Logo. Die ersten Interaktionen prägen vermutlich am stärksten, wie Kunden die Marke langfristig wahrnehmen und sich an sie erinnern.
+Der Primacy-Effekt spielt auch im Branding eine wichtige Rolle. Der erste Eindruck einer Marke kann langfristig wirken. Deshalb sollten Marken von Anfang an einen starken Eindruck hinterlassen &mdash; zum Beispiel durch eine ansprechende Website, gut durchdachte Texte oder ein einprägsames Logo. Die ersten Interaktionen prägen vermutlich am stärksten, wie Kunden die Marke langfristig wahrnehmen und sich an sie erinnern.
 Beispiel
 
 Der erste Eindruck bei einem Vorstellungsgespräch zählt unverhältnismäßig viel. Eine Umfrage von Simply Hired ergab, dass 93 % der Personalverantwortlichen Unpünktlichkeit bei einem Vorstellungsgespräch als extrem unvorteilhaft ansehen.
@@ -543,7 +571,7 @@ Hier sind einige Anregungen dazu:
     Akzeptiere kognitive Verzerrungen; sie beeinflussen auch dich und sind oft dazu da, dir zu helfen.
     Recherchiere verschiedene Perspektiven, um ein ausgewogeneres Bild zu gewinnen.
     Reflektiere regelmäßig über deine Gedanken und Entscheidungen. Hinterfrage deine Annahmen und ziehe alternative Möglichkeiten in Betracht.
-    Handle nicht impulsiv. Nimm dir die Zeit, die du brauchst, um fundierte Entscheidungen zu treffen. 
+    Handle nicht impulsiv. Nimm dir die Zeit, die du brauchst, um fundierte Entscheidungen zu treffen.
 
 Fazit
 
@@ -571,6 +599,5 @@ Referenz:
 [3] Rory Sutherland (2019). Alchemy: The Surprising Power of Ideas That Don’t Make Sense. Penguin Random House
 
 [4] Martin Lindstrom (2008). Buyology: Truth and Lies About Why We Buy. Crown Business
-
 
 https://www.nineblaess.de/de/blog/kognitive-verzerrungen-liste/

@@ -22,12 +22,11 @@ Inkompetente halten sich für Experten, Experten zweifeln an sich.
 _Unwissenheit ist kühn._
 :::
 
-
 ## Definition
 
 Der **Dunning-Kruger-Effekt** (Donald-Trump-Effekt) beschreibt die kognitive Verzerrung, bei der Menschen mit geringen Fähigkeiten in einem bestimmten Bereich dazu neigen, ihre Fähigkeiten zu überschätzen, während Menschen mit hohen Fähigkeiten dazu neigen, ihre Fähigkeiten zu unterschätzen.
 
-Das Paradox: Wer wenig weiß, weiß nicht, dass er wenig weiß – und hält sich deshalb für kompetent. (Denke _Populisten_)  
+Das Paradox: Wer wenig weiß, weiß nicht, dass er wenig weiß &mdash; und hält sich deshalb für kompetent. (Denke _Populisten_)  
 Experten hingegen sind sich der Komplexität bewusst und unterschätzen ihre eigenen Fähigkeiten.
 
 EN: _Dunning-Kruger Effect_
@@ -37,11 +36,11 @@ EN: _Dunning-Kruger Effect_
 Der Dunning-Kruger-Effekt hängt eng mit anderen kognitiven Verzerrungen zusammen:
 
 - **Selbstüberschätzung (Overconfidence Bias):** Die generelle Tendenz, eigene Fähigkeiten zu überschätzen, verstärkt den Effekt bei Anfängern.
-- **Impostor-Syndrom:** Das Gefühl, trotz nachgewiesener Kompetenz ein "Hochstapler" zu sein – der umgekehrte Effekt bei Experten.
+- **Impostor-Syndrom:** Das Gefühl, trotz nachgewiesener Kompetenz ein "Hochstapler" zu sein &mdash; der umgekehrte Effekt bei Experten.
 - **Bestätigungsfehler (Confirmation Bias):** Inkompetente suchen Informationen, die ihre Selbsteinschätzung bestätigen, statt objektive Bewertungen zu akzeptieren.
-- **Lernresistenz:** Wer sich für kompetent hält, sieht keinen Grund zu lernen – ein Teufelskreis der Unwissenheit.
+- **Lernresistenz:** Wer sich für kompetent hält, sieht keinen Grund zu lernen &mdash; ein Teufelskreis der Unwissenheit.
 - **Soziale Erwünschtheit:** Der Wunsch, kompetent zu erscheinen, verstärkt die Selbstüberschätzung in sozialen Situationen.
-- **Metakognition:** Schwäche bei der Selbstreflektion – Inkompetente können ihre eigene Leistung nicht angemessen bewerten.
+- **Metakognition:** Schwäche bei der Selbstreflektion &mdash; Inkompetente können ihre eigene Leistung nicht angemessen bewerten.
 
 ## Beispiele
 
@@ -59,11 +58,11 @@ Börsen-Neulinge nach ein paar erfolgreichen Trades halten sich oft für Investm
 
 ### Donald Trump als prominentes Beispiel
 
-Donald Trump ist bekannt für Aussagen wie "I know everything about..." oder "Nobody knows more about ... than me" – zu Bereichen von Steuern über Technologie bis hin zu Militärstrategie.  
+Donald Trump ist bekannt für Aussagen wie "I know everything about..." oder "Nobody knows more about ... than me" &mdash; zu Bereichen von Steuern über Technologie bis hin zu Militärstrategie.  
 Diese Selbsteinschätzung zeigt klassische Dunning-Kruger-Charakteristika: die Überzeugung, in praktisch allen Bereichen Expertenwissen zu besitzen.  
-Echte Experten in diesen Feldern äußern sich hingegen deutlich vorsichtiger und betonen regelmäßig die Grenzen ihres Wissens. 
+Echte Experten in diesen Feldern äußern sich hingegen deutlich vorsichtiger und betonen regelmäßig die Grenzen ihres Wissens.
 
-Trumps öffentliche Auftritte demonstrieren, wie **Selbstüberschätzung** mit mangelndem Bewusstsein für die eigene Inkompetenz einhergeht – ein Lehrbuchbeispiel für den Effekt. Ab heute heisst er **Donald-Trump-Effekt**.
+Trumps öffentliche Auftritte demonstrieren, wie **Selbstüberschätzung** mit mangelndem Bewusstsein für die eigene Inkompetenz einhergeht &mdash; ein Lehrbuchbeispiel für den Effekt. Ab heute heisst er **Donald-Trump-Effekt**.
 
 ## Auswirkungen
 
@@ -76,7 +75,7 @@ Trumps öffentliche Auftritte demonstrieren, wie **Selbstüberschätzung** mit m
 ## Gegenstrategien
 
 - Regelmäßiges und ehrliches Feedback von anderen einholen, besonders von Experten.
-- Bewusstsein für die Grenzen des eigenen Wissens entwickeln ("Ich weiß, dass ich nichts weiß") 
+- Bewusstsein für die Grenzen des eigenen Wissens entwickeln ("Ich weiß, dass ich nichts weiß")
 - Kontinuierliches Lernen und Offenheit für neue Informationen und Kritik
 - Sich systematisch mit den eigenen Fehlern auseinandersetzen
 - Demut vor der Komplexität von Fachgebieten entwickeln

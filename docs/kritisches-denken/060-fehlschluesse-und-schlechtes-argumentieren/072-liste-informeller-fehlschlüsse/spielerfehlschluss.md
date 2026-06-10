@@ -27,9 +27,9 @@ _Der Würfel erinnert sich nicht._
 
 ## Definition
 
-Beim **Spielerfehlschluss** (*gambler's fallacy*) glaubt man, bei **unabhängigen** Zufallsereignissen werde ein Ergebnis „fälliger“, je länger es ausgeblieben ist (oder „unwahrscheinlicher“, je öfter es zuletzt eintrat).
+Beim **Spielerfehlschluss** (_gambler's fallacy_) glaubt man, bei **unabhängigen** Zufallsereignissen werde ein Ergebnis „fälliger“, je länger es ausgeblieben ist (oder „unwahrscheinlicher“, je öfter es zuletzt eintrat).
 
-Der Fehler: Unabhängige Ereignisse haben kein Gedächtnis. Ein fairer Würfel zeigt bei jedem Wurf die Sechs mit gleicher Wahrscheinlichkeit, egal wie lange keine kam. Die kleine Wahrscheinlichkeit einer langen Serie betrifft die *Vorhersage im Voraus*, nicht den *nächsten* Wurf nach einer bereits eingetretenen Serie.
+Der Fehler: Unabhängige Ereignisse haben kein Gedächtnis. Ein fairer Würfel zeigt bei jedem Wurf die Sechs mit gleicher Wahrscheinlichkeit, egal wie lange keine kam. Die kleine Wahrscheinlichkeit einer langen Serie betrifft die _Vorhersage im Voraus_, nicht den _nächsten_ Wurf nach einer bereits eingetretenen Serie.
 
 :::note
 Dieser Fehlschluss wird unter den **probabilistischen Fehlschlüssen** ausführlicher behandelt.
@@ -41,8 +41,8 @@ EN: _gambler's fallacy_
 
 <!-- zähle ähnliche Fehlschlüsse auf -->
 
-- **Hot-Hand-Fehlschluss** – die Gegenrichtung: aus einer Serie wird auf deren Fortdauer geschlossen.
-- **Prävalenzfehler** – verwandt als typischer Fehler im Umgang mit Wahrscheinlichkeiten.
+- **Hot-Hand-Fehlschluss** &mdash; die Gegenrichtung: aus einer Serie wird auf deren Fortdauer geschlossen.
+- **Prävalenzfehler** &mdash; verwandt als typischer Fehler im Umgang mit Wahrscheinlichkeiten.
 
 ## Beispiele
 
@@ -50,7 +50,7 @@ EN: _gambler's fallacy_
 
 <!-- Beschreibung Beispiel eins -->
 
-> „Ich habe jetzt schon zwanzig Mal keine Sechs gewürfelt – jetzt muss endlich eine kommen.“
+> „Ich habe jetzt schon zwanzig Mal keine Sechs gewürfelt &mdash; jetzt muss endlich eine kommen.“
 
 Die Wahrscheinlichkeit für eine Sechs bleibt bei jedem Wurf $1/6$. Die bisherige Pechsträhne ändert daran nichts.
 
@@ -58,7 +58,7 @@ Die Wahrscheinlichkeit für eine Sechs bleibt bei jedem Wurf $1/6$. Die bisherig
 
 <!-- Beschreibung Beispiel zwei -->
 
-> „Beim Roulette kam fünfmal Rot – jetzt setze ich auf Schwarz, das ist überfällig.“
+> „Beim Roulette kam fünfmal Rot &mdash; jetzt setze ich auf Schwarz, das ist überfällig.“
 
 Die Kugel kennt die vorherigen Runden nicht. Schwarz ist nicht wahrscheinlicher geworden.
 
