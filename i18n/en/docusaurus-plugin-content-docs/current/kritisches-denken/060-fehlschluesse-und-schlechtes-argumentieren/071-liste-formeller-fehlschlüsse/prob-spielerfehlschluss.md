@@ -50,7 +50,7 @@ The fallacy has the following form:
 
 <!--t src=858927e1-->
 
-Formally, the inference confuses the prior probability of a whole run with the **conditional** probability of the next toss: $P(\text{heads} \mid \text{5× tails before}) = 0{,}5$.
+Formally, the inference confuses the prior probability of a whole run with the **conditional** probability of the next toss: $P(\text{heads} \mid 5\times\text{tails before}) = 0{,}5$.
 
 <!--t src=a889025c-->
 

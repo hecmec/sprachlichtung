@@ -38,7 +38,7 @@ Der Fehlschluss hat die folgende Form:
 2. E und die früheren Ausgänge sind in Wahrheit unabhängig.
 3. Also ist E beim nächsten Mal weniger (bzw. mehr) wahrscheinlich.
 
-Formal verwechselt der Schluss die Wahrscheinlichkeit einer ganzen Serie im Voraus mit der **bedingten** Wahrscheinlichkeit des nächsten Wurfs: $P(\text{Kopf} \mid \text{5×Zahl zuvor}) = 0{,}5$.
+Formal verwechselt der Schluss die Wahrscheinlichkeit einer ganzen Serie im Voraus mit der **bedingten** Wahrscheinlichkeit des nächsten Wurfs: $P(\text{Kopf} \mid 5\times\text{Zahl zuvor}) = 0{,}5$.
 
 EN: _gambler's fallacy_
 
