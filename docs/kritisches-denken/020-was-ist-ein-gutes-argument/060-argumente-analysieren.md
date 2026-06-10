@@ -24,6 +24,7 @@ draft: false
    Toulmin Schema
 
 https://www.youtube.com/watch?v=pu1O9UI-uIo
+https://www.researchgate.net/profile/Dorothee-Gronostay/publication/315856112_Argumentationsanalyse_a_la_Toulmin_-_Zu_methodischen_Problemen_bei_der_Analyse_diskursiver_Argumentation/links/5e9059b692851c2f529128ae/Argumentationsanalyse-a-la-Toulmin-Zu-methodischen-Problemen-bei-der-Analyse-diskursiver-Argumentation.pdf
  -->
 
 <!-- # Versteckte Annahmen erkennen -->
