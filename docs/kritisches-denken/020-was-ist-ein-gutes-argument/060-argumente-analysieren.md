@@ -19,6 +19,13 @@ completeness: 3/5
 draft: false
 ---
 
+<!-- TODO: Dieses Kapitel ist verschwunden,
+   Argumente formalisieren
+   Toulmin Schema
+
+https://www.youtube.com/watch?v=pu1O9UI-uIo
+ -->
+
 <!-- # Versteckte Annahmen erkennen -->
 
 Wie wir bereits im vorherigen Kapitel gesehen haben, enthalten viele Argumente versteckte oder implizite Annahmen. Diese zu erkennen ist ein wichtiger Aspekt des kritischen Denkens. Hier vertiefen wir dieses Thema und betrachten weitere Methoden zur Identifizierung versteckter Annahmen.

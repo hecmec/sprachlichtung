@@ -18,7 +18,9 @@ draft: false
 
 <!-- # Formales vs. informelles Schließen -->
 
-Logisches Schließen kann in zwei Hauptkategorien eingeteilt werden: formales und informelles Schließen. Beide sind für das kritische Denken wichtig, haben aber unterschiedliche Anwendungsbereiche und Methoden.
+Manche meinen, alle guten Argumente bestünden im wesentlichen aus formalen logischen Schlüssen oder Syllogismen. Aber wenn man genau hinsieht, dann merkt man schnell, dass Argumentieren nicht viel mit formalem logischen Schliessen zu tun hat.
+
+Logisches Schließen kann in zwei Gruppen eingeteilt werden: formales und informelles Schließen. Beide sind für das kritische Denken wichtig, haben aber unterschiedliche Anwendungsbereiche und Methoden.
 
 ## Formales Schließen
 
