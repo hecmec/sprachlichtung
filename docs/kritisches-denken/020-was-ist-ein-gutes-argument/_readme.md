@@ -4,7 +4,9 @@
   - Types of Arguments
   - Types of Argumentation
 
-  https://de.wikipedia.org/wiki/Argument
+- https://de.wikipedia.org/wiki/Argument
+- https://en.wikipedia.org/wiki/Argumentation_theory
+- https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument
 
 - [Argument maps](https://en.wikipedia.org/wiki/Argument_map)
 

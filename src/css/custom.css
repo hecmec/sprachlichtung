@@ -3,11 +3,20 @@
  * Infima is a CSS framework designed to work well for content-centric websites.
 
  https://infima.dev/docs/getting-started/introduction
+
+ Docusaurus is built on Infima, which defines these breakpoints:
+
+  Name	Width	Typical use
+  sm	576px	Large phones
+  md	768px	Tablets
+  lg	996px	The main mobile↔desktop split (navbar collapses here)
+  xl	1320px	Wide desktops
+
  */
 
 /* You can override the default Infima variables here. */
 :root {
-   --ifm-font-size-base: 120%;
+  --ifm-font-size-base: 120%;
   --ifm-color-primary: hsl(315, 72%, 27%);
   --ifm-color-primary-dark: hsl(327, 49%, 32%);
   --ifm-color-primary-darker: hsl(327, 49%, 30%);
@@ -17,6 +26,13 @@
   --ifm-color-primary-lightest: hsl(327, 48%, 46%);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: hsla(0, 0%, 0%, 0.1);
+}
+
+/* on mobile devices, use the default base font size for better fit */
+@media (max-width: 996px) {
+  :root {
+    --ifm-font-size-base: 100%;
+  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,10 +47,16 @@
   --docusaurus-highlighted-code-line-bg: hsla(0, 0%, 0%, 0.3);
 }
 
+/* for non-mobile devices, we can afford more padding on the left side of the main content, which is more comfortable for reading */
 main > .container {
-  padding-left: 2rem;
+  padding-left: 1rem;
 }
 
+@media (min-width: 576px) {
+  main > .container {
+    padding-left: 2rem;
+  }
+}
 
 /* .menu__list-item:not(:first-child) { */
 .menu__list-item {
@@ -46,19 +68,20 @@ main > .container {
   font-size: var(--ifm-h1-font-size);
 } */
 
-.markdown h1 {
+.theme-layout-main h1 {
   --ifm-h1-font-size: 2rem;
   font-size: var(--ifm-h1-font-size);
 }
-.markdown h2 {
+.theme-layout-main h2 {
   --ifm-h2-font-size: 1.5rem;
   font-size: var(--ifm-h2-font-size);
 }
-.markdown h3 {
+.theme-layout-main h3 {
   --ifm-h3-font-size: 1.25rem;
   font-size: var(--ifm-h3-font-size);
 }
-.markdown h4, .markdown h5 {
+.theme-layout-main h4,
+.theme-layout-main h5 {
   --ifm-h4-font-size: 1rem;
   font-size: var(--ifm-h4-font-size);
 }
@@ -70,4 +93,8 @@ main > .container {
 /* for columns component */
 .columns .row > .col:first-child {
   padding-left: 0;
+}
+
+[class*="docCardListItem"] h2 {
+  font-size: 1.2rem;
 }
