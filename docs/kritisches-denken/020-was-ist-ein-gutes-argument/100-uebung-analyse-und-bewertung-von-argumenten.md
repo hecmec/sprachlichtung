@@ -1,6 +1,6 @@
 ---
 title: "Übung: Analyse und Bewertung von Argumenten"
-sidebar_position: 7
+sidebar_position: 10
 sidebar_label: "Übung: Argumentanalyse"
 description: "Praktische Übungen zur Analyse und Bewertung verschiedener Argumente"
 keywords:

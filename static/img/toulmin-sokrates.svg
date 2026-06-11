@@ -1,0 +1,26 @@
+<svg width="100%" viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg"><title>Toulmin-Schema für das Sokrates-Argument</title><desc>Toulmin-Schema mit Fact, Warrant, Backing und Conclusion für den Schluss, dass Sokrates sterblich ist.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+
+<g><rect x="40" y="40" width="200" height="56" rx="8" fill="rgb(12, 68, 124)" stroke="rgb(133, 183, 235)" stroke-width="0.5"/>
+<text x="140" y="60" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14" font-weight="500">Daten</text>
+<text x="140" y="80" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12">Sokrates ist ein Mensch.</text></g>
+
+<g><rect x="440" y="40" width="200" height="56" rx="8" fill="rgb(21, 128, 61)" stroke="rgb(74, 222, 128)" stroke-width="0.5"/>
+<text x="540" y="60" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14" font-weight="500">Schlussfolgerung</text>
+<text x="540" y="80" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12">Sokrates ist sterblich.</text></g>
+
+<line x1="240" y1="68" x2="438" y2="68" marker-end="url(#arrow)" fill="none" stroke="rgb(156, 154, 146)" stroke-width="1.5"/>
+
+<g><rect x="240" y="150" width="200" height="56" rx="8" fill="rgb(217, 119, 6)" stroke="rgb(251, 191, 36)" stroke-width="0.5"/>
+<text x="340" y="170" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14" font-weight="500">Schlussregel</text>
+<text x="340" y="190" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12">Alle Menschen sind sterblich.</text></g>
+
+<line x1="340" y1="150" x2="340" y2="78" marker-end="url(#arrow)" fill="none" stroke="rgb(156, 154, 146)" stroke-width="1.5"/>
+
+<g><rect x="240" y="260" width="200" height="72" rx="8" fill="rgb(127, 29, 29)" stroke="rgb(248, 113, 113)" stroke-width="0.5"/>
+<text x="340" y="280" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14" font-weight="500">Stützung</text>
+<text x="340" y="300" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12">Bisher ist jeder </text>
+<text x="340" y="316" text-anchor="middle" dominant-baseline="central" fill="rgb(255, 255, 255)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12">Mensch gestorben.</text></g>
+
+<line x1="340" y1="260" x2="340" y2="208" marker-end="url(#arrow)" fill="none" stroke="rgb(156, 154, 146)" stroke-width="1.5"/>
+</svg>

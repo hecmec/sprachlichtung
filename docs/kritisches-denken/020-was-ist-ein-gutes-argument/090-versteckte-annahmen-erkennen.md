@@ -1,6 +1,6 @@
 ---
 title: "Versteckte Annahmen erkennen"
-sidebar_position: 6
+sidebar_position: 9
 description: "Methoden zur Identifizierung und Analyse versteckter Annahmen in Argumenten"
 keywords:
   - implizite Annahmen

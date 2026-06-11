@@ -20,81 +20,79 @@ draft: false
 
 <!-- ## Quiz: Medienkompetenz & Quellenkritik -->
 
-## Quizfragen
+## Quizfragen:
 
 ### 1. **Wofür steht das „I“ in der SIFT-Methode?**
 
-a) Identify the topic
-b) Investigate the source
-c) Ignore the headline
-d) Interpret the data
+- a) Identify the topic
+- b) Investigate the source
+- c) Ignore the headline
+- d) Interpret the data
 
 ### 2. **Was ist „laterales Lesen“?**
 
-a) Einen Text mehrmals langsam durchlesen
-b) Eine Seite anhand ihres Logos und Designs beurteilen
-c) Die Seite verlassen und über andere Quellen prüfen, wer dahintersteckt
-d) Nur die Überschriften überfliegen
+- a) Einen Text mehrmals langsam durchlesen
+- b) Eine Seite anhand ihres Logos und Designs beurteilen
+- c) Die Seite verlassen und über andere Quellen prüfen, wer dahintersteckt
+- d) Nur die Überschriften überfliegen
 
 ### 3. **Eine Person teilt arglos eine falsche Meldung, die sie für wahr hält. Was ist das?**
 
-a) Desinformation
-b) Malinformation
-c) Fehlinformation
-d) Propaganda
+- a) Desinformation
+- b) Malinformation
+- c) Fehlinformation
+- d) Propaganda
 
 ### 4. **Worauf optimieren die Empfehlungsalgorithmen sozialer Medien in erster Linie?**
 
-a) Wahrheitsgehalt der Inhalte
-b) Engagement (Verweildauer, Klicks, Reaktionen)
-c) Ausgewogenheit der Meinungen
-d) Das Wohlergehen der Nutzer
+- a) Wahrheitsgehalt der Inhalte
+- b) Engagement (Verweildauer, Klicks, Reaktionen)
+- c) Ausgewogenheit der Meinungen
+- d) Das Wohlergehen der Nutzer
 
 ### 5. **Was sagt die neuere Forschung (u. a. Reuters Institute) zur Filterblasen-These?**
 
-a) Sie ist eindeutig bestätigt
-b) Sie ist empirisch erstaunlich schwach belegt; Algorithmen führen eher zu mehr Vielfalt
-c) Echokammern betreffen die große Mehrheit der Menschen
-d) Filterblase und Echokammer sind dasselbe
+- a) Sie ist eindeutig bestätigt
+- b) Sie ist empirisch erstaunlich schwach belegt; Algorithmen führen eher zu mehr Vielfalt
+- c) Echokammern betreffen die große Mehrheit der Menschen
+- d) Filterblase und Echokammer sind dasselbe
 
 ### 6. **Welche Frage bündelt die Prüfung auf Interessen und Voreingenommenheit am besten?**
 
-a) „Wie alt ist die Quelle?“
-b) „Wie viele Likes hat der Beitrag?“
-c) „Cui bono: wem nützt diese Information?“
-d) „Sieht die Webseite professionell aus?“
+- a) „Wie alt ist die Quelle?“
+- b) „Wie viele Likes hat der Beitrag?“
+- c) „Cui bono: wem nützt diese Information?“
+- d) „Sieht die Webseite professionell aus?“
 
 ### 7. **Wie sollte man Wikipedia laut diesem Kapitel nutzen?**
 
-a) Gar nicht, sie ist unzuverlässig
-b) Als alleinige Quelle, die man direkt zitiert
-c) Als Startpunkt, und dann den Einzelnachweisen zu den Primärquellen folgen
-d) Nur die Diskussionsseite lesen
+- a) Gar nicht, sie ist unzuverlässig
+- b) Als alleinige Quelle, die man direkt zitiert
+- c) Als Startpunkt, und dann den Einzelnachweisen zu den Primärquellen folgen
+- d) Nur die Diskussionsseite lesen
 
 ### 8. **Was bedeutet eine „gesichtete Version“ in der deutschen Wikipedia?**
 
-a) Der Inhalt wurde fachlich auf Richtigkeit geprüft
-b) Ein erfahrener Nutzer hat die Version auf offensichtlichen Vandalismus geprüft
-c) Der Artikel ist gesperrt
-d) Der Artikel ist abgeschlossen und wird nicht mehr geändert
+- a) Der Inhalt wurde fachlich auf Richtigkeit geprüft
+- b) Ein erfahrener Nutzer hat die Version auf offensichtlichen Vandalismus geprüft
+- c) Der Artikel ist gesperrt
+- d) Der Artikel ist abgeschlossen und wird nicht mehr geändert
 
 ### 9. **Welches ist die schnellste Methode, um ein „aus dem Kontext gerissenes“ Foto zu entlarven?**
 
-a) Die Bildunterschrift mehrmals lesen
-b) Die Anzahl der Likes prüfen
-c) Eine Bilder-Rückwärtssuche
-d) Den EXIF-Daten blind vertrauen
+- a) Die Bildunterschrift mehrmals lesen
+- b) Die Anzahl der Likes prüfen
+- c) Eine Bilder-Rückwärtssuche
+- d) Den EXIF-Daten blind vertrauen
 
 ### 10. **Woran erkennt man einen seriösen Faktencheck-Anbieter besonders gut?**
 
-a) An vielen Followern in sozialen Medien
-b) An der Verpflichtung auf den IFCN-Code: Transparenz von Quellen, Finanzierung, Methode und offene Korrekturen
-c) Daran, dass er immer dieselbe politische Seite kritisiert
-d) An einem auffälligen Logo
+- a) An vielen Followern in sozialen Medien
+- b) An der Verpflichtung auf den IFCN-Code: Transparenz von Quellen, Finanzierung, Methode und offene Korrekturen
+- c) Daran, dass er immer dieselbe politische Seite kritisiert
+- d) An einem auffälligen Logo
 
----
-
-## **Antworten**
+## Antworten:
 
 1. b) Investigate the source
 2. c) Die Seite verlassen und über andere Quellen prüfen, wer dahintersteckt

@@ -1,6 +1,6 @@
 ---
 title: "Formales vs. informelles Schließen"
-sidebar_position: 4
+sidebar_position: 7
 description: "Die Unterschiede zwischen formalem und informellem logischen Schließen im kritischen Denken"
 keywords:
   - formale Logik

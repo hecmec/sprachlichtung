@@ -1,6 +1,7 @@
 ---
-title: Quiz - Paradoxien
+title: "Quiz - Paradoxien"
 sidebar_position: 8
+sidebar_label: "Quiz"
 description: Ein Quiz zum Testen des Verständnisses über verschiedene Arten von Paradoxien und ihre Lösungsansätze.
 keywords: [Paradoxien, Quiz, Lügner-Paradoxon, Schiff des Theseus, Gefangenendilemma, Sorites-Paradoxon, Tarski]
 last_update:
@@ -13,39 +14,44 @@ draft: false
 
 <!-- ## Quiz: Paradoxien -->
 
-# Quiz: Paradoxien
+## Quizfragen:
 
-1. **Welches Paradoxon entsteht durch den Satz "Dieser Satz ist falsch"?**
-   a) Russells Paradoxon
-   b) Sorites-Paradoxon
-   c) Lügner-Paradoxon
-   d) Zenons Paradoxon
+### 1. **Welches Paradoxon entsteht durch den Satz "Dieser Satz ist falsch"?**
 
-2. **Das Schiff des Theseus ist ein Beispiel für welche Art von Paradoxon?**
-   a) Zeitliches Paradoxon
-   b) Identitätsparadoxon
-   c) Logisches Paradoxon
-   d) Entscheidungsparadoxon
+- a) Russells Paradoxon
+- b) Sorites-Paradoxon
+- c) Lügner-Paradoxon
+- d) Zenons Paradoxon
 
-3. **Welches Paradoxon zeigt, dass individuell rationales Verhalten zu kollektiv suboptimalen Ergebnissen führen kann?**
-   a) Newcomb-Paradoxon
-   b) Gefangenendilemma
-   c) Überraschungsprüfungs-Paradoxon
-   d) Großvater-Paradoxon
+### 2. **Das Schiff des Theseus ist ein Beispiel für welche Art von Paradoxon?**
 
-4. **Das Sorites-Paradoxon (Haufen-Paradoxon) betrifft hauptsächlich:**
-   a) Die Grenzen formaler Systeme
-   b) Probleme mit Selbstreferenz
-   c) Vagheit und unscharfe Grenzen von Begriffen
-   d) Zeitliche Kausalität
+- a) Zeitliches Paradoxon
+- b) Identitätsparadoxon
+- c) Logisches Paradoxon
+- d) Entscheidungsparadoxon
 
-5. **Welche Strategie zum Umgang mit dem Lügner-Paradoxon wurde von Alfred Tarski vorgeschlagen?**
-   a) Einführung mehrwertiger Logik
-   b) Unterscheidung zwischen Objekt- und Metasprache
-   c) Akzeptanz der Grenzen formaler Systeme
-   d) Präzisierung vager Begriffe
+### 3. **Welches Paradoxon zeigt, dass individuell rationales Verhalten zu kollektiv suboptimalen Ergebnissen führen kann?**
 
-**Antworten:**
+- a) Newcomb-Paradoxon
+- b) Gefangenendilemma
+- c) Überraschungsprüfungs-Paradoxon
+- d) Großvater-Paradoxon
+
+### 4. **Das Sorites-Paradoxon (Haufen-Paradoxon) betrifft hauptsächlich:**
+
+- a) Die Grenzen formaler Systeme
+- b) Probleme mit Selbstreferenz
+- c) Vagheit und unscharfe Grenzen von Begriffen
+- d) Zeitliche Kausalität
+
+### 5. **Welche Strategie zum Umgang mit dem Lügner-Paradoxon wurde von Alfred Tarski vorgeschlagen?**
+
+- a) Einführung mehrwertiger Logik
+- b) Unterscheidung zwischen Objekt- und Metasprache
+- c) Akzeptanz der Grenzen formaler Systeme
+- d) Präzisierung vager Begriffe
+
+## Antworten:
 
 1. c) Lügner-Paradoxon
 2. b) Identitätsparadoxon

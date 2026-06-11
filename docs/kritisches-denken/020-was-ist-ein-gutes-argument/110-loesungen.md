@@ -1,6 +1,6 @@
 ---
 title: "Lösungen"
-sidebar_position: 8
+sidebar_position: 11
 description: "Lösungen zu den Übungsaufgaben zur Analyse und Bewertung von Argumenten"
 keywords:
   - Argumentanalyse

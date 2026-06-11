@@ -39,7 +39,6 @@ Diese systematischen Abweichungen von Rationalität und gutem Urteilsvermögen w
 
 In diesem Kapitel werden wir untersuchen, was kognitive Verzerrungen sind, wie sie entstehen und welche Auswirkungen sie auf unser Denken haben. Wir werden die wichtigsten dieser Denkfehler kennenlernen, mentale Heuristiken (Denkabkürzungen) untersuchen und Strategien entwickeln, um diese Denkfallen zu vermeiden.
 
-
 ## Unterkapitel
 
 - [Was sind kognitive Verzerrungen?](./020-was-sind-kognitive-verzerrungen.md)
@@ -49,5 +48,4 @@ In diesem Kapitel werden wir untersuchen, was kognitive Verzerrungen sind, wie s
 - [Strategien zur Überwindung kognitiver Verzerrungen](./060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
 - [Übung: Erkennen von kognitiven Verzerrungen in eigenen Denkprozessen](./070-uebung-erkennen-kognitiver-verzerrungen.md)
 - [Zusammenfassung](./080-zusammenfassung.md)
-- [Quiz: Kognitive Verzerrungen und mentale Heuristiken](./090-quiz.md)
-
+- [Quiz: Kognitive Verzerrungen und mentale Heuristiken](./090-quiz-biases.md)

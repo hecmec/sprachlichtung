@@ -1,6 +1,6 @@
 ---
 title: "Rhetorik versus Argumentation"
-sidebar_position: 3
+sidebar_position: 6
 description: "Der Unterschied zwischen Rhetorik und Argumentation im kritischen Denken"
 keywords:
   - Rhetorik
