@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _The same word, two meanings._
 
 ## Definition
 
-<!--t src=4b2f4912-->
-
-In **equivocation**, an **ambiguous word** is used within the same argument in **different meanings**. Because the word stays outwardly the same, the inference seems to „fit“ &mdash; in truth the sentences speak of different things.
+<!--t src=b4d59ae7-->
+In **equivocation**, an **ambiguous word** is used with **different meanings** within the same argument. Because the word outwardly stays the same, the inference seems to "fit" &mdash; in truth the sentences are talking about different things.
 
 <!--t src=7d1a08b3-->
 
@@ -58,10 +57,9 @@ Also known as: _equivocation_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=5159cbf9-->
-
-- **Quaternio Terminorum** &mdash; the formal upshot in the syllogism (four instead of three terms).
-- **Ambiguity fallacy (amphiboly)** &mdash; related: ambiguity through _sentence structure_ instead of through a word.
+<!--t src=ed8b9c02-->
+- **Quaternio terminorum** &mdash; the formal expression in the syllogism (four instead of three terms).
+- **Fallacy of ambiguity (amphiboly)** &mdash; related: ambiguity through _sentence structure_ instead of through a word.
 - **Distinction without a difference** &mdash; a related game with meanings.
 
 <!--t src=9dbba01b-->
@@ -81,9 +79,8 @@ Also known as: _equivocation_
 > 2. The laws of nature are laws.
 > 3. Therefore the laws of nature need a lawgiver.
 
-<!--t src=63d8e19c-->
-
-„Law“ means in 1 a _legal regulation_, in 2 a _scientific regularity_. The two meanings are inadmissibly equated.
+<!--t src=997fc67b-->
+"Law" means in 1 a _legal regulation_, in 2 a _scientific regularity_. The two meanings are inadmissibly equated.
 
 <!--t src=f350657d-->
 

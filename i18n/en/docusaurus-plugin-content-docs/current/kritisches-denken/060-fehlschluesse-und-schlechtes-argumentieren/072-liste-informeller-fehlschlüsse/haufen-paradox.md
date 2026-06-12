@@ -14,12 +14,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=67515c4f-->
-
+<!--t src=5cf38692-->
 :::tip In brief
 From the vagueness of a term it is concluded that it does not exist at all &mdash; or that every boundary is arbitrary.
 
@@ -30,9 +29,8 @@ _When do grains become a heap?_
 
 ## Definition
 
-<!--t src=fcb9b320-->
-
-The **sorites paradox** (from Greek _sorós_ „heap“) arises with **vague terms** without a sharp boundary: a single grain of sand is not a heap; one grain more makes (in each case) no difference &mdash; so a million grains would not be a heap either. Conversely, one can „prove“ that even a single grain is a heap.
+<!--t src=0dc407e2-->
+The **sorites paradox** (from Greek _sorós_ "heap") arises with **vague terms** that have no sharp boundary: a single grain of sand is not a heap; one more grain makes (in each case) no difference &mdash; so even a million grains would not be a heap. Conversely, one can "prove" that even a single grain is a heap.
 
 <!--t src=4231bca5-->
 
@@ -59,10 +57,9 @@ Also known as: _sorites paradox_ / _continuum fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=a928b11d-->
-
-- **False dichotomy** &mdash; the counterpart: there a continuum is wrongly _split in two_, here the existence of stages is _denied_.
-- **Appeal to relative triviality** &mdash; related: every small step „doesn't count“.
+<!--t src=58859485-->
+- **False dichotomy** &mdash; the counterpart: there a continuum is wrongly _split in two_, here the existence of gradations is _denied_.
+- **Fallacy of relative privation** &mdash; related: every small step "doesn't count".
 
 <!--t src=9dbba01b-->
 

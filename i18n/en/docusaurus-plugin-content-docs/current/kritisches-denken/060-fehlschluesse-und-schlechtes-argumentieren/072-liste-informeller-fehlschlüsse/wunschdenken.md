@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,13 +29,11 @@ _Wishing does not make it true._
 
 ## Definition
 
-<!--t src=50afa84a-->
+<!--t src=6c5c2aff-->
+In **wishful thinking**, it is not the facts but the **wish** that determines what someone holds to be true. The pleasantness of an idea is confused with its truth.
 
-In **wishful thinking**, it is not the facts but the **wish** that determines what someone holds to be true. The agreeableness of an idea is confused with its truth.
-
-<!--t src=cb17f9a3-->
-
-The error: that a statement is _agreeable_ or _desirable_ says nothing about its _correctness_. Closely related is the appeal to consequences, in which from the (un)desirable consequences of a thesis its truth value is inferred.
+<!--t src=f5a4c537-->
+The error: that a statement is _pleasant_ or _desirable_ says nothing about its _correctness_. Closely related is the appeal to consequences, in which the truth value of a thesis is inferred from its (un)desirable consequences.
 
 <!--t src=3c24b250-->
 
@@ -57,11 +55,10 @@ Also known as: _wishful thinking_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=db803ff7-->
-
+<!--t src=1a59129e-->
 - **Appeal to emotion** &mdash; related: a feeling (here the wish) replaces the evidence.
-- **Personal incredulity** &mdash; the negative counterpart: „I won't/can't believe that, so it's false.“
-- **Appeal to consequences** &mdash; related: inferring a thesis's truth value from its consequences.
+- **Personal incredulity** &mdash; the negative counterpart: "I won't/can't believe it, so it's false."
+- **Appeal to consequences** &mdash; related: inferring the truth value of a thesis from its consequences.
 
 <!--t src=9dbba01b-->
 
@@ -74,9 +71,8 @@ Also known as: _wishful thinking_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=fc4bc2c4-->
-
-> „My ticket will surely win &mdash; I just need the money too badly.“
+<!--t src=daef5995-->
+> "My ticket will surely win &mdash; I just need the money too badly."
 
 <!--t src=bf6d470b-->
 

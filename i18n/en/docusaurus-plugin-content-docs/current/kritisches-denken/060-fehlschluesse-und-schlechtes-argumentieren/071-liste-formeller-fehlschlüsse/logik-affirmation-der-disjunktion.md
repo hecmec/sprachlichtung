@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -63,10 +63,9 @@ Also known as: _affirming a disjunct_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=b64d9647-->
-
+<!--t src=9fe5e0a7-->
 - **Denying a conjunct** &mdash; the counterpart at the level of conjunction.
-- **False dilemma** &mdash; related: there too an inclusive or incomplete „or“ is treated like a strict either-or.
+- **False dilemma** &mdash; related: there too an inclusive or incomplete "or" is treated like a strict either-or.
 - **Non sequitur** &mdash; the umbrella term.
 
 <!--t src=9dbba01b-->
@@ -97,9 +96,8 @@ Lena can be both a doctor _and_ an artist. The truth of one member does not excl
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=38f37b0c-->
-
-> „For dessert there is cake or ice cream. There is cake &mdash; so no ice cream.“
+<!--t src=25f37ff4-->
+> "For dessert there is cake or ice cream. There is cake &mdash; so no ice cream."
 
 <!--t src=b980e9e5-->
 

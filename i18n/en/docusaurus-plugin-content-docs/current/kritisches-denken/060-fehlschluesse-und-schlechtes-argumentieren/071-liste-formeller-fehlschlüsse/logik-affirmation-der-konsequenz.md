@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _The effect does not prove the cause._
 
 **Affirming the consequent** (also called asserting the consequent) infers, from a conditional and the truth of its consequent, the truth of its antecedent.
 
-<!--t src=4ada3675-->
-
-The error lies in the fact that „If A, then B“ only says that A is _sufficient_ for B &mdash; not that A is the only possible cause of B. B can also be true for other reasons.
+<!--t src=2c7db0a7-->
+The error lies in the fact that "If A, then B" only says that A is _sufficient_ for B &mdash; not that A is the only possible cause of B. B can also be true for other reasons.
 
 <!--t src=3c24b250-->
 
@@ -63,10 +62,9 @@ Also known as: _affirming the consequent_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=c45f5189-->
-
+<!--t src=8cbde0ec-->
 - **Denying the antecedent** &mdash; the mirror image: there one infers from the negated antecedent to the negated consequent.
-- **Converse error** &mdash; the underlying confusion: „If A, then B“ is treated like „If B, then A“.
+- **Converse error** &mdash; the underlying confusion: "If A, then B" is treated like "If B, then A".
 - **Non sequitur** &mdash; the umbrella term for all these invalid inferences.
 
 <!--t src=9dbba01b-->

@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,12 +30,10 @@ _The cudgel is no argument._
 
 ## Definition
 
-<!--t src=b4475bb0-->
+<!--t src=7bad887b-->
+In the **argumentum ad baculum** (Latin _baculum_ "stick, cudgel"), a claim is not supported by reasons but enforced through the **threat of disadvantages** &mdash; violence, punishment, job loss, social exclusion.
 
-In the **Argumentum ad Baculum** (Latin _baculum_ „stick, cudgel“), a claim is not supported by reasons but enforced by the **threat of disadvantages** &mdash; violence, punishment, job loss, social exclusion.
-
-<!--t src=22acb83a-->
-
+<!--t src=b2510e8d-->
 The error: a threat can force someone into _agreement_, but it does not make the claim _true_. Power is no substitute for an argument.
 
 <!--t src=3c24b250-->
@@ -59,11 +57,10 @@ Also known as: _appeal to force_ / _argumentum ad baculum_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=2c43b554-->
-
-- **Appeal to emotion** &mdash; the umbrella term: here fear is addressed.
-- **Argumentum ad Populum** &mdash; related: social pressure instead of substantive reasons.
-- **Appeal to consequences** &mdash; to be distinguished: there the (undesirable) consequences of a thesis decide its truth value; with the baculum the speaker himself threatens a disadvantage.
+<!--t src=e1c6b9ae-->
+- **Appeal to emotion** &mdash; the umbrella term: here it is fear that is addressed.
+- **Argumentum ad populum** &mdash; related: social pressure instead of substantive reasons.
+- **Appeal to consequences** &mdash; to be distinguished: there the (undesirable) consequences of a thesis decide its truth value; with the baculum the speaker themselves threatens a disadvantage.
 
 <!--t src=9dbba01b-->
 
@@ -91,9 +88,8 @@ The threat says nothing about whether the proposal is good. It only forces outwa
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=ccab8642-->
-
-> „You will come to see that I am right &mdash; otherwise there will be trouble.“
+<!--t src=06316623-->
+> "You'll come to see that I'm right &mdash; otherwise there'll be trouble."
 
 <!--t src=efbe6038-->
 

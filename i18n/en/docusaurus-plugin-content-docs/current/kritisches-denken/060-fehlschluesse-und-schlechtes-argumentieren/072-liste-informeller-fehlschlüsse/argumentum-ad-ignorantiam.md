@@ -14,14 +14,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=c5ebf247-->
-
+<!--t src=f57eb94a-->
 :::tip In brief
-Something counts as true because it has not been refuted &mdash; or as false because it has not been proven.
+Something is held to be true because it has not been refuted &mdash; or false because it has not been proven.
 
 _Not refuted does not mean proven._
 :::
@@ -30,13 +29,11 @@ _Not refuted does not mean proven._
 
 ## Definition
 
-<!--t src=5a96079d-->
+<!--t src=8dc8602d-->
+In the **argumentum ad ignorantiam** (appeal to ignorance), the truth of a claim is inferred from the **absence of counter-evidence** &mdash; or, conversely, its falsehood from the absence of proof.
 
-In the **Argumentum ad Ignorantiam** (appeal to ignorance), the truth of a claim is inferred from the **absence of a counter-proof** &mdash; or conversely its falsity from the absence of a proof.
-
-<!--t src=686c4847-->
-
-The error: ignorance is no evidence. That something has not (yet) been refuted does not make it true; that something has not (yet) been proven does not make it false. Often the **burden of proof** is illegitimately reversed: whoever makes a claim must support it &mdash; not the doubter the opposite.
+<!--t src=5666626b-->
+The error: ignorance is no evidence. That something has not (yet) been refuted does not make it true; that something has not (yet) been proven does not make it false. Often the **burden of proof** is inadmissibly reversed: whoever makes a claim must substantiate it &mdash; not the doubter the opposite.
 
 <!--t src=3c24b250-->
 
@@ -58,10 +55,9 @@ Also known as: _appeal to ignorance_ / _argumentum ad ignorantiam_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=5188cb42-->
-
-- **God of the gaps argument** &mdash; a special form: the gap in knowledge is itself declared to be proof.
-- **Personal incredulity** &mdash; related: „I cannot imagine it, so it is false.“
+<!--t src=828d8117-->
+- **God of the gaps** &mdash; a special form: the gap in knowledge is itself declared to be proof.
+- **Personal incredulity** &mdash; related: "I can't imagine it, so it's false."
 
 <!--t src=9dbba01b-->
 
@@ -74,9 +70,8 @@ Also known as: _appeal to ignorance_ / _argumentum ad ignorantiam_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=e35dc92d-->
-
-> „No one has ever proven that there are no ghosts &mdash; so they exist.“
+<!--t src=1b6d730d-->
+> "No one has ever proven that ghosts don't exist &mdash; so they do exist."
 
 <!--t src=25b80ae5-->
 
@@ -89,9 +84,8 @@ The absence of a counter-proof does not establish the existence of ghosts. The b
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=3029d549-->
-
-> „There is no study showing that this substance is harmful &mdash; so it is safe.“
+<!--t src=9a0d7e46-->
+> "There is no study showing that this substance is harmful &mdash; so it is safe."
 
 <!--t src=c37480f0-->
 

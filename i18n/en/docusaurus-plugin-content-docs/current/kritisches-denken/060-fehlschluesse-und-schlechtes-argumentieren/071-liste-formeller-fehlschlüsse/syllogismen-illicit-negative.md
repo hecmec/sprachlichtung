@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -31,9 +31,8 @@ _An exclusion cannot ground a membership._
 
 ## Definition
 
-<!--t src=89fcd2d8-->
-
-A **rule of the categorical syllogism** states: if **one of the premises is negative**, the conclusion must also be negative. If an **affirmative** conclusion is nevertheless drawn, the fallacy of an „affirmative conclusion from a negative premise“ (also _illicit negative_) is present.
+<!--t src=12a9138d-->
+One **rule of the categorical syllogism** is: if **one of the premises is negative**, then the conclusion must also be negative. If an **affirmative** conclusion is nevertheless drawn, the fallacy of the "affirmative conclusion from a negative premise" (also _illicit negative_) is present.
 
 <!--t src=0406d185-->
 
@@ -64,10 +63,9 @@ Also known as: _illicit negative_ / _affirmative conclusion from a negative prem
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=d7eee4ce-->
-
-- **Negative conclusion from affirmative premises** &mdash; the mirror-image violation of the same quality rule.
-- **Two negative premises** &mdash; likewise a violation of the rules on the quality of the propositions.
+<!--t src=61857fb2-->
+- **Negative conclusion from affirmative premises (illicit affirmative)** &mdash; the mirror-image violation of the same quality rule.
+- **Two negative premises** &mdash; likewise a violation of the rules on the quality of the statements.
 
 <!--t src=9dbba01b-->
 
@@ -103,9 +101,8 @@ The negative premise separates fish from mammals. From it no affirmative conclus
 > 2. All soldiers carry a weapon.
 > 3. Therefore some soldiers are pacifists.
 
-<!--t src=814d106a-->
-
-Here too, from a separation (negative) a membership (affirmative) is derived &mdash; formally inadmissible. Validly, only „No soldier is a pacifist“ follows.
+<!--t src=d5c2a03e-->
+Here too, from a separation (negative) a belonging (affirmative) is derived &mdash; formally inadmissible. Validly, only "No soldier is a pacifist" follows.
 
 <!--t src=69b1092f-->
 

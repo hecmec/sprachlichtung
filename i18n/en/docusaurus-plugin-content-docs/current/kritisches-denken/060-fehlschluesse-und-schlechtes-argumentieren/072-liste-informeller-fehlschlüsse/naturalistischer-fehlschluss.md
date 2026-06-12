@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _From the is, no ought follows._
 
 ## Definition
 
-<!--t src=22ae75e5-->
+<!--t src=c599b721-->
+The **naturalistic fallacy** infers directly from a **fact** (what _is_, or what is _natural_) to a **norm** (what _ought_ to be, or is _good_). From a description of the world, an evaluation is derived without an evaluative intermediate step being justified.
 
-The **naturalistic fallacy** infers, from a **fact** (what _is_ or what is _natural_), directly a **norm** (what _ought_ to be or is _good_). From a description of the world a value judgement is derived, without justifying an evaluative intermediate step.
-
-<!--t src=d5e3e95a-->
-
-Background: already **David Hume** observed that from pure _is_-statements no _ought_-statement can be derived (the **is-ought problem**). Closely related is the **appeal to nature**: „natural“ counts as „good“, „unnatural“ as „bad“. (Strictly speaking, **G. E. Moore** meant something narrower by the „naturalistic fallacy“ &mdash; the equation of „good“ with a natural property; in everyday use the two readings are often run together.)
+<!--t src=ae64467b-->
+Background: **David Hume** already noted that no _ought_-statement can be derived from pure _is_-statements (the **is-ought problem**). Closely related is the **appeal to nature**: "natural" is taken to be "good", "unnatural" to be "bad". (Strictly speaking, **G. E. Moore** meant something narrower by "naturalistic fallacy" &mdash; the equation of "good" with a natural property; in everyday use both readings are often lumped together.)
 
 <!--t src=3c24b250-->
 
@@ -58,11 +56,10 @@ Also known as: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=e0f38f18-->
-
-- **Argumentum ad Antiquitatem** &mdash; related: from „this is customary / has always been so“ to „this is how it ought to be“.
-- **Teleological fallacy** &mdash; related: from an assumed purpose of nature an ought is derived.
-- **Moralistic fallacy** &mdash; the counterpart: from „ought not to be“ to „is not the case“.
+<!--t src=921d130e-->
+- **Argumentum ad antiquitatem** &mdash; related: from "that's how it's customary/has always been" to "that's how it ought to be".
+- **Teleological fallacy** &mdash; related: from a presumed purpose of nature an ought is derived.
+- **Moralistic fallacy** &mdash; the counterpart: from "ought not to be" to "is not the case".
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +72,8 @@ Also known as: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=895fe224-->
-
-> „In nature the stronger prevails &mdash; so ruthless competition is right.“
+<!--t src=cf44b8d2-->
+> "In nature the stronger prevails &mdash; so ruthless competition is right."
 
 <!--t src=27cf0840-->
 
@@ -94,9 +90,8 @@ That something occurs in nature does not make it morally required. The inference
 
 > „This remedy is purely natural, so it is good and harmless.“
 
-<!--t src=436c93cb-->
-
-„Natural“ is no seal of quality &mdash; deadly nightshade and snake venom are natural too. Naturalness establishes no value.
+<!--t src=677dc4f0-->
+"Natural" is no seal of quality &mdash; deadly nightshade and snake venom are natural too. Naturalness establishes no value.
 
 <!--t src=69b1092f-->
 

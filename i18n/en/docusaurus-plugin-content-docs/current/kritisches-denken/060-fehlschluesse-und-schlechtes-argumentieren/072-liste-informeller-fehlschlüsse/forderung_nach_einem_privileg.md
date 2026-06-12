@@ -13,14 +13,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=82b30070-->
-
+<!--t src=4cc96be5-->
 :::tip In brief
-For one's own case an exception to a general rule is claimed, without justifying it.
+An exception to a general rule is claimed for one's own case, without justifying it.
 
 _Rules for everyone &mdash; just not for me._
 :::
@@ -29,13 +28,11 @@ _Rules for everyone &mdash; just not for me._
 
 ## Definition
 
-<!--t src=b160cdea-->
+<!--t src=b038eb68-->
+**Special pleading** claims, for one's own case (or that of one's own side), an **exception** to a generally accepted rule, **without** giving a substantively relevant reason for that exception.
 
-**Special pleading** claims for one's own case (or that of one's own side) an **exception** to a generally accepted rule, **without** giving a substantively relevant reason for this exception.
-
-<!--t src=85d14fee-->
-
-The error: to apply a rule to others but suspend it for oneself without a compelling reason is inconsistent. An exception is only justified if a _relevant_ difference exists &mdash; if it is missing, the demand is arbitrary.
+<!--t src=820f4483-->
+The error: applying a rule to others but suspending it for oneself without a valid reason is inconsistent. An exception is justified only if a _relevant_ difference exists &mdash; if it is missing, the demand is arbitrary.
 
 <!--t src=3c24b250-->
 
@@ -58,11 +55,10 @@ Also known as: _special pleading_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=554709ba-->
-
-- **No true Scotsman** &mdash; related: a subsequent exception to fend off a counterexample.
-- **Double standard** &mdash; related: two measures for cases of the same kind.
-- **Distinction without a difference** &mdash; related, when the claimed exception names no genuine difference.
+<!--t src=51ae3f78-->
+- **No true Scotsman** &mdash; related: an after-the-fact exception to ward off a counterexample.
+- **Double standard** &mdash; related: two different measures for similar cases.
+- **Distinction without a difference** &mdash; related, when the asserted exception names no real difference.
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +71,8 @@ Also known as: _special pleading_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=cb98d64f-->
-
-> „Punctuality is a duty &mdash; but in my case it's different, I'm just creative.“
+<!--t src=3a5240ac-->
+> "Punctuality is a duty &mdash; but for me it's different, I'm just creative."
 
 <!--t src=c9f17ce3-->
 

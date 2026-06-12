@@ -14,16 +14,15 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=37b94b96-->
-
+<!--t src=4c7ce242-->
 :::tip In brief
-From „If A, then B“ and „A is false“ one wrongly concludes „B is false“.
+From "If A, then B" and "A is false", it is falsely inferred that "B is false".
 
-_No cause, hence no effect &mdash; although the effect can come about otherwise._
+_No cause, therefore no effect &mdash; even though the effect can also come about otherwise._
 :::
 
 <!--t src=23594b0b-->
@@ -34,9 +33,8 @@ _No cause, hence no effect &mdash; although the effect can come about otherwise.
 
 **Denying the antecedent** infers, from a conditional and the falsity of its antecedent, the falsity of its consequent.
 
-<!--t src=8a642f50-->
-
-The error lies in the fact that A is only a _sufficient_, not a _necessary_, condition for B. B can also occur without A.
+<!--t src=173c4cbe-->
+The error lies in the fact that A is only a _sufficient_, but not a _necessary_ condition for B. B can also occur without A.
 
 <!--t src=3c24b250-->
 
@@ -48,9 +46,8 @@ The fallacy has the following form:
 2. A is not true.
 3. Therefore B is not true.
 
-<!--t src=2308bda2-->
-
-Valid, by contrast, is only the _modus tollens_ (1. If A, then B. 2. Not B. 3. Therefore not A.).
+<!--t src=74538cb5-->
+Valid, by contrast, would only be the _modus tollens_ (1. If A, then B. 2. Not B. 3. Therefore not A.).
 
 <!--t src=7ee8af2b-->
 
@@ -63,8 +60,7 @@ Also known as: _denying the antecedent_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=e8413533-->
-
+<!--t src=42ba7c44-->
 - **Affirming the consequent** &mdash; the mirror image: there one infers from the affirmed consequent to the affirmed antecedent.
 - **Converse error** &mdash; related, because both confuse necessary and sufficient conditions.
 - **Non sequitur** &mdash; the umbrella term for all these invalid inferences.

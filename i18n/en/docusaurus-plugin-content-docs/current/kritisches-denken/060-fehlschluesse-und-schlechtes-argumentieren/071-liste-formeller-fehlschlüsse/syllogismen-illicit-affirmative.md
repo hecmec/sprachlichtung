@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -31,9 +31,8 @@ _Where nothing is excluded, nothing can be excluded._
 
 ## Definition
 
-<!--t src=749c386c-->
-
-A **rule of the categorical syllogism** states: if **both premises are affirmative**, the conclusion must also be affirmative. If a **negative** conclusion is nevertheless drawn, the fallacy of a „negative conclusion from affirmative premises“ (also _illicit affirmative_) is present.
+<!--t src=7c51d1b8-->
+One **rule of the categorical syllogism** is: if **both premises are affirmative**, then the conclusion must also be affirmative. If a **negative** conclusion is nevertheless drawn, the fallacy of the "negative conclusion from affirmative premises" (also _illicit affirmative_) is present.
 
 <!--t src=30b6008e-->
 
@@ -64,10 +63,9 @@ Also known as: _illicit affirmative_ / _negative conclusion from affirmative pre
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=0343096e-->
-
-- **Affirmative conclusion from a negative premise** &mdash; the mirror-image violation of the same quality rule.
-- **Two negative premises** &mdash; likewise a violation of the rules on the quality (affirmative/negative) of the propositions.
+<!--t src=42ba0e7b-->
+- **Affirmative conclusion from a negative premise (illicit negative)** &mdash; the mirror-image violation of the same quality rule.
+- **Two negative premises** &mdash; likewise a violation of the rules on the quality (affirmative/negative) of the statements.
 
 <!--t src=9dbba01b-->
 
@@ -86,9 +84,8 @@ Also known as: _illicit affirmative_ / _negative conclusion from affirmative pre
 > 2. All mammals are animals.
 > 3. Therefore some animals are not cats.
 
-<!--t src=eaea8093-->
-
-The conclusion is indeed _materially_ true, but it does not follow: from two affirmative propositions no negation can be obtained. Validly, only „All cats are animals“ follows.
+<!--t src=3e87ce0c-->
+The conclusion is indeed _materially_ true, but does not follow: from two affirmative statements no negation can be obtained. Validly, only "All cats are animals" follows.
 
 <!--t src=f350657d-->
 
@@ -103,9 +100,8 @@ The conclusion is indeed _materially_ true, but it does not follow: from two aff
 > 2. All plants are living things.
 > 3. Therefore some living things are not roses.
 
-<!--t src=8aa10c71-->
-
-Here too, from pure inclusion (affirmative) an exclusion (negative) is asserted &mdash; which is formally inadmissible.
+<!--t src=eac1e5aa-->
+Here too, from pure inclusion (affirmative) an exclusion (negative) is asserted &mdash; this is formally inadmissible.
 
 <!--t src=69b1092f-->
 

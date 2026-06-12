@@ -16,7 +16,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -76,11 +76,10 @@ Also known as: _fallacy fallacy_ / _argument from fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=acd733e2-->
-
-- **Non sequitur** &mdash; the argumentum ad logicam is ultimately a non sequitur: „the argument is flawed“ simply does not entail „the claim is false“.
-- **Genetic fallacy** &mdash; related, in that here too a claim is judged not by its content but by something external (its origin or its justification).
-- **Straw man** &mdash; often combined with the argumentum ad logicam: one refutes a weak (or distorted) justification and thereby declares the actual thesis settled.
+<!--t src=6e32f47a-->
+- **Non sequitur** &mdash; The argumentum ad logicam is ultimately a non sequitur: from "the argument is flawed" it simply does not follow that "the claim is false".
+- **Genetic fallacy** &mdash; Related insofar as here too a claim is evaluated not on the basis of its content, but on the basis of something external (its origin or its justification).
+- **Straw man** &mdash; Often combined with the argumentum ad logicam: one refutes a weak (or distorted) justification and thereby declares the actual thesis settled.
 
 <!--t src=9dbba01b-->
 
@@ -118,10 +117,9 @@ Whatever it is called, the inference really is invalid &mdash; yet tigers are st
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=d3948c66-->
-
-> &mdash; „The Earth is round, because my teacher said so.“
-> &mdash; „That is an appeal to authority, hence a fallacy. Therefore the Earth is _not_ round.“
+<!--t src=00eb5fd3-->
+> &mdash; "The Earth is round, because my teacher said so."
+> &mdash; "That is an appeal to authority, so a fallacy. Consequently the Earth is _not_ round."
 
 <!--t src=10aad1e5-->
 
@@ -134,10 +132,9 @@ The justification („my teacher said so“) really is a weak argument. But to c
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=06caf423-->
-
-> &mdash; „Smoking is unhealthy, because my grandmother always said so.“
-> &mdash; „That is merely an anecdotal and traditional argument. So smoking is not unhealthy at all.“
+<!--t src=4e711958-->
+> &mdash; "Smoking is unhealthy, because my grandmother always used to say so."
+> &mdash; "That is just an anecdotal and traditional argument. So smoking isn't unhealthy at all."
 
 <!--t src=b089221e-->
 

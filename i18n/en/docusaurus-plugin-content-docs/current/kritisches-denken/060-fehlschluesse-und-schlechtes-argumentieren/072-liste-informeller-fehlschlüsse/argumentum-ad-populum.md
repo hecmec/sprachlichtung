@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _Millions of flies can't be wrong?_
 
 ## Definition
 
-<!--t src=10b0f4c2-->
-
-In the **Argumentum ad Populum** (appeal to the majority, _bandwagon_), a claim counts as true or an action as right **because many** agree with it or act that way.
+<!--t src=8a721e48-->
+In the **argumentum ad populum** (appeal to the majority, _bandwagon_), a claim is held to be true or an action to be right **because many** agree with it or act that way.
 
 <!--t src=9ae7e5e0-->
 
@@ -58,11 +57,10 @@ Also known as: _appeal to the people_ / _bandwagon_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=1fe2a78a-->
-
-- **Argumentum ad Verecundiam** &mdash; related: appeal to a supposed authority instead of to the crowd.
-- **Argumentum ad Antiquitatem** &mdash; related: not „many“, but „long done this way“.
-- **Argumentum ad Baculum** &mdash; related, when the majority turns into social pressure.
+<!--t src=752ccc33-->
+- **Argumentum ad verecundiam** &mdash; related: appeal to a supposed authority instead of to the crowd.
+- **Argumentum ad antiquitatem** &mdash; related: not "many", but "long-established".
+- **Argumentum ad baculum** &mdash; related, when the majority turns into social pressure.
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +73,8 @@ Also known as: _appeal to the people_ / _bandwagon_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=fe456a71-->
-
-> „This can't be wrong &mdash; millions of people use it, after all.“
+<!--t src=aeadf114-->
+> "That can't be wrong &mdash; millions of people use it, after all."
 
 <!--t src=c0acfaa0-->
 

@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -68,11 +68,10 @@ Also known as: _confusion of the inverse_ / _conditional probability fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=f887376c-->
-
+<!--t src=880a89be-->
 - **Base rate fallacy** &mdash; the most common manifestation, when the base rate is additionally neglected.
-- **Prosecutor's fallacy** &mdash; the forensic variant: $P(\text{trace} \mid \text{innocent})$ is confused with $P(\text{innocent} \mid \text{trace})$.
-- **Converse error** &mdash; the logical counterpart: there the illegitimate conversion of the conditional instead of the conditional probability.
+- **Prosecutor's fallacy** &mdash; the forensic variant: $P(\text{evidence} \mid \text{innocent})$ is confused with $P(\text{innocent} \mid \text{evidence})$.
+- **Converse error** &mdash; the logical counterpart: there the inadmissible reversal of the conditional instead of the conditional probability.
 
 <!--t src=9dbba01b-->
 
@@ -85,9 +84,8 @@ Also known as: _confusion of the inverse_ / _conditional probability fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=e06e6b0d-->
-
-> „Most road fatalities were not wearing a helmet &mdash; so a helmet barely protects.“
+<!--t src=102f7a52-->
+> "Most traffic fatalities were not wearing a helmet &mdash; so a helmet hardly protects."
 
 <!--t src=ae523f2a-->
 

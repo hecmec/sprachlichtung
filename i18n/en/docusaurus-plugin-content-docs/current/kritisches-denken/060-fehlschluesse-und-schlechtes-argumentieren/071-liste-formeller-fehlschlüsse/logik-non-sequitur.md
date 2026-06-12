@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -49,9 +49,8 @@ The fallacy has the following form:
 1. Premise P (and possibly others).
 2. Therefore conclusion K.
 
-<!--t src=409cb8fa-->
-
-… where K is not logically derivable from P. The truth of the premises is irrelevant here: even from true premises a non sequitur can „derive“ a (coincidentally) true or a false conclusion &mdash; in no case is the inference valid.
+<!--t src=3befa7b4-->
+…where C is not logically derivable from P. The truth of the premises is irrelevant here: even from true premises a non sequitur can "derive" a (coincidentally) true or a false conclusion &mdash; the inference is valid in no case.
 
 <!--t src=83ad83e3-->
 
@@ -64,12 +63,11 @@ Also known as: _non sequitur_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=743ddeae-->
-
+<!--t src=c9e5d5fb-->
 - **Affirming the consequent** &mdash; a special case of the non sequitur with the conditional.
 - **Denying the antecedent** &mdash; likewise a named special case.
-- **Argumentum ad Logicam** &mdash; a special form: „the argument is flawed“ does not entail „the claim is false“.
-- **Ignoratio elenchi (missing the point)** &mdash; the conclusion is indeed supported, but not the one that is actually at issue.
+- **Argumentum ad logicam** &mdash; a special form: from "the argument is flawed" it does not follow that "the claim is false".
+- **Ignoratio elenchi (missing the point)** &mdash; the conclusion is indeed justified, but not the one that is actually at issue.
 
 <!--t src=9dbba01b-->
 

@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _Not the word, the sentence structure is ambiguous._
 
 ## Definition
 
-<!--t src=b28a1c34-->
+<!--t src=72d347c5-->
+In the **fallacy of ambiguity** &mdash; when the ambiguity arises from **sentence structure**, one speaks of **amphiboly** &mdash; it is not a single word that is ambiguous, but the **grammatical structure** of a sentence that permits several readings. From the ambiguous wording, the _unintended_ (or convenient) meaning is read out.
 
-In the **ambiguity fallacy** &mdash; when the ambiguity arises through **sentence structure** one speaks of **amphiboly** &mdash; it is not a single word that is ambiguous, but the **grammatical structure** of a sentence that allows several readings. From the ambiguous formulation the _unintended_ (or convenient) meaning is read out.
-
-<!--t src=2c008f88-->
-
-The error: the statement supports a conclusion only under _one_ reading; the argument, however, uses _another_. While **equivocation** plays out at the word level, amphiboly plays out at the sentence level.
+<!--t src=94adc311-->
+The error: the statement supports an inference only under _one_ reading; the argument, however, uses _another_. While **equivocation** operates at the word level, amphiboly operates at the sentence level.
 
 <!--t src=3c24b250-->
 
@@ -59,10 +57,9 @@ Also known as: _amphiboly_ / _syntactic ambiguity_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=84143c67-->
-
+<!--t src=4a8503a5-->
 - **Equivocation** &mdash; the counterpart at the word level (one word, two meanings).
-- **Insinuation** &mdash; related, when the ambiguity is used deliberately to suggest something.
+- **Suggestive insinuation** &mdash; related, when the ambiguity is deliberately used to imply something.
 
 <!--t src=9dbba01b-->
 
@@ -79,9 +76,8 @@ Also known as: _amphiboly_ / _syntactic ambiguity_
 
 > „He hated his father when he was drinking.“
 
-<!--t src=6b47f9a8-->
-
-Who was drinking &mdash; the father or the son? The sentence structure allows both. On whichever reading suits, a whole (fallacious) argument can be built.
+<!--t src=b7ce51b5-->
+Who was drinking &mdash; the father or the son? The sentence structure allows both. A whole (fallacious) argument can be built on whichever reading suits.
 
 <!--t src=f350657d-->
 
@@ -90,13 +86,11 @@ Who was drinking &mdash; the father or the son? The sentence structure allows bo
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=34a680fd-->
+<!--t src=1506b0e1-->
+> "Volunteers needed to help torture survivors."
 
-> „Volunteers needed to help torture survivors.“
-
-<!--t src=68737838-->
-
-The structure allows the reading that one should help to „torture survivors“. The opposite is meant &mdash; the ambiguity arises from the sentence structure.
+<!--t src=7f33a11e-->
+The structure allows it to be read as helping to "torture survivors". The opposite is meant &mdash; the ambiguity arises from the sentence structure.
 
 <!--t src=69b1092f-->
 

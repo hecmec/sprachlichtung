@@ -13,29 +13,26 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=993b38cd-->
-
+<!--t src=7aaab201-->
 :::tip In brief
-A bold thesis is held, but on resistance retreated to a harmless one &mdash; and later advanced again.
+A bold thesis is advanced, but in the face of resistance withdrawn to a harmless one &mdash; and later put forward again.
 
-_Charge forward, retreat into the keep, charge forward again._
+_Charge forward, retreat into the tower, charge forward again._
 :::
 
 <!--t src=23594b0b-->
 
 ## Definition
 
-<!--t src=1c717b0b-->
+<!--t src=82cebdad-->
+The **motte-and-bailey** fallacy combines two theses of differing strength: a **contested, far-reaching** thesis (the "bailey") and a **modest, barely disputable** thesis (the "motte"). When the strong thesis is attacked, one retreats to the weak one ("that's all I really meant"); once the danger has passed, one advances the strong one again.
 
-The **motte-and-bailey fallacy** combines two theses of differing strength: a **contested, far-reaching** thesis (the „bailey“) and a **modest, hardly disputable** thesis (the „motte“). When the strong thesis is attacked, one retreats to the weak one („that's all I meant“); once the danger is past, one again holds the strong one.
-
-<!--t src=eed26078-->
-
-The name comes from a medieval form of castle: the inhabited but hard-to-defend courtyard (_bailey_) is, under attack, abandoned in favour of the easily held tower mound (_motte_).
+<!--t src=37537578-->
+The name comes from a medieval form of castle: the inhabited but hard-to-defend courtyard (the _bailey_) is, under attack, abandoned in favor of the easily held tower mound (the _motte_).
 
 <!--t src=0d671439-->
 
@@ -62,11 +59,10 @@ Also known as: _motte-and-bailey fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=b99dddd7-->
-
+<!--t src=5a939668-->
 - **Equivocation** &mdash; related: two meanings are equated; here two theses.
-- **Straw man** &mdash; in a sense the mirror image: there one distorts the _other's_ position, here one shifts _one's own_.
-- **Distinction without a difference** &mdash; a related game with shifts of meaning.
+- **Straw man** &mdash; in a sense the mirror image: there one distorts the _other's_ position, here one shifts one's _own_.
+- **Distinction without a difference** &mdash; a related game with shifting meanings.
 
 <!--t src=9dbba01b-->
 
@@ -79,11 +75,10 @@ Also known as: _motte-and-bailey fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=390e2fad-->
-
-> &mdash; „Everything is a social construct.“ (strong thesis)
-> &mdash; „Gravity too?“
-> &mdash; „Of course only our _concepts_ of things.“ (weak thesis)
+<!--t src=03c0fc40-->
+> &mdash; "Everything is a social construction." (strong thesis)
+> &mdash; "Gravity too?"
+> &mdash; "Of course, only our _concepts_ of things." (weak thesis)
 
 <!--t src=d396875b-->
 
@@ -96,11 +91,10 @@ As soon as the objection falls silent, the strong claim reappears. But only the 
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=90cf420f-->
-
-> &mdash; „This diet cures diseases.“ (bailey)
-> &mdash; „Which ones, with what evidence?“
-> &mdash; „Well, healthy eating is just good for the body.“ (motte)
+<!--t src=599b578e-->
+> &mdash; "This diet cures diseases." (bailey)
+> &mdash; "Which ones, with what evidence?"
+> &mdash; "Well, healthy eating is simply good for the body." (motte)
 
 <!--t src=848c62b8-->
 

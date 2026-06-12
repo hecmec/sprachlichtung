@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _Different words, the same thing._
 
 ## Definition
 
-<!--t src=a7a7c2da-->
-
-The **distinction without a difference** claims a difference between two things that differ only in **wording**, not in **substance**. The rewording is meant to invalidate a charge or rescue a position, although nothing changes in content.
+<!--t src=0f01de81-->
+The **distinction without a difference** asserts a difference between two things that differ only in **wording**, not in **substance**. The reformulation is meant to deflect a charge or rescue a position, even though nothing changes in content.
 
 <!--t src=cbfa83d3-->
 
@@ -58,11 +57,10 @@ Also known as: _distinction without a difference_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=6b0b799c-->
-
-- **No true Scotsman** &mdash; related: redefinition after the fact to rescue a claim.
-- **Equivocation** &mdash; related: playing with word meanings.
-- **Special pleading** &mdash; related, when the apparent difference is meant to ground an exception.
+<!--t src=225727ac-->
+- **No true Scotsman** &mdash; related: after-the-fact redefinition to rescue a claim.
+- **Equivocation** &mdash; related: a game with word meanings.
+- **Special pleading** &mdash; related, when the apparent difference is meant to justify an exception.
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +73,8 @@ Also known as: _distinction without a difference_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=64a4d014-->
-
-> „I'm not a racist &mdash; I just don't like certain groups of people.“
+<!--t src=2f8082a5-->
+> "I'm not a racist &mdash; I just don't like certain groups of people."
 
 <!--t src=3f8dc2fb-->
 

@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _Laying a false trail._
 
 ## Definition
 
-<!--t src=7c8e01b8-->
-
-The **red herring** (literally a smoked herring, a false trail) leads away from the actual question by introducing an **irrelevant but interesting side issue**. Attention is redirected instead of answering the question at issue.
+<!--t src=e211485b-->
+The **red herring** (literally a "smoked herring", a false trail) leads away from the actual question by introducing an **irrelevant but interesting side topic**. Attention is diverted instead of the contested question being answered.
 
 <!--t src=1ea542f1-->
 
@@ -59,11 +58,10 @@ Also known as: _red herring_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=ed4b8624-->
-
+<!--t src=5f4a71b0-->
 - **Straw man** &mdash; related: there the _opposing position_ is distorted, here attention is steered to a different _topic_.
-- **Tu quoque / whataboutism** &mdash; a special form of distraction through counter-accusations.
-- **Insinuation** &mdash; related: a side issue is merely hinted at.
+- **Tu quoque / whataboutism** &mdash; a special form of the red herring through counter-accusations.
+- **Suggestive insinuation** &mdash; related: a side issue is merely hinted at.
 
 <!--t src=9dbba01b-->
 
@@ -76,10 +74,9 @@ Also known as: _red herring_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=aa9cd45c-->
-
-> &mdash; „Why did you doctor the figures?“
-> &mdash; „You know, I built this company up from nothing and created hundreds of jobs.“
+<!--t src=09739789-->
+> &mdash; "Why did you fudge the figures?"
+> &mdash; "You know, I built this company from nothing and created hundreds of jobs."
 
 <!--t src=1d808a4a-->
 
@@ -92,10 +89,9 @@ The achievement of building it up is not the question. It distracts from the act
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=21a01e5d-->
-
-> &mdash; „Should we sort our waste better?“
-> &mdash; „As long as China emits so much CO2, it makes no difference anyway.“
+<!--t src=98175822-->
+> &mdash; "Should we separate our waste more carefully?"
+> &mdash; "As long as China emits so much CO2, it doesn't matter anyway."
 
 <!--t src=19e3c1d9-->
 
@@ -108,7 +104,7 @@ The reference to China does not answer the question about waste sorting but evad
 <!--t src=63102e9b-->
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
-<!--t src=6e93b45e-->
-
+<!--t src=e87d5491-->
+- [Wikipedia: Red herring (idiom)](<https://de.wikipedia.org/wiki/Red_herring_(Redewendung)>)
 - [Wikipedia: Red herring (fallacy)](https://en.wikipedia.org/wiki/Red_herring)
 - [Logically Fallacious: Red Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)

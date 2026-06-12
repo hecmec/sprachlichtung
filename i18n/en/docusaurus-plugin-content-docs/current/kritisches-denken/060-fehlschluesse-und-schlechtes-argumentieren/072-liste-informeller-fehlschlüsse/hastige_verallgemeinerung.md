@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _From the sample, prematurely to the whole._
 
 ## Definition
 
-<!--t src=9ce3770f-->
-
-In the **hasty generalisation**, from a **sample that is too small or unrepresentative** a **general rule** is inferred.
+<!--t src=0b20a639-->
+In the **hasty generalization**, a **general rule** is inferred from a **sample that is too small or not representative**.
 
 <!--t src=d00e5b49-->
 
@@ -57,10 +56,9 @@ Also known as: _hasty generalization_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=f3c58cbb-->
-
+<!--t src=a5835896-->
 - **Cherry picking** &mdash; related: the selection of cases is not representative.
-- **False analogy** &mdash; related: inadmissible transfer to other cases.
+- **Faulty analogy** &mdash; related: an inadmissible transfer to other cases.
 - **Accident** &mdash; the counterpart (_converse accident_): from the general rule to the special case.
 
 <!--t src=9dbba01b-->
@@ -74,9 +72,8 @@ Also known as: _hasty generalization_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=ee7bc2be-->
-
-> „Two tourists from that country were rude &mdash; the people there are just all rude.“
+<!--t src=1552819a-->
+> "Two tourists from this country were rude &mdash; the people from there are all just rude."
 
 <!--t src=1b30d81f-->
 
@@ -89,9 +86,8 @@ Two cases are no adequate basis for a judgement about millions of people. This i
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=a8d9bf75-->
-
-> „My grandfather smoked and lived to 95 &mdash; so smoking can't be harmful.“
+<!--t src=318b66fc-->
+> "My grandfather smoked and lived to 95 &mdash; so smoking can't be harmful."
 
 <!--t src=9876e1e9-->
 

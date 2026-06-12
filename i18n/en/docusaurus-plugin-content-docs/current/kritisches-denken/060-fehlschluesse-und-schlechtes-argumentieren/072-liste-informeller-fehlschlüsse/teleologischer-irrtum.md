@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _„What is this good for?“ is not always the right question._
 
 ## Definition
 
-<!--t src=91f8f977-->
-
-In the **teleological fallacy**, a purpose or intention is attributed to a process or thing, although there is no indication of it. „Something fulfils a function“ is wrongly turned into „something was made for this purpose“ or „things happen _so that_ …“.
+<!--t src=20780d5a-->
+In the **teleological fallacy**, a process or thing is attributed a **purpose or intention**, even though there is no indication of one. From "something fulfills a function", it is falsely made into "something was made for this purpose" or "things happen _so that_ …".
 
 <!--t src=95a14956-->
 
@@ -42,10 +41,9 @@ The error: functions and effects often arise without a planning purpose (e.g. th
 
 The fallacy has the following form:
 
-<!--t src=fcba9e90-->
-
-1. X fulfils the function / has the effect F.
-2. Therefore X exists _for the purpose_ of fulfilling F (someone/something intended it so).
+<!--t src=53aa8303-->
+1. X fulfills the function / has the effect F.
+2. Therefore X exists _for the purpose_ of fulfilling F (someone/something intended it that way).
 
 <!--t src=c235de2d-->
 
@@ -58,10 +56,9 @@ Also known as: _teleological fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=07eff761-->
-
+<!--t src=7ad8a374-->
 - **Naturalistic fallacy** &mdash; related: from a purpose of nature an ought is derived.
-- **God of the gaps argument** &mdash; related: a planning agency is invoked as the explanation.
+- **God of the gaps** &mdash; related: a planning authority is invoked as the explanation.
 - **Post hoc ergo propter hoc** &mdash; related: premature interpretation of connections.
 
 <!--t src=9dbba01b-->
@@ -75,9 +72,8 @@ Also known as: _teleological fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=5650a439-->
-
-> „The nose evidently sits there _so that_ we can wear glasses.“
+<!--t src=70257340-->
+> "The nose is evidently positioned there _so that_ we can wear glasses."
 
 <!--t src=975d0f1e-->
 
@@ -90,13 +86,11 @@ Glasses have only existed for a short time; the nose did not arise for wearing t
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=fc08050c-->
+<!--t src=fc5c28a3-->
+> "Everything happens for a reason &mdash; this catastrophe too had its purpose."
 
-> „Everything happens for a reason &mdash; this catastrophe too had its meaning.“
-
-<!--t src=68888f88-->
-
-That an event has consequences does not mean it occurred _for a purpose_. Meaning is read into it here, not established.
+<!--t src=c73ec3a9-->
+That an event has consequences does not mean that it occurred _for a purpose_. Meaning is read into it here, not established.
 
 <!--t src=69b1092f-->
 

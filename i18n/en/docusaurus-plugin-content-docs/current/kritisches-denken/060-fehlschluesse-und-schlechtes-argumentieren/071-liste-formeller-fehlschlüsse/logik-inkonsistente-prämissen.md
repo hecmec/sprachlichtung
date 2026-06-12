@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -35,9 +35,8 @@ _Whoever contradicts himself can prove anything._
 
 One speaks of **inconsistent premises** when the assumptions of an argument contradict one another, so that they cannot all be true at the same time.
 
-<!--t src=bac23aef-->
-
-The treacherous thing about it: from a contradiction _everything_ follows formally (Latin _ex falso quodlibet_ &mdash; „from the false, anything“). Such an argument can seemingly „prove“ any conclusion whatsoever &mdash; and for that very reason proves nothing. Since the premises cannot be jointly true, the argument is never sound, even if its inferential form is valid.
+<!--t src=91307901-->
+The insidious part: from a contradiction, formally _anything_ follows (Latin _ex falso quodlibet_ &mdash; "from a falsehood, anything"). Such an argument can seemingly "prove" any conclusion at all &mdash; and precisely for that reason proves nothing. Since the premises cannot all be true together, the argument is never sound, even if the inference form is valid.
 
 <!--t src=3c24b250-->
 
@@ -64,11 +63,10 @@ Also known as: _inconsistent premises_ / _contradictory premises_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=3dc50cfe-->
-
+<!--t src=7394c235-->
 - **Ex falso quodlibet** &mdash; the logical principle underlying the fallacy.
-- **Non sequitur** &mdash; related, in that the conclusion bears no substantive relation to the premises.
-- **Circular reasoning** &mdash; likewise a structural flaw in the premises, there by assuming what is to be proved.
+- **Non sequitur** &mdash; related insofar as the conclusion stands in no substantive relation to the premises.
+- **Circular reasoning** &mdash; likewise a structural defect of the premises, there by presupposing what is to be proven.
 
 <!--t src=9dbba01b-->
 
@@ -88,9 +86,8 @@ Also known as: _inconsistent premises_ / _contradictory premises_
 > 3. A penguin cannot fly.
 > 4. Therefore the Moon is made of cheese.
 
-<!--t src=974d63e9-->
-
-Premises 1&mdash;3 cannot all be true at once: from 1 and 2 it follows that a penguin can fly &mdash; contradicting 3. As soon as such a contradiction is in play, **any arbitrary** conclusion, however unrelated, can be formally „derived“. That is precisely what makes the argument worthless.
+<!--t src=ecf44ec7-->
+Premises 1&mdash;3 cannot all be true at once: from 1 and 2 it follows that a penguin can fly &mdash; in contradiction to 3. As soon as such a contradiction is in play, formally **any** conclusion at all, even a completely unconnected one, can be "derived". This is exactly what makes the argument worthless.
 
 <!--t src=f350657d-->
 
@@ -99,14 +96,12 @@ Premises 1&mdash;3 cannot all be true at once: from 1 and 2 it follows that a pe
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=0d392fd7-->
+<!--t src=406d07b0-->
+> &mdash; "I was home alone the whole evening, so I can't be the culprit."
+> &mdash; "You said yourself earlier that you were at the cinema with Tom the whole evening."
 
-> &mdash; „I was home alone all evening, so I cannot be the culprit.“
-> &mdash; „You yourself said earlier that you were at the cinema with Tom all evening.“
-
-<!--t src=b6893c5c-->
-
-Both statements cannot be true at the same time. A defence that rests on contradictory assumptions establishes nothing &mdash; from it one could just as well „prove“ that the person _is_ the culprit.
+<!--t src=39ebb16c-->
+Both statements cannot be true at once. A defense that rests on contradictory premises justifies nothing &mdash; from it one could equally "prove" that the person _is_ the culprit.
 
 <!--t src=69b1092f-->
 

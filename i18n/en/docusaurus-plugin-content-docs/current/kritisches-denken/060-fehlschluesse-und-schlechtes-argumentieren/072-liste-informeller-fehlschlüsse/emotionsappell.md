@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,13 +29,11 @@ _Feelings persuade, but prove nothing._
 
 ## Definition
 
-<!--t src=fed67b8f-->
+<!--t src=82c34394-->
+The **appeal to emotion** replaces substantive reasons with the deliberate arousal of **feelings** &mdash; fear, pity, pride, outrage, hope &mdash; in order to produce agreement.
 
-The **appeal to emotion** replaces substantive reasons with the deliberate arousal of **feelings** &mdash; fear, pity, pride, indignation, hope &mdash; in order to produce agreement.
-
-<!--t src=0a86c19b-->
-
-The error: feelings can influence what we _want_ to believe, but they are no evidence of what is _true_. A strong feeling does not make a claim correct. The appeal to emotion is the umbrella term for several named variants.
+<!--t src=6f334d02-->
+The error: feelings can influence what we _want_ to believe, but they are no evidence of what is _true_. A strong feeling does not make a claim correct. The appeal to emotion is the umbrella term for several named varieties.
 
 <!--t src=3c24b250-->
 
@@ -58,10 +56,9 @@ Also known as: _appeal to emotion_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=146d7b33-->
-
-- **Argumentum ad Misericordiam** &mdash; a variant: appeal to pity.
-- **Argumentum ad Baculum** &mdash; a variant: appeal to fear.
+<!--t src=bf3a9a44-->
+- **Argumentum ad misericordiam** &mdash; a variety: appeal to pity.
+- **Argumentum ad baculum** &mdash; a variety: appeal to fear.
 - **Wishful thinking** &mdash; related: the wish replaces the evidence.
 
 <!--t src=9dbba01b-->
@@ -90,8 +87,7 @@ The appeal to guilt and worry replaces the substantive examination of whether th
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=ed0def75-->
-
+<!--t src=2feadaf5-->
 > A commercial shows happy families to emotional music &mdash; without a single argument for the product.
 
 <!--t src=19861c8b-->

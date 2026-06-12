@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,13 +29,11 @@ _Picking out the raisins._
 
 ## Definition
 
-<!--t src=feefaf83-->
+<!--t src=7990a595-->
+In **cherry picking**, only the data, cases or quotations that **support one's own thesis** are deliberately picked out, while all contradicting evidence is kept silent.
 
-In **cherry picking**, only the data, cases or quotations that **support one's own thesis** are deliberately picked out, while all contradicting evidence is suppressed.
-
-<!--t src=04313ecd-->
-
-The error: a one-sidedly assembled picture can „prove“ almost any thesis. What matters is the _totality_ of the evidence, not a handpicked selection.
+<!--t src=7aa1ebdf-->
+The error: a one-sidedly assembled picture can "prove" almost any thesis. What counts is the _totality_ of the evidence, not a hand-picked selection.
 
 <!--t src=3c24b250-->
 
@@ -59,10 +57,9 @@ Also known as: _cherry picking_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=083a04cd-->
-
-- **Confirmation bias** &mdash; the cognitive root: we favour confirming information anyway.
-- **Hasty generalisation** &mdash; related: a conclusion from an unrepresentative selection.
+<!--t src=c1e27c4b-->
+- **Confirmation bias** &mdash; the cognitive root: we prefer confirming information anyway.
+- **Hasty generalization** &mdash; related: an inference from a non-representative selection.
 - **Texas sharpshooter** &mdash; related: picking out apparent patterns after the fact.
 
 <!--t src=9dbba01b-->
@@ -76,9 +73,8 @@ Also known as: _cherry picking_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=9bdfd967-->
-
-> „This diet works &mdash; just look at the three people who lost weight on it.“
+<!--t src=4b3de209-->
+> "This diet works &mdash; look at the three people who lost weight with it."
 
 <!--t src=2cc36dd7-->
 
@@ -106,6 +102,6 @@ The selection produces a distorted picture of the state of research.
 <!--t src=63102e9b-->
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
-<!--t src=2293b9af-->
-
+<!--t src=7dc63485-->
+- [Wikipedia: Cherry picking (fallacy)](https://en.wikipedia.org/wiki/Cherry_picking)
 - [Logically Fallacious: Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)

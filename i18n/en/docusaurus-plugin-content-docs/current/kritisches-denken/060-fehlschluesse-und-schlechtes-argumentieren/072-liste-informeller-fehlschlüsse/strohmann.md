@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _Knock down a straw man instead of the opponent._
 
 ## Definition
 
-<!--t src=78aa705b-->
-
-In the **straw man** argument, the other party's position is presented in a **distorted, exaggerated or simplified** form, and this easily attackable caricature is then refuted &mdash; as if the real position had been refuted.
+<!--t src=c811a5db-->
+In the **straw man** argument, the opponent's position is presented in a **distorted, exaggerated or simplified** way, and then this easily attackable caricature is refuted &mdash; as if one had refuted the real position.
 
 <!--t src=40c79811-->
 
@@ -59,10 +58,9 @@ Also known as: _straw man_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=b2279a07-->
-
-- **Red herring** &mdash; related: both evade the real matter.
-- **Motte-and-bailey fallacy** &mdash; a related game with shifted positions.
+<!--t src=748b18e6-->
+- **Red herring** &mdash; related: both dodge the real issue.
+- **Motte-and-bailey** &mdash; a related game with shifting positions.
 - **False dilemma** &mdash; related, when the opposing position is narrowed to an extreme variant.
 
 <!--t src=9dbba01b-->
@@ -76,14 +74,12 @@ Also known as: _straw man_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=c9a9697d-->
+<!--t src=ea96d2dc-->
+> &mdash; "We should take in refugees who are in distress."
+> &mdash; "So you want to bring all the world's misery to us and abolish the borders."
 
-> &mdash; „We should take in refugees who are in need.“
-> &mdash; „So you want to bring all the world's misery here and abolish the borders.“
-
-<!--t src=59fededf-->
-
-„Taking in people in need“ is turned into „abolishing all borders“ &mdash; an exaggeration that no one held that way.
+<!--t src=a7c7dbcd-->
+"Taking in people in distress" is turned into "abolishing all borders" &mdash; an exaggeration that no one actually held.
 
 <!--t src=f350657d-->
 
@@ -92,10 +88,9 @@ Also known as: _straw man_
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=eb0c0191-->
-
-> &mdash; „I think children shouldn't watch television all day.“
-> &mdash; „So you want to forbid children every joy.“
+<!--t src=b073588a-->
+> &mdash; "I think children shouldn't watch television all day."
+> &mdash; "So you want to forbid children every joy."
 
 <!--t src=7da146e9-->
 

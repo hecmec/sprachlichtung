@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -59,11 +59,10 @@ Also known as: _tu quoque_ / _appeal to hypocrisy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=69da7c8b-->
-
-- **Argumentum ad Hominem** &mdash; the umbrella term: attack on the person instead of the matter.
-- **Whataboutism** &mdash; closely related: distraction through counter-charges.
-- **Red herring** &mdash; the counter-charge leads away from the topic.
+<!--t src=221127de-->
+- **Argumentum ad hominem** &mdash; the umbrella term: attacking the person instead of the matter.
+- **Whataboutism** &mdash; closely related: diversion through counter-accusations.
+- **Red herring** &mdash; the counter-accusation leads away from the topic.
 
 <!--t src=9dbba01b-->
 
@@ -76,10 +75,9 @@ Also known as: _tu quoque_ / _appeal to hypocrisy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=b6d275b0-->
-
-> &mdash; „You should smoke less, it's unhealthy.“
-> &mdash; „But you drink wine every evening yourself!“
+<!--t src=4c639ee3-->
+> &mdash; "You should smoke less, it's unhealthy."
+> &mdash; "But you drink wine every evening yourself!"
 
 <!--t src=3366da1d-->
 
@@ -92,10 +90,9 @@ The reference to drinking changes nothing about the fact that smoking is unhealt
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=a72d88d8-->
-
-> &mdash; „This country violates human rights.“
-> &mdash; „And you? You have police violence too!“
+<!--t src=257c4709-->
+> &mdash; "This country violates human rights."
+> &mdash; "And what about you? You have police violence too!"
 
 <!--t src=0db0d622-->
 

@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _Good parts do not necessarily make a good whole._
 
 ## Definition
 
-<!--t src=6c702b63-->
+<!--t src=de9d9dce-->
+In the **fallacy of composition**, it is assumed that a property of the **parts** automatically applies to the **whole** they form as well.
 
-In the **fallacy of composition**, it is assumed that a property of the **parts** automatically holds for the **whole** that they form.
-
-<!--t src=b0e38e87-->
-
-The error: some properties carry over from the parts to the whole, but many do not &mdash; precisely where the **interaction** matters. The whole can have properties that no part possesses on its own (emergence).
+<!--t src=b96ddcd2-->
+The error: some properties carry over from the parts to the whole, but many do not &mdash; precisely where the **interplay** matters. The whole can have properties that no part possesses on its own (emergence).
 
 <!--t src=3c24b250-->
 
@@ -58,10 +56,9 @@ Also known as: _fallacy of composition_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=d3854ffc-->
-
+<!--t src=15e7fb01-->
 - **Fallacy of division** &mdash; the mirror image: from the whole to the parts.
-- **Hasty generalisation** &mdash; related: inadmissible transfer to another level.
+- **Hasty generalization** &mdash; related: an inadmissible transfer to a different level.
 - **Ecological fallacy** &mdash; related: inferring from group data to individual data and vice versa.
 
 <!--t src=9dbba01b-->
@@ -75,9 +72,8 @@ Also known as: _fallacy of composition_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=b1f7994c-->
-
-> „Every player on this team is outstanding &mdash; so it is an outstanding team.“
+<!--t src=6faf9aa6-->
+> "Every player on this team is excellent &mdash; so it is an excellent team."
 
 <!--t src=cd3f573b-->
 

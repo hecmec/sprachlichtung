@@ -14,14 +14,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=0f338bcb-->
-
+<!--t src=fb847be1-->
 :::tip In brief
-A term is defined with the help of itself &mdash; the definition explains nothing.
+A term is defined by means of itself &mdash; the definition explains nothing.
 
 _The same by the same._
 :::
@@ -30,9 +29,8 @@ _The same by the same._
 
 ## Definition
 
-<!--t src=1f846b1d-->
-
-The **circular definition** (Latin _idem per idem_ &mdash; „the same by the same“) explains a term by **using it (or a synonymous word) again** in the explanation. Whoever does not know the term is afterwards just as wise as before.
+<!--t src=5fa2df30-->
+The **circular definition** (Latin _idem per idem_ &mdash; "the same by the same") explains a term by **using it again** (or a synonymous word) in the explanation. Whoever does not know the term is afterward just as wise as before.
 
 <!--t src=f64071fe-->
 
@@ -59,8 +57,7 @@ Also known as: _circular definition_ / _idem per idem_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=26452434-->
-
+<!--t src=255bdd36-->
 - **Circular reasoning** &mdash; the umbrella term at the level of argumentation.
 - **Distinction without a difference** &mdash; related: words are rearranged without explaining anything.
 

@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _One cause, where many act together._
 
 ## Definition
 
-<!--t src=ff8b33c2-->
+<!--t src=e8b392f4-->
+In **single-cause thinking** (causal oversimplification), an effect that in truth depends on **several causes** is traced back to a **single** cause. The interplay of the factors is ignored.
 
-In **single-cause thinking** (causal oversimplification), an effect that in truth depends on **several causes** is traced back to a **single** cause. The interplay of factors is blanked out.
-
-<!--t src=4a322a58-->
-
-The error: many phenomena &mdash; social, medical, economic &mdash; arise from a web of causes. Whoever picks out only one oversimplifies inadmissibly and often draws the wrong conclusions.
+<!--t src=a34760c5-->
+The error: many phenomena &mdash; social, health-related, economic &mdash; arise from a web of causes. Whoever singles out only one oversimplifies inadmissibly and often draws the wrong conclusions.
 
 <!--t src=3c24b250-->
 
@@ -59,11 +57,10 @@ Also known as: _causal oversimplification_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=def5f4f4-->
-
-- **Post hoc ergo propter hoc** &mdash; related: premature attribution of cause.
-- **False dilemma** &mdash; related: artificial narrowing of the possibilities.
-- **Cherry picking** &mdash; related, when only the one fitting factor is emphasised.
+<!--t src=6ced2ceb-->
+- **Post hoc ergo propter hoc** &mdash; related: premature attribution of a cause.
+- **False dilemma** &mdash; related: an artificial narrowing of the possibilities.
+- **Cherry picking** &mdash; related, when only the one convenient factor is emphasized.
 
 <!--t src=9dbba01b-->
 

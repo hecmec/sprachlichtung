@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _„That little bit“ adds up._
 
 ## Definition
 
-<!--t src=4098305d-->
-
-In the **appeal to relative triviality**, a problem, contribution or harm is dismissed because it is **small in itself** &mdash; whether compared to „something worse“ (_relative privation_) or because the individual case barely counts.
+<!--t src=89b99e8f-->
+In the **fallacy of relative privation**, a problem, contribution or harm is dismissed because it is **small in itself** &mdash; whether in comparison to "something worse" (relative privation) or because the individual case hardly carries any weight.
 
 <!--t src=ee4c3451-->
 
@@ -48,9 +47,8 @@ The fallacy has the following form:
 2. Therefore X is insignificant / not a problem.
 3. (Often:) There are worse things anyway.
 
-<!--t src=f6785c5c-->
-
-Also known as: _appeal to relative triviality_ / _minimization_ (special form: _relative privation_ &mdash; „there are worse things“)
+<!--t src=0d1c6606-->
+EN: _appeal to relative triviality_ / _minimization_ (special form: _relative privation_ &mdash; "there are worse things")
 
 <!--t src=2851dcb3-->
 
@@ -59,11 +57,10 @@ Also known as: _appeal to relative triviality_ / _minimization_ (special form: _
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=7e30c692-->
-
-- **Slippery slope** &mdash; the opposite direction: there a small step is dramatised beyond measure.
+<!--t src=4ba4b139-->
+- **Slippery slope** &mdash; the opposite direction: there a small step is dramatized beyond all measure.
 - **Sorites paradox** &mdash; related: the question of when many small things start to count.
-- **Red herring** &mdash; related, when „there are worse things“ steers away from the topic.
+- **Red herring** &mdash; related, when "there are worse things" steers away from the topic.
 
 <!--t src=9dbba01b-->
 
@@ -80,9 +77,8 @@ Also known as: _appeal to relative triviality_ / _minimization_ (special form: _
 
 > „One little glass won't hurt.“
 
-<!--t src=150fd778-->
-
-On its own a glass may be little &mdash; drunk regularly it adds up. The triviality of the single case conceals the effect of the habit.
+<!--t src=d6c5c9a0-->
+A single glass may be little in itself &mdash; drunk regularly it adds up. The triviality of the individual case conceals the effect of the habit.
 
 <!--t src=f350657d-->
 

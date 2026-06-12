@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,13 +29,11 @@ _Similar is not the same._
 
 ## Definition
 
-<!--t src=e16222f9-->
+<!--t src=9d7ff9df-->
+In the **false analogy**, from the similarity of two things in **one** feature it is inferred that they also agree in **another, decisive** feature &mdash; even though it is precisely on this point that **relevant differences** exist.
 
-In the **false analogy**, from the similarity of two things in **one** feature it is inferred that they also agree in **another, decisive** feature &mdash; although precisely on this point **relevant differences** exist.
-
-<!--t src=1900a1da-->
-
-The error: analogies can illuminate, but they prove nothing if the compared cases differ precisely on the point at issue. What matters is whether the similarity is _relevant_ to the conclusion drawn.
+<!--t src=78eed21b-->
+The error: analogies can illuminate, but they prove nothing if the compared cases differ precisely on the point in question. What counts is whether the similarity is _relevant_ to the conclusion drawn.
 
 <!--t src=3c24b250-->
 
@@ -62,10 +60,9 @@ Also known as: _false analogy_ / _weak analogy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=c5547e06-->
-
-- **Hasty generalisation** &mdash; related: inadmissible transfer to another case.
-- **Abuse of a principle** &mdash; related, when a rule is transferred to a non-comparable case.
+<!--t src=78fccfe2-->
+- **Hasty generalization** &mdash; related: an inadmissible transfer to another case.
+- **Misuse of a principle** &mdash; related, when a rule is transferred to a non-comparable case.
 
 <!--t src=9dbba01b-->
 
@@ -93,9 +90,8 @@ State and family resemble each other in some respects, but differ precisely on t
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=9ea7b788-->
-
-> „The body sometimes needs an incision when ill &mdash; so society needs harsh cuts when it has problems.“
+<!--t src=a4c8995b-->
+> "The body sometimes needs an incision when ill &mdash; so society needs harsh cuts when there are problems."
 
 <!--t src=a67b987f-->
 

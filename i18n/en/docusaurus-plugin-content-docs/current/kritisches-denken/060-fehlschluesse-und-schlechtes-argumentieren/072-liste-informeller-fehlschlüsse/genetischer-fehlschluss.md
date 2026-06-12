@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _Where something comes from says nothing about whether it is true._
 
 ## Definition
 
-<!--t src=8d349260-->
-
-The **genetic fallacy** judges a claim, idea or thing by its **origin** &mdash; who invented it, where it comes from, how it arose &mdash; instead of by its actual content.
+<!--t src=cc3676bd-->
+The **genetic fallacy** evaluates a claim, idea or thing on the basis of its **origin** &mdash; who invented it, where it comes from, how it came about &mdash; instead of on the basis of its actual content.
 
 <!--t src=64cedc28-->
 
@@ -58,11 +57,10 @@ Also known as: _genetic fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=48695509-->
-
-- **Argumentum ad Hominem** &mdash; a special form: the source is a person.
+<!--t src=281ab338-->
+- **Argumentum ad hominem** &mdash; a special form: the source is a person.
 - **Poisoning the well** &mdash; a special form: a discrediting attribution of origin made in advance.
-- **Argumentum ad Antiquitatem** &mdash; the positive variant: origin in tradition taken as a supposed merit.
+- **Argumentum ad antiquitatem** &mdash; the positive variant: origin in tradition as a supposed merit.
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +73,8 @@ Also known as: _genetic fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=63a61dd6-->
-
-> „The motorway network was expanded under the National Socialists &mdash; how can you think motorways are a good thing?“
+<!--t src=35438a6c-->
+> "The motorway network was expanded under the National Socialists &mdash; how can you think motorways are good?"
 
 <!--t src=2a9784b6-->
 
@@ -90,9 +87,8 @@ The historical origin does not decide the present-day usefulness or uselessness 
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=55222eab-->
-
-> „This idea came to him in a dream &mdash; so it cannot be taken seriously.“
+<!--t src=3967783e-->
+> "This idea came to him in a dream &mdash; so it can't be taken seriously."
 
 <!--t src=9e92c644-->
 

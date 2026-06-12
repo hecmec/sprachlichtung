@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _The proof goes round in a circle._
 
 ## Definition
 
-<!--t src=339cc41d-->
-
-In **circular reasoning** (Latin _petitio principii_, English _begging the question_), a claim is justified with statements that **already presuppose** what is to be proven. The conclusion is already contained &mdash; openly or covertly &mdash; in the premises.
+<!--t src=46b9819d-->
+In **circular reasoning** (Latin _petitio principii_, English _begging the question_), a claim is justified with statements that **already presuppose** what is to be proven. The conclusion is &mdash; openly or covertly &mdash; already contained in the premises.
 
 <!--t src=3b24518c-->
 
@@ -47,9 +46,8 @@ The fallacy has the following form:
 1. Premise: A (already presupposes B).
 2. Therefore B.
 
-<!--t src=284fbb83-->
-
-… where only someone who already believes A &mdash; and thus B &mdash; accepts B.
+<!--t src=dde4a37d-->
+…where B is accepted only by someone who already believes A &mdash; and thereby B.
 
 <!--t src=97333634-->
 
@@ -62,10 +60,9 @@ Also known as: _begging the question_ / _petitio principii_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=5b85a3df-->
-
+<!--t src=c2531c42-->
 - **Circular definition (idem per idem)** &mdash; a special form at the level of definition.
-- **Complex question** &mdash; related: an unproven assumption is lodged in the question.
+- **Complex question** &mdash; related: an unproven assumption is hidden in the question.
 - **No true Scotsman** &mdash; related: the terms are chosen so that the thesis must remain true.
 
 <!--t src=9dbba01b-->

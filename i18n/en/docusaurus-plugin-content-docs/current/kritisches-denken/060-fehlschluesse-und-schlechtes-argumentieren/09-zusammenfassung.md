@@ -14,16 +14,15 @@ keywords:
 last_update:
   date: 2026-01-16
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=b26de4dc-->
 <!-- ## Summary -->
 
-<!--t src=632ae6ac-->
-
-In this chapter we have looked at fallacies &mdash; flawed patterns of argumentation that may seem convincing at first glance but, on closer inspection, reveal logical flaws.
+<!--t src=ee914c28-->
+In this chapter we have dealt with fallacies &mdash; flawed patterns of argument that can seem convincing at first glance but, on closer inspection, reveal logical defects.
 
 <!--t src=c639ae50-->
 
@@ -65,11 +64,11 @@ Understanding fallacies is an essential part of critical thinking. It helps us t
 
 ## Sources
 
-<!--t src=81ec4177-->
-
-- [Wikipedia EN : Fallacy](https://en.wikipedia.org/wiki/Fallacy)
+<!--t src=eefd4ab5-->
+- [Wikipedia DE : Fehlschluss](https://de.wikipedia.org/wiki/Fehlschluss)
 - [The Internet Encyclopedia of Philosophy : Fallacy](https://iep.utm.edu/fallacy/)
-- [Wikipedia EN : List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+- [Wikipedia EN : Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+- [Introduction to Logic and Critical Thinking](https://justinfer.com/media/books/Van%20Cleave%20-%20Introduction%20to%20Critical%20Thinking%20v%202.0.pdf)
 - [School of Thought - Your Logical Fallacies](https://yourlogicalfallacyis.com/)
 - [Logical Fallacy](https://www.logical-fallacy.com/list-of-logical-fallacies/)
 - [YouTube Video](https://www.youtube.com/watch?v=pCg-SNOteQQ)

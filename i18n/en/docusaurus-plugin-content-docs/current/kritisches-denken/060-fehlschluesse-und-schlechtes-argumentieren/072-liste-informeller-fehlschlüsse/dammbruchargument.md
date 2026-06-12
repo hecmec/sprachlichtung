@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,8 +29,7 @@ _One step, and everything slides._
 
 ## Definition
 
-<!--t src=959803e7-->
-
+<!--t src=37eb8418-->
 In the **slippery slope** argument, it is claimed that a comparatively harmless first step leads **inevitably** to a chain of ever worse consequences &mdash; without this inevitability being justified.
 
 <!--t src=c2473427-->
@@ -58,11 +57,10 @@ Also known as: _slippery slope_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=53574f78-->
-
-- **Argumentum ad Baculum** &mdash; related: agreement through stoked fear of consequences.
-- **Appeal to relative triviality** &mdash; the opposite direction: there a step is played down.
-- **False dilemma** &mdash; related, when only „allow everything“ or „allow nothing“ appears.
+<!--t src=8cd52d09-->
+- **Argumentum ad baculum** &mdash; related: agreement through stoked fear of consequences.
+- **Fallacy of relative privation** &mdash; the opposite direction: there a step is played down.
+- **False dilemma** &mdash; related, when only "allow everything" or "allow nothing" appears.
 
 <!--t src=9dbba01b-->
 

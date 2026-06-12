@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _Where knowledge ends, the assertion begins._
 
 ## Definition
 
-<!--t src=344e6dc9-->
-
-The **god of the gaps** argument fills an **explanatory gap** in current knowledge with a supernatural cause: because something is not (yet) explained, an intervention by God (or some other ultimate authority) is assumed as the explanation.
+<!--t src=101b84dd-->
+The **god of the gaps** argument fills an **explanatory gap** in current knowledge with a supernatural cause: because something has not (yet) been explained, an intervention by God (or another ultimate authority) is assumed as the explanation.
 
 <!--t src=712db7b1-->
 
@@ -58,11 +57,10 @@ Also known as: _god of the gaps_ / _divine fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=2a24ab90-->
-
-- **Personal incredulity** &mdash; the root: „I can't explain it to myself“ is turned into a conclusion.
-- **Argumentum ad Ignorantiam** &mdash; the umbrella term: from not-knowing a particular thesis is inferred.
-- **False dilemma** &mdash; related: pretending there is only „explained“ or „supernatural“.
+<!--t src=5e21ef17-->
+- **Personal incredulity** &mdash; the root: from "I can't explain it" an inference is drawn.
+- **Argumentum ad ignorantiam** &mdash; the umbrella term: from lack of knowledge a particular thesis is inferred.
+- **False dilemma** &mdash; related: acting as if there were only "explained" or "supernatural".
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +73,8 @@ Also known as: _god of the gaps_ / _divine fallacy_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=e55b4d9a-->
-
-> „Science cannot explain exactly how life arose &mdash; so God must have created it.“
+<!--t src=d9191074-->
+> "Science cannot explain exactly how life arose &mdash; so God must have created it."
 
 <!--t src=5c90f8be-->
 
@@ -90,9 +87,8 @@ An open research question is no evidence for a particular answer. The gap is fil
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=f8fd93a1-->
-
-> „No one knows why the natural constants have exactly these values &mdash; that can only be by design.“
+<!--t src=d04e3266-->
+> "No one knows why the constants of nature have exactly these values &mdash; that can only be by design."
 
 <!--t src=2972d08a-->
 

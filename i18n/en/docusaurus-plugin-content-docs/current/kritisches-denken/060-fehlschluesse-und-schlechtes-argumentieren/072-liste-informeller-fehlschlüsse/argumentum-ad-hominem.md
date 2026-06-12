@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _Hit the messenger, not the message._
 
 ## Definition
 
-<!--t src=302a12a1-->
-
-In the **Argumentum ad Hominem** („argument against the person“), the attack is directed not against the _claim_ but against the _person_ who makes it. The person's characteristics, origin, character or circumstances are meant to invalidate the claim.
+<!--t src=6c395607-->
+In the **argumentum ad hominem** ("argument against the person"), the attack is not directed against the _claim_, but against the _person_ who makes it. Traits, origin, character or circumstances of the person are meant to invalidate the claim.
 
 <!--t src=01158549-->
 
@@ -48,9 +47,8 @@ The fallacy has the following form:
 2. Person A has the (negative) characteristic E.
 3. Therefore B is false.
 
-<!--t src=e21e5209-->
-
-To be distinguished from this is the _legitimate_ criticism of the credibility of a witness &mdash; there it is not about the truth of the statement, but about its reliability as a source.
+<!--t src=8cf70470-->
+To be distinguished from this is the _legitimate_ criticism of a witness's credibility &mdash; there it is not about the truth of the statement, but about its reliability as a source.
 
 <!--t src=9981028e-->
 
@@ -63,11 +61,10 @@ Also known as: _ad hominem_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=dce4012f-->
-
-- **Tu quoque** &mdash; a special form: the charge of hypocrisy instead of an answer on the merits.
+<!--t src=35d15852-->
+- **Tu quoque** &mdash; a special form: the charge of hypocrisy instead of a substantive answer.
 - **Poisoning the well** &mdash; a special form: the person is discredited _in advance_.
-- **Genetic fallacy** &mdash; related: judging by origin rather than content.
+- **Genetic fallacy** &mdash; related: evaluation by origin rather than content.
 
 <!--t src=9dbba01b-->
 
@@ -80,10 +77,9 @@ Also known as: _ad hominem_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=2526f38c-->
-
-> &mdash; „The climate scientist has presented her measurement data.“
-> &mdash; „Oh, she's a bigoted activist &mdash; you don't need to take that seriously.“
+<!--t src=9d660838-->
+> &mdash; "The climate scientist has presented her measurement data."
+> &mdash; "Oh, she's a stubborn activist &mdash; you don't have to take that seriously."
 
 <!--t src=dcc8e597-->
 

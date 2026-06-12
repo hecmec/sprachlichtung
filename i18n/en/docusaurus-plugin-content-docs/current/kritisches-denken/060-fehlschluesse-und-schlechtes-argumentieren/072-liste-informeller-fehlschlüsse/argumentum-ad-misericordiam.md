@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _Pity proves nothing._
 
 In the **Argumentum ad Misericordiam** (appeal to pity), instead of substantive reasons the **compassion** of the other party is addressed in order to push through a claim or demand.
 
-<!--t src=4205c9d6-->
-
-The error: pity is an understandable feeling, but no evidence. Whether a claim is true or a demand justified does not depend on how sorry we feel for the person concerned. (Compassion can be morally _relevant_ &mdash; it becomes a fallacy when it replaces a _substantive_ piece of evidence.)
+<!--t src=c9db2b1f-->
+The error: pity is an understandable feeling, but no evidence. Whether a claim is true or a demand justified does not depend on how much we feel sorry for the person concerned. (Compassion can be morally _relevant_ &mdash; it becomes a fallacy when it replaces a _substantive_ proof.)
 
 <!--t src=3c24b250-->
 
@@ -58,10 +57,9 @@ Also known as: _appeal to pity_ / _argumentum ad misericordiam_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=925afec3-->
-
-- **Appeal to emotion** &mdash; the umbrella term: here compassion is addressed.
-- **Argumentum ad Baculum** &mdash; the counterpart, through fear instead of pity.
+<!--t src=3c6b9c3e-->
+- **Appeal to emotion** &mdash; the umbrella term: here it is compassion that is addressed.
+- **Argumentum ad baculum** &mdash; the counterpart via fear instead of pity.
 
 <!--t src=9dbba01b-->
 
@@ -74,9 +72,8 @@ Also known as: _appeal to pity_ / _argumentum ad misericordiam_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=cedc19a0-->
-
-> „Professor, you have to give me a better grade &mdash; I studied all night and urgently need the scholarship.“
+<!--t src=073d5fb0-->
+> "Professor, you have to give me a better grade &mdash; I studied all night and urgently need the scholarship."
 
 <!--t src=49cd0535-->
 

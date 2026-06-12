@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _„All“ does not yet say that any exist._
 
 ## Definition
 
-<!--t src=9d44defd-->
+<!--t src=ef148407-->
+The **existential fallacy** draws from two **universal** premises ("all …", "no …") a **particular** conclusion ("some …", "there is …") that asserts the **existence** of objects.
 
-The **existential fallacy** draws, from two **universal** premises („all …“, „no …“), a **particular** conclusion („some …“, „there is …“) that asserts the **existence** of objects.
-
-<!--t src=80aabfff-->
-
-In modern (Boolean) logic, universal statements carry **no existential assumption**: „All $S$ are $P$“ only means „there is no $S$ that is not $P$“ &mdash; and is true even if there are no $S$ at all. From such premises one may therefore not conclude that there is any $S$ at all.
+<!--t src=2c93fdb9-->
+In modern (Boolean) logic, universal statements carry **no existential assumption**: "All $S$ are $P$" only means "there is no $S$ that is not $P$" &mdash; and is true even when there are no $S$ at all. From such premises one may therefore not conclude that there is any $S$ at all.
 
 <!--t src=3c24b250-->
 
@@ -63,10 +61,9 @@ Also known as: _existential fallacy_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=a89301a7-->
-
-- **Inconsistent premises** &mdash; related, in that here too a hidden (here: existential) assumption is in play.
-- **Complex question** &mdash; substantively related: there too an unspoken presupposition (an existence) is slipped in.
+<!--t src=4d3ff42e-->
+- **Inconsistent premises** &mdash; related insofar as here too a hidden (here: existential) assumption is in play.
+- **Complex question** &mdash; related in content: there too an unspoken presupposition (an existence) is slipped in.
 
 <!--t src=9dbba01b-->
 
@@ -102,8 +99,7 @@ The premises can be true without a single unicorn existing. The conclusion, howe
 > 2. All who pay Moon tax are registered.
 > 3. Therefore there are registered Moon-tax payers.
 
-<!--t src=0e514a9d-->
-
+<!--t src=2fa001b8-->
 As long as no one lives on the Moon, the premises are vacuously true &mdash; and the existence claim of the conclusion is unfounded.
 
 <!--t src=69b1092f-->

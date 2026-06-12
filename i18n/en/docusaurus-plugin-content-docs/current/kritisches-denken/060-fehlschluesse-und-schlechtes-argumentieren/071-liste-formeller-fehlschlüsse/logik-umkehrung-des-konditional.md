@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _The converse of a true conditional need not be true._
 
 The **converse error** treats the statement „If A, then B“ as if it were equivalent to its converse „If B, then A“. In fact the two statements are not logically equivalent.
 
-<!--t src=4a5d302f-->
-
-The error confuses a _sufficient_ condition with a _necessary_ one: that A suffices for B does not mean that A is required for B. Logically equivalent to „If A, then B“ is only the contrapositive „If not B, then not A“ &mdash; not the converse.
+<!--t src=015a34dc-->
+The error confuses a _sufficient_ condition with a _necessary_ one: that A suffices for B does not mean that A is required for B. Logically equivalent to "If A, then B" is only the contrapositive "If not B, then not A" &mdash; not the converse.
 
 <!--t src=3c24b250-->
 
@@ -62,10 +61,9 @@ Also known as: _converse error_ / _illicit conversion_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=aca86fb2-->
-
+<!--t src=60a28aa8-->
 - **Affirming the consequent** &mdash; the applied form of the same confusion.
-- **Denying the antecedent** &mdash; related: here too necessary and sufficient conditions are swapped.
+- **Denying the antecedent** &mdash; related: here too necessary and sufficient conditions are interchanged.
 - **Non sequitur** &mdash; the umbrella term.
 
 <!--t src=9dbba01b-->
@@ -110,7 +108,6 @@ Getting up early may be common among the successful, but it is no guarantee of s
 <!--t src=63102e9b-->
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
-<!--t src=16363356-->
-
+<!--t src=13927604-->
 - [Wikipedia: Converse (logic)](<https://en.wikipedia.org/wiki/Converse_(logic)>)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)

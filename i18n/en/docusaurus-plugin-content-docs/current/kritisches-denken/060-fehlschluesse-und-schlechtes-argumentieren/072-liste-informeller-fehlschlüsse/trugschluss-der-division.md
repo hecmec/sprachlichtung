@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,9 +30,8 @@ _A good whole does not have only good parts._
 
 ## Definition
 
-<!--t src=a6af2f94-->
-
-In the **fallacy of division**, it is assumed that a property of the **whole** automatically holds for each of its **parts** as well. It is the mirror image of the **fallacy of composition**.
+<!--t src=4892b6d5-->
+In the **fallacy of division**, it is assumed that a property of the **whole** automatically applies to each of its **parts** as well. It is the mirror image of the **fallacy of composition**.
 
 <!--t src=2bba955b-->
 
@@ -58,8 +57,7 @@ Also known as: _fallacy of division_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=46fdbb08-->
-
+<!--t src=f8e01111-->
 - **Fallacy of composition** &mdash; the mirror image: from the parts to the whole.
 - **Ecological fallacy** &mdash; related: inferring from a group value to the individual.
 
@@ -74,9 +72,8 @@ Also known as: _fallacy of division_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=29641363-->
-
-> „This team is the best in the league &mdash; so each of its players is the best in his position.“
+<!--t src=7a5511c7-->
+> "This team is the best in the league &mdash; so each of its players is the best in their position."
 
 <!--t src=9f396408-->
 
@@ -93,9 +90,8 @@ A top team can also have average individual players who are strong as a team. Th
 
 > „Water extinguishes fire. Water consists of hydrogen and oxygen. So hydrogen and oxygen extinguish fire.“
 
-<!--t src=aefb4526-->
-
-Oxygen promotes combustion, hydrogen is even itself flammable &mdash; the two elements precisely do not extinguish fire. The property of the compound does not belong to its constituents.
+<!--t src=f9064e88-->
+Oxygen promotes combustion, hydrogen is even flammable itself &mdash; the two elements precisely do not extinguish fire. The property of the compound does not belong to its components.
 
 <!--t src=69b1092f-->
 

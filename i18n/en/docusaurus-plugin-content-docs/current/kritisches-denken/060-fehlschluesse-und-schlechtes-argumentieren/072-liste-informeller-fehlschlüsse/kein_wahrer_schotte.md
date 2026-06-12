@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _„No real …“ rescues any claim._
 
 ## Definition
 
-<!--t src=5b2dad89-->
-
-In the **no true Scotsman** fallacy, a general claim is defended against a counterexample by **narrowing the definition after the fact**: the counterexample supposedly doesn't count, because it is not a „true“ representative of the group.
+<!--t src=576574ba-->
+In the **"no true Scotsman"** fallacy, a general claim is defended against a counterexample by **narrowing the definition after the fact**: the counterexample supposedly does not count, because it is no "true" representative of the group.
 
 <!--t src=5011c21a-->
 
@@ -41,11 +40,10 @@ The error: instead of giving up the refuted claim, the word „true/real“ is i
 
 The fallacy has the following form:
 
-<!--t src=7978c39e-->
-
-1. Claim: „All A do (not) do X.“
-2. Counterexample: „Here is an A that does X.“
-3. Reply: „No _true_ A does X.“
+<!--t src=8e4e8cee-->
+1. Claim: "All A do (not) do X."
+2. Counterexample: "Here is an A that does X."
+3. Response: "No _true_ A does X."
 
 <!--t src=6919a16b-->
 
@@ -58,10 +56,9 @@ Also known as: _no true Scotsman_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=57144a89-->
-
+<!--t src=bd34a6eb-->
 - **Special pleading** &mdash; related: an arbitrary special rule to rescue one's own position.
-- **Distinction without a difference** &mdash; related: the added redefinition names no genuine difference.
+- **Distinction without a difference** &mdash; related: the after-the-fact redefinition names no real difference.
 - **Circular reasoning** &mdash; related, since the definition is chosen so that the claim _must_ remain true.
 
 <!--t src=9dbba01b-->
@@ -75,11 +72,10 @@ Also known as: _no true Scotsman_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=111f85cf-->
-
-> &mdash; „No Scotsman puts sugar in his porridge.“
-> &mdash; „My uncle Hamish is a Scotsman and does exactly that.“
-> &mdash; „Well, no _true_ Scotsman does that.“
+<!--t src=50f3e660-->
+> &mdash; "No Scotsman puts sugar in his porridge."
+> &mdash; "My uncle Hamish is a Scotsman and does exactly that."
+> &mdash; "Well, no _true_ Scotsman does that."
 
 <!--t src=9c921190-->
 
@@ -92,11 +88,10 @@ The counterexample is not refuted but simply defined out of the group by the ins
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=376379f5-->
-
-> &mdash; „A devout person would never do such a thing.“
-> &mdash; „This person is devout and did it.“
-> &mdash; „Then they weren't really devout.“
+<!--t src=4100b35b-->
+> &mdash; "A devout person would never do such a thing."
+> &mdash; "This person is devout and did it."
+> &mdash; "Then they simply weren't really devout."
 
 <!--t src=8177331b-->
 

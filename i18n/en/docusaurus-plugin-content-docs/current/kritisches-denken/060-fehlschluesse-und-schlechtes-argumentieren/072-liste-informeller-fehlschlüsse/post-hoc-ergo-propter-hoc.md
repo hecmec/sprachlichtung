@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _After it does not mean because of it._
 
 In **post hoc ergo propter hoc** (Latin „after this, therefore because of this“), from the mere **temporal succession** of two events a **causal** connection is inferred: because B happened after A, A is supposed to be the cause of B.
 
-<!--t src=28b7997a-->
-
-The error: succession is not causation. B may follow by chance, a third cause may bring about both, or the connection may be the other way round. The closely related variant **cum hoc ergo propter hoc** correspondingly infers cause from mere _simultaneity_ (correlation).
+<!--t src=bceff997-->
+The error: succession is not causation. B can follow by chance, a third cause can bring about both, or the relationship is the other way around. The closely related variant **cum hoc ergo propter hoc** correspondingly infers a cause from mere _simultaneity_ (correlation).
 
 <!--t src=3c24b250-->
 
@@ -58,10 +57,9 @@ Also known as: _post hoc ergo propter hoc_ / _false cause_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=18bd8815-->
-
+<!--t src=7f1b8e9c-->
 - **Cum hoc ergo propter hoc** &mdash; the sister variant: simultaneity instead of succession.
-- **Single-cause thinking** &mdash; related: premature commitment to one cause.
+- **Single-cause thinking** &mdash; related: a premature commitment to one cause.
 - **Teleological fallacy** &mdash; related: reading connections into things.
 
 <!--t src=9dbba01b-->
@@ -75,9 +73,8 @@ Also known as: _post hoc ergo propter hoc_ / _false cause_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=68060115-->
-
-> „After the new government took office, crime rose &mdash; so the government is to blame.“
+<!--t src=a593c10b-->
+> "After the new government took office, crime rose &mdash; so the government is to blame."
 
 <!--t src=9eb937be-->
 
@@ -90,9 +87,8 @@ The temporal succession is no evidence of a cause. The rise can have quite diffe
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=b5c4269c-->
-
-> „I had this lucky charm with me and then passed the exam &mdash; so it works.“
+<!--t src=0e211c54-->
+> "I had this lucky charm with me and then passed the exam &mdash; so it works."
 
 <!--t src=0ea9fa11-->
 

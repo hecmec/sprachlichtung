@@ -13,16 +13,15 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=07e74d31-->
 <!-- ## Introduction -->
 
-<!--t src=928286c9-->
-
-Fallacies are flawed patterns of argumentation that may seem convincing at first glance but, on closer inspection, reveal logical flaws. They are like traps on the path to critical thinking &mdash; easy to overlook, but dangerous to the quality of our reasoning.
+<!--t src=7141be85-->
+Fallacies are flawed patterns of argument that can seem convincing at first glance but, on closer inspection, reveal logical defects. They are like traps on the path to critical thinking &mdash; easy to overlook, but dangerous to the quality of our reasoning.
 
 <!--t src=fb3ba8d8-->
 

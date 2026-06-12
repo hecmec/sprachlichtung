@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,9 +29,8 @@ _Poison the well before anyone drinks._
 
 ## Definition
 
-<!--t src=b21a5325-->
-
-**Poisoning the well** is a preventive form of the **Argumentum ad Hominem**: even before a person puts forward an argument, they are tarred with negative (often irrelevant) information, so that the audience rejects them from the outset.
+<!--t src=01817d7c-->
+**Poisoning the well** is a preemptive form of the **argumentum ad hominem**: before a person even puts forward an argument, they are saddled with negative (often irrelevant) information, so that the audience rejects them from the outset.
 
 <!--t src=1a06de36-->
 
@@ -58,11 +57,10 @@ Also known as: _poisoning the well_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=14b98eff-->
-
-- **Argumentum ad Hominem** &mdash; the umbrella term; poisoning the well is the _preventive_ variant.
-- **Insinuation** &mdash; related: a suspicion is floated without evidence.
-- **Genetic fallacy** &mdash; judging by source rather than by content.
+<!--t src=57f7643e-->
+- **Argumentum ad hominem** &mdash; the umbrella term; poisoning the well is the _preemptive_ variant.
+- **Suggestive insinuation** &mdash; related: a suspicion is floated without evidence.
+- **Genetic fallacy** &mdash; evaluation by source rather than by content.
 
 <!--t src=9dbba01b-->
 
@@ -75,9 +73,8 @@ Also known as: _poisoning the well_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=c7c2fa6d-->
-
-> „Before my fellow speaker takes the floor in a moment, you should know that he is paid by the industry &mdash; judge for yourself.“
+<!--t src=4aebd79d-->
+> "Before the previous speaker takes the floor, you should know that he is paid by the industry &mdash; judge for yourselves."
 
 <!--t src=905194f3-->
 
@@ -105,7 +102,7 @@ Whoever agrees with the proposal afterwards automatically counts as heartless. T
 <!--t src=63102e9b-->
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
-<!--t src=b1cc55ac-->
-
+<!--t src=17c28c35-->
+- [Wikipedia: Brunnenvergiftung (Rhetorik)](<https://de.wikipedia.org/wiki/Brunnenvergiftung_(Rhetorik)>)
 - [Wikipedia: Poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well)
 - [Logically Fallacious: Poisoning the Well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)

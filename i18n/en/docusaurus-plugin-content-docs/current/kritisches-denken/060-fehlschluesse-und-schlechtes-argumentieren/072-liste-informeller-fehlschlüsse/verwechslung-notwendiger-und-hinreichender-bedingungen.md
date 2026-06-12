@@ -14,16 +14,15 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=5473f68f-->
-
+<!--t src=aad51173-->
 :::tip In brief
-A necessary condition is taken for a sufficient one &mdash; or vice versa.
+A necessary condition is taken to be a sufficient one &mdash; or vice versa.
 
-_Necessary does not mean enough._
+_Necessary does not mean sufficient._
 :::
 
 <!--t src=23594b0b-->
@@ -34,14 +33,12 @@ _Necessary does not mean enough._
 
 In this fallacy, **necessary** and **sufficient** conditions are confused.
 
-<!--t src=f7789df8-->
+<!--t src=6444abcc-->
+- A **necessary** condition must be met _for_ something to be _able_ to occur (without it, it cannot).
+- A **sufficient** condition suffices on its own _for_ something to occur (with it, always).
 
-- A **necessary** condition must be met _for_ something to _be able_ to occur (without it, not).
-- A **sufficient** condition is enough on its own _for_ something to occur (with it, always).
-
-<!--t src=eee83bf5-->
-
-The error: „A is necessary for B“ is wrongly turned into „A is enough for B“ (or vice versa). The two are different: oxygen is _necessary_ for fire, but not _sufficient_ &mdash; otherwise everything would be burning.
+<!--t src=f65857bb-->
+The error: from "A is necessary for B", it is falsely made into "A suffices for B" (or vice versa). The two are different: oxygen is _necessary_ for fire, but not _sufficient_ &mdash; otherwise everything would be on fire.
 
 <!--t src=3c24b250-->
 
@@ -68,11 +65,10 @@ Also known as: _confusing necessary and sufficient conditions_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=bd7cd6f4-->
-
+<!--t src=985c2c91-->
 - **Affirming the consequent** &mdash; the formal counterpart in propositional logic.
-- **Converse error** &mdash; related: „If A, then B“ is treated like „If B, then A“.
-- **Single-cause thinking** &mdash; related, when a necessary factor is taken for the whole cause.
+- **Converse error** &mdash; related: "If A, then B" is treated like "If B, then A".
+- **Single-cause thinking** &mdash; related, when a necessary factor is taken to be the whole cause.
 
 <!--t src=9dbba01b-->
 
@@ -85,13 +81,11 @@ Also known as: _confusing necessary and sufficient conditions_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=624baa58-->
+<!--t src=a2afe920-->
+> "Whoever passes the exam has studied. You have studied &mdash; so you will pass."
 
-> „Whoever passes the exam has studied. You have studied &mdash; so you'll pass.“
-
-<!--t src=e26c35f1-->
-
-Studying is (perhaps) _necessary_, but not _sufficient_. One can study and still fail.
+<!--t src=58875fad-->
+Studying is (perhaps) _necessary_, but not _sufficient_. You can study and still fail.
 
 <!--t src=f350657d-->
 
@@ -100,9 +94,8 @@ Studying is (perhaps) _necessary_, but not _sufficient_. One can study and still
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=665cdf21-->
-
-> „Money is necessary to be happy. I have money &mdash; so I am happy.“
+<!--t src=f36c4180-->
+> "Money is necessary to be happy. I have money &mdash; so I am happy."
 
 <!--t src=98f8746d-->
 

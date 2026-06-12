@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -58,10 +58,9 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=0b8ced83-->
-
-- **Argumentum ad Antiquitatem** &mdash; the counterpart: „old, hence proven“.
-- **Argumentum ad Populum** &mdash; related, when the new is at the same time regarded as the fashionable.
+<!--t src=4b1994b1-->
+- **Argumentum ad antiquitatem** &mdash; the counterpart: "old, therefore tried and tested".
+- **Argumentum ad populum** &mdash; related, when the new is at the same time taken to be the trendy thing.
 
 <!--t src=9dbba01b-->
 
@@ -78,9 +77,8 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 
 > „This is the latest model, so it is the best choice.“
 
-<!--t src=7b01170d-->
-
-Whether it is the best choice depends on its properties and suitability &mdash; not on its release date.
+<!--t src=9a6b2db5-->
+Whether it is the best choice depends on properties and suitability &mdash; not on the release date.
 
 <!--t src=f350657d-->
 

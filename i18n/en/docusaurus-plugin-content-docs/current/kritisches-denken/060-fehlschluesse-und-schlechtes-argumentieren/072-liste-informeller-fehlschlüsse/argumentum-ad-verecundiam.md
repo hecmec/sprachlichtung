@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _A big name is no proof._
 
 ## Definition
 
-<!--t src=d81fbf2a-->
+<!--t src=aaf84e47-->
+In the **argumentum ad verecundiam** (appeal to authority), a claim is held to be true solely because an **authority** asserts it &mdash; often an authority that is _not competent_ or _not reliable_ for the topic.
 
-In the **Argumentum ad Verecundiam** (appeal to authority), a claim is held to be true solely because an **authority** utters it &mdash; often an authority that is _not competent_ or _not reliable_ for the topic.
-
-<!--t src=7630fa4f-->
-
-Important: relying on relevant experts is _not_ a fallacy but reasonable. It becomes a fallacy when (a) the authority is outside their field, (b) there is no consensus within the field, or (c) bare authority is meant to _replace a substantive argument_.
+<!--t src=4d7da35e-->
+Important: relying on relevant experts is _not_ a fallacy, but reasonable. It becomes a fallacy when (a) the authority is outside their field, (b) there is no consensus within the field, or (c) the mere authority is supposed to _replace a substantive argument_.
 
 <!--t src=3c24b250-->
 
@@ -59,11 +57,10 @@ Also known as: _appeal to authority_ / _argumentum ad verecundiam_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=0ff77e0c-->
-
-- **Argumentum ad Populum** &mdash; related: the crowd instead of a single authority.
-- **Genetic fallacy** &mdash; related: judging by source rather than by content.
-- **Argumentum ad Antiquitatem** &mdash; related: the „authority“ of tradition.
+<!--t src=1654d481-->
+- **Argumentum ad populum** &mdash; related: the crowd instead of a single authority.
+- **Genetic fallacy** &mdash; related: evaluation by source rather than by content.
+- **Argumentum ad antiquitatem** &mdash; related: the "authority" of tradition.
 
 <!--t src=9dbba01b-->
 
@@ -76,9 +73,8 @@ Also known as: _appeal to authority_ / _argumentum ad verecundiam_
 <!--t src=5422e642-->
 <!-- description of example one -->
 
-<!--t src=9077bc33-->
-
-> „A famous actor recommends this dietary supplement &mdash; so it must be good.“
+<!--t src=feaf0008-->
+> "A well-known actor recommends this dietary supplement &mdash; so it must be good."
 
 <!--t src=dcec14cc-->
 

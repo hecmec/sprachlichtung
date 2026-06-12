@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _„Not both“ leaves open that neither holds._
 
 **Denying a conjunct** infers, from the negation of a conjunction („not both A and B“) and the falsity of one member, the truth of the other.
 
-<!--t src=c1519886-->
-
-The error lies in the fact that „not (A and B)“ only rules out that _both hold at once_. It leaves open that _neither_ of the two holds. From „not A“, therefore, „B“ does not follow.
+<!--t src=e61e7545-->
+The error lies in the fact that "not (A and B)" only rules out that _both at once_ are the case. It leaves open that _neither_ of the two is the case. From "not A", therefore, "B" does not follow.
 
 <!--t src=3c24b250-->
 
@@ -59,10 +58,9 @@ Also known as: _denying a conjunct_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=50b06d1b-->
-
+<!--t src=189328b4-->
 - **Affirming a disjunct** &mdash; the counterpart at the level of disjunction.
-- **False dilemma** &mdash; related: here too it is tacitly assumed that at least one option must hold.
+- **False dilemma** &mdash; related: here too it is tacitly assumed that at least one option must be the case.
 - **Non sequitur** &mdash; the umbrella term.
 
 <!--t src=9dbba01b-->
@@ -93,9 +91,8 @@ Paul could also be neither rich nor happy. That both do not hold at once says no
 <!--t src=c7d6981c-->
 <!-- description of example two -->
 
-<!--t src=9eadcba2-->
-
-> „She cannot be in Berlin and in Munich at the same time. She is not in Berlin &mdash; so she is in Munich.“
+<!--t src=5639e958-->
+> "She cannot be in Berlin and Munich at the same time. She is not in Berlin &mdash; so she is in Munich."
 
 <!--t src=15ee003a-->
 

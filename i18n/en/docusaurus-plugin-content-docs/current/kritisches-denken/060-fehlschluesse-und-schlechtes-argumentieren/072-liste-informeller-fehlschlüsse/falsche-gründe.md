@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,13 +30,11 @@ _The right thing for the wrong reasons._
 
 ## Definition
 
-<!--t src=7ae7c979-->
+<!--t src=0df6743e-->
+In the fallacy of **false reasons** (irrelevant justification), a claim is supported with reasons that are **untrue or irrelevant to the matter**. The conclusion may be correct &mdash; but not _because of_ the reasons given.
 
-In the fallacy of **bad reasons** (irrelevant justification), a claim is supported by reasons that are **untrue or irrelevant to the matter**. The conclusion may be correct &mdash; but not _because_ of the reasons given.
-
-<!--t src=1ae72f48-->
-
-The error: a correct conclusion is not well justified by citing _just any_ reasons. A bad argument remains bad, even if the result is right.
+<!--t src=1f5dc062-->
+The error: a correct conclusion is not well justified merely by naming _some_ reasons. A bad argument remains bad, even if the result is correct.
 
 <!--t src=3c24b250-->
 
@@ -59,11 +57,10 @@ Also known as: _irrelevant reason_ / _bad reasons_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=8b4918a8-->
-
+<!--t src=025aec18-->
 - **Non sequitur** &mdash; related: the conclusion does not follow from the premises.
-- **Argumentum ad Logicam** &mdash; the counterpart: there one infers from _bad_ reasons to _falsity_.
-- **Cherry picking** &mdash; related, when only seemingly supportive reasons are selected.
+- **Argumentum ad logicam** &mdash; the counterpart: there, from _bad_ reasons, _falsehood_ is inferred.
+- **Cherry picking** &mdash; related, when only seemingly supporting reasons are selected.
 
 <!--t src=9dbba01b-->
 
@@ -80,9 +77,8 @@ Also known as: _irrelevant reason_ / _bad reasons_
 
 > „You shouldn't smoke, because cigarettes are radioactive.“
 
-<!--t src=9fcde039-->
-
-That one shouldn't smoke is true &mdash; but the reason given (radioactivity) is not the real one and does not carry the judgement. It is a bad reason for a correct conclusion.
+<!--t src=bf0c7977-->
+That one should not smoke is true &mdash; but the reason given (radioactivity) is not the actual one and does not carry the judgment. It is a false reason for a correct conclusion.
 
 <!--t src=f350657d-->
 

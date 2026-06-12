@@ -13,14 +13,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=26c6341b-->
-
+<!--t src=27c00534-->
 :::tip In brief
-Only two possibilities are offered for choice, although there are more.
+Only two possibilities are offered as a choice, although there are more.
 
 _Either&mdash;or, where a third would be possible._
 :::
@@ -29,13 +28,11 @@ _Either&mdash;or, where a third would be possible._
 
 ## Definition
 
-<!--t src=efd609d6-->
+<!--t src=e7104cab-->
+In the **false dilemma**, only **two options** are presented and portrayed as exhaustive, even though in reality **further possibilities** (or intermediate positions) exist. If one rejects the one option, one is supposed to necessarily accept the other.
 
-In the **false dilemma**, only **two options** are presented and portrayed as exhaustive, although in reality **further possibilities** (or intermediate stages) exist. If one rejects the one option, one is supposed necessarily to accept the other.
-
-<!--t src=eaa69fc2-->
-
-The error: the choice is artificially narrowed. Whoever accepts the „either&mdash;or“ overlooks the third option that has been blanked out.
+<!--t src=ceeeeef6-->
+The error: the selection is artificially narrowed. Whoever accepts the "either&mdash;or" overlooks the third option that has been hidden.
 
 <!--t src=3c24b250-->
 
@@ -58,11 +55,10 @@ Also known as: _false dilemma_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=e9bd6ddf-->
-
+<!--t src=393ab157-->
 - **False dichotomy** &mdash; nearly synonymous: the either-or division itself.
 - **Straw man** &mdash; related, when the opposing position is narrowed to an extreme option.
-- **Single-cause thinking** &mdash; related: artificial narrowing of possible causes.
+- **Single-cause thinking** &mdash; related: an artificial narrowing of possible causes.
 
 <!--t src=9dbba01b-->
 
@@ -79,9 +75,8 @@ Also known as: _false dilemma_
 
 > „Either you are for us or you are against us.“
 
-<!--t src=c016a1b0-->
-
-In between lie many attitudes &mdash; partial agreement, neutrality, nuanced criticism. The choice is reduced to two extremes.
+<!--t src=be954e2d-->
+In between lie many positions &mdash; partial agreement, neutrality, nuanced criticism. The choice is reduced to two extremes.
 
 <!--t src=f350657d-->
 

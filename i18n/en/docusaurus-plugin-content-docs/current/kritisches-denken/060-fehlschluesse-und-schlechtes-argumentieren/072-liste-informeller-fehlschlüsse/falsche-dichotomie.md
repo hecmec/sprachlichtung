@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -34,9 +34,8 @@ _Only black or white, no grey._
 
 The **false dichotomy** (black-and-white thinking) divides a range of possibilities into **two mutually exclusive and supposedly exhaustive classes**, although reality knows a **continuum** or several gradations.
 
-<!--t src=0513cfe8-->
-
-It is the conceptual basis of the **false dilemma**: while the dilemma uses the two-way split _in the argument_ to force a choice, the dichotomy designates the inadmissible _two-way split itself_.
+<!--t src=2f111e98-->
+It is the conceptual basis of the **false dilemma**: while the dilemma uses the division into two _in the argument_ to force a choice, the dichotomy refers to the inadmissible _division into two itself_.
 
 <!--t src=25fad658-->
 
@@ -62,9 +61,8 @@ Also known as: _false dichotomy_ / _black-and-white thinking_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=7a164ae3-->
-
-- **False dilemma** &mdash; the argumentative application of the two-way split.
+<!--t src=a8e22e6a-->
+- **False dilemma** &mdash; the argumentative application of the division into two.
 - **Sorites paradox** &mdash; the counterpart: there the _vagueness_ of the boundary is overstretched.
 - **Distinction without a difference** &mdash; a related game with categories.
 

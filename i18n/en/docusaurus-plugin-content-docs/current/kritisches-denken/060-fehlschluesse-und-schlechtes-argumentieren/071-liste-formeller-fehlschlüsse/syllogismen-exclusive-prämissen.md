@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -31,13 +31,11 @@ _Two separations make no connection._
 
 ## Definition
 
-<!--t src=bc34ac49-->
+<!--t src=0acc5bdc-->
+One **rule of the categorical syllogism** is: from **two negative premises** nothing follows. If a conclusion is drawn anyway, the fallacy of "exclusive premises" is present.
 
-A **rule of the categorical syllogism** states: from **two negative premises** nothing follows. If a conclusion is nevertheless drawn, the fallacy of „exclusive premises“ is present.
-
-<!--t src=5081d1dd-->
-
-The reason: each negative premise only says that the middle term is _separated_ from an end term. If **both** premises are negative, the middle term is separated from both end terms &mdash; it can then build no bridge between them. Everything about the relation of the end terms to one another remains open.
+<!--t src=049c5209-->
+The reason: each negative premise only says that the middle term is _separated_ from one of the end terms. If **both** premises are negative, the middle term is separated from both end terms &mdash; it can then build no bridge between them. About the relationship of the end terms to each other, everything remains open.
 
 <!--t src=3c24b250-->
 
@@ -64,11 +62,10 @@ Also known as: _exclusive premises_ / _fallacy of exclusive premises_
 <!--t src=4d08b756-->
 <!-- list similar fallacies -->
 
-<!--t src=00ce85ce-->
-
-- **Affirmative conclusion from a negative premise** &mdash; a related violation of the syllogism's quality rules.
-- **Negative conclusion from affirmative premises** &mdash; the counterpart on the affirmative side.
-- **Undistributed middle** &mdash; likewise a case in which the middle term fails to connect the end terms.
+<!--t src=22d0f1ba-->
+- **Illicit negative (affirmative conclusion from a negative premise)** &mdash; a related violation of the quality rules of the syllogism.
+- **Illicit affirmative (negative conclusion from affirmative premises)** &mdash; the counterpart on the affirmative side.
+- **Undistributed middle** &mdash; likewise a case in which the middle term does not connect the end terms.
 
 <!--t src=9dbba01b-->
 
@@ -87,9 +84,8 @@ Also known as: _exclusive premises_ / _fallacy of exclusive premises_
 > 2. Some pets are not mammals.
 > 3. Therefore some pets are reptiles.
 
-<!--t src=bd7ad292-->
-
-Both premises are negative. They only say what is _not_ connected; about the relation of pets and reptiles they say nothing. The conclusion is not supported.
+<!--t src=c995e783-->
+Both premises are negative. They only say what is _not_ connected; about the relationship between pets and reptiles they say nothing. The conclusion is not warranted.
 
 <!--t src=f350657d-->
 
