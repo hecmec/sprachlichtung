@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=14c42033-->
@@ -65,11 +65,10 @@ Syntactic ambiguity arises from the structure of a sentence, which can be interp
 
 **Examples:**
 
-<!--t src=837f7bdf-->
-
-- "I saw the man with the binoculars." (Who had the binoculars &mdash; me or the man?)
+<!--t src=51863b8e-->
+- "I saw the man with the binoculars." (Who had the binoculars &mdash; I or the man?)
 - "Flying planes can be dangerous." (Are flying planes dangerous, or can planes be dangerous when they fly?)
-- "She spoke about politics with passion." (Was the politics passionate, or was the way she spoke passionate?)
+- "She spoke about politics with passion." (Was the politics passionate, or was the manner of speaking passionate?)
 
 <!--t src=39987c2c-->
 
@@ -95,11 +94,10 @@ Referential ambiguity occurs when it is unclear what a pronoun or other referent
 
 **Examples:**
 
-<!--t src=152b6b5d-->
-
-- "Paul spoke with Peter about his problem." (Whose problem &mdash; Paul's or Peter's?)
-- "After the mother hit her daughter, she apologized." (Who apologized?)
-- "The teachers discussed the students because they were dissatisfied." (Who was dissatisfied?)
+<!--t src=198b7f4a-->
+- "Paul talked with Peter about his problem." (Whose problem &mdash; Paul's or Peter's?)
+- "After the mother had hit her daughter, she apologized." (Who apologized?)
+- "The teachers argued with the students because they were dissatisfied." (Who was dissatisfied?)
 
 <!--t src=7b825cac-->
 
