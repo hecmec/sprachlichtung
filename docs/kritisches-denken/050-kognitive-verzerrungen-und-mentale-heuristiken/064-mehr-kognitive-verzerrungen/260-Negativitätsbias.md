@@ -17,7 +17,7 @@ last_update:
   author: Immanuel Lupinus
 
 completeness: 3/5
-draft: true
+draft: false
 ---
 
 :::tip Kurz

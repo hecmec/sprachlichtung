@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: verlustaversion
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -75,14 +75,14 @@ Excessive premiums for device insurance and warranties, in order to avoid small,
 <!--t src=1d3b416d-->
 ### Contract Cancellations and Trial Periods
 
-<!--t src=a830e386-->
-"Don't lose what you have": trial subscriptions are kept, expensive contracts not cancelled — purely out of fear of loss.
+<!--t src=ed945ccc-->
+"Don't lose what you have": trial subscriptions are kept, expensive contracts not cancelled &mdash; purely out of fear of loss.
 
 <!--t src=e8c4d9b8-->
 ### Medicine and Risk Disclosure
 
-<!--t src=45b5a022-->
-"90% survival rate" feels different from "10% mortality" — identical numbers, different decisions.
+<!--t src=d477281d-->
+"90% survival rate" feels different from "10% mortality" &mdash; identical numbers, different decisions.
 
 <!--t src=90cb0b3f-->
 ## Effects
@@ -107,9 +107,9 @@ Excessive premiums for device insurance and warranties, in order to avoid small,
 <!--t src=69b1092f-->
 ## Sources
 
-<!--t src=a32eaafb-->
+<!--t src=d9a4b014-->
 - Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk.
 - Thaler, R. (1980). Toward a positive theory of consumer choice.
 - [Wikipedia: Loss aversion](https://en.wikipedia.org/wiki/Loss_aversion)
-Loss aversion
-The tendency to weight losses more heavily than gains.
+  Loss aversion
+  The tendency to weight losses more heavily than gains.

@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: eigengruppenbevorzugung
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,11 +30,11 @@ We favor "us" over "the others."
 <!--t src=23594b0b-->
 ## Definition
 
-<!--t src=981c3e14-->
-**Ingroup favoritism** is the tendency to **systematically favor** members of one's own group ("ingroup") over members of another group ("outgroup") — in evaluations, decisions, trust, and the allocation of resources.
+<!--t src=b3dc5308-->
+**In-group favoritism** is the tendency to **systematically favor** members of one's own group ("in-group") over members of another ("out-group") &mdash; in evaluations, decisions, trust and the allocation of resources.
 
-<!--t src=2247ec2a-->
-Belonging alone — often already with **minimal groups** (random assignment) — is enough to produce noticeable favoritism.
+<!--t src=9c086824-->
+Membership alone &mdash; often already with **minimal groups** (random assignment) &mdash; is enough to produce noticeable favoritism.
 
 <!--t src=2247793b-->
 DE: _Eigengruppenbevorzugung (Ingroup-Bias)_
@@ -83,8 +83,8 @@ Arguments from one's own political camp are evaluated more generously; the same 
 <!--t src=08bb5565-->
 ### The Minimal Group Paradigm (Tajfel)
 
-<!--t src=e576e9bb-->
-Even random assignments (e.g. a preference for painting A vs. B) lead people to **preferentially** reward their own group members — without any real history or conflict.
+<!--t src=cd3e0dd5-->
+Even random groupings (e.g. a preference for painting A vs. B) lead people to **reward their own group members preferentially** &mdash; without any real history or conflict.
 
 <!--t src=90cb0b3f-->
 ## Effects

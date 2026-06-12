@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: selbstwertdienliche-verzerrung
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -64,8 +64,8 @@ Good grade: "I worked hard and I'm smart." Bad grade: "The questions were unfair
 <!--t src=881513c3-->
 ### Team Performance
 
-<!--t src=be3a11f4-->
-Won: "My strategy was decisive." Lost: "The weather, the circumstances, the opponents — everything against us."
+<!--t src=97fbc398-->
+Won: "My strategy was decisive." Lost: "The weather, the circumstances, the opponents &mdash; everything against us."
 
 <!--t src=da6815ac-->
 ### Corporate Goals
@@ -101,9 +101,9 @@ Compliments are taken seriously, criticism is dismissed as "oversensitive" or "a
 <!--t src=69b1092f-->
 ## Sources
 
-<!--t src=4953319b-->
+<!--t src=5311453d-->
 - [Wikipedia: Self-serving bias](https://en.wikipedia.org/wiki/Self-serving_bias)
 - Miller, D. T., & Ross, M. (1975). Self-serving biases in the attribution of causality.
 - Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias? A meta-analytic review of self-serving attribution.
-Self-serving bias
-The biases that serve to maintain a positive, consistent self-image.
+  Self-serving bias
+  The biases that serve to maintain a positive, consistent self-image.

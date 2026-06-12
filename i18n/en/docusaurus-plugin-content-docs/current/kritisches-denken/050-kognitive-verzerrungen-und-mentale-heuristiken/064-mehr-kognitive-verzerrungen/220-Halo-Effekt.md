@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: halo-effekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -35,8 +35,8 @@ The **halo effect** is a cognitive bias in which a single, especially striking o
 <!--t src=b970af20-->
 DE: _Halo-Effekt_
 
-<!--t src=75ef33f1-->
-Note: The counterpart is the **horn effect** — a negative feature colors the rest of the judgment.
+<!--t src=a0588574-->
+Note: The counterpart is the **horn effect** &mdash; a negative trait colors the rest of the judgment.
 
 <!--t src=5d2df519-->
 ## Related Biases
@@ -59,8 +59,8 @@ The halo effect is connected to several other biases and is influenced by them:
 <!--t src=6cf7aded-->
 ### Job Application and Performance Evaluation
 
-<!--t src=57bf69a3-->
-An applicant with a very charismatic presence or an impressive position on their CV is judged more competent overall — even with weak work samples. The one feature (charisma/prestige) outshines actual suitability.
+<!--t src=6094b6b8-->
+An applicant with a very charismatic presence or an impressive entry on their résumé is judged to be more competent overall &mdash; even with weak work samples. The one trait (charisma/prestige) outshines the actual suitability.
 
 <!--t src=ade3508f-->
 ### School and Grades
@@ -71,8 +71,8 @@ Students who seem especially motivated or popular tend to receive better evaluat
 <!--t src=9e155534-->
 ### Brand and Product Perception
 
-<!--t src=161195f3-->
-Elegant design, a high price, or a prominent test verdict lead consumers to overrate other properties (reliability, durability, safety) — independent of hard data.
+<!--t src=893b4ece-->
+Elegant design, a high price or a prominent test rating lead consumers to overrate other properties (reliability, durability, safety) &mdash; regardless of hard data.
 
 <!--t src=90cb0b3f-->
 ## Effects

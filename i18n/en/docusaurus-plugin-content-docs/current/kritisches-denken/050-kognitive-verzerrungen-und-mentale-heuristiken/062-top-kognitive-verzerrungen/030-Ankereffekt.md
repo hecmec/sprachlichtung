@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: ankereffekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -60,8 +60,8 @@ The price mentioned first (list price, "offer") sets a reference point. Even if 
 <!--t src=33e88356-->
 ### Court Verdicts
 
-<!--t src=80608595-->
-Studies show: if the prosecution demands a high sentence, verdicts turn out higher on average — the demanded value serves as an anchor, even when the judges consider it excessive.
+<!--t src=47d82bb9-->
+Studies show: if the prosecution demands a high sentence, verdicts turn out higher on average &mdash; the demanded value serves as an anchor, even when judges consider it excessive.
 
 <!--t src=bd6e5c6b-->
 ### Estimation Questions with Arbitrary Numbers

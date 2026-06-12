@@ -15,7 +15,7 @@ last_update:
 completeness: 3/5
 draft: false
 id: herdentrieb
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -36,9 +36,9 @@ _A trend is not evidence._
 <!--t src=51271acd-->
 It arises through two main mechanisms:
 
-<!--t src=fc94fc85-->
-- **Informational social influence:** Others might know more — so one follows their example.
-- **Normative social influence:** Belonging and approval are important — deviation is avoided.
+<!--t src=6866ef1d-->
+- **Informational social influence:** Others might know more &mdash; so one follows their example.
+- **Normative social influence:** Belonging and approval are important &mdash; deviation is avoided.
 
 <!--t src=d7aa76af-->
 DE: _Herdentrieb / Herdenverhalten_ (related to the _bandwagon effect_)
@@ -49,11 +49,11 @@ DE: _Herdentrieb / Herdenverhalten_ (related to the _bandwagon effect_)
 <!--t src=24bb616a-->
 Herd behavior is closely connected to various other biases and social dynamics:
 
-<!--t src=c47631bd-->
+<!--t src=36c91200-->
 - **Bandwagon effect:** Something becomes more attractive the more people already do or support it.
-- **Asch conformity effect:** People adjust their judgments to the (apparent) majority, even against their own perception.
-- **Social proof:** We interpret popularity as a sign of correctness or quality.
-- **Groupthink:** Consensus becomes more important than critical examination — dissenting voices fall silent.
+- **Asch conformity effect:** People align their judgments with the (apparent) majority, even against their own perception.
+- **Social proof:** We interpret popularity as a cue to correctness or quality.
+- **Groupthink:** Consensus becomes more important than critical examination &mdash; dissenting voices fall silent.
 - **Status quo bias:** Established group norms are maintained, changes are avoided.
 - **Authority bias:** Agreement rises when the group is led by authorities.
 - **Availability heuristic:** Visible majorities and strong signals seem more representative than they are.
@@ -64,8 +64,8 @@ Herd behavior is closely connected to various other biases and social dynamics:
 <!--t src=27fc40ae-->
 ### Financial Markets: Bubbles and Crashes
 
-<!--t src=0abc525a-->
-Investors buy because "everyone is buying" (the price rises), and sell in a panic because "everyone is selling." Information cascades lead to overvaluations — until the correction.
+<!--t src=e842a768-->
+Investors buy because "everyone is buying" (the price rises), and sell in panic because "everyone is selling". Information cascades lead to overvaluations &mdash; until the correction.
 
 <!--t src=d393acae-->
 ### Panic Buying and Trends
@@ -76,14 +76,14 @@ Empty shelves (toilet paper, fuel) or viral social-media challenges spread becau
 <!--t src=fafa7eba-->
 ### Product Reviews and Queues
 
-<!--t src=af17a1ed-->
-Many stars, many reviews, long queues: popularity is confused with quality — alternatives are ignored.
+<!--t src=28d7dab3-->
+Many stars, many reviews, long queues: popularity is confused with quality &mdash; alternatives are ignored.
 
 <!--t src=b7cb385e-->
 ### Meetings and Votes
 
-<!--t src=a98ba430-->
-When the first contributions go in one direction (or leaders go first), the group tips over — dissenting opinions are held back.
+<!--t src=b6d2e34a-->
+When the first contributions go in one direction (or leaders set the tone), the group tips over &mdash; dissenting opinions are held back.
 
 <!--t src=37aee894-->
 ### Fashion and Culture

@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: barnum-effekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,8 +29,8 @@ _Aries and Taurus are especially creative today._
 <!--t src=23594b0b-->
 ## Definition
 
-<!--t src=d732564b-->
-The **Barnum effect** (also: **Forer effect**) describes the tendency to perceive **general, ambiguous** statements about personality as **individually accurate** — especially when they are formulated **positively** or flatteringly.
+<!--t src=ba984176-->
+The **Barnum effect** (also: **Forer effect**) describes the tendency to perceive **general, ambiguous** statements about personality as **individually accurate** &mdash; especially when they are phrased **positively** or flatteringly.
 
 <!--t src=91704986-->
 DE: _Barnum-Effekt / Forer-Effekt_
@@ -48,12 +48,12 @@ DE: _Barnum-Effekt / Forer-Effekt_
 <!--t src=9dbba01b-->
 ## Examples
 
-<!--t src=93265137-->
-- **Horoscopes:** "You are sometimes sociable, but you also need to withdraw."
-- **Online personality tests:** Trivial questions, a highly precise-sounding result.
+<!--t src=615210af-->
+- **Horoscopes:** "You are sometimes sociable, but also need to withdraw."
+- **Online personality tests:** Trivial questions, a result that sounds highly precise.
 - **Recruiting/coaching reports:** Impressively worded, but not verifiably specific.
-- **Advertising:** "For all skin types — exactly what your skin needs right now."
-- **Fortune-telling:** Broad statements that anyone can relate to themselves.
+- **Advertising:** "For all skin types &mdash; exactly what your skin needs now."
+- **Fortune-telling:** Broad statements that anyone can apply to themselves.
 
 <!--t src=90cb0b3f-->
 ## Effects

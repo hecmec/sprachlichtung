@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: versunkene-kosten-falle
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,8 +32,8 @@ _We've already invested so much!_
 <!--t src=42fdee5f-->
 The **sunk cost fallacy** is the irrational tendency to continue an unsuccessful project, a bad decision, or a toxic situation simply because **time, money, effort, or other resources** have already been invested.
 
-<!--t src=2ff1c397-->
-Rationally considered, past investments should play **no role** in future decisions — only the expected future costs and benefits are relevant.
+<!--t src=6902b9c1-->
+Viewed rationally, past investments should play **no role** in future decisions &mdash; only the expected future costs and benefits are relevant.
 
 <!--t src=bef4fd55-->
 DE: _Versunkene-Kosten-Falle (Sunk Cost Fallacy)_
@@ -70,20 +70,20 @@ Month after month, expensive repairs on an old car: "I've already put in so much
 <!--t src=301f5aca-->
 ### Studies or Vocational Training
 
-<!--t src=47e4ce88-->
-An unloved degree is finished because "otherwise the four years were for nothing" — instead of switching to a suitable subject.
+<!--t src=7cbdb702-->
+An unloved degree program is finished because "otherwise the four years were for nothing" &mdash; instead of switching to a suitable subject.
 
 <!--t src=f73c8f27-->
 ### Loss-Making Gambling
 
-<!--t src=0c9c867d-->
-Placing more bets at the casino to "win back" previous losses — which usually leads to even bigger losses.
+<!--t src=f94efcd4-->
+Placing further bets at the casino to "win back" previous losses &mdash; which usually leads to even greater losses.
 
 <!--t src=790cd28f-->
 ### Berlin Airport BER
 
-<!--t src=a29ed1d1-->
-Originally planned for 2011 and budgeted at €2.83 billion. After countless mishaps and delays, opened in 2020 — for over €7 billion. "We've already invested so much, now we have to keep going."
+<!--t src=70c5aa63-->
+Originally planned for 2011 and budgeted at 2.83 billion euros. After countless mishaps and delays, opened in 2020 &mdash; for over 7 billion euros. "We have already invested so much, now we have to keep going."
 
 <!--t src=f76f23b4-->
 ### Stuttgart 21
@@ -94,8 +94,8 @@ The rail project was originally supposed to cost €2.5 billion; it is now over 
 <!--t src=1c75d2b1-->
 ### Elbphilharmonie Hamburg
 
-<!--t src=d873b7ee-->
-Planned at €77 million (2007), final cost: €866 million. Every stop would have saved money — but the millions already invested "justified" continuing.
+<!--t src=0bb3be18-->
+Planned for 77 million euros (2007), final cost: 866 million euros. Every halt would have saved money &mdash; but the millions already invested "justified" carrying on.
 
 <!--t src=90cb0b3f-->
 ## Effects

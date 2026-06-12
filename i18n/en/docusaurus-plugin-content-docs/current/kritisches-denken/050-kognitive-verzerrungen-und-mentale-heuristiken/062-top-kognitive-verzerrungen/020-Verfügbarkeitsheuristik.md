@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: verfuegbarkeitsheuristik
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -44,14 +44,14 @@ DE: _Verfügbarkeitsheuristik_
 <!--t src=17b21b6f-->
 The availability heuristic is closely connected to several other biases and is reinforced by them:
 
-<!--t src=4954f07c-->
-- **Salience bias:** Whatever is especially striking, emotional, or visually prominent is easier to recall — and therefore seems "more important."
+<!--t src=0b9d32f4-->
+- **Salience bias:** What is especially striking, emotional or visually conspicuous is more easily retrieved &mdash; and thereby seems "more important".
 - **Recency effect:** Recently experienced or seen information is especially available and shapes judgments disproportionately.
-- **Negativity bias:** Negative events stick better in memory, so risks are systematically overestimated.
-- **Confirmation bias:** We mainly search for and remember examples that support our beliefs — and those then become especially available.
-- **Survivorship bias:** Only the visible "success stories" are present; the invisible failed attempts are missing from the mental dataset.
-- **Representativeness heuristic:** Vivid, stereotypical examples are wrongly seen as typical; availability and representativeness influence each other.
-- **Recall bias:** Systematic errors in remembering (e.g. in studies) reinforce the apparent frequency of certain events.
+- **Negativity bias:** Negative events stick in memory better, which leads risks to be systematically overestimated.
+- **Confirmation bias:** We above all seek and remember examples that support our beliefs &mdash; and those then become especially available.
+- **Survivorship bias:** Only the visible "success stories" are present; the invisible failures are missing from the mental data set.
+- **Representativeness heuristic:** Vivid, stereotypical examples are wrongly taken to be typical; availability and representativeness influence each other.
+- **Recall bias:** Systematic errors in remembering (e.g. in studies) amplify the apparent frequency of certain events.
 
 <!--t src=9dbba01b-->
 ## Examples

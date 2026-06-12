@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: kontrollillusion
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -41,28 +41,34 @@ DE: _Kontrollillusion (Illusion of Control)_
 <!--t src=92b763c4-->
 The illusion of control interacts with several biases:
 
-<!--t src=ad40cc54-->
-- **Overconfidence effect:** Too much confidence in one's own abilities feeds the feeling of control.
+<!--t src=bd90e2f7-->
+- **Overconfidence effect:** Too much trust in one's own abilities feeds the feeling of control.
 - **Optimism bias:** We too often expect good outcomes and underestimate risks.
-- **Gambler's fallacy:** We believe chance "evens out" and can be influenced.
-- **Outcome bias:** Good results are attributed to one's own skill — even when luck was decisive.
-- **Confirmation bias:** Clues that support apparent control are preferentially perceived.
+- **Gambler's fallacy:** We believe that chance "evens out" and can be influenced.
+- **Outcome bias:** Good results are attributed to one's own skill &mdash; even when luck was decisive.
+- **Confirmation bias:** Cues that support apparent control are perceived preferentially.
 - **Illusory correlation / magical thinking:** We connect irrelevant actions with outcomes.
 
 <!--t src=9dbba01b-->
 ## Examples
 
-<!--t src=dd7db5c0-->
-### Dice and Rituals
-People deliberately throw the dice harder "for high numbers," as if that would help. Or they believe that certain gestures or words before the throw would influence the outcome. The result, however, remains completely random.
+<!--t src=17304ed2-->
+### Dice and rituals
 
-<!--t src=3b832d02-->
-### Choosing Your Own Lottery Ticket
-When people are allowed to choose their own lottery ticket, they value it more highly and are more likely to believe in a win — a classic finding from studies by Ellen Langer.
+<!--t src=d24a6cc3-->
+People deliberately throw the dice harder "for high numbers", as if that would help. Or they believe that certain gestures or words before the throw would influence the result. The outcome, however, remains entirely random.
 
-<!--t src=fff13592-->
-### Day Trading and "Reading the Market"
-Short-term trading is often pursued with the conviction of having the market "under control." Objectively, chance, noise, and hard-to-predict external factors dominate.
+<!--t src=9caba510-->
+### Choosing your own lottery ticket
+
+<!--t src=09d7f591-->
+When people are allowed to choose their own lottery ticket, they rate it as more valuable and are more inclined to believe they will win &mdash; a classic finding from Ellen Langer's studies.
+
+<!--t src=04853cb9-->
+### Day trading and "reading the market"
+
+<!--t src=4dfb0058-->
+Short-term trading is often pursued with the conviction of having the market "under control". Objectively, chance, noise and hard-to-predict external factors dominate.
 
 <!--t src=90cb0b3f-->
 ## Effects

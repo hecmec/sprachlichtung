@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: ueberzeugungsbias
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,8 +32,8 @@ _That sounds convincing!_
 <!--t src=4d714cdd-->
 The **belief bias** is the tendency to **accept conclusions that appear credible or plausible** without checking whether they can be logically and correctly derived from the given premises.
 
-<!--t src=4fed7412-->
-People often evaluate the **plausibility of the result** instead of the **correctness of the reasoning** — logical errors are overlooked when the conclusion "is right" or sounds familiar.
+<!--t src=eacf2768-->
+People often judge the **plausibility of the result** instead of the **correctness of the reasoning** &mdash; logical errors are overlooked when the conclusion "is right" or sounds familiar.
 
 <!--t src=663a0942-->
 DE: _Überzeugungsbias (Belief Bias)_
@@ -87,8 +87,8 @@ People accept it anyway, because the result is plausible.
 <!--t src=6c29f382-->
 "Studies show: vitamin C strengthens the immune system. COVID is an immune-deficiency disease. So vitamin C protects against COVID."
 
-<!--t src=646d7ffd-->
-The conclusion sounds reasonable, but the logical connection is flawed — and yet it is often accepted.
+<!--t src=b90a21ff-->
+The conclusion sounds reasonable, but the logical connection is flawed &mdash; nevertheless it is often accepted.
 
 <!--t src=a57f9dc4-->
 ### Simple "If Only" Logic
@@ -103,8 +103,8 @@ Or maybe not?
 <!--t src=1cb6e642-->
 "The economy is doing badly. The government is responsible for the economy. So the government is to blame."
 
-<!--t src=356a6db1-->
-Simplifies complex relationships into a seemingly logical chain — accepted because the result fits one's own political view.
+<!--t src=787ca335-->
+Reduces complex relationships to a seemingly logical chain &mdash; accepted because the result fits one's own political view.
 
 <!--t src=0999a98d-->
 ### Medical Fallacies

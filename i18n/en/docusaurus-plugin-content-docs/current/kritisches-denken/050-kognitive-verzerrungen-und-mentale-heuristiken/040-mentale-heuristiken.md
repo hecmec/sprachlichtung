@@ -12,14 +12,14 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=f4266b64-->
 <!-- markdownlint-disable MD024 -->
 
-<!--t src=fd770171-->
-Mental heuristics are cognitive shortcuts or rules of thumb that we use to make quick judgments or decisions. They are not inherently bad—in fact, they are often useful and efficient. However, under certain circumstances, they can lead to systematic errors.
+<!--t src=6f65c40a-->
+Mental heuristics are cognitive shortcuts or rules of thumb that we use to make judgments or decisions quickly. They are not bad per se &mdash; in fact they are often useful and efficient. However, under certain circumstances they can lead to systematic errors.
 
 <!--t src=8f19dbef-->
 ## 1. Representativeness Heuristic

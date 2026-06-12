@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: wissensfluch
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -70,8 +70,8 @@ Teachers skip "obvious" intermediate steps. Learners don't understand the deriva
 <!--t src=6a05b74d-->
 ### Medical Counseling
 
-<!--t src=53392b98-->
-Medical advice full of jargon ("idiopathic," "comorbidity") — patients don't understand the risks, alternatives, and side effects.
+<!--t src=e1138587-->
+Medical advice full of technical jargon ("idiopathic", "comorbidity") &mdash; patients do not understand the risks, alternatives and side effects.
 
 <!--t src=1ebcb685-->
 ### Product and UX Design
@@ -98,13 +98,13 @@ Financial or legal jargon in emails/reports; teams make wrong decisions because 
 <!--t src=87dd61f7-->
 ## Counter-Strategies
 
-<!--t src=5f4fdf09-->
-- **Plain language:** use clear, short sentences; explain technical terms.
-- **Layered explanations:** first an overview (summary, quick start), then details; deepen step by step.
-- **Teach-back method:** have the other person explain it in their own words — check understanding.
-- **Tests with the target group:** test comprehensibility and usability with beginners; improve iteratively.
-- **Glossary & examples:** define key terms; use vivid analogies and step-by-step examples.
-- **Checklists:** explicit steps instead of implicit "self-evident" things.
+<!--t src=0472c824-->
+- **Plain language:** Use clear, short sentences; explain technical terms.
+- **Layered explanations:** First an overview (summary, quick start), then details; deepen step by step.
+- **Teach-back method:** The other person explains in their own words &mdash; check understanding.
+- **Tests with the target group:** Test comprehensibility and usability with beginners; improve iteratively.
+- **Glossary & examples:** Define key terms; vivid analogies and step-by-step examples.
+- **Checklists:** Explicit steps instead of implicit "things that go without saying".
 
 <!--t src=69b1092f-->
 ## Sources

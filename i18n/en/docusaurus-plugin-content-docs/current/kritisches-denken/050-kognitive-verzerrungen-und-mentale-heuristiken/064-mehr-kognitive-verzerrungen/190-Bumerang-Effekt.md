@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: bumerang-effekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,8 +32,8 @@ _Now more than ever!_
 <!--t src=157f730c-->
 The **backfire effect** describes how **attempts at persuasion** (arguments, facts, pressure, corrections) can, in some people, lead them to **strengthen their original belief** instead of changing it.
 
-<!--t src=ee066df5-->
-The cause is often **psychological reactance**: the feeling of being restricted in one's **freedom of opinion** triggers **resistance** — one clings more firmly to one's own position.
+<!--t src=17d2fac6-->
+The cause is often **psychological reactance**: the feeling of being restricted in one's **freedom of opinion** triggers **resistance** &mdash; one clings more strongly to one's own position.
 
 <!--t src=c1a78676-->
 DE: _Bumerang-Effekt (Backfire Effect)_
@@ -57,8 +57,8 @@ The backfire effect is closely connected to other mechanisms:
 <!--t src=260a9837-->
 ### Vaccination and Counterarguments
 
-<!--t src=65dd4f53-->
-If you confront a vaccine-skeptical person with studies and facts, this can — depending on tone and context — lead them to position themselves **even more strongly against vaccinations**.
+<!--t src=80d1e740-->
+Confronting a vaccine-skeptical person with studies and facts can &mdash; depending on tone and context &mdash; lead them to **position themselves even more strongly against vaccination**.
 
 <!--t src=e65c459a-->
 ### Politics and Corrections

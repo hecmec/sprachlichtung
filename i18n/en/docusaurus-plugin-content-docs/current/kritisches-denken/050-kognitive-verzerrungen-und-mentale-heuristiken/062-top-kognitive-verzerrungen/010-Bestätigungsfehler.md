@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: bestaetigungsfehler
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -65,8 +65,8 @@ She becomes an expert on the one negative vaccine study from the '90s that was l
 <!--t src=5ecc9335-->
 A football fan remembers crystal-clearly every controversial referee decision against their team over the last five years, but the three obvious wrong decisions in their favor? Never happened! He doesn't see them.
 
-<!--t src=7f1b7fa7-->
-He develops detailed conspiracy theories about corrupt referees and meticulously keeps statistics — but only about the injustice toward his own club.
+<!--t src=74198f77-->
+He develops detailed conspiracy theories about corrupt referees and meticulously keeps statistics &mdash; but only about the injustice toward his own club.
 
 <!--t src=f1b504f6-->
 His selective memory works like Swiss clockwork, only backwards and with blinkers on.

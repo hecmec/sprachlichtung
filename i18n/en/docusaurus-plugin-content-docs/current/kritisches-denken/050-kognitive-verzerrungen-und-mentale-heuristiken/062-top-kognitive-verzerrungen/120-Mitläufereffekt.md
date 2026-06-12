@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: mitlaeufereffekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -73,8 +73,8 @@ Slogans spread virally; "everyone" seems to be for them — nuanced arguments ge
 <!--t src=de04fc4d-->
 ### Panic Buying
 
-<!--t src=a1ec5a2c-->
-Empty shelves create the impression: "Everyone is buying this — I have to as well." In this way the behavior reinforces itself.
+<!--t src=aaffc937-->
+Empty shelves create the impression: "Everyone is buying this &mdash; I have to as well." In this way the behavior reinforces itself.
 
 <!--t src=6c41aa73-->
 ### Fashion Trends

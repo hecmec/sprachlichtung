@@ -13,7 +13,7 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=f4266b64-->
@@ -25,11 +25,13 @@ This exercise will help you identify and reflect on cognitive biases in your own
 <!--t src=eb0727dd-->
 ## Step 1: Self-Observation
 
-<!--t src=3fc3efaa-->
-Choose a day in the coming week and consciously observe your thoughts, judgments, and decisions. Pay particular attention to situations where:
+<!--t src=0a5ae8bf-->
+Choose a day in the coming week and consciously observe your thoughts, judgments and decisions. Pay particular attention to situations in which:
+
+<!--t src=0d82ae84-->
 - You make quick judgments about people or situations
 - You immediately accept or reject information
-- You feel certain without much evidence
+- You feel certain without having much evidence
 - You react emotionally to information
 
 <!--t src=b19873f3-->
@@ -64,8 +66,8 @@ Reflect on your observations:
 <!--t src=d34e21e9-->
 **Thoughts/Judgments**: "This article is obviously biased. The statistics cited are surely manipulated. The author has no idea what they're talking about."
 
-<!--t src=db6bbb8e-->
-**Potential Bias**: Confirmation bias—I immediately rejected the article because it contradicted my existing beliefs without objectively examining the arguments or data.
+<!--t src=43ef159b-->
+**Possible bias**: Confirmation bias &mdash; I immediately rejected the article because it contradicted my existing beliefs, without objectively examining the arguments or the data.
 
 <!--t src=e4a0befe-->
 **Alternative Perspective**: Even if I disagree with the author's conclusion, some of the presented facts might be correct. I should check the sources of the statistics and consider whether there are valid points I should take into account.

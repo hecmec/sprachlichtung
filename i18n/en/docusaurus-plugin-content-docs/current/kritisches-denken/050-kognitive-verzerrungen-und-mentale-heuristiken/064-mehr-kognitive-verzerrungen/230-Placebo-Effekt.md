@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: placebo-effekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,8 +32,8 @@ _Faith moves mountains._
 <!--t src=77145751-->
 The **placebo effect** describes the phenomenon that a positive expectation toward a treatment can lead to an actual improvement in health or performance, even when the treatment itself has no specific efficacy.
 
-<!--t src=68bf41e9-->
-The power of expectation triggers measurable physiological and psychological changes — the body heals itself, as it were, through the belief in healing.
+<!--t src=8f189449-->
+The power of expectation triggers measurable physiological and psychological changes &mdash; the body, in a sense, heals itself through the belief in healing.
 
 <!--t src=ef96f495-->
 DE: _Placebo-Effekt_
@@ -44,14 +44,14 @@ DE: _Placebo-Effekt_
 <!--t src=3088c0ba-->
 The placebo effect is closely connected to several other psychological phenomena:
 
-<!--t src=22bd2b3b-->
-- **Nocebo effect:** The negative counterpart — bad expectations can actually cause harm.
-- **Confirmation bias:** Those who believe in the effect preferentially perceive positive changes and ignore absent improvements.
-- **Expectancy effect:** Both patient and practitioner can unconsciously show behavior that produces the expected results.
+<!--t src=356efb40-->
+- **Nocebo effect:** The negative counterpart &mdash; bad expectations can actually cause harm.
+- **Confirmation bias:** Those who believe in the effect preferentially perceive positive changes and ignore the absence of improvement.
+- **Expectation effect:** Both patient and practitioner can unconsciously display behavior that brings about the expected results.
 - **Hawthorne effect:** Merely being aware of being observed or treated can influence behavior and well-being.
 - **Hindsight bias:** After a "successful" placebo treatment, the original severity of the symptoms is often underestimated.
-- **Regression to the mean:** Extreme symptoms often normalize on their own — wrongly attributed to the placebo.
-- **Obedience to authority:** The credibility of the practitioner considerably strengthens the placebo effect.
+- **Regression to the mean:** Extreme symptoms often normalize on their own &mdash; wrongly attributed to the placebo.
+- **Deference to authority:** The credibility of the practitioner considerably amplifies the placebo effect.
 
 <!--t src=9dbba01b-->
 ## Examples
@@ -71,14 +71,14 @@ It works especially strongly when the "pill" looks more expensive, is administer
 <!--t src=a480b2d6-->
 A famous study showed: patients with knee osteoarthritis who received only a sham operation (a skin incision without an actual procedure) reported improvement just as often as patients after a real operation.
 
-<!--t src=f92ae330-->
-The rituals, the anesthesia, the feeling that "something was done" — all of this activated the self-healing powers.
+<!--t src=830a1a67-->
+The rituals, the anesthesia, the feeling that "something was done" &mdash; all of that activated the self-healing powers.
 
 <!--t src=63d4a810-->
 ### Energy Drinks Without Caffeine
 
-<!--t src=ff96465c-->
-Test subjects who believed they were receiving a caffeinated energy drink showed increased attention and better reaction times — even when the drink was caffeine-free.
+<!--t src=bf78d2ea-->
+Test subjects who believed they were receiving a caffeinated energy drink showed increased attention and better reaction times &mdash; even when the drink was caffeine-free.
 
 <!--t src=4d9238ed-->
 The expectation of alertness and energy produced measurable cognitive improvements.

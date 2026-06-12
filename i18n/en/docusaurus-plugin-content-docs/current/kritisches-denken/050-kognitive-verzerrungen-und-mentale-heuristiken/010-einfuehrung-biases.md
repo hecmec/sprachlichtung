@@ -15,7 +15,7 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=07e74d31-->
@@ -47,12 +47,12 @@ In this chapter, we will explore what cognitive biases are, how they arise, and 
 <!--t src=0952b342-->
 ## Subchapters
 
-<!--t src=630686e7-->
+<!--t src=9787650d-->
 - [What are cognitive biases?](./020-was-sind-kognitive-verzerrungen.md)
 - [Important cognitive biases](./030-wichtige-kognitive-verzerrungen.md)
 - [Mental heuristics](./040-mentale-heuristiken.md)
 - [Overconfidence and the Dunning-Kruger effect](./050-selbstueberschaetzung-und-dunning-kruger-effekt.md)
 - [Strategies for overcoming cognitive biases](./060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
-- [Exercise: Recognizing cognitive biases in your own thinking](./070-uebung-erkennen-kognitiver-verzerrungen.md)
+- [Exercise: Recognizing cognitive biases in your own thought processes](./070-uebung-erkennen-kognitiver-verzerrungen.md)
 - [Summary](./080-zusammenfassung.md)
-- [Quiz: Cognitive biases and mental heuristics](./090-quiz.md)
+- [Quiz: Cognitive biases and mental heuristics](./090-quiz-biases.md)

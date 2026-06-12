@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: dunning-kruger-effekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,9 +32,9 @@ _Ignorance is bold._
 <!--t src=fabd0593-->
 The **Dunning-Kruger effect** (Donald Trump effect) describes the cognitive bias in which people with low ability in a particular area tend to overestimate their abilities, while people with high ability tend to underestimate theirs.
 
-<!--t src=662837c7-->
-The paradox: those who know little do not know that they know little — and therefore consider themselves competent. (Think _populists_)
-Experts, on the other hand, are aware of the complexity and underestimate their own abilities.
+<!--t src=6db10ada-->
+The paradox: those who know little do not know that they know little &mdash; and therefore consider themselves competent. (Think _populists_)  
+Experts, by contrast, are aware of the complexity and underestimate their own abilities.
 
 <!--t src=02031c1c-->
 DE: _Dunning-Kruger-Effekt_
@@ -45,13 +45,13 @@ DE: _Dunning-Kruger-Effekt_
 <!--t src=c5973628-->
 The Dunning-Kruger effect is closely connected to other cognitive biases:
 
-<!--t src=8c6b3e13-->
-- **Overconfidence bias:** The general tendency to overestimate one's own abilities reinforces the effect in beginners.
-- **Impostor syndrome:** The feeling of being a "fraud" despite proven competence — the reverse effect in experts.
+<!--t src=ec52fd89-->
+- **Overconfidence bias:** The general tendency to overestimate one's own abilities amplifies the effect in beginners.
+- **Impostor syndrome:** The feeling of being a "fraud" despite proven competence &mdash; the reverse effect in experts.
 - **Confirmation bias:** The incompetent seek information that confirms their self-assessment instead of accepting objective evaluations.
-- **Learning resistance:** Those who consider themselves competent see no reason to learn — a vicious circle of ignorance.
+- **Resistance to learning:** Whoever considers themselves competent sees no reason to learn &mdash; a vicious circle of ignorance.
 - **Social desirability:** The wish to appear competent reinforces overconfidence in social situations.
-- **Metacognition:** Weakness in self-reflection — the incompetent cannot adequately judge their own performance.
+- **Metacognition:** A weakness in self-reflection &mdash; the incompetent cannot adequately assess their own performance.
 
 <!--t src=9dbba01b-->
 ## Examples
@@ -77,13 +77,13 @@ Stock-market newcomers, after a few successful trades, often consider themselves
 <!--t src=46eeb428-->
 ### Donald Trump as a Prominent Example
 
-<!--t src=a38ee990-->
-Donald Trump is known for statements like "I know everything about..." or "Nobody knows more about ... than me" — on areas ranging from taxes to technology to military strategy.
-This self-assessment shows classic Dunning-Kruger characteristics: the conviction of possessing expert knowledge in practically all areas.
+<!--t src=05554aa8-->
+Donald Trump is known for statements like "I know everything about..." or "Nobody knows more about ... than me" &mdash; on areas ranging from taxes through technology to military strategy.  
+This self-assessment shows classic Dunning-Kruger characteristics: the conviction of possessing expert knowledge in practically every field.  
 Real experts in these fields, by contrast, express themselves far more cautiously and regularly emphasize the limits of their knowledge.
 
-<!--t src=3eef09d9-->
-Trump's public appearances demonstrate how **overconfidence** goes hand in hand with a lack of awareness of one's own incompetence — a textbook example of the effect. From today on, it shall be called the **Donald Trump effect**.
+<!--t src=9fbecae4-->
+Trump's public appearances demonstrate how **overconfidence** goes hand in hand with a lack of awareness of one's own incompetence &mdash; a textbook example of the effect. From today on it shall be called the **Donald Trump effect**.
 
 <!--t src=90cb0b3f-->
 ## Effects

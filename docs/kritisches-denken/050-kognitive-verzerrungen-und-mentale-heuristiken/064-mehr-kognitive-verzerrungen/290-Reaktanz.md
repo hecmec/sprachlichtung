@@ -16,7 +16,7 @@ last_update:
   author: Immanuel Lupinus
 
 completeness: 1/5
-draft: true
+draft: false
 ---
 
 :::tip Kurz
@@ -44,7 +44,7 @@ Reaktanz hängt eng mit mehreren anderen Verzerrungen zusammen und wird von ihne
 
 ### Jugendliche und Verbote
 
-Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken &mdash; das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
+Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken: das Rauchen wird attraktiver, weil es die eigene Autonomie demonstriert.
 
 ### Marketing und "Limitierte Angebote"
 
@@ -52,7 +52,7 @@ Elternverbote ("Du darfst nicht rauchen") können genau das Gegenteil bewirken &
 
 ### Zensur und Streisand-Effekt
 
-Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interessant und viral &mdash; der Versuch der Kontrolle verstärkt die Verbreitung.
+Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interessant und viral; der Versuch der Kontrolle verstärkt die Verbreitung.
 
 ## Auswirkungen
 
@@ -65,7 +65,7 @@ Versuche, Informationen zu unterdrücken, machen diese oft erst richtig interess
 - Optionen statt Verbote anbieten ("Du kannst wählen zwischen X und Y")
 - Begründungen liefern und Verständnis schaffen statt bloße Anweisungen
 - Selbstbestimmung wahren: Menschen in Entscheidungsprozesse einbeziehen
-- Reverse Psychology bewusst vermeiden &mdash; oft wirkt sie manipulativ und verstärkt Reaktanz
+- Reverse Psychology bewusst vermeiden. Oft wirkt sie manipulativ und verstärkt Reaktanz
 
 ## Quellen
 

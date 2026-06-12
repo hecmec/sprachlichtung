@@ -15,15 +15,16 @@ last_update:
 completeness: 4/5
 draft: false
 id: apophaenie
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=61090be5-->
-:::tip In short
-You see meaning where there is none.
+<!--t src=52fea4b5-->
+:::tip In brief
+You recognize meaning where there is none.
 
 <!-- _Everything looks like a face._ -->
+
 _The clouds look like faces._
 :::
 
@@ -56,8 +57,8 @@ Apophenia is closely connected to several other biases and reasoning errors:
 <!--t src=7d0e53f7-->
 ### Faces Everywhere
 
-<!--t src=41248a2d-->
-People see faces in clouds, on Mars, in power outlets, car headlights, or slices of toast. The brain is extremely sensitive to faces — better a false alarm than a missed signal.
+<!--t src=ba62ac85-->
+People see faces in clouds, on Mars, in power sockets, car headlights or slices of toast. The brain is extremely sensitive to faces &mdash; better a false alarm than a missed signal.
 
 <!--t src=dfe1fbe2-->
 ### Patterns in Financial Data
@@ -68,8 +69,8 @@ Curves and candlestick charts stimulate pattern recognition. Random fluctuations
 <!--t src=0fddd8c9-->
 ### Meaningful Coincidences
 
-<!--t src=5733b0d3-->
-Two people meet "by chance" several times in a short period and interpret it as fate. Often, however, simple base rates and shared routes underlie it — not causality.
+<!--t src=ca4eee28-->
+Two people meet "by chance" several times in a short period and interpret it as fate. Often, however, simple base rates and shared routes underlie it &mdash; not causality.
 
 <!--t src=2aff3aae-->
 ### Data Fishing in Studies
@@ -99,9 +100,9 @@ Whoever tests many variables without a clear hypothesis will almost certainly fi
 <!--t src=69b1092f-->
 ## Sources
 
-<!--t src=b361bdb0-->
+<!--t src=d36d4278-->
 - Wikipedia: [Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 - Wikipedia: [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
-- Kahneman, D. (2011): Thinking, Fast and Slow — chapter on pattern recognition and chance.
-- Taleb, N. N. (2001): Fooled by Randomness — on apparent patterns in noisy data.
-- Gilovich, T. (1991): How We Know What Isn't So — errors of everyday thinking.
+- Kahneman, D. (2011): Thinking, Fast and Slow &mdash; chapters on pattern recognition and chance.
+- Taleb, N. N. (2001): Fooled by Randomness &mdash; on spurious patterns in noisy data.
+- Gilovich, T. (1991): How We Know What Isn’t So &mdash; errors of everyday thinking.

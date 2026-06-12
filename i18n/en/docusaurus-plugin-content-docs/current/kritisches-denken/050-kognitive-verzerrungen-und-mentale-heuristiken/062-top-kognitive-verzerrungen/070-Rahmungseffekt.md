@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: rahmungseffekt
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -29,8 +29,8 @@ _It's not what you say, it's how you say it._
 <!--t src=23594b0b-->
 ## Definition
 
-<!--t src=3af9a8db-->
-The **framing effect** describes the cognitive bias in which the way information is presented influences people's decisions and judgments — even though the factual content remains identical.
+<!--t src=1ad374e7-->
+The **framing effect** describes the cognitive bias in which the way information is presented influences people's decisions and judgments &mdash; even though the factual content remains identical.
 
 <!--t src=7030b6e1-->
 People react differently to the same information depending on whether it is presented as a **gain or a loss**, **positively or negatively**, or in a different **context**.
@@ -44,13 +44,13 @@ DE: _Rahmungseffekt (Framing-Effekt)_
 <!--t src=4d455ed5-->
 The framing effect is closely connected to other cognitive biases:
 
-<!--t src=647ec462-->
-- **Loss aversion:** Losses are weighted more heavily than equivalent gains — which is why loss-framed presentations are especially effective.
-- **Anchoring effect:** The first piece of information presented serves as a mental reference point and influences all subsequent judgments.
+<!--t src=e6e161eb-->
+- **Loss aversion:** Losses are weighted more strongly than equivalent gains &mdash; which is why loss-related framings are especially effective.
+- **Anchoring effect:** The first information presented serves as a mental reference point and influences all following judgments.
 - **Confirmation bias:** People prefer framings that confirm their existing beliefs.
-- **Emotion effect:** Emotionally charged framings (positive or negative) considerably strengthen the framing effect.
+- **Emotion effect:** Emotionally charged framings (positive or negative) considerably amplify the framing effect.
 - **Representativeness heuristic:** Stereotypical presentations seem more convincing, even when they are statistically misleading.
-- **Availability heuristic:** Easily imaginable or dramatic framings stick better in memory and seem "truer."
+- **Availability heuristic:** Easily imaginable or dramatic framings stick in memory better and seem "truer".
 
 <!--t src=9dbba01b-->
 ## Examples
@@ -58,8 +58,10 @@ The framing effect is closely connected to other cognitive biases:
 <!--t src=e654247a-->
 ### Medical Treatment
 
-<!--t src=6f03b0b7-->
+<!--t src=2912c47f-->
 An operation is described as:
+
+<!--t src=be0bf493-->
 - "90% survival rate" vs. "10% die from the operation"
 
 <!--t src=066a6fdb-->
@@ -68,8 +70,10 @@ Although both statements are identical, the first formulation seems more reassur
 <!--t src=345d61a1-->
 ### Meat Quality
 
-<!--t src=88201c1e-->
-A package of meat is advertised as:
+<!--t src=c5d8bb07-->
+A pack of meat is advertised as:
+
+<!--t src=7dba3b1a-->
 - "95% fat-free" vs. "5% fat"
 
 <!--t src=745e6d84-->
@@ -78,18 +82,22 @@ The first variant sounds healthier, even though the fat content is the same.
 <!--t src=238453ad-->
 ### Political Communication
 
-<!--t src=15e9a4e6-->
+<!--t src=ae2d1e08-->
 The same matter is framed differently:
-- "Tax relief for families" vs. "Tax giveaways for the rich"
-- "Investments in the future" vs. "Burdening the next generation with debt"
+
+<!--t src=ab63fd02-->
+- "Tax relief for families" vs. "tax giveaways for the rich"
+- "Investments in the future" vs. "saddling the next generation with debt"
 
 <!--t src=371f7c75-->
 ### Product Prices
 
-<!--t src=708ced6e-->
+<!--t src=7c11d7f6-->
 A price is presented as:
+
+<!--t src=dfd51d96-->
 - "Only €3 per day" vs. "€1,095 per year"
-- "50% discount" vs. "Pay half"
+- "50% discount" vs. "pay half"
 
 <!--t src=90cb0b3f-->
 ## Effects

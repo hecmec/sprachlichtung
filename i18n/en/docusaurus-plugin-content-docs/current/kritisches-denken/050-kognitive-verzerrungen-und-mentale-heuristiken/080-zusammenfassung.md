@@ -12,14 +12,14 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=f4266b64-->
 <!-- markdownlint-disable MD024 -->
 
-<!--t src=ab937480-->
-In this chapter, we explored cognitive biases and mental heuristics—systematic patterns in our thinking that can lead to misjudgments and irrational decisions.
+<!--t src=21030f69-->
+In this chapter we have dealt with cognitive biases and mental heuristics &mdash; systematic patterns in our thinking that can lead to misjudgments and irrational decisions.
 
 <!--t src=c639ae50-->
 We learned:
