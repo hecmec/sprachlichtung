@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2026-01-15
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=1e9ae28d-->
@@ -43,8 +43,7 @@ Rational thinking always contains a large creative component. New ideas and conc
 
 ## Myth 3: Critical thinking is only relevant for academics and intellectuals
 
-<!--t src=6742047d-->
-
+<!--t src=9ff0d726-->
 **Reality:** Critical thinking is a practical skill that is useful in all areas of life &mdash; from shopping and media consumption to personal relationships and professional decisions.
 
 <!--t src=ee76bda4-->
@@ -63,10 +62,9 @@ The next time you see an advertisement, hear a political argument, or sign a con
 
 ## Myth 5: Critical thinking undermines authority and respect
 
-<!--t src=1d563eb6-->
-
-**Yes:** Critical thinking destroys the blind following of pseudo-authorities. Self-appointed authorities and other gurus are questioned instead of being **followed blindly**.
-Respect goes to whoever or whatever earns it through evidence, logic, and ethical conduct.
+<!--t src=19eb4bd7-->
+**Yes:** Critical thinking destroys blind following of pseudo-authorities. Self-appointed authorities and other gurus are questioned instead of being **blindly followed**.
+Respect goes to whoever or whatever earns respect through evidence, logic and ethical conduct.
 
 <!--t src=b2d6e259-->
 

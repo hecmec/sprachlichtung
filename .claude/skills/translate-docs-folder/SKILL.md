@@ -126,7 +126,30 @@ copy it over:
 cp docs/<rel-dir>/img/<file> i18n/<locale>/docusaurus-plugin-content-docs/current/<rel-dir>/img/<file>
 ```
 
-## Step 4 — Build-check
+## Step 4 — Prune stale translations (full-folder runs only)
+When you translated an **entire DE folder** (not a single file), check the locale
+folder for **orphans**: translated `.md`/`.mdx` files that no longer have a
+matching source under `docs/<rel>/`. These are left behind when a German page is
+renamed or deleted, and they keep showing up on the site. Delete them.
+
+```bash
+# list translated files with no German counterpart (orphans), for review:
+DE=docs/<rel>; EN=i18n/<locale>/docusaurus-plugin-content-docs/current/<rel>
+for f in "$EN"/*.md "$EN"/*.mdx; do
+  [ -e "$f" ] || continue
+  base=$(basename "$f")
+  [ -e "$DE/$base" ] || echo "ORPHAN: $f"
+done
+```
+
+Apply the same scope rules as translation: only consider `.md`/`.mdx`, ignore
+`_`-prefixed files and `_category_.json`. **List the orphans in your summary and
+delete them with `git rm`** (recoverable) rather than a plain `rm`. If an orphan
+looks intentional (e.g. a locale-only page) flag it instead of deleting. Skip this
+step entirely for single-file translations — you have no signal there about the
+rest of the folder.
+
+## Step 5 — Build-check
 Always verify the locale compiles (catches MDX errors, broken images/links):
 ```bash
 yarn build --locale <locale>
@@ -135,10 +158,10 @@ Fix any errors and rebuild until clean. The anchors are HTML comments, so they
 must not break the build — if a build error points at one, the comment is
 malformed.
 
-## Step 5 — Summarize
+## Step 6 — Summarize
 Report what was newly translated, which files were updated and **how many blocks**
 were re-translated, any **protected blocks overwritten** (and that
 `custom_translation_overwritten` was raised for review), legacy files that were
-anchor-ized, what only needed a date bump, images copied, and the editorial
-choices made. Don't commit unless asked; if asked, branch first
+anchor-ized, what only needed a date bump, images copied, **any orphan
+translations deleted** (Step 4), and the editorial choices made. Don't commit unless asked; if asked, branch first
 (e.g. `translate-chapter-<nnn>`) since the repo default branch is `main`.

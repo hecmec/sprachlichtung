@@ -11,7 +11,7 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=89e05b4e-->
@@ -30,7 +30,7 @@ Critical thinking is the answer to the question:
 **Why should I believe this?**
 :::
 
-<!--t src=f289db1e-->
+<!--t src=5dc6f24e-->
 <!-- <details>
   <summary>Here you can find more sources</summary>
 

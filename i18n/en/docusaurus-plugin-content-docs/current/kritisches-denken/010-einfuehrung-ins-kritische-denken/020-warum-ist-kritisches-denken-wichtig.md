@@ -14,18 +14,17 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=d1524ddc-->
 
 Critical thinking unites the martial arts of the mind with the interplay we find in dance or in team sports.
 
-<!--t src=320b277f-->
-
+<!--t src=19b218f9-->
 :::info Bivalence
 
-<p class="text--center">**Counteracting (antagonism)** and **working together (synergy)**</p>
+<p class="text--center">**Working against each other (antagonism)** and **working together (synergy)**</p> 
 :::
 
 <!--t src=df97acfc-->
@@ -69,9 +68,8 @@ Critical thinking helps us to navigate this complex information landscape by ena
 
 ## Making better decisions
 
-<!--t src=62b50437-->
-
-Every day we make numerous decisions &mdash; **we have to decide** &mdash; from everyday questions like "What should I have for lunch?" to complex life decisions such as career choices, financial investments, or medical treatments.
+<!--t src=30aa9abe-->
+Every day we make numerous decisions &mdash; **we have to decide** &mdash; from everyday questions such as "What shall I eat for lunch?" to complex life decisions such as career choice, financial investments or medical treatments.
 
 <!--t src=79e76255-->
 
@@ -116,15 +114,15 @@ In the personal sphere, critical thinking supports:
 
 ## Citizens of civil society
 
-<!--t src=910a93cb-->
+<!--t src=8c93b0d1-->
+In a democratic society, critical thinking is essential for an informed and engaged citizenry. It enables us:
 
-In a democratic society, critical thinking is essential for an informed and engaged citizenry. It enables us to:
-
-- critically question political statements and campaign promises
-- consider social and ethical questions from different perspectives
-- take part in public debates and decision-making processes
-- handle and share information responsibly
-- resist manipulation through populism and extremism
+<!--t src=92c992a2-->
+- To critically question political statements and election promises
+- To consider social and ethical questions from various perspectives
+- To participate in public debates and decision-making processes
+- To handle and share information responsibly
+- To resist manipulation by populism and extremism
 
 <!--t src=8b4b1087-->
 

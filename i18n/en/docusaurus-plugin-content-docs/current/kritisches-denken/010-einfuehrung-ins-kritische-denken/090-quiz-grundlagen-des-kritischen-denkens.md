@@ -13,14 +13,14 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=f0bbd90c-->
 ## Quiz Questions:
 
-<!--t src=071076cf-->
-### 1. What is critical thinking?
+<!--t src=3e15daf2-->
+### 1. **What is critical thinking?**
 
 <!--t src=81fd23de-->
 - a) The ability to criticize everything
@@ -28,8 +28,8 @@ translation_status: auto
 - c) An innate ability that cannot be learned
 - d) A purely academic approach without practical application
 
-<!--t src=c8012fc1-->
-### 2. Which of the following elements does NOT belong to the fundamental attitude of critical thinking?
+<!--t src=35d6ab07-->
+### 2. **Which of the following elements does NOT belong to the basic attitude of critical thinking?**
 
 <!--t src=b0566a57-->
 - a) Intellectual curiosity
@@ -37,8 +37,8 @@ translation_status: auto
 - c) Intellectual superiority
 - d) Intellectual perseverance
 
-<!--t src=e1dd795a-->
-### 3. Why is critical thinking particularly important in today's information society?
+<!--t src=1ffa31a2-->
+### 3. **Why is critical thinking especially important in today's information society?**
 
 <!--t src=abf99729-->
 - a) Because it helps get more likes on social media
@@ -46,8 +46,8 @@ translation_status: auto
 - c) Because it is only relevant for academic careers
 - d) Because it allows us to criticize other people
 
-<!--t src=652e9878-->
-### 4. Which of the following examples best illustrates critical thinking?
+<!--t src=d6981dc2-->
+### 4. **Which of the following examples best illustrates critical thinking?**
 
 <!--t src=0da442cd-->
 - a) Immediate rejection of information that contradicts one's own beliefs
@@ -55,8 +55,8 @@ translation_status: auto
 - c) Examining evidence and considering alternative explanations before drawing conclusions
 - d) Avoiding topics that appear too complex or controversial
 
-<!--t src=4d85a2fc-->
-### 5. Which of the following obstacles to critical thinking refers to the tendency to seek information that confirms our existing beliefs?
+<!--t src=9457fba7-->
+### 5. **Which of the following obstacles to critical thinking refers to the tendency to seek information that confirms our existing beliefs?**
 
 <!--t src=0366b1a0-->
 - a) Dunning-Kruger effect

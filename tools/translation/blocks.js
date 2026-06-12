@@ -200,7 +200,7 @@ function sourceBlocks(body) {
  * (anchor + text) so it can be reused verbatim when unchanged.
  */
 function translatedBlocks(body) {
-  return splitBlocks(body).map((raw) => {
+  const parsed = splitBlocks(body).map((raw) => {
     const lines = raw.split('\n');
     const m = lines[0].trim().match(ANCHOR_RE);
     if (m) {
@@ -213,10 +213,40 @@ function translatedBlocks(body) {
         protected: !!(attrs.by || attrs.on),
         text: lines.slice(1).join('\n'),
         raw,
+        anchorOnly: lines.length === 1, // anchor with no text on following lines
       };
     }
-    return { src: null, protected: false, text: raw, raw };
+    return {
+      src: null, protected: false, text: raw, raw, anchorOnly: false,
+    };
   });
+
+  // Repair the alternate format where an anchor is separated from its text by a
+  // blank line: splitBlocks then sees an anchor-only block followed by a src-less
+  // text block. Re-attach the text to its anchor so the block round-trips. `raw`
+  // keeps the original blank line, so unchanged blocks are still emitted
+  // byte-for-byte. Two consecutive anchors (an empty translation) are left alone.
+  const out = [];
+  for (let i = 0; i < parsed.length; i++) {
+    const b = parsed[i];
+    const next = parsed[i + 1];
+    if (b.anchorOnly && b.src && next && next.src == null) {
+      out.push({
+        src: b.src,
+        by: b.by,
+        on: b.on,
+        overwritten_on: b.overwritten_on,
+        protected: b.protected,
+        text: next.text,
+        raw: `${b.raw}\n\n${next.raw}`,
+      });
+      i += 1; // consume the orphaned text block
+    } else {
+      delete b.anchorOnly;
+      out.push(b);
+    }
+  }
+  return out;
 }
 
 // ── Alignment ────────────────────────────────────────────────────────────────

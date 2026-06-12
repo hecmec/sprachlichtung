@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -114,9 +114,8 @@ Inference from the general to the particular: if the premises are true and the f
 
 ### Induction
 
-<!--t src=cf0a0008-->
-
-Inference from the particular to the general: from observations a general rule is conjectured &mdash; probable, but not necessarily true.
+<!--t src=fc0b24b7-->
+Inference from the particular to the general: a general rule is conjectured from observations &mdash; probable, but not necessarily true.
 
 <!--t src=e6b35dc1-->
 
@@ -254,8 +253,7 @@ A systematic, well-founded structure of statements that explains and orders phen
 
 ### Occam's Razor
 
-<!--t src=e935e224-->
-
+<!--t src=0826423c-->
 Principle of parsimony: of several explanations, the one with the fewest assumptions is to be preferred &mdash; superfluous assumptions should be "cut away".
 
 <!--t src=ee1ab146-->
@@ -346,9 +344,8 @@ Holding something to be true without methodical justification; accepting a state
 
 ## Cognitive Errors and Fallacies
 
-<!--t src=147b4a09-->
-
-_Typical errors in thinking and in arguments &mdash; you can only avoid them once you know them._
+<!--t src=f6dd15f2-->
+_Typical errors in thinking and in arguments &mdash; only those who know them can avoid them._
 
 <!--t src=b3f8860f-->
 
@@ -378,9 +375,8 @@ The tendency to seek and interpret information so that it confirms one's own exp
 
 ### Logical Fallacy
 
-<!--t src=6397be7a-->
-
-An inference whose form is invalid, so that the conclusion does not necessarily follow from the premises &mdash; regardless of the content.
+<!--t src=d7ad61e7-->
+An inference whose form is invalid, so that the conclusion does not follow necessarily from the premises &mdash; regardless of the content.
 
 <!--t src=c0ea40f4-->
 
@@ -426,9 +422,8 @@ Instead of the argument, the person is attacked; a claim is treated as false bec
 
 ### Appeal to Authority
 
-<!--t src=8a41ff85-->
-
-Something is held to be true merely because an authority says so &mdash; without checking that authority's competence or the evidence.
+<!--t src=0b1d7d82-->
+Something is held to be true merely because an authority says so &mdash; without their competence or the evidence being examined.
 
 <!--t src=6a032212-->
 
@@ -462,9 +457,8 @@ An argument that already uses its own conclusion as a presupposition; the justif
 
 ### False Dilemma
 
-<!--t src=ce8549b7-->
-
-Only two options are presented although others exist &mdash; black-and-white thinking that forces a pseudo-decision.
+<!--t src=59a66f9a-->
+Only two possibilities are presented, although others exist &mdash; black-and-white thinking that forces a false choice.
 
 <!--t src=2e8bd67c-->
 
@@ -474,9 +468,8 @@ Only two options are presented although others exist &mdash; black-and-white thi
 
 ### Correlation and Causation
 
-<!--t src=56620e92-->
-
-That two things occur together (correlation) does not mean that one causes the other (causation) &mdash; a common fallacy.
+<!--t src=aaf4cf5f-->
+The fact that two things occur together (correlation) does not mean that one causes the other (causation) &mdash; a common fallacy.
 
 <!--t src=31446d43-->
 
@@ -586,8 +579,7 @@ Deliberately false or misleading reports that look like serious journalism and a
 
 ### Disinformation
 
-<!--t src=c8323b59-->
-
+<!--t src=c2f68d36-->
 Deliberately spread false or misleading information intended to deceive &mdash; in contrast to unintentional misinformation.
 
 <!--t src=c45edb35-->
@@ -686,9 +678,8 @@ _Attitudes and methods that put good thinking into practice._
 
 ### Sapere aude
 
-<!--t src=e3228426-->
-
-Latin for "Dare to be wise!" &mdash; Kant's motto of the Enlightenment: have the courage to use your own understanding.
+<!--t src=6bf07862-->
+Latin for "Dare to be wise!" &mdash; Kant's motto of the Enlightenment: Have the courage to use your own reason.
 
 <!--t src=0d1a2915-->
 
@@ -758,9 +749,8 @@ The theory of understanding and interpreting texts and meaning; it asks how we w
 
 ### Heuristics
 
-<!--t src=938278ca-->
-
-A rule of thumb or simplified procedure that, with limited knowledge, quickly leads to usable solutions &mdash; useful, but error-prone.
+<!--t src=79cf9ff3-->
+Rule of thumb or simplified procedure that, with limited knowledge, leads quickly to usable solutions &mdash; useful, but prone to error.
 
 <!--t src=7f100722-->
 
@@ -842,9 +832,8 @@ The ability to view a matter from the perspective of others and to put oneself i
 
 ### Dogmatism
 
-<!--t src=d5a3fa4f-->
-
-Rigidly clinging to doctrines that are regarded as incontrovertible and may not be questioned &mdash; the opposite of critical openness.
+<!--t src=a44604ca-->
+Rigid adherence to doctrines that are regarded as incontestable and may not be questioned &mdash; the opposite of critical openness.
 
 <!--t src=18eef129-->
 
