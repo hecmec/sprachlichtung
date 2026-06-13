@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2025-06-12
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -33,32 +33,28 @@ Analyse the following examples and identify the manipulation techniques used. Co
 
 ## Example 1: Advertisement
 
-<!--t src=40629800-->
-
+<!--t src=6fe8c6c0-->
 "Scientifically proven: 9 out of 10 experts recommend MiracleCream for more youthful skin! Available at a special price for a limited time only. Don't miss your chance for a younger appearance &mdash; order now, before it's too late!"
 
 <!--t src=34fbde3c-->
 
 ## Example 2: Political Statement
 
-<!--t src=1da9e36b-->
-
+<!--t src=39a2efca-->
 "My opponent wants to completely overhaul our healthcare system and thereby take away millions of people's freedom of choice. Is that really what you want? Someone telling you which doctor you're allowed to visit? We stand for freedom and self-determination &mdash; the silent majority of citizens stands behind us!"
 
 <!--t src=5659f01b-->
 
 ## Example 3: Social Media Post
 
-<!--t src=30f47544-->
-
+<!--t src=820589cb-->
 "SHARE THIS BEFORE IT GETS DELETED! A secret study that the government wants to hide shows that the new 5G technology causes serious health damage. The mainstream media don't report on it because they are controlled by the telecommunications companies. Protect your family &mdash; share this information with everyone who matters to you!"
 
 <!--t src=e1d51db1-->
 
 ## Example 4: Personal Manipulation
 
-<!--t src=7315f5cc-->
-
+<!--t src=18e10ca7-->
 "After everything I've done for you, you can't refuse me this small favour? I thought we were friends. Everyone else has already agreed &mdash; do you really want to be the only one who doesn't join in?"
 
 <!--t src=4d121072-->

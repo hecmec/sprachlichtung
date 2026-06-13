@@ -13,63 +13,67 @@ keywords:
   - Tarski
 last_update:
   date: 2025-06-12
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=86a0649b-->
 <!-- ## Quiz: Paradoxes -->
 
-<!--t src=22808c2d-->
+<!--t src=f0bbd90c-->
+## Quiz questions:
 
-# Quiz: Paradoxes
+<!--t src=c8ab625f-->
+### 1. **Which paradox arises from the sentence "This sentence is false"?**
 
-<!--t src=edb7480c-->
+<!--t src=a79e99d0-->
+- a) Russell's paradox
+- b) Sorites paradox
+- c) Liar paradox
+- d) Zeno's paradox
 
-1. **Which paradox arises from the sentence "This sentence is false"?**
-   a) Russell's paradox
-   b) Sorites paradox
-   c) Liar paradox
-   d) Zeno's paradox
+<!--t src=ad1a6b7e-->
+### 2. **The Ship of Theseus is an example of which kind of paradox?**
 
-<!--t src=263aebc5-->
+<!--t src=a56cd1c2-->
+- a) Temporal paradox
+- b) Identity paradox
+- c) Logical paradox
+- d) Decision paradox
 
-2. **The Ship of Theseus is an example of which type of paradox?**
-   a) Temporal paradox
-   b) Identity paradox
-   c) Logical paradox
-   d) Decision paradox
+<!--t src=3fe83683-->
+### 3. **Which paradox shows that individually rational behaviour can lead to collectively suboptimal outcomes?**
 
-<!--t src=e39eadd0-->
+<!--t src=c093d379-->
+- a) Newcomb's paradox
+- b) Prisoner's dilemma
+- c) Surprise test paradox
+- d) Grandfather paradox
 
-3. **Which paradox shows that individually rational behaviour can lead to collectively suboptimal outcomes?**
-   a) Newcomb's paradox
-   b) Prisoner's dilemma
-   c) Surprise test paradox
-   d) Grandfather paradox
+<!--t src=1d8dca3d-->
+### 4. **The sorites paradox (paradox of the heap) mainly concerns:**
 
-<!--t src=d1d99a82-->
+<!--t src=8fa6793f-->
+- a) The limits of formal systems
+- b) Problems with self-reference
+- c) Vagueness and the fuzzy boundaries of concepts
+- d) Temporal causality
 
-4. **The sorites paradox (paradox of the heap) is mainly concerned with:**
-   a) The limits of formal systems
-   b) Problems with self-reference
-   c) Vagueness and fuzzy boundaries of concepts
-   d) Temporal causality
+<!--t src=9612e069-->
+### 5. **Which strategy for dealing with the liar paradox was proposed by Alfred Tarski?**
 
-<!--t src=3b142271-->
+<!--t src=cfb4e8e3-->
+- a) Introducing many-valued logic
+- b) Distinguishing between object language and metalanguage
+- c) Accepting the limits of formal systems
+- d) Making vague concepts more precise
 
-5. **Which strategy for dealing with the liar paradox was proposed by Alfred Tarski?**
-   a) Introducing many-valued logic
-   b) Distinguishing between object language and metalanguage
-   c) Accepting the limits of formal systems
-   d) Making vague concepts precise
+<!--t src=aefcf85c-->
+## Answers:
 
-<!--t src=cfa13161-->
-
-**Answers:**
-
+<!--t src=6acbc4dc-->
 1. c) Liar paradox
 2. b) Identity paradox
 3. b) Prisoner's dilemma
-4. c) Vagueness and fuzzy boundaries of concepts
+4. c) Vagueness and the fuzzy boundaries of concepts
 5. b) Distinguishing between object language and metalanguage

@@ -13,7 +13,7 @@ keywords:
   - theoretical frameworks
 last_update:
   date: 2025-06-12
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -72,9 +72,8 @@ Sorites paradoxes can be addressed by making vague concepts precise or by introd
 
 Some paradoxes dissolve when we take into account the context in which they arise.
 
-<!--t src=df996dc4-->
-
-**Example:** The Ship of Theseus can be viewed differently depending on the context &mdash; from a legal, physical or historical perspective, different answers might be appropriate.
+<!--t src=4cd9c421-->
+**Example:** The Ship of Theseus can be viewed differently depending on the context: from a legal, physical or historical perspective, different answers might be appropriate.
 
 <!--t src=02e369f8-->
 
@@ -84,9 +83,8 @@ Some paradoxes dissolve when we take into account the context in which they aris
 
 Sometimes we have to accept that certain paradoxes point to fundamental limits of our concepts, language or logic.
 
-<!--t src=adbac27e-->
-
-**Example:** Gödel's incompleteness theorems show that we must accept the limits of formal systems &mdash; not every true statement can be proven within a system.
+<!--t src=b3bf8c7d-->
+**Example:** Gödel's incompleteness theorems show that we have to accept the limits of formal systems: not every true statement can be proved within a system.
 
 <!--t src=bc193c34-->
 
@@ -96,10 +94,10 @@ Sometimes we have to accept that certain paradoxes point to fundamental limits o
 
 Some paradoxes have led to the development of entirely new theoretical frameworks.
 
-<!--t src=4b775574-->
-
+<!--t src=0dd80a7b-->
 **Examples:**
 
+<!--t src=985739eb-->
 - Russell's paradox led to type theory and axiomatic set theory
 - Zeno's paradoxes inspired the development of infinitesimal calculus
 - The prisoner's dilemma led to new approaches in game theory and evolutionary biology

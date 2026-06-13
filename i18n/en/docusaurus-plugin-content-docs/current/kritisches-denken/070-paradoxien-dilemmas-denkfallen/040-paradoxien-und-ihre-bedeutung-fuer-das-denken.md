@@ -13,7 +13,7 @@ keywords:
   - ethics
 last_update:
   date: 2025-06-12
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -32,9 +32,8 @@ Paradoxes are not merely intellectual curiosities; they have profound significan
 
 ## 1. The Limits of Logic and Formal Systems
 
-<!--t src=2ffbb435-->
-
-Paradoxes such as the liar paradox and Russell's paradox have shown that even seemingly solid logical and mathematical systems have limits. With his incompleteness theorems, Kurt Gödel proved that any sufficiently powerful formal system must be either incomplete or inconsistent &mdash; a result that was directly inspired by the engagement with paradoxes.
+<!--t src=9bd8190c-->
+Paradoxes such as the liar paradox and Russell's paradox have shown that even seemingly solid logical and mathematical systems have limits. With his incompleteness theorems, Kurt Gödel proved that every sufficiently powerful formal system must be either incomplete or inconsistent: a result that was directly inspired by the engagement with paradoxes.
 
 <!--t src=03f25019-->
 
@@ -64,10 +63,10 @@ Paradoxes such as the prisoner's dilemma illustrate how rational self-interest c
 
 ## 5. Fostering Critical Thinking
 
-<!--t src=c615c2f1-->
-
+<!--t src=55831846-->
 Engaging with paradoxes fosters critical thinking by forcing us to:
 
+<!--t src=7d632e37-->
 - question assumptions
 - think and communicate more precisely
 - develop creative approaches to solutions

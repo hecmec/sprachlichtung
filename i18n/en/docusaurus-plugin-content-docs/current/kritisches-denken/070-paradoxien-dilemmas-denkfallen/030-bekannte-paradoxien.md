@@ -15,7 +15,7 @@ keywords:
 last_update:
   date: 2025-05-10
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -42,10 +42,10 @@ The **liar paradox** is one of the oldest and best-known semantic paradoxes. In 
 
 If we assume that the sentence is true, then it must, according to its content, be false. If, on the other hand, we assume that it is false, then its statement does not hold, which means that it must be true. We end up in an endless circle.
 
-<!--t src=41395299-->
-
+<!--t src=c17d5d93-->
 **Variants:**
 
+<!--t src=a0580990-->
 - "I am lying right now."
 - "The next sentence is true. The previous sentence is false."
 - "This sentence is not true."
@@ -86,8 +86,7 @@ If R contains itself, then by definition it does not belong to R. If R does not 
 
 The **Ship of Theseus** is a classic philosophical paradox about identity and reads:
 
-<!--t src=b0c471cf-->
-
+<!--t src=5d7fb624-->
 "Theseus owns a ship. Over time, all the planks and parts of the ship are gradually replaced with new ones. Is it still the same ship in the end? What if someone builds a second ship from the old parts &mdash; which is then the 'real' ship of Theseus?"
 
 <!--t src=e904abe0-->
@@ -106,12 +105,12 @@ The **sorites paradox** (from the Greek "soros" for "heap") concerns vague conce
 
 "A heap of sand remains a heap if you remove a single grain of sand. If you continue this process, even a single grain of sand would still have to be a 'heap', which is obviously false."
 
-<!--t src=39c6405d-->
-
+<!--t src=c17d5d93-->
 **Variants:**
 
-- "At how many hairs is one no longer bald?"
-- "At what income is one rich?"
+<!--t src=8c6cb3e1-->
+- "How many hairs does it take before someone is no longer bald?"
+- "At what income does someone count as rich?"
 - "When does an embryo become a human being?"
 
 <!--t src=4d1dc69e-->
@@ -130,12 +129,12 @@ The **sorites paradox** (from the Greek "soros" for "heap") concerns vague conce
 
 "Achilles, the fastest runner, gives a tortoise a head start. When Achilles reaches the tortoise's starting point, it has already moved a little further. When he reaches this new point, the tortoise has again moved a little further, and so on. It seems that Achilles can never catch up with the tortoise."
 
-<!--t src=089f6ace-->
-
+<!--t src=27d5e4e1-->
 **Other variants:**
 
-- "The flying arrow": A flying arrow must, at every moment, be in a particular place. If it is in one place, it is not moving at that moment. If it is not moving at any moment, how can it move at all?
-- "The dichotomy": To cover a distance, you must first cover half of it, and before that half of the half, and so on. Since there are infinitely many such steps, it seems impossible even to set off.
+<!--t src=940cf29c-->
+- "The flying arrow": A flying arrow must, at every moment, be at a specific location. If it is at one location, it is not moving at that moment. If it is not moving at any moment, how can it move at all?
+- "The dichotomy": To cover a distance, you must first cover half of it, and before that half of that half, and so on. Since there are infinitely many such steps, it seems impossible to even set off.
 
 <!--t src=12425d56-->
 
@@ -165,9 +164,8 @@ The **prisoner's dilemma** is a paradox from game theory:
 
 The **surprise test paradox** reads:
 
-<!--t src=e0f14ea3-->
-
-"A teacher announces that in the coming week there will be a surprise test &mdash; on a day that the students cannot predict. The students argue: the test cannot take place on Friday, because if no test has taken place by Thursday, Friday would be predictable. For the same reason it cannot take place on Thursday, and so on back to Monday. The students conclude that no surprise test is possible. Nevertheless, the test takes place on Wednesday and really is a surprise."
+<!--t src=abe67db9-->
+"A teacher announces that a surprise test will take place during the coming week &mdash; on a day the students cannot predict. The students argue: the test cannot take place on Friday, because if no test has happened by Thursday, Friday would be predictable. For the same reason it cannot take place on Thursday, and so on back to Monday. The students conclude that no surprise test is possible. Yet the test takes place on Wednesday and is genuinely a surprise."
 
 <!--t src=45b2024a-->
 

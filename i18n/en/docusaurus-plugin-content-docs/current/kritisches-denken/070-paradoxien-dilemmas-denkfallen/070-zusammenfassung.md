@@ -12,7 +12,7 @@ keywords:
   - critical thinking
 last_update:
   date: 2025-06-12
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -23,9 +23,8 @@ custom_translation_overwritten: false
 
 # Summary
 
-<!--t src=ce6b71bb-->
-
-In this chapter we have looked at paradoxes &mdash; seemingly contradictory statements or situations that, despite logically correct reasoning, lead to contradictions or absurd conclusions.
+<!--t src=fe419548-->
+In this chapter we have dealt with paradoxes: seemingly contradictory statements or situations that, despite logically correct reasoning, lead to contradictions or absurd conclusions.
 
 <!--t src=c639ae50-->
 
