@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2025-06-13
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -25,9 +25,8 @@ custom_translation_overwritten: false
 
 # Summary
 
-<!--t src=9f388c2f-->
-
-In this chapter we have dealt with intellectual virtues and vices &mdash; character traits and attitudes that influence our thinking and our intellectual exchange with others.
+<!--t src=7da3bf0c-->
+In this chapter we have dealt with intellectual virtues and vices: character traits and attitudes that influence our thinking and our intellectual exchange with others.
 
 <!--t src=c639ae50-->
 

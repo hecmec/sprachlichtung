@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2025-06-13
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -37,10 +37,10 @@ A central concept in the development of intellectual virtues is **epoché** (Gre
 
 Epoché means holding back hasty judgements and maintaining a state of openness towards various possibilities. It is not the same as indecisiveness or relativism, but a deliberate practice that allows us to examine evidence and arguments more thoroughly before reaching conclusions.
 
-<!--t src=b07d6f15-->
-
+<!--t src=c6d9e384-->
 **Characteristics of epoché:**
 
+<!--t src=624c42a0-->
 - Deliberate restraint of hasty judgements
 - Openness to various interpretations and perspectives
 - Willingness to deal with uncertainty and ambiguity
@@ -58,14 +58,13 @@ Epoché means holding back hasty judgements and maintaining a state of openness 
 
 ## Productive Doubt
 
-<!--t src=0611d8d5-->
-
+<!--t src=28a66cb3-->
 Closely connected with epoché is **productive doubt** &mdash; a form of doubt that does not result in cynicism or paralysis, but serves as a tool for deeper understanding and better thinking.
 
-<!--t src=7ae83e69-->
-
+<!--t src=35130c1a-->
 **Characteristics of productive doubt:**
 
+<!--t src=4677d324-->
 - Targeted questioning of assumptions and claims
 - Openness to revision in the light of new evidence
 - Balance between scepticism and trust
@@ -75,8 +74,7 @@ Closely connected with epoché is **productive doubt** &mdash; a form of doubt t
 
 **The difference between productive and unproductive doubt:**
 
-<!--t src=6e41efee-->
-
+<!--t src=62789ede-->
 | Productive doubt                    | Unproductive doubt              |
 | ----------------------------------- | ------------------------------- |
 | Aims at deeper understanding        | Aims at avoiding commitment     |

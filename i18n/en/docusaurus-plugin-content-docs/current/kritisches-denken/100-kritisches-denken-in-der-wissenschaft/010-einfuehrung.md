@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2025-06-16
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -23,9 +23,8 @@ custom_translation_overwritten: false
 
 # Introduction
 
-<!--t src=b1153ecf-->
-
-In the previous chapters we have got to know various aspects of critical thinking &mdash; from logical foundations through structures of argumentation to cognitive biases, fallacies and intellectual virtues. In this chapter we turn to a field that has applied and institutionalised critical thinking systematically: science and its methods.
+<!--t src=53f234e5-->
+In the previous chapters we have become acquainted with various aspects of critical thinking: from logical foundations through argument structures to cognitive biases, fallacies and intellectual virtues. In this chapter we turn to a field that has systematically applied and institutionalised critical thinking: science and its methods.
 
 <!--t src=b5c94694-->
 

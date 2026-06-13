@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2025-06-13
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -25,18 +25,17 @@ custom_translation_overwritten: false
 
 # Intellectual Vices: Obstacles to Good Thinking
 
-<!--t src=35813090-->
-
+<!--t src=381b1706-->
 Intellectual vices are the opposite of intellectual virtues &mdash; traits that hinder good thinking and keep us from acquiring knowledge and understanding.
 
 <!--t src=07316d9c-->
 
 ## What Are Intellectual Vices?
 
-<!--t src=c487bf30-->
-
+<!--t src=e57e2c4e-->
 Intellectual vices can be defined as traits that:
 
+<!--t src=cbee3bb3-->
 - Hinder the finding of truth
 - Lead to poor thinking and judgement
 - Make the acquisition of knowledge and understanding more difficult
@@ -58,10 +57,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual arrogance** is excessive self-confidence regarding one's own knowledge and abilities, combined with disdain for other perspectives.
 
-<!--t src=6902ad30-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=16350d32-->
 - Overestimation of one's own knowledge and judgement
 - Disparagement of differing opinions and those who hold them
 - Unwillingness to examine one's own beliefs
@@ -83,10 +82,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual laziness** is the tendency to choose the path of least resistance instead of making the effort necessary for thorough thinking.
 
-<!--t src=0b4d18ac-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=a0a79758-->
 - Avoidance of complex or demanding thinking tasks
 - Preference for simple explanations over nuanced analyses
 - Superficial processing of information
@@ -108,10 +107,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual cowardice** is the unwillingness to pursue unpopular ideas or to question established beliefs out of fear of social sanctions or discomfort.
 
-<!--t src=dab7b0e5-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=c9014774-->
 - Avoidance of controversial topics or questions
 - Conformity with prevailing opinions out of fear of rejection
 - Unwillingness to examine deeply rooted beliefs
@@ -133,10 +132,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual dishonesty** is the conscious or unconscious distortion of evidence or arguments in order to support preconceived beliefs.
 
-<!--t src=cf79649b-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=5adb2904-->
 - Selective use of evidence
 - Double standards in evaluating arguments
 - Rationalisation instead of genuine justification
@@ -158,10 +157,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual narrow-mindedness** is the unwillingness to seriously consider alternative perspectives or new ideas.
 
-<!--t src=2bc0ce74-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=ebc25f13-->
 - Closedness towards new ideas or evidence
 - Dogmatic adherence to existing beliefs
 - Inability or unwillingness to view the world from other perspectives
@@ -183,10 +182,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual impatience** is the tendency to make hasty judgements or to oversimplify complex problems in order to obtain quick answers.
 
-<!--t src=a8d3db24-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=627c3bed-->
 - Premature judgement without sufficient reflection
 - Unwillingness to deal with ambiguity or uncertainty
 - Excessive oversimplification of complex matters
@@ -208,10 +207,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual egocentrism** is the inability or unwillingness to view the world from perspectives other than one's own.
 
-<!--t src=6a36945c-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=d884feb5-->
 - Inability to put oneself into other ways of thinking
 - Assumption that one's own perspective is universal or objective
 - Lack of awareness of one's own intellectual prejudices
@@ -233,10 +232,10 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 
 **Intellectual conformity** is the tendency to adopt beliefs and opinions uncritically because they are shared by one's own group or authority.
 
-<!--t src=76d20a1b-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=55718ee1-->
 - Uncritical acceptance of prevailing opinions in one's own group
 - Excessive dependence on authorities or the majority opinion
 - Adjustment of one's own beliefs to social expectations

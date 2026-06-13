@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2025-06-16
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -23,9 +23,8 @@ custom_translation_overwritten: false
 
 # Summary
 
-<!--t src=57a1e71f-->
-
-In this chapter we have dealt with science and its methods &mdash; a field that has applied and institutionalised critical thinking systematically.
+<!--t src=4eeb7b41-->
+In this chapter we have dealt with science and its methods: a field that has systematically applied and institutionalised critical thinking.
 
 <!--t src=c639ae50-->
 

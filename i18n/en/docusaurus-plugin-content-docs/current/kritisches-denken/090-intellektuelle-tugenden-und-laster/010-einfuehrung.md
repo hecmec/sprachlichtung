@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2025-06-13
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -23,9 +23,8 @@ custom_translation_overwritten: false
 
 # Introduction
 
-<!--t src=0c1ca6b7-->
-
-In the previous chapters we have dealt with various aspects of critical thinking &mdash; from logical foundations through structures of argumentation to cognitive biases, fallacies and manipulation techniques. In this chapter we turn to an often overlooked but fundamental aspect of critical thinking: intellectual virtues and vices.
+<!--t src=8443c42c-->
+In the previous chapters we have dealt with various aspects of critical thinking: from logical foundations through argument structures to cognitive biases, fallacies and manipulation techniques. In this chapter we turn to an often overlooked but fundamental aspect of critical thinking: the intellectual virtues and vices.
 
 <!--t src=18bb42df-->
 

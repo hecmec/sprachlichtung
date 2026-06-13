@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2025-06-13
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -33,10 +33,10 @@ Intellectual virtues are character traits that make a person a good thinker. The
 
 ## What Are Intellectual Virtues?
 
-<!--t src=a0d43493-->
-
+<!--t src=c5e5cb36-->
 Intellectual virtues can be defined as traits that:
 
+<!--t src=d239af50-->
 - Contribute to finding the truth
 - Promote good thinking and judgement
 - Support the acquisition of knowledge and understanding
@@ -58,10 +58,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual curiosity** is the desire to understand and to know. It drives us to ask questions, to investigate and to look beyond our own horizons.
 
-<!--t src=10e10434-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=569ead1c-->
 - An active interest in various topics and perspectives
 - Willingness to invest time and energy in exploring new ideas
 - Joy in learning and discovery
@@ -83,10 +83,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual humility** is the awareness of the limits of one's own knowledge and the willingness to acknowledge them.
 
-<!--t src=bc00f6db-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=6164c30d-->
 - Acknowledgement of one's own fallibility
 - Openness to corrections and criticism
 - Willingness to learn from others
@@ -108,10 +108,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual autonomy** is the ability to think independently and to form one's own judgements, rather than relying uncritically on authorities or the opinions of others.
 
-<!--t src=dade5a4d-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=779260b3-->
 - Critical examination of claims, regardless of their source
 - Independent evaluation of evidence and arguments
 - Resistance to pressure for intellectual conformity
@@ -133,10 +133,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual integrity** is the commitment to intellectual honesty and the consistent application of one's own intellectual standards.
 
-<!--t src=9707ffc6-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=33c82e40-->
 - Honest presentation of evidence and arguments
 - Consistent application of standards, regardless of whether they support one's own position
 - Willingness to admit and correct mistakes
@@ -158,10 +158,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual perseverance** is the willingness to work on solving complex problems despite difficulties, frustration or resistance.
 
-<!--t src=c5e9f3a0-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=8802dba3-->
 - Persistence in pursuing intellectual goals
 - Resilience in the face of frustration and setbacks
 - Willingness to invest time and energy in deep understanding
@@ -183,10 +183,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual fairness** is the willingness to consider all relevant perspectives fairly and without bias.
 
-<!--t src=869acad8-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=ac8e02c6-->
 - Consideration of all relevant evidence and arguments
 - Fair presentation of opposing positions
 - Avoidance of bias and double standards
@@ -208,17 +208,16 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual courage** is the willingness to pursue unpopular ideas, to question established beliefs and to take intellectual risks.
 
-<!--t src=0e1e6965-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=7577a666-->
 - Willingness to swim against the current
 - The courage to ask difficult or uncomfortable questions
 - Steadfastness in the face of social sanctions for dissenting opinions
 - Openness to revising deeply rooted beliefs
 
-<!--t src=c375e668-->
-
+<!--t src=27389638-->
 **Example:** Ignaz Semmelweis showed intellectual courage when, against the medical consensus of his time, he put forward the theory that doctors were spreading puerperal fever through a lack of hand hygiene &mdash; an idea that was initially rejected vehemently but later proved correct.
 
 <!--t src=67efca0a-->
@@ -233,10 +232,10 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Intellectual empathy** is the ability to put oneself into the way of thinking of others and to understand their perspectives.
 
-<!--t src=f17dbe8b-->
-
+<!--t src=763f23d7-->
 **Characteristics:**
 
+<!--t src=52b4a31b-->
 - The ability to view arguments from the perspective of others
 - Understanding for the reasons and motivations behind differing opinions
 - Sensitivity to different intellectual backgrounds and contexts
