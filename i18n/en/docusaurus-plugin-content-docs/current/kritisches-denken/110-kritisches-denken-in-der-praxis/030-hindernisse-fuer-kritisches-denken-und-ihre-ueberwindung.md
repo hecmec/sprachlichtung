@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2025-06-16
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -43,19 +43,19 @@ Internal obstacles are rooted in our own cognitive processes, emotions and habit
 
 As discussed in detail in Chapter 5, cognitive biases can systematically influence our thinking.
 
-<!--t src=62c032d2-->
-
+<!--t src=b458d696-->
 **Common cognitive biases:**
 
+<!--t src=9a715882-->
 - **Confirmation bias**: The tendency to seek out and interpret information that confirms existing beliefs
 - **Availability heuristic**: Overestimating the probability of easily recalled events
 - **Anchoring effect**: Excessive influence from information presented first
 - **Fundamental attribution error**: Overvaluing personal traits and undervaluing situational factors
 
-<!--t src=e915ea30-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=cc0af411-->
 - **Develop awareness**: Learn to recognise your own cognitive biases
 - **Practise perspective-taking**: Deliberately consider situations from other angles
 - **Look for counter-evidence**: Actively seek out information that contradicts your beliefs
@@ -73,19 +73,19 @@ As discussed in detail in Chapter 5, cognitive biases can systematically influen
 
 Emotions can both foster and hinder critical thinking.
 
-<!--t src=1dca0c5b-->
-
+<!--t src=21d3134d-->
 **Common emotional barriers:**
 
+<!--t src=5fe98b61-->
 - **Fear of uncertainty**: Avoidance of ambiguity and complexity
 - **Ego threat**: Resistance to information that endangers one's self-image
 - **Emotional reactivity**: Excessive emotional reactions that override rational thinking
 - **Avoidance of cognitive dissonance**: Discomfort with contradictory beliefs
 
-<!--t src=97e03fb9-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=26647537-->
 - **Develop emotional intelligence**: Learn to recognise and regulate your emotions
 - **Practise emotional distancing**: On emotional topics, deliberately adopt an observing stance
 - **Take reflection breaks**: Do not make important decisions in a state of strong emotion
@@ -103,26 +103,25 @@ Emotions can both foster and hinder critical thinking.
 
 Entrenched thinking habits can make critical thinking more difficult.
 
-<!--t src=1285f278-->
-
+<!--t src=60fd5ffb-->
 **Problematic thinking habits:**
 
+<!--t src=d41dd79b-->
 - **Black-and-white thinking**: The tendency to think in extremes and to overlook nuances
 - **Hasty judgement**: Quick conclusions without sufficient reflection
 - **Excessive trust in intuition**: Neglect of systematic analysis
 - **Mindlessness**: Automatic, unreflective thinking and acting
 
-<!--t src=faa5e6f4-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=2b382624-->
 - **Deliberate slowing down**: Take time for reflection and analysis
 - **Practise nuanced thinking**: Deliberately look for shades of grey and complexity
 - **Practise metacognition**: Regularly reflect on your thinking processes
 - **Cultivate new thinking habits**: Systematically practise alternative ways of thinking
 
-<!--t src=04c3abc5-->
-
+<!--t src=85556f9d-->
 **Example:** To overcome hasty judgement, you could get into the habit of applying a "24-hour rule" for important decisions &mdash; wait at least a day before making a final decision, and use this time for further research and reflection.
 
 <!--t src=072ef72a-->
@@ -141,19 +140,19 @@ External obstacles arise from our social, cultural and informational environment
 
 Our social and cultural environment can foster or inhibit critical thinking.
 
-<!--t src=f9ba775d-->
-
+<!--t src=2c964b5a-->
 **Common social and cultural obstacles:**
 
+<!--t src=7d704d06-->
 - **Peer pressure and conformity**: Adapting to prevailing opinions
 - **Deference to authority**: Uncritical acceptance of statements by authoritative figures
 - **Cultural taboos**: Topics that may not be questioned
 - **Social sanctions**: Negative reactions to dissenting opinions
 
-<!--t src=c41ddb95-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=1b1f05e2-->
 - **Strengthen autonomy**: Develop confidence in your own ability to judge
 - **Cultivate diverse social circles**: Surround yourself with people of various perspectives
 - **Practise cultural reflexivity**: Reflect on how cultural assumptions influence your thinking
@@ -171,19 +170,19 @@ Our social and cultural environment can foster or inhibit critical thinking.
 
 The modern information environment poses particular challenges for critical thinking.
 
-<!--t src=0d6cd969-->
-
+<!--t src=f15e0da7-->
 **Challenges of the information environment:**
 
+<!--t src=83792fe7-->
 - **Information overload**: Too much information to process thoroughly
 - **Misinformation and disinformation**: The spread of false or misleading information
 - **Echo chambers and filter bubbles**: Exposure to one-sided information
 - **The attention economy**: Media competing for attention, often at the expense of quality
 
-<!--t src=421beb5a-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=4a2eccbf-->
 - **Practise information hygiene**: Place quality above quantity, with regular "information diets"
 - **Cultivate media diversity**: Deliberately use various sources of information
 - **Develop digital media literacy**: Learn to check sources and recognise disinformation
@@ -201,19 +200,19 @@ The modern information environment poses particular challenges for critical thin
 
 Modern living conditions can make critical thinking more difficult.
 
-<!--t src=14b78d57-->
-
+<!--t src=cf4439d9-->
 **Challenges posed by time pressure and complexity:**
 
+<!--t src=c177eeed-->
 - **Lack of time**: Too little time for thorough reflection
 - **Cognitive overload**: Too many decisions and pieces of information at once
 - **The complexity of problems**: Many modern problems are highly complex and interdisciplinary
 - **Pressure for immediacy**: The expectation of immediate reactions and decisions
 
-<!--t src=13ffa485-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=ab68baf7-->
 - **Set priorities**: Identify which decisions require thorough reflection
 - **Create time for reflection**: Regularly set aside time for deep thinking
 - **Accept complexity**: Avoid excessive oversimplification of complex topics
@@ -227,27 +226,26 @@ Modern living conditions can make critical thinking more difficult.
 
 ## Overcoming Resistance to Critical Thinking
 
-<!--t src=71f2d1cd-->
-
+<!--t src=858c62b8-->
 Sometimes we encounter resistance to critical thinking &mdash; in ourselves or in others.
 
 <!--t src=afb4cfff-->
 
 ### In Oneself
 
-<!--t src=fdf06f76-->
-
+<!--t src=009542dd-->
 **Common personal forms of resistance:**
 
+<!--t src=eece62b7-->
 - **Cognitive comfort**: Critical thinking requires effort
 - **Fear of change**: Critical thinking can lead to uncomfortable insights
 - **Identity threat**: Beliefs can be part of one's identity
 - **Tolerance of uncertainty**: Critical thinking requires comfort with ambiguity
 
-<!--t src=a7c232af-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=bd4e02ae-->
 - **Strengthen intrinsic motivation**: Connect critical thinking with personal values and goals
 - **Take small steps**: Begin with less threatening topics
 - **Separate self-worth from beliefs**: Recognise that revising beliefs shows strength, not weakness
@@ -261,19 +259,19 @@ Sometimes we encounter resistance to critical thinking &mdash; in ourselves or i
 
 ### In Others
 
-<!--t src=f5c20ca1-->
-
+<!--t src=9786b581-->
 **Common forms of resistance in others:**
 
+<!--t src=2524b153-->
 - **Defensive reactions**: Defensiveness when beliefs are questioned
 - **Status threat**: Resistance when critical thinking is perceived as a challenge to authority
 - **Cultural norms**: Environments that place conformity above critical thinking
 - **A lack of skills**: A lack of knowledge of or practice in critical thinking
 
-<!--t src=dcef36a5-->
-
+<!--t src=5267836f-->
 **Strategies for overcoming them:**
 
+<!--t src=ce174298-->
 - **Create psychological safety**: Foster an atmosphere in which questions and doubts are welcome
 - **Apply the Socratic method**: Stimulate reflection through questions rather than assertions
 - **Emphasise common goals**: Present critical thinking as a means of achieving shared goals

@@ -77,7 +77,7 @@ Anyone who wants to proceed in a structured way can follow the **EUfactcheck flo
 3. **Fact check**: research the evidence and determine its accuracy.
 
 <!--t src=763fad72-->
-At its core this is the same logic as [SIFT](04-die-sift-methode.md), just more detailed.
+At its core this is the same logic as [SIFT](040-die-sift-methode.md), just more detailed.
 
 <!--t src=543d27bf-->
 ## Tools for checking images and videos

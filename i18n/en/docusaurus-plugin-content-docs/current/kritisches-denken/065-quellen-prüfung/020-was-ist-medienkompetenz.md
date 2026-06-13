@@ -71,7 +71,7 @@ Three developments make MIL especially urgent today:
 <!--t src=d972b07c-->
 - **Everyone is a broadcaster.** Publishers and media outlets used to decide what got published. Today anyone can publish, without an editorial team, without a fact check.
 - **Machines write too.** Artificial intelligence produces texts, images, voices and videos that look real. The old rule of thumb "pictures don't lie" no longer holds.
-- **Attention is money.** Platforms earn from how long we stay. Content that holds us for a long time is favoured, not necessarily the true content (more on this in the chapter on [algorithms](07-soziale-medien-algorithmen.md)).
+- **Attention is money.** Platforms earn from how long we stay. Content that holds us for a long time is favoured, not necessarily the true content (more on this in the chapter on [algorithms](070-soziale-medien-algorithmen.md)).
 
 <!--t src=bb37cfdd-->
 Media literacy is thus no longer a specialist discipline for journalists, but an **everyday skill** like reading and arithmetic.

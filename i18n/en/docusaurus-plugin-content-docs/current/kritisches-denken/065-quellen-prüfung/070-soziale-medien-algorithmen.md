@@ -84,5 +84,5 @@ Does this mean algorithms are harmless? No. The concern merely shifts to the rig
 <!--t src=e5b36cd6-->
 - **Don't mistake the feed for the world.** What you see is an algorithmic selection, not a representative cross-section.
 - **Break out deliberately.** Head straight for reputable sources on purpose, instead of just waiting for the feed. Actively seek out different sources.
-- **Pause when stirred up.** Strong emotion in the feed is often a sign that a piece of content has been optimised for reach, so it's time for [SIFT](04-die-sift-methode.md).
+- **Pause when stirred up.** Strong emotion in the feed is often a sign that a piece of content has been optimised for reach, so it's time for [SIFT](040-die-sift-methode.md).
 - **Sharing is spreading.** Every click on „share“ is a vote for the algorithm. Check first, then share.

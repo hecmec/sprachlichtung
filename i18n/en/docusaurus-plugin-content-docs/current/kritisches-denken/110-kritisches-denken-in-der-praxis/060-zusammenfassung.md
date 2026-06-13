@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2025-06-16
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -51,6 +51,5 @@ We have learned:
 
 Critical thinking is not an abstract intellectual exercise, but a practical skill that can and should be applied in all areas of life. Through conscious application and continuous practice, we can improve our ability to think critically and thereby make clearer, more well-founded and more considered judgements.
 
-<!--t src=b1e85d17-->
-
-Developing critical thinking is a lifelong journey that requires patience, perseverance and open-mindedness. But the rewards &mdash; better decisions, deeper understanding, greater intellectual autonomy and more constructive contributions to social discourse &mdash; make this effort more than worthwhile.
+<!--t src=4f0512bb-->
+The development of critical thinking is a lifelong journey that requires patience, perseverance and openness. But the rewards &mdash; better decisions, deeper understanding, greater intellectual autonomy and more constructive contributions to societal discourse &mdash; make this effort more than worthwhile.

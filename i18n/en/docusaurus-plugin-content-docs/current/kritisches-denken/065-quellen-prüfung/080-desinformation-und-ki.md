@@ -25,7 +25,7 @@ custom_translation_overwritten: false
 <!-- ## Disinformation, fake news and AI fakes -->
 
 <!--t src=f9ae0820-->
-On the [page about the information flood](03-die-informationsflut.md) we distinguished mis-, dis- and malinformation. Here we look more closely at the _targeted_ variant, and at a new form that makes everything harder: machine-generated content.
+On the [page about the information flood](030-die-informationsflut.md) we distinguished mis-, dis- and malinformation. Here we look more closely at the _targeted_ variant, and at a new form that makes everything harder: machine-generated content.
 
 <!--t src=fbdd3fb2-->
 ## Targeted disinformation
@@ -70,7 +70,7 @@ There is no 100% method, but there are telltale signs:
 - **Details that don't add up:** hands with too many fingers, unreadable text on signs, distorted backgrounds, „floating“ objects or objects merging into one another.
 - **Missing confirmation:** a dramatic event for which _only_ this one image exists and no reputable source reports is suspicious.
 - **Check the source:** who posted it first? A genuine account or an imitation?
-- **Check the context:** a reverse image search often shows that an image is old or comes from somewhere else (see [tools](09-faktencheck-werkzeuge.md)).
+- **Check the context:** a reverse image search often shows that an image is old or comes from somewhere else (see [tools](090-faktencheck-werkzeuge.md)).
 
 <!--t src=13964805-->
 ## A checking routine for viral claims

@@ -94,7 +94,7 @@ Warning signs:
 - **Intent to sell** at the bottom of the page: the benefit question _Cui bono_ is answered immediately: something is meant to be sold here.
 
 <!--t src=08e6a91d-->
-Conclusion: practically every criterion from the chapter [Evaluating sources](05-quellen-bewerten.md) raises the alarm.
+Conclusion: practically every criterion from the chapter [Evaluating sources](050-quellen-bewerten.md) raises the alarm.
 
 <!--t src=8167074f-->
 ### Part C
