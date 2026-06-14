@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-SprachLichtung ("Language Clearing") is a Docusaurus v3 static educational site focused on critical thinking (_Kritisches Denken_) and language/society topics (_Sprach-Welten_). German is the default locale; English is the secondary locale. The site is hosted at https://sprachlichtung.org and deployed to GitHub Pages.
+SprachLichtung ("Language Clearing") is a Docusaurus v3 static educational site focused on critical thinking (_Kritisches Denken_) and language/society topics (_Sprach-Welten_). German is the default locale; English is the secondary locale. The site is hosted at https://sprachlichtung.org and deployed via Coolify.
 
 ## Commands
 
@@ -15,7 +15,7 @@ yarn build              # Build static site to /build
 yarn typecheck          # TypeScript type check
 yarn clear              # Clear Docusaurus cache (rm -rf .docusaurus build)
 yarn serve              # Serve the built /build directory locally
-yarn deploy             # Deploy to GitHub Pages
+yarn deploy             # Legacy GitHub Pages deploy (docusaurus deploy) — unused; site now deploys via Coolify
 yarn sync:notion        # Sync markdown content with Notion database
 yarn write-translations:en  # Generate English translation keys into i18n/en/
 ```
