@@ -21,6 +21,9 @@ draft: false
 
 <!-- ## Ambiguität (Mehrdeutigkeit) -->
 
+<div className="row">
+<div className="col col--7">
+
 > "One morning I shot an elephant in my pajamas.\
 > How he got in my pajamas I'll never know."
 > ― Groucho Marx
@@ -28,9 +31,17 @@ draft: false
 > Eines Morgens schoss ich einen Elefanten in meinem Pyjama.\
 > Wie er in mein Pyjama gekommen ist, weiss ich auch nicht.
 
+</div>
+<div className="col col--5 text--center">
+
+![Groucho Marx erschießt einen Elefanten im Pyjama](/img/shot_an_elefant_in_my_pyjama.png)
+
+</div>
+</div>
+
 Ambiguität oder **Mehrdeutigkeit** liegt vor, wenn ein Wort, ein Satz oder ein anderer sprachlicher Ausdruck mehr als eine Bedeutung haben kann.
 
-Mehrdeutigkeiten sind eine fruchtbare Quelle für **Humor und Poesie**. Gleichzzeit sind sie auch eine furchtbare Quelle für Missverständnisse und Fehlschlüsse aller Art, besonders wenn die verschiedenen Bedeutungen im Verlauf eines Arguments vermischt werden.
+Mehrdeutigkeiten sind eine fruchtbare Quelle für **Humor und Poesie**. Gleichzeitig sind sie auch eine furchtbare Quelle für Missverständnisse und Fehlschlüsse aller Art, besonders wenn die verschiedenen Bedeutungen im Verlauf eines Arguments vermischt werden.
 
 ### Arten von Ambiguität
 
