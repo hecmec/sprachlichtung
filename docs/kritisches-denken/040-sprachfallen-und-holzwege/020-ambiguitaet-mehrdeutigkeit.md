@@ -21,7 +21,16 @@ draft: false
 
 <!-- ## Ambiguität (Mehrdeutigkeit) -->
 
-Ambiguität oder Mehrdeutigkeit liegt vor, wenn ein Wort, ein Satz oder ein anderer sprachlicher Ausdruck mehr als eine Bedeutung haben kann. Mehrdeutigkeiten können zu Missverständnissen und Fehlschlüssen führen, besonders wenn die verschiedenen Bedeutungen im Verlauf eines Arguments vermischt werden.
+> "One morning I shot an elephant in my pajamas.\
+> How he got in my pajamas I'll never know."
+> ― Groucho Marx
+
+> Eines Morgens schoss ich einen Elefanten in meinem Pyjama.\
+> Wie er in mein Pyjama gekommen ist, weiss ich auch nicht.
+
+Ambiguität oder **Mehrdeutigkeit** liegt vor, wenn ein Wort, ein Satz oder ein anderer sprachlicher Ausdruck mehr als eine Bedeutung haben kann.
+
+Mehrdeutigkeiten sind eine fruchtbare Quelle für **Humor und Poesie**. Gleichzzeit sind sie auch eine furchtbare Quelle für Missverständnisse und Fehlschlüsse aller Art, besonders wenn die verschiedenen Bedeutungen im Verlauf eines Arguments vermischt werden.
 
 ### Arten von Ambiguität
 

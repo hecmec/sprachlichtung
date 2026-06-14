@@ -25,7 +25,22 @@ Ambiguitätsfehlschlüsse entstehen durch Mehrdeutigkeiten oder Unklarheiten in 
 Bei der Äquivokation wird ein Wort oder Begriff in verschiedenen Bedeutungen verwendet, als ob es sich um dieselbe Bedeutung handelte.
 
 **Beispiel:**
-"Nur der Mensch hat Rechte. Frauen sind keine Männer. Also haben Frauen keine Rechte."
+
+1. Die Äquivokation im Mittelbegriff eines Syllogismus
+
+Im Englishen oder Französischen daselbe Wort für Mann und Mensch. Das gibt dann solche seltsamen Arguemnte.
+
+> Only man has rights. (man = humain)\
+> Women are not men\ (men = male humain)
+> Hence, women has no rights.
+
+Da der Mittelbegriff ("man") hier äquivoke gebraucht wird, wird der Schluss inkorrekt, und seine Schlussfolgerung Unfug. (Der Schluss ist bloß ein Quaternio Terminorum / Non sequitur.)
+
+Auf Französisch geht das genauso, weil "homme" sowohl "Mensch" als auch "Mann" bedeutet:
+
+> Seul l'homme a des droits. (homme = être humain)\
+> Les femmes ne sont pas des hommes. (hommes = humains de sexe masculin)\
+> Donc, les femmes n'ont pas de droits.
 
 **Warum ist das fehlerhaft?** Das Wort "Mensch" wird zunächst im Sinne von "menschliches Wesen" verwendet, dann wird implizit auf "männliches menschliches Wesen" umgeschaltet.
 
@@ -33,8 +48,31 @@ Bei der Äquivokation wird ein Wort oder Begriff in verschiedenen Bedeutungen ve
 
 Amphibolie entsteht durch grammatikalische Mehrdeutigkeit, die zu unterschiedlichen Interpretationen führen kann.
 
-**Beispiel:**
-"Elefantenjagt ist unmoralisch und sollte verboten werden."Elefantenjagt das mehrdeutig?** Es ist unklar, ob gemeint ist, dass Elefanten nicht gejagt werden sollten, oder dass Elefanten nicht jagen sollten.
+### Beispiele:
+
+1. Das Orakel von Delphi (klassisch)
+
+> Wenn du den Fluss Halys überschreitest, wirst du ein großes Reich zerstören.
+
+Unklar ist, welches Reich: das des Feindes oder das eigene. Krösus las es als Kriegsversprechen, überschritt den Fluss und zerstörte sein eigenes Reich. Das ist das Lehrbuch-Beispiel der Amphibolie aus der Antike und zeigt zugleich, wie die Mehrdeutigkeit argumentativ ausgenutzt werden kann.
+
+2. Präpositional-Anbindung („mit dem …“)
+
+> "Die Polizei verfolgte den Dieb mit dem Motorrad."
+
+Lesart A: Die Polizei benutzte das Motorrad.\
+Lesart B: Der Dieb war auf dem Motorrad.
+
+Die Mehrdeutigkeit entsteht rein durch die Stellung der Präpositionalphrase, nicht durch ein doppeldeutiges Wort. (Variante: „Er beobachtete die Frau mit dem Fernglas.“)
+
+3. Genitiv: Subjekt oder Objekt?
+
+> Die Furcht der Feinde war groß.
+
+Lesart A: Die Feinde hatten Furcht (Genitivus subjectivus).\
+Lesart B: Man fürchtete sich vor den Feinden (Genitivus objectivus).
+
+Derselbe Bau erzeugt bei „die Liebe Gottes“ oder „die Kritik der Studenten“ dieselbe Ambiguität: Wer kritisiert wen?
 
 ## 3. Akzentuierung
 
@@ -66,4 +104,3 @@ Der Divisionsfehlschluss ist das Gegenteil des Kompositionsfehlschlusses: Es wir
 
 **Beispiel Gehirn**
 "Das Gehirn kann denken, also können die Neuronen denken."
-
