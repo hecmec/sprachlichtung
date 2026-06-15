@@ -45,4 +45,4 @@ Die wichtigste Botschaft ist eine Haltung, keine Technik: **erst prüfen, dann g
 Im Zweifel: **Stopp. Wer sagt das? Was sagen andere? Wo ist das Original?** Vier Fragen, und die meisten Falschmeldungen fallen in sich zusammen.
 :::
 
-Die vollständige Quellenliste zu diesem Kapitel findet sich auf der Seite [Quellen](./quellen-medienkompetenz.md).
+Die vollständige Quellenliste zu diesem Kapitel findet sich auf der Seite [Quellen](./130-quellen-medienkompetenz.md).
