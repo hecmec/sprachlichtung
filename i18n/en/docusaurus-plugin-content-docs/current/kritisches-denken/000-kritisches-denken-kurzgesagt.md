@@ -1,6 +1,6 @@
 ---
 id: kritisches-denken-kurzgesagt
-title: Critical Thinking &mdash; In Brief
+title: Critical Thinking — In Brief
 sidebar_position: 0
 sidebar_label: Critical Thinking 5 min
 description: The essentials of critical thinking, all on one page

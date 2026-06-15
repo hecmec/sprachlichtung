@@ -1,6 +1,6 @@
 ---
 id: 070-quiz-kritisches-denken-in-der-praxis
-title: Quiz &mdash; Critical Thinking in Practice
+title: Quiz — Critical Thinking in Practice
 sidebar_position: 7
 description: Self-test on understanding the practical application of critical thinking
 keywords:

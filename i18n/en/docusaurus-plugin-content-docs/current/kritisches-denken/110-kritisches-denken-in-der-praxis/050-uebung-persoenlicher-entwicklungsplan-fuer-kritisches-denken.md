@@ -1,6 +1,6 @@
 ---
 id: 050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken
-title: Exercise &mdash; Personal Development Plan for Critical Thinking
+title: Exercise — Personal Development Plan for Critical Thinking
 sidebar_position: 5
 description: A practical exercise guide for creating an individual development plan for critical thinking
 keywords:

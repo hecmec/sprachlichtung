@@ -111,6 +111,16 @@ changed blocks replaced, protected overwrites handled per §9, and frontmatter
 > in `tools/translation/blocks.js` — that file is the single source of truth, so
 > never hand-write anchors or invent hashes.
 
+### Inline author directives — `<!-- AI-TRANSLATION: … -->`
+The author may embed instructions for the translator as HTML comments of the form
+`<!-- AI-TRANSLATION: <instruction> -->` (e.g. *"don't translate the original
+english video course titles"*). **Always obey the instruction** when translating
+the blocks it applies to (typically the content right after it, until the next
+heading or a contradicting directive). These are invisible on the site — **keep
+the comment verbatim in the translated file** so it still guides future updates;
+do not translate or remove it. If a directive is ambiguous or conflicts with these
+rules, surface it in your Step 2 report rather than guessing.
+
 ### Body — translate only human-readable text; the tools keep structure intact
 - Admonitions (`:::info`, `:::warning`, `:::tip` …) — translate the title too.
 - Footnotes `[^id]`, `<details>/<summary>`, custom components (`<Tooltip …>`), tables, emojis (`:rocket:`), `&mdash;`, line-break backslashes.

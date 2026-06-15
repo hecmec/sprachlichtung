@@ -1,6 +1,6 @@
 ---
 id: 070-uebung-wissenschaftliche-behauptungen-analysieren
-title: Exercise &mdash; Analysing Scientific Claims
+title: Exercise — Analysing Scientific Claims
 sidebar_position: 7
 description: Practical exercises for applying scientific principles of analysis and thinking
 keywords:

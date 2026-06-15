@@ -1,6 +1,6 @@
 ---
 id: 080-quiz-paradoxien
-title: Quiz &mdash; Paradoxes
+title: Quiz — Paradoxes
 sidebar_position: 8
 description: A quiz to test your understanding of the various types of paradoxes and their approaches to solutions.
 keywords:
