@@ -21,13 +21,13 @@ completeness: 3/5
 
 ## Kursüberblick
 
-Hier geben wir einen Überblick über den Youtube-Kurs zum kritischen Denken von Allan Di Donato, einem Philosophieprofessor am Central Piedmont Community College.
+Hier geben wir einen Überblick über den YouTube-Kurs zum kritischen Denken von Allan Di Donato, einem Philosophieprofessor am Central Piedmont Community College.
 
-Dieser Kurs zeichnet sich durch seine Breite (allen wichtigen Themen werden behandelt) und seinen neutralen Ton aus. Er ist gut gemacht, unterhaltsam und gut für Anfänger geeignet.
+Dieser Kurs zeichnet sich durch seine Breite (alle wichtigen Themen werden behandelt) und seinen neutralen Ton aus. Er ist gut gemacht, unterhaltsam und für Anfänger gut geeignet.
 
-Allan Di Donato hat viel über christlich-biblische und mythologische Themen gearbeitet, aber diese Vorliebe bereichert seinen Kurs mehr als er seine Neutralität beeinträchtigt.
+Allan Di Donato hat viel zu christlich-biblischen und mythologischen Themen gearbeitet, aber diese Vorliebe bereichert seinen Kurs mehr, als sie seine Neutralität beeinträchtigt.
 
-Der gesammte Kurs ist zur Zeit nur in Englisch verfügbar, also haben wir entschieden, auch die einzelnen Kursseiten in Englisch zu belassen.
+Der gesamte Kurs ist zurzeit nur auf Englisch verfügbar, also haben wir entschieden, auch die einzelnen Kursseiten auf Englisch zu belassen.
 
 <!-- AI-TRANSLATION: don't translate the original english video course titles -->
 

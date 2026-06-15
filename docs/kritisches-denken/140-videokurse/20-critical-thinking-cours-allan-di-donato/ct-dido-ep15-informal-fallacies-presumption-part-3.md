@@ -21,3 +21,5 @@ import ReactPlayer from 'react-player';
 controls src='https://youtu.be/IjTRJKePWsg' />
 
 &nbsp;
+
+There is no transcript for this video at the time of writing.
