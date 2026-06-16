@@ -46,6 +46,9 @@ function classify(germanRel, targetRel) {
   }
 
   const t = P.readDoc(targetRel);
+  if (t.data && t.data.translation_status === 'manual') {
+    return { status: 'manual', note: 'hand-curated translation — excluded from automatic updates' };
+  }
   const tBlocks = translatedBlocks(t.body);
   const anchored = tBlocks.filter((b) => b.src);
 
@@ -79,6 +82,7 @@ function main() {
     const untranslated = [];
     const needsUpdate = [];
     const legacy = [];
+    const manual = [];
     let current = 0;
 
     for (const germanRel of germanFiles) {
@@ -88,6 +92,7 @@ function main() {
       if (res.status === 'untranslated') untranslated.push(item);
       else if (res.status === 'needs-update') needsUpdate.push(item);
       else if (res.status === 'legacy') legacy.push(item);
+      else if (res.status === 'manual') manual.push(item);
       else current += 1;
     }
     stale += untranslated.length + needsUpdate.length + legacy.length;
@@ -97,6 +102,7 @@ function main() {
       untranslated,
       needsUpdate,
       legacy,
+      manual,
     };
   }
 
@@ -127,6 +133,11 @@ function printHuman(report, folder) {
     if (r.legacy.length) {
       console.log(`\n  LEGACY / NO ANCHORS (${r.legacy.length}) — re-translate to enable tracking:`);
       for (const it of r.legacy) console.log(`    - ${it.file}`);
+    }
+
+    if (r.manual.length) {
+      console.log(`\n  MANUAL / HAND-CURATED (${r.manual.length}) — excluded from automatic updates:`);
+      for (const it of r.manual) console.log(`    - ${it.file}`);
     }
   }
   console.log('');

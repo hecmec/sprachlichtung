@@ -14,7 +14,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 id: articles
-translation_status: auto
+translation_status: manual
 custom_translation_overwritten: false
 ---
 
@@ -31,7 +31,7 @@ custom_translation_overwritten: false
 
 ### Fundamental
 
-- 🇩🇪 Paul R., Elder L. (2008): [_Kritisches Denken, Begriffe & Tools, Ein Leitfaden im Taschenformat_](https://www.criticalthinking.org/data/pages/65/0942a6869e3fecf0491debf6af6cb9846504e18baf508.pdf) &mdash; Criticalthinking.org
+- 🇬🇧 Paul R., Elder L.: [_The Miniature Guide to Critical Thinking Concepts & Tools_](https://www.criticalthinking.org/files/Concepts_Tools.pdf) &mdash; Criticalthinking.org
 
 <!--t src=97081294-->
 
@@ -47,26 +47,13 @@ custom_translation_overwritten: false
 - 🇬🇧 [_Critical Thinking_](https://en.wikipedia.org/wiki/Critical_thinking): on en.wikipedia.org
 - 🇫🇷 [_Esprit critique_](https://fr.wikipedia.org/wiki/Esprit_critique) &mdash; on fr.wikipedia.org
 
-<!--t src=119076e0-->
-
-- 🇩🇪 Dorota Gierszewski: [_Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?_](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) &mdash; Epale, European Commission
-
 <!--t src=5c458fd6-->
 
 ### Popular
 
-- 🇩🇪 [Die Kompetenz des kritischen Denkens &mdash; analysiert vor dem Hintergrund der KI-Debatte in der Bildung](https://ebildungslabor.de/blog/die-kompetenz-des-kritischen-denkens-analysiert-vor-dem-hintergrund-der-ki-debatte-in-der-bildung/) &mdash; ebildungslabor.de
-- 🇩🇪 [Die Bedeutung des kritischen Denkens in der modernen Gesellschaft](https://digitales-institut.de/die-bedeutung-des-kritischen-denkens-in-der-modernen-gesellschaft/) &mdash; digitales-institut.de
-- 🇩🇪 [Kritisches Denken in Zeiten von Fake News und halluzinierender Künstlicher Intelligenz](https://blog.univie.ac.at/studium/kritisches-denken/) &mdash; Universität Wien
-- 🇩🇪 [Was ist kritisches Denken und wie setzt man es in die Praxis um?](https://gedankenwelt.de/was-ist-kritisches-denken-und-wie-setzt-man-es-in-die-praxis-um/) &mdash; gedankenwelt.de
-- 🇩🇪 [So lernen Sie kritisches Denken in 5 Schritten](https://simpleshow.com/de/blog/kritisches-denken-5-schritte/) &mdash; simpleshow.com
 - 🇬🇧 [What is critical thinking?](https://library.leeds.ac.uk/info/1401/academic_skills/105/critical_thinking) &mdash; University of Leeds Library
 - 🇬🇧 [Critical thinking](https://www.sussex.ac.uk/skills-hub/critical-thinking) &mdash; University of Sussex, Skills Hub
 - 🇫🇷 [Douze conseils pour éduquer à l'esprit critique](https://www.cahiers-pedagogiques.com/12-conseils-pour-eduquer-a-l-esprit-critique/) &mdash; Cahiers pédagogiques
-- 🇫🇷 [Former l'esprit critique : ressources pour enseignant·e·s](https://cortecs.org/superieur/former-lesprit-critique-ressources-pour-enseignant%C2%B7e%C2%B7s/) &mdash; CORTECS
-
-<!--t src=b7bd0f69-->
-<!-- https://karlhosang.de/kritisches-denken/ -->
 
 <!--t src=971f82de-->
 
@@ -82,9 +69,6 @@ custom_translation_overwritten: false
 <!--t src=dab91512-->
 
 - 🇩🇪 [Sprachphilosophie](https://de.wikipedia.org/wiki/Sprachphilosophie) &mdash; Wikipedia
-- 🇩🇪 [Sprachphilosophie](https://www.philosophie.ch/sprachphilosophie) &mdash; philosophie.ch
-- 🇩🇪 [Sprachphilosophie](https://www.spektrum.de/lexikon/philosophie/sprachphilosophie/1930) &mdash; Metzler Lexikon Philosophie, spektrum.de
-- 🇩🇪 [W. Vossenkuhl: Sprachphilosophie, Version 08.06.2022](https://www.staatslexikon-online.de/Lexikon/Sprachphilosophie) &mdash; staatslexikon-online.de
 - 🇬🇧 Michael P. Wolf: [_Philosophy of Language_](https://iep.utm.edu/lang-phi/) &mdash; Internet Encyclopedia of Philosophy
 - 🇫🇷 [_Philosophie du langage_](https://encyclo-philo.fr/philosophie-du-langage-a) &mdash; L'Encyclopédie philosophique
 
