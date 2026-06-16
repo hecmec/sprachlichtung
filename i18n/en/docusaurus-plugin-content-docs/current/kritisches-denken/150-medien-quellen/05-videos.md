@@ -17,11 +17,12 @@ last_update:
 completeness: 0/5
 draft: true
 id: videos
-translation_status: auto
+translation_status: manual
 custom_translation_overwritten: false
 ---
 
 <!--t src=d1f3ba95-->
+
 - 🇩🇪 Philipp Huebl: [Vorlesung "Bullshit-Resistenz"](https://www.youtube.com/watch?v=nvVKK5W3bBI)
 - 🇬🇧 Julia Galef (TED): [Why you think you're right — even if you're wrong](https://www.youtube.com/watch?v=w4RLfVxTGH4)
 - 🇬🇧 [Crash Course: Media Literacy](https://www.youtube.com/playlist?list=PLH2l6uzC4UEXR5WRRSvaNfmCUYZtTaJeU)

@@ -5,16 +5,16 @@ sidebar_label: Definition Gesellschaftsspiele
 sidebar_position: 10
 description: "Das Sprachspiel des Erzählens"
 keywords:
-    - Gesellschaftsspiele
-    - Definition
-    - Gewalt
-    - Kooperation
-    - Gleichheit und Ungleichheit
+  - Gesellschaftsspiele
+  - Definition
+  - Gewalt
+  - Kooperation
+  - Gleichheit und Ungleichheit
 last_update:
   date: 2026-01-29
   author: Immanuel Lupinus
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 ## Gesellschaftsspiele als soziale Praxis
@@ -25,10 +25,11 @@ Ich benutze den Begriff "Gesellschaftsspiele" im soziologischen Sinne, als Anspi
 In diesem Kontext bezieht sich "Gesellschaftsspiel" auf die strukturierten Interaktionen und Regeln, die unser soziales Leben organisieren.
 
 Gesellschaftsspiele sind strukturierte Aktivitäten, die von Menschen in sozialen Gruppen gespielt werden.
-Sie dienen verschiedenen Zwecken, darunter Unterhaltung, Bildung, soziale Interaktion und Interessenabgleich.  
+Sie dienen verschiedenen Zwecken, darunter Unterhaltung, Bildung, soziale Interaktion und Interessenabgleich.
 
 Einige Beispiele für diesen Gebrauch des Begriffs "Gesellschaftsspiele" als soziale Praxis sind:
-- **Gewalt**: Gesellschaftsspiele können Regeln und Normen enthalten, die den Einsatz von Gewalt regulieren oder thematisieren. 
+
+- **Gewalt**: Gesellschaftsspiele können Regeln und Normen enthalten, die den Einsatz von Gewalt regulieren oder thematisieren.
 - Kooperation:
 - Gleichheit und Ungleichheit
 - Macht und Autorität

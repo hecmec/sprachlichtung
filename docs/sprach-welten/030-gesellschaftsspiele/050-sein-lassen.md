@@ -11,7 +11,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 1/5
 draft: true
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
+<!--
+- dies ist vor allem: Andere so sein lassen, wie sie sind
+
+  -->

@@ -1,0 +1,1 @@
+Schreibe über die Punkte in dieser Seite in einem emanzipatorischen aber kritisch-denkenden Stiel mit kritisch philosophischem Blickwinkel (Rorty, Habermas, Rainer Forst, Rahel Jaeggi). 600 bis 800 Wörter.

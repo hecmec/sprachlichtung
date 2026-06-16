@@ -17,7 +17,7 @@ last_update:
 completeness: 1/5
 draft: true
 id: podcasts
-translation_status: auto
+translation_status: manual
 custom_translation_overwritten: false
 ---
 
