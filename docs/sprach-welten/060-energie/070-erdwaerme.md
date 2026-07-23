@@ -20,6 +20,11 @@ draft: true
 ---
 
 - Die Geothermie nutzt die Erdwärme auf verschidenene Weisen.
+- 5 bis 100 Meter, Wärmekonstanz um die 15 grad (im Winter als Wärmequelle, im Sommer als Kältequelle)
+
+## Tiefengeothermie (200 Meter ++)
+
 - Die Erde ist ab einer bestimmten Tiefe einfach sehr warm
 - Im Zentrum der Erde liegen die Temperaturen bei ...
+- Erdwärme ist unerschöpflich aber noch zu teuer.
 -

@@ -19,4 +19,4 @@ draft: true
 # image:
 ---
 
-- nicht gliech lachen, denn alle Gezeigenenergie (Tidenhub) und Teile der Strömungsenergie kommen vom Einfluss des Mondes auf die Wassermassesn der Erde.
+- nicht gleichch lachen, denn alle Gezeigenenergie (Tidenhub) und Teile der Strömungsenergie kommen vom Einfluss des Mondes auf die Wassermassesn der Erde.

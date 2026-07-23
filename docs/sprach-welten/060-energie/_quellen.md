@@ -9,7 +9,7 @@ A trilingual collection of reliable resources to **understand, learn, and teach*
 ### Authoritative data & reports
 
 - [IRENA – International Renewable Energy Agency](https://www.irena.org/) — global statistics, country profiles, technology briefs
-- [IEA – International Energy Agency](https://www.iea.org/) — reports, data, free explainers
+- [IEA – International Energy Agency](https://www.iea.org/energyexplained/) — reports, data, free explainers, US Energy Infromation Administration: Energy Explained, Your guide to understanding energy
 - [NREL – US National Renewable Energy Laboratory](https://www.nrel.gov/) — deep technical resources and datasets
 - [Our World in Data – Energy](https://ourworldindata.org/energy) — free charts, ideal for teaching trends
 - [US EIA – Energy Explained](https://www.eia.gov/energyexplained/) — clear, structured explainers
@@ -37,6 +37,7 @@ A trilingual collection of reliable resources to **understand, learn, and teach*
 - [ADEME – Agence de la transition écologique](https://www.ademe.fr/) — référence française incontournable
 - [RTE – Bilans et données électriques](https://www.rte-france.com/) — données du réseau électrique français
 - [Connaissance des Énergies](https://www.connaissancedesenergies.org/) — fiches pédagogiques claires en français
+- [Comprendre les scénarios de transition 2050](https://comprendre2050.fr/annuaire/) — L’ADEME, négaWatt et The Shift Project décryptent les scénarios climat-énergie
 
 ### Cours et ressources pédagogiques
 
@@ -54,8 +55,8 @@ A trilingual collection of reliable resources to **understand, learn, and teach*
 - [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) — amtliche Daten und Politik (❤️)
 - [BMWK – Erneuerbare Energien](https://www.bmwk.de/Redaktion/DE/Dossier/erneuerbare-energien.html) — Bundesministerium für Wirtschaft und Klimaschutz
 - [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/) — interaktive Echtzeit-Daten, hervorragend für den Unterricht (DE/EN/FR)
-- [Max Planck Gesellschaft](https://www.mpg.de/11952947/energie
-- https://www.solarenergie.de/hintergrundwissen/erneuerbare-energien)
+- [Max Planck Gesellschaft](https://www.mpg.de/11952947/energie)
+- [Solarenergie Hintergrundwissen](https://www.solarenergie.de/hintergrundwissen/erneuerbare-energien)
 
 ### Lernen & Lehren
 
