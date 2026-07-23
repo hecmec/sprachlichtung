@@ -13,6 +13,9 @@ keywords:
 last_update:
   date: 2026-01-29
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
+
 # slug:
 # image:
 ---

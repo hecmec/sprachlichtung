@@ -5,16 +5,18 @@ sidebar_label: Einführung in die Politische Argumentation
 sidebar_position: 4
 description: "Das Sprachspiel der politischen Argumentation"
 keywords:
-    - Gesellschaftsspiele
-    - Definition
-    - Gewalt
-    - Kooperation
-    - Gleichheit und Ungleichheit
+  - Gesellschaftsspiele
+  - Definition
+  - Gewalt
+  - Kooperation
+  - Gleichheit und Ungleichheit
 last_update:
   date: 2025-10-17
   author: Immanuel Lupinus
-# slug: 
-# image: 
+completeness: 3/5
+draft: false
+# slug:
+# image:
 ---
 
 ## Was ist besonderes an der politischen Argumentation?
@@ -22,6 +24,7 @@ last_update:
 Politische Argumentation ist ein spezielles Sprachspiel, das sich durch bestimmte Merkmale und Dynamiken auszeichnet. Hier sind einige der wichtigsten Aspekte:
 
 ### Merkmale politischer Argumentation
+
 - **Öffentlichkeit**: Politische Argumentation findet in der Öffentlichkeit statt und betrifft die Gemeinschaft als Ganzes.
 - **Macht und Einfluss**: Sie ist oft mit Machtstrukturen und dem Streben nach Einfluss verbunden.
 - **Werte und Normen**: Politische Argumentation berührt grundlegende Werte und Normen einer Gesellschaft.
@@ -39,17 +42,17 @@ Politische Argumentation ist ein spezielles Sprachspiel, das sich durch bestimmt
 ### Argumente und Interessen
 
 - Fast immer, wenn in der Politik argumentiert wird, stehen **Interessen** im Hintergrund oder im Vordergrund.
-- Diese Interessen können sowohl individueller als auch kollektiver Natur sein und beeinflussen, wie Argumente formuliert und präsentiert werden. 
+- Diese Interessen können sowohl individueller als auch kollektiver Natur sein und beeinflussen, wie Argumente formuliert und präsentiert werden.
 - Es ist wichtig, die zugrunde liegenden Interessen zu erkennen, um die Argumentation besser zu verstehen.
 - Z.B. gäbe es sicherlich weniger Klimaleugner, wenn sie nicht von der fossilen Industrie finanziert würden.
-- Oder, um ein klassisches Beispiel zu zitieren: 
-die Zigarettenlobby hat jahrzehntelang erfolgreich Zweifel an den gesundheitlichen Risiken des Rauchens gesät, 
-um ihre wirtschaftlichen Interessen zu schützen, mit den tollsten Argumenten.
+- Oder, um ein klassisches Beispiel zu zitieren:
+  die Zigarettenlobby hat jahrzehntelang erfolgreich Zweifel an den gesundheitlichen Risiken des Rauchens gesät,
+  um ihre wirtschaftlichen Interessen zu schützen, mit den tollsten Argumenten.
 
 ### Politische Rhetorik und Manipulation
 
-- Politische Rhetorik spielt eine entscheidende Rolle in der politischen Argumentation. 
-- Sie umfasst die Verwendung von Sprache und Stilmitteln, um die eigene Position zu stärken und die Gegner zu schwächen. 
+- Politische Rhetorik spielt eine entscheidende Rolle in der politischen Argumentation.
+- Sie umfasst die Verwendung von Sprache und Stilmitteln, um die eigene Position zu stärken und die Gegner zu schwächen.
 - Manipulative Rhetorik kann dazu führen, dass Fakten verzerrt oder übertrieben dargestellt werden, um die öffentliche Meinung zu beeinflussen. (siehe z.B.: [Charlie Kirk](./05-charly-kirk-als-politischer-sophist.md))
 
 ## Gute und schlechte politische Argumente

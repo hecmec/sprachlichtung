@@ -14,6 +14,8 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
 # slug:
 image: ../img/charlie-kirk-memorial-FS.webp
 ---

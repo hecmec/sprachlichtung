@@ -13,8 +13,8 @@ keywords:
 last_update:
   date: 2026-06-28
   author: Immanuel Lupinus
-completeness: 1/5
-draft: true
+completeness: 3/5
+draft: false
 # slug:
 # image:
 ---
@@ -52,18 +52,18 @@ Die Erzählung, wir könnten einfach immer mehr verbrauchen und alles über neue
 
 Zahlen sagen mehr als Meinungen. Die folgende Tabelle zeigt grobe **Gestehungskosten** für **neue** Anlagen, also was eine erzeugte Kilowattstunde (kWh) ungefähr kostet, wenn man Bau, Betrieb und Finanzierung über die Lebensdauer (hier vereinfacht rund 20 Jahre) umlegt. Die Werte sind Faustzahlen in **Cent pro kWh** und schwanken je nach Standort, Größe, Zinsen und Wetter stark.[^kosten]
 
-| Energieform | Strom oder Wärme | ≈ Kosten (ct/kWh) | Bemerkung |
-| --- | --- | --- | --- |
-| Solarstrom, Freifläche | Strom | 4–7 | derzeit oft die günstigste Stromquelle |
-| Solarstrom, Hausdach | Strom | 7–12 | kleiner, dafür Strom direkt vor Ort |
-| Solarwärme (Solarthermie) | Wärme | 6–12 | für Warmwasser und Heizungsunterstützung |
-| Windkraft an Land (Onshore) | Strom | 4–9 | stark vom Standort abhängig |
-| Windkraft auf See (Offshore) | Strom | 7–12 | viel Ertrag, aber teurer Bau |
-| Wasserkraft | Strom | 5–15 | Bestand sehr billig, Neubau teuer |
-| Biomasse / Biogas | Strom | 10–20 | planbar steuerbar, aber teuer und begrenzt |
-| Erdwärme, oberflächennah (Wärmepumpe) | Wärme | 8–15 | hängt am Strompreis der Pumpe |
-| Erdwärme, tief (Tiefengeothermie) | Wärme | 4–10 | hohe Anfangskosten, Bohrrisiko |
-| Erdwärme, tief (Stromerzeugung) | Strom | 15–30 | nur an günstigen Standorten wirtschaftlich |
+| Energieform                           | Strom oder Wärme | ≈ Kosten (ct/kWh) | Bemerkung                                  |
+| ------------------------------------- | ---------------- | ----------------- | ------------------------------------------ |
+| Solarstrom, Freifläche                | Strom            | 4–7               | derzeit oft die günstigste Stromquelle     |
+| Solarstrom, Hausdach                  | Strom            | 7–12              | kleiner, dafür Strom direkt vor Ort        |
+| Solarwärme (Solarthermie)             | Wärme            | 6–12              | für Warmwasser und Heizungsunterstützung   |
+| Windkraft an Land (Onshore)           | Strom            | 4–9               | stark vom Standort abhängig                |
+| Windkraft auf See (Offshore)          | Strom            | 7–12              | viel Ertrag, aber teurer Bau               |
+| Wasserkraft                           | Strom            | 5–15              | Bestand sehr billig, Neubau teuer          |
+| Biomasse / Biogas                     | Strom            | 10–20             | planbar steuerbar, aber teuer und begrenzt |
+| Erdwärme, oberflächennah (Wärmepumpe) | Wärme            | 8–15              | hängt am Strompreis der Pumpe              |
+| Erdwärme, tief (Tiefengeothermie)     | Wärme            | 4–10              | hohe Anfangskosten, Bohrrisiko             |
+| Erdwärme, tief (Stromerzeugung)       | Strom            | 15–30             | nur an günstigen Standorten wirtschaftlich |
 
 Drei Dinge sollte man beim Lesen im Kopf behalten. Erstens: **Strom und Wärme lassen sich nicht direkt vergleichen**, es sind verschiedene Produkte, auch wenn beide in Cent pro kWh stehen. Zweitens: Diese Kosten sagen nichts über den **Rhythmus** aus. Solar- und Windstrom sind billig, aber nicht immer verfügbar; Speicher und Netze kosten extra und stehen in der Tabelle nicht. Drittens: **Bestehende, längst abbezahlte Anlagen** (etwa alte Wasserkraftwerke) produzieren oft für wenige Cent, während der Neubau derselben Technik teurer ausfällt.
 

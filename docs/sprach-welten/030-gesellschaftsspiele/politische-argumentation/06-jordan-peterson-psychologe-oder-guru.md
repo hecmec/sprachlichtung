@@ -5,23 +5,26 @@ sidebar_label: Jordan Peterson
 sidebar_position: 5
 description: "Jordan Peterson: Psychologe oder Guru? Eine kritische Betrachtung seiner Rhetorik und Ansichten."
 keywords:
-    - Jordan Peterson
-    - Psychologie
-    - Rhetorik
-    - Manipulation
-    - Konservatismus
-    - Argumentationstechniken
+  - Jordan Peterson
+  - Psychologie
+  - Rhetorik
+  - Manipulation
+  - Konservatismus
+  - Argumentationstechniken
 last_update:
   date: 2025-10-17
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
 # slug: jordan-peterson-psychologe-oder-guru
 # image: ../img/jordan-peterson-psychologe-oder-guru.webp
 ---
+
 import Admonition from '@theme/Admonition';
 
 ## Wer ist Jordan Peterson?
 
-Jordan Peterson ist ein kanadischer Psychologe, Professor und Autor, der für seine kontroversen Ansichten zu Themen wie Geschlechterrollen, politische Korrektheit und persönliche Verantwortung bekannt ist. 
+Jordan Peterson ist ein kanadischer Psychologe, Professor und Autor, der für seine kontroversen Ansichten zu Themen wie Geschlechterrollen, politische Korrektheit und persönliche Verantwortung bekannt ist.
 Er erlangte internationale Bekanntheit durch seine YouTube-Vorträge und seine Bücher, insbesondere "Maps of Meaning" und "12 Rules for Life".
 
 Peterson wird oft als konservativer Denker wahrgenommen, der sich gegen das, was er als übertriebene politische Korrektheit und identitätspolitische Agenden ansieht, ausspricht. Seine Rhetorik ist geprägt von psychologischen Einsichten, philosophischen Überlegungen und einer tiefen Skepsis gegenüber ideologischen Dogmen.
@@ -38,6 +41,5 @@ Er hat eine treue Anhängerschaft gewonnen, aber auch zahlreiche Kritiker, die s
 - **Kritik an Marxismus und Postmodernismus**: Peterson sieht in diesen Ideologien eine Bedrohung für die westliche Zivilisation und warnt vor deren Einfluss auf Bildung und Kultur.
 
 ## Kritik an Peterson's Rhetorik und Argumentation
-
 
 ... more is coming soon ...

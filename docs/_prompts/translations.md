@@ -1,4 +1,4 @@
-There is a translation skill that uses tools and all, see doc on tgranslations.
+There is a translation skill that uses tools and all, see doc on translations.
 
 ## some useful prompts
 
