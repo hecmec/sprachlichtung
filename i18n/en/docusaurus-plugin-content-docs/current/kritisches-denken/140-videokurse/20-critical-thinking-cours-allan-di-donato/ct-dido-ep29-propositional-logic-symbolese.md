@@ -1,6 +1,6 @@
 ---
-title: "Propositional Logic - Symbolese"
-sidebar_position: 28
+title: "29. Propositional Logic - Symbolese"
+sidebar_position: 29
 keywords:
   - propositional logic
   - truth-functional propositions

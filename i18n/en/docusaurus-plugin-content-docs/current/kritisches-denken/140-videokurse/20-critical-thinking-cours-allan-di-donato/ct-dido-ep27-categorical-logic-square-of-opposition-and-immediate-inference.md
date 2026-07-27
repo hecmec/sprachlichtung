@@ -1,6 +1,6 @@
 ---
-title: "Categorical Logic - Square of Opposition & Immediate Inference"
-sidebar_position: 26
+title: "27. Categorical Logic - Square of Opposition & Immediate Inference"
+sidebar_position: 27
 keywords:
   - square of opposition
   - immediate inference

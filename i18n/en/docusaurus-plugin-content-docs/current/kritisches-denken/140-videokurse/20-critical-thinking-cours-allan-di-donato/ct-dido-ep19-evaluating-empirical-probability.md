@@ -1,6 +1,6 @@
 ---
-title: "Evaluating Empirical Probability"
-sidebar_position: 18
+title: "19. Evaluating Empirical Probability"
+sidebar_position: 19
 keywords:
   - empirical probability
   - inductive reasoning

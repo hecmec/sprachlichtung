@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Bias"
+title: "2. Cognitive Bias"
 sidebar_position: 2
 keywords:
   - cognitive bias

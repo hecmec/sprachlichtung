@@ -1,5 +1,5 @@
 ---
-title: "Informal Fallacies - Relevance Part 1"
+title: "9. Informal Fallacies - Relevance Part 1"
 sidebar_position: 9
 keywords:
   - kritisches Denken

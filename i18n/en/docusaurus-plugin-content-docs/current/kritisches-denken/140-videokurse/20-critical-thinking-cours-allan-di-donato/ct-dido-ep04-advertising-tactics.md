@@ -1,5 +1,5 @@
 ---
-title: "Advertising Tactics"
+title: "4. Advertising Tactics"
 sidebar_position: 4
 keywords:
   - advertising

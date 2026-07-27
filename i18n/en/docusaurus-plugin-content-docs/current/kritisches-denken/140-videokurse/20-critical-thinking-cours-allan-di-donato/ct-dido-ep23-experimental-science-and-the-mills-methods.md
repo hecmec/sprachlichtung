@@ -1,6 +1,6 @@
 ---
-title: "Experimental Science & The Mill's Methods"
-sidebar_position: 22
+title: "23. Experimental Science & The Mill's Methods"
+sidebar_position: 23
 keywords:
   - Mill's Methods
   - experimental science

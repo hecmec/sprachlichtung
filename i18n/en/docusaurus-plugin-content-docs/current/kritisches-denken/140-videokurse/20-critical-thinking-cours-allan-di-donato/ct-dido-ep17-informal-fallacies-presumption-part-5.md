@@ -1,6 +1,6 @@
 ---
-title: "Informal Fallacies - Presumption Part 5"
-sidebar_position: 16
+title: "17. Informal Fallacies - Presumption Part 5"
+sidebar_position: 17
 keywords:
   - fallacies of presumption
   - missing evidence

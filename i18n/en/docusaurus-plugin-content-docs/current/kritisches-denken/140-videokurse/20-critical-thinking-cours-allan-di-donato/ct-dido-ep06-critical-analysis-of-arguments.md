@@ -1,5 +1,5 @@
 ---
-title: "Critical Analysis of Arguments"
+title: "6. Critical Analysis of Arguments"
 sidebar_position: 6
 keywords:
   - argument analysis

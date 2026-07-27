@@ -1,6 +1,6 @@
 ---
-title: "Informal Fallacies - Presumption Part 4"
-sidebar_position: 15
+title: "16. Informal Fallacies - Presumption Part 4"
+sidebar_position: 16
 keywords:
   - inductive fallacies
   - hasty generalization

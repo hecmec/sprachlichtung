@@ -352,7 +352,7 @@
     "description": "The generated-index page description for category 'Liste der bekanntesten informellen Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
   },
   "sidebar.kritDenkenSidebar.category.Critical Thinking Course by Allan Di Donato": {
-    "message": "_t_Critical Thinking Course by Allan Di Donato",
+    "message": "Allan Di Donato's Critical Thinking Course",
     "description": "The label for category 'Critical Thinking Course by Allan Di Donato' in sidebar 'kritDenkenSidebar'"
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: "Informal Fallacies - Relevance Part 3"
+title: "11. Informal Fallacies - Relevance Part 3"
 sidebar_position: 11
 keywords:
   - fallacies of relevance

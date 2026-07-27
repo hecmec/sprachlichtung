@@ -1,6 +1,6 @@
 ---
-title: "Informal Fallacies - Presumption Part 1"
-sidebar_position: 12
+title: "13. Informal Fallacies - Presumption Part 1"
+sidebar_position: 13
 keywords:
   - fallacies of presumption
   - begging the question

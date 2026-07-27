@@ -1,6 +1,6 @@
 ---
-title: "Informal Fallacies - Presumption Part 2"
-sidebar_position: 13
+title: "14. Informal Fallacies - Presumption Part 2"
+sidebar_position: 14
 keywords:
   - fallacies of presumption
   - false dichotomy

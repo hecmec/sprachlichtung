@@ -1,6 +1,6 @@
 ---
-title: "Historical Science & Causal Reasoning"
-sidebar_position: 23
+title: "24. Historical Science & Causal Reasoning"
+sidebar_position: 24
 keywords:
   - historical science
   - causal reasoning

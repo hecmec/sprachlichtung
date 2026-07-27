@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Deductive Logic"
-sidebar_position: 24
+title: "25. Introduction to Deductive Logic"
+sidebar_position: 25
 keywords:
   - deductive logic
   - validity and soundness

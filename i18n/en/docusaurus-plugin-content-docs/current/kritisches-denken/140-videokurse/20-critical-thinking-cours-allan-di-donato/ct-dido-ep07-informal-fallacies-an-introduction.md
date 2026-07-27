@@ -1,5 +1,5 @@
 ---
-title: "Informal Fallacies - An Introduction"
+title: "7. Informal Fallacies - An Introduction"
 sidebar_position: 7
 keywords:
   - informal fallacies

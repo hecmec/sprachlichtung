@@ -1,5 +1,5 @@
 ---
-title: "Informal Fallacies - Ambiguity"
+title: "8. Informal Fallacies - Ambiguity"
 sidebar_position: 8
 keywords:
   - fallacies of ambiguity

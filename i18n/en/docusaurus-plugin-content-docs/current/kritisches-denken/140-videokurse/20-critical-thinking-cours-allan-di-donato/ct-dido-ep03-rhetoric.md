@@ -1,5 +1,5 @@
 ---
-title: "Rhetoric"
+title: "3. Rhetoric"
 sidebar_position: 3
 keywords:
   - rhetoric

@@ -1,6 +1,6 @@
 ---
-title: "Informal Fallacies - Presumption Part 3"
-sidebar_position: 14
+title: "15. Informal Fallacies - Presumption Part 3"
+sidebar_position: 15
 keywords:
   - kritisches Denken
   - Index

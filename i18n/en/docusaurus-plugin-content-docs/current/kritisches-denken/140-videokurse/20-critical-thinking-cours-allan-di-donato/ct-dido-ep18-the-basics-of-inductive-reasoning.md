@@ -1,6 +1,6 @@
 ---
-title: "The Basics of Inductive Reasoning"
-sidebar_position: 17
+title: "18. The Basics of Inductive Reasoning"
+sidebar_position: 18
 keywords:
   - inductive reasoning
   - induction vs deduction

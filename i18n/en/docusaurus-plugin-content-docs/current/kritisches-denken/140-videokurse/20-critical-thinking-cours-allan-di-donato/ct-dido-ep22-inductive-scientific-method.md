@@ -1,6 +1,6 @@
 ---
-title: "Inductive Scientific Method"
-sidebar_position: 21
+title: "22. Inductive Scientific Method"
+sidebar_position: 22
 keywords:
   - scientific method
   - inductive reasoning

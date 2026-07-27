@@ -1,6 +1,6 @@
 ---
-title: "Categorical Logic - The Basics"
-sidebar_position: 25
+title: "26. Categorical Logic - The Basics"
+sidebar_position: 26
 keywords:
   - categorical logic
   - categorical propositions

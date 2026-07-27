@@ -1,6 +1,6 @@
 ---
-title: "Kinds of Certainty"
-sidebar_position: 19
+title: "20. Kinds of Certainty"
+sidebar_position: 20
 keywords:
   - certainty
   - certitude

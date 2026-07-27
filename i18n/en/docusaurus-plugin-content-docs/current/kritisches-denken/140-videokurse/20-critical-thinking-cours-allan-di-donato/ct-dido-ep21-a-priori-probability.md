@@ -1,6 +1,6 @@
 ---
-title: "A Priori Probability"
-sidebar_position: 20
+title: "21. A Priori Probability"
+sidebar_position: 21
 keywords:
   - a priori probability
   - probability calculations

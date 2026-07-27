@@ -1,6 +1,6 @@
 ---
-title: "What is Critical Thinking?"
-sidebar_label: "Course Overview"
+title: "1. What is Critical Thinking?"
+sidebar_label: "1. Course Overview"
 sidebar_position: 1
 description: "An overview of the Critical Thinking course by Allan Di Donato, covering key concepts, vocabulary, and the importance of critical thinking skills."
 keywords:

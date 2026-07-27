@@ -1,5 +1,5 @@
 ---
-title: "Logic, Argument, and Truth"
+title: "5. Logic, Argument, and Truth"
 sidebar_position: 5
 keywords:
   - kritisches Denken
