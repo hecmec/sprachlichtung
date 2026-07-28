@@ -62,6 +62,9 @@ const config: Config = {
 
   plugins: [
     "docusaurus-plugin-image-zoom", // can also just be 'image-zoom'
+    // Computes a thumbnail image per docs page (front matter `image` -> first
+    // inline image -> default), exposed as global data for <CategoryIndexList/>.
+    ["./plugins/docs-card-images", { defaultImage: "/img/brain-workout.webp" }],
   ],
 
   presets: [
