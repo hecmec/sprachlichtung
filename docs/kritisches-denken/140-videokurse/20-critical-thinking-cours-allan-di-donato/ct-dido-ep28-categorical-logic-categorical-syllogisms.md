@@ -31,7 +31,7 @@ controls src='https://youtu.be/2POmtPgCRb8' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese Vorlesung setzt die frühere Grundlagenarbeit der kategorialen Logik endli
 </div>
 <div className="col col--6 video-translation">
 
-### Ein durchgerechnetes Beispiel
+<h3>Ein durchgerechnetes Beispiel</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Betrachte: Prämisse 1, „Keine Logiker sind Menschen, die den Widerspruch umar
 </div>
 <div className="col col--6 video-translation">
 
-### Verteilung (Distribution)
+<h3>Verteilung (Distribution)</h3>
 
 </div>
 </div>
@@ -141,7 +141,7 @@ Die Verteilung des Subjekts ist leicht am Quantor zu erkennen: Es ist nach *alle
 </div>
 <div className="col col--6 video-translation">
 
-### Ober-, Unter- und Mittelbegriff
+<h3>Ober-, Unter- und Mittelbegriff</h3>
 
 </div>
 </div>
@@ -167,7 +167,7 @@ Eine einzelne Proposition hat keinen Ober-, Unter- oder Mittelbegriff, ein Syllo
 </div>
 <div className="col col--6 video-translation">
 
-### Die vier Regeln der Gültigkeit
+<h3>Die vier Regeln der Gültigkeit</h3>
 
 </div>
 </div>
@@ -245,7 +245,7 @@ Wenn diese Teile vorhanden sind, reduziert sich die Gültigkeitsprüfung auf das
 </div>
 <div className="col col--6 video-translation">
 
-### Eine Übersetzungsfalle
+<h3>Eine Übersetzungsfalle</h3>
 
 </div>
 </div>

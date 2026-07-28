@@ -31,7 +31,7 @@ controls src='https://youtu.be/gmf5pdW_3U8' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Aufbauend auf der vorigen Erörterung der mathematischen Gewissheit wendet sich 
 </div>
 <div className="col col--6 video-translation">
 
-### A-priori- vs. A-posteriori-Wahrscheinlichkeit
+<h3>A-priori- vs. A-posteriori-Wahrscheinlichkeit</h3>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Eine naheliegende Frage ist, warum wir von Wahrscheinlichkeit statt von Gewisshe
 </div>
 <div className="col col--6 video-translation">
 
-### Ausschließliche (einzelne) Ereignisse
+<h3>Ausschließliche (einzelne) Ereignisse</h3>
 
 </div>
 </div>
@@ -139,7 +139,7 @@ Für ein **ausschließliches Ereignis**, für sich genommen und nicht mit einem 
 </div>
 <div className="col col--6 video-translation">
 
-### Unabhängige Ereignisse
+<h3>Unabhängige Ereignisse</h3>
 
 </div>
 </div>
@@ -184,7 +184,7 @@ Für ein **ausschließliches Ereignis**, für sich genommen und nicht mit einem 
 </div>
 <div className="col col--6 video-translation">
 
-### Abhängige Ereignisse
+<h3>Abhängige Ereignisse</h3>
 
 </div>
 </div>
@@ -223,7 +223,7 @@ Zwei Asse ohne Zurücklegen ziehen: P(A) = 4/52, P(B gegeben A) = 3/51 (ein Ass 
 </div>
 <div className="col col--6 video-translation">
 
-### Permutationen und Kombinationen
+<h3>Permutationen und Kombinationen</h3>
 
 </div>
 </div>
@@ -322,7 +322,7 @@ Beachte, dass das Erraten der richtigen Dreibuchstaben-Kombination uns zur Grund
 </div>
 <div className="col col--6 video-translation">
 
-### Zurück zur A-posteriori-Wahrscheinlichkeit und zu Mittelwerten
+<h3>Zurück zur A-posteriori-Wahrscheinlichkeit und zu Mittelwerten</h3>
 
 </div>
 </div>

@@ -31,7 +31,7 @@ controls src='https://youtu.be/WFeboDgVIk8' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese vierte Folge zu den **Fehlschlüssen der Voraussetzung** verengt den Fokus
 </div>
 <div className="col col--6 video-translation">
 
-### Verallgemeinerung
+<h3>Verallgemeinerung</h3>
 
 </div>
 </div>
@@ -122,7 +122,7 @@ Eine **Verallgemeinerung** leitet aus der wiederholten Erfahrung ähnlicher Einz
 </div>
 <div className="col col--6 video-translation">
 
-### Reduktion
+<h3>Reduktion</h3>
 
 </div>
 </div>
@@ -219,7 +219,7 @@ Beispiele: „Wir haben im Lotto gewonnen, weil ich meine Glückszahlen gespielt
 </div>
 <div className="col col--6 video-translation">
 
-### Ausblick
+<h3>Ausblick</h3>
 
 </div>
 </div>

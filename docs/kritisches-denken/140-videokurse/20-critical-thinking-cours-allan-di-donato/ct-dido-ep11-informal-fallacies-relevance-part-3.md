@@ -31,7 +31,7 @@ controls src='https://youtu.be/7uKYFIMsmJE' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Dies ist die **dritte von vier** Folgen zu den **Fehlschlüssen der Relevanz** u
 </div>
 <div className="col col--6 video-translation">
 
-### Consensus gentium (Berufung auf die Mehrheit)
+<h3>Consensus gentium (Berufung auf die Mehrheit)</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Dies ist die **dritte von vier** Folgen zu den **Fehlschlüssen der Relevanz** u
 </div>
 <div className="col col--6 video-translation">
 
-### Argumentum ad ignorantiam (Berufung auf Unwissenheit)
+<h3>Argumentum ad ignorantiam (Berufung auf Unwissenheit)</h3>
 
 </div>
 </div>
@@ -122,7 +122,7 @@ Wichtige Ausnahmen: Das Fehlen von Evidenz *kann* eine Schlussfolgerung stützen
 </div>
 <div className="col col--6 video-translation">
 
-### Argumentum ad verecundiam (Autoritätsargument)
+<h3>Argumentum ad verecundiam (Autoritätsargument)</h3>
 
 </div>
 </div>
@@ -182,7 +182,7 @@ Einen Konsens zurückzuweisen ist rational vertretbar, wenn du den Konsens sowoh
 </div>
 <div className="col col--6 video-translation">
 
-### Argumentum ad futurum (Berufung auf die Zukunft)
+<h3>Argumentum ad futurum (Berufung auf die Zukunft)</h3>
 
 </div>
 </div>
@@ -208,7 +208,7 @@ Ein Argument auf **erhoffte Ergebnisse stützen, die noch nicht eingetreten sind
 </div>
 <div className="col col--6 video-translation">
 
-### Wunschdenken
+<h3>Wunschdenken</h3>
 
 </div>
 </div>
@@ -234,7 +234,7 @@ Argumentieren, dass etwas wahr ist, einfach weil man es sich **wünscht** oder w
 </div>
 <div className="col col--6 video-translation">
 
-### Wie es weitergeht
+<h3>Wie es weitergeht</h3>
 
 </div>
 </div>

@@ -31,7 +31,7 @@ controls src='https://youtu.be/40KlV2t6zWo' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Aufbauend auf der vorigen Folge über kategoriale Propositionen führt dieses Vi
 </div>
 <div className="col col--6 video-translation">
 
-### Das logische Quadrat
+<h3>Das logische Quadrat</h3>
 
 </div>
 </div>
@@ -111,7 +111,7 @@ Alle Beziehungen setzen voraus, dass die Propositionen dieselben Subjekt- und Pr
 </div>
 <div className="col col--6 video-translation">
 
-### Die vier Beziehungen
+<h3>Die vier Beziehungen</h3>
 
 </div>
 </div>
@@ -191,7 +191,7 @@ Alle Beziehungen setzen voraus, dass die Propositionen dieselben Subjekt- und Pr
 </div>
 <div className="col col--6 video-translation">
 
-### Unmittelbare Folgerung
+<h3>Unmittelbare Folgerung</h3>
 
 </div>
 </div>
@@ -230,7 +230,7 @@ Aber das Quadrat hat auch Lücken. Aus einer *falschen* E-Proposition können wi
 </div>
 <div className="col col--6 video-translation">
 
-### Logische Äquivalenz und die drei Umformungen
+<h3>Logische Äquivalenz und die drei Umformungen</h3>
 
 </div>
 </div>
@@ -295,7 +295,7 @@ Zwei Propositionen sind **logisch äquivalent**, genau dann, wenn sie immer sowo
 </div>
 <div className="col col--6 video-translation">
 
-### Alles zusammenfügen
+<h3>Alles zusammenfügen</h3>
 
 </div>
 </div>

@@ -32,7 +32,7 @@ controls src='https://youtu.be/Masa9UZZtx8' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -58,7 +58,7 @@ Bevor wir gut schließen und argumentieren können, müssen wir die Kräfte vers
 </div>
 <div className="col col--6 video-translation">
 
-### Was ist eine kognitive Verzerrung?
+<h3>Was ist eine kognitive Verzerrung?</h3>
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Das entscheidende Ziel ist die **Anwendung auf sich selbst**: Verzerrungen bei a
 </div>
 <div className="col col--6 video-translation">
 
-### Ein Überblick über häufige Verzerrungen
+<h3>Ein Überblick über häufige Verzerrungen</h3>
 
 </div>
 </div>
@@ -133,7 +133,7 @@ Das entscheidende Ziel ist die **Anwendung auf sich selbst**: Verzerrungen bei a
 </div>
 <div className="col col--6 video-translation">
 
-### Gehorsam gegenüber Autorität
+<h3>Gehorsam gegenüber Autorität</h3>
 
 </div>
 </div>
@@ -172,7 +172,7 @@ Der berühmteste Beleg ist **Stanley Milgrams Experiment von 1961 in Yale**, in 
 </div>
 <div className="col col--6 video-translation">
 
-### Der Overconfidence-Effekt (Selbstüberschätzung)
+<h3>Der Overconfidence-Effekt (Selbstüberschätzung)</h3>
 
 </div>
 </div>
@@ -211,7 +211,7 @@ Das Gegenmittel ist **Demut**. Ganz im Sinne von Sokrates gilt: Je mehr wir unse
 </div>
 <div className="col col--6 video-translation">
 
-### Diskreditiert eine Verzerrung eine Meinung?
+<h3>Diskreditiert eine Verzerrung eine Meinung?</h3>
 
 </div>
 </div>
@@ -254,7 +254,7 @@ Eine natürliche Reaktion ist, voreingenommene Redner abzutun, einen Verkäufer 
 </div>
 <div className="col col--6 video-translation">
 
-### Aufgeschlossenheit, Kontroverse und Redefreiheit
+<h3>Aufgeschlossenheit, Kontroverse und Redefreiheit</h3>
 
 </div>
 </div>
@@ -293,7 +293,7 @@ Einen **offenen Geist** zu haben bedeutet, alle Seiten anzuhören und abzuwägen
 </div>
 <div className="col col--6 video-translation">
 
-### Die zentrale Erkenntnis
+<h3>Die zentrale Erkenntnis</h3>
 
 </div>
 </div>

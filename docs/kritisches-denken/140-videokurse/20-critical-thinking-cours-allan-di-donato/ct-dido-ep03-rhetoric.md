@@ -31,7 +31,7 @@ controls src='https://youtu.be/mJLnsB0NzfI' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ controls src='https://youtu.be/mJLnsB0NzfI' />
 </div>
 <div className="col col--6 video-translation">
 
-### Klarheit und vier Ursachen der Verwirrung
+<h3>Klarheit und vier Ursachen der Verwirrung</h3>
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Klare Kommunikation vermittelt Bedeutung genau. Die Klarheit wird durch vier Din
 </div>
 <div className="col col--6 video-translation">
 
-### Begriffe definieren
+<h3>Begriffe definieren</h3>
 
 </div>
 </div>
@@ -170,7 +170,7 @@ Nach ihrer Art können Definitionen **analytisch** sein (denotativ: die notwendi
 </div>
 <div className="col col--6 video-translation">
 
-### Argumentative Essays schreiben
+<h3>Argumentative Essays schreiben</h3>
 
 </div>
 </div>
@@ -196,7 +196,7 @@ Ein guter argumentativer Essay sollte: **die Streitfrage benennen**, **die eigen
 </div>
 <div className="col col--6 video-translation">
 
-### Glaubwürdigkeit beurteilen
+<h3>Glaubwürdigkeit beurteilen</h3>
 
 </div>
 </div>
@@ -237,7 +237,7 @@ Wenn eine Behauptung vorgebracht wird, beurteile sowohl **die Behauptung selbst*
 </div>
 <div className="col col--6 video-translation">
 
-### Aristoteles' Überzeugungsmittel
+<h3>Aristoteles' Überzeugungsmittel</h3>
 
 </div>
 </div>
@@ -293,7 +293,7 @@ Er gab außerdem die **fünf Kanones der Rhetorik**: *inventio* (Argumente entwi
 </div>
 <div className="col col--6 video-translation">
 
-### Rhetorische Mittel
+<h3>Rhetorische Mittel</h3>
 
 </div>
 </div>
@@ -338,7 +338,7 @@ Diese verwenden emotional aufgeladene Sprache, um Überzeugungen und Gefühle oh
 </div>
 <div className="col col--6 video-translation">
 
-### Bilder
+<h3>Bilder</h3>
 
 </div>
 </div>

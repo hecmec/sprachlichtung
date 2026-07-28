@@ -31,7 +31,7 @@ controls src='https://youtu.be/IhtiuS_yBpc' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Aufbauend auf der Einführung in die wissenschaftliche Methode aus der vorigen F
 </div>
 <div className="col col--6 video-translation">
 
-### Die induktive experimentelle Methode
+<h3>Die induktive experimentelle Methode</h3>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Mehrere Methoden kommen in **positiven und negativen Versionen** vor. Positive T
 </div>
 <div className="col col--6 video-translation">
 
-### Kernbegriffe
+<h3>Kernbegriffe</h3>
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Ein **vorausgehender Faktor** ist ein Ereignis oder Ding, das der betrachteten W
 </div>
 <div className="col col--6 video-translation">
 
-### Methode der Übereinstimmung
+<h3>Methode der Übereinstimmung</h3>
 
 </div>
 </div>
@@ -174,7 +174,7 @@ Die **negative** Version findet, was die Ursache _nicht_ ist: Kein vorausgehende
 </div>
 <div className="col col--6 video-translation">
 
-### Methode des Unterschieds
+<h3>Methode des Unterschieds</h3>
 
 </div>
 </div>
@@ -213,7 +213,7 @@ Die **negative** Version besagt, dass kein vorausgehender Faktor die Ursache sei
 </div>
 <div className="col col--6 video-translation">
 
-### Die verbundene Methode
+<h3>Die verbundene Methode</h3>
 
 </div>
 </div>
@@ -239,7 +239,7 @@ Die dritte Methode kombiniert einfach die Methoden der Übereinstimmung und des 
 </div>
 <div className="col col--6 video-translation">
 
-### Methode der begleitenden Veränderung
+<h3>Methode der begleitenden Veränderung</h3>
 
 </div>
 </div>
@@ -265,7 +265,7 @@ Wenn das Auftreten eines Phänomens **mit einem bestimmten Element variiert**, s
 </div>
 <div className="col col--6 video-translation">
 
-### Methode der Residuen
+<h3>Methode der Residuen</h3>
 
 </div>
 </div>

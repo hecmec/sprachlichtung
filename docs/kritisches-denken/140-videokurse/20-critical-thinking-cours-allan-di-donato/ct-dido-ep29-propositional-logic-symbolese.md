@@ -31,7 +31,7 @@ controls src='https://youtu.be/o2_QMuy0i0g' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Nach mehreren Folgen über kategoriale Logik kehrt dieses Video zu einer anderen
 </div>
 <div className="col col--6 video-translation">
 
-### Aussagen als Bausteine
+<h3>Aussagen als Bausteine</h3>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Die Bezeichnung **wahrheitsfunktional** erfasst den Kerngedanken: Der Wahrheitsw
 </div>
 <div className="col col--6 video-translation">
 
-### Das Vokabular des Symbolesischen
+<h3>Das Vokabular des Symbolesischen</h3>
 
 </div>
 </div>
@@ -139,7 +139,7 @@ Die Sprache hat mehrere Arten von Symbolen:
 </div>
 <div className="col col--6 video-translation">
 
-### Die Operatoren
+<h3>Die Operatoren</h3>
 
 </div>
 </div>
@@ -188,7 +188,7 @@ Operatoren verbinden oder modifizieren Aussagen und bestimmen den Gesamtwahrheit
 </div>
 <div className="col col--6 video-translation">
 
-### Wie sich jeder Operator verhält
+<h3>Wie sich jeder Operator verhält</h3>
 
 </div>
 </div>
@@ -246,7 +246,7 @@ Di Donato merkt außerdem an, dass manche zusammengesetzten Propositionen **nich
 </div>
 <div className="col col--6 video-translation">
 
-### Natürliche Sprache ins Symbolesische übersetzen
+<h3>Natürliche Sprache ins Symbolesische übersetzen</h3>
 
 </div>
 </div>
@@ -285,7 +285,7 @@ Bei **Disjunktionen** achte auf *either … or*, das schlichte *or* und das kont
 </div>
 <div className="col col--6 video-translation">
 
-### Durchgerechnete Beispiele
+<h3>Durchgerechnete Beispiele</h3>
 
 </div>
 </div>

@@ -31,7 +31,7 @@ controls src='https://youtu.be/BmbPbtMlG0Y' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Nach dem Abschluss des langen Überblicks des Kurses über Induktion, wissenscha
 </div>
 <div className="col col--6 video-translation">
 
-### Argumente: Prämissen und Schlussfolgerungen
+<h3>Argumente: Prämissen und Schlussfolgerungen</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Ein **Argument** ist eine strukturierte Gruppe von Aussagen oder Propositionen, 
 </div>
 <div className="col col--6 video-translation">
 
-### Gültigkeit, Wahrheit und Stichhaltigkeit
+<h3>Gültigkeit, Wahrheit und Stichhaltigkeit</h3>
 
 </div>
 </div>
@@ -208,7 +208,7 @@ Die Lektion: Gültigkeit sagt nur, dass, _wenn_ die Prämissen wahr sind, die Sc
 </div>
 <div className="col col--6 video-translation">
 
-### Formale vs. materiale Logik
+<h3>Formale vs. materiale Logik</h3>
 
 </div>
 </div>
@@ -247,7 +247,7 @@ Das ist der Unterschied zwischen formaler und materialer Logik. Beim Analysieren
 </div>
 <div className="col col--6 video-translation">
 
-### Propositionen und Aussagesätze
+<h3>Propositionen und Aussagesätze</h3>
 
 </div>
 </div>
@@ -299,7 +299,7 @@ Entscheidend ist, dass viele verschiedene Sätze eine einzige Proposition ausdr�
 </div>
 <div className="col col--6 video-translation">
 
-### Fünf Arten von Propositionen (Vorschau)
+<h3>Fünf Arten von Propositionen (Vorschau)</h3>
 
 </div>
 </div>

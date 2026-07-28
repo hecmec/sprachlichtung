@@ -31,7 +31,7 @@ controls src='https://youtu.be/tLj8Xn3no1w' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese letzte Folge von Allan Di Donatos Rundgang durch die **informellen Fehlsch
 </div>
 <div className="col col--6 video-translation">
 
-### 1. Hypothese wider die Tatsachen
+<h3>1. Hypothese wider die Tatsachen</h3>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Dies wird auch **Ad-hoc-Hypothese** genannt (vom lateinischen „zu diesem", im 
 </div>
 <div className="col col--6 video-translation">
 
-### 2. Falsche Präzision
+<h3>2. Falsche Präzision</h3>
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Sein Hauptbeispiel ist eine Umfrage, die behauptet, „die meisten Amerikaner gl
 </div>
 <div className="col col--6 video-translation">
 
-### 3. Berufung auf die Wahrscheinlichkeit (der Spielerfehlschluss)
+<h3>3. Berufung auf die Wahrscheinlichkeit (der Spielerfehlschluss)</h3>
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Die **Berufung auf die Wahrscheinlichkeit**, auch **Spielerfehlschluss** genannt
 </div>
 <div className="col col--6 video-translation">
 
-### 4. Bestätigungsfehler
+<h3>4. Bestätigungsfehler</h3>
 
 </div>
 </div>
@@ -200,7 +200,7 @@ Entscheidend ist sein Argument, dass **eine Voreingenommenheit zu haben weder fa
 </div>
 <div className="col col--6 video-translation">
 
-### Fazit
+<h3>Fazit</h3>
 
 </div>
 </div>

@@ -31,7 +31,7 @@ controls src='https://youtu.be/4-E-q73dpVI' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Hier beginnt die letzte und größte Familie der informellen Fehlschlüsse: die 
 </div>
 <div className="col col--6 video-translation">
 
-### 1. Petitio principii (Zirkelschluss / Erschleichung des Beweisgrundes)
+<h3>1. Petitio principii (Zirkelschluss / Erschleichung des Beweisgrundes)</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Hier beginnt die letzte und größte Familie der informellen Fehlschlüsse: die 
 </div>
 <div className="col col--6 video-translation">
 
-### 2. Komplexe Frage / Suggestivfrage
+<h3>2. Komplexe Frage / Suggestivfrage</h3>
 
 </div>
 </div>
@@ -109,7 +109,7 @@ Eine Frage, die die **Antwort auf eine unausgesprochene, oft falsche Frage vorau
 </div>
 <div className="col col--6 video-translation">
 
-### 3. Tendenziöse Definition
+<h3>3. Tendenziöse Definition</h3>
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Einen Begriff auf **ungerechtfertigte** Weise definieren (zu weit, zu eng oder v
 </div>
 <div className="col col--6 video-translation">
 
-### 4. Sonderplädoyer / unterschlagene Beweise
+<h3>4. Sonderplädoyer / unterschlagene Beweise</h3>
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Der Gegenposition ein faires Gehör verwehren, entweder indem man an das Argumen
 </div>
 <div className="col col--6 video-translation">
 
-### 5. Das Blatt zinken (im engeren Sinne)
+<h3>5. Das Blatt zinken (im engeren Sinne)</h3>
 
 </div>
 </div>
@@ -187,7 +187,7 @@ Zum Sieger erklären, wer **Maßstäbe erfüllt, die man so gesetzt hat, dass nu
 </div>
 <div className="col col--6 video-translation">
 
-### 6. „Kein wahrer Schotte" (No true Scotsman)
+<h3>6. „Kein wahrer Schotte" (No true Scotsman)</h3>
 
 </div>
 </div>
@@ -213,7 +213,7 @@ Zum Sieger erklären, wer **Maßstäbe erfüllt, die man so gesetzt hat, dass nu
 </div>
 <div className="col col--6 video-translation">
 
-### 7. Dammbruchargument (Domino-Fehlschluss)
+<h3>7. Dammbruchargument (Domino-Fehlschluss)</h3>
 
 </div>
 </div>
@@ -239,7 +239,7 @@ A ablehnen, weil es angeblich eine unvermeidliche Kette A → B → C → D ausl
 </div>
 <div className="col col--6 video-translation">
 
-### Wie es weitergeht
+<h3>Wie es weitergeht</h3>
 
 </div>
 </div>

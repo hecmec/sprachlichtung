@@ -31,7 +31,7 @@ controls src='https://youtu.be/ABNs9pGjq0U' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Von der experimentellen Wissenschaft und Mills Methoden ausgehend, wendet sich d
 </div>
 <div className="col col--6 video-translation">
 
-### Experimentelle vs. historische Wissenschaft
+<h3>Experimentelle vs. historische Wissenschaft</h3>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Entscheidend ist, dass das Experimentieren auch für die historische Wissenschaf
 </div>
 <div className="col col--6 video-translation">
 
-### Zwei Kernprinzipien: Kausalität und Gleichförmigkeit
+<h3>Zwei Kernprinzipien: Kausalität und Gleichförmigkeit</h3>
 
 </div>
 </div>
@@ -148,7 +148,7 @@ Das **Prinzip der Gleichförmigkeit** besagt, dass *die Gegenwart der Schlüssel
 </div>
 <div className="col col--6 video-translation">
 
-### Fehler im kausalen Schließen
+<h3>Fehler im kausalen Schließen</h3>
 
 </div>
 </div>
@@ -213,7 +213,7 @@ Der Großteil der Folge katalogisiert **kausale Fehlschlüsse**, Voraussetzungsf
 </div>
 <div className="col col--6 video-translation">
 
-### Abschluss
+<h3>Abschluss</h3>
 
 </div>
 </div>

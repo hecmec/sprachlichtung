@@ -31,7 +31,7 @@ controls src='https://youtu.be/rJ5Wyy3cZCc' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Die zweite Folge zu den **Fehlschlüssen der Voraussetzung** behandelt die Unter
 </div>
 <div className="col col--6 video-translation">
 
-### 1. Falsche Dichotomie (falsches Dilemma / Bifurkation / ausgeschlossene Mitte)
+<h3>1. Falsche Dichotomie (falsches Dilemma / Bifurkation / ausgeschlossene Mitte)</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Oversimplifying by reducing the available options, usually presenting **two choi
 </div>
 <div className="col col--6 video-translation">
 
-### 2. „Nichts-als"-Fehlschluss (reduktiver Fehlschluss)
+<h3>2. „Nichts-als"-Fehlschluss (reduktiver Fehlschluss)</h3>
 
 </div>
 </div>
@@ -109,7 +109,7 @@ Treating **one aspect of a thing as the whole** of it, "X is nothing but Y", whe
 </div>
 <div className="col col--6 video-translation">
 
-### 3. Kategorienfehler
+<h3>3. Kategorienfehler</h3>
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Confusing **kinds, types, or natures**, imposing the principles of one category 
 </div>
 <div className="col col--6 video-translation">
 
-### 4. Bart-Argument (Kontinuum / Sorites / Grenzziehung / Fehlschluss des kahlen Mannes)
+<h3>4. Bart-Argument (Kontinuum / Sorites / Grenzziehung / Fehlschluss des kahlen Mannes)</h3>
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Ein Fehlschluss über Fragen des **Grades**: argumentieren, dass es, weil man de
 </div>
 <div className="col col--6 video-translation">
 
-### 5. Fehlschluss der Mäßigung (goldene Mitte)
+<h3>5. Fehlschluss der Mäßigung (goldene Mitte)</h3>
 
 </div>
 </div>
@@ -187,7 +187,7 @@ Annehmen, die Antwort liege **immer** in der Mitte zwischen zwei Extremen, der e
 </div>
 <div className="col col--6 video-translation">
 
-### Wie es weitergeht
+<h3>Wie es weitergeht</h3>
 
 </div>
 </div>

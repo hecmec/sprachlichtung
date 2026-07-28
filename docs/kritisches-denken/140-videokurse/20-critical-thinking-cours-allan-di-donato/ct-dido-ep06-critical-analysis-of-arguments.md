@@ -31,7 +31,7 @@ controls src='https://youtu.be/gn-yvrZP6WA' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Bevor man die formalen Werkzeuge zur Prüfung der Gültigkeit lernt, hilft eine 
 </div>
 <div className="col col--6 video-translation">
 
-### Willkür
+<h3>Willkür</h3>
 
 </div>
 </div>
@@ -104,7 +104,7 @@ Ein Argument ist willkürlich, wenn es auf nichts weiter als einer Vorliebe beru
 </div>
 <div className="col col--6 video-translation">
 
-### Widersprüchlichkeit
+<h3>Widersprüchlichkeit</h3>
 
 </div>
 </div>
@@ -149,7 +149,7 @@ Die klarsten Gründe, ein Argument zu verwerfen:
 </div>
 <div className="col col--6 video-translation">
 
-### Konsequenzen von Ideen
+<h3>Konsequenzen von Ideen</h3>
 
 </div>
 </div>
@@ -175,7 +175,7 @@ Ideen haben Konsequenzen, manche gute, manche schlechte. Eine Position bis zu ih
 </div>
 <div className="col col--6 video-translation">
 
-### Voraussetzungen
+<h3>Voraussetzungen</h3>
 
 </div>
 </div>
@@ -201,7 +201,7 @@ Eine Voraussetzung ist eine unausgesprochene Hintergrundannahme, die ein Argumen
 </div>
 <div className="col col--6 video-translation">
 
-### Zwei Verfahrensfehler
+<h3>Zwei Verfahrensfehler</h3>
 
 </div>
 </div>
@@ -255,7 +255,7 @@ Eine vollständige Erwiderung muss daher **beides** tun: das gegnerische Argumen
 </div>
 <div className="col col--6 video-translation">
 
-### Wie es weitergeht
+<h3>Wie es weitergeht</h3>
 
 </div>
 </div>

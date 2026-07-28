@@ -31,7 +31,7 @@ controls src='https://youtu.be/Na3KERJ-2gw' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Die erste und kleinste Familie der informellen Fehlschlüsse sind die **Fehlschl
 </div>
 <div className="col col--6 video-translation">
 
-### 1. Äquivokation (Zweideutigkeit)
+<h3>1. Äquivokation (Zweideutigkeit)</h3>
 
 </div>
 </div>
@@ -113,7 +113,7 @@ Ein Schlüsselwort trägt **mehr als eine Bedeutung** und wechselt zwischen den 
 </div>
 <div className="col col--6 video-translation">
 
-### 2. Amphibolie
+<h3>2. Amphibolie</h3>
 
 </div>
 </div>
@@ -156,7 +156,7 @@ Mehrdeutigkeit aus der **grammatischen Konstruktion** statt aus einem einzelnen 
 </div>
 <div className="col col--6 video-translation">
 
-### 3. Betonung (Akzent)
+<h3>3. Betonung (Akzent)</h3>
 
 </div>
 </div>
@@ -197,7 +197,7 @@ Unsachgemäße **Betonung** eines Wortes oder Teils einer Aussage (durch Zeichen
 </div>
 <div className="col col--6 video-translation">
 
-### 4. Bedeutung (Referenz)
+<h3>4. Bedeutung (Referenz)</h3>
 
 </div>
 </div>
@@ -238,7 +238,7 @@ Sprache, deren Bedeutung von ihrem **Referenten oder Kontext** abhängt:
 </div>
 <div className="col col--6 video-translation">
 
-### 5. Unterscheidung ohne Unterschied
+<h3>5. Unterscheidung ohne Unterschied</h3>
 
 </div>
 </div>
@@ -279,7 +279,7 @@ Eine Position verteidigen, indem man einen Unterschied zu einer anderen behaupte
 </div>
 <div className="col col--6 video-translation">
 
-### 6. Prestige-Jargon
+<h3>6. Prestige-Jargon</h3>
 
 </div>
 </div>
@@ -305,7 +305,7 @@ Using **complicated or technical language** to sound smart or scientific and sil
 </div>
 <div className="col col--6 video-translation">
 
-### Übung
+<h3>Übung</h3>
 
 </div>
 </div>

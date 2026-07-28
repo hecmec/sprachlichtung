@@ -45,7 +45,7 @@ controls src='https://youtu.be/5cDl0I3zusk?si=RQdefqSsrcW547Jy' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -71,7 +71,7 @@ Diese Auftaktsitzung stellt den Dozenten vor, skizziert den Fahrplan des Kurses 
 </div>
 <div className="col col--6 video-translation">
 
-### Der Dozent und der Kursstil
+<h3>Der Dozent und der Kursstil</h3>
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Der Kurs wird von Alan Di Donato gehalten, der seit fast 20 Jahren Philosophie u
 </div>
 <div className="col col--6 video-translation">
 
-### Fahrplan des Semesters
+<h3>Fahrplan des Semesters</h3>
 
 </div>
 </div>
@@ -157,7 +157,7 @@ Er verwendet eine Analogie: Deduktive Logik ist ein wenig wie **Mathematik** (Fo
 </div>
 <div className="col col--6 video-translation">
 
-### Was ist kritisches Denken?
+<h3>Was ist kritisches Denken?</h3>
 
 </div>
 </div>
@@ -217,7 +217,7 @@ Zu den Fähigkeiten, die der Kurs aufbauen will, gehören:
 </div>
 <div className="col col--6 video-translation">
 
-### Grundvokabular
+<h3>Grundvokabular</h3>
 
 </div>
 </div>
@@ -249,7 +249,7 @@ Zu den Fähigkeiten, die der Kurs aufbauen will, gehören:
 </div>
 <div className="col col--6 video-translation">
 
-### Wahrheit und Wissen
+<h3>Wahrheit und Wissen</h3>
 
 </div>
 </div>
@@ -277,7 +277,7 @@ Zu den Fähigkeiten, die der Kurs aufbauen will, gehören:
 </div>
 <div className="col col--6 video-translation">
 
-### Streitfragen, Argumente und Arten des Schließens
+<h3>Streitfragen, Argumente und Arten des Schließens</h3>
 
 </div>
 </div>
@@ -309,7 +309,7 @@ Zu den Fähigkeiten, die der Kurs aufbauen will, gehören:
 </div>
 <div className="col col--6 video-translation">
 
-### Objektive vs. subjektive Streitfragen und Werturteile
+<h3>Objektive vs. subjektive Streitfragen und Werturteile</h3>
 
 </div>
 </div>
@@ -404,7 +404,7 @@ Er hält beide Ansichten für verwirrt darüber, was „richtig" und „sachlich
 </div>
 <div className="col col--6 video-translation">
 
-### Die zentrale Erkenntnis
+<h3>Die zentrale Erkenntnis</h3>
 
 </div>
 </div>

@@ -31,7 +31,7 @@ controls src='https://youtu.be/JdqkPVOhJ88' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Das Thema **Überredung vs. Beweis** fortführend, untersucht diese Vorlesung, w
 </div>
 <div className="col col--6 video-translation">
 
-### Marktforschung und Marketingfehler
+<h3>Marktforschung und Marketingfehler</h3>
 
 </div>
 </div>
@@ -113,7 +113,7 @@ Die Strategie wird oft mit **SWOT** gerahmt (Stärken, Schwächen, intern; Chanc
 </div>
 <div className="col col--6 video-translation">
 
-### Wie Werbung uns erreicht
+<h3>Wie Werbung uns erreicht</h3>
 
 </div>
 </div>
@@ -139,7 +139,7 @@ Die drei Zwecke der Medienwerbung sind, **Aufmerksamkeit** zu schaffen, zu **inf
 </div>
 <div className="col col--6 video-translation">
 
-### Häufige Werbetechniken
+<h3>Häufige Werbetechniken</h3>
 
 </div>
 </div>
@@ -175,7 +175,7 @@ Die drei Zwecke der Medienwerbung sind, **Aufmerksamkeit** zu schaffen, zu **inf
 </div>
 <div className="col col--6 video-translation">
 
-### Sprache und Behauptungen manipulieren
+<h3>Sprache und Behauptungen manipulieren</h3>
 
 </div>
 </div>
@@ -230,7 +230,7 @@ Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Be
 </div>
 <div className="col col--6 video-translation">
 
-### Verkaufstricks im persönlichen Gespräch
+<h3>Verkaufstricks im persönlichen Gespräch</h3>
 
 </div>
 </div>
@@ -258,7 +258,7 @@ Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Be
 </div>
 <div className="col col--6 video-translation">
 
-### Supermarkt-Psychologie
+<h3>Supermarkt-Psychologie</h3>
 
 </div>
 </div>
@@ -307,7 +307,7 @@ Das Ladenlayout ist darauf ausgelegt, die **Ausgaben zu maximieren**:
 </div>
 <div className="col col--6 video-translation">
 
-### Fehlschlüsse, die in der Werbung häufig sind
+<h3>Fehlschlüsse, die in der Werbung häufig sind</h3>
 
 </div>
 </div>
@@ -333,7 +333,7 @@ Viele Techniken sind **informelle Fehlschlüsse** (später behandelt): **Angstta
 </div>
 <div className="col col--6 video-translation">
 
-### Die zentrale Erkenntnis
+<h3>Die zentrale Erkenntnis</h3>
 
 </div>
 </div>

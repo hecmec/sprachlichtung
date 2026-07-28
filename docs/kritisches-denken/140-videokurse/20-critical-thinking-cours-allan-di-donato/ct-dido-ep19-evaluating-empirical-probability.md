@@ -31,7 +31,7 @@ controls src='https://youtu.be/y6OtS67hTrA' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese Vorlesung aus Allan Di Donatos Kurs über kritisches Denken untersucht, wi
 </div>
 <div className="col col--6 video-translation">
 
-### Was empirische Wahrscheinlichkeit bedeutet
+<h3>Was empirische Wahrscheinlichkeit bedeutet</h3>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Diese Vorlesung aus Allan Di Donatos Kurs über kritisches Denken untersucht, wi
 </div>
 <div className="col col--6 video-translation">
 
-### Extension und die Natur der Situation
+<h3>Extension und die Natur der Situation</h3>
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Diese beiden Faktoren wirken zusammen. Um den täglichen Konsum von rotem Fleisc
 </div>
 <div className="col col--6 video-translation">
 
-### Stichprobengröße, Verzerrung und Fehlerspanne
+<h3>Stichprobengröße, Verzerrung und Fehlerspanne</h3>
 
 </div>
 </div>
@@ -174,7 +174,7 @@ Da die Auswahl zufällig ist, ist keine Stichprobe garantiert perfekt repräsent
 </div>
 <div className="col col--6 video-translation">
 
-### Art des Vorgehens und Hintergrundwissen
+<h3>Art des Vorgehens und Hintergrundwissen</h3>
 
 </div>
 </div>
@@ -226,7 +226,7 @@ Angewandt auf rotes Fleisch und Darmkrebs bringt jedes der vier Studiendesigns K
 </div>
 <div className="col col--6 video-translation">
 
-### Korrelation ist keine Kausalität
+<h3>Korrelation ist keine Kausalität</h3>
 
 </div>
 </div>
@@ -252,7 +252,7 @@ Selbst wenn eine Beobachtungsstudie ein scheinbares Muster aufdeckt, ist **Korre
 </div>
 <div className="col col--6 video-translation">
 
-### Verwandte Fehlschlüsse
+<h3>Verwandte Fehlschlüsse</h3>
 
 </div>
 </div>

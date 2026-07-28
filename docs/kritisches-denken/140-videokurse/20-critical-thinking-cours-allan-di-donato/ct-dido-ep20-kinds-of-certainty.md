@@ -31,7 +31,7 @@ controls src='https://youtu.be/h2TxRQaEJkE' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese kurze Folge von Allan Di Donatos Kurs *Kritisches Denken* untersucht, was 
 </div>
 <div className="col col--6 video-translation">
 
-### Gewissheit ist eine Eigenschaft des Erkennenden, nicht der Aussage
+<h3>Gewissheit ist eine Eigenschaft des Erkennenden, nicht der Aussage</h3>
 
 </div>
 </div>
@@ -109,7 +109,7 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 </div>
 <div className="col col--6 video-translation">
 
-### Die höchste Ebene: mathematische, logische und existenzielle Gewissheit
+<h3>Die höchste Ebene: mathematische, logische und existenzielle Gewissheit</h3>
 
 </div>
 </div>
@@ -161,7 +161,7 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 </div>
 <div className="col col--6 video-translation">
 
-### Das untere Ende: virtuelle, induktive und moralische Gewissheit
+<h3>Das untere Ende: virtuelle, induktive und moralische Gewissheit</h3>
 
 </div>
 </div>
@@ -213,7 +213,7 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 </div>
 <div className="col col--6 video-translation">
 
-### Wie es weitergeht
+<h3>Wie es weitergeht</h3>
 
 </div>
 </div>

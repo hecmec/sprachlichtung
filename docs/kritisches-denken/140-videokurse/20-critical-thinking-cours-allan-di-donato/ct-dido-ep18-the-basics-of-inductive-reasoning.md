@@ -31,7 +31,7 @@ controls src='https://youtu.be/bwRIYs2Qo5Y' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Dieses Video eröffnet eine neue Reihe über das **induktive Schließen** und di
 </div>
 <div className="col col--6 video-translation">
 
-### Induktion versus Deduktion
+<h3>Induktion versus Deduktion</h3>
 
 </div>
 </div>
@@ -132,7 +132,7 @@ Er betont, dass **Gültigkeit** nur zur formalen Logik gehört: Induktive Argume
 </div>
 <div className="col col--6 video-translation">
 
-### Kernbegriffe induktiver Argumente
+<h3>Kernbegriffe induktiver Argumente</h3>
 
 </div>
 </div>
@@ -188,7 +188,7 @@ Jede induktive Schlussfolgerung schreibt dem Ziel die Eigenschaft P zu.
 </div>
 <div className="col col--6 video-translation">
 
-### Zwei Grundkategorien
+<h3>Zwei Grundkategorien</h3>
 
 </div>
 </div>
@@ -214,7 +214,7 @@ Induktive Argumente fallen in zwei Familien, deren **Ähnlichkeiten ihre Untersc
 </div>
 <div className="col col--6 video-translation">
 
-### Fünf Arten induktiver Argumente
+<h3>Fünf Arten induktiver Argumente</h3>
 
 </div>
 </div>
@@ -248,7 +248,7 @@ Induktive Argumente fallen in zwei Familien, deren **Ähnlichkeiten ihre Untersc
 </div>
 <div className="col col--6 video-translation">
 
-### Ein genauerer Blick auf die Analogie
+<h3>Ein genauerer Blick auf die Analogie</h3>
 
 </div>
 </div>
@@ -287,7 +287,7 @@ Di Donato empfiehlt, Argumente in eine **Standardform** zu übersetzen (Stichpro
 </div>
 <div className="col col--6 video-translation">
 
-### Sechs Regeln zur Bewertung von Analogien
+<h3>Sechs Regeln zur Bewertung von Analogien</h3>
 
 </div>
 </div>
@@ -336,7 +336,7 @@ Alle laufen auf ein Prinzip hinaus: **Je ähnlicher Stichprobe und Ziel, desto h
 </div>
 <div className="col col--6 video-translation">
 
-### Relative Stärke
+<h3>Relative Stärke</h3>
 
 </div>
 </div>

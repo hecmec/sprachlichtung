@@ -31,7 +31,7 @@ controls src='https://youtu.be/-LI3FtWdmOo' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese Folge beginnt einen mehrteiligen Rundgang durch die **informellen Fehlschl
 </div>
 <div className="col col--6 video-translation">
 
-### Formale vs. informelle Logik
+<h3>Formale vs. informelle Logik</h3>
 
 </div>
 </div>
@@ -85,7 +85,7 @@ Diese Folge beginnt einen mehrteiligen Rundgang durch die **informellen Fehlschl
 </div>
 <div className="col col--6 video-translation">
 
-### Was ein Fehlschluss ist
+<h3>Was ein Fehlschluss ist</h3>
 
 </div>
 </div>
@@ -111,7 +111,7 @@ Ein **Fehlschluss** ist ein Denkfehler, der oft korrekt aussieht, bis man ihn pr
 </div>
 <div className="col col--6 video-translation">
 
-### Zwei Arten von Fehlschluss
+<h3>Zwei Arten von Fehlschluss</h3>
 
 </div>
 </div>
@@ -139,7 +139,7 @@ Ein **Fehlschluss** ist ein Denkfehler, der oft korrekt aussieht, bis man ihn pr
 </div>
 <div className="col col--6 video-translation">
 
-### Die drei Kategorien der informellen Fehlschlüsse
+<h3>Die drei Kategorien der informellen Fehlschlüsse</h3>
 
 </div>
 </div>
@@ -188,7 +188,7 @@ Der Kurs ordnet die informellen Fehlschlüsse in drei Familien (ein „Stammbaum
 </div>
 <div className="col col--6 video-translation">
 
-### Vorbehalte
+<h3>Vorbehalte</h3>
 
 </div>
 </div>

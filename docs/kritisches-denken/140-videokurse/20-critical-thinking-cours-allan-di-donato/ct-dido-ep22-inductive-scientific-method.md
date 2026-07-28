@@ -31,7 +31,7 @@ controls src='https://youtu.be/ABWvccGyLhE' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Aufbauend auf der vorigen Erörterung der **A-posteriori-Wahrscheinlichkeit (emp
 </div>
 <div className="col col--6 video-translation">
 
-### Was ist Wissenschaft?
+<h3>Was ist Wissenschaft?</h3>
 
 </div>
 </div>
@@ -117,7 +117,7 @@ Die moderne Wissenschaft war so erfolgreich, dass wir dazu neigen, sie als den b
 </div>
 <div className="col col--6 video-translation">
 
-### Kausale Argumente vs. kausale Erklärungen
+<h3>Kausale Argumente vs. kausale Erklärungen</h3>
 
 </div>
 </div>
@@ -143,7 +143,7 @@ Beide befassen sich mit **kausalen Behauptungen**, aber sie unterscheiden sich. 
 </div>
 <div className="col col--6 video-translation">
 
-### Bedingungen für eine angemessene Erklärung
+<h3>Bedingungen für eine angemessene Erklärung</h3>
 
 </div>
 </div>
@@ -182,7 +182,7 @@ Manche Erklärungen scheitern, weil sie **nicht überprüfbar** sind: Ein Lied, 
 </div>
 <div className="col col--6 video-translation">
 
-### Hypothesen und zwei Arten von Wissenschaft
+<h3>Hypothesen und zwei Arten von Wissenschaft</h3>
 
 </div>
 </div>
@@ -208,7 +208,7 @@ Bevor wir wissenschaftlich eine Ursache behaupten, beginnen wir mit einer Vermut
 </div>
 <div className="col col--6 video-translation">
 
-### Die induktiv-empirische Methode: acht Schritte
+<h3>Die induktiv-empirische Methode: acht Schritte</h3>
 
 </div>
 </div>
@@ -261,7 +261,7 @@ Die induktiv-empirische Methode bestimmt die Wahrscheinlichkeit einer Schlussfol
 </div>
 <div className="col col--6 video-translation">
 
-### Verifikation, Falsifikation und eine logische Warnung
+<h3>Verifikation, Falsifikation und eine logische Warnung</h3>
 
 </div>
 </div>

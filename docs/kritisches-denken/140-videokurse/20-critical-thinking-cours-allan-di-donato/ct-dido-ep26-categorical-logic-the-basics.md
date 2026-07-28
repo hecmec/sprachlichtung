@@ -31,7 +31,7 @@ controls src='https://youtu.be/D6jAEO-H3VE' />
 </div>
 <div className="col col--6 video-translation">
 
-## Zusammenfassung
+<h2>Zusammenfassung</h2>
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Diese Folge eröffnet das Studium der **kategorialen Logik**, des ältesten Zwei
 </div>
 <div className="col col--6 video-translation">
 
-### Kategoriale Propositionen und die vier Typen
+<h3>Kategoriale Propositionen und die vier Typen</h3>
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Mittelalterliche Logiker leiteten diese Buchstaben aus den lateinischen Wörtern
 </div>
 <div className="col col--6 video-translation">
 
-### Die vier Teile einer Proposition
+<h3>Die vier Teile einer Proposition</h3>
 
 </div>
 </div>
@@ -173,7 +173,7 @@ Jede kategoriale Proposition hat daher sowohl **Qualität** (bejahend oder verne
 </div>
 <div className="col col--6 video-translation">
 
-### Euler-Kreise
+<h3>Euler-Kreise</h3>
 
 </div>
 </div>
@@ -231,7 +231,7 @@ Eine wichtige Einsicht: Da **einige** *jede Menge bis einschließlich alle* bede
 </div>
 <div className="col col--6 video-translation">
 
-### Gewöhnliche Sätze in die Standardform übersetzen
+<h3>Gewöhnliche Sätze in die Standardform übersetzen</h3>
 
 </div>
 </div>
@@ -361,7 +361,7 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 </div>
 <div className="col col--6 video-translation">
 
-### Die zentrale Erkenntnis
+<h3>Die zentrale Erkenntnis</h3>
 
 </div>
 </div>
