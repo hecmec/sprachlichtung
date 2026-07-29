@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 
 <!--t src=fd5f5a5c-->
 
-![people discussing](/img/banner-rationalistät-humains.png)
+![people discussing](/img/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
 

@@ -143,7 +143,7 @@ The `github` backend authenticates via a GitHub OAuth App, brokered through Netl
 
 Each collection sets `nested: { depth, summary, subfolders: false }` plus a `meta.path` field. `subfolders: false` is what makes Decap read the existing slug-named Markdown files inside subfolders (e.g. `010-einfuehrung.../010-was-ist…md`) rather than expecting `index.md` files. This is the feature Sveltia lacked.
 
-### Media uploads
+### Media uploads and usage
 
 ```yaml
 media_folder: static/img/uploads

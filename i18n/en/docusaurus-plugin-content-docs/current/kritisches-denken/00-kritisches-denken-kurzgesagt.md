@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-image: "/static/img/compass.svg"
+image: "/img/compass.svg"
 
 # tags: [test1, test2]
 

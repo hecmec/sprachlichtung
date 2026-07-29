@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=26970d14-->
-![people discussing](/img/banner-rationalistät-humains.png)
+![people discussing](/img/banner-rationalitaet-humains.png)
 
 <!--t src=b91d8481-->
 - **New**: I have been engaging with the topic of rationality and critical thinking for many years, and I discover something new every day. This is an online book, and so I can always add new material and correct mistakes.

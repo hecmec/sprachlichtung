@@ -19,7 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=fd5f5a5c-->
-![personnes en train de discuter](/img/banner-rationalistät-humains.png)
+![personnes en train de discuter](/img/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
 Nous donnons ici un résumé très bref de l'ensemble du tutoriel sur la pensée critique.
