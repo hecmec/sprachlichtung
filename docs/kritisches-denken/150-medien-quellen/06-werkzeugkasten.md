@@ -16,7 +16,7 @@ last_update:
 
 ---
 
-![](./img/mind_mapping_argument_mapping.png)
+![](/img/kd/mind_mapping_argument_mapping.png)
 <!-- https://framindmap.org/c/maps/1573467/edit -->
 
 Es gibt inzwischen digitale Werkzeuge zum analysieren, konstruieren und kartographieren von Argumenten.
@@ -30,8 +30,8 @@ Wir fügen immer wieder neue hinzu.
 
 **[Frezgi](https://frezgi.com/)**
 
-<!-- ![frezgi app image](./img/frezgi_github.png) -->
-<img src={require("./img/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![frezgi app image](/img/kd/frezgi_github.png) -->
+<img src={require("@site/static/img/kd/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 
 - Das ist die einfachste Argument-mapping App, die sie sich vorstellen können.
@@ -39,8 +39,8 @@ Wir fügen immer wieder neue hinzu.
 
 **[Rationale](https://rationaleonline.com/)**
 
-<!-- ![Rationale app image](./img/rationale_screenshot.png) -->
-<img src={require("./img/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![Rationale app image](/img/kd/rationale_screenshot.png) -->
+<img src={require("@site/static/img/kd/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 - Rationale ist eine kommerzielle funkionsreiche Web Applikation, die es erlaubt Argumentationen zu kartographieren.
 - Sie können alles spreichern und exportieren.
@@ -61,7 +61,7 @@ Wir fügen immer wieder neue hinzu.
 
 **[Framindmap](https://framindmap.org/)**
 
-<img src={require("./img/framindmap_wisemapping.png").default} alt="**framindmap** app image" width="300" style={{margin: '0 2rem'}} />
+<img src={require("@site/static/img/kd/framindmap_wisemapping.png").default} alt="**framindmap** app image" width="300" style={{margin: '0 2rem'}} />
 
 - Framindmap ist eine **open-source** Web Anwendung basierend auf WiseMapping.
 - Sie können beliebig viele Karten erstellen, teilen und zusammenarbeiten.

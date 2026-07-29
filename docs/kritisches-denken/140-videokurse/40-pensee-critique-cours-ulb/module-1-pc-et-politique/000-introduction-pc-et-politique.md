@@ -8,7 +8,7 @@ description: "Résumé: Introduction dans la problématique de la pensée critiq
 #   - docs
 #   - docusaurus
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro.png
+image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-12-18
   author: Immanuel Lupinus
@@ -151,7 +151,7 @@ Das veranschaulicht den kritischen Geist: **mehrere Theorien vergleichen und die
 </div>
 </div>
 
-![ulb_pc_galilee2.png](../img/ulb-pc-galilee2.png)
+![ulb_pc_galilee2.png](/img/kd/ulb-pc-galilee2.png)
 
 <div className="row">
 <div className="col col--6">
@@ -226,7 +226,7 @@ Das ist **die Verweigerung des kritischen Sinns**.
 </div>
 </div>
 
-![ulb_pc_ignace_de_loyola1.png](../img/ulb-pc-ignace-de-loyola1.png)
+![ulb_pc_ignace_de_loyola1.png](/img/kd/ulb-pc-ignace-de-loyola1.png)
 
 <div className="row">
 <div className="col col--6">

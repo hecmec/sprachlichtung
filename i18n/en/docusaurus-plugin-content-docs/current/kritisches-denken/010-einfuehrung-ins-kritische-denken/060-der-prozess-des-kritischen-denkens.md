@@ -16,7 +16,7 @@ translation_status: auto
 ---
 
 <!--t src=521ca08c-->
-![the process of critical thinking](../img/process_critisches_denken_sprachlichtung.jpg)
+![the process of critical thinking](/img/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->
 Critical thinking is a systematic process that can include the following steps:

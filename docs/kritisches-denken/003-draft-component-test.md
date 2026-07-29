@@ -79,11 +79,11 @@ You can also specify image dimensions ??:
 You can use **img** tags
 
 ```html
-<img src={require("../../static/img/docusaurus.png").default} alt="docu img" 
+<img src={require("@site/static/img/docusaurus.png").default} alt="docu img" 
   width="300" style={{marginBottom: '-10px'}} />
 ```
 
-<img src={require("../../static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
+<img src={require("@site/static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
 
 ## Code Blocks
 

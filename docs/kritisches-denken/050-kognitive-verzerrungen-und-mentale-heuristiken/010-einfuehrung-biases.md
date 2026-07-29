@@ -23,7 +23,7 @@ draft: false
 
 <!-- ## Einführung -->
 
-![cognitive bias](/img/banner_bias_Cognitive_Bias_Codex.webp)
+![cognitive bias](/img/kd/banner_bias_Cognitive_Bias_Codex.webp)
 &nbsp;
 
 Haben Sie schon mal etwas gekauft, weil sie dachten, sie würden 50% sparen?

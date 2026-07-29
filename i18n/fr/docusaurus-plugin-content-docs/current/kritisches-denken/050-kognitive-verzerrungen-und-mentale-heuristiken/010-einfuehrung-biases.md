@@ -26,7 +26,7 @@ custom_translation_overwritten: false
 <!-- ## Einführung -->
 
 <!--t src=7712a22b-->
-![biais cognitif](/img/banner_bias_Cognitive_Bias_Codex.webp)
+![biais cognitif](/img/kd/banner_bias_Cognitive_Bias_Codex.webp)
 &nbsp;
 
 <!--t src=8ccc3883-->

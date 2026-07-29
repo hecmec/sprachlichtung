@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 
 <!--t src=fd5f5a5c-->
 
-![people discussing](/img/banner-rationalitaet-humains.png)
+![people discussing](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
 
@@ -264,10 +264,10 @@ Here are a few examples:
 <!--t src=39dff084-->
 
 - "The best way to get rich quick is to buy my book" <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
-<!-- ![alt text](tiktok.png) -->
-- "Smoking is cool and not harmful to your health!", signed Dr. Marlboro <img src={require('@site/static/img/marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
-  <!-- ![malborough|50px](marlboro.png)  -->
-- "The majority of Americans assume that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('@site/static/img/wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
+<!-- ![alt text](/img/tiktok.png) -->
+- "Smoking is cool and not harmful to your health!", signed Dr. Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
+  <!-- ![malborough|50px](/img/logo-make-marlboro.png)  -->
+- "The majority of Americans assume that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('@site/static/img/logo-make-wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
 - "Human influence on the climate is unequivocal" Intergovernmental Panel on Climate Change (IPCC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 <!--t src=ce52e579-->

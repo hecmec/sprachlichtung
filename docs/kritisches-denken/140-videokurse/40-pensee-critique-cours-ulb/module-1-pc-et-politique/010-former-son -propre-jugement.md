@@ -11,7 +11,7 @@ keywords:
   - guy Haarscher
   - jugement
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro.png
+image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-17
   author: Immanuel Lupinus

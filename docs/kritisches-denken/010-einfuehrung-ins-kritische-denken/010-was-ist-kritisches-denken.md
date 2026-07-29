@@ -14,12 +14,12 @@ completeness: 5/5
 draft: false
 # slug:
 # image: "../img/process_critisches_denken_sprachlichtung.jpg"
-image: /img/banner-bibiliothek.webp
+image: /img/kd/banner-bibiliothek.webp
 ---
 
 import Admonition from '@theme/Admonition';
 
-![teppisch](/img/banner-met-silk-carpet.jpg)
+![teppisch](/img/kd/banner-met-silk-carpet.jpg)
 
 ## Worüber reden wir, wenn wir von kritischem Denken reden?
 

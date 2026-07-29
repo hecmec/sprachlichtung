@@ -14,7 +14,7 @@ keywords:
   - Préjugé
   - Guy Haarscher
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro.png
+image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus

@@ -22,7 +22,7 @@ translation_status: mixed
 <!-- ## Introduction -->
 
 <!--t src=7712a22b-->
-![cognitive bias](/img/banner_bias_Cognitive_Bias_Codex.webp)
+![cognitive bias](/img/kd/banner_bias_Cognitive_Bias_Codex.webp)
 &nbsp;
 
 <!--t src=8ccc3883-->

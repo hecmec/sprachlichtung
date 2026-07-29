@@ -16,7 +16,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-image: ../img/charlie-kirk-memorial-FS.webp
+image: /img/sw/charlie-kirk-memorial-FS.webp
 id: charlie_kirk_a_political_sophist
 translation_status: auto
 custom_translation_overwritten: false
@@ -29,7 +29,7 @@ import Admonition from '@theme/Admonition';
 ## Who was Charlie Kirk?
 
 <!--t src=db072267-->
-![Charlie Kirk](../img/charlie-kirk-memorial-FS.webp)
+![Charlie Kirk](/img/sw/charlie-kirk-memorial-FS.webp)
 
 <!--t src=24795649-->
 Charlie Kirk is dead. May his soul rest in peace!

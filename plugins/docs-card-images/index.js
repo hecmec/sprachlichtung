@@ -17,12 +17,40 @@ const path = require("path");
  *   - otherwise, if a file of the same basename exists in `/static/img`, that is used
  *   - otherwise the default image is used
  *
- * Options: { defaultImage?: string }  (root-relative, e.g. "/img/brain-workout.webp")
+ * Options: { defaultImage?: string }  (root-relative, e.g. "/img/ct_brain-workout.webp")
  */
 module.exports = function docsCardImagesPlugin(context, options = {}) {
   const { siteDir } = context;
   const staticDir = path.join(siteDir, "static");
-  const defaultImage = options.defaultImage || "/img/brain-workout.webp";
+  const defaultImage = options.defaultImage || "/img/ct_brain-workout.webp";
+
+  // Lazily indexed map of basename -> served URL, for every image under /static/img.
+  // Images live in subfolders (kd/, sw/, misc/), so a flat lookup is not enough.
+  let _imgIndex = null;
+  function imgByBasename() {
+    if (_imgIndex) return _imgIndex;
+    _imgIndex = new Map();
+    const root = path.join(staticDir, "img");
+    (function walk(dir) {
+      let entries = [];
+      try {
+        entries = fs.readdirSync(dir, { withFileTypes: true });
+      } catch (e) {
+        return;
+      }
+      for (const entry of entries) {
+        const p = path.join(dir, entry.name);
+        if (entry.isDirectory()) walk(p);
+        else if (!_imgIndex.has(entry.name)) {
+          _imgIndex.set(
+            entry.name,
+            "/" + path.relative(staticDir, p).split(path.sep).join("/")
+          );
+        }
+      }
+    })(root);
+    return _imgIndex;
+  }
 
   function stripFrontmatter(raw) {
     if (raw.startsWith("---")) {
@@ -58,11 +86,9 @@ module.exports = function docsCardImagesPlugin(context, options = {}) {
     if (relStatic && !relStatic.startsWith("..") && !path.isAbsolute(relStatic)) {
       return { image: "/" + relStatic.split(path.sep).join("/"), external: false };
     }
-    // Same basename present in /static/img ?
-    const base = path.basename(clean);
-    if (fs.existsSync(path.join(staticDir, "img", base))) {
-      return { image: "/img/" + base, external: false };
-    }
+    // Same basename present anywhere under /static/img (incl. kd/, sw/, misc/) ?
+    const found = imgByBasename().get(path.basename(clean));
+    if (found) return { image: found, external: false };
     return null;
   }
 

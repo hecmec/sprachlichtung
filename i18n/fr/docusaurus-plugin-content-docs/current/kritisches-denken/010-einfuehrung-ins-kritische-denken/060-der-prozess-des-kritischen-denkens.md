@@ -19,7 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=521ca08c-->
-![le processus de la pensée critique](../img/process_critisches_denken_sprachlichtung.jpg)
+![le processus de la pensée critique](/img/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->
 La pensée critique est un processus systématique qui peut comporter les étapes suivantes :

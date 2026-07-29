@@ -58,7 +58,7 @@ Il existe peut-être d'autres raisons pour qu'une rue soit mouillée (par exempl
 
 <!--t src=11a8b1ec-->
 <!-- <p style="text-align:center; margin:20px">
-  <img src="img/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
+  <img src="/img/kd/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
 <!-- https://freesvgeditor.com/fr/svg-editor-online -->
 <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
@@ -134,7 +134,7 @@ Le diagramme de Venn a la même forme que dans l'exemple précédent.
 
 <!--t src=283fdfbc-->
 <!-- <p style="text-align:center; margin:20px">
-  <img src="img/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
+  <img src="/img/kd/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
 
 <!--t src=828ff7b6-->

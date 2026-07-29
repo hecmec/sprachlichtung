@@ -23,28 +23,36 @@ the build with `couldn't be resolved to an existing local image file`.
 
 ## Where to store the file
 
-| Location | Reference as | Use for |
-| --- | --- | --- |
-| `static/img/foo.png` | `/img/foo.png` | Site-wide assets: banners, logos, icons reused across chapters |
-| `{chapter}/img/foo.png` | `./img/foo.png` | Chapter-specific images |
+**All images live under `static/img/`.** There are no image folders inside `docs/` or `i18n/`.
 
-Prefer the **chapter-local `img/` folder** for anything used by a single chapter. The file moves
-and gets deleted together with the chapter, and the relative path is validated at build time.
+| Folder | Reference as | Contents |
+| --- | --- | --- |
+| `static/img/kd/` | `/img/kd/foo.png` | Kritisches Denken |
+| `static/img/sw/` | `/img/sw/foo.png` | Sprach-Welten |
+| `static/img/misc/` | `/img/misc/foo.png` | Everything else |
+| `static/img/` | `/img/foo.png` | Site-level assets: logo, favicon, shared icons |
+
+Because every reference is site-absolute, the same path works from German, English and French
+without duplicating the file per locale.
+
+Blog posts are the one exception: they keep assets co-located in `blog/YYYY-MM-DD-slug/`, which
+is the standard Docusaurus pattern.
 
 Filenames: lowercase, dashes, ASCII only. No spaces, no umlauts, no accents. A file named
 `banner-rationalistät-humains.png` or `Capture d'écran du 2025-07-03.png` causes URL-encoding
-trouble and is awkward to reference from every locale.
+trouble and is awkward to reference from every locale. Use a topic prefix (`bias_`, `ct_`,
+`logic_`, `fallacies_`) instead of nesting deeper folders.
 
 ## The four reference forms
 
 ### 1. Markdown image: `![alt](...)`
 
 ```markdown
-![Silk carpet](/img/banner-met-silk-carpet.jpg)     <!-- from static/ -->
-![Venn diagram](./img/venn-diag-regen-nass.png)     <!-- chapter-local -->
+![Silk carpet](/img/kd/banner-met-silk-carpet.jpg)
+![Venn diagram](/img/kd/venn_diag_regen_nass.png)
 ```
 
-Both forms are resolved to a real file at build time and bundled by webpack. Output:
+The path is resolved to a real file at build time and bundled by webpack. Output:
 
 ```html
 <img alt="Silk carpet" src="/assets/images/banner-met-silk-carpet-281f93f9.jpg"
@@ -83,7 +91,7 @@ file fails the build.
 ```yaml
 ---
 title: Was ist kritisches Denken?
-image: /img/banner-bibiliothek.webp
+image: /img/kd/banner-bibiliothek.webp
 ---
 ```
 
@@ -103,39 +111,37 @@ image: ../img/ulb-pc-intro.png
 <meta property="og:image" content="https://hecmec.github.io/../img/ulb-pc-intro.png">
 ```
 
-Because the value is not bundled, a chapter-local image can only be used here if it is *also*
-copied into `static/img/`. For chapter-local art, either copy the file or point the social card
-at a shared banner.
+Since every image already lives under `static/img/`, the correct value is always just the
+`/img/...` URL of the file.
 
 ## Summary table
 
 | Form | Path style | Bundled + hashed | Missing file |
 | --- | --- | --- | --- |
-| `![alt](/img/x.png)` | URL, no `static/` | yes | build error |
-| `![alt](./img/x.png)` | relative to the `.md` | yes | build error |
-| `<img src="/img/x.png">` | URL, no `static/` | no | silent 404 |
-| `require('@site/static/img/x.png')` | filesystem, with `static/` | yes | build error |
+| `![alt](/img/kd/x.png)` | URL, no `static/` | yes | build error |
+| `<img src="/img/kd/x.png">` | URL, no `static/` | no | silent 404 |
+| `require('@site/static/img/kd/x.png')` | filesystem, with `static/` | yes | build error |
 | frontmatter `image:` | URL, no `static/`, absolute only | no | silent broken card |
 
 ## Localised content
 
-Files under `i18n/{locale}/docusaurus-plugin-content-docs/current/` follow the same rules.
-Relative paths resolve from the **translated** file's location, not from the German original,
-so a chapter-local `./img/x.png` needs the image present under the locale tree as well.
-Site-absolute `/img/...` works from every locale unchanged and is the simpler choice for
-anything shared between locales.
+Files under `i18n/{locale}/docusaurus-plugin-content-docs/current/` use exactly the same
+`/img/...` URLs as the German originals. Nothing needs copying per locale, and translating a
+page never requires touching its image paths.
 
-Chapter folders containing umlauts have caused relative-path resolution problems before, in
-links as well as images. If a relative reference out of such a folder misbehaves, switch that
-reference to the site-absolute `/img/...` form.
+This is also why relative paths were dropped: they resolve from the **translated** file's
+location, and chapter folders containing umlauts have caused resolution failures in the past,
+for links as well as images.
 
-## Known issues in this repo
+## Notes
 
-- `siteConfig.url` in `docusaurus.config.ts` is still `https://hecmec.github.io`, but the site
-  deploys to <https://sprachlichtung.org> via Coolify. Every `og:image` is therefore built on
-  the wrong host and social cards resolve to nothing.
-- Roughly 114 pages use the relative frontmatter form `image: ../img/...`, which produces the
-  broken `.../../img/...` URL shown above.
+The site-wide social card (`themeConfig.image`) currently points at `img/ct_brain-workout.webp`
+as a stand-in. The original `docusaurus-social-card.jpg` was deleted long ago. A purpose-made
+1200x630 card would be better.
+
+Note that `siteConfig.url` is prepended to every `og:image`, `og:url`, `rel=canonical` and
+`sitemap.xml` entry. If the deployment host ever changes again, that one field is the only
+thing to update.
 
 ## Checking your work
 

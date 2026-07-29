@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=26970d14-->
-![personnes en train de discuter](/img/banner-rationalitaet-humains.png)
+![personnes en train de discuter](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=b91d8481-->
 - **Nouveautés** : Je m'intéresse depuis de nombreuses années au thème de la rationalité et de la pensée critique, et je découvre chaque jour quelque chose de nouveau. Ceci est un livre en ligne, je peux donc toujours ajouter de nouveaux éléments et corriger des erreurs.

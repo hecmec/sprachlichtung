@@ -18,7 +18,7 @@ translation_status: mixed
 import Admonition from '@theme/Admonition';
 
 <!--t src=c82a941a-->
-![people in discussion](/img/banner-met-silk-carpet.jpg)
+![people in discussion](/img/kd/banner-met-silk-carpet.jpg)
 
 <!--t src=55652371-->
 ## What do we mean when we talk about critical thinking?

@@ -24,7 +24,7 @@ completeness: 5/5
 # https://de.wikipedia.org/wiki/Liste_von_Paradoxa
 ---
 
-![discutierende menschen](/img/banner-rationalitaet-humains.png)
+![discutierende menschen](/img/kd/banner-rationalitaet-humains.png)
 
 Hier geben wir eine sehr kurze Zusammenfassung des gesamten Tutoriums zum Kritischen Denken.
 
@@ -170,10 +170,10 @@ Die Qualität unserer Quellen ist dabei sehr unterschiedlich.
 Hier ein paar Beispiele:
 
 - "Die beste Art schnell reich zu werden ist, mein Buch zu kaufen" <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
-<!-- ![alt text](tiktok.png) -->
-- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('@site/static/img/marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
-  <!-- ![malborough|50px](marlboro.png)  -->
-- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('@site/static/img/wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
+<!-- ![alt text](/img/tiktok.png) -->
+- "Rauchen ist cool und nicht schädlich für die Gesundheit!", gezeichnet Dr. Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
+  <!-- ![malborough|50px](/img/logo-make-marlboro.png)  -->
+- "Die Mehrheit der Amerikaner geht davon aus, dass Kennedy Opfer einer Verschwörung wurde". (Wikipedia) <img src={require('@site/static/img/logo-make-wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
 - "Der Einfluss des Menschen auf das Klima ist eindeutig" Weltklimarat (IPCC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 Ich lasse Dich entscheiden, wem Du lieber vertraust.

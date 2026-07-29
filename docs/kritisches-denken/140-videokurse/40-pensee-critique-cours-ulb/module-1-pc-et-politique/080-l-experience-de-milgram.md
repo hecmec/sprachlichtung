@@ -13,7 +13,7 @@ keywords:
   - Expérience de Milgram
   - Guy Haarscher
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro.png
+image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-12-18
   author: Immanuel Lupinus
@@ -49,7 +49,7 @@ Arendt entwickelt darin den Begriff der **„Banalität des Bösen"**: Eichmann 
 </div>
 </div>
 
-![arendt-eichman.jpeg](../img/arendt-eichman.jpeg)  
+![arendt-eichman.jpeg](/img/kd/arendt-eichman.jpeg)  
 *Eichman vs Arendt*
 
 <div className="row">
@@ -104,7 +104,7 @@ Die Mehrheit der Teilnehmer **geht bis zum Ende** und versetzt maximale Stromst�
 </div>
 </div>
 
-![experience de milgram](../img/experience-milgram.jpeg)
+![experience de milgram](/img/kd/experience-milgram.jpeg)
 
 <div className="row">
 <div className="col col--6">

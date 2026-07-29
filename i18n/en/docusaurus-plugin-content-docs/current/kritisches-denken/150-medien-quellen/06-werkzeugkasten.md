@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 
 <!--t src=b0e66d51-->
 
-![](./img/mind_mapping_argument_mapping.png)
+![](/img/kd/mind_mapping_argument_mapping.png)
 
 <!-- https://framindmap.org/c/maps/1573467/edit -->
 
@@ -46,9 +46,9 @@ We keep adding new ones.
 **[Frezgi](https://frezgi.com/)**
 
 <!--t src=be38f6b9-->
-<!-- ![frezgi app image](./img/frezgi_github.png) -->
+<!-- ![frezgi app image](/img/kd/frezgi_github.png) -->
 
-<img src={require("./img/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
+<img src={require("@site/static/img/kd/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=acbb5cb5-->
 
@@ -60,9 +60,9 @@ We keep adding new ones.
 **[Rationale](https://rationaleonline.com/)**
 
 <!--t src=686dabda-->
-<!-- ![Rationale app image](./img/rationale_screenshot.png) -->
+<!-- ![Rationale app image](/img/kd/rationale_screenshot.png) -->
 
-<img src={require("./img/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
+<img src={require("@site/static/img/kd/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=f638017a-->
 
@@ -98,7 +98,7 @@ We keep adding new ones.
 
 <!--t src=9ccd0a3f-->
 
-<img src={require("./img/framindmap_wisemapping.png").default} alt="**framindmap** app image" width="300" style={{margin: '0 2rem'}} />
+<img src={require("@site/static/img/kd/framindmap_wisemapping.png").default} alt="**framindmap** app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=4d389f31-->
 

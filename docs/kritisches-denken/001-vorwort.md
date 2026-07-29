@@ -18,7 +18,7 @@ draft: false
 # image: /static/img/kompass.svg
 ---
 
-![diskutierende menschen](/img/banner-rationalitaet-humains.png)
+![diskutierende menschen](/img/kd/banner-rationalitaet-humains.png)
 
 - **Neues**: Ich beschäftige mich seit vielen Jahren mit dem Thema Rationalität und kritisches Denken und entdecke jeden Tag Neues. Dies ist ein online Buch und so kann ich immer Neues hinzufügen und Fehler korrigieren.
 - **Wichtiges**:

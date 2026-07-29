@@ -19,7 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=fd5f5a5c-->
-![personnes en train de discuter](/img/banner-rationalitaet-humains.png)
+![personnes en train de discuter](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
 Nous donnons ici un résumé très bref de l'ensemble du tutoriel sur la pensée critique.
@@ -214,10 +214,10 @@ Voici quelques exemples :
 
 <!--t src=39dff084-->
 - « La meilleure façon de devenir riche rapidement, c'est d'acheter mon livre » <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
-<!-- ![alt text](tiktok.png) -->
-- « Fumer, c'est cool et ce n'est pas mauvais pour la santé ! », signé Dr Marlboro <img src={require('@site/static/img/marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
-  <!-- ![malborough|50px](marlboro.png)  -->
-- « La majorité des Américains partent du principe que Kennedy a été victime d'un complot ». (Wikipedia) <img src={require('@site/static/img/wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
+<!-- ![alt text](/img/tiktok.png) -->
+- « Fumer, c'est cool et ce n'est pas mauvais pour la santé ! », signé Dr Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
+  <!-- ![malborough|50px](/img/logo-make-marlboro.png)  -->
+- « La majorité des Américains partent du principe que Kennedy a été victime d'un complot ». (Wikipedia) <img src={require('@site/static/img/logo-make-wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
 - « L'influence de l'homme sur le climat est sans équivoque » Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 <!--t src=ce52e579-->

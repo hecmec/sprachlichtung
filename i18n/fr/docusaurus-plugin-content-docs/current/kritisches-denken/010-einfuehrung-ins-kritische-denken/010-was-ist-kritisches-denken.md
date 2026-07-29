@@ -20,7 +20,7 @@ custom_translation_overwritten: false
 import Admonition from '@theme/Admonition';
 
 <!--t src=c82a941a-->
-![personnes en train de discuter](/img/banner-met-silk-carpet.jpg)
+![personnes en train de discuter](/img/kd/banner-met-silk-carpet.jpg)
 
 <!--t src=55652371-->
 ## De quoi parlons-nous lorsque nous parlons de pensée critique ?

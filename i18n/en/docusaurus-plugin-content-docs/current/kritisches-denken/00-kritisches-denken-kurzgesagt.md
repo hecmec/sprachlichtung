@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-image: "/img/compass.svg"
+image: "/img/kompass.svg"
 
 # tags: [test1, test2]
 
@@ -101,12 +101,12 @@ One of the most important skills we should learn or master is the ability to **c
 All our beliefs are based on sources of various kinds: textual sources, narratives, our own experiences or those of others.
 The quality of our sources varies greatly.
 Here are a few examples:
-- "The best way to get rich quickly is to buy my book" <img src={require('./img/tiktok.png').default} alt="tiktok ads" height="30"  />
-<!-- ![alt text](tiktok.png) -->
-- "Smoking is cool and not harmful to health!", signed Dr. Marlboro <img src={require('./img/marlboro.png').default} alt="marlboro" height="30"  />
-  <!-- ![malborough|50px](marlboro.png)  -->
-- "The majority of Americans believe that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('./img/wikipedia.png').default} alt="wikipedia" height="30"  />
-- "The influence of humans on the climate is clear" Intergovernmental Panel on Climate Change (IPCC) <img src={require('./img/ipcc.png').default} alt="ipcc" height="30"  />
+- "The best way to get rich quickly is to buy my book" <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30"  />
+<!-- ![alt text](/img/tiktok.png) -->
+- "Smoking is cool and not harmful to health!", signed Dr. Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30"  />
+  <!-- ![malborough|50px](/img/logo-make-marlboro.png)  -->
+- "The majority of Americans believe that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('@site/static/img/logo-make-wikipedia.png').default} alt="wikipedia" height="30"  />
+- "The influence of humans on the climate is clear" Intergovernmental Panel on Climate Change (IPCC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30"  />
 
 I'll let you decide who you trust more.
 

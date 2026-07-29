@@ -43,6 +43,12 @@ In den folgenden Kapiteln werden wir weitere Aspekte des kritischen Denkens erku
 
 ## Quellen
 
-- Stephen Toulmin (1958), _The Uses of Argument_
+<!-- TODO: Eigene Quellen seite -->
 
-- Reconstructing and Analyzing Arguments. https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
+- 🇬🇧 Stephen Toulmin (1958), _The Uses of Argument_
+
+- 🇬🇧 Reconstructing and Analyzing Arguments. https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
+
+- 🇩🇪 Henning Franzen, Anne Burkard und David Löwenstein, [Argumentieren lernen, Aufgaben für den Philosophie- und Ethikunterricht](https://www.philovernetzt.de/argumentieren-lernen/). Online, cc-by-nc-sa.
+
+- 🇩🇪 Jonas Pfister (2020a). Kritisches Denken. Ditzingen: Reclam.
