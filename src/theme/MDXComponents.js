@@ -12,6 +12,7 @@ import CardImage from "@site/src/components/Card/CardImage";
 import Tooltip from '@site/src/components/Tooltip';
 import BrowserWindow from '../components/BrowserWindow';
 import CategoryIndexList from '@site/src/components/CategoryIndexList';
+import ImageReferential from '@site/src/components/ImageReferential';
 
 export default {
   // Réutilise la correspondance par défaut
@@ -28,4 +29,5 @@ export default {
   CardImage,
   Tooltip,
   CategoryIndexList,
+  ImageReferential,
 };

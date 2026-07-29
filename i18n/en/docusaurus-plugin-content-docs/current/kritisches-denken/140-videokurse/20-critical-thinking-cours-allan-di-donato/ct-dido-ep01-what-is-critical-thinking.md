@@ -14,6 +14,7 @@ last_update:
   author: Immanuel Lupinus
 
 completeness: 3/5
+translation_status: manual
 ---
 
 import React from 'react';

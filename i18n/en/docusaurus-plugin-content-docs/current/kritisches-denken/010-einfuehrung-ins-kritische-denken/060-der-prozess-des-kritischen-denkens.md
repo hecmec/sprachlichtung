@@ -12,10 +12,10 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
-<!--t src=521ca08c-->
+<!--t src=5739039a-->
 ![the process of critical thinking](/img/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->

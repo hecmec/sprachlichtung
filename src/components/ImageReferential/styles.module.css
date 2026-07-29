@@ -1,0 +1,191 @@
+.root {
+  margin: 1rem 0 2rem;
+}
+
+/* Toolbar --------------------------------------------------------------- */
+.toolbar {
+  position: sticky;
+  top: var(--ifm-navbar-height, 60px);
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0;
+  margin-bottom: 1rem;
+  background: var(--ifm-background-color);
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+
+.search {
+  flex: 1 1 220px;
+  min-width: 160px;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+  color: var(--ifm-font-color-base);
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+}
+
+.sizeSwitch {
+  display: inline-flex;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  overflow: hidden;
+}
+
+.sizeBtn {
+  padding: 0.4rem 0.75rem;
+  font-size: 0.85rem;
+  color: var(--ifm-font-color-base);
+  background: var(--ifm-background-surface-color);
+  border: 0;
+  border-left: 1px solid var(--ifm-color-emphasis-300);
+  cursor: pointer;
+}
+
+.sizeBtn:first-child {
+  border-left: 0;
+}
+
+.sizeBtnActive {
+  color: var(--ifm-color-white);
+  background: var(--ifm-color-primary);
+}
+
+.count {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+/* Groups ---------------------------------------------------------------- */
+.group {
+  margin: 1.5rem 0;
+}
+
+.groupTitle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.groupCount {
+  padding: 0.05rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
+  background: var(--ifm-color-emphasis-200);
+  border-radius: 999px;
+}
+
+/* Grid ------------------------------------------------------------------ */
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.s200 {
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.s400 {
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+
+.full {
+  grid-template-columns: 1fr;
+}
+
+/* Tile ------------------------------------------------------------------ */
+.tile {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  overflow: hidden;
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+}
+
+.thumbWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Checkerboard so transparent PNGs/SVGs are visible. */
+  background-color: var(--ifm-color-emphasis-100);
+  background-image:
+    linear-gradient(45deg, var(--ifm-color-emphasis-200) 25%, transparent 25%),
+    linear-gradient(-45deg, var(--ifm-color-emphasis-200) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, var(--ifm-color-emphasis-200) 75%),
+    linear-gradient(-45deg, transparent 75%, var(--ifm-color-emphasis-200) 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+}
+
+.thumb {
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Cap preview height in the grid modes; full width shows the whole image. */
+.s200 .thumbWrap {
+  height: 160px;
+}
+
+.s400 .thumbWrap {
+  height: 280px;
+}
+
+.s200 .thumb,
+.s400 .thumb {
+  max-height: 100%;
+}
+
+.full .thumb {
+  width: 100%;
+  height: auto;
+}
+
+/* Caption --------------------------------------------------------------- */
+.caption {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.6rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.link {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  font-size: 0.78rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background: transparent;
+}
+
+.copyBtn {
+  flex: 0 0 auto;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.78rem;
+  color: var(--ifm-color-primary);
+  background: transparent;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: var(--ifm-global-radius);
+  cursor: pointer;
+}
+
+.copyBtn:hover {
+  color: var(--ifm-color-white);
+  background: var(--ifm-color-primary);
+}
+
+.empty {
+  color: var(--ifm-color-emphasis-600);
+}

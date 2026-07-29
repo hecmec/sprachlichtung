@@ -14,12 +14,11 @@ last_update:
   time: "12:00"
   author: Immanuel Lupinus
 completeness: 5/5
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=fd5f5a5c-->
-
+<!--t src=a66fef24-->
 ![people discussing](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
@@ -52,8 +51,7 @@ We make decisions in order **to act**.
 
 To make **the right decisions**, in order to **act 'rightly'**, is an art and a science at once.
 
-<!--t src=1d3cbc86-->
-
+<!--t src=10955435-->
 :::info Action
 
 <p class="text--center">**Action** = **Desire** + **Knowledge**</p>
@@ -61,26 +59,23 @@ To make **the right decisions**, in order to **act 'rightly'**, is an art and a 
 &mdash; David Hume [^1]
 :::
 
-<!--t src=1166b226-->
-
-[^1]: Hume explains that actions are motivated by our desires or goals and that knowledge helps us to achieve those goals. "A Treatise of Human Nature", Book II, Part 3, Section 3, "Of the Influencing Motives of the Will" (1739&mdash;40).
+<!--t src=3efd191e-->
+[^1]: Hume explains that actions are motivated by our desires or goals, and that knowledge helps us to reach those goals. "A Treatise of Human Nature", Book II, Part 3, Section 3, "Of the Influencing Motives of the Will" (1739&mdash;40).
 
 <!--t src=820e2c0b-->
 
 Every action, every decision we make, rests on two fundamental questions:
 
-<!--t src=7208a8a0-->
-
-1. **Where do you want to go? = Goals / Desire**.  
+<!--t src=2999b2bd-->
+1. **Where do you want to go? = Goals / desires**.  
    These are the goals we strive for or desire. They depend, on the one hand, on our **human constitution**.
-   We need food, warmth, security, social contact, sexuality, and so on.  
-   On the other hand, our goals are determined by our familial and **cultural values**, which we have learned as social beings within our culture. These are values and norms such as: freedom, justice, equality, tolerance, respect, compassion, solidarity, honesty — or their opposites.
+   We need food, warmth, safety, social contact, sexuality, and so on.  
+   On the other hand, our goals are shaped by our family and **cultural values**, which we have learnt as social beings within our culture. These are values and norms such as: freedom, justice, equality, tolerance, respect, compassion, solidarity, honesty, or their opposites.
 
-<!--t src=cd1a9b3c-->
-
+<!--t src=9a144b00-->
 2. **How do you get there? = Knowledge**.  
    The second aspect is the knowledge we need in order to reach our goals. You need knowledge of the world.
-   Good decisions are those that are based on **truth** (in a pragmatic sense) and not on **error**.
+   Good decisions are those based on **truth** (in a pragmatic sense) and not on **error**.
 
 <!--t src=b0d6a555-->
 
@@ -123,30 +118,27 @@ We will discuss many of these criteria in more detail over the course of the tut
 **The method of critical thinking helps you to act rightly.**
 &nbsp;
 
-<!--t src=72b59a47-->
-
+<!--t src=10a9fe01-->
 :::info Quote
-"_Enlightenment is man's emergence from his self-incurred immaturity._"
+"_Enlightenment is man's emergence from his self-imposed immaturity._"
 
 &mdash; Immanuel Kant: _What is Enlightenment_[^2]
 :::
 
-<!--t src=66065f4a-->
-
+<!--t src=b912ae58-->
 [^2]:
-    The opening of Kant's famous essay ("[What is Enlightenment](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F)")  
-    **Enlightenment is man's emergence from his self-incurred immaturity. Immaturity** is the inability to use one's own understanding without the guidance of another. This immaturity is **self-incurred** if its cause lies not in a lack of understanding but in a lack of resolve and courage to use it without the guidance of another. **Sapere aude!** Have the courage to use your **own** understanding! is therefore the motto of the Enlightenment.
+    Opening of Kant's famous essay ("[What is Enlightenment](https://en.wikisource.org/wiki/An_Answer_to_the_Question:_What_is_Enlightenment%3F)")  
+    **Enlightenment is man's emergence from his self-imposed immaturity. Immaturity** is the inability to use one's own understanding without the guidance of another. This immaturity is **self-imposed** when its cause lies not in a lack of understanding, but in a lack of resolve and courage to use it without the guidance of another. **Sapere aude!** Have the courage to use your **own** understanding! is therefore the motto of the Enlightenment.
 
 <!--t src=6dbf2566-->
 
 &nbsp;
 Critical thinking has two hemispheres.
 
-<!--t src=a31102b9-->
-
+<!--t src=ad4051f4-->
 :::tip
 
-<p class="text--center">**Critical Thinking** = **Correct** + **Critical** </p>
+<p class="text--center">**Critical thinking** = **Correct** + **Critical** </p>
 
 :::
 
@@ -154,13 +146,11 @@ Critical thinking has two hemispheres.
 
 Critical thinking has two essential aspects:
 
-<!--t src=2385ab50-->
-
+<!--t src=495e6a66-->
 1. How do you think **correctly**?  
-   The answer to that is a **skill**, like "riding a bicycle" or "baking an apple strudel".
+   The answer to that is a **skill**, like "riding a bike" or "baking an apple strudel".
 
-<!--t src=f30a74b3-->
-
+<!--t src=af856a8c-->
 2. How do you think **critically**?  
    The answer to that is an **attitude**, like "being on your guard", which we adopt when the occasion calls for it.
 
@@ -233,14 +223,13 @@ In order to think clearly and critically, we have to learn to **uncover linguist
 Language is not a rigid system; it lives, it changes and often eludes any control. Very often language itself plays a trick on us.
 Here are a few examples:
 
-<!--t src=957d9403-->
-
+<!--t src=8e621bea-->
 - **Loaded language**, e.g.: "Our dim-witted president said ..."
-  Here someone has an opinion about the president that they want to slip past us.
-- **Nonsense**, e.g.: "What time is it on the Moon right now, anyway?"
-  Here an absurd question is raised that can be funny, but also fools us into thinking there is a meaningful answer to it.
-- **Skewed definitions**, e.g.: "Man is a featherless biped with flat fingernails and reason."
-  This is a classic definition that may be accurate but is not really convincing.
+  Someone there has an opinion about the president that they want to slip past us.
+- **Nonsense**, e.g.: "What time is it on the Moon right now, actually?"
+  An absurd question is raised, which can be funny, but which also fools us into thinking there is a meaningful answer to it.
+- **Skewed definitions**, e.g.: "A human being is a featherless biped with flat fingernails and reason."
+  That is a classic definition which may well be accurate, but is not exactly convincing.
 
 <!--t src=881b5e3c-->
 
@@ -261,14 +250,13 @@ All our beliefs rest on sources of very different kinds: textual sources, narrat
 The quality of our sources varies greatly.
 Here are a few examples:
 
-<!--t src=39dff084-->
-
+<!--t src=25461fd1-->
 - "The best way to get rich quick is to buy my book" <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
 <!-- ![alt text](/img/tiktok.png) -->
 - "Smoking is cool and not harmful to your health!", signed Dr. Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />
   <!-- ![malborough|50px](/img/logo-make-marlboro.png)  -->
 - "The majority of Americans assume that Kennedy was the victim of a conspiracy". (Wikipedia) <img src={require('@site/static/img/logo-make-wikipedia.png').default} alt="wikipedia" height="30" style={{marginBottom: '-10px'}} />
-- "Human influence on the climate is unequivocal" Intergovernmental Panel on Climate Change (IPCC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
+- "Human influence on the climate is clear" Intergovernmental Panel on Climate Change (IPCC) <img src={require('@site/static/img/ipcc.png').default} alt="ipcc" height="30" style={{marginBottom: '-10px'}} />
 
 <!--t src=ce52e579-->
 
@@ -367,11 +355,10 @@ All of this is part of correct thinking. But what is the "critical" in critical 
 
 Now we come to the critical part. "**Critical**" here is **an indispensable attitude towards oneself**, towards every kind of claim, hypothesis and theory, towards sources of all kinds, towards science and culture, and even towards values.
 
-<!--t src=3925a466-->
-
-- **Not always**: This is not to say that we should always question everything everywhere. Oh no, please don't — you would go mad.
-- **When it hurts**: You cannot constantly call into question established theories or values rooted in your culture.
-  But sometimes you can. Precisely when **contradictions** with life or with the sciences open up. Contradictions are the propellant of progress.
+<!--t src=999e4b57-->
+- **Not always**: this does not mean that we should always question everything everywhere. Oh no, please don't, you would go mad.
+- **When it hurts**: you cannot constantly call into question established theories or the values rooted in your culture.
+  Sometimes, though, you can. Precisely when **contradictions** open up with life or with the sciences. Contradictions are the raising agent of progress.
 
 <!--t src=87b7fdf6-->
 
@@ -415,10 +402,9 @@ Our society is full of **opposing convictions**:
 
 On many topics we have:
 
-<!--t src=1e574e9c-->
-
-1. very often **no idea** of the subject
-2. and yet, in most cases, **a firm conviction**.
+<!--t src=6b163962-->
+1. very often **no idea** about the subject matter
+2. and yet, usually **a firm conviction**.
 
 <!--t src=47c1f11e-->
 
@@ -493,15 +479,13 @@ In critical thinking, the **suspension of judgement** is a central point. We hav
 
 Not all those on the right are Nazis, not all those on the left are troublemakers.
 
-<!--t src=5019eb34-->
+<!--t src=c60d2aaf-->
+Even in antiquity the suspension of judgement, known as [_epoché_ (ἐποχή)](https://en.wikipedia.org/wiki/Epoch%C3%A9), was an important point in philosophy and was emphasised by philosophers such as Pyrrho and Sextus Empiricus.  
+In Zen Buddhism, too, the suspension of judgement is embodied in the principle of **non-attachment** (無執着, Mu-shūjaku)[^3]. It means not clinging to fixed opinions or convictions.
 
-Already in antiquity, the suspension of judgement — referred to as [_epoché_ (ἐποχή)](https://en.wikipedia.org/wiki/Epoché) — was an important point in philosophy and was emphasised by philosophers such as Pyrrho and Sextus Empiricus.  
-In Zen Buddhism, too, the suspension of judgement is embodied in the principle of **non-attachment** (無執着, mu-shūjaku)[^3]. It means not clinging to fixed opinions or convictions.
-
-<!--t src=2ab13ff6-->
-
+<!--t src=d2062cec-->
 [^3]:
-    Zen teaches us not to cling to views, emotions or perceptions. This corresponds to the Pyrrhonian suspension, but with one decisive difference:  
+    Zen teaches us not to cling to views, emotions or perceptions. That corresponds to Pyrrhonian suspension, but with one decisive difference:  
     **Epoché** says: "I do not hold on, in order to find peace."  
     **Zen** says: "I do not hold on, because holding on is itself the cause of suffering."
 

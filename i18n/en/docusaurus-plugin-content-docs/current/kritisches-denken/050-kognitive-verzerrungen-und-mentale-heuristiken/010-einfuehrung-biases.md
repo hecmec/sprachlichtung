@@ -21,7 +21,7 @@ translation_status: mixed
 <!--t src=07e74d31-->
 <!-- ## Introduction -->
 
-<!--t src=7712a22b-->
+<!--t src=24bbcc0e-->
 ![cognitive bias](/img/kd/banner_bias_Cognitive_Bias_Codex.webp)
 &nbsp;
 

@@ -13,6 +13,12 @@ completeness: 4/5
 draft: true
 ---
 
-## docs
+## Image catalog
 
-This shows all images in the folder tree under docs recursively
+Every reusable image under `static/img` (served at `/img/…`) plus any images
+inside the `docs/` tree, grouped by folder. Use the size switch to change the
+preview, filter by path, and click **Copy** to grab a link ready to paste into
+a markdown page (e.g. `![alt](/img/kd/foo.png)`).
+
+<ImageReferential />
+

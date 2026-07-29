@@ -14,7 +14,7 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -55,19 +55,19 @@ There may be other reasons for a wet street (e.g. street cleaning, a burst water
 <!--t src=cbf92f11-->
 ### Venn Diagram
 
-<!--t src=11a8b1ec-->
+<!--t src=c312659c-->
 <!-- <p style="text-align:center; margin:20px">
   <img src="/img/kd/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
 <!-- https://freesvgeditor.com/fr/svg-editor-online -->
 <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <!-- Schraffur -->
-  <!-- Clip für Schnittmenge -->
+  <!-- Hatching -->
+  <!-- Clip for the intersection -->
   <clipPath id="clipR">
    <circle cx="200" cy="150" r="90" id="svg_1"/>
   </clipPath>
-  <!-- Maske für R \ N -->
+  <!-- Mask for R \ N -->
   <mask id="maskN">
    <rect x="0" y="0" width="500" height="300" fill="white" id="svg_2"/>
    <circle cx="280" cy="150" r="90" fill="black" id="svg_3"/>
@@ -78,25 +78,25 @@ There may be other reasons for a wet street (e.g. street cleaning, a burst water
  </defs>
  <g>
   <title>Layer 1</title>
-  <!-- Hintergrund -->
+  <!-- Background -->
   <rect x="0" y="0" width="500" height="300" fill="white" id="svg_5"/>
-  <!-- N (Straße nass) blau -->
+  <!-- N (road wet) blue -->
   <circle cx="280" cy="150" r="90" fill="#6fa8dc" id="svg_6"/>
-  <!-- R (Regen) gelb -->
+  <!-- R (rain) yellow -->
   <circle cx="200" cy="150" r="90" fill="#ffd966" id="svg_7"/>
-  <!-- Überschneidung R ∩ N grün -->
+  <!-- Intersection R ∩ N green -->
   <circle cx="280" cy="150" r="90" fill="#93c47d" clip-path="url(#clipR)" id="svg_8"/>
-  <!-- Verbotener Bereich R \ N -->
+  <!-- Excluded region R \ N -->
   <circle cx="200" cy="150" r="90" fill="url(#hatch)" mask="url(#maskN)" id="svg_9"/>
-  <!-- Umrisse -->
+  <!-- Outlines -->
   <circle cx="200" cy="150" r="90" fill="none" stroke="black" stroke-width="2" id="svg_10"/>
   <circle cx="280" cy="150" r="90" fill="none" stroke="black" stroke-width="2" id="svg_11"/>
-  <!-- Punkt m: nass, aber kein Regen -->
+  <!-- Point m: wet, but no rain -->
   <circle cx="320" cy="150" r="4" fill="black" id="svg_12"/>
   <!-- Labels -->
   <text x="328" y="155" font-size="14" id="svg_13">m</text>
   <text x="155" y="40" font-size="16" id="svg_14">R (rain)</text>
-  <text x="285" y="40" font-size="16" id="svg_15">N (wet street)</text>
+  <text x="285" y="40" font-size="16" id="svg_15">N (road wet)</text>
  </g>
 </svg>
 
@@ -131,7 +131,7 @@ There may be other reasons why someone could be ill, even without having a fever
 <!--t src=44c0ca30-->
 The Venn diagram has the same form as in the previous example.
 
-<!--t src=283fdfbc-->
+<!--t src=2ebe7b39-->
 <!-- <p style="text-align:center; margin:20px">
   <img src="/img/kd/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->

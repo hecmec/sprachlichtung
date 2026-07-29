@@ -18,7 +18,7 @@ completeness: 3/5
 draft: false
 image: /img/sw/charlie-kirk-memorial-FS.webp
 id: charlie_kirk_a_political_sophist
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -28,7 +28,7 @@ import Admonition from '@theme/Admonition';
 <!--t src=63fd331b-->
 ## Who was Charlie Kirk?
 
-<!--t src=db072267-->
+<!--t src=a66c0bf0-->
 ![Charlie Kirk](/img/sw/charlie-kirk-memorial-FS.webp)
 
 <!--t src=24795649-->

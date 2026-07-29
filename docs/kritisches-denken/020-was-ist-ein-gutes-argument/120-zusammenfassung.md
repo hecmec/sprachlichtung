@@ -52,3 +52,5 @@ In den folgenden Kapiteln werden wir weitere Aspekte des kritischen Denkens erku
 - 🇩🇪 Henning Franzen, Anne Burkard und David Löwenstein, [Argumentieren lernen, Aufgaben für den Philosophie- und Ethikunterricht](https://www.philovernetzt.de/argumentieren-lernen/). Online, cc-by-nc-sa.
 
 - 🇩🇪 Jonas Pfister (2020a). Kritisches Denken. Ditzingen: Reclam.
+
+- 🇩🇪 [agumentation.online](https://argumentation.online): Eine kuratierte Sammlung von Argumentrekonstruktionen

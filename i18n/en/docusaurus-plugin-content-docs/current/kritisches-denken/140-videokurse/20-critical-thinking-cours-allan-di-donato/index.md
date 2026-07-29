@@ -17,6 +17,7 @@ completeness: 3/5
 # image: /static/img/kompass.svg
 # slug:
 # tags: [test1, test2]
+translation_status: manual
 ---
 
 ## Course overview

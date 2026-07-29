@@ -65,6 +65,9 @@ const config: Config = {
     // Computes a thumbnail image per docs page (front matter `image` -> first
     // inline image -> default), exposed as global data for <CategoryIndexList/>.
     ["./plugins/docs-card-images", { defaultImage: "/img/ct_brain-workout.webp" }],
+    // Enumerates every image under /static/img and exposes the list as global
+    // data for the <ImageReferential/> admin catalog page.
+    "./plugins/image-referential",
   ],
 
   presets: [

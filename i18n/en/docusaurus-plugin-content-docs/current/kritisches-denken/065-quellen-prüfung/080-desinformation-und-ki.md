@@ -17,15 +17,15 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=21bf05ff-->
 <!-- ## Disinformation, fake news and AI fakes -->
 
-<!--t src=f9ae0820-->
-On the [page about the information flood](030-die-informationsflut.md) we distinguished mis-, dis- and malinformation. Here we look more closely at the _targeted_ variant, and at a new form that makes everything harder: machine-generated content.
+<!--t src=cbc546e6-->
+On the [page about the information flood](030-die-informationsflut.md) we distinguished misinformation, disinformation and malinformation. Here we look more closely at the _deliberate_ variety, and at a new twist that makes everything harder: machine-generated content.
 
 <!--t src=fbdd3fb2-->
 ## Targeted disinformation
@@ -66,10 +66,10 @@ On 22 May 2023 an apparently **AI-generated image** of a supposed „explosion a
 <!--t src=684c944e-->
 There is no 100% method, but there are telltale signs:
 
-<!--t src=002473a0-->
-- **Details that don't add up:** hands with too many fingers, unreadable text on signs, distorted backgrounds, „floating“ objects or objects merging into one another.
-- **Missing confirmation:** a dramatic event for which _only_ this one image exists and no reputable source reports is suspicious.
-- **Check the source:** who posted it first? A genuine account or an imitation?
+<!--t src=dda4a18d-->
+- **Details that don't add up:** hands with too many fingers, unreadable writing on signs, distorted backgrounds, "floating" objects or objects merging into one another.
+- **No corroboration:** a dramatic event for which _only_ this one image exists, and which no reputable source reports, is suspicious.
+- **Check the source:** who posted it first? A real account, or an imitation?
 - **Check the context:** a reverse image search often shows that an image is old or comes from somewhere else (see [tools](090-faktencheck-werkzeuge.md)).
 
 <!--t src=13964805-->

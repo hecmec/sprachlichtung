@@ -17,7 +17,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -30,12 +30,12 @@ Source criticism does not begin with evaluating, but with **searching**. Whoever
 <!--t src=b601ad30-->
 ## Searching better
 
-<!--t src=a2c96525-->
-- **Choose precise terms.** Instead of „is coffee harmful“, better „coffee heart health study review“. Technical terms lead to specialist sources.
-- **Try several search terms and synonyms**, in English too, because the largest bodies of knowledge are in English.
-- **Use operators:** quotation marks for exact phrases (`"artificial scarcity"`), `site:` for a particular site (`site:bundestag.de`), minus to exclude (`jaguar -car`).
-- **Apply click restraint:** read the list of hits first, then click deliberately (see the [SIFT page](040-die-sift-methode.md)).
-- **Beyond the first tab.** Very few good pieces of research end on page one of the results.
+<!--t src=3530d22b-->
+- **Choose precise terms.** Rather than "is coffee harmful", try "coffee heart health study review". Technical terms lead to specialist sources.
+- **Try several search terms and synonyms**, English ones included, since the largest bodies of knowledge are in English.
+- **Use operators:** quotation marks for exact phrases (`"artificial scarcity"`), `site:` for a particular site (`site:bundestag.de`), a minus sign to exclude (`Jaguar -car`).
+- Apply **click restraint**: read the results list first, then click deliberately (see the [SIFT page](040-die-sift-methode.md)).
+- **Look beyond the first tab.** Very few good pieces of research end on page one of the results.
 
 <!--t src=3b3bc3fa-->
 :::warning Caution
