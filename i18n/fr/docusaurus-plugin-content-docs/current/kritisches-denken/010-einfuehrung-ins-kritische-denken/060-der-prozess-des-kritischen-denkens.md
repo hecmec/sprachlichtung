@@ -14,11 +14,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=521ca08c-->
+<!--t src=5739039a-->
 ![le processus de la pensée critique](/img/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->

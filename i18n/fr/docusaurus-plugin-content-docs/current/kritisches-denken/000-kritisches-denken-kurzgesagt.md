@@ -14,11 +14,11 @@ last_update:
   time: "12:00"
   author: Immanuel Lupinus
 completeness: 5/5
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=fd5f5a5c-->
+<!--t src=a66fef24-->
 ![personnes en train de discuter](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=1ea0afa2-->
@@ -212,7 +212,7 @@ Toutes nos convictions s'appuient sur des sources de natures très diverses : so
 La qualité de nos sources est à cet égard très variable.
 Voici quelques exemples :
 
-<!--t src=39dff084-->
+<!--t src=25461fd1-->
 - « La meilleure façon de devenir riche rapidement, c'est d'acheter mon livre » <img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" style={{marginBottom: '-10px'}} />
 <!-- ![alt text](/img/tiktok.png) -->
 - « Fumer, c'est cool et ce n'est pas mauvais pour la santé ! », signé Dr Marlboro <img src={require('@site/static/img/logo-make-marlboro.png').default} alt="marlboro" height="30" style={{marginBottom: '-10px'}} />

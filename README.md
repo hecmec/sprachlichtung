@@ -66,7 +66,7 @@ https://docuxlab.com/blog/Tooltip-tools-docusaurus/
 
 https://docuxlab.com/blog/columns-component-docusaurus-infima/
 
-## Deployment on GitHub Pages
+## Deployment on GitHub Pages (old)
 
 Using SSH:
 

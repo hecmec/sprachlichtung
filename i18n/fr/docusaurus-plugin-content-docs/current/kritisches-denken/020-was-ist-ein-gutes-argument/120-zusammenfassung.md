@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -57,8 +57,20 @@ Dans les chapitres suivants, nous explorerons d'autres aspects de la pensée cri
 <!--t src=69b1092f-->
 ## Sources
 
-<!--t src=e2023ca8-->
-- Stephen Toulmin (1958), _The Uses of Argument_
+<!--t src=6d80b3e6-->
+<!-- TODO: Eigene Quellen seite -->
 
-<!--t src=2db9e4e2-->
-- Reconstructing and Analyzing Arguments. https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
+<!--t src=ca0cf10f-->
+- 🇬🇧 Stephen Toulmin (1958), _The Uses of Argument_
+
+<!--t src=886d680d-->
+- 🇬🇧 Reconstructing and Analyzing Arguments. https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
+
+<!--t src=d3646438-->
+- 🇩🇪 Henning Franzen, Anne Burkard et David Löwenstein, [Argumentieren lernen, Aufgaben für den Philosophie- und Ethikunterricht](https://www.philovernetzt.de/argumentieren-lernen/). En ligne, cc-by-nc-sa.
+
+<!--t src=5479de49-->
+- 🇩🇪 Jonas Pfister (2020a). Kritisches Denken. Ditzingen : Reclam.
+
+<!--t src=50b7b280-->
+- 🇩🇪 [agumentation.online](https://argumentation.online) : une collection curatée de reconstructions d'arguments

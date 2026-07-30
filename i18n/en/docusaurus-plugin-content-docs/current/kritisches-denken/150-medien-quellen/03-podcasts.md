@@ -14,11 +14,11 @@ keywords:
 last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
-completeness: 1/5
-draft: true
+completeness: 2/5
+draft: false
 id: podcasts
-translation_status: manual
 custom_translation_overwritten: false
+translation_status: manual
 ---
 
 <!--t src=51411da4-->
@@ -47,8 +47,7 @@ custom_translation_overwritten: false
 
 ## Philosophy of Language
 
-<!--t src=b5237572-->
-
+<!--t src=5fab0dc6-->
 - 🇬🇧 [Philosophy Bites](https://philosophybites.com/) (Nigel Warburton & David Edmonds)
   - Short interviews with leading philosophers, including on meaning, language and logic.
 - 🇫🇷 [Les Chemins de la philosophie](https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie) &mdash; France Culture
@@ -58,8 +57,7 @@ custom_translation_overwritten: false
 
 ## Language and Society
 
-<!--t src=abf44a95-->
-
+<!--t src=9b732ea7-->
 - 🇩🇪 [Wortcast &mdash; der Podcast der GfdS](https://gfds.de/podcast/) &mdash; Gesellschaft für deutsche Sprache
   - Current topics around language: language change, words of the year, the formal vs. informal "you".
 - 🇬🇧 [Lingthusiasm](https://lingthusiasm.com/) (Gretchen McCulloch & Lauren Gawne)

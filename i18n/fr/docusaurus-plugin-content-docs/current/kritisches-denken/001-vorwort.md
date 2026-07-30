@@ -15,11 +15,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=26970d14-->
+<!--t src=0e9d7cfb-->
 ![personnes en train de discuter](/img/kd/banner-rationalitaet-humains.png)
 
 <!--t src=b91d8481-->

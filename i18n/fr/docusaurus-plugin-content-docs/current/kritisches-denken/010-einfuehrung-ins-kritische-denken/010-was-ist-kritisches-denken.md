@@ -12,15 +12,15 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
 
-<!--t src=c82a941a-->
-![personnes en train de discuter](/img/kd/banner-met-silk-carpet.jpg)
+<!--t src=5b35483a-->
+![tapis](/img/kd/banner-met-silk-carpet.jpg)
 
 <!--t src=55652371-->
 ## De quoi parlons-nous lorsque nous parlons de pensée critique ?
@@ -61,17 +61,18 @@ Au fond, la pensée critique signifie **penser par soi-même**. Il s'agit de :
 - **douter** de manière constructive
 - réfléchir par soi-même pour se forger ses **propres opinions** et prendre ses **propres décisions**
 
-<!--t src=cdc10447-->
+<!--t src=f7693ce5-->
 <details>
   <summary>L'origine (étymologie) de la pensée critique</summary>
 
-  De la _Critique de la raison pure_ de Kant, en passant par un _point critique_ jusqu'aux _temps critiques_ dans lesquels nous vivons, « critique » est partout et a de multiples visages.  
-  Le mot nous est parvenu en partie par le français « _critique_ ».  
+  De la _Critique de la raison pure_ de Kant, en passant par un _point critique_ jusqu'aux _temps critiques_ dans lesquels nous vivons, « critique » est partout et a de multiples visages.
+  Le mot nous est parvenu en partie par le français « _critique_ », qui a donné en allemand « _kritisch_ » et « _Kritik_ ».
   À l'origine, il vient du latin « _criticus_ ». Les Romains l'ont, comme souvent, emprunté aux Grecs, chez qui il se dit « _κριτικός_ » (kritikos) et signifie : « **capable de distinguer** » ou « **apte à juger** ». Il est apparenté à _κρίσις_ (crisis) et dérivé du verbe « _krinein_ », qui signifie à peu près : « distinguer », « choisir », « décider », « trier ».
 
   Un autre penseur important dans l'histoire de la pensée critique fut John Dewey (1910), un philosophe pragmatiste américain, qui l'appelait « reflective thinking » (la pensée réflexive). Pour Dewey, la pensée réflexive ou critique est :
   « l'examen actif, persévérant et attentif de toute croyance ou forme supposée de savoir, à la lumière des raisons qui la soutiennent et des conclusions ultérieures auxquelles elle conduit.\
   (_active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends._) »[^2]
+
 </details>
 
 <!--t src=61f49985-->
@@ -86,13 +87,13 @@ Nous devrions simplement nous demander plus souvent quand nous pensons bien et q
 <!--t src=ac21ccf8-->
 L'un des plus sages parmi les anciens philosophes, **Socrate** (encore un Grec de l'Antiquité, et le héros de notre histoire), en a fait la démonstration avec ses dialogues, que son élève Platon a consignés par écrit.
 
-<!--t src=8908cba5-->
+<!--t src=09d87b11-->
 <Admonition type="note" icon="💬" title="Citation">
 
-  « **Je sais que je ne sais rien** »  
-  littéralement : « Car je savais de moi-même que je ne savais absolument rien… »
+« **Je sais que je ne sais rien** »
+ littéralement : « Car je savais de moi-même que je ne savais absolument rien… »
 
-  <p class="text--right">Socrate dans Platon : _Apologie de Socrate_ 22d</p> 
+  <p class="text--right">Socrate dans Platon : _Apologie de Socrate_ 22d</p>
 </Admonition>
 
 <!--t src=7667d52e-->
@@ -108,13 +109,16 @@ Le fait de remettre constamment en question les convictions de ses semblables lu
 <!--t src=9dcf1162-->
 À l'époque moderne, la pensée critique a notamment été remise à l'honneur par Peter Facione. Dans son célèbre « Delphi Report » [^3], suivant les nombreux experts qui y ont participé, il a surtout distingué deux choses :
 
-<!--t src=909f6b6e-->
+<!--t src=121d7386-->
 :::info Distinction
-<p class="text--center">**capacités cognitives** vs. **attitudes affectives**</p> 
+
+<p class="text--center">**capacités cognitives** vs. **attitudes affectives**</p>
 :::
 
-<!--t src=d5fae1fc-->
+<!--t src=8cd7548f-->
 Parmi les capacités cognitives, on trouve :
+
+<!--t src=a8b0918a-->
 1. **L'interprétation** : la capacité de comprendre des informations, des énoncés ou des données et d'en saisir le sens dans le contexte donné.
 2. **L'analyse** : la capacité de décomposer des arguments, des affirmations ou des problèmes en leurs éléments constitutifs et d'en reconnaître la structure ainsi que les liens.
 3. **L'évaluation (l'appréciation)** : la capacité d'examiner et d'apprécier de façon critique la crédibilité d'énoncés, d'arguments ou de sources.
@@ -122,7 +126,7 @@ Parmi les capacités cognitives, on trouve :
 5. **L'explication** : la capacité de présenter et de justifier ses propres réflexions, arguments et conclusions de manière claire et compréhensible.
 6. **L'autorégulation** : la capacité de surveiller sa propre pensée, de reconnaître ses erreurs et de corriger le processus de pensée si nécessaire.
 
-<!--t src=beb098c4-->
+<!--t src=4bdc6504-->
 ![Facione, les capacités de la pensée critique](/img/crit-think-skills-facione.png)
 
 <!--t src=bfaf1c7d-->
@@ -141,8 +145,8 @@ En font partie des dispositions telles que :
 - la persévérance
 - la disposition à **remettre en question ses propres préjugés**[^4]
 
-<!--t src=c621a88c-->
-[^4]: "The  ideal  critical  thinker  is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded  in  evaluation,  honest  in  facing  personal  biases,  prudent  in  making judgments, willing to  reconsider, clear about  issues, orderly in complex  matters, diligent  in  seeking  relevant  information,  reasonable  in  the  selection  of  criteria, focused in inquiry, and persistent  in seeking results which are as precise  as the subject  and  the circumstances  of  inquiry permit."
+<!--t src=982a3257-->
+[^4]: "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."
 
 <!--t src=c11c2cb9-->
 J'ai mis en évidence les points qui sont rarement mentionnés, mais qui sont pourtant les plus importants.
@@ -171,8 +175,14 @@ Elle requiert de la pratique, de l'autoréflexion et la disposition à remettre 
 <!--t src=937b5de0-->
 C'est parti !
 
-<!--t src=7531beb6-->
+<!--t src=0513bef4-->
 [^1]: Tu le remarques, il ne s'agit pas seulement de toi, mais aussi des autres et de notre environnement. La pensée critique est une compétence sociale.
+
+<!--t src=ec76f30f-->
 [^2]: John Dewey, 1910, [_How We Think_](https://archive.org/details/howwethink000838mbp)
+
+<!--t src=0c7bdf05-->
 [^3]: Peter A. Facione : [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._, ERIC, Institute of Education Sciences, 1990, pp.1-112](https://eric.ed.gov/?id=ED315423), Santa Clara University 1990.
-[^4]: Dans l'article de Facione : "The  ideal  critical  thinker  is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded  in  evaluation,  honest  in  facing  personal  biases,  prudent  in  making judgments, willing to  reconsider, clear about  issues, orderly in complex  matters, diligent  in  seeking  relevant  information,  reasonable  in  the  selection  of  criteria, focused in inquiry, and persistent  in seeking results which are as precise  as the subject  and  the circumstances  of  inquiry permit."
+
+<!--t src=0f881fae-->
+[^4]: Dans l'article de Facione : "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."

@@ -18,14 +18,14 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=07e74d31-->
 <!-- ## Einführung -->
 
-<!--t src=7712a22b-->
+<!--t src=24bbcc0e-->
 ![biais cognitif](/img/kd/banner_bias_Cognitive_Bias_Codex.webp)
 &nbsp;
 

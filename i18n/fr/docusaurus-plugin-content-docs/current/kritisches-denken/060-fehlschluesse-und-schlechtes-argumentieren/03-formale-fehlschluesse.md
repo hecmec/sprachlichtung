@@ -15,7 +15,7 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -56,7 +56,7 @@ Il existe peut-être d'autres raisons pour qu'une rue soit mouillée (par exempl
 <!--t src=cbf92f11-->
 ### Diagramme de Venn
 
-<!--t src=11a8b1ec-->
+<!--t src=c312659c-->
 <!-- <p style="text-align:center; margin:20px">
   <img src="/img/kd/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
@@ -96,8 +96,8 @@ Il existe peut-être d'autres raisons pour qu'une rue soit mouillée (par exempl
   <circle cx="320" cy="150" r="4" fill="black" id="svg_12"/>
   <!-- Labels -->
   <text x="328" y="155" font-size="14" id="svg_13">m</text>
-  <text x="155" y="40" font-size="16" id="svg_14">R (Pluie)</text>
-  <text x="285" y="40" font-size="16" id="svg_15">N (Rue mouillée)</text>
+  <text x="155" y="40" font-size="16" id="svg_14">R (pluie)</text>
+  <text x="285" y="40" font-size="16" id="svg_15">N (route mouillée)</text>
  </g>
 </svg>
 
@@ -132,7 +132,7 @@ Il existe peut-être d'autres raisons pour lesquelles quelqu'un pourrait être m
 <!--t src=44c0ca30-->
 Le diagramme de Venn a la même forme que dans l'exemple précédent.
 
-<!--t src=283fdfbc-->
+<!--t src=2ebe7b39-->
 <!-- <p style="text-align:center; margin:20px">
   <img src="/img/kd/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->

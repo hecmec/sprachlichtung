@@ -14,14 +14,12 @@ last_update:
   date: 2026-02-04
   author: Immanuel Lupinus
 id: toolbox
-translation_status: manual
 custom_translation_overwritten: false
+translation_status: manual
 ---
 
-<!--t src=b0e66d51-->
-
+<!--t src=cf4fc6c0-->
 ![](/img/kd/mind_mapping_argument_mapping.png)
-
 <!-- https://framindmap.org/c/maps/1573467/edit -->
 
 <!--t src=1898b76a-->
@@ -45,9 +43,8 @@ We keep adding new ones.
 
 **[Frezgi](https://frezgi.com/)**
 
-<!--t src=be38f6b9-->
+<!--t src=358d9003-->
 <!-- ![frezgi app image](/img/kd/frezgi_github.png) -->
-
 <img src={require("@site/static/img/kd/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=acbb5cb5-->
@@ -59,9 +56,8 @@ We keep adding new ones.
 
 **[Rationale](https://rationaleonline.com/)**
 
-<!--t src=686dabda-->
+<!--t src=9bd1698b-->
 <!-- ![Rationale app image](/img/kd/rationale_screenshot.png) -->
-
 <img src={require("@site/static/img/kd/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=f638017a-->
@@ -96,8 +92,7 @@ We keep adding new ones.
 
 **[Framindmap](https://framindmap.org/)**
 
-<!--t src=9ccd0a3f-->
-
+<!--t src=6ae016c2-->
 <img src={require("@site/static/img/kd/framindmap_wisemapping.png").default} alt="**framindmap** app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=4d389f31-->

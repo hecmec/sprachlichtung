@@ -16,15 +16,37 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=14c42033-->
 <!-- ## Ambiguität (Mehrdeutigkeit) -->
 
-<!--t src=c99500af-->
-Il y a ambiguïté lorsqu'un mot, une phrase ou une autre expression linguistique peut avoir plus d'une signification. Les ambiguïtés peuvent conduire à des malentendus et à des raisonnements fallacieux, surtout lorsque les différentes significations sont mélangées au fil d'un argument.
+<!--t src=843dbdc6-->
+<div className="row">
+<div className="col col--7">
+
+> "One morning I shot an elephant in my pajamas.\
+> How he got in my pajamas I'll never know."
+> ― Groucho Marx
+
+> Un matin, j'ai tiré sur un éléphant en pyjama.\
+> Comment il est entré dans mon pyjama, je ne le saurai jamais.
+
+</div>
+<div className="col col--5 text--center">
+
+![Groucho Marx tire sur un éléphant en pyjama](/img/shot_an_elefant_in_my_pyjama.png)
+
+</div>
+</div>
+
+<!--t src=18bb4026-->
+Il y a ambiguïté ou **polysémie** lorsqu'un mot, une phrase ou une autre expression linguistique peut avoir plus d'une signification.
+
+<!--t src=5f9ece94-->
+Les ambiguïtés sont une source féconde d'**humour et de poésie**. En même temps, elles sont aussi une source redoutable de malentendus et de raisonnements fallacieux de toute sorte, surtout lorsque les différentes significations sont mélangées au fil d'un argument.
 
 <!--t src=6edb4c6e-->
 ### Types d'ambiguïté

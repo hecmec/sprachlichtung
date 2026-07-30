@@ -15,8 +15,8 @@ last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
 id: books
-translation_status: manual
 custom_translation_overwritten: false
+translation_status: manual
 ---
 
 <!--t src=7441ede4-->
@@ -60,13 +60,14 @@ _Here are a few very well-known books that illuminate sub-areas of critical thin
 - 🇫🇷 Albert Moukheiber (2019): **Votre cerveau vous joue des tours** (Allary Éditions)
   - The neuroscientist explains in accessible terms how our brain deceives us with cognitive biases.
 
-<!--t src=b8a7f768-->
-
+<!--t src=aad21401-->
 ## Science and Skepticism
 
+<!--t src=3d9dcc66-->
 - 🇩🇪🇬🇧 Carl Sagan: **Der Drache in meiner Garage**. Oder die Kunst der Wissenschaft, Unsinn zu entlarven. (1997)
   - original: [The Demon-Haunted World: Science as a Candle in the Dark ](https://en.wikipedia.org/wiki/The_Demon-Haunted_World) (1995)
 - 🇩🇪 Thomas Kuhn: [**Die Struktur wissenschaftlicher Revolutionen**](https://de.wikipedia.org/wiki/Die_Struktur_wissenschaftlicher_Revolutionen).
+  - 🇬🇧 English edition: _The Structure of Scientific Revolutions_ (University of Chicago Press, 1962)
 - 🇫🇷 Georges Charpak & Henri Broch (2002): [**Devenez sorciers, devenez savants**](https://fr.wikipedia.org/wiki/Devenez_sorciers,_devenez_savants) (Odile Jacob)
   - Nobel laureate Charpak and the founder of French zététique expose pseudosciences using the tools of the scientific method.
 
@@ -74,12 +75,14 @@ _Here are a few very well-known books that illuminate sub-areas of critical thin
 
 ## Philosophy of Language
 
-<!--t src=dd388443-->
-
+<!--t src=07c82851-->
 - 🇩🇪 Ludwig Wittgenstein: [**Philosophische Untersuchungen**](https://de.wikipedia.org/wiki/Philosophische_Untersuchungen) (Suhrkamp, 2003)
+  - 🇬🇧 English edition: _Philosophical Investigations_ (Wiley-Blackwell)
 - 🇩🇪 Jürgen Habermas: [**Theorie des kommunikativen Handelns**](https://de.wikipedia.org/wiki/Theorie_des_kommunikativen_Handelns) (Suhrkamp, 1981)
+  - 🇬🇧 English edition: _The Theory of Communicative Action_ (Beacon Press)
 - 🇩🇪 Gottlob Frege: **Funktion, Begriff, Bedeutung** (Reclam, 1997) &mdash; five logical studies, including [_Über Sinn und Bedeutung_](https://de.wikipedia.org/wiki/%C3%9Cber_Sinn_und_Bedeutung)
 - 🇩🇪 Hans-Georg Gadamer: [**Wahrheit und Methode**](https://de.wikipedia.org/wiki/Wahrheit_und_Methode) (Mohr Siebeck, 1960)
+  - 🇬🇧 English edition: _Truth and Method_ (Bloomsbury)
 - 🇬🇧 J. L. Austin: [**How to Do Things with Words**](https://en.wikipedia.org/wiki/How_to_Do_Things_with_Words) (Oxford University Press, 1962)
 - 🇫🇷 Émile Benveniste: [**Problèmes de linguistique générale**](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_linguistique_g%C3%A9n%C3%A9rale) (Gallimard, 1966/1974)
 
@@ -87,17 +90,18 @@ _Here are a few very well-known books that illuminate sub-areas of critical thin
 
 ## Language and Society
 
-<!--t src=c206ce52-->
-
+<!--t src=2548049f-->
 - 🇩🇪 Jürgen Trabant: _Sprachpolitik_ (C.H. Beck, 2012)
 - 🇩🇪 Elisabeth Leiss: _Sprache und Gesellschaft_ (de Gruyter, 2012)
 - 🇩🇪 Jürgen Habermas: [_Strukturwandel der Öffentlichkeit_](https://de.wikipedia.org/wiki/Strukturwandel_der_%C3%96ffentlichkeit) (Suhrkamp, 1962)
+  - 🇬🇧 English edition: _The Structural Transformation of the Public Sphere_ (Polity Press)
 - 🇩🇪 Ruth Wodak: _Sprache und Macht_ (Suhrkamp, 2018)
 - 🇩🇪 Victor Klemperer: [_LTI &mdash; Notizbuch eines Philologen_](https://de.wikipedia.org/wiki/LTI_%E2%80%93_Notizbuch_eines_Philologen) (1947)
-- 🇩🇪 Dolf Sternberger, Wilhelm E. Süskind und Gerhard Storz (1957): [_Aus dem Wörterbuch des Unmenschen_](https://de.wikipedia.org/wiki/Aus_dem_W%C3%B6rterbuch_des_Unmenschen)
+  - 🇬🇧 English edition: _LTI: The Language of the Third Reich_ (Bloomsbury)
+- 🇩🇪 Dolf Sternberger, Wilhelm E. Süskind and Gerhard Storz (1957): [_Aus dem Wörterbuch des Unmenschen_](https://de.wikipedia.org/wiki/Aus_dem_W%C3%B6rterbuch_des_Unmenschen)
 - 🇬🇧 Deborah Cameron, Linda Thomas et al.: _Language, Society and Power: An Introduction_ (Routledge)
 - 🇫🇷 Pierre Bourdieu: [_Ce que parler veut dire / Langage et pouvoir symbolique_](https://fr.wikipedia.org/wiki/Ce_que_parler_veut_dire) (Fayard, 1982)
-- [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) &mdash; soztheo.de
+- 🇩🇪 [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) &mdash; soztheo.de
 
 <!--t src=8fe577ea-->
 <!--
