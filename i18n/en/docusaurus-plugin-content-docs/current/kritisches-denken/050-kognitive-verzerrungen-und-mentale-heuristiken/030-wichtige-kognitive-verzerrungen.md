@@ -1,6 +1,6 @@
 ---
 title: Key Cognitive Biases
-sidebar_position: 3
+sidebar_position: 30
 description: Overview of the most common and important cognitive biases with examples and counter-strategies
 keywords:
   - cognitive biases

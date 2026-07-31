@@ -1,7 +1,7 @@
 ---
 id: mythen_ueber_kritisches_denken
 title: Myths about critical thinking
-sidebar_position: 4
+sidebar_position: 30
 sidebar_label: Myths
 description: The most important misconceptions and myths surrounding critical thinking.
 slug: /critical-thinking/myths-about-critical-thinking

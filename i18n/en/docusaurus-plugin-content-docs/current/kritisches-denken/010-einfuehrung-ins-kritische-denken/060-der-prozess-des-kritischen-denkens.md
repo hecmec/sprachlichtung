@@ -1,6 +1,6 @@
 ---
 title: The process of critical thinking
-sidebar_position: 7
+sidebar_position: 60
 sidebar_label: The Process
 description: The key steps of critical thinking, from identifying the problem to reflection.
 keywords:

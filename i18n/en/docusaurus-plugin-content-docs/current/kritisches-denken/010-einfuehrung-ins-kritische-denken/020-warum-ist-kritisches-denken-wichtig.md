@@ -2,7 +2,7 @@
 id: warum_ist_kritisches_denken_wichtig
 title: Why is critical thinking important?
 sidebar_label: Importance
-sidebar_position: 3
+sidebar_position: 20
 description: Why critical thinking is a key competency and how it helps you in everyday life, studies and career.
 keywords:
   - critical thinking

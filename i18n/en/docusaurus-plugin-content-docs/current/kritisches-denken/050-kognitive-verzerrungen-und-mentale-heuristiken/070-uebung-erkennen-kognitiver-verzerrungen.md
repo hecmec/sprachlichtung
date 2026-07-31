@@ -1,6 +1,6 @@
 ---
 title: "Exercise: Identifying Cognitive Biases in Your Own Thinking"
-sidebar_position: 7
+sidebar_position: 70
 sidebar_label: "Exercise: Identifying Cognitive Biases"
 description: Practical exercise for self-observation and identification of cognitive biases in your own thinking
 keywords:

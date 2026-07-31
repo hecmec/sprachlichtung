@@ -3,7 +3,7 @@ id: butler_et_le_genre
 title: Butler et le genre
 title_meta: Judith Butler explique le genre
 sidebar_label: Butler et le genre
-sidebar_position: 4
+sidebar_position: 6
 description: "Judith Butler explique le genre : sexe et genre, performativité, liberté et démocratie."
 keywords:
   - genre

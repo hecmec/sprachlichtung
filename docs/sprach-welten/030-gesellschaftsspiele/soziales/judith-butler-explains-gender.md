@@ -2,7 +2,7 @@
 title: Butler on Gender
 title_meta: "Judith Butler explains Gender"
 sidebar_label: Butler on Gender
-sidebar_position: 4
+sidebar_position: 6
 description: "Das Sprachspiel des Erzählens"
 keywords:
   - Gesellschaftsspiele

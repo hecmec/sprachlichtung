@@ -2,7 +2,7 @@
 id: was_ist_kritisches_denken
 title: What is Critical Thinking?
 sidebar_label: What it is
-sidebar_position: 2
+sidebar_position: 10
 description: Introduction to the ability to think reflectively, independently, and rationally, and to systematically analyze information.
 keywords:
   - critical thinking

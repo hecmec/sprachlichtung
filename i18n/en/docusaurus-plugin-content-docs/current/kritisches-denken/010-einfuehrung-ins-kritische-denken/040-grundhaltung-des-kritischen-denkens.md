@@ -1,7 +1,7 @@
 ---
 id: grundhaltung_des_kritischen_denkens
 title: The fundamental Attitude of Critical Thinking
-sidebar_position: 5
+sidebar_position: 40
 sidebar_label: Fundamental Attitude
 description: Which mindset and characteristics promote critical thinking.
 keywords:

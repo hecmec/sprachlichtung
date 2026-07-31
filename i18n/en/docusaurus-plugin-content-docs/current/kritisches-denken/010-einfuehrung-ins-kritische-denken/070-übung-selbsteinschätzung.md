@@ -1,6 +1,6 @@
 ---
 title: "Exercise: Self-Assessment of Your Critical Thinking Skills"
-sidebar_position: 8
+sidebar_position: 70
 sidebar_label: Self-Assessment
 description: A self-assessment tool to evaluate and reflect on your critical thinking skills.
 keywords:

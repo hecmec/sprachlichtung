@@ -1,6 +1,6 @@
 ---
 title: Mental Heuristics
-sidebar_position: 4
+sidebar_position: 40
 description: Explanation of mental heuristics as cognitive shortcuts, including their advantages and disadvantages
 keywords:
   - mental heuristics

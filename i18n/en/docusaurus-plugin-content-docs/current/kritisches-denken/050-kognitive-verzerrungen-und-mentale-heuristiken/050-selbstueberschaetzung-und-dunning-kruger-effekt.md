@@ -1,6 +1,6 @@
 ---
 title: Overconfidence and the Dunning-Kruger Effect
-sidebar_position: 5
+sidebar_position: 50
 description: Detailed examination of overconfidence and the Dunning-Kruger Effect and their impact on critical thinking
 keywords:
   - overconfidence

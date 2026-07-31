@@ -1,6 +1,6 @@
 ---
 title: "Quiz: Fundamentals of Critical Thinking"
-sidebar_position: 9
+sidebar_position: 90
 sidebar_label: Quiz
 description: An interactive test to check understanding of fundamental concepts of critical thinking.
 keywords:

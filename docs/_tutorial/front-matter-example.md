@@ -1,6 +1,6 @@
 ---
 # https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
-id: doc-markdown
+# id: doc-markdown
 title: Docs Markdown Features
 hide_title: false
 hide_table_of_contents: false
@@ -18,7 +18,8 @@ slug: /myDoc
 last_update:
   date: 2025-07-17
   author: Immanuel Lupinus
-
+completeness: 5/5
+draft: false
 ---
 
 # Markdown Features

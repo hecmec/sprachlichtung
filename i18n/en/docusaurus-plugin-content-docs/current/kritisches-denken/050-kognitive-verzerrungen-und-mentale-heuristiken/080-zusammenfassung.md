@@ -1,6 +1,6 @@
 ---
 title: Summary
-sidebar_position: 8
+sidebar_position: 80
 description: Summary of key insights about cognitive biases and mental heuristics
 keywords:
   - cognitive biases
