@@ -14,6 +14,8 @@ keywords:
 last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
 ---
 
 - Hier sind ein paar wichtige Bücher zum Thema Sprache, Kritisches Denken und Philosophie.

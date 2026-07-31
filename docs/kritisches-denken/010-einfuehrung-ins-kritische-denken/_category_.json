@@ -1,8 +1,4 @@
 {
   "label": "Einführung ins Kritische Denken",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Eine Einführung in alles, was du über Kritisches Denken wissen musst."
-  }
+  "position": 1
 }

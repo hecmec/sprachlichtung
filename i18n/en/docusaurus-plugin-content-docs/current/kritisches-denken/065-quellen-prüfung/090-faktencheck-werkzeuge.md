@@ -18,7 +18,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -76,8 +76,8 @@ Anyone who wants to proceed in a structured way can follow the **EUfactcheck flo
 2. **Analyse the author/source**: who is making the claim? With what credibility, expertise and possible motive?
 3. **Fact check**: research the evidence and determine its accuracy.
 
-<!--t src=763fad72-->
-At its core this is the same logic as [SIFT](040-die-sift-methode.md), just more detailed.
+<!--t src=06975564-->
+At its core this is the same logic as [SIFT](040-die-sift-methode.md), just in more detail.
 
 <!--t src=543d27bf-->
 ## Tools for checking images and videos

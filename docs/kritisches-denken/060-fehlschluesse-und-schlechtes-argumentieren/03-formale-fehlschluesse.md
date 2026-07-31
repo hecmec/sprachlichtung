@@ -42,7 +42,7 @@ Es gibt möglicherweise andere Gründe für eine nasse Straße (z.B. Straßenrei
 ### Venn-Diagram
 
 <!-- <p style="text-align:center; margin:20px">
-  <img src="img/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
+  <img src="/img/kd/venn_diag_regen_nass.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
 <!-- https://freesvgeditor.com/fr/svg-editor-online -->
 <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
@@ -109,7 +109,7 @@ Es gibt möglicherweise andere Gründe, warum jemand krank sein könnte, auch oh
 Das Venn-Diagram hat die gleiche Form wie im letzten Beispiel.
 
 <!-- <p style="text-align:center; margin:20px">
-  <img src="img/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
+  <img src="/img/kd/venn_diag_max_fieber_krank.png" alt="venn diagram" style="max-width:600px; display:block; margin:0 auto;" />
 </p> -->
 
 <svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">

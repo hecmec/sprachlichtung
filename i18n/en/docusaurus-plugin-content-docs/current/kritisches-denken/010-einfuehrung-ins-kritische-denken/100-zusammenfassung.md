@@ -1,6 +1,6 @@
 ---
 title: Summary of the Introduction
-sidebar_position: 10
+sidebar_position: 100
 sidebar_label: Summary
 description: A compact overview of the most important concepts of critical thinking and their significance in everyday life.
 keywords:

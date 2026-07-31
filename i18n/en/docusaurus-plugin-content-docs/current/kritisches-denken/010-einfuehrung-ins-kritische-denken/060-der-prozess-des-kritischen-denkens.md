@@ -1,6 +1,6 @@
 ---
 title: The process of critical thinking
-sidebar_position: 7
+sidebar_position: 60
 sidebar_label: The Process
 description: The key steps of critical thinking, from identifying the problem to reflection.
 keywords:
@@ -12,11 +12,11 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 ---
 
-<!--t src=521ca08c-->
-![the process of critical thinking](../img/process_critisches_denken_sprachlichtung.jpg)
+<!--t src=5739039a-->
+![the process of critical thinking](/img/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->
 Critical thinking is a systematic process that can include the following steps:

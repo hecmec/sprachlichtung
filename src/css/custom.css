@@ -98,3 +98,9 @@ main > .container {
 [class*="docCardListItem"] h2 {
   font-size: 1.2rem;
 }
+
+/* Bilingual video-course pages: right-hand translation column.
+   Change this rule to restyle every translation column at once. */
+.video-translation {
+  font-style: italic;
+}

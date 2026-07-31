@@ -1,6 +1,6 @@
 ---
 id: 060-uebung-analyse-und-diskussion-von-paradoxien
-title: Exercise &mdash; Analysing and Discussing Paradoxes
+title: Exercise — Analysing and Discussing Paradoxes
 sidebar_position: 6
 description: Practical exercises for analysing various paradoxes, with possible approaches to solutions.
 keywords:

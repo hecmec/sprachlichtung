@@ -4,16 +4,18 @@ sidebar_position: 1
 sidebar_label: Podcasts
 description: "Wichtige Podcasts zum Thema Sprache, Kritisches Denken und Philosophie"
 keywords:
-    - Podcasts
-    - Sprache
-    - Philosophie
-    - Kritisches Denken
-    - Linguistik
-    - Semiotik
-    - Kommunikation
+  - Podcasts
+  - Sprache
+  - Philosophie
+  - Kritisches Denken
+  - Linguistik
+  - Semiotik
+  - Kommunikation
 last_update:
   date: 2025-06-12
   author: Immanuel Lupinus
+completeness: 2/5
+draft: true
 ---
 
 - Hier sind ein paar Podcasts zum Thema Sprache, Kritisches Denken und Philosophie.
@@ -21,9 +23,6 @@ last_update:
 
 ## Kritisches Denken
 
-
 ## Sprachphilosophie
 
-
 ## Sprache und Gesellschaft
-

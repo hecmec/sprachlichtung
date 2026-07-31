@@ -18,9 +18,27 @@ translation_status: mixed
 <!--t src=14c42033-->
 <!-- ## Ambiguity -->
 
-<!--t src=c99500af-->
+<!--t src=843dbdc6-->
+<div className="row">
+<div className="col col--7">
 
-Ambiguity occurs when a word, sentence, or other linguistic expression can have more than one meaning. Ambiguities can lead to misunderstandings and logical fallacies, especially when different meanings are mixed within an argument.
+> "One morning I shot an elephant in my pajamas.\
+> How he got in my pajamas I'll never know."
+> ― Groucho Marx
+
+</div>
+<div className="col col--5 text--center">
+
+![Groucho Marx shooting an elephant in his pyjamas](/img/shot_an_elefant_in_my_pyjama.png)
+
+</div>
+</div>
+
+<!--t src=18bb4026-->
+Ambiguity is present when a word, a sentence or some other linguistic expression can have more than one meaning.
+
+<!--t src=5f9ece94-->
+Ambiguities are a fruitful source of **humour and poetry**. At the same time they are a frightful source of misunderstandings and fallacies of every kind, especially when the different meanings get mixed up in the course of an argument.
 
 <!--t src=6edb4c6e-->
 

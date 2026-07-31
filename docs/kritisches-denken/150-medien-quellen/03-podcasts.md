@@ -14,8 +14,8 @@ keywords:
 last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
-completeness: 1/5
-draft: true
+completeness: 2/5
+draft: false
 ---
 
 - Hier sind ein paar Podcasts zum Thema Sprache, Kritisches Denken und Philosophie.

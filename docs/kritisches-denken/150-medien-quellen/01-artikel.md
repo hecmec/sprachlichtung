@@ -13,6 +13,8 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
 ---
 
 - Hier sind ein paar einführende Artikel zum Thema Sprache, Kritisches Denken und Philosophie.

@@ -59,31 +59,31 @@ Regular Markdown images are supported.
 You can use absolute paths to reference images in the static directory (`/static/img/docusaurus.png`):
 
 ```md
-![Docusaurus logo](../../static/img/docusaurus.png)
+![Docusaurus logo](/img/docusaurus.png)
 ```
 
 You can reference images relative to the current file as well. This is particularly useful to colocate images close to the Markdown files using them:
 
 ```md
-![Docusaurus logo](../../static/img/docusaurus.png)
+![Docusaurus logo](/img/docusaurus.png)
 ```
 
 You can also specify image dimensions ??:
 
 ```md
-![Docusaurus logo|150](../../static/img/docusaurus.png)
+![Docusaurus logo|150](/img/docusaurus.png)
 ```
 
-![Docusaurus logo|100x100](../../static/img/docusaurus.png)
+![Docusaurus logo|100x100](/img/docusaurus.png)
 
 You can use **img** tags
 
 ```html
-<img src={require("../../static/img/docusaurus.png").default} alt="docu img" 
+<img src={require("@site/static/img/docusaurus.png").default} alt="docu img" 
   width="300" style={{marginBottom: '-10px'}} />
 ```
 
-<img src={require("../../static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
+<img src={require("@site/static/img/docusaurus.png").default} alt="docu img" width="300" style={{marginBottom: '-10px'}} />
 
 ## Code Blocks
 

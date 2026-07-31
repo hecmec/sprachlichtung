@@ -1,8 +1,8 @@
 ---
 id: 070-uebung-analyse-von-manipulationsversuchen
-title: Exercise &mdash; Analysing Manipulation Attempts
+title: Exercise — Analysing Manipulation Attempts
 sidebar_position: 7
-sidebar_label: Exercise &mdash; Analysing Manipulation
+sidebar_label: Exercise — Analysing Manipulation
 description: Practical exercises for recognising and analysing various manipulation techniques using examples
 keywords:
   - manipulation

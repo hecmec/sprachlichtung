@@ -9,14 +9,14 @@ import { version } from "./package.json";
 const config: Config = {
   title: "SprachLichtung",
   tagline: "La clairière du langage",
-  favicon: "img/favicon.ico",
+  favicon: "img/docu_favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
   // Set the production url of your site here
-  url: "https://hecmec.github.io",
+  url: "https://sprachlichtung.org",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // For docker deployment or custom domains, it is often '/'
@@ -40,8 +40,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "de",
-    // locales: ['de','en','fr'],
-    locales: ["de", "en"],
+    locales: ["de", "en", "fr"],
     localeConfigs: {
       de: {
         label: "Deutsch",
@@ -53,15 +52,22 @@ const config: Config = {
         htmlLang: "en-GB",
         path: "en",
       },
-      // fr: {
-      //   label: 'Français',
-      //   htmlLang: 'fr-FR',
-      // },
+      fr: {
+        label: "Français",
+        htmlLang: "fr-FR",
+        path: "fr",
+      },
     },
   },
 
   plugins: [
     "docusaurus-plugin-image-zoom", // can also just be 'image-zoom'
+    // Computes a thumbnail image per docs page (front matter `image` -> first
+    // inline image -> default), exposed as global data for <CategoryIndexList/>.
+    ["./plugins/docs-card-images", { defaultImage: "/img/ct_brain-workout.webp" }],
+    // Enumerates every image under /static/img and exposes the list as global
+    // data for the <ImageReferential/> admin catalog page.
+    "./plugins/image-referential",
   ],
 
   presets: [
@@ -103,7 +109,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/ct_brain-workout.webp",
     navbar: {
       title: "SprachLichtung",
       logo: {

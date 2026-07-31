@@ -2,7 +2,7 @@
 id: was_ist_kritisches_denken
 title: What is Critical Thinking?
 sidebar_label: What it is
-sidebar_position: 2
+sidebar_position: 10
 description: Introduction to the ability to think reflectively, independently, and rationally, and to systematically analyze information.
 keywords:
   - critical thinking
@@ -17,8 +17,8 @@ translation_status: mixed
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
 
-<!--t src=c82a941a-->
-![people in discussion](/img/banner-met-silk-carpet.jpg)
+<!--t src=5b35483a-->
+![carpet](/img/kd/banner-met-silk-carpet.jpg)
 
 <!--t src=55652371-->
 ## What do we mean when we talk about critical thinking?
@@ -59,16 +59,17 @@ At its core, critical thinking means **thinking for yourself**. It is about:
 - doubting **constructively**
 - thinking for yourself, in order to form **your own opinions** and make **your own decisions**
 
-<!--t src=cdc10447-->
+<!--t src=f7693ce5-->
 <details>
   <summary>The origin (etymology) of critical thinking</summary>
 
-  From Kant's _Critique of Pure Reason_, through a _critical point_, to the _critical times_ we live in, "critical" is everywhere and has many faces.
-  It comes to us partly via the French "_critique_", which gives us "_critical_" and "_criticism_".
-  Originally from the Latin "_criticus_". The Romans, as so often, took it from the Greeks, where it is "_κριτικός_" (kritikos) and means "**capable of distinguishing**" or "**able to judge**". It is related to _κρίσις_ (crisis) and derived from the verb "_krinein_", which means roughly: "to distinguish", "to select", "to decide", "to sift".
+From Kant's _Critique of Pure Reason_, through a _critical point_, to the _critical times_ we live in, "critical" is everywhere and has many faces.  
+ It comes to us in part through the French "_critique_", which gives us "_critical_" and "_criticism_".  
+ Originally from the Latin "_criticus_". The Romans took it, as so often, from the Greeks, where it is "_κριτικός_" (kritikos) and means "**able to discern**" or "**able to judge**". It is related to _κρίσις_ (crisis) and derived from the verb "_krinein_", which means something like "to distinguish", "to select", "to decide", "to sift".
 
-  Another important thinker in the history of critical thinking was John Dewey (1910), a pragmatic American philosopher who called it "reflective thinking". For Dewey, reflective or critical thinking is the:
-  "active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends."[^2]
+Another important thinker in the history of critical thinking was John Dewey (1910), a pragmatist American philosopher who called it "reflective thinking". For Dewey, reflective or critical thinking is the:
+"active, persistent and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends."[^2]
+
 </details>
 
 <!--t src=61f49985-->
@@ -83,11 +84,11 @@ We should simply ask ourselves more often when we are thinking well and when we 
 <!--t src=ac21ccf8-->
 One of the wisest of the ancient philosophers, **Socrates** — yet another ancient Greek, and the hero of our story — showed how it's done with his dialogues, which his student Plato wrote down.
 
-<!--t src=8908cba5-->
+<!--t src=09d87b11-->
 <Admonition type="note" icon="💬" title="Quote">
 
-  "**I know that I know nothing**"
-  literally: "For I myself knew that I knew nothing at all ..."
+"**I know that I know nothing**"  
+ literally: "For I myself knew that I knew nothing at all ..."
 
   <p class="text--right">Socrates in Plato: _Apology of Socrates_ 22d</p>
 </Admonition>
@@ -105,22 +106,25 @@ His constant questioning of his fellow citizens' convictions earned him deep fri
 <!--t src=9dcf1162-->
 In modern times, critical thinking was brought back to prominence in part by Peter Facione. In his well-known "Delphi Report"[^3], following the many experts involved, he distinguished above all two things:
 
-<!--t src=909f6b6e-->
+<!--t src=121d7386-->
 :::info Distinction
-<p class="text--center">**cognitive skills** vs. **affective attitudes**</p>
+
+<p class="text--center">**cognitive skills** vs. **affective dispositions**</p>
 :::
 
-<!--t src=d5fae1fc-->
+<!--t src=8cd7548f-->
 The cognitive skills include:
-1. **Interpretation**: The ability to understand information, statements, or data and to grasp their meaning in the given context.
-2. **Analysis**: The ability to break arguments, claims, or problems down into their components and to recognize their structure and relationships.
-3. **Evaluation**: The ability to critically examine and assess the credibility of statements, arguments, or sources.
-4. **Inference**: The ability to draw logical conclusions from available information and to derive hypotheses.
-5. **Explanation**: The ability to present and justify one's own reasoning, arguments, and conclusions clearly and comprehensibly.
-6. **Self-regulation**: The ability to monitor one's own thinking, recognize errors, and correct the thought process when necessary.
 
-<!--t src=beb098c4-->
-![Facione, skills of critical thinking](/img/crit-think-skills-facione.png)
+<!--t src=a8b0918a-->
+1. **Interpretation**: the ability to understand information, statements or data and to grasp their meaning in the given context.
+2. **Analysis**: the ability to break arguments, claims or problems down into their components and to recognise their structure and their connections.
+3. **Evaluation**: the ability to examine and judge critically the credibility of statements, arguments or sources.
+4. **Inference**: the ability to draw logical conclusions from the available information and to derive hypotheses.
+5. **Explanation**: the ability to present and justify one's own reasoning, arguments and conclusions clearly and comprehensibly.
+6. **Self-regulation**: the ability to monitor one's own thinking, to spot errors and to correct the thought process where necessary.
+
+<!--t src=4bdc6504-->
+![Facione, critical thinking skills](/img/crit-think-skills-facione.png)
 
 <!--t src=bfaf1c7d-->
 ## Attitudes (the affective side)
@@ -138,7 +142,7 @@ These include attitudes such as:
 - perseverance,
 - the willingness to **question one's own biases**[^4]
 
-<!--t src=c621a88c-->
+<!--t src=982a3257-->
 [^4]: "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."
 
 <!--t src=c11c2cb9-->
@@ -168,8 +172,14 @@ It requires practice, self-reflection, and the willingness to question your own 
 <!--t src=937b5de0-->
 Let's get started!
 
-<!--t src=7531beb6-->
-[^1]: As you can see, it is not only about you, but also about others and our environment. Critical thinking is a social skill.
+<!--t src=0513bef4-->
+[^1]: As you will notice, it is not only about you, but also about others and about our environment. Critical thinking is a social skill.
+
+<!--t src=ec76f30f-->
 [^2]: John Dewey, 1910, [_How We Think_](https://archive.org/details/howwethink000838mbp)
+
+<!--t src=0c7bdf05-->
 [^3]: Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._, ERIC, Institute of Education Sciences, 1990, pp.1-112](https://eric.ed.gov/?id=ED315423), Santa Clara University 1990.
+
+<!--t src=0f881fae-->
 [^4]: In Facione's article: "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."

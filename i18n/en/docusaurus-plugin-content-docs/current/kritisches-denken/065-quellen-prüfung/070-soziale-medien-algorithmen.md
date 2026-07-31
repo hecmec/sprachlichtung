@@ -17,7 +17,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -81,8 +81,8 @@ Does this mean algorithms are harmless? No. The concern merely shifts to the rig
 <!--t src=303833cb-->
 ## Practical consequences
 
-<!--t src=e5b36cd6-->
+<!--t src=8c78bbc0-->
 - **Don't mistake the feed for the world.** What you see is an algorithmic selection, not a representative cross-section.
-- **Break out deliberately.** Head straight for reputable sources on purpose, instead of just waiting for the feed. Actively seek out different sources.
-- **Pause when stirred up.** Strong emotion in the feed is often a sign that a piece of content has been optimised for reach, so it's time for [SIFT](040-die-sift-methode.md).
-- **Sharing is spreading.** Every click on „share“ is a vote for the algorithm. Check first, then share.
+- **Break out deliberately.** Go to reputable sources directly instead of just waiting for the feed. Seek out different sources actively.
+- **Pause when you are stirred up.** In a feed, strong emotion is often a sign that a piece of content has been optimised for reach, so it is time for [SIFT](040-die-sift-methode.md).
+- **Sharing is spreading.** Every click on "share" is a vote cast for the algorithm. Check first, then share.

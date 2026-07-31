@@ -14,24 +14,25 @@ keywords:
 last_update:
   date: 2026-02-03
   author: Immanuel Lupinus
-completeness: 0/5
-draft: true
+completeness: 2/5
+draft: false
 id: websites
-translation_status: auto
 custom_translation_overwritten: false
+translation_status: manual
 ---
 
 <!--t src=a7c088a0-->
+
 ## Associations
 
-<!--t src=6b9160d9-->
+<!--t src=e9773e9f-->
 - 🇩🇪 [Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften (GWUP)](https://www.gwup.org/)
   - German-language skeptics' organisation that critically examines pseudosciences and paranormal claims.
 - 🇬🇧 [Center for Inquiry / Committee for Skeptical Inquiry](https://centerforinquiry.org/)
-  - US organisation for science, reason and critical thinking (publisher of the *Skeptical Inquirer*).
+  - US organisation for science, reason and critical thinking (publisher of the _Skeptical Inquirer_).
 - 🇬🇧 [The Foundation for Critical Thinking](https://www.criticalthinking.org/)
   - Well-established foundation with extensive resources and models for critical thinking.
 - 🇫🇷 [Collectif de recherche transdisciplinaire esprit critique et sciences (CORTECS)](https://fr.wikipedia.org/wiki/Collectif_de_recherche_transdisciplinaire_esprit_critique_et_sciences)
-  - French association and collective for interdisciplinary research into critical thinking and the sciences. 
-- 🇫🇷 [Association Française pour l’Information Scientifique (AFIS)](https://www.afis.org/)
-  - French association that has promoted science and critical thinking since 1968 (journal *Science et pseudo-sciences*).
+  - French association and collective for interdisciplinary research into critical thinking and the sciences.
+- 🇫🇷 [Association Française pour l'Information Scientifique (AFIS)](https://www.afis.org/)
+  - French association that has promoted science and critical thinking since 1968 (journal _Science et pseudo-sciences_).

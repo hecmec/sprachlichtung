@@ -1,6 +1,6 @@
 ---
 id: 090-quiz-intellektuelle-tugenden-und-laster
-title: Quiz &mdash; Intellectual Virtues and Vices
+title: Quiz — Intellectual Virtues and Vices
 sidebar_position: 9
 description: Self-test on intellectual virtues and vices with questions to check your understanding
 keywords:

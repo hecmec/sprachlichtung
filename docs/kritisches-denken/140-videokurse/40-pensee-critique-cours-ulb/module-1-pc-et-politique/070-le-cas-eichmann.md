@@ -14,7 +14,7 @@ keywords:
   - Hannah Arendt
   - Guy Haarscher
 # tags: [docusaurus]
-image: ../img/ulb-pc-developper-sa-pc-intro.png
+image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
@@ -37,4 +37,15 @@ dans cette video on va voir comment se relit le conformisme et l'abdication dans
 c'est le cas Eichman
 on peut être conformiste par cr -->
 
+<div className="row">
+<div className="col col--6">
+
 Pas de résumé de la vidéo disponible. 😪
+
+</div>
+<div className="col col--6 video-translation">
+
+Keine Zusammenfassung des Videos verfügbar. 😪
+
+</div>
+</div>

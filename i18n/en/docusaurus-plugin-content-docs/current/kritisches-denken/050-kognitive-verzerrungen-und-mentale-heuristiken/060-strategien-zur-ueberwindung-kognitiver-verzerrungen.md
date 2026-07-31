@@ -1,6 +1,6 @@
 ---
 title: Strategies for Overcoming Cognitive Biases
-sidebar_position: 6
+sidebar_position: 60
 description: Practical strategies and methods for reducing the impact of cognitive biases
 keywords:
   - debiasing strategies

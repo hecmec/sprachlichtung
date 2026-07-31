@@ -16,7 +16,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -93,8 +93,8 @@ Warning signs:
 - **No references**: a claim without evidence.
 - **Intent to sell** at the bottom of the page: the benefit question _Cui bono_ is answered immediately: something is meant to be sold here.
 
-<!--t src=08e6a91d-->
-Conclusion: practically every criterion from the chapter [Evaluating sources](050-quellen-bewerten.md) raises the alarm.
+<!--t src=42dee322-->
+Conclusion: practically every criterion from the chapter [Evaluating sources](050-quellen-bewerten.md) sounds the alarm.
 
 <!--t src=8167074f-->
 ### Part C

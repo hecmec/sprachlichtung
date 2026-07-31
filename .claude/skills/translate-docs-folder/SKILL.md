@@ -26,10 +26,8 @@ A source doc `docs/<rel>` maps to its translation at:
 `i18n/<locale>/docusaurus-plugin-content-docs/current/<rel>`
 
 ## Which files count
-- Translate `*.md` / `*.mdx` only.
-- **Skip** any file or directory whose name starts with `_` (drafts/excluded from build), and `_category_.json`.
-- Category labels (folder names) are NOT translated here — they live in
-  `i18n/<locale>/docusaurus-plugin-content-docs/current.json`. Mention this if relevant, but it's out of scope for this skill.
+- Translate `*.md` / `*.mdx` only. Do **not** copy `_category_.json` into the locale tree — see Step 3b for how category labels actually get translated.
+- **Skip** any file or directory whose name starts with `_` (drafts/excluded from build).
 - By default skip pages with `draft: true` in their German frontmatter; surface them and ask before translating (drafts churn). Translate them only if the user opts in.
 
 ## Block model & anchors (how tracking works)
@@ -111,6 +109,16 @@ changed blocks replaced, protected overwrites handled per §9, and frontmatter
 > in `tools/translation/blocks.js` — that file is the single source of truth, so
 > never hand-write anchors or invent hashes.
 
+### Inline author directives — `<!-- AI-TRANSLATION: … -->`
+The author may embed instructions for the translator as HTML comments of the form
+`<!-- AI-TRANSLATION: <instruction> -->` (e.g. *"don't translate the original
+english video course titles"*). **Always obey the instruction** when translating
+the blocks it applies to (typically the content right after it, until the next
+heading or a contradicting directive). These are invisible on the site — **keep
+the comment verbatim in the translated file** so it still guides future updates;
+do not translate or remove it. If a directive is ambiguous or conflicts with these
+rules, surface it in your Step 2 report rather than guessing.
+
 ### Body — translate only human-readable text; the tools keep structure intact
 - Admonitions (`:::info`, `:::warning`, `:::tip` …) — translate the title too.
 - Footnotes `[^id]`, `<details>/<summary>`, custom components (`<Tooltip …>`), tables, emojis (`:rocket:`), `&mdash;`, line-break backslashes.
@@ -125,6 +133,64 @@ copy it over:
 ```bash
 cp docs/<rel-dir>/img/<file> i18n/<locale>/docusaurus-plugin-content-docs/current/<rel-dir>/img/<file>
 ```
+
+## Step 3b — Translate the category labels (`_category_.json`)
+
+Every folder you touched may carry a `_category_.json` whose `label` and
+`link.generated-index.description` show up in the sidebar and on the category
+landing page. **These are part of the translation job** — a chapter whose pages
+are translated but whose sidebar entry still reads German is not done.
+
+**Do not copy `_category_.json` into `i18n/<locale>/…/current/`.** Those copies
+are *inert*: Docusaurus does not read them (verified — a locale copy with a
+translated label still rendered the German one). Category strings are translated
+through the plugin's translation file instead:
+
+```
+i18n/<locale>/docusaurus-plugin-content-docs/current.json
+```
+
+with two keys per category, **keyed on the German label**:
+
+```json
+"sidebar.<sidebarId>.category.<German label>": {
+  "message": "<translated label>",
+  "description": "The label for category '<German label>' in sidebar '<sidebarId>'"
+},
+"sidebar.<sidebarId>.category.<German label>.link.generated-index.description": {
+  "message": "<translated description>",
+  "description": "The generated-index page description for category '<German label>' in sidebar '<sidebarId>'"
+}
+```
+
+Only add the `.link.generated-index.description` key when the German
+`_category_.json` actually has `link.type: "generated-index"` with a description
+(a `link.type: "doc"` category has no description to translate). A folder with
+**no** `_category_.json` still gets a category whose label is the raw folder name
+(e.g. `mehr-kognitive-verzerrungen`) — translate that too.
+
+### Discovering what is missing
+
+Because the key embeds the **German** label, **renaming a German label silently
+orphans the translation** and the locale falls back to German. Find the gaps with
+the generator, which marks anything untranslated with a `_t_` prefix:
+
+```bash
+cp i18n/<locale>/docusaurus-plugin-content-docs/current.json /tmp/current.bak.json
+yarn write-translations:<locale>          # en | fr
+node -e "const j=require('./i18n/<locale>/docusaurus-plugin-content-docs/current.json');
+  for(const [k,v] of Object.entries(j)) if(v.message.startsWith('_t_')) console.log(k);"
+cp /tmp/current.bak.json i18n/<locale>/docusaurus-plugin-content-docs/current.json
+```
+
+> **Never commit the generator's output.** It appends `_t_`-prefixed German
+> messages for *every* untranslated key site-wide, and a `_t_` message renders
+> literally (`_t_Videokurse` in the sidebar) — worse than the German fallback it
+> replaces. Use it read-only to list key names, restore the backup, then hand-add
+> only the keys for the chapter you are translating, with real translations.
+
+Old keys under renamed German labels are dead but harmless; leave them unless
+asked to clean up, and mention them in your summary.
 
 ## Step 4 — Prune stale translations (full-folder runs only)
 When you translated an **entire DE folder** (not a single file), check the locale
@@ -143,7 +209,7 @@ done
 ```
 
 Apply the same scope rules as translation: only consider `.md`/`.mdx`, ignore
-`_`-prefixed files and `_category_.json`. **List the orphans in your summary and
+`_`-prefixed files. **List the orphans in your summary and
 delete them with `git rm`** (recoverable) rather than a plain `rm`. If an orphan
 looks intentional (e.g. a locale-only page) flag it instead of deleting. Skip this
 step entirely for single-file translations — you have no signal there about the
@@ -158,10 +224,19 @@ Fix any errors and rebuild until clean. The anchors are HTML comments, so they
 must not break the build — if a build error points at one, the comment is
 malformed.
 
+Then grep the built HTML for the German category labels you translated in Step 3b
+— a missing or misspelled key fails silently by falling back to German, so the
+build passing proves nothing about them:
+```bash
+grep -c "<German label>" build/docs/<some-page-in-that-chapter>/index.html   # want 0
+```
+
 ## Step 6 — Summarize
 Report what was newly translated, which files were updated and **how many blocks**
 were re-translated, any **protected blocks overwritten** (and that
 `custom_translation_overwritten` was raised for review), legacy files that were
 anchor-ized, what only needed a date bump, images copied, **any orphan
-translations deleted** (Step 4), and the editorial choices made. Don't commit unless asked; if asked, branch first
+translations deleted** (Step 4), **which category labels/descriptions you added to
+`current.json`** (Step 3b) plus any stale keys you left behind, and the editorial
+choices made. Don't commit unless asked; if asked, branch first
 (e.g. `translate-chapter-<nnn>`) since the repo default branch is `main`.

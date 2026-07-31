@@ -1,6 +1,6 @@
 ---
 id: 090-quiz-manipulation-und-verteidigung
-title: Quiz &mdash; Manipulation and Defence
+title: Quiz — Manipulation and Defence
 sidebar_position: 9
 sidebar_label: Quiz
 description: A quiz to test your knowledge of manipulation techniques and defence strategies

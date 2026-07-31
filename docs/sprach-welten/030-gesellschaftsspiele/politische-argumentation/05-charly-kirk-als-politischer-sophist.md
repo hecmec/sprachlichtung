@@ -14,15 +14,17 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
+completeness: 3/5
+draft: false
 # slug:
-image: ../img/charlie-kirk-memorial-FS.webp
+image: /img/sw/charlie-kirk-memorial-FS.webp
 ---
 
 import Admonition from '@theme/Admonition';
 
 ## Wer war Charlie Kirk?
 
-![Charlie Kirk](../img/charlie-kirk-memorial-FS.webp)
+![Charlie Kirk](/img/sw/charlie-kirk-memorial-FS.webp)
 
 Charlie Kirk ist tot. Ruhe seine Seele in Frieden!
 

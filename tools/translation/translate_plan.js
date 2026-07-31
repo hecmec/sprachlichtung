@@ -64,6 +64,8 @@ function planFile(germanRel, locale, includeDrafts) {
 
   // UPDATE: only changed/new blocks; align to detect protected overwrites.
   const t = P.readDoc(targetRel);
+  // A hand-curated translation opts out of automatic updates entirely.
+  if (t.data && t.data.translation_status === 'manual') return null;
   const tBlocks = translatedBlocks(t.body);
   const legacy = tBlocks.filter((b) => b.src).length === 0;
 
