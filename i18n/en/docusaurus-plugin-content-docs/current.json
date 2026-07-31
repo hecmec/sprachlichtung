@@ -354,5 +354,21 @@
   "sidebar.kritDenkenSidebar.category.Critical Thinking Course by Allan Di Donato": {
     "message": "Allan Di Donato's Critical Thinking Course",
     "description": "The label for category 'Critical Thinking Course by Allan Di Donato' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Medienkompetenz und Quellenkritik": {
+    "message": "Media Literacy and Source Criticism",
+    "description": "The label for category 'Medienkompetenz und Quellenkritik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Medienkompetenz und Quellenkritik.link.generated-index.description": {
+    "message": "In this chapter we look at media literacy and source criticism: which sources can be trusted, whether books, magazines, websites, videos, or other social media, and how to check them for credibility. It matters to ask critically whether the information you receive is reliable and well founded.",
+    "description": "The generated-index page description for category 'Medienkompetenz und Quellenkritik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Sein Kritisches Denken entwickeln": {
+    "message": "Developing Your Critical Thinking",
+    "description": "The label for category 'Sein Kritisches Denken entwickeln' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Sein Kritisches Denken entwickeln.link.generated-index.description": {
+    "message": "This section presents the online course on critical thinking titled « Développer sa pensée critique » (Developing Your Critical Thinking), offered by Guy Haarscher at the Université libre de Bruxelles (ULB).\n\nThe course is available in French and can be accessed for free on the ULB platform. It covers the fundamental concepts of critical thinking, cognitive biases, and fallacious arguments, and provides tools to analyze and evaluate information rigorously.\n\nWe have also created summaries and commentary for some of the course modules to help learners better understand the content and apply the principles of critical thinking in their daily lives.\n\nNote: this course is currently only available in French. We have therefore kept the summaries in French and added the English translation alongside them.",
+    "description": "The generated-index page description for category 'Sein Kritisches Denken entwickeln' in sidebar 'kritDenkenSidebar'"
   }
 }

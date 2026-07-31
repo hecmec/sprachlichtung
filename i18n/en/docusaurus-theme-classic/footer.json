@@ -54,5 +54,9 @@
   "link.item.label.Kritisches Denken": {
     "message": "Critical Thinking",
     "description": "The label of footer link with label=Kritisches Denken linking to /docs/kritisches-denken/kritisches-denken-kurzgesagt"
+  },
+  "copyright": {
+    "message": "_t_Copyright © 2026 SprachLichtung · v0.3.1. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.",
+    "description": "The footer copyright"
   }
 }

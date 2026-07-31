@@ -15,7 +15,7 @@ keywords:
 last_update:
   date: 2025-06-12
   author: Immanuel Lupinus
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -26,7 +26,7 @@ custom_translation_overwritten: false
 <!--t src=d9064981-->
 ## Pensée critique
 
-<!--t src=60e35907-->
+<!--t src=ae5812b8-->
 - 🇩🇪 Otto Kruse (2017) : *Kritisches Denken und Argumentieren. Eine Einführung für Studierende*. utb Verlag, Constance.
 - 🇩🇪 Rainer Bromme : *Kritisches Denken lehren und lernen* (Beltz, 2019)
 - 🇩🇪 Georg Meggle (2005) : *Kritisches Denken: Von der Philosophie zur Praxis* (Mentis, 2005)
@@ -35,7 +35,7 @@ custom_translation_overwritten: false
 <!--t src=035e163a-->
 ## Philosophie du langage
 
-<!--t src=43aa1a50-->
+<!--t src=e8a1c4fd-->
 - 🇩🇪 Ludwig Wittgenstein : *Philosophische Untersuchungen* (Suhrkamp, 2003)
   - 🇫🇷 éd. française : *Recherches philosophiques* (Gallimard, 2004)
 - 🇩🇪 Jürgen Habermas : *Theorie des kommunikativen Handelns* (Suhrkamp, 1981)
@@ -49,7 +49,7 @@ custom_translation_overwritten: false
 <!--t src=07c849dc-->
 ## Langue et société
 
-<!--t src=8f2ce4bb-->
+<!--t src=0687ed8a-->
 - 🇩🇪 Jürgen Trabant : *Sprachpolitik* (politique linguistique) (C.H. Beck, 2012)
 - 🇩🇪 Elisabeth Leiss : *Sprache und Gesellschaft* (langue et société) (de Gruyter, 2012)
 - 🇩🇪 Jürgen Habermas : *Strukturwandel der Öffentlichkeit* (Suhrkamp, 1962)

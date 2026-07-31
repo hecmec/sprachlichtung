@@ -1,7 +1,7 @@
 ---
-title: Humor Witze
-sidebar_position: 2
-sidebar_label: Witze
+title: Humor Filme
+sidebar_position: 1
+sidebar_label: Filme
 description: ""
 keywords:
   - Humor

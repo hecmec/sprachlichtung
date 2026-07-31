@@ -238,5 +238,125 @@
   "sidebar.umweltSidebar.category.Philosophie.link.generated-index.description": {
     "message": "Philosophie : notes, résumés et réflexions.",
     "description": "The generated-index page description for category Philosophie in sidebar umweltSidebar"
+  },
+  "sidebar.kritDenkenSidebar.category.Richtig Argumentieren": {
+    "message": "Bien argumenter",
+    "description": "The label for category 'Richtig Argumentieren' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Richtig Argumentieren.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous apprenons ce qui fait un bon argument, nous comprenons la différence entre rhétorique et argumentation, et comment reconnaître les présupposés cachés.",
+    "description": "The generated-index page description for category 'Richtig Argumentieren' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Logik": {
+    "message": "Logique",
+    "description": "The label for category 'Logik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Logik.link.generated-index.description": {
+    "message": "Tout ce que vous devez savoir sur les fondements de la logique.",
+    "description": "The generated-index page description for category 'Logik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen": {
+    "message": "Pièges linguistiques",
+    "description": "The label for category 'Sprachfallen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Sprachfallen.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous abordons les pièges linguistiques, les obstacles et autres fausses pistes. Tout ce qui peut conduire à des malentendus, à des raisonnements fallacieux et à une pensée confuse.",
+    "description": "The generated-index page description for category 'Sprachfallen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Kognitive Verzerrungen": {
+    "message": "Biais cognitifs",
+    "description": "The label for category 'Kognitive Verzerrungen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste Kognitiver Verzerrungen": {
+    "message": "Liste des biais cognitifs",
+    "description": "The label for category 'Liste Kognitiver Verzerrungen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste Kognitiver Verzerrungen.link.generated-index.description": {
+    "message": "Voici une liste de biais cognitifs et d'heuristiques mentales. Vous trouverez dans cette liste tous les biais importants.",
+    "description": "The generated-index page description for category 'Liste Kognitiver Verzerrungen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.mehr-kognitive-verzerrungen": {
+    "message": "Plus de biais cognitifs",
+    "description": "The label for category 'mehr-kognitive-verzerrungen' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse": {
+    "message": "Sophismes",
+    "description": "The label for category 'Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Fehlschlüsse.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les sophismes et la mauvaise argumentation. Nous analysons les erreurs logiques courantes, les astuces rhétoriques et les faiblesses argumentatives qui peuvent conduire à de fausses conclusions.",
+    "description": "The generated-index page description for category 'Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten formellen Fehlschlüsse": {
+    "message": "Liste des sophismes formels les plus connus",
+    "description": "The label for category 'Liste der bekanntesten formellen Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten formellen Fehlschlüsse.link.generated-index.description": {
+    "message": "Voici une liste des sophismes formels les plus connus. Ces sophismes naissent d'erreurs dans la structure logique d'un argument, indépendamment de son contenu. Ils mènent à des conclusions invalides, même lorsque les prémisses sont vraies. On peut les répartir en trois groupes : les sophismes logiques, les sophismes de la probabilité et les sophismes des syllogismes classiques.",
+    "description": "The generated-index page description for category 'Liste der bekanntesten formellen Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten informellen Fehlschlüsse": {
+    "message": "Liste des sophismes informels les plus connus",
+    "description": "The label for category 'Liste der bekanntesten informellen Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Liste der bekanntesten informellen Fehlschlüsse.link.generated-index.description": {
+    "message": "Voici une liste des sophismes informels les plus connus, de l'Antiquité à nos jours.",
+    "description": "The generated-index page description for category 'Liste der bekanntesten informellen Fehlschlüsse' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Medienkompetenz und Quellenkritik": {
+    "message": "Éducation aux médias et critique des sources",
+    "description": "The label for category 'Medienkompetenz und Quellenkritik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Medienkompetenz und Quellenkritik.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous abordons l'éducation aux médias et la critique des sources : à quelles sources peut-on se fier, qu'il s'agisse de livres, de revues, de sites web, de vidéos ou d'autres médias sociaux, et comment en vérifier la crédibilité. Il est essentiel de se demander de façon critique si les informations que l'on reçoit sont fiables et solidement fondées.",
+    "description": "The generated-index page description for category 'Medienkompetenz und Quellenkritik' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien und Dilemmas": {
+    "message": "Paradoxes et dilemmes",
+    "description": "The label for category 'Paradoxien und Dilemmas' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Paradoxien und Dilemmas.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous explorons les paradoxes, les dilemmes et les pièges de la pensée. Nous examinons des situations apparemment contradictoires, des problèmes de décision difficiles et des expériences de pensée déroutantes qui mettent notre logique à l'épreuve.",
+    "description": "The generated-index page description for category 'Paradoxien und Dilemmas' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation": {
+    "message": "Manipulation",
+    "description": "The label for category 'Manipulation' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Manipulation.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les techniques de manipulation et les méthodes d'autodéfense intellectuelle. Nous observons comment les gens peuvent être influencés par le langage, les médias et les tactiques psychologiques, et comment s'en prémunir.",
+    "description": "The generated-index page description for category 'Manipulation' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden": {
+    "message": "Vertus intellectuelles",
+    "description": "The label for category 'Intellektuelle Tugenden' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Intellektuelle Tugenden.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons les vertus et les vices intellectuels. Nous analysons quelles qualités de caractère et quelles habitudes favorisent ou entravent la pensée critique, et comment cultiver ses vertus intellectuelles.",
+    "description": "The generated-index page description for category 'Intellektuelle Tugenden' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Wissenschaft": {
+    "message": "Science",
+    "description": "The label for category 'Wissenschaft' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.Wissenschaft.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous examinons la science et ses méthodes. Nous explorons les modes de pensée scientifiques, les méthodes de recherche, la notion de preuve, ainsi que la manière dont les connaissances scientifiques sont produites et vérifiées.",
+    "description": "The generated-index page description for category 'Wissenschaft' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.In der Praxis": {
+    "message": "En pratique",
+    "description": "The label for category 'In der Praxis' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.kritDenkenSidebar.category.In der Praxis.link.generated-index.description": {
+    "message": "Dans ce chapitre, nous appliquons les concepts de la pensée critique à des situations pratiques du quotidien. Nous examinons comment mettre ces compétences au service de la résolution de problèmes, de la prise de décision et de l'évaluation de l'information dans la vie de tous les jours.",
+    "description": "The generated-index page description for category 'In der Praxis' in sidebar 'kritDenkenSidebar'"
+  },
+  "sidebar.umweltSidebar.category.Soziales": {
+    "message": "Social",
+    "description": "The label for category 'Soziales' in sidebar 'umweltSidebar'"
+  },
+  "sidebar.umweltSidebar.category.Soziales.link.generated-index.description": {
+    "message": "Jeux de société, démocratie et interactions sociales.",
+    "description": "The generated-index page description for category 'Soziales' in sidebar 'umweltSidebar'"
   }
 }

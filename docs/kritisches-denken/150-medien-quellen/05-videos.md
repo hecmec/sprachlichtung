@@ -47,10 +47,10 @@ Deshalb hier nur eine ganz gleiche Auswahl, die uns gefällt.
 - 🇫🇷 [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw) (Christophe Michel)
   - Anschauliche Videos zu wissenschaftlichem Zweifel, Methode und kritischem Denken.
 - 🇫🇷 [L'esprit critique](https://www.youtube.com/@lespritcritique)
-  - Französischer Kanal zum kritischen Denken in der Politik. Versucht neutral zu bleiben.
+  - Französischer Kanal zum kritischen Denken in der Politik. Versucht neutral zu bleiben, was nicht immer einfach ist.
 
-<!-- ## Einzelne Videos
+## Einzelne Videos
+
 - 🇩🇪 [Wir müssen lernen selbst zu denken! | Immanuel Kant | Gert Scobel](https://www.youtube.com/watch?v=lXopPluYPnQ&t=528s)
 - 🇫🇷 [Gérald Bronner - Développer son esprit critique face au monde de la désinformation](https://www.youtube.com/watch?v=kjy0MHg-ZjU)
--
--->
+- 🇬🇧 [Raya - The alarming decline of critical thinking ](https://www.youtube.com/watch?v=vbvSLsMADCM)
