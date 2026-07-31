@@ -15,12 +15,15 @@ last_update:
 completeness: 3/5
 draft: false
 id: anti_intellectualism_critical_thinking
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
 <!--t src=46700c51-->
 This is a summary of a very good video about anti-intellectualism and the dangers for our democratic societies.
+
+<!--t src=d3eb582b-->
+The video is in English. The most important points are reproduced here.
 
 <!--t src=66b87148-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vbvSLsMADCM?si=dTK5woNtRzOblfLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
