@@ -1,6 +1,6 @@
 ---
 title: Kurs Kritisches Denken von Allan Di Donato
-sidebar_label: Kurs Kritisches Denken von Allan Di Donato
+sidebar_label: Kritisches Denken - Allan Di Donato
 sidebar_position: 2
 description: "Alles, was du über kritisches Denken wissen musst"
 keywords:

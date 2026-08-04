@@ -25,7 +25,7 @@ Deshalb hier nur eine ganz gleiche Auswahl, die uns gefällt.
 
 - 🇬🇧 Allan Di Donato: [Critical Thinking - Lectures](https://www.youtube.com/playlist?list=PLLyuCNxHUAz_la-Us9oKbsAwJ29XNKhTQ)
   - 29 Vorlesungen, einfach verständlich und unterhaltsam.
-  - [Unsere Zusammenfassungen zu Di Donatos Vorlesungen.](/docs/kritisches-denken/140-videokurse/20-critical-thinking-cours-allan-di-donato/index.md).
+  - [Unsere Zusammenfassungen zu Di Donatos Vorlesungen.](/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/index.md).
 - 🇫🇷 Guy Haarscher: [Mooc "Pensée critique"](https://www.youtube.com/playlist?list=PLy4aPukvD-MpU1s7Yoi8HRxDafOdBZhZK)
   - Über 50 Vorlesungen, akademisch und gut fundiert, mit großer Betonung von Meinungsfreiheit und Laizität, ganz im Geiste der Freien Universität Brüssel (ULB)
   - [Unsere Zusammenfassungen zu Haarschers Vorlesungen](/docs/category/pensee-critique-cours-ulb)
@@ -54,3 +54,4 @@ Deshalb hier nur eine ganz gleiche Auswahl, die uns gefällt.
 - 🇩🇪 [Wir müssen lernen selbst zu denken! | Immanuel Kant | Gert Scobel](https://www.youtube.com/watch?v=lXopPluYPnQ&t=528s)
 - 🇫🇷 [Gérald Bronner - Développer son esprit critique face au monde de la désinformation](https://www.youtube.com/watch?v=kjy0MHg-ZjU)
 - 🇬🇧 [Raya - The alarming decline of critical thinking ](https://www.youtube.com/watch?v=vbvSLsMADCM)
+- 🇬🇧 [The Rise Of NPCs: Why Critical Thinking Is Dead](https://www.youtube.com/watch?v=ikjNj7CfeUI)

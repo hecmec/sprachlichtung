@@ -15,7 +15,7 @@ import type { VideoCardItem } from "@site/src/components/VideoCardGrid";
 const ctWiphiCourse: VideoCardItem[] = [
   {
     youtubeId: "Cum3k-Wglfw",
-    title: "Fundamentals: Introduction to Critical Thinking [HD]",
+    title: "Fundamentals: Introduction to Critical Thinking",
     href: "ct-wiphi-01-introduction-to-critical-thinking",
     duration: "9:50",
     image:
@@ -39,7 +39,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "kdJ6aGToDlo",
-    title: "Fundamentals: Validity [HD]",
+    title: "Fundamentals: Validity",
     href: "ct-wiphi-04-validity",
     duration: "7:07",
     image:
@@ -47,7 +47,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "pCGnyaa5E5g",
-    title: "Fundamentals: Truth and Validity [HD]",
+    title: "Fundamentals: Truth and Validity",
     href: "ct-wiphi-05-truth-and-validity",
     duration: "6:54",
     image:
@@ -55,7 +55,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "3P0fUHUaZcs",
-    title: "Fundamentals: Soundness [HD]",
+    title: "Fundamentals: Soundness",
     href: "ct-wiphi-06-soundness",
     duration: "5:15",
     image:
@@ -63,7 +63,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "OqmJhPQYRc8",
-    title: "Fundamentals: Bayes' Theorem [HD]",
+    title: "Fundamentals: Bayes' Theorem",
     href: "ct-wiphi-07-bayes-theorem",
     duration: "6:21",
     image:
@@ -87,7 +87,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "bmIqWT7qMj4",
-    title: "Fallacies: Equivocation [HD]",
+    title: "Fallacies: Equivocation",
     href: "ct-wiphi-10-equivocation",
     duration: "6:30",
     image:
@@ -119,7 +119,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "qBkj-AYYg7w",
-    title: "Fallacies: Ad Hominem [HD]",
+    title: "Fallacies: Ad Hominem",
     href: "ct-wiphi-14-ad-hominem",
     duration: "8:11",
     image:
@@ -127,7 +127,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "5A7hSaoRv0g",
-    title: "Fallacies: Post Hoc Ergo Propter Hoc [HD]",
+    title: "Fallacies: Post Hoc Ergo Propter Hoc",
     href: "ct-wiphi-15-post-hoc-ergo-propter-hoc",
     duration: "5:42",
     image:
@@ -135,7 +135,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "aF6EHTtyYqw",
-    title: "Fallacies: Appeal to the People [HD]",
+    title: "Fallacies: Appeal to the People",
     href: "ct-wiphi-16-appeal-to-the-people",
     duration: "4:25",
     image:
@@ -143,7 +143,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "hfil34ayaEU",
-    title: "Fallacies: Straw Man Fallacy [HD]",
+    title: "Fallacies: Straw Man Fallacy",
     href: "ct-wiphi-17-straw-man-fallacy",
     duration: "5:59",
     image:
@@ -151,7 +151,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "yxylBjtzMNQ",
-    title: "Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY",
+    title: "Fallacies: Slippery Slope",
     href: "ct-wiphi-18-slippery-slope",
     duration: "6:45",
     image:
@@ -159,7 +159,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "Af0STrY58i4",
-    title: "Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY",
+    title: "Fallacies: Red Herring",
     href: "ct-wiphi-19-red-herring",
     duration: "6:02",
     image:
@@ -167,7 +167,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "TCBALVumrUQ",
-    title: "Cognitive Biases: Alief [HD]",
+    title: "Cognitive Biases: Alief",
     href: "ct-wiphi-20-alief",
     duration: "4:00",
     image:
@@ -175,7 +175,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "NFiDdbquWJY",
-    title: "Cognitive Biases: Anchoring [HD]",
+    title: "Cognitive Biases: Anchoring",
     href: "ct-wiphi-21-anchoring",
     duration: "4:54",
     image:
@@ -183,7 +183,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "roRIPM3i0ZM",
-    title: "Cognitive Biases: Pricing Biases [HD]",
+    title: "Cognitive Biases: Pricing Biases",
     href: "ct-wiphi-22-pricing-biases",
     duration: "3:41",
     image:
@@ -191,7 +191,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "LBNtChg4t4k",
-    title: "Cognitive Biases: Reference Dependence and Loss Aversion [HD]",
+    title: "Cognitive Biases: Reference Dependence and Loss Aversion",
     href: "ct-wiphi-23-reference-dependence-and-loss-aversion",
     duration: "5:58",
     image:
@@ -199,7 +199,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "4TuQ7YI-soQ",
-    title: "Cognitive Biases: Mental Accounting [HD]",
+    title: "Cognitive Biases: Mental Accounting",
     href: "ct-wiphi-24-mental-accounting",
     duration: "3:37",
     image:
@@ -207,7 +207,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "RhyJGwNpEcw",
-    title: "Cognitive Biases: Peak-End Effect [HD]",
+    title: "Cognitive Biases: Peak-End Effect",
     href: "ct-wiphi-25-peak-end-effect",
     duration: "5:16",
     image:
@@ -215,7 +215,7 @@ const ctWiphiCourse: VideoCardItem[] = [
   },
   {
     youtubeId: "sO9xwAyeWX0",
-    title: "Cognitive Biases: The GI Joe Fallacy [HD]",
+    title: "Cognitive Biases: The GI Joe Fallacy",
     href: "ct-wiphi-26-the-gi-joe-fallacy",
     duration: "3:17",
     image:

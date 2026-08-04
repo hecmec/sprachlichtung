@@ -3,7 +3,7 @@ import type {VideoCardItem} from '@site/src/components/VideoCardGrid';
 /**
  * The 28 episodes of Allan Di Donato's YouTube course on critical thinking, in
  * course order. Shared by the German, English and French index pages of
- * `docs/kritisches-denken/140-videokurse/20-critical-thinking-cours-allan-di-donato`:
+ * `docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato`:
  * the titles are the original English ones and stay untranslated, and `href`
  * points at the summary page next to whichever index page renders the list.
  *
