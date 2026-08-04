@@ -13,13 +13,12 @@ last_update:
 completeness: 5/5
 draft: false
 # slug:
-# image: "../img/process_critisches_denken_sprachlichtung.jpg"
 image: /img/kd/banner-bibiliothek.webp
 ---
 
 import Admonition from '@theme/Admonition';
 
-![teppisch](/img/kd/banner-met-silk-carpet.jpg)
+![chritical thinking is essential to make sense of the world](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
 
 ## Worüber reden wir, wenn wir von kritischem Denken reden?
 

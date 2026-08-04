@@ -99,6 +99,16 @@ main > .container {
   font-size: 1.2rem;
 }
 
+/* The theme caps the doc column at 75% to leave room for the right-hand table of
+   contents, and it does so even on pages without headings, where no TOC column is
+   rendered at all (chapter index pages, for instance). Where the doc column is the
+   row's only child, there is nothing to leave room for, so take the full width. */
+@media (min-width: 997px) {
+  .row > [class*="docItemCol"]:only-child {
+    max-width: 100% !important;
+  }
+}
+
 /* Bilingual video-course pages: right-hand translation column.
    Change this rule to restyle every translation column at once. */
 .video-translation {

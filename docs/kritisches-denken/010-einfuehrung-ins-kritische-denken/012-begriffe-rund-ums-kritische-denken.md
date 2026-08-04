@@ -15,15 +15,26 @@ completeness: 4/5
 draft: false
 
 # slug:
-# image:
+image: /img/kd/easy-peasy-ai-critical-thinking-tree.webp
 ---
 
 import Admonition from '@theme/Admonition';
 
 ## Wie reden wir über kritisches Denken?
 
-Im Kontext des kritischen Denkens begegnen uns immer wieder bestimmte Begriffe und Konzepte, die für das Verständnis und die Anwendung dieser Fähigkeit zentral sind. Hier sind einige der wichtigsten Begriffe, die du kennen solltest.
+<Columns>
+<Column className="col--8">
+
+Im Kontext des kritischen Denkens begegnen uns immer wieder bestimmte Begriffe und Konzepte, die für das Verständnis und die Anwendung dieser Fähigkeit zentral sind. Hier sind einige der wichtigsten Begriffe, die du kennen solltest.\
 Dies hier sind einfache praktische Definitionen
+
+</Column>
+<Column className="col--4">
+
+![Baum des kritischen Denkens: Wurzeln, Stamm und Krone als Sinnbild für Grundlagen, Methode und Ergebnisse](/img/kd/easy-peasy-ai-critical-thinking-tree.webp)
+
+</Column>
+</Columns>
 
 ## Logik, Argumente und Rhetorik
 

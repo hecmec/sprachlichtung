@@ -18,10 +18,20 @@ completeness: 3/5
 draft: false
 
 # slug:
-# image:
+image: /img/kd/frank-herbert-quote-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg
 ---
 
 import Admonition from '@theme/Admonition';
+
+<Columns>
+<Column>
+![Belief can be manipulated. Only knowledge is dangerous. Frank Herbert](/img/kd/frank-herbert-quote-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg)
+</Column>
+
+<Column>
+Dieser berühmte Satz stammt aus Frank Herberts Science-Fiction-Roman **_Dune Messiah_** (_Der Herr des Wüstenplaneten_). Vollständig lautet das Zitat: "They're trained to believe, not to know. Belief can be manipulated. Only knowledge is dangerous." Auf Deutsch: "Sie sind darauf abgerichtet zu glauben, nicht zu wissen. Glaube lässt sich manipulieren. Nur Wissen ist gefährlich." 
+</Column>
+</Columns>
 
 ## Glauben
 

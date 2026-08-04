@@ -16,10 +16,12 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-# image:
+image: /img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.png
 ---
 
-Das kritische Denken vereinigt die Kampfkünste des Geistes mit dem Zusammenspiel wie wir es im Tanz oder in Teamsportarten finden.
+![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.png)
+
+Kritisches Denken ist zugleich Kampfkunst und Teamsport.
 
 :::info Bivalenz
 
