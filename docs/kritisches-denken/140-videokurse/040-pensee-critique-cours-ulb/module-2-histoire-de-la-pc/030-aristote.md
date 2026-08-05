@@ -22,11 +22,11 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=EcFg6WsaeXs0gcJCc0JAYcqIYzv' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=EcFg6WsaeXs' />
 
 &nbsp;
 
-<!-- href="https://www.youtube.com/watch?v=EcFg6WsaeXs0gcJCc0JAYcqIYzv"
+<!-- href="https://www.youtube.com/watch?v=EcFg6WsaeXs"
   Pensée critique - Aristote - 03 - Module 2 -->
 
 <div className="row">

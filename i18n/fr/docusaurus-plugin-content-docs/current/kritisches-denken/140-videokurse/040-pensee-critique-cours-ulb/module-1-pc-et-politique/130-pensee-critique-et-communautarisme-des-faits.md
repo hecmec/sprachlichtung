@@ -24,11 +24,11 @@ translation_status: manual
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=HyewRI78xE00gcJCc0JAYcqIYzv' />
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=HyewRI78xE0' />
 
 &nbsp;
 
-<!-- href="https://www.youtube.com/watch?v=HyewRI78xE00gcJCc0JAYcqIYzv"
+<!-- href="https://www.youtube.com/watch?v=HyewRI78xE0"
   Pensée critique - Pensée critique et communautarisme des faits :13 -->
 
 ## 🧩 Définition du communautarisme
