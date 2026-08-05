@@ -22,4 +22,6 @@ controls src='https://youtu.be/IjTRJKePWsg' />
 
 &nbsp;
 
+<!-- TODO: find transcription -->
+
 There is no transcript for this video at the time of writing. 😪
