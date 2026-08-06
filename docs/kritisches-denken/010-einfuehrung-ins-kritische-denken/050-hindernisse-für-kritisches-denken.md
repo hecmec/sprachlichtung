@@ -17,8 +17,18 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-# image:
+image: /img/kd/quote-russel-fools-and-fanatics.jpg
 ---
+
+<Columns>
+  <Column className='col--6'>
+    ![Zitat von Bertrand Russell](/img/kd/quote-russel-fools-and-fanatics.jpg)  
+  </Column>
+  <Column>
+    The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.\
+    _Das ganze Problem der Welt ist, dass Narren und Fanatiker immer so von sich überzeugt sind, während weisere Menschen so voller Zweifel sind. (Bertrand Russell)_
+  </Column>
+</Columns>
 
 Trotz der Vorteile des kritischen Denkens gibt es verschiedene Hindernisse, die uns davon abhalten können. Wir werden, auf der einen Seite, von unserem eigenen Geist ausgebremst, und auf der anderen, versuchen unsere Affekte und unsere Umwelt uns zu beeinflussen.
 

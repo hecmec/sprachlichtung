@@ -20,6 +20,10 @@ import Admonition from '@theme/Admonition';
 
 ![chritical thinking is essential to make sense of the world](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
 
+> Critical thinking is essential to make sense of our world, especially with advertisers and politicians all telling us loudly that they know best. We need to be able to look at the evidence and work out whether we agree with them. (Helen Czerski)
+
+> _Kritisches Denken ist unerlässlich, um unsere Welt zu begreifen, gerade weil uns Werbetreibende und Politiker allesamt lautstark versichern, dass sie es am besten wissen. Wir müssen in der Lage sein, uns die Belege anzusehen und selbst herauszufinden, ob wir ihnen zustimmen._
+
 ## Worüber reden wir, wenn wir von kritischem Denken reden?
 
 :::tip kurz

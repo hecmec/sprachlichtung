@@ -18,14 +18,14 @@ completeness: 3/5
 draft: false
 
 # slug:
-image: /img/kd/frank-herbert-quote-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg
+image: /img/kd/quote-frank-herbert-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg
 ---
 
 import Admonition from '@theme/Admonition';
 
 <Columns>
 <Column>
-![Belief can be manipulated. Only knowledge is dangerous. Frank Herbert](/img/kd/frank-herbert-quote-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg)
+![Belief can be manipulated. Only knowledge is dangerous. Frank Herbert](/img/kd/quote-frank-herbert-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg)
 </Column>
 
 <Column>

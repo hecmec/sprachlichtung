@@ -16,10 +16,12 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-image: /img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.png
+image: /img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg
 ---
 
-![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.png)
+![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
+
+> If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)
 
 Kritisches Denken ist zugleich Kampfkunst und Teamsport.
 

@@ -40,11 +40,42 @@ import ReactPlayer from 'react-player';
 * Ce langage avait au moins le mérite de la **clarté** et de la **franchise** : le darwinisme était interdit parce que supposé contraire à la religion.
 * La liberté de la science et de l’enseignement faisait alors face à un État protégeant la religion, bref à un État **non véritablement laïque**.
 
+</div>
+<div className="col col--6 video-translation">
+
+<h2>1. Der Frontalangriff der 1920er Jahre</h2>
+
+* Die Geschichte der religiösen Pressionen auf den Biologieunterricht beginnt mit einem **Frontalangriff** auf die Evolutionstheorie und auf die **Freiheit der Wissenschaft**.
+* In den 1920er Jahren werden die berühmten **_monkey laws_** beschlossen, Gesetze, die es verbieten, entgegen dem, was die Bibel sagt, die Theorie **Darwins** zu lehren: namentlich, dass der Mensch von heute ausgestorbenen Menschenaffen abstammt.
+* Diese Sprache hatte immerhin den Vorzug der **Klarheit** und der **Offenheit**: Der Darwinismus wurde verboten, weil er der Religion zu widersprechen schien.
+* Die Freiheit der Wissenschaft und des Unterrichts stand damals einem Staat gegenüber, der die Religion schützte, kurz einem **nicht wirklich laizistischen** Staat.
+
+</div>
+</div>
+
+<div className="row">
+<div className="col col--6">
+
 ## 2. 1968 : la Cour suprême et le premier amendement
 
 * En 1968, la Cour suprême des États-Unis déclare ces lois **inconstitutionnelles**.
 * Le motif : elles entravent le libre développement de la science, qui est le **cœur de la pensée critique**, au nom d’une **lecture littéraliste** de la Bible, texte religieux s’il en est.
 * Le raisonnement juridique s’appuie sur le **premier amendement**, qui interdit l’**établissement d’une religion**. Interdire un cours de sciences parce qu’il est supposé contredire telle ou telle doctrine religieuse revient à faire des pouvoirs publics les défenseurs d’une **religion officielle**.
+
+</div>
+<div className="col col--6 video-translation">
+
+<h2>2. 1968: der Oberste Gerichtshof und der Erste Zusatzartikel</h2>
+
+* 1968 erklärt der Oberste Gerichtshof der Vereinigten Staaten diese Gesetze für **verfassungswidrig**.
+* Die Begründung: Sie behindern die freie Entwicklung der Wissenschaft, die das **Herzstück des kritischen Denkens** ist, im Namen einer **wörtlichen Lektüre** der Bibel, eines religiösen Textes wie kaum ein anderer.
+* Die rechtliche Überlegung stützt sich auf den **Ersten Zusatzartikel**, der die **Einrichtung einer Religion** verbietet. Einen naturwissenschaftlichen Unterricht zu verbieten, weil er angeblich der einen oder anderen religiösen Lehre widerspricht, läuft darauf hinaus, die öffentliche Gewalt zur Verteidigerin einer **offiziellen Religion** zu machen.
+
+</div>
+</div>
+
+<div className="row">
+<div className="col col--6">
 
 ## 3. Le retournement du langage : « enseigner la controverse »
 
@@ -53,12 +84,44 @@ import ReactPlayer from 'react-player';
 * Le procédé consiste à **récupérer à leur profit les idées de l’adversaire**. Mais la controverse invoquée est **artificielle** : elle n’a tout simplement pas lieu d’être pour les scientifiques dignes de ce nom.
 * L’effet recherché est l’introduction de la **confusion dans les esprits**.
 
+</div>
+<div className="col col--6 video-translation">
+
+<h2>3. Die Umkehrung der Sprache: „die Kontroverse unterrichten"</h2>
+
+* Nach 1968 wechseln die Kreationisten, da sie den Darwinismus nicht mehr verbieten können, die **Strategie** und das **Vokabular**: Sie berufen sich fortan auf **unsere eigenen Werte**.
+* Sie holen den Kreationismus gewissermaßen **durch das Fenster** in die Klassenzimmer, indem sie verlangen, **beide Thesen** zu unterrichten, mit der Begründung, das Thema sei umstritten: Die einen dächten so, die anderen anders, also stellen wir den Schülerinnen und Schülern beide Auffassungen vor, damit sie sich ein Urteil bilden und ihr **kritisches Denken** üben.
+* Das Verfahren besteht darin, **die Gedanken des Gegners für sich zu vereinnahmen**. Doch die angeführte Kontroverse ist **künstlich**: Für Wissenschaftler, die diesen Namen verdienen, hat sie schlicht keinen Grund.
+* Die angestrebte Wirkung ist die Einführung von **Verwirrung in den Köpfen**.
+
+</div>
+</div>
+
+<div className="row">
+<div className="col col--6">
+
 ## 4. Le dessein intelligent et le procès de 2005
 
 * Les créationnistes élaborent une théorie à **prétention scientifique**, le **dessein intelligent**, qui leur permet de jeter le discrédit sur l’**école publique** : celle-ci n’enseignerait que le darwinisme et aurait peur de la controverse.
 * Dans le procès de 2005, le **juge Jones** doit se rendre à l’évidence : pour un esprit rigoureux, ou simplement honnête, la **controverse n’existe pas**.
 * Le dessein intelligent est de la **religion déguisée en science** ; il n’a donc pas sa place dans une classe de biologie, **même sous la forme d’un avertissement** donné aux élèves.
 * Les biologistes des grandes universités américaines appelés à témoigner montrent tous que l’idée d’un **ingénieur surnaturel** ayant conçu et façonné les organismes complexes n’a **aucune validité scientifique**.
+
+</div>
+<div className="col col--6 video-translation">
+
+<h2>4. Das intelligente Design und der Prozess von 2005</h2>
+
+* Die Kreationisten arbeiten eine Theorie mit **wissenschaftlichem Anspruch** aus, das **intelligente Design**, die es ihnen erlaubt, die **öffentliche Schule** in Verruf zu bringen: Sie unterrichte nur den Darwinismus und fürchte die Kontroverse.
+* Im Prozess von 2005 muss **Richter Jones** sich der Einsicht beugen: Für einen strengen oder auch nur redlichen Geist **besteht die Kontroverse nicht**.
+* Das intelligente Design ist **als Wissenschaft verkleidete Religion**; es hat daher in einem Biologieunterricht keinen Platz, **auch nicht in Gestalt eines Hinweises** an die Schülerinnen und Schüler.
+* Die als Zeugen geladenen Biologen der großen amerikanischen Universitäten zeigen allesamt, dass der Gedanke eines **übernatürlichen Ingenieurs**, der die komplexen Organismen entworfen und geformt habe, **keinerlei wissenschaftliche Gültigkeit** besitzt.
+
+</div>
+</div>
+
+<div className="row">
+<div className="col col--6">
 
 ## 5. Une vigilance toujours nécessaire
 
@@ -73,7 +136,15 @@ L’enseignement décisif tient dans un critère simple : une controverse ne s�
 </div>
 <div className="col col--6 video-translation">
 
-Keine Zusammenfassung des Videos verfügbar. 😪
+<h2>5. Eine stets notwendige Wachsamkeit</h2>
+
+* Diese Widerlegungen haben die Kreationisten nicht daran gehindert, ihre **Untergrabung der Wissenschaft** fortzusetzen.
+* Man findet sie heute in **Europa** wieder, wo sie die **Sprache des kritischen Denkens sprechen, um es besser zu ersticken**.
+* Die **Wachsamkeit freier Geister** gegenüber solchen Strategien zu stärken ist eines der ausdrücklichen Ziele dieses Kurses.
+
+Dieser Abschnitt beschreibt einen vollständigen Weg: von einem offenen Verbot, das leicht zu erkennen und rechtlich zu ahnden ist, hin zu einem weit feineren Vorgehen, das die Wörter der eigenen Gegner entlehnt. Der Pluralismus, die Offenheit für die Debatte, die Aufforderung, sich ein eigenes Urteil zu bilden, sind echte Werte des kritischen Denkens; gerade deshalb lassen sie sich zweckentfremden.
+
+Die entscheidende Lehre liegt in einem einfachen Kriterium: Eine Kontroverse wird nicht **behauptet**, sie wird **festgestellt**. Es besteht ein Wesensunterschied zwischen einer wirklichen Meinungsverschiedenheit innerhalb einer wissenschaftlichen Gemeinschaft und einer von außen hergestellten Meinungsverschiedenheit, die einen Unterricht schwächen soll. Beide unterscheiden zu können, also nachzuprüfen, wer debattiert, auf welcher Datengrundlage und in welchen Veröffentlichungen, ist das, was das kritische Denken davor bewahrt, gegen sich selbst gewendet zu werden.
 
 </div>
 </div>
