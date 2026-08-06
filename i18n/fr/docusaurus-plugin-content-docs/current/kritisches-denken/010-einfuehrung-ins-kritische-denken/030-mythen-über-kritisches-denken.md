@@ -12,9 +12,18 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
+
+<!--t src=1bfdad9e-->
+![citation campbell](/img/kd/quote-campbell-myth-facts.jpg)
+
+<!--t src=6ce03324-->
+> The myth does not point to a fact; the myth points beyond facts to something that informs the fact. (Joseph Campbell)
+
+<!--t src=4d4d06c0-->
+> _Le mythe ne renvoie pas à un fait ; le mythe renvoie au-delà des faits à quelque chose qui donne sa forme au fait._
 
 <!--t src=1e9ae28d-->
 Il existe quelques malentendus tenaces sur la pensée critique qu'il convient de clarifier au préalable.

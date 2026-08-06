@@ -1,0 +1,89 @@
+/* As many cards per row as fit; a card never grows past 400px. */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 450px), 1fr));
+  gap: 1rem;
+  justify-content: start;
+  margin: 1.5rem 0;
+}
+
+/* Thumbnail on the left, meta information on the right. */
+.card {
+  display: flex;
+  align-items: stretch;
+  max-width: 850px;
+  gap: 0.9rem;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  background: var(--ifm-card-background-color, var(--ifm-background-surface-color));
+  text-decoration: none;
+  color: inherit;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+}
+
+.card:hover {
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.imageWrap {
+  position: relative;
+  flex: 0 0 180px;
+  width: 180px;
+  min-height: 110px;
+  background: var(--ifm-color-emphasis-100);
+  overflow: hidden;
+}
+
+/* Cropped decoration: the image fills whatever height the title gives the card
+   instead of stretching it to its own aspect ratio. Taking it out of flow is
+   what keeps it from contributing any height at all. */
+.image {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.7rem 0.85rem 0.7rem 0;
+  min-width: 0;
+}
+
+.title {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.3;
+  /* Long episode titles stay within the card. */
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.duration {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.7rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.durationIcon {
+  flex: 0 0 auto;
+}

@@ -15,8 +15,14 @@ completeness: 3/5
 draft: false
 
 # slug:
-# image:
+image: /img/kd/quote-campbell-myth-facts.jpg
 ---
+
+![quote campbell](/img/kd/quote-campbell-myth-facts.jpg)
+
+> The myth does not point to a fact; the myth points beyond facts to something that informs the fact. (Joseph Campbell)
+
+> _Der Mythos verweist nicht auf eine Tatsache; der Mythos verweist über die Tatsachen hinaus auf etwas, das die Tatsache erst formt._
 
 Es gibt einige hartnäckige Missverständnisse über kritisches Denken, die wir vorab noch klären sollten.
 

@@ -17,6 +17,10 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-size-base: 120%;
+  /* Infima leitet die Blockquote-Größe von --ifm-font-size-base ab. Da der Wert
+     dort relativ zum Fließtext wirkt, würden die 120 % ein zweites Mal greifen
+     und Zitate 20 % größer als der Artikeltext setzen. */
+  --ifm-blockquote-font-size: 100%;
   --ifm-color-primary: hsl(315, 72%, 27%);
   --ifm-color-primary-dark: hsl(327, 49%, 32%);
   --ifm-color-primary-darker: hsl(327, 49%, 30%);
@@ -97,6 +101,16 @@ main > .container {
 
 [class*="docCardListItem"] h2 {
   font-size: 1.2rem;
+}
+
+/* The theme caps the doc column at 75% to leave room for the right-hand table of
+   contents, and it does so even on pages without headings, where no TOC column is
+   rendered at all (chapter index pages, for instance). Where the doc column is the
+   row's only child, there is nothing to leave room for, so take the full width. */
+@media (min-width: 997px) {
+  .row > [class*="docItemCol"]:only-child {
+    max-width: 100% !important;
+  }
 }
 
 /* Bilingual video-course pages: right-hand translation column.

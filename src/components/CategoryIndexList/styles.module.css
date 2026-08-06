@@ -1,8 +1,20 @@
+/* Carries the containment context the card grid is measured against. */
+.container {
+  container-type: inline-size;
+}
+
 .list {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
+}
+
+/* Wide enough for two readable cards side by side. */
+@container (min-width: 1000px) {
+  .list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 /* Each card spans the full width, image on the left. */
@@ -30,6 +42,7 @@
 }
 
 .imageWrap {
+  position: relative;
   flex: 0 0 200px;
   width: 200px;
   min-height: 140px;
@@ -37,7 +50,14 @@
   overflow: hidden;
 }
 
+/* The image is decoration: it fills whatever height the text gives the card and
+   is cropped, rather than stretching the card to its own aspect ratio. Taking it
+   out of flow is what keeps it from contributing any height at all — a plain
+   `height: 100%` resolves to `auto` here, because the wrapper has no definite
+   height of its own, and then a portrait image makes the whole card grow. */
 .image {
+  position: absolute;
+  inset: 0;
   display: block;
   width: 100%;
   height: 100%;

@@ -15,11 +15,13 @@ last_update:
 
 completeness: 4/5
 draft: false
-# slug: 
-# image: 
+# slug:
+image: /img/process_critisches_denken_sprachlichtung.jpg
 ---
 
-![der prozess des kritischen Denkens](/img/process_critisches_denken_sprachlichtung.jpg)  
+> Fortschritt ist ohne Veränderung unmöglich, und wer seine Meinung nicht ändern kann, kann gar nichts verändern. (Bernard Shaw)
+
+![der prozess des kritischen Denkens](/img/process_critisches_denken_sprachlichtung.jpg)
 
 Kritisches Denken ist ein systematischer Prozess, der folgende Schritte umfassen kann:
 

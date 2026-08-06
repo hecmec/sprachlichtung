@@ -31,7 +31,7 @@ Voici donc seulement une petite sélection, celle que nous aimons.
 <!--t src=3acd6c64-->
 - 🇬🇧 Allan Di Donato : [Critical Thinking - Lectures](https://www.youtube.com/playlist?list=PLLyuCNxHUAz_la-Us9oKbsAwJ29XNKhTQ)
   - 29 cours, faciles à comprendre et divertissants.
-  - [Nos résumés des cours de Di Donato.](/docs/kritisches-denken/140-videokurse/20-critical-thinking-cours-allan-di-donato/index.md).
+  - [Nos résumés des cours de Di Donato.](../140-videokurse/020-critical-thinking-cours-allan-di-donato/index.md).
 - 🇫🇷 Guy Haarscher : [Mooc "Pensée critique"](https://www.youtube.com/playlist?list=PLy4aPukvD-MpU1s7Yoi8HRxDafOdBZhZK)
   - Plus de 50 cours, académiques et bien fondés, qui insistent beaucoup sur la liberté d'expression et la laïcité, tout à fait dans l'esprit de l'Université libre de Bruxelles (ULB)
   - [Nos résumés des cours de Haarscher](/docs/category/pensee-critique-cours-ulb)

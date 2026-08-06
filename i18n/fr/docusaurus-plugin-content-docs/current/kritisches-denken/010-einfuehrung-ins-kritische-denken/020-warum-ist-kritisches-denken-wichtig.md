@@ -15,12 +15,26 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=d1524ddc-->
-La pensée critique réunit les arts martiaux de l'esprit et la coordination que l'on trouve dans la danse ou dans les sports d'équipe.
+<!--t src=c65ec34f-->
+![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
+
+<!--t src=b939afa5-->
+> If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
+
+<!--t src=14794862-->
+> _Qui ne sait pas bien écrire ne sait pas bien penser, et pour qui ne sait pas bien penser, d'autres penseront._
+
+<!--t src=f076ff72-->
+[^orwell]:
+    Cette phrase est fréquemment attribuée à George Orwell, mais elle reste introuvable dans son œuvre. Elle condense une idée de l'essai d'Orwell _Politics and the English Language_, où il écrit : "But if thought corrupts language, language can also corrupt thought."  
+    (George Orwell : _Politics and the English Language_, dans _Horizon_, avril 1946)
+
+<!--t src=99d60573-->
+La pensée critique est à la fois un art martial et un sport d'équipe.
 
 <!--t src=19b218f9-->
 :::info Bivalence

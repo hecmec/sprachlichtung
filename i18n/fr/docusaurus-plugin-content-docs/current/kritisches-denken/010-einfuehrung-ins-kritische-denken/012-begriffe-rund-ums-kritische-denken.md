@@ -13,7 +13,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
@@ -23,9 +23,20 @@ import Admonition from '@theme/Admonition';
 <!--t src=eaa22ce0-->
 ## Comment parlons-nous de la pensée critique ?
 
-<!--t src=1f6bb8da-->
-Dans le contexte de la pensée critique, nous rencontrons sans cesse certains termes et concepts qui sont essentiels pour comprendre et mettre en œuvre cette compétence. Voici quelques-uns des termes les plus importants que tu devrais connaître.
+<!--t src=70db88d2-->
+<Columns>
+<Column className="col--8">
+
+Dans le contexte de la pensée critique, nous rencontrons sans cesse certains termes et concepts essentiels pour comprendre et exercer cette compétence. Voici quelques-uns des plus importants à connaître.\
 Il s'agit ici de définitions simples et pratiques.
+
+</Column>
+<Column className="col--4">
+
+![Arbre de la pensée critique : racines, tronc et couronne comme image des fondements, de la méthode et des résultats](/img/kd/easy-peasy-ai-critical-thinking-tree.webp)
+
+</Column>
+</Columns>
 
 <!--t src=371127db-->
 ## Logique, arguments et rhétorique

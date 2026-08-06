@@ -56,14 +56,22 @@ function CardRow({item}: {item: PropSidebarItem}): ReactNode {
  * Full-width list of rounded cards (image left, title + description right), one
  * card per page in the current sidebar category. Use it on a category index page
  * (an `index.mdx`) as an alternative to the default `generated-index`.
+ *
+ * From 1000px of available width the cards are laid out two per row. That is
+ * measured on the list itself, not on the viewport, so a collapsed sidebar or a
+ * narrower content column changes the layout as you would expect. The wrapper
+ * exists only to carry the containment context, since a container query cannot
+ * style its own container.
  */
 export default function CategoryIndexList(): ReactNode {
   const category = useCurrentSidebarCategory();
   return (
-    <section className={styles.list}>
-      {category.items.map((item, i) => (
-        <CardRow key={i} item={item} />
-      ))}
-    </section>
+    <div className={styles.container}>
+      <section className={styles.list}>
+        {category.items.map((item, i) => (
+          <CardRow key={i} item={item} />
+        ))}
+      </section>
+    </div>
   );
 }

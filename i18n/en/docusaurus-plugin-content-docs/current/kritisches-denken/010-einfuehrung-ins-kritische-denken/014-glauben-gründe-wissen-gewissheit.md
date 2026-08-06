@@ -17,11 +17,22 @@ last_update:
   author: Immanuel Lupinus
 completeness: 2/5
 draft: true
-translation_status: auto
+translation_status: mixed
 ---
 
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
+
+<!--t src=dd1ca9fd-->
+<Columns>
+<Column>
+![Belief can be manipulated. Only knowledge is dangerous. Frank Herbert](/img/kd/quote-frank-herbert-belief-can-be-manipulated-Only-knowledge-is-dangerous.jpg)
+</Column>
+
+<Column>
+This famous line comes from Frank Herbert's science-fiction novel **_Dune Messiah_**. In full, the quotation reads: "They're trained to believe, not to know. Belief can be manipulated. Only knowledge is dangerous."
+</Column>
+</Columns>
 
 <!--t src=7d98af30-->
 ## Believing
