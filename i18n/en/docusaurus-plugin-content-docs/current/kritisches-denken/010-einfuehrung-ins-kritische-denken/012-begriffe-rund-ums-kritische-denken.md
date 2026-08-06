@@ -25,10 +25,20 @@ import Admonition from '@theme/Admonition';
 
 ## How do we talk about critical thinking?
 
-<!--t src=1f6bb8da-->
+<!--t src=70db88d2-->
+<Columns>
+<Column className="col--8">
 
-In the context of critical thinking we keep encountering certain terms and concepts that are central to understanding and applying this skill. Here are some of the most important terms you should know.
-These are simple, practical definitions
+In the context of critical thinking we keep meeting certain terms and concepts that are central to understanding and applying this skill. Here are some of the most important ones you should know.\
+These are simple, practical definitions.
+
+</Column>
+<Column className="col--4">
+
+![Tree of critical thinking: roots, trunk and crown as an image of foundations, method and results](/img/kd/easy-peasy-ai-critical-thinking-tree.webp)
+
+</Column>
+</Columns>
 
 <!--t src=371127db-->
 

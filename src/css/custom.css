@@ -17,6 +17,10 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-size-base: 120%;
+  /* Infima leitet die Blockquote-Größe von --ifm-font-size-base ab. Da der Wert
+     dort relativ zum Fließtext wirkt, würden die 120 % ein zweites Mal greifen
+     und Zitate 20 % größer als der Artikeltext setzen. */
+  --ifm-blockquote-font-size: 100%;
   --ifm-color-primary: hsl(315, 72%, 27%);
   --ifm-color-primary-dark: hsl(327, 49%, 32%);
   --ifm-color-primary-darker: hsl(327, 49%, 30%);

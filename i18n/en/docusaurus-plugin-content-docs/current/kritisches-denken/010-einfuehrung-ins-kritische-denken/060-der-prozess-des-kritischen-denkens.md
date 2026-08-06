@@ -15,6 +15,9 @@ last_update:
 translation_status: mixed
 ---
 
+<!--t src=acaec03c-->
+> Progress is impossible without change, and those who cannot change their minds cannot change anything. (Bernard Shaw)
+
 <!--t src=5739039a-->
 ![the process of critical thinking](/img/process_critisches_denken_sprachlichtung.jpg)
 

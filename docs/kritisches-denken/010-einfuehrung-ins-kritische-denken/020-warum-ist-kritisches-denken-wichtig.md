@@ -21,7 +21,13 @@ image: /img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg
 
 ![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
-> If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)
+> If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
+
+> _Wer nicht gut schreiben kann, kann nicht gut denken, und wer nicht gut denken kann, für den denken andere._
+
+[^orwell]:
+    Der Satz wird George Orwell häufig zugeschrieben, lässt sich in seinem Werk aber nicht nachweisen. Er verdichtet einen Gedanken aus Orwells Aufsatz _Politics and the English Language_, wo es heisst: "But if thought corrupts language, language can also corrupt thought."  
+    (George Orwell: _Politics and the English Language_, in: _Horizon_, April 1946)
 
 Kritisches Denken ist zugleich Kampfkunst und Teamsport.
 

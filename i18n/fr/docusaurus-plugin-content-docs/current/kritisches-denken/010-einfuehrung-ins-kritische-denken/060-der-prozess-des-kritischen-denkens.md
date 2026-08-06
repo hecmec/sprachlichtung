@@ -18,6 +18,9 @@ translation_status: mixed
 custom_translation_overwritten: false
 ---
 
+<!--t src=acaec03c-->
+> Le progrès est impossible sans changement, et ceux qui ne peuvent changer d'avis ne peuvent rien changer. (Bernard Shaw)
+
 <!--t src=5739039a-->
 ![le processus de la pensée critique](/img/process_critisches_denken_sprachlichtung.jpg)
 

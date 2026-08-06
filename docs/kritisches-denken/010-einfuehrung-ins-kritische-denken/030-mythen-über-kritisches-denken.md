@@ -18,7 +18,7 @@ draft: false
 image: /img/kd/quote-campbell-myth-facts.jpg
 ---
 
-![quote chambell](/img/kd/quote-campbell-myth-facts.jpg)
+![quote campbell](/img/kd/quote-campbell-myth-facts.jpg)
 
 > The myth does not point to a fact; the myth points beyond facts to something that informs the fact. (Joseph Campbell)
 

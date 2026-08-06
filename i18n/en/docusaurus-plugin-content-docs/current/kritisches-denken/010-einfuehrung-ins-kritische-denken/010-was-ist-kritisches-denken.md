@@ -17,8 +17,14 @@ translation_status: mixed
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
 
-<!--t src=5b35483a-->
-![carpet](/img/kd/banner-met-silk-carpet.jpg)
+<!--t src=523401d1-->
+![critical thinking is essential to make sense of the world](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
+
+<!--t src=9c685dad-->
+> Critical thinking is essential to make sense of our world, especially with advertisers and politicians all telling us loudly that they know best. We need to be able to look at the evidence and work out whether we agree with them. (Helen Czerski)
+
+<!--t src=1c609672-->
+<!-- The quotation above is already in English; the German rendering is omitted here. -->
 
 <!--t src=55652371-->
 ## What do we mean when we talk about critical thinking?

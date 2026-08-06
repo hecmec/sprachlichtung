@@ -15,6 +15,18 @@ last_update:
 translation_status: mixed
 ---
 
+<!--t src=698fee19-->
+<Columns>
+  <Column className='col--4'>
+    ![Quote by Bertrand Russell](/img/kd/quote-russell-ools-and-fanatics-are-always-so-certain-of-themselves.jpg)  
+  </Column>
+  <Column>
+    The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+
+    _(Bertrand Russell)_
+  </Column>
+</Columns>
+
 <!--t src=8979c116-->
 
 Despite the advantages of critical thinking, there are various obstacles that can prevent us from it. We are, on one hand, slowed down by our own mind, and on the other hand, our emotions and our environment try to influence us.

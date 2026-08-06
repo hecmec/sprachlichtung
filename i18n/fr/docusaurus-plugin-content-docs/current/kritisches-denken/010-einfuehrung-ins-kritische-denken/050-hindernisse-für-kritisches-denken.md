@@ -14,9 +14,21 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
+
+<!--t src=698fee19-->
+<Columns>
+  <Column className='col--4'>
+    ![Citation de Bertrand Russell](/img/kd/quote-russell-ools-and-fanatics-are-always-so-certain-of-themselves.jpg)  
+  </Column>
+  <Column>
+    The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+
+    _Tout le problème du monde est que les sots et les fanatiques sont toujours si sûrs d'eux-mêmes, tandis que les plus sages sont si pleins de doutes. (Bertrand Russell)_
+  </Column>
+</Columns>
 
 <!--t src=8979c116-->
 Malgré les avantages de la pensée critique, divers obstacles peuvent nous en empêcher. D'un côté, nous sommes freinés par notre propre esprit ; de l'autre, nos affects et notre environnement tentent de nous influencer.

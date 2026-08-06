@@ -19,8 +19,14 @@ custom_translation_overwritten: false
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
 
-<!--t src=5b35483a-->
-![tapis](/img/kd/banner-met-silk-carpet.jpg)
+<!--t src=523401d1-->
+![la pensée critique est essentielle pour donner du sens au monde](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
+
+<!--t src=9c685dad-->
+> Critical thinking is essential to make sense of our world, especially with advertisers and politicians all telling us loudly that they know best. We need to be able to look at the evidence and work out whether we agree with them. (Helen Czerski)
+
+<!--t src=1c609672-->
+> _La pensée critique est indispensable pour donner du sens à notre monde, surtout lorsque les publicitaires et les responsables politiques nous répètent tous haut et fort qu'ils savent mieux que nous. Nous devons être capables d'examiner les faits et de déterminer par nous-mêmes si nous sommes d'accord avec eux._
 
 <!--t src=55652371-->
 ## De quoi parlons-nous lorsque nous parlons de pensée critique ?

@@ -15,6 +15,15 @@ last_update:
 translation_status: mixed
 ---
 
+<!--t src=1bfdad9e-->
+![quote campbell](/img/kd/quote-campbell-myth-facts.jpg)
+
+<!--t src=6ce03324-->
+> The myth does not point to a fact; the myth points beyond facts to something that informs the fact. (Joseph Campbell)
+
+<!--t src=4d4d06c0-->
+<!-- The quotation above is already in English; the German rendering is omitted here. -->
+
 <!--t src=1e9ae28d-->
 
 There are some persistent misconceptions about critical thinking that we should clear up first.

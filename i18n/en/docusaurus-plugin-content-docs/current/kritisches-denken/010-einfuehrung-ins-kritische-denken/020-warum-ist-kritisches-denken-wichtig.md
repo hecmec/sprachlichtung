@@ -17,9 +17,22 @@ last_update:
 translation_status: mixed
 ---
 
-<!--t src=d1524ddc-->
+<!--t src=c65ec34f-->
+![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
-Critical thinking unites the martial arts of the mind with the interplay we find in dance or in team sports.
+<!--t src=b939afa5-->
+> If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
+
+<!--t src=14794862-->
+<!-- The quotation above is already in English; the German rendering is omitted here. -->
+
+<!--t src=f076ff72-->
+[^orwell]:
+    The sentence is widely attributed to George Orwell, but it cannot be traced to his work. It condenses a thought from Orwell's essay _Politics and the English Language_, where he writes: "But if thought corrupts language, language can also corrupt thought."  
+    (George Orwell: _Politics and the English Language_, in: _Horizon_, April 1946)
+
+<!--t src=99d60573-->
+Critical thinking is both a martial art and a team sport.
 
 <!--t src=19b218f9-->
 :::info Bivalence

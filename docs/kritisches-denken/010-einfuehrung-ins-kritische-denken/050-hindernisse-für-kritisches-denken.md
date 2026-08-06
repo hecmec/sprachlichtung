@@ -17,15 +17,16 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-image: /img/kd/quote-russel-fools-and-fanatics.jpg
+image: /img/kd/quote-russell-ools-and-fanatics-are-always-so-certain-of-themselves.jpg
 ---
 
 <Columns>
-  <Column className='col--6'>
-    ![Zitat von Bertrand Russell](/img/kd/quote-russel-fools-and-fanatics.jpg)  
+  <Column className='col--4'>
+    ![Zitat von Bertrand Russell](/img/kd/quote-russell-ools-and-fanatics-are-always-so-certain-of-themselves.jpg)  
   </Column>
   <Column>
-    The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.\
+    The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+    
     _Das ganze Problem der Welt ist, dass Narren und Fanatiker immer so von sich überzeugt sind, während weisere Menschen so voller Zweifel sind. (Bertrand Russell)_
   </Column>
 </Columns>

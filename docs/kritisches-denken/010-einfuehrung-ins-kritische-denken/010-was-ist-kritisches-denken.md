@@ -18,7 +18,7 @@ image: /img/kd/banner-bibiliothek.webp
 
 import Admonition from '@theme/Admonition';
 
-![chritical thinking is essential to make sense of the world](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
+![critical thinking is essential to make sense of the world](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
 
 > Critical thinking is essential to make sense of our world, especially with advertisers and politicians all telling us loudly that they know best. We need to be able to look at the evidence and work out whether we agree with them. (Helen Czerski)
 
