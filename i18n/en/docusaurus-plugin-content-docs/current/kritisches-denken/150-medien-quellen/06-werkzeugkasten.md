@@ -44,8 +44,8 @@ We keep adding new ones.
 **[Frezgi](https://frezgi.com/)**
 
 <!--t src=358d9003-->
-<!-- ![frezgi app image](/img/kd/frezgi_github.png) -->
-<img src={require("@site/static/img/kd/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![frezgi app image](/img/kd/frezgi_github.jpg) -->
+<img src={require("@site/static/img/kd/frezgi_github.jpg").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=acbb5cb5-->
 
@@ -57,8 +57,8 @@ We keep adding new ones.
 **[Rationale](https://rationaleonline.com/)**
 
 <!--t src=9bd1698b-->
-<!-- ![Rationale app image](/img/kd/rationale_screenshot.png) -->
-<img src={require("@site/static/img/kd/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![Rationale app image](/img/kd/rationale_screenshot.jpg) -->
+<img src={require("@site/static/img/kd/rationale_screenshot.jpg").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 <!--t src=f638017a-->
 

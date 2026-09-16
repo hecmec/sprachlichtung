@@ -47,7 +47,7 @@ Il faut distinguer entre les faits dans le monde et nos valeurs:
 Galilée rejette la vision de Ptolémée (Terre au centre) au profit de celle de Copernic (Soleil au centre), non par intuition, mais par **observation, raisonnement et calcul**.
 Cela illustre l’esprit critique : **comparer plusieurs théories et choisir la plus fondée**.
 
-![ulb_pc_galilee2.png](/img/kd/ulb-pc-galilee2.png)
+![ulb_pc_galilee2.png](/img/kd/ulb-pc-galilee2.jpg)
 
 ## 💬 Pensée critique, démocratie et liberté
 
@@ -63,7 +63,7 @@ Exemple opposé : **Ignace de Loyola** (XVIe siècle) recommandait de croire que
 
 C’est **le refus du sens critique**.
 
-![ulb_pc_ignace_de_loyola1.png](/img/kd/ulb-pc-ignace-de-loyola1.png)
+![ulb_pc_ignace_de_loyola1.png](/img/kd/ulb-pc-ignace-de-loyola1.jpg)
 
 ## 🛠️ Exercer sa pensée critique
 
