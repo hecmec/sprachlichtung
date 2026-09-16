@@ -13,9 +13,9 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-translation_status: auto
+translation_status: mixed
 custom_translation_overwritten: false
 ---
 
-<!--t src=b75e13ac-->
-La logique constitue le socle de la pensée critique. Pour pouvoir analyser, évaluer et construire des arguments, nous devons comprendre les briques fondamentales de la logique. Dans ce chapitre, nous découvrirons les principaux éléments logiques qui nous aident à penser plus clairement et à formuler de meilleurs arguments.
+<!--t src=69abc6b2-->
+La logique constitue le socle de la pensée critique. Pour pouvoir analyser, évaluer et construire des arguments, nous devons comprendre les briques fondamentales de la logique. Dans ce chapitre, nous découvrons les principaux éléments logiques qui nous aident à penser plus clairement et à formuler de meilleurs arguments.
