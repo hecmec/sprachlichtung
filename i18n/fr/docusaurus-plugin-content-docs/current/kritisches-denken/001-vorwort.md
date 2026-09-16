@@ -34,7 +34,7 @@ custom_translation_overwritten: false
 <!--t src=a8f13102-->
   Une communauté politique qui fonctionne bien vit d'un dialogue sain, et celui-ci a besoin de citoyennes et de citoyens qui réfléchissent de manière critique, équitable et constructive.
 
-<!--t src=979dadbe-->
+<!--t src=1dc4486a-->
 - **Côté personnel** : Si vous pensez que la politique n'est l'affaire que des politiciens, vous y trouverez tout de même votre compte. Vous pourrez peut-être apprendre ici comment discuter, lors du prochain repas de famille avec votre oncle, de telle sorte que vous appreniez tous les deux quelque chose sans vous sauter à la gorge.
 
 <!--t src=4483dfa2-->
@@ -48,11 +48,13 @@ custom_translation_overwritten: false
 <!--t src=fc73c8cb-->
 ## Un mot sur le style et l'étendue de ce tutoriel
 
-<!--t src=79f2394c-->
+<!--t src=7b68c023-->
 - Ces pages se veulent à la fois **introduction** et **manuel** ou **mode d'emploi** sur le thème de la pensée critique.
 - Tout ce que vous trouverez ici est bien connu, mais malheureusement pas toujours facile à trouver, ou dispersé sur le Net.
 - Vous devriez trouver ici les **choses qui comptent** ainsi que des renvois vers des lectures complémentaires (en ligne si possible).
-- Ce tutoriel est très fortement structuré. Vous disposez d'un menu pour l'ensemble du livre et chaque article a le sien. Tout est organisé en points et en sous-points. Si vous préférez les épanchements philosophiques, lisez plutôt Sartre ou Adorno, et si vous préférez la prose, achetez-vous un roman.
-  Chaque chose a sa place &mdash; ici, nous voulons essayer d'être **clairs et précis**.
-- Le **texte original est en allemand**. J'ai délégué la traduction anglaise et française à l'intelligence artificielle et je l'ai le plus souvent corrigée, mais pas toujours.
+- Ce tutoriel est **très fortement structuré**, et ce à dessein. Vous disposez d'un menu pour l'ensemble du livre et chaque article a le sien. Tout est organisé en points et en sous-points. Si vous préférez les essais philosophiques, lisez plutôt Sartre ou Adorno, et si vous préférez la prose, achetez-vous un roman.
+  Chaque chose a sa place &mdash; ici, nous voulons essayer d'être **brefs, clairs et précis**.
+- Le **texte original est en allemand**. J'ai délégué la traduction anglaise et française à l'intelligence artificielle et je l'ai parfois corrigée, mais pas toujours.
+
+<!--t src=5265e7ea-->
   Donc, si quelque chose vous semble étrange en anglais ou en français, jetez simplement un œil au texte original allemand.

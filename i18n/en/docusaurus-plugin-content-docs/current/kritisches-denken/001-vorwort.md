@@ -34,7 +34,7 @@ custom_translation_overwritten: false
 <!--t src=a8f13102-->
   A well-functioning political community thrives on healthy dialogue, and that requires citizens who think along critically, fairly and constructively.
 
-<!--t src=979dadbe-->
+<!--t src=1dc4486a-->
 - **Personal**: If you believe that politics is only for politicians, you will still get your money's worth here. Here you might just learn how, at the next family gathering, you can argue with your uncle in such a way that you both learn something without immediately going for each other's throats.
 
 <!--t src=4483dfa2-->
@@ -48,11 +48,13 @@ custom_translation_overwritten: false
 <!--t src=fc73c8cb-->
 ## A Word on the Style and Scope of This Tutorial
 
-<!--t src=79f2394c-->
+<!--t src=7b68c023-->
 - These pages aim to be both an **introduction** and a **handbook** or **user's manual** on the subject of critical thinking.
 - Everything you find here has long been known, but is unfortunately not always easy to find, or is scattered across the web.
 - Here you should **find the things that matter**, along with pointers to further reading (online where possible).
-- This tutorial is very strongly structured. You have a menu for the whole book, and every article has its own menu. Everything is organised into points and sub-points. If you prefer philosophical outpourings, you had better read Sartre or Adorno, and if you would rather read prose, buy yourself a novel.
-  Everything has its place &mdash; here we want to try to be **clear and plain**.
-- The **original text is in German**. I delegated the English and French translation to artificial intelligence and corrected it in most cases, but not always.
+- This tutorial is **very strongly structured**, and that is deliberate. You have a menu for the whole book, and every article has its own menu. Everything is organised into points and sub-points. If you prefer philosophical essays, you had better read Sartre or Adorno, and if you would rather read prose, buy yourself a novel.
+  Everything has its place &mdash; here we want to try to be **brief, clear and plain**.
+- The **original text is in German**. I delegated the English and French translation to artificial intelligence and corrected it now and then, but not always.
+
+<!--t src=5265e7ea-->
   So if something strikes you as odd in the English or the French, just take a look at the German original.
