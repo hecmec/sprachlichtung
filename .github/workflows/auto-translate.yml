@@ -1,0 +1,134 @@
+name: Auto-translate changed docs
+
+# When German docs change on develop, Claude re-translates the changed pages
+# into English and French using the translate-docs-folder skill and opens a PR
+# against develop. The translation PR only touches i18n/, so merging it does not
+# re-trigger this workflow.
+
+on:
+  push:
+    branches: [develop]
+    paths:
+      - "docs/**/*.md"
+      - "docs/**/*.mdx"
+  workflow_dispatch:
+
+concurrency:
+  group: auto-translate-develop
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect changed German pages
+        id: changes
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [[ -z "$BEFORE" || "$BEFORE" =~ ^0+$ ]] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            BEFORE="$(git rev-parse HEAD~1)"
+          fi
+
+          # Skip anything under a `_`-prefixed file or folder (drafts, excluded from build).
+          git diff --name-status --no-renames "$BEFORE" HEAD -- docs \
+            | grep -E '\.mdx?$' \
+            | grep -vE '(^|/)_' > /tmp/changes.txt || true
+
+          CHANGED="$(awk '$1 != "D" {print $2}' /tmp/changes.txt)"
+          DELETED="$(awk '$1 == "D" {print $2}' /tmp/changes.txt)"
+
+          echo "Changed:"; echo "$CHANGED"
+          echo "Deleted:"; echo "$DELETED"
+
+          {
+            echo "count=$(grep -c . /tmp/changes.txt || true)"
+            echo "changed<<EOF"; echo "$CHANGED"; echo "EOF"
+            echo "deleted<<EOF"; echo "$DELETED"; echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v4
+        if: steps.changes.outputs.count != '0'
+        with:
+          node-version: 20
+          cache: yarn
+
+      - name: Install dependencies
+        if: steps.changes.outputs.count != '0'
+        run: yarn install --frozen-lockfile
+
+      - name: Translate with Claude
+        if: steps.changes.outputs.count != '0'
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: >-
+            --model claude-opus-5
+            --max-turns 300
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(yarn:*),Bash(node:*),Bash(git diff:*),Bash(git status:*),Bash(git rm:*),Bash(cp:*),Bash(ls:*),Bash(grep:*),Bash(cat:*),Bash(mkdir:*)"
+          prompt: |
+            You are running unattended in CI for the SprachLichtung Docusaurus site.
+
+            Read `.claude/skills/translate-docs-folder/SKILL.md` and follow it to update the
+            **English (`en`)** and **French (`fr`)** translations of the German pages below,
+            which changed in push ${{ github.sha }} to `develop`.
+
+            Changed or added German pages:
+            ```
+            ${{ steps.changes.outputs.changed }}
+            ```
+
+            Deleted German pages (if any):
+            ```
+            ${{ steps.changes.outputs.deleted }}
+            ```
+
+            CI-specific rules, which override the skill where they conflict:
+            - Nobody can answer questions. Skip Step 2's approval: report the plan in your
+              final summary and proceed.
+            - Work file by file on the pages listed above (single-file runs), not whole
+              folders. Skip Step 4's folder-wide orphan pruning. Instead, for each deleted
+              German page, `git rm` its `en` and `fr` counterparts if they exist.
+            - Skip pages with `draft: true` in the German frontmatter and list them in
+              the summary.
+            - Never touch a locale file with `translation_status: manual` in its frontmatter.
+            - Use a separate job file per page and locale (e.g. `/tmp/job-en-<n>.json`).
+            - After each `translate_apply`, `git diff` the locale file and confirm no
+              existing content was silently dropped.
+            - If a German source has no frontmatter, make sure the locale file does not end
+              up with `last_update: {}` (it breaks the build).
+            - In source/media lists, never translate work titles. Keep original DE/EN source
+              links (flag-prefixed 🇩🇪/🇬🇧/🇫🇷, never 🇺🇸) and add target-locale equivalents
+              alongside them rather than replacing them.
+            - Run the Step 5 build check for both locales (`yarn build --locale en`,
+              `yarn build --locale fr`) and fix errors until both pass.
+            - Do not commit, push, or open a PR; a later workflow step does that. Only
+              modify files under `i18n/`.
+            - Write your Step 6 summary to `/tmp/translation-summary.md`.
+
+      - name: Prepare PR body
+        if: steps.changes.outputs.count != '0'
+        run: |
+          [ -s /tmp/translation-summary.md ] || echo "Claude did not write a summary. Review the diff carefully." > /tmp/translation-summary.md
+          printf '\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n' >> /tmp/translation-summary.md
+
+      - name: Open translation PR
+        if: steps.changes.outputs.count != '0'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          base: develop
+          branch: auto-translate/${{ github.sha }}
+          add-paths: i18n/**
+          commit-message: "i18n: auto-translate docs changed in ${{ github.sha }}"
+          title: "i18n: auto-translate docs changed in ${{ github.sha }}"
+          body-path: /tmp/translation-summary.md
+          delete-branch: true
