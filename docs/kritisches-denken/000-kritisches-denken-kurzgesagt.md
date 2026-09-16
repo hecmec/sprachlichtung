@@ -32,10 +32,22 @@ Wenn Sie sich fragen, ob dieses Buch für Sie geeignet ist, dann lesen Sie hier 
 
 ## Was ist Kritisches Denken ?
 
-Wir sind Wesen mit Zielen, Werten und Überzeugungen. Um unsere **Ziele** zu erreichen und unsere **Werte** zu leben, handeln wir und dazu müssen wir **Entscheidungen** treffen.\
+**Kritisches Denken** ist eine Lebensversicherung.
+
+**Kritisches Denken** ist eine Art nicht blind gegen die Wand zu fahren oder in den Abgrund zu springen.
+
+**Kritisches Denken** hilft uns sicher zu gehen, dass wir gute Gründe haben für alles was wir glauben oder meinen, bevor wir handeln.
+
+Oder etwas akademischer: **Kritisches Denken** beschreibt all die Fähigkeiten und Einstellungen, die es uns erlauben, Wissen von Meinung zu unterscheiden: wahr von falsch, gute von schlechten Gründen, schlüssige Argumente von Scheinargumenten, Schein von Sein zu trennen. 
+
+## Wir sind handelnde Wesen und müssen ständig entscheiden
+
+Wir sind Wesen mit Zielen, Werten und Überzeugungen. Um unsere **Ziele** zu erreichen und unsere **Werte** zu leben, handeln wir und dazu müssen wir **Entscheidungen** treffen.
+
 Wir entscheiden uns jeden Tag, oft automatisch oder unbewusst, für das eine oder das andere auf der Grundlage von Behauptungen oder Meinungen über die Welt.
 
-Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen: von Dir selbst, von Freunden und Mitmenschen, von Organisationen und von Firmen, die dir sagen wollen, was gut für dich ist.\
+Als **kritisch denkender** Mensch **hinterfragst** du alle Behauptungen, Meinungen und Überzeugungen: von Dir selbst, von Freunden und Mitmenschen, vom Staat, von Organisationen und von Firmen ... von allen, die Dir sagen wollen, was gut für dich ist.
+
 Um deine kurz- oder längerfristigen Ziele zu erreichen, musst du **gut informierte Entscheidungen** treffen, für dich, deine Mitmenschen und deine Umwelt.
 
 Entscheidungen treffen wir, um **zu handeln**.
