@@ -12,6 +12,10 @@ on:
       - "docs/**/*.md"
       - "docs/**/*.mdx"
   workflow_dispatch:
+    inputs:
+      base:
+        description: "Translate German pages changed since this commit (default: HEAD~1)"
+        required: false
 
 concurrency:
   group: auto-translate-develop
@@ -20,7 +24,6 @@ concurrency:
 permissions:
   contents: write
   pull-requests: write
-  id-token: write
 
 jobs:
   translate:
@@ -34,7 +37,7 @@ jobs:
       - name: Collect changed German pages
         id: changes
         run: |
-          BEFORE="${{ github.event.before }}"
+          BEFORE="${{ inputs.base || github.event.before }}"
           if [[ -z "$BEFORE" || "$BEFORE" =~ ^0+$ ]] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
             BEFORE="$(git rev-parse HEAD~1)"
           fi
@@ -66,16 +69,13 @@ jobs:
         if: steps.changes.outputs.count != '0'
         run: yarn install --frozen-lockfile
 
+      # claude-code-action does not accept `push` events, so run the Claude Code CLI directly.
       - name: Translate with Claude
         if: steps.changes.outputs.count != '0'
-        uses: anthropics/claude-code-action@v1
-        with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          claude_args: >-
-            --model claude-opus-5
-            --max-turns 300
-            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(yarn:*),Bash(node:*),Bash(git diff:*),Bash(git status:*),Bash(git rm:*),Bash(cp:*),Bash(ls:*),Bash(grep:*),Bash(cat:*),Bash(mkdir:*)"
-          prompt: |
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          PROMPT: |
             You are running unattended in CI for the SprachLichtung Docusaurus site.
 
             Read `.claude/skills/translate-docs-folder/SKILL.md` and follow it to update the
@@ -114,6 +114,17 @@ jobs:
             - Do not commit, push, or open a PR; a later workflow step does that. Only
               modify files under `i18n/`.
             - Write your Step 6 summary to `/tmp/translation-summary.md`.
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ] && [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
+            echo "::error::Set the ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN repository secret."
+            exit 1
+          fi
+          npm install -g @anthropic-ai/claude-code
+          claude -p "$PROMPT" \
+            --model claude-opus-5 \
+            --max-turns 300 \
+            --output-format stream-json --verbose \
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(yarn:*),Bash(node:*),Bash(git diff:*),Bash(git status:*),Bash(git rm:*),Bash(cp:*),Bash(ls:*),Bash(grep:*),Bash(cat:*),Bash(mkdir:*)"
 
       - name: Prepare PR body
         if: steps.changes.outputs.count != '0'
