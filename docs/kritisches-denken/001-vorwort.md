@@ -29,7 +29,7 @@ draft: false
 
   Eine gut funktionierende politische Gemeinschaft lebt von einem gesunden Dialog und der braucht Bürger:innen, die kritisch, fair und konstruktiv mitdenken.
 
-- **Persönliches**: Wenn sie glauben das Politik nur was für Politiker ist, dann kommen Sie hier trotzdem auf Ihre Kosten. Sie können hier vielleicht lernen, wie Sie beim nächsten Familientreffen mit ihrem Onkel so diskutieren, dass Sie beide was lernen ohne sich gleich an die Gurgel zu springen.
+- **Persönliches**: Wenn Sie glauben, dass Politik nur was für Politiker ist, dann kommen Sie hier trotzdem auf Ihre Kosten. Sie können hier vielleicht lernen, wie Sie beim nächsten Familientreffen mit Ihrem Onkel so diskutieren, dass Sie beide was lernen, ohne sich gleich an die Gurgel zu springen.
 
 - **Verschiedenes**: Verschiedene Autoren behandeln dieses Thema sehr unterschiedlich, abhängig von persönlichen Vorlieben und Bedürfnissen.
   Manche zeigen uns in erster Linie wie wichtig das kritische Denken im Alltag ist.
@@ -43,7 +43,8 @@ draft: false
 - Diese Seiten wollen zugleich **Einführung** und **Handbuch** oder **Gebrauchsanweisung** zum Thema Kritisches Denken sein.
 - Alles was Sie hier finden ist alt bekannt, aber leider nicht immer leicht zu finden oder verstreut im Netz.
 - Sie sollten hier die **Dinge finden die wichtig sind** und Verweise zu weiterführender Literatur (wenn möglich online).
-- Dieses Tutorium ist sehr stark strukturiert. Sie haben ein Menu für das ganze Buch und jeder Artikel hat sein Menu. Alles ist gegliedert mit Punkten und Unterpunkten. Wenn Sie philosophische Ergüsse bevorzugen, dann lesen besser Sartre oder Adorno und wenn sie lieber Prosa lesen, dann kaufen Sie sich einen Roman.
-  Alles hat seinen Platz &mdash; Hier wollen wir versuchen **klar und deutlich** sein.
-- Der **Originaltext ist in Deutsch**. Die Englische und Französische Übersetzung habe ich an künstliche Intelligenz delegiert und meist korrigiert, aber eben nicht immer.
-  Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen sie doch einfach mal im deutschen Originaltext nach.
+- Dieses Tutorium ist **sehr stark strukturiert** und dies mit Absicht. Sie haben ein Menu für das ganze Buch und jeder Artikel hat sein Menu. Alles ist gegliedert mit Punkten und Unterpunkten. Wenn Sie philosophische Essaies bevorzugen, dann lesen Sie besser Sartre oder Adorno, und wenn Sie lieber Prosa lesen, dann kaufen Sie sich einen Roman.
+  Alles hat seinen Platz &mdash; Hier wollen wir versuchen **kurz, klar und deutlich** zu sein.
+- Der **Originaltext ist in Deutsch**. Die Englische und Französische Übersetzung habe ich an künstliche Intelligenz delegiert und manchmal korrigiert, aber eben nicht immer.
+
+  Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen Sie doch einfach mal im deutschen Originaltext nach.
