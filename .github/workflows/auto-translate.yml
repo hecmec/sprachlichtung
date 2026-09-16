@@ -43,12 +43,13 @@ jobs:
           fi
 
           # Skip anything under a `_`-prefixed file or folder (drafts, excluded from build).
-          git diff --name-status --no-renames "$BEFORE" HEAD -- docs \
+          # quotePath=false keeps non-ASCII paths (e.g. einführung) unescaped and unquoted.
+          git -c core.quotePath=false diff --name-status --no-renames "$BEFORE" HEAD -- docs \
             | grep -E '\.mdx?$' \
             | grep -vE '(^|/)_' > /tmp/changes.txt || true
 
-          CHANGED="$(awk '$1 != "D" {print $2}' /tmp/changes.txt)"
-          DELETED="$(awk '$1 == "D" {print $2}' /tmp/changes.txt)"
+          CHANGED="$(grep -v $'^D\t' /tmp/changes.txt | cut -f2 || true)"
+          DELETED="$(grep $'^D\t' /tmp/changes.txt | cut -f2 || true)"
 
           echo "Changed:"; echo "$CHANGED"
           echo "Deleted:"; echo "$DELETED"
