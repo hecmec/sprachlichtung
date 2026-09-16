@@ -119,6 +119,8 @@ jobs:
             echo "::error::Set the ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN repository secret."
             exit 1
           fi
+          # Prefer the subscription token; an API key would otherwise take precedence.
+          if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then unset ANTHROPIC_API_KEY; fi
           npm install -g @anthropic-ai/claude-code
           claude -p "$PROMPT" \
             --model claude-opus-5 \
