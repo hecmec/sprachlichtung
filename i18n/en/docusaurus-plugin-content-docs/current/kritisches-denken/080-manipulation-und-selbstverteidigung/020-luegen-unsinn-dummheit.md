@@ -1,5 +1,4 @@
 ---
-id: 020-luegen-unsinn-dummheit
 title: Lies, Nonsense, Stupidity
 sidebar_position: 2
 sidebar_label: Lies, Nonsense

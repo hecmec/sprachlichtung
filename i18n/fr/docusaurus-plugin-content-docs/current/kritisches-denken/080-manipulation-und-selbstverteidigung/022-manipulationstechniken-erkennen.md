@@ -1,6 +1,5 @@
 ---
 title: Reconnaître les techniques de manipulation
-id: reconnaitre-les-techniques-de-manipulation
 sidebar_position: 2
 sidebar_label: Techniques de manipulation
 description: Un aperçu des différentes formes de manipulation et comment les identifier

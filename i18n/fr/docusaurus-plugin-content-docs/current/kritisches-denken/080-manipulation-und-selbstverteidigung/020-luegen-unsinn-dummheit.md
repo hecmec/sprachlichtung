@@ -2,7 +2,6 @@
 title: Mensonges, foutaises, bêtise
 sidebar_position: 2
 sidebar_label: Mensonges, foutaises
-id: mensonges-foutaises-betise
 description: Un aperçu des différentes formes de manipulation et de la manière de les identifier
 keywords:
   - Mensonges

@@ -1,5 +1,4 @@
 ---
-id: 030-intellektuelle-laster-hindernisse-fuer-gutes-denken
 title: Intellectual Vices — Obstacles to Good Thinking
 sidebar_position: 3
 description: An analysis of intellectual vices as character traits that hinder critical thinking and the acquisition of knowledge

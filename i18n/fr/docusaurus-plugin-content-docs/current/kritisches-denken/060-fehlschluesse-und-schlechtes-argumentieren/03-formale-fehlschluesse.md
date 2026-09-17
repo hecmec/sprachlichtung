@@ -1,7 +1,6 @@
 ---
 title: Sophismes formels
 sidebar_label: Sophismes formels
-id: sophismes_formels
 sidebar_position: 3
 description: Analyse des sophismes formels courants qui, indépendamment du contenu, enfreignent les règles de la structure logique
 keywords:

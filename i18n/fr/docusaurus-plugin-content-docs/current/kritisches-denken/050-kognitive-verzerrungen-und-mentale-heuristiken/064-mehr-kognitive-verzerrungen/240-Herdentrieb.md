@@ -1,6 +1,5 @@
 ---
 title: Instinct grégaire
-id: instinct_gregaire
 sidebar_label: Instinct grégaire
 sidebar_position: 24
 description: L'instinct grégaire désigne le phénomène selon lequel les individus ont tendance à suivre les opinions, comportements ou décisions d'un groupe, souvent sans les remettre en question de manière critique.

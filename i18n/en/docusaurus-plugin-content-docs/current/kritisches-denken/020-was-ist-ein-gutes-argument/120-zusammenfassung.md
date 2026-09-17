@@ -1,7 +1,6 @@
 ---
 title: Summary
 sidebar_label: Summary
-id: summary
 sidebar_position: 12
 description: Summary of the most important insights about good arguments in critical thinking
 keywords:

@@ -1,5 +1,5 @@
 ---
-id: grundhaltung_des_kritischen_denkens
+id: grundhaltung-des-kritischen-denkens
 title: Die Grundhaltung des kritischen Denkens
 sidebar_position: 40
 sidebar_label: "Grundhaltung"

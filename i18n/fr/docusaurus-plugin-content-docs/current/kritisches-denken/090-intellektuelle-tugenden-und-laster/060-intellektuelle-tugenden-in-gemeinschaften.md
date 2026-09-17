@@ -1,6 +1,5 @@
 ---
 title: Les vertus intellectuelles dans les communautés
-id: vertus-intellectuelles-dans-les-communautes
 sidebar_position: 6
 description: L'importance et la promotion des vertus intellectuelles dans différents contextes communautaires
 keywords:

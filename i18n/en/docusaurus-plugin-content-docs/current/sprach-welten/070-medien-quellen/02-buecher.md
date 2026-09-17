@@ -14,7 +14,6 @@ keywords:
 last_update:
   date: 2025-06-12
   author: Immanuel Lupinus
-id: books_language_philosophy
 translation_status: auto
 custom_translation_overwritten: false
 ---

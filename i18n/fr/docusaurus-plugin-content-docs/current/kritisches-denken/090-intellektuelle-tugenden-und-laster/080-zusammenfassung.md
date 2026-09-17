@@ -1,5 +1,4 @@
 ---
-id: resume
 title: Résumé
 sidebar_position: 8
 description: Résumé des principaux enseignements sur les vertus et vices intellectuels

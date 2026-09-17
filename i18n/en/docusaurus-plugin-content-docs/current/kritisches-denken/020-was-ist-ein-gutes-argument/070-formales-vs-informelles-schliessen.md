@@ -1,7 +1,6 @@
 ---
 title: Formal vs. informal reasoning
 sidebar_label: Formal vs. informal reasoning
-id: formal_vs_informal_reasoning
 sidebar_position: 7
 description: The differences between formal and informal logical reasoning in critical thinking
 keywords:

@@ -10,7 +10,6 @@ keywords:
 last_update:
   date: 2025-05-22
   author: Immanuel Lupinus
-id: the_language_game_of_asserting
 translation_status: auto
 custom_translation_overwritten: false
 ---

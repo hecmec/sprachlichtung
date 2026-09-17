@@ -1,5 +1,4 @@
 ---
-id: charlie_kirk_sophiste_politique
 title: Charlie Kirk, un sophiste politique
 title_meta: Charlie Kirk, un sophiste politique et maître de la rhétorique manipulatrice
 sidebar_label: Charlie Kirk

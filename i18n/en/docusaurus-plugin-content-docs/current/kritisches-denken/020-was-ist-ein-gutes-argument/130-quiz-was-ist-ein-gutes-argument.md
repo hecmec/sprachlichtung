@@ -2,7 +2,6 @@
 title: Quiz - What is a good argument?
 sidebar_position: 13
 sidebar_label: Quiz
-id: quiz_what_is_a_good_argument
 description: A quiz to check your understanding of good arguments in critical thinking
 keywords:
   - quiz

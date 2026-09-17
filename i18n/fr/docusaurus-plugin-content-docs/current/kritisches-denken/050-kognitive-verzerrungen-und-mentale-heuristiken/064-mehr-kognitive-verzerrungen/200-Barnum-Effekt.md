@@ -1,7 +1,6 @@
 ---
 title: Effet Barnum
 sidebar_label: Effet Barnum
-id: effet_barnum
 sidebar_position: 20
 description: L'effet Barnum décrit la tendance à accepter comme pertinentes et personnellement justes des affirmations vagues et générales sur soi-même.
 keywords:

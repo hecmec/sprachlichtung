@@ -1,7 +1,6 @@
 ---
 title: Bystander effect
 sidebar_position: 280
-id: bystander_effect
 description: The probability of helping decreases the more others are present &mdash; responsibility diffuses and uncertainty increases.
 keywords:
   - cognitive biases

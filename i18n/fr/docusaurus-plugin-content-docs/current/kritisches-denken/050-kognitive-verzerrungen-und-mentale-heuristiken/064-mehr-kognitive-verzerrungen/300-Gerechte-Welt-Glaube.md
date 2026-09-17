@@ -1,6 +1,5 @@
 ---
 title: Croyance en un monde juste
-id: croyance_en_un_monde_juste
 sidebar_label: Croyance en un monde juste
 sidebar_position: 300
 description: La croyance en un monde juste désigne la tendance à penser que le monde est fondamentalement juste et que les gens obtiennent ce qu'ils méritent.

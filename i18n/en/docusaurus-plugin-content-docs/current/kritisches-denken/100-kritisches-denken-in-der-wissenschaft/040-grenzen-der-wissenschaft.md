@@ -1,5 +1,4 @@
 ---
-id: 040-grenzen-der-wissenschaft
 title: The Limits of Science
 sidebar_position: 4
 description: Methodological and practical limits of science, as well as alternative forms of knowledge

@@ -1,5 +1,4 @@
 ---
-id: 080-zusammenfassung
 title: Summary
 sidebar_position: 8
 description: Summary of the key insights about manipulation and self-defence strategies

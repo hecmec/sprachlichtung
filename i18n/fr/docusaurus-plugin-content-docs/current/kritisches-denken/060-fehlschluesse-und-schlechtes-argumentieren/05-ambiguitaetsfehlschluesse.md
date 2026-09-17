@@ -2,7 +2,6 @@
 title: Sophismes d'ambiguïté
 sidebar_position: 5
 sidebar_label: Sophismes d'ambiguïté
-id: sophismes_ambiguite
 description: Discussion des sophismes d'ambiguïté, qui naissent d'ambiguïtés ou d'imprécisions dans le langage
 keywords:
   - sophismes d'ambiguïté

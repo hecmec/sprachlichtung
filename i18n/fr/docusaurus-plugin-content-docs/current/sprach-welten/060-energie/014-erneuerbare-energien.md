@@ -1,5 +1,4 @@
 ---
-id: energies_renouvelables
 title: Énergies renouvelables
 title_meta: Énergies renouvelables
 sidebar_label: Énergies renouvelables

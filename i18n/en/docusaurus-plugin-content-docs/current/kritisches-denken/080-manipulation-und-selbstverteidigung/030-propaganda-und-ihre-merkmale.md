@@ -1,5 +1,4 @@
 ---
-id: 030-propaganda-und-ihre-merkmale
 title: Propaganda and Its Characteristics
 sidebar_position: 3
 description: Systematic forms of manipulation through propaganda and how to recognise them

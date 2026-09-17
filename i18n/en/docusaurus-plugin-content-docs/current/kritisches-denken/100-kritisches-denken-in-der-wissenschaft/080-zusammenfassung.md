@@ -1,5 +1,4 @@
 ---
-id: 080-zusammenfassung
 title: Summary
 sidebar_position: 8
 description: Summary of the key points on the topic of science and its methods

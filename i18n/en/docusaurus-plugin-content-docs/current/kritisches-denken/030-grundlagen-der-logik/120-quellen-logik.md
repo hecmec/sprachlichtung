@@ -1,5 +1,4 @@
 ---
-id: quellen_logik
 title: Sources
 sidebar_position: 120
 description: "Sources and further reading on the fundamentals of logic: freely available online textbooks and standard German-language introductions."

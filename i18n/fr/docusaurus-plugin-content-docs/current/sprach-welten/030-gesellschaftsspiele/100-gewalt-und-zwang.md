@@ -13,7 +13,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-id: violence_et_contrainte
 translation_status: auto
 custom_translation_overwritten: false
 ---

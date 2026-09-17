@@ -1,5 +1,4 @@
 ---
-id: energie_humaine
 title: Énergie humaine
 title_meta: Énergie humaine
 sidebar_label: Énergie humaine

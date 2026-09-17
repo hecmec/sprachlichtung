@@ -1,5 +1,4 @@
 ---
-id: 060-kritisches-denken-in-sozialen-medien
 title: Critical Thinking on Social Media
 sidebar_position: 6
 sidebar_label: Social Media

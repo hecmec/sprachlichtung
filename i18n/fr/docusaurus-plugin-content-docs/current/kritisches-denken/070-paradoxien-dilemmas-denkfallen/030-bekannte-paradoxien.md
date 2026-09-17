@@ -1,6 +1,5 @@
 ---
 title: Paradoxes connus
-id: paradoxes-connus
 sidebar_label: Paradoxes connus
 sidebar_position: 3
 description: Aperçu de paradoxes célèbres comme le paradoxe du menteur, le paradoxe de Russell et le dilemme du prisonnier

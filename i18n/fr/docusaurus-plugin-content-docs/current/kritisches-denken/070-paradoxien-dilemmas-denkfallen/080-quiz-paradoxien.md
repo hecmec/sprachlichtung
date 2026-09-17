@@ -1,6 +1,5 @@
 ---
 title: Quiz - Paradoxes
-id: quiz_paradoxes
 sidebar_position: 8
 sidebar_label: Quiz
 description: Un quiz pour tester la compréhension des différents types de paradoxes et de leurs pistes de solution.

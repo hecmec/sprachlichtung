@@ -25,19 +25,19 @@ last_update:
 - **[Warum ist kritisches Denken wichtig?](./020-warum-ist-kritisches-denken-wichtig.md)**  
   Warum kritisches Denken eine Schlüsselkompetenz ist und wie es Euch im Alltag, Studium und Beruf weiterbringt.
 
-- **[Mythen über kritisches Denken](./030-mythen-über-kritisches-denken.md)**  
+- **[Mythen über kritisches Denken](./030-mythen-ueber-kritisches-denken.md)**  
   Die wichtigsten Missverständnisse und Mythen rund um das kritische Denken.
 
 - **[Die Grundhaltung des kritischen Denkens](./040-grundhaltung-des-kritischen-denkens.md)**  
   Welche Geisteshaltung und Eigenschaften kritisches Denken fördern.
 
-- **[Hindernisse für kritisches Denken](./050-hindernisse-für-kritisches-denken.md)**  
+- **[Hindernisse für kritisches Denken](./050-hindernisse-fuer-kritisches-denken.md)**  
   Was uns vom kritischen Denken abhält &mdash; von Denkfehlern bis Gruppendruck.
 
 - **[Der Prozess des kritischen Denkens](./060-der-prozess-des-kritischen-denkens.md)**  
   Die wichtigsten Schritte des kritischen Denkens von der Problemerkennung bis zur Reflexion.
 
-- **[Übung: Selbsteinschätzung](./_070-übung-selbsteinschätzung.md)**  
+- **[Übung: Selbsteinschätzung](./_070-uebung-selbsteinschaetzung.md)**  
   Teste und reflektiere deine eigenen Fähigkeiten im kritischen Denken.
 
 - **[Zusammenfassung der Einführung](./_080-zusammenfassung.md)**  

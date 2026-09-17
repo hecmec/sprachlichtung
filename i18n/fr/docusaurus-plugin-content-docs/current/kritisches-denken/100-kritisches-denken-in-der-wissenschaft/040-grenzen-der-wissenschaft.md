@@ -1,6 +1,5 @@
 ---
 title: Les limites de la science
-id: grenzen-der-wissenschaft
 sidebar_label: Les limites de la science
 sidebar_position: 4
 description: Limites méthodologiques et pratiques de la science ainsi que les formes alternatives de connaissance

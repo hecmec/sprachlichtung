@@ -1,5 +1,4 @@
 ---
-id: obstacles-a-la-pensee-critique-et-leur-depassement
 title: Les obstacles à la pensée critique et leur dépassement
 sidebar_label: Obstacles et leur dépassement
 sidebar_position: 3

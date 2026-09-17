@@ -2,7 +2,6 @@
 title: Évaluer de façon critique les affirmations scientifiques
 sidebar_label: Évaluer les affirmations scientifiques
 sidebar_position: 5
-id: evaluer-affirmations-scientifiques
 description: Critères pour distinguer la science de la pseudoscience et pour évaluer de façon critique les études scientifiques
 keywords:
   - pseudoscience

@@ -1,7 +1,6 @@
 ---
 title: Effet boomerang
 sidebar_label: Effet boomerang
-id: effet_boomerang
 sidebar_position: 19
 description: L'effet boomerang décrit le phénomène selon lequel les tentatives de convaincre quelqu'un d'une opinion peuvent amener cette personne à défendre encore plus fortement son opinion initiale.
 keywords:

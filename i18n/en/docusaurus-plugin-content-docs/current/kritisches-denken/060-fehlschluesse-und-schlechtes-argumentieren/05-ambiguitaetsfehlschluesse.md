@@ -1,5 +1,4 @@
 ---
-id: 05-ambiguitaetsfehlschluesse
 title: Fallacies of Ambiguity
 sidebar_position: 5
 description: Discussion of fallacies of ambiguity, which arise from ambiguities or vagueness in language

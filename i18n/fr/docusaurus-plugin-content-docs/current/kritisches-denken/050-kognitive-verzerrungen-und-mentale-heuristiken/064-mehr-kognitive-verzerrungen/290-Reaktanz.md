@@ -1,6 +1,5 @@
 ---
 title: Réactance
-id: reactance
 sidebar_label: Réactance
 sidebar_position: 290
 description: La réactance décrit la tendance des individus à réagir par la résistance ou l'opposition lorsque leur liberté est restreinte.

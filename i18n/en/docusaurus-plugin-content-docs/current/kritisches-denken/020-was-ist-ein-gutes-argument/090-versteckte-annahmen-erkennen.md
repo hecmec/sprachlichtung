@@ -1,7 +1,6 @@
 ---
 title: Recognizing hidden assumptions
 sidebar_label: Recognizing hidden assumptions
-id: recognizing_hidden_assumptions
 sidebar_position: 9
 description: Methods for identifying and analyzing hidden assumptions in arguments
 keywords:

@@ -1,5 +1,4 @@
 ---
-id: strategies-pratiques-pour-la-pensee-critique
 title: Stratégies pratiques pour la pensée critique
 sidebar_label: Stratégies pratiques
 sidebar_position: 2

@@ -1,5 +1,4 @@
 ---
-id: montee_des_egoismes
 title: "Résumé : la lutte contre la montée des égoïsmes"
 title_meta: "Traduction de mon résumé : Comment lutter contre la montée des égoïsmes ? Najat Vallaud-Belkacem débat avec le sociologue Camille Peugny"
 sidebar_label: Montée des égoïsmes

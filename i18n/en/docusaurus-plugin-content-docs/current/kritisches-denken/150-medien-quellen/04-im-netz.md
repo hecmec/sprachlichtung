@@ -16,7 +16,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 2/5
 draft: false
-id: websites
 custom_translation_overwritten: false
 translation_status: manual
 ---

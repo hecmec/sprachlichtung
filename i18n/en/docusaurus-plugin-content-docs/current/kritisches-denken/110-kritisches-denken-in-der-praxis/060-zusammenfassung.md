@@ -1,5 +1,4 @@
 ---
-id: 060-zusammenfassung
 title: Summary
 sidebar_position: 6
 description: Summary of the key points on the practical application of critical thinking

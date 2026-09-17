@@ -1,6 +1,5 @@
 ---
 title: "Vices intellectuels : obstacles à la bonne pensée"
-id: vices-intellectuels-obstacles-pour-la-bonne-pensee
 sidebar_label: Vices intellectuels
 sidebar_position: 3
 description: Analyse des vices intellectuels en tant que traits de caractère qui entravent la pensée critique et l'acquisition de connaissances

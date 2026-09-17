@@ -17,7 +17,6 @@ last_update:
 completeness: 3/5
 draft: false
 image: /img/sw/charlie-kirk-memorial-FS.webp
-id: charlie_kirk_a_political_sophist
 translation_status: auto
 custom_translation_overwritten: false
 ---

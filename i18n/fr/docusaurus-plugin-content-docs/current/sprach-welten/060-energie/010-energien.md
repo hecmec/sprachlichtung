@@ -1,5 +1,4 @@
 ---
-id: energie_sources_et_formes
 title: "Énergie : sources et formes"
 title_meta: "Énergie : sources et formes"
 sidebar_label: Énergies

@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction
 sidebar_label: Introduction
 sidebar_position: 1
 description: Introduction au concept de vertus et de vices intellectuels comme aspect fondamental de la pensée critique

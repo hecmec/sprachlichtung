@@ -1,5 +1,4 @@
 ---
-id: quiz-science-et-ses-methodes
 title: Quiz - La science et ses méthodes
 sidebar_position: 9
 sidebar_label: Quiz

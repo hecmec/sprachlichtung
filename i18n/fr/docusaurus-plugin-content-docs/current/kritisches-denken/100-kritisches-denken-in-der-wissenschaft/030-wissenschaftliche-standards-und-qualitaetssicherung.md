@@ -1,5 +1,4 @@
 ---
-id: wissenschaftliche-standards-und-qualitaetssicherung
 title: Normes scientifiques et assurance qualité
 sidebar_label: Normes scientifiques et assurance qualité
 sidebar_position: 3

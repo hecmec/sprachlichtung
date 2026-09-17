@@ -1,6 +1,5 @@
 ---
 title: "Exercice : reconnaître les biais cognitifs dans ses propres processus de pensée"
-id: exercice_reconnaitre_biais_cognitifs
 sidebar_position: 70
 sidebar_label: "Exercice : reconnaître les biais cognitifs"
 description: Exercice pratique d'auto-observation et d'identification des biais cognitifs dans sa propre pensée

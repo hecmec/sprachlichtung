@@ -1,5 +1,4 @@
 ---
-id: einfuhrung_politische_argumentation
 title: Le jeu de langage de l'argumentation politique
 title_meta: Le jeu de langage de l'argumentation politique
 sidebar_label: Introduction à l'argumentation politique

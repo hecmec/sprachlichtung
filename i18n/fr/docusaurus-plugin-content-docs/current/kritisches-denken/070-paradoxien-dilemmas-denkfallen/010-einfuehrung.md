@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction
 sidebar_label: Introduction
 sidebar_position: 1
 description: Introduction au concept de paradoxes en tant que phénomènes fascinants qui mettent au défi notre pensée critique

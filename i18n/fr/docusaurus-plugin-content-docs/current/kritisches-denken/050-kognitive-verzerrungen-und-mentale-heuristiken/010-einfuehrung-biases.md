@@ -1,5 +1,5 @@
 ---
-id: 010-einfuehrung-biases
+id: "010-einfuehrung-biases"
 title: Introduction
 sidebar_label: Introduction aux biais cognitifs
 sidebar_position: 10

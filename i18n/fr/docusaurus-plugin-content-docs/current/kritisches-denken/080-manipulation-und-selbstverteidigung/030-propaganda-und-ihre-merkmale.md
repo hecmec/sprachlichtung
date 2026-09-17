@@ -1,5 +1,4 @@
 ---
-id: propagande-et-ses-caracteristiques
 title: La propagande et ses caractéristiques
 sidebar_position: 3
 description: Les formes systématiques de manipulation par la propagande et comment les reconnaître

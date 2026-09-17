@@ -1,5 +1,4 @@
 ---
-id: 070-uebung-analyse-von-manipulationsversuchen
 title: Exercise — Analysing Manipulation Attempts
 sidebar_position: 7
 sidebar_label: Exercise — Analysing Manipulation

@@ -1,7 +1,6 @@
 ---
 title: Patterns of valid arguments
 sidebar_label: Patterns of valid arguments
-id: patterns_of_valid_arguments
 sidebar_position: 4
 description: An overview of various patterns of valid arguments and their application in critical thinking
 keywords:

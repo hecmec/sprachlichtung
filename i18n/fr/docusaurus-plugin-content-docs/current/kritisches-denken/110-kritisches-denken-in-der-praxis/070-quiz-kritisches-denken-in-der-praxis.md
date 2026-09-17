@@ -1,6 +1,5 @@
 ---
 title: Quiz - La pensée critique en pratique
-id: quiz-pensee-critique-en-pratique
 sidebar_position: 7
 sidebar_label: Quiz
 description: Auto-évaluation de la compréhension de l'application pratique de la pensée critique

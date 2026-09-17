@@ -1,5 +1,4 @@
 ---
-id: 040-paradoxien-und-ihre-bedeutung-fuer-das-denken
 title: Paradoxes and Their Significance for Thinking
 sidebar_position: 4
 description: How paradoxes influence our thinking and why they are important for various disciplines.

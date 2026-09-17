@@ -2,7 +2,6 @@
 title: Résumé
 sidebar_position: 9
 sidebar_label: Résumé
-id: resume
 description: Résumé des concepts les plus importants concernant les sophismes et leur importance pour la pensée critique
 keywords:
   - résumé des sophismes

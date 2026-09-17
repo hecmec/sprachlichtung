@@ -1,5 +1,4 @@
 ---
-id: energie_vegetale
 title: Énergie végétale
 title_meta: Énergie végétale
 sidebar_label: Énergie végétale

@@ -11,7 +11,6 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-id: wittgensteins_concept_of_the_language_game
 translation_status: auto
 custom_translation_overwritten: false
 ---

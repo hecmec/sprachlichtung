@@ -2,7 +2,6 @@
 title: Quiz - Language pitfalls
 sidebar_position: 9
 sidebar_label: Quiz
-id: quiz_language_pitfalls
 description: Quiz to check your understanding of language traps and linguistic pitfalls in critical thinking
 keywords:
   - quiz

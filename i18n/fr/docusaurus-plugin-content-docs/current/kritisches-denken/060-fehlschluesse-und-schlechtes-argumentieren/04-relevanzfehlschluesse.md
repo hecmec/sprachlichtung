@@ -2,7 +2,6 @@
 title: Sophismes de pertinence
 sidebar_position: 4
 sidebar_label: Sophismes de pertinence
-id: sophismes_de_pertinence
 description: Explication des sophismes de pertinence, dans lesquels les prémisses sont sans rapport avec la conclusion ou ne suffisent pas à la soutenir
 keywords:
   - Sophismes de pertinence

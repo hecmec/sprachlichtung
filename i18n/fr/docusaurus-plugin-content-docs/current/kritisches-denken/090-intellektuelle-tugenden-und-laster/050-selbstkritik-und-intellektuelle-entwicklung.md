@@ -1,6 +1,5 @@
 ---
 title: Autocritique et développement intellectuel
-id: autocritique-et-developpement-intellectuel
 sidebar_position: 5
 sidebar_label: Autocritique et développement intellectuel
 description: L'importance de l'autoréflexion et de l'autocritique constructive pour le développement intellectuel

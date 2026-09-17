@@ -1,7 +1,6 @@
 ---
 title: Effet de halo
 sidebar_label: Effet de halo
-id: effet_de_halo
 sidebar_position: 22
 description: L'effet de halo est la tendance à laisser un trait marquant (par ex. l'attractivité, le statut, la sympathie) déformer notre jugement global sur des personnes, des produits ou des idées et à éclipser leurs autres caractéristiques.
 keywords:

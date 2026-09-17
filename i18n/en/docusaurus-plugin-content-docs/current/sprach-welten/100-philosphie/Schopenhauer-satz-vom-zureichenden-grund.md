@@ -10,7 +10,6 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-id: schopenhauer_sufficient_reason
 translation_status: auto
 custom_translation_overwritten: false
 ---

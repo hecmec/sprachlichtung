@@ -13,7 +13,6 @@ keywords:
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-id: articles_language_philosophy
 translation_status: auto
 custom_translation_overwritten: false
 ---

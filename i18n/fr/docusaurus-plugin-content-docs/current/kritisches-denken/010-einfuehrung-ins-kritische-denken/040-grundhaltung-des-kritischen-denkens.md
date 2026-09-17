@@ -1,5 +1,5 @@
 ---
-id: grundhaltung_des_kritischen_denkens
+id: grundhaltung-des-kritischen-denkens
 title: L'attitude fondamentale de la pensée critique
 sidebar_position: 40
 sidebar_label: Attitude fondamentale

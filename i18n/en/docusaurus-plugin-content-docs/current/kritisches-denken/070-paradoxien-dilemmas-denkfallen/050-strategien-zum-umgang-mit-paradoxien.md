@@ -1,5 +1,4 @@
 ---
-id: 050-strategien-zum-umgang-mit-paradoxien
 title: Strategies for Dealing with Paradoxes
 sidebar_position: 5
 description: Methods and approaches for handling and resolving paradoxical situations.

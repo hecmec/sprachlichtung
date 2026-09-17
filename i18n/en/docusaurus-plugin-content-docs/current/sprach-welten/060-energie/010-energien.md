@@ -16,7 +16,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-id: energy_sources_and_forms
 translation_status: auto
 custom_translation_overwritten: false
 ---

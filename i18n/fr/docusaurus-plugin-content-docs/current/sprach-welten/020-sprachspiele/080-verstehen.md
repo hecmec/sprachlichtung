@@ -1,7 +1,6 @@
 ---
 title: Comprendre
 sidebar_position: 8
-id: comprendre
 description: Le jeu de langage de la compréhension
 keywords:
   - jeux de langage

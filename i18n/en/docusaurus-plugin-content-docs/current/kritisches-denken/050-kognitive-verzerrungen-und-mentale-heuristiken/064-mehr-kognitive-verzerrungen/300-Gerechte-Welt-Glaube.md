@@ -14,7 +14,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 1/5
 draft: false
-id: gerechte-welt-glaube
 translation_status: auto
 custom_translation_overwritten: false
 ---

@@ -1,5 +1,4 @@
 ---
-id: webseiten
 title: Sites web et présences en ligne sur la pensée critique
 sidebar_position: 4
 sidebar_label: Sites web

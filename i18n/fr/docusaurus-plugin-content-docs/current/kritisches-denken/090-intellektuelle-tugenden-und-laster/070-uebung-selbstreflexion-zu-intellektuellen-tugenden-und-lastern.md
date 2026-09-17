@@ -1,5 +1,4 @@
 ---
-id: exercice-autoreflexion-vertus-vices-intellectuels
 title: Exercice - Autoréflexion sur les vertus et vices intellectuels
 sidebar_position: 7
 description: Exercice pratique d'autoréflexion et de développement de ses propres traits de caractère intellectuels

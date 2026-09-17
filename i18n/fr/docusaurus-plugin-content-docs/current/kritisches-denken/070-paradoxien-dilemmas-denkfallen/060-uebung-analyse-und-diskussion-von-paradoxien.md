@@ -1,6 +1,5 @@
 ---
 title: Exercice - Analyse et discussion de paradoxes
-id: exercice_analyse_et_discussion_de_paradoxes
 sidebar_label: Exercice - Analyse de paradoxes
 sidebar_position: 6
 description: Exercices pratiques d'analyse de différents paradoxes avec des pistes de solution.

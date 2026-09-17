@@ -1,5 +1,4 @@
 ---
-id: podcasts_langue_philosophie
 title: Podcasts sur la langue et la philosophie
 sidebar_position: 1
 sidebar_label: Podcasts

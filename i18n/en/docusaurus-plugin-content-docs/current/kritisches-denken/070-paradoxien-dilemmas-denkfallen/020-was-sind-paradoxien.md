@@ -1,5 +1,4 @@
 ---
-id: 020-was-sind-paradoxien
 title: What Are Paradoxes?
 sidebar_position: 2
 description: Definition and classification of paradoxes as contradictory statements with various characteristics and types

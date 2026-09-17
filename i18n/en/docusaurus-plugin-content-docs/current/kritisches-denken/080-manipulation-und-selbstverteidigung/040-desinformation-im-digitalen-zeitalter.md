@@ -1,5 +1,4 @@
 ---
-id: 040-desinformation-im-digitalen-zeitalter
 title: Disinformation in the Digital Age
 sidebar_position: 4
 sidebar_label: Digital Disinformation

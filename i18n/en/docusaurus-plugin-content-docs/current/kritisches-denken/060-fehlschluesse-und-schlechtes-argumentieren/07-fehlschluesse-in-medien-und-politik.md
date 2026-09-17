@@ -1,5 +1,4 @@
 ---
-id: 07-fehlschluesse-in-medien-und-politik
 title: Fallacies in Media and Politics
 sidebar_position: 7
 description: Examination of typical fallacies in the media and political discourse, and strategies for recognising them

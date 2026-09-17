@@ -2,7 +2,6 @@
 title: La séduction comme manipulation langagière
 sidebar_label: Séduire
 sidebar_position: 7
-id: la_seduction_comme_manipulation_langagiere
 description: Le jeu de langage de la séduction comme enlèvement par le langage
 keywords:
   - jeux de langage

@@ -1,7 +1,6 @@
 ---
 title: Reactance
 sidebar_position: 290
-id: reactance
 description: Reactance describes people's tendency to react to restrictions of their freedom with resistance or defiance.
 keywords:
   - cognitive biases

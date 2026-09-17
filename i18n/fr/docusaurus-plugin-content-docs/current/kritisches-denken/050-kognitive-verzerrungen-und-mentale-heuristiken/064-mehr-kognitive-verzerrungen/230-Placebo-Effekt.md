@@ -1,6 +1,5 @@
 ---
 title: Effet placebo
-id: effet_placebo
 sidebar_label: Effet placebo
 sidebar_position: 23
 description: L'effet placebo désigne le phénomène selon lequel une attente positive à l'égard d'un traitement ou d'une mesure peut entraîner une amélioration réelle de l'état de santé, même si le traitement n'a aucune efficacité spécifique.

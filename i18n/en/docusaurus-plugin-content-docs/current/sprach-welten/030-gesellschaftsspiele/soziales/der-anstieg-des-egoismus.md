@@ -13,7 +13,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
-id: the_rise_of_egoism
 translation_status: auto
 custom_translation_overwritten: false
 ---

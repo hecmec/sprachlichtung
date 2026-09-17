@@ -1,7 +1,6 @@
 ---
 title: La notion de jeu de langage chez Wittgenstein
 sidebar_position: 8
-id: la_notion_de_jeu_de_langage_chez_wittgenstein
 description: Le concept de jeu de langage chez Ludwig Wittgenstein et sa portée
 keywords:
   - jeux de langage

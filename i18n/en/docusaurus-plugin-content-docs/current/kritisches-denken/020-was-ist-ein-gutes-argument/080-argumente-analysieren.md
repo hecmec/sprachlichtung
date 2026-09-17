@@ -1,7 +1,6 @@
 ---
 title: Analyzing arguments
 sidebar_label: Analyzing arguments
-id: analyzing_arguments
 sidebar_position: 8
 description: "How to break down an argument: exposing premises and conclusion and applying the Toulmin model in practice"
 keywords:

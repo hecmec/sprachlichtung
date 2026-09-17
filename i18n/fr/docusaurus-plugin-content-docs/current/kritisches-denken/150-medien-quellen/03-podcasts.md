@@ -1,5 +1,4 @@
 ---
-id: podcasts
 title: Podcasts sur la pensée critique
 sidebar_position: 3
 sidebar_label: Podcasts

@@ -1,5 +1,4 @@
 ---
-id: developpement-plan-personnel-pensee-critique
 title: Développer un plan personnel de pensée critique
 sidebar_label: Plan personnel de pensée critique
 sidebar_position: 4

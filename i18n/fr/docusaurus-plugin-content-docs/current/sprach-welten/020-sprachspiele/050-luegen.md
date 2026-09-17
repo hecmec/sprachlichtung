@@ -2,7 +2,6 @@
 title: Mentir, tromper et duper
 sidebar_label: Mentir
 sidebar_position: 5
-id: mentir_tromper_et_duper
 description: Mentir, tromper et duper
 keywords:
   - jeux de langage

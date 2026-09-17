@@ -2,7 +2,6 @@
 title: Le jeu de langage de l'affirmation
 sidebar_label: Affirmer
 sidebar_position: 1
-id: le_jeu_de_langage_de_l_affirmation
 description: Le jeu de langage de l'affirmation
 keywords:
   - jeux de langage
