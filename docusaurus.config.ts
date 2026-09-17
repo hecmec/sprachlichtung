@@ -87,19 +87,22 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/hecmec/sprachlichtung/tree/main/",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/hecmec/sprachlichtung/tree/main/",
-          // Useful options to enforce blogging best practices
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
+        // Blog hidden for now; posts stay in blog/. To re-enable, restore the
+        // options below and the Blog links in navbar and footer.
+        blog: false,
+        // blog: {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ["rss", "atom"],
+        //     xslt: true,
+        //   },
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl: "https://github.com/hecmec/sprachlichtung/tree/main/",
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: "warn",
+        //   onInlineAuthors: "warn",
+        //   onUntruncatedBlogPosts: "warn",
+        // },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -129,7 +132,7 @@ const config: Config = {
           position: "left",
           label: "UmWelten",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        // { to: "/blog", label: "Blog", position: "left" },
         { to: "/about", label: "About", position: "left" },
         {
           type: "localeDropdown",
@@ -186,10 +189,7 @@ const config: Config = {
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
+            // { label: "Blog", to: "/blog" },
             {
               label: "GitHub",
               href: "https://github.com/hecmec/sprachlichtung",
