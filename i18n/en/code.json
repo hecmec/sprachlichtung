@@ -355,5 +355,9 @@
   "theme.IconExternalLink.ariaLabel": {
     "message": "(opens in new tab)",
     "description": "The ARIA label for the external link icon"
+  },
+  "footer.copyright.tagline": {
+    "message": "Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.",
+    "description": "Second part of the footer copyright line, after the copyright and version"
   }
 }
