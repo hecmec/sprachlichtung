@@ -151,7 +151,7 @@ Das veranschaulicht den kritischen Geist: **mehrere Theorien vergleichen und die
 </div>
 </div>
 
-![ulb_pc_galilee2.png](/img/kd/ulb-pc-galilee2.png)
+![ulb_pc_galilee2.png](/img/kd/ulb-pc-galilee2.jpg)
 
 <div className="row">
 <div className="col col--6">
@@ -226,7 +226,7 @@ Das ist **die Verweigerung des kritischen Sinns**.
 </div>
 </div>
 
-![ulb_pc_ignace_de_loyola1.png](/img/kd/ulb-pc-ignace-de-loyola1.png)
+![ulb_pc_ignace_de_loyola1.png](/img/kd/ulb-pc-ignace-de-loyola1.jpg)
 
 <div className="row">
 <div className="col col--6">
