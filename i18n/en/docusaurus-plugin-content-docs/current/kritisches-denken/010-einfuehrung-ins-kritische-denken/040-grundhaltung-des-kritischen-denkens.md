@@ -14,7 +14,7 @@ last_update:
   date: 2026-01-15
   author: Immanuel Lupinus
 slug: /critical-thinking/fundamental-attitude
-translation_status: mixed
+translation_status: auto
 ---
 
 <!--t src=6db4c788-->

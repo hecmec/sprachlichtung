@@ -97,22 +97,32 @@ Wir werden viele dieser Kriterien im Laufe des Tutorials noch genauer besprechen
 ## Warum ist Kritisches Denken wichtig?
 
 Wie wir gerade gesehen haben: **Die Methode des Kritischen Denkens hilft Ihnen dabei, richtig zu handeln.**
-&nbsp;
 
 Eins ist sicher: **ohne Kritisches Denken**, wenn Sie nicht kritisch denken können oder wollen, sind Sie folgenden Gefahren ausgesetzt:
 
 - Sie **sehen nicht**, was ist: Sie leben in einer Scheinwelt, sind verblendet und wollen die Wirklichkeit nicht wahrhaben.
 - Sie **wissen nicht**, wohin: Sie folgen Führern wie ein Schaf und wissen nicht, warum.
-- Sie **wählen nicht** selbst: Andere setzen Ihnen Ihre Ziele (Verfremdung) und sagen Ihnen, was Sie glauben, essen und wollen sollen.
+- Sie **wählen nicht** selbst: Andere setzen Ihnen Ihre Ziele (Entfremdung) und sagen Ihnen, was Sie glauben, essen und wollen sollen.
 - Sie **merken nicht**, wer Sie lenkt: Sie werden zum leichten Opfer von Manipulation und Ausbeutung.
 
 Sie glauben, was man Ihnen sagt.  
 Sie wollen, was man Ihnen verkauft.  
 Sie gehen, wohin man Sie schickt.
 
+Das klingt nach Gewalt, nach Totalitarismus, nach Entfremdung. Nicht nach Freiheit. Nicht nach Selbstbestimmung.
+
+Sie leben dann ein fremdes Leben: mit fremden Gedanken, fremden Wünschen, fremden Zielen. Wollen Sie das?
+
+Vielleicht nicht. Vielleicht wollen Sie ja mündig sein. Das ist zum Teil kulturabhängig.
+
 ## Emanzipation = Selbstbestimmung
 
-Wörtlich bedeutet Emanzipation: von der Hand lassen [^emanzipation]. Das heißt, kein Sklave oder unmündiges Kind zu sein.
+Wörtlich bedeutet Emanzipation: von der Hand lassen [^emanzipation]. Das heißt, kein Sklave oder unmündiges Kind mehr zu sein.
+
+[^emanzipation]:
+    **Emanzipation** kommt vom lateinischen _ēmancipāre_: _ē_ (heraus, weg) + _mancipium_ (Eigentum durch Handergreifung), aus _manus_ (Hand) und _capere_ (nehmen, ergreifen). Wer _in mancipio_ war, gehörte also buchstäblich jemandem, der „die Hand auf ihn gelegt“ hatte; _mancipium_ konnte deshalb auch schlicht „Sklave“ bedeuten ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    Im **römischen Recht** bezeichnete _emancipatio_ die Entlassung eines Sohnes aus der väterlichen Gewalt (_patria potestas_): Erst dadurch wurde er rechtlich selbstständig, also mündig ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). Schon das Zwölftafelgesetz (um 450 v. Chr.) bestimmte: „_Si pater filium ter venum duit, filius a patre liber esto_“ („Wenn der Vater den Sohn dreimal verkauft, soll der Sohn vom Vater frei sein“). Das Verfahren verband deshalb dreimaligen Scheinverkauf (_mancipatio_) mit Freilassung (_manumissio_), also mit demselben Rechtsakt, durch den Sklaven freigelassen wurden (Gaius, _Institutiones_ I, 132; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). Freilassung des Sklaven und Mündigwerden des Kindes sind so von Anfang an eng verwandt: Beide lösen einen Menschen aus der „Hand“ eines anderen.  
+    Seit dem 17. Jahrhundert wird das Wort allgemein im Sinn von „sich von Zwang befreien“ gebraucht; im 19. Jahrhundert wurde es zum politischen Schlagwort (Frauenemanzipation, Judenemanzipation, Sklavenemanzipation) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 **Kritisches Denken erlaubt** Ihnen, sich selbst zu bestimmen:
 
@@ -137,6 +147,9 @@ Sie wissen, wohin Sie gehen, und warum.
     **Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit** ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. **Selbstverschuldet** ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Muthes liegt, sich seiner ohne Leitung eines andern zu bedienen. **Sapere aude!** Habe Muth dich deines **eigenen** Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.
 
 &nbsp;
+
+## Kritisches Denken: Fähigkeiten und Einstellung
+
 Kritisches Denken hat zwei Hemisphären.
 
 :::tip

@@ -15,7 +15,7 @@ last_update:
 completeness: 3/5
 draft: false
 id: herdentrieb
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 

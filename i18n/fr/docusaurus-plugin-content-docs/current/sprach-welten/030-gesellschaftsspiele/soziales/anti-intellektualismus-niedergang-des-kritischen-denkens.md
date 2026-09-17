@@ -15,7 +15,7 @@ last_update:
 completeness: 3/5
 draft: false
 id: anti_intellectualisme_pensee_critique
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 

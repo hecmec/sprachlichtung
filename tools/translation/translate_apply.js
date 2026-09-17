@@ -121,9 +121,12 @@ function applyUpdate(job, map) {
     .filter((b) => b.src && b.protected && !gSet.has(b.src))
     .filter((b) => !aligned.some((e) => e.oldMatch === b)); // not already handled as overwrite
 
+  const body = out.join('\n\n');
   const data = { ...t.data };
   data.last_update = { ...(data.last_update || {}), date: job.source_date || P.sourceDate(g.data) };
-  data.translation_status = legacy ? 'auto' : 'mixed';
+  // `mixed` = the page still contains human-protected blocks (by=/on= anchors);
+  // otherwise it is pure machine translation, however many runs produced it.
+  data.translation_status = translatedBlocks(body).some((b) => b.protected) ? 'mixed' : 'auto';
   if (overwritten > 0) {
     data.custom_translation_overwritten = true;
     data.translation_review = [
@@ -140,7 +143,7 @@ function applyUpdate(job, map) {
   return {
     target: job.target,
     data,
-    body: out.join('\n\n'),
+    body,
     summary: `update — ${changed} block(s) re-translated, ${overwritten} protected overwrite(s)${legacy ? ' (legacy re-anchor)' : ''}`,
     warnings,
   };

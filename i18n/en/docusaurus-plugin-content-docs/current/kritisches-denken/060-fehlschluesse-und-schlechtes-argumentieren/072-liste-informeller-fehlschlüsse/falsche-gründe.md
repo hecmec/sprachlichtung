@@ -14,7 +14,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 

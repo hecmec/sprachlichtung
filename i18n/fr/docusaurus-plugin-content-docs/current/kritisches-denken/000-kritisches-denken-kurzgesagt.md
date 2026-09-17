@@ -14,7 +14,7 @@ last_update:
   time: "12:00"
   author: Immanuel Lupinus
 completeness: 5/5
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 
@@ -117,14 +117,13 @@ Nous discuterons plus en détail de beaucoup de ces critères au fil du tutoriel
 <!--t src=4402a18f-->
 ## Pourquoi la pensée critique est-elle importante ?
 
-<!--t src=42c93a4a-->
+<!--t src=f331800a-->
 Comme nous venons de le voir : **la méthode de la pensée critique vous aide à bien agir.**
-&nbsp;
 
 <!--t src=04d9327e-->
 Une chose est sûre : **sans pensée critique**, si vous ne pouvez pas ou ne voulez pas penser de façon critique, vous êtes exposé aux dangers suivants :
 
-<!--t src=b02ac181-->
+<!--t src=25eb6da6-->
 - Vous **ne voyez pas** ce qui est : vous vivez dans un monde d'illusions, vous êtes aveuglé et ne voulez pas admettre la réalité.
 - Vous **ne savez pas** où aller : vous suivez des chefs comme un mouton, sans savoir pourquoi.
 - Vous **ne choisissez pas** vous-même : d'autres vous fixent vos buts (aliénation) et vous disent ce que vous devez croire, manger et vouloir.
@@ -135,11 +134,26 @@ Vous croyez ce qu'on vous dit.
 Vous voulez ce qu'on vous vend.  
 Vous allez où l'on vous envoie.
 
+<!--t src=edb267f5-->
+Cela sonne comme la violence, comme le totalitarisme, comme l'aliénation. Pas comme la liberté. Pas comme l'autodétermination.
+
+<!--t src=8cd1cd55-->
+Vous vivez alors une vie qui n'est pas la vôtre : avec des pensées étrangères, des désirs étrangers, des buts étrangers. Est-ce cela que vous voulez ?
+
+<!--t src=e446ae64-->
+Peut-être pas. Peut-être voulez-vous justement être majeur et penser par vous-même. Cela dépend en partie de la culture.
+
 <!--t src=a3abde8d-->
 ## Émancipation = autodétermination
 
-<!--t src=8ec6b71b-->
-Littéralement, émancipation signifie : lâcher la main [^emanzipation]. C'est-à-dire ne pas être un esclave ni un enfant mineur.
+<!--t src=4d6e66bd-->
+Littéralement, émancipation signifie : lâcher la main [^emanzipation]. C'est-à-dire ne plus être un esclave ni un enfant mineur.
+
+<!--t src=79dc2f86-->
+[^emanzipation]:
+    **Émancipation** vient du latin _ēmancipāre_ : _ē_ (hors de, loin de) + _mancipium_ (propriété acquise par la prise en main), de _manus_ (main) et _capere_ (prendre, saisir). Celui qui était _in mancipio_ appartenait donc littéralement à celui qui avait « posé la main sur lui » ; _mancipium_ pouvait par conséquent signifier tout simplement « esclave » ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    En **droit romain**, l'_emancipatio_ désignait la sortie d'un fils de la puissance paternelle (_patria potestas_) : ce n'est que par là qu'il devenait juridiquement autonome, donc majeur ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). La Loi des Douze Tables (vers 450 av. J.-C.) disposait déjà : « _Si pater filium ter venum duit, filius a patre liber esto_ » (« Si le père vend son fils trois fois, que le fils soit libre de son père »). La procédure combinait donc une triple vente fictive (_mancipatio_) avec un affranchissement (_manumissio_), c'est-à-dire avec l'acte juridique même par lequel les esclaves étaient affranchis (Gaius, _Institutiones_ I, 132 ; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). L'affranchissement de l'esclave et l'accession de l'enfant à la majorité sont ainsi étroitement apparentés dès l'origine : tous deux détachent un être humain de la « main » d'un autre.  
+    Depuis le XVIIe siècle, le mot est employé de façon générale au sens de « se libérer d'une contrainte » ; au XIXe siècle, il est devenu un mot d'ordre politique (émancipation des femmes, émancipation des Juifs, émancipation des esclaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 <!--t src=cdd82ee8-->
 **La pensée critique vous permet** de vous déterminer vous-même :
@@ -168,8 +182,13 @@ Vous savez où vous allez, et pourquoi.
     Le début du célèbre essai de Kant (« [Qu'est-ce que les Lumières ?](https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F) »)  
     **Les Lumières, c'est la sortie de l'homme hors de l'état de minorité dont il est lui-même responsable. La minorité** est l'incapacité de se servir de son entendement sans la direction d'autrui. Cette minorité est **due à soi-même** lorsque sa cause ne réside pas dans un manque d'entendement, mais dans un manque de résolution et de courage pour s'en servir sans la direction d'autrui. **Sapere aude !** Aie le courage de te servir de ton **propre** entendement ! Telle est donc la devise des Lumières.
 
-<!--t src=6dbf2566-->
+<!--t src=47c1f11e-->
 &nbsp;
+
+<!--t src=8ad86b1b-->
+## La pensée critique : compétences et attitude
+
+<!--t src=cfb01c29-->
 La pensée critique a deux hémisphères.
 
 <!--t src=ad4051f4-->

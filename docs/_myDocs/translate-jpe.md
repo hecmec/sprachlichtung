@@ -114,6 +114,9 @@ In addition to the existing fields (`id`, `title`, `sidebar_label`,
 
 ```yaml
 translation_status: auto # auto | mixed | manual
+# auto   = machine translation only (no protected blocks), even after several update runs
+# mixed  = contains at least one human-protected block (anchor with by=/on=)
+# manual = hand-maintained page, skipped by the tooling entirely
 custom_translation_overwritten: false
 # raised to true (with a review log) when a protected paragraph's German
 # source changed and was replaced by machine translation — see §9.
@@ -169,8 +172,9 @@ protected?)`.
      anchors as fixed points), and update its anchor's `src` hash.
 4. **Removed** German blocks → remove the corresponding translated block; if it
    was protected, warn the operator.
-5. If at least one changed block was machine-translated, set
-   `translation_status: mixed`.
+5. Set `translation_status` from the result: `mixed` if the page still
+   contains at least one protected block (`by=`/`on=` anchor), otherwise
+   `auto`. A page updated by several machine runs stays `auto`.
 
 ## 9. Protected-block overwrite rule
 

@@ -197,7 +197,8 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung · v${version}. Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.`,
+      // The translatable tagline after this is rendered by src/theme/Footer/Copyright.
+      copyright: `Copyright © ${new Date().getFullYear()} SprachLichtung · v${version}.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -349,11 +349,15 @@
     "description": "The title of the tag list page"
   },
   "aboutpage.title": {
-    "message": "_t_About Us",
+    "message": "À propos de nous",
     "description": "The title on the about page"
   },
   "theme.IconExternalLink.ariaLabel": {
-    "message": "_t_(opens in new tab)",
+    "message": "(s'ouvre dans un nouvel onglet)",
     "description": "The ARIA label for the external link icon"
+  },
+  "footer.copyright.tagline": {
+    "message": "Construit avec ❤️ et Docusaurus à Nantes, Berlin et Zurich avec l’aide de la communauté 🌏.",
+    "description": "Second part of the footer copyright line, after the copyright and version"
   }
 }

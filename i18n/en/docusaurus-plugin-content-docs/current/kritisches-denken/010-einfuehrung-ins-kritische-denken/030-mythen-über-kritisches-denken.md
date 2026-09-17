@@ -12,7 +12,7 @@ keywords:
 last_update:
   date: 2026-01-15
   author: Immanuel Lupinus
-translation_status: mixed
+translation_status: auto
 ---
 
 <!--t src=1bfdad9e-->
