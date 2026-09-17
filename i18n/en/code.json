@@ -359,5 +359,37 @@
   "footer.copyright.tagline": {
     "message": "Built with ❤️ and Docusaurus in Nantes, Berlin, Zürich with the help of the community 🌏.",
     "description": "Second part of the footer copyright line, after the copyright and version"
+  },
+  "aboutpage.meta.description": {
+    "message": "What SprachLichtung is: a growing tutorial on critical thinking and articles on philosophy, language and society.",
+    "description": "Meta description of the about page"
+  },
+  "aboutpage.heading": {
+    "message": "SprachLichtung: About Us",
+    "description": "Heading above the about text"
+  },
+  "aboutpage.intro": {
+    "message": "SprachLichtung is a place for thinking about thinking, language and society.",
+    "description": "About page: what the site is"
+  },
+  "aboutpage.tutorial": {
+    "message": "At its heart is a {tutorialLink}, structured like a book that keeps growing: from the basics of logic and good arguments to cognitive biases and fallacies, all the way to manipulation and intellectual virtues.",
+    "description": "About page: the critical thinking tutorial; {tutorialLink} is a link"
+  },
+  "aboutpage.tutorial.link": {
+    "message": "tutorial on critical thinking",
+    "description": "Link text to the critical thinking tutorial"
+  },
+  "aboutpage.topics": {
+    "message": "On top of that, there is a lot of information about philosophy, as well as articles on language, society, media and the environment.",
+    "description": "About page: philosophy and other topics"
+  },
+  "aboutpage.mission": {
+    "message": "We care about fostering understanding and making thoughtful, well-reasoned exchange possible.",
+    "description": "About page: mission statement"
+  },
+  "aboutpage.lastUpdate": {
+    "message": "Last updated: September 17, 2026",
+    "description": "About page: last update date"
   }
 }
