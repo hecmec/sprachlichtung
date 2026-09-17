@@ -13,7 +13,7 @@ keywords:
   - theoretical frameworks
 last_update:
   date: 2025-06-12
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 

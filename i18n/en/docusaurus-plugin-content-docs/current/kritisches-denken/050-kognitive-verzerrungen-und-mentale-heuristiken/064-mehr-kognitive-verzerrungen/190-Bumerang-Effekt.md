@@ -15,7 +15,7 @@ last_update:
 completeness: 4/5
 draft: false
 id: bumerang-effekt
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 

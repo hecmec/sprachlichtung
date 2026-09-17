@@ -14,7 +14,7 @@ last_update:
   time: "12:00"
   author: Immanuel Lupinus
 completeness: 5/5
-translation_status: mixed
+translation_status: auto
 custom_translation_overwritten: false
 ---
 
