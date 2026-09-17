@@ -126,14 +126,13 @@ We will discuss many of these criteria in more detail over the course of the tut
 
 ## Why Is Critical Thinking Important?
 
-<!--t src=42c93a4a-->
+<!--t src=f331800a-->
 As we have just seen: **the method of critical thinking helps you to act rightly.**
-&nbsp;
 
 <!--t src=04d9327e-->
 One thing is certain: **without critical thinking**, if you cannot or will not think critically, you are exposed to the following dangers:
 
-<!--t src=b02ac181-->
+<!--t src=25eb6da6-->
 - You **do not see** what is: you live in a world of appearances, you are deluded and refuse to face reality.
 - You **do not know** where to go: you follow leaders like a sheep and do not know why.
 - You **do not choose** for yourself: others set your goals for you (alienation) and tell you what you are to believe, eat and want.
@@ -144,11 +143,26 @@ You believe what you are told.
 You want what you are sold.  
 You go where you are sent.
 
+<!--t src=edb267f5-->
+That sounds like violence, like totalitarianism, like alienation. Not like freedom. Not like self-determination.
+
+<!--t src=8cd1cd55-->
+You then live a life that is not your own: with someone else's thoughts, someone else's wishes, someone else's goals. Is that what you want?
+
+<!--t src=e446ae64-->
+Perhaps not. Perhaps you do want to come of age and think for yourself. That is in part culturally dependent.
+
 <!--t src=a3abde8d-->
 ## Emancipation = Self-Determination
 
-<!--t src=8ec6b71b-->
+<!--t src=4d6e66bd-->
 Literally, emancipation means: to be released from the hand [^emanzipation]. That is, not to be a slave or a child under someone else's tutelage.
+
+<!--t src=79dc2f86-->
+[^emanzipation]:
+    **Emancipation** comes from the Latin _ēmancipāre_: _ē_ (out of, away) + _mancipium_ (property acquired by laying on of the hand), from _manus_ (hand) and _capere_ (to take, to seize). Someone who was _in mancipio_ therefore literally belonged to whoever had "laid a hand on" him; _mancipium_ could accordingly also mean simply "slave" ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    In **Roman law**, _emancipatio_ denoted the release of a son from paternal authority (_patria potestas_): only through it did he become legally independent, and thus of age ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). The Law of the Twelve Tables (c. 450 BC) already laid down: "_Si pater filium ter venum duit, filius a patre liber esto_" ("If a father sells his son three times, let the son be free of his father"). The procedure therefore combined a threefold mock sale (_mancipatio_) with manumission (_manumissio_), that is, with the very same legal act by which slaves were set free (Gaius, _Institutiones_ I, 132; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). The freeing of a slave and a child's coming of age are thus closely related from the very beginning: both release a human being from the "hand" of another.  
+    Since the 17th century the word has been used generally in the sense of "freeing oneself from constraint"; in the 19th century it became a political slogan (women's emancipation, Jewish emancipation, the emancipation of slaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 <!--t src=cdd82ee8-->
 **Critical thinking allows** you to determine yourself:
@@ -177,9 +191,13 @@ You know where you are going, and why.
     Opening of Kant's famous essay ("[What is Enlightenment](https://en.wikisource.org/wiki/An_Answer_to_the_Question:_What_is_Enlightenment%3F)")  
     **Enlightenment is man's emergence from his self-imposed immaturity. Immaturity** is the inability to use one's own understanding without the guidance of another. This immaturity is **self-imposed** when its cause lies not in a lack of understanding, but in a lack of resolve and courage to use it without the guidance of another. **Sapere aude!** Have the courage to use your **own** understanding! is therefore the motto of the Enlightenment.
 
-<!--t src=6dbf2566-->
-
+<!--t src=47c1f11e-->
 &nbsp;
+
+<!--t src=8ad86b1b-->
+## Critical Thinking: Skills and Attitude
+
+<!--t src=cfb01c29-->
 Critical thinking has two hemispheres.
 
 <!--t src=ad4051f4-->
