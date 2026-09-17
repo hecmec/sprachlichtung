@@ -111,9 +111,9 @@ Sie gehen, wohin man Sie schickt.
 
 Das klingt nach Gewalt, nach Totalitarismus, nach Entfremdung. Nicht nach Freiheit. Nicht nach Selbstbestimmung.
 
-Sie leben dann ein fremdes Leben: mit fremden Gedanken, fremden Wünschen, fremden Zielen. Sie wohnen nicht in Ihrem eigenen Kopf, Sie sind dort nur zu Gast.
+Sie leben dann ein fremdes Leben: mit fremden Gedanken, fremden Wünschen, fremden Zielen. Wollen Sie das?
 
-Wollen wir das? Nein. Wir wollen mündig sein.
+Vielleicht nicht. Vielleicht wollen Sie ja mündig sein. Das ist zum Teil kulturabhängig.
 
 ## Emanzipation = Selbstbestimmung
 
