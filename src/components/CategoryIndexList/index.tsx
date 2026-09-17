@@ -1,43 +1,39 @@
-import React, {type ReactNode} from 'react';
-import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import {usePluginData} from '@docusaurus/useGlobalData';
-import {
-  useCurrentSidebarCategory,
-  useDocById,
-} from '@docusaurus/plugin-content-docs/client';
-import type {PropSidebarItem} from '@docusaurus/plugin-content-docs';
-import styles from './styles.module.css';
+import React, { type ReactNode } from "react";
+import Link from "@docusaurus/Link";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import { usePluginData } from "@docusaurus/useGlobalData";
+import { useCurrentSidebarCategory, useDocById } from "@docusaurus/plugin-content-docs/client";
+import type { PropSidebarItem } from "@docusaurus/plugin-content-docs";
+import styles from "./styles.module.css";
 
-type ImageInfo = {image: string; external?: boolean};
+type ImageInfo = { image: string; external?: boolean };
 type CardImagesData = {
   defaultImage: string;
   byId: Record<string, ImageInfo>;
   byPermalink: Record<string, ImageInfo>;
 };
 
-function CardImage({info, alt}: {info?: ImageInfo; alt: string}): ReactNode {
+function CardImage({ info, alt }: { info?: ImageInfo; alt: string }): ReactNode {
   // Hooks must run unconditionally; pick the right src afterwards.
-  const raw = info?.image ?? '';
+  const raw = info?.image ?? "";
   const based = useBaseUrl(raw);
   const src = info?.external ? raw : based;
-  return <img className={styles.image} src={src} alt="" aria-hidden="true" />;
+  // data-zoom-off keeps the image-zoom plugin away (see `zoom.selector` in
+  // docusaurus.config.ts): it would swallow the click that follows the card link.
+  return <img className={styles.image} src={src} alt="" aria-hidden="true" data-zoom-off="" />;
 }
 
-function CardRow({item}: {item: PropSidebarItem}): ReactNode {
-  const data = usePluginData('docs-card-images') as CardImagesData | undefined;
+function CardRow({ item }: { item: PropSidebarItem }): ReactNode {
+  const data = usePluginData("docs-card-images") as CardImagesData | undefined;
 
-  if (item.type !== 'link') {
+  if (item.type !== "link") {
     return null;
   }
   const docId = item.docId;
   const doc = useDocById(docId ?? undefined);
   const title = item.label;
-  const description = item.description ?? doc?.description ?? '';
-  const info =
-    (docId && data?.byId?.[docId]) ||
-    data?.byPermalink?.[item.href] ||
-    (data ? {image: data.defaultImage} : undefined);
+  const description = item.description ?? doc?.description ?? "";
+  const info = (docId && data?.byId?.[docId]) || data?.byPermalink?.[item.href] || (data ? { image: data.defaultImage } : undefined);
 
   return (
     <Link href={item.href} className={styles.card}>

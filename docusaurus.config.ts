@@ -208,7 +208,9 @@ const config: Config = {
       theme: { light: "neutral", dark: "forest" },
     },
     zoom: {
-      selector: ".markdown img",
+      // Images marked with data-zoom-off opt out, e.g. card images that are
+      // themselves links (<CategoryIndexList/>).
+      selector: ".markdown img:not([data-zoom-off])",
       background: {
         light: "rgb(255, 255, 255)",
         dark: "rgb(50, 50, 50)",

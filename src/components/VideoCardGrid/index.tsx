@@ -58,7 +58,15 @@ function VideoCard({item}: {item: VideoCardItem}): ReactNode {
     <Link href={to} className={styles.card}>
       <div className={styles.imageWrap}>
         {src ? (
-          <img className={styles.image} src={src} alt="" aria-hidden="true" />
+          // data-zoom-off: see `zoom.selector` in docusaurus.config.ts. Without
+          // it the zoom plugin swallows the click that opens the video.
+          <img
+            className={styles.image}
+            src={src}
+            alt=""
+            aria-hidden="true"
+            data-zoom-off=""
+          />
         ) : null}
       </div>
       <div className={styles.body}>
