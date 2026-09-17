@@ -18,14 +18,17 @@ pass another (e.g. `fr`) if asked.
 > Do NOT hand-compute hashes or hand-edit anchors — let the tools do it.
 
 ## Inputs
+
 - **Folder**: a path under `docs/` (e.g. `docs/kritisches-denken/010-einfuehrung-ins-kritische-denken`). If the user names a chapter, find the matching folder.
 - **Locale**: target locale code, default `en`.
 
 ## Path mapping
+
 A source doc `docs/<rel>` maps to its translation at:
 `i18n/<locale>/docusaurus-plugin-content-docs/current/<rel>`
 
 ## Which files count
+
 - Translate `*.md` / `*.mdx` only. Do **not** copy `_category_.json` into the locale tree — see Step 3b for how category labels actually get translated.
 - **Skip** any file or directory whose name starts with `_` (drafts/excluded from build).
 - By default skip pages with `draft: true` in their German frontmatter; surface them and ask before translating (drafts churn). Translate them only if the user opts in.
@@ -60,10 +63,12 @@ switching to `{/* … */}` comments.
 ## Step 1 — Detect (build two lists)
 
 Run the checker — it applies the block-hash logic for you:
+
 ```bash
 yarn verify_translation <folder> --locale <locale>      # human report
 yarn verify_translation <folder> --locale <locale> --json   # machine-readable
 ```
+
 It prints three groups: **UNTRANSLATED** (no file yet → NEW), **NEEDS UPDATE**
 (anchors no longer match the German block hashes — shows `+changed/new`,
 `-stale`, and ⚠ when protected blocks are affected), and **LEGACY / NO ANCHORS**
@@ -71,6 +76,7 @@ It prints three groups: **UNTRANSLATED** (no file yet → NEW), **NEEDS UPDATE**
 anchors; its unmarked human edits are not protected, so eyeball it first).
 
 ## Step 2 — Report and get approval
+
 Relay the verify output to the user as two short lists (NEW and NEEDS UPDATE),
 calling out any **protected blocks that will be overwritten** and any editorial
 judgment calls (term choices, quotes, links). Wait for the go-ahead before
@@ -83,22 +89,24 @@ protected-overwrite rule, frontmatter flags). Your only job is to translate text
 
 **1. Plan** — emit a job listing exactly the blocks that need translating
 (all of them for a NEW page; only changed/new ones for an UPDATE):
+
 ```bash
 node tools/translation/translate_plan.js <file-or-folder> --locale <locale> --out /tmp/job.json
 ```
 
 **2. Translate** — edit `/tmp/job.json`: fill each block's `"translation"` with
-your translation of its `"source"`. For a NEW page also edit
-`"translated_frontmatter"` (translate `title`, `sidebar_label`, `description`,
-`keywords`; add an `id:` snake_case slug; keep `sidebar_position`). When a block
-has `"replaces_protected"`, you're overwriting a human correction — translate the
-new German faithfully; the tool preserves the old text as a comment and flags it
+your translation of its `"source"`.
+For a NEW page also edit `"translated_frontmatter"` (translate `title`, `sidebar_label`, `description`, `keywords`; keep `sidebar_position`).
+A translated page must have the same URL as the original German page, otherwise the language switcher leads to a 404: **never add or translate `id` or `slug`.** Copy them from the German frontmatter only if present there; otherwise omit them.
+When a block has `"replaces_protected"`, you're overwriting a human correction — translate the new German faithfully; the tool preserves the old text as a comment and flags it
 for review automatically.
 
 **3. Apply** — splice your translations back:
+
 ```bash
 node tools/translation/translate_apply.js --job /tmp/job.json        # add --dry-run to preview
 ```
+
 `apply` re-reads the current German + translation, recomputes the alignment, and
 writes the locale file: unchanged blocks kept verbatim (human edits preserved),
 changed blocks replaced, protected overwrites handled per §9, and frontmatter
@@ -110,9 +118,10 @@ changed blocks replaced, protected overwrites handled per §9, and frontmatter
 > never hand-write anchors or invent hashes.
 
 ### Inline author directives — `<!-- AI-TRANSLATION: … -->`
+
 The author may embed instructions for the translator as HTML comments of the form
-`<!-- AI-TRANSLATION: <instruction> -->` (e.g. *"don't translate the original
-english video course titles"*). **Always obey the instruction** when translating
+`<!-- AI-TRANSLATION: <instruction> -->` (e.g. _"don't translate the original
+english video course titles"_). **Always obey the instruction** when translating
 the blocks it applies to (typically the content right after it, until the next
 heading or a contradicting directive). These are invisible on the site — **keep
 the comment verbatim in the translated file** so it still guides future updates;
@@ -120,6 +129,7 @@ do not translate or remove it. If a directive is ambiguous or conflicts with the
 rules, surface it in your Step 2 report rather than guessing.
 
 ### Body — translate only human-readable text; the tools keep structure intact
+
 - Admonitions (`:::info`, `:::warning`, `:::tip` …) — translate the title too.
 - Footnotes `[^id]`, `<details>/<summary>`, custom components (`<Tooltip …>`), tables, emojis (`:rocket:`), `&mdash;`, line-break backslashes.
 - Links: point to the target-locale equivalent where one obviously exists
@@ -127,9 +137,11 @@ rules, surface it in your Step 2 report rather than guessing.
 - Use canonical published translations for well-known quotes (Popper, UDHR, …).
 
 ### Images
+
 Relative image paths (`../img/foo.jpg`) resolve **within** `i18n/<locale>/…`, not
 the German tree. If a referenced image is missing in the locale's `img/` folder,
 copy it over:
+
 ```bash
 cp docs/<rel-dir>/img/<file> i18n/<locale>/docusaurus-plugin-content-docs/current/<rel-dir>/img/<file>
 ```
@@ -142,7 +154,7 @@ landing page. **These are part of the translation job** — a chapter whose page
 are translated but whose sidebar entry still reads German is not done.
 
 **Do not copy `_category_.json` into `i18n/<locale>/…/current/`.** Those copies
-are *inert*: Docusaurus does not read them (verified — a locale copy with a
+are _inert_: Docusaurus does not read them (verified — a locale copy with a
 translated label still rendered the German one). Category strings are translated
 through the plugin's translation file instead:
 
@@ -184,7 +196,7 @@ cp /tmp/current.bak.json i18n/<locale>/docusaurus-plugin-content-docs/current.js
 ```
 
 > **Never commit the generator's output.** It appends `_t_`-prefixed German
-> messages for *every* untranslated key site-wide, and a `_t_` message renders
+> messages for _every_ untranslated key site-wide, and a `_t_` message renders
 > literally (`_t_Videokurse` in the sidebar) — worse than the German fallback it
 > replaces. Use it read-only to list key names, restore the backup, then hand-add
 > only the keys for the chapter you are translating, with real translations.
@@ -193,6 +205,7 @@ Old keys under renamed German labels are dead but harmless; leave them unless
 asked to clean up, and mention them in your summary.
 
 ## Step 4 — Prune stale translations (full-folder runs only)
+
 When you translated an **entire DE folder** (not a single file), check the locale
 folder for **orphans**: translated `.md`/`.mdx` files that no longer have a
 matching source under `docs/<rel>/`. These are left behind when a German page is
@@ -216,10 +229,13 @@ step entirely for single-file translations — you have no signal there about th
 rest of the folder.
 
 ## Step 5 — Build-check
+
 Always verify the locale compiles (catches MDX errors, broken images/links):
+
 ```bash
 yarn build --locale <locale>
 ```
+
 Fix any errors and rebuild until clean. The anchors are HTML comments, so they
 must not break the build — if a build error points at one, the comment is
 malformed.
@@ -227,11 +243,13 @@ malformed.
 Then grep the built HTML for the German category labels you translated in Step 3b
 — a missing or misspelled key fails silently by falling back to German, so the
 build passing proves nothing about them:
+
 ```bash
 grep -c "<German label>" build/docs/<some-page-in-that-chapter>/index.html   # want 0
 ```
 
 ## Step 6 — Summarize
+
 Report what was newly translated, which files were updated and **how many blocks**
 were re-translated, any **protected blocks overwritten** (and that
 `custom_translation_overwritten` was raised for review), legacy files that were
