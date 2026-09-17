@@ -4826,6 +4826,11 @@ devlop@^1.0.0, devlop@^1.1.0:
   dependencies:
     dequal "^2.0.0"
 
+diff@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/diff/-/diff-9.0.0.tgz#297c31cd7c280f13dfe335791ec2063bd4a73a6f"
+  integrity sha512-svtcdpS8CgJyqAjEQIXdb3OjhFVVYjzGAPO8WGCmRbrml64SPw/jJD4GoE98aR7r25A0XcgrK3F02yw9R/vhQw==
+
 dir-glob@^3.0.1:
   version "3.0.1"
   resolved "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.1.tgz"
