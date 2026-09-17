@@ -1,6 +1,5 @@
 ---
 title: What is media literacy?
-id: what_is_media_literacy
 sidebar_position: 2
 description: Media literacy, information literacy and the UNESCO concept MIL (Media and Information Literacy)
 keywords:

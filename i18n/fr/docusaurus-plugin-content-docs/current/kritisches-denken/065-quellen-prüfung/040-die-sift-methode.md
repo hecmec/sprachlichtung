@@ -1,6 +1,5 @@
 ---
 title: La méthode SIFT
-id: la-methode-sift
 sidebar_position: 4
 description: "SIFT : quatre gestes simples pour vérifier rapidement les sources, plus la lecture latérale et le « click restraint »"
 keywords:

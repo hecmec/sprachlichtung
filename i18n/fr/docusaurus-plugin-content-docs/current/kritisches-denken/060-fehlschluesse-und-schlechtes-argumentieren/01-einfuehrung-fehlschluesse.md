@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction_sophismes
 sidebar_label: Introduction
 sidebar_position: 1
 description: Introduction au concept des sophismes et à leur importance pour la pensée critique

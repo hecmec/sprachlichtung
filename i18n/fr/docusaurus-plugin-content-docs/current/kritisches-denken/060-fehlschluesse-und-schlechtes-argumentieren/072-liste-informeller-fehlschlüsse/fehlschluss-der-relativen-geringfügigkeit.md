@@ -3,7 +3,6 @@ title: Sophisme de la minimisation relative
 title_meta: Minimisation relative
 sidebar_label: Minimisation relative
 sidebar_position: 1
-id: minimisation_relative
 description: Description du sophisme de la minimisation relative (quelque chose est écarté comme étant trop petit)
 keywords:
   - Sophismes

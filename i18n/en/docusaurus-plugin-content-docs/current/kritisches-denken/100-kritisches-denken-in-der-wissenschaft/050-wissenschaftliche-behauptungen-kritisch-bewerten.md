@@ -1,5 +1,4 @@
 ---
-id: 050-wissenschaftliche-behauptungen-kritisch-bewerten
 title: Critically Evaluating Scientific Claims
 sidebar_position: 5
 description: Criteria for distinguishing science from pseudoscience and for critically evaluating scientific studies

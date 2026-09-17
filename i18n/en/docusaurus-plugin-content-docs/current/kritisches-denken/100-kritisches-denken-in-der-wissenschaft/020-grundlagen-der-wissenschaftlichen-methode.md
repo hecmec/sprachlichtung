@@ -1,5 +1,4 @@
 ---
-id: 020-grundlagen-der-wissenschaftlichen-methode
 title: Foundations of the Scientific Method
 sidebar_position: 2
 description: An explanation of the scientific method, its processes and various empirical research methods

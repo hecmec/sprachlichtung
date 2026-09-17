@@ -1,5 +1,4 @@
 ---
-id: 06-praesumptionsfehlschluesse
 title: Fallacies of Presumption
 sidebar_position: 6
 description: Analysis of fallacies of presumption, which are based on unjustified or problematic assumptions

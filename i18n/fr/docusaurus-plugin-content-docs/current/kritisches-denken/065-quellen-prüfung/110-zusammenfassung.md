@@ -1,6 +1,5 @@
 ---
 title: Résumé
-id: resume-quellenpruefung
 sidebar_position: 11
 description: Résumé des principaux concepts de l'éducation aux médias et de la critique des sources, avec une liste complète des sources
 keywords:

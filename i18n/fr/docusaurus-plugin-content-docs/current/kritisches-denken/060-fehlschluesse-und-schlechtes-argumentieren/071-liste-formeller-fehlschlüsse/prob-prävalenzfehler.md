@@ -3,7 +3,6 @@ title: Erreur de prévalence
 title_meta: Erreur de prévalence
 sidebar_label: Erreur de prévalence
 sidebar_position: 1
-id: erreur_de_prevalence
 description: Description de l'erreur de prévalence ou de la négligence du taux de base (base rate fallacy)
 keywords:
   - Sophismes

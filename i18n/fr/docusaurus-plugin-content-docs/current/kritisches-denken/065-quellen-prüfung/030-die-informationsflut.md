@@ -1,6 +1,5 @@
 ---
 title: La surcharge informationnelle et ses pièges
-id: la-surcharge-informationnelle
 sidebar_position: 3
 sidebar_label: La surcharge informationnelle
 description: "Pourquoi la critique des sources est aujourd'hui indispensable : mésinformation, désinformation et malinformation en un coup d'œil"

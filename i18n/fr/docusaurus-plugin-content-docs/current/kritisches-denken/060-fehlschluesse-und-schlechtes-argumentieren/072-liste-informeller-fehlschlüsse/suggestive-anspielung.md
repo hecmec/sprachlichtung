@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Insinuation
   - Innuendo
-id: insinuation
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

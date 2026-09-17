@@ -1,5 +1,4 @@
 ---
-id: energie_hydraulique
 title: Énergie hydraulique
 title_meta: Énergie hydraulique
 sidebar_label: Énergie hydraulique

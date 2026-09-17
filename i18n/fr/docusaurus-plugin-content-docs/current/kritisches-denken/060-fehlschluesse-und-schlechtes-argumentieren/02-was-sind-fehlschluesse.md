@@ -2,7 +2,6 @@
 title: Qu'est-ce qu'un sophisme ?
 sidebar_position: 2
 sidebar_label: Qu'est-ce qu'un sophisme ?
-id: que_sont_les_sophismes
 description: Définition, caractéristiques et classification des sophismes logiques et raisons pour lesquelles ils posent problème dans la pensée critique
 keywords:
   - sophismes

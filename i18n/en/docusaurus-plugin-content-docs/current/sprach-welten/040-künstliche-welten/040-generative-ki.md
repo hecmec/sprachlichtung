@@ -1,5 +1,4 @@
 ---
-id: generative_ai
 title: Generative AI
 title_meta: "Generative AI: From Time Series through LSTM to Attention"
 sidebar_label: Generative AI

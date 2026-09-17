@@ -1,5 +1,4 @@
 ---
-id: resume
 title: Résumé
 sidebar_position: 8
 description: Résumé des points essentiels sur le thème de la science et de ses méthodes

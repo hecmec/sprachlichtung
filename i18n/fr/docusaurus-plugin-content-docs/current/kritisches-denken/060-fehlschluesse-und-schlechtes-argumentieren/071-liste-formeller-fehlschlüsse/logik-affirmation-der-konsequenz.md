@@ -3,7 +3,6 @@ title: Affirmation du conséquent
 title_meta: Affirmation du conséquent
 sidebar_label: Affirmation du conséquent
 sidebar_position: 1
-id: logique_affirmation_du_consequent
 description: Description du sophisme de l'affirmation du conséquent (Affirming the Consequent)
 keywords:
   - sophismes

@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction_media_literacy
 sidebar_position: 1
 description: "Introduction to media literacy and source criticism: why we have to learn to verify in the digital information age"
 keywords:

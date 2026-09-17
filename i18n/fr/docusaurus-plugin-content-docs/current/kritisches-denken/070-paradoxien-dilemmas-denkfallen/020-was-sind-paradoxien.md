@@ -1,6 +1,5 @@
 ---
 title: Qu'est-ce qu'un paradoxe ?
-id: quest_ce_quun_paradoxe
 sidebar_label: Qu'est-ce qu'un paradoxe ?
 sidebar_position: 2
 description: Définition et classification des paradoxes en tant qu'affirmations contradictoires présentant diverses caractéristiques et différents types

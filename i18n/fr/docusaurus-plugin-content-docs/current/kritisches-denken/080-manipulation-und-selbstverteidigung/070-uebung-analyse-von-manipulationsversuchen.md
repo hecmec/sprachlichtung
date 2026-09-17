@@ -1,5 +1,4 @@
 ---
-id: uebung-analyse-von-manipulationsversuchen
 title: Exercice - Analyse de tentatives de manipulation
 sidebar_position: 7
 sidebar_label: Exercice - Analyser la manipulation

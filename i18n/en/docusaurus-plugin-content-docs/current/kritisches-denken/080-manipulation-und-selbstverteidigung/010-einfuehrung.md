@@ -1,5 +1,4 @@
 ---
-id: 010-einfuehrung
 title: Introduction
 sidebar_position: 1
 description: Introduction to the topic of manipulation and self-defence in the context of critical thinking

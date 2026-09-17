@@ -1,5 +1,4 @@
 ---
-id: exercice-analyser-affirmations-scientifiques
 title: Exercice - Analyser des affirmations scientifiques
 sidebar_position: 7
 description: Exercices pratiques pour appliquer les principes de l'analyse et de la pensée scientifiques

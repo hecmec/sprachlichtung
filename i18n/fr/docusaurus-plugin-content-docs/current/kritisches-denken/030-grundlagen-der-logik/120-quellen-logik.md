@@ -1,5 +1,4 @@
 ---
-id: quellen_logik
 title: Sources
 sidebar_position: 120
 sidebar_label: Sources

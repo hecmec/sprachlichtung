@@ -2,7 +2,6 @@
 title: "Quiz: Fallacies"
 sidebar_position: 10
 sidebar_label: Quiz
-id: quiz_fallacies
 description: Interactive quiz to check your understanding of various types of fallacies
 keywords:
   - quiz

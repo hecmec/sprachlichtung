@@ -15,7 +15,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
-id: sophisme_naturaliste
 translation_status: auto
 custom_translation_overwritten: false
 ---

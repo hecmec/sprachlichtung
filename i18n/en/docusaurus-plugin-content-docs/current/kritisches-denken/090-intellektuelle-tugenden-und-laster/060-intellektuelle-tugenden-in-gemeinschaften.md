@@ -1,5 +1,4 @@
 ---
-id: 060-intellektuelle-tugenden-in-gemeinschaften
 title: Intellectual Virtues in Communities
 sidebar_position: 6
 description: The importance and promotion of intellectual virtues in various community contexts

@@ -1,5 +1,4 @@
 ---
-id: argument_du_dieu_des_lacunes
 title: Argument du Dieu des lacunes
 title_meta: Argument du Dieu des lacunes
 sidebar_label: Argument du Dieu des lacunes

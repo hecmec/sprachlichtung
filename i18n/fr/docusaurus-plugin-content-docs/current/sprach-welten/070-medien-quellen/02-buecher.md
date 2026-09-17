@@ -1,5 +1,4 @@
 ---
-id: livres_langue_philosophie
 title: Livres sur la langue et la philosophie
 sidebar_position: 1
 sidebar_label: Livres

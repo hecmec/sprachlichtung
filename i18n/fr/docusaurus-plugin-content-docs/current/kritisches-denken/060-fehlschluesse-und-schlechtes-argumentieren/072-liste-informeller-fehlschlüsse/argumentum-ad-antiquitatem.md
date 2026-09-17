@@ -1,5 +1,4 @@
 ---
-id: argumentum_ad_antiquitatem
 title: Argumentum ad Antiquitatem
 title_meta: Argumentum ad Antiquitatem
 sidebar_label: Argumentum ad Antiquitatem

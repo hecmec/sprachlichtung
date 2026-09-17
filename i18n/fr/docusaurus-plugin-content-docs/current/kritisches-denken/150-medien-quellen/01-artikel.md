@@ -1,5 +1,4 @@
 ---
-id: artikel
 title: Articles sur la pensée critique
 sidebar_position: 1
 sidebar_label: Articles

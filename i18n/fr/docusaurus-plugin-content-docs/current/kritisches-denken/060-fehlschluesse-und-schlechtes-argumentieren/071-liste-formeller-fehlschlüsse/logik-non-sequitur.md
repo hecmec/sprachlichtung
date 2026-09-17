@@ -3,7 +3,6 @@ title: Non sequitur
 title_meta: Non sequitur
 sidebar_label: Non sequitur
 sidebar_position: 1
-id: logik_non_sequitur
 description: Description du sophisme du non sequitur
 keywords:
   - sophismes

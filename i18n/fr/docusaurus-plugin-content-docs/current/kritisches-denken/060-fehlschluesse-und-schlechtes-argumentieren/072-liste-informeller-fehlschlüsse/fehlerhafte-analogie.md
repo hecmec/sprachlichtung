@@ -2,7 +2,6 @@
 title: Analogie boiteuse
 title_meta: Analogie boiteuse
 sidebar_label: Analogie boiteuse
-id: analogie-boiteuse
 sidebar_position: 1
 description: Description de l'analogie boiteuse (raisonnement par analogie faible)
 keywords:

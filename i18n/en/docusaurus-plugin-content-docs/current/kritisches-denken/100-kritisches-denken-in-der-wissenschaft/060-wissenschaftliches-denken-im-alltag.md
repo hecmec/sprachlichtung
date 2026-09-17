@@ -1,5 +1,4 @@
 ---
-id: 060-wissenschaftliches-denken-im-alltag
 title: Scientific Thinking in Everyday Life
 sidebar_position: 6
 description: Applying scientific principles and methods in everyday life

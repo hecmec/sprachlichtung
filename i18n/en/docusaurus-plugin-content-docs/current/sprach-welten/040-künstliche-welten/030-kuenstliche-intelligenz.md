@@ -1,5 +1,4 @@
 ---
-id: artificial_intelligence
 title: Artificial Intelligence
 title_meta: "Artificial Intelligence: Branches, Kinds of Learning and Fields of Application"
 sidebar_label: Artificial Intelligence

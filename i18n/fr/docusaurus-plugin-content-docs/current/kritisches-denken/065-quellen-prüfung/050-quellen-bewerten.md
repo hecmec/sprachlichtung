@@ -1,6 +1,5 @@
 ---
 title: "Évaluer les sources : les critères"
-id: evaluer_les_sources
 sidebar_position: 5
 sidebar_label: Évaluer les sources
 description: "Les critères essentiels d'une bonne vérification des sources : la paternité, l'actualité, la réputation, l'expertise, l'indépendance et l'étayage. Avec CRAAP et PICK."

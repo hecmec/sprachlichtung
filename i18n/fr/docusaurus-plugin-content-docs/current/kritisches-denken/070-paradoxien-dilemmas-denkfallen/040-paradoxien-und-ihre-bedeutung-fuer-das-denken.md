@@ -2,7 +2,6 @@
 title: Les paradoxes et leur importance pour la pensée
 sidebar_label: Les paradoxes et la pensée
 sidebar_position: 4
-id: paradoxes_et_leur_importance_pour_la_pensee
 description: Comment les paradoxes influencent notre pensée et pourquoi ils sont importants pour différentes disciplines.
 keywords:
   - paradoxes

@@ -1,5 +1,4 @@
 ---
-id: energie_eolienne
 title: Énergie éolienne
 title_meta: Énergie éolienne
 sidebar_label: Énergie éolienne

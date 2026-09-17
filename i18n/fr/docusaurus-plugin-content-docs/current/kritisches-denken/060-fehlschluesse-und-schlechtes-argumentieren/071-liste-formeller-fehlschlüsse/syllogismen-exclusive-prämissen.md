@@ -3,7 +3,6 @@ title: Deux prémisses négatives
 title_meta: Deux prémisses négatives
 sidebar_label: Deux prémisses négatives
 sidebar_position: 1
-id: premisses_exclusives
 description: Description du sophisme des deux prémisses négatives (prémisses exclusives, Exclusive Premises)
 keywords:
   - Sophismes

@@ -1,5 +1,5 @@
 ---
-id: pc-module-1-communautarisme_des_faits
+id: pc-module-1-communautarisme-des-faits
 title: "Le communautarisme des faits"
 sidebar_label: "Communautarisme"
 sidebar_position: 13

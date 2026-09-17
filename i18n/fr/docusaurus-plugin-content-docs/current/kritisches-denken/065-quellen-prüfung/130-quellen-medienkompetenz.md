@@ -1,5 +1,4 @@
 ---
-id: quellen_medienkompetenz
 title: Sources
 sidebar_position: 13
 sidebar_label: Sources

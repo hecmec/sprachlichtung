@@ -1,6 +1,5 @@
 ---
 title: Épochè et doute productif
-id: epoche-et-doute-productif
 sidebar_position: 4
 sidebar_label: Épochè et doute productif
 description: Les concepts de la suspension du jugement et du doute constructif comme outils de la pensée critique

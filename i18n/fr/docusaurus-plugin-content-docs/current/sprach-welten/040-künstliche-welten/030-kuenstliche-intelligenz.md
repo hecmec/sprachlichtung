@@ -1,5 +1,4 @@
 ---
-id: intelligence_artificielle
 title: Intelligence artificielle
 title_meta: "Intelligence artificielle : branches, formes d'apprentissage et domaines d'application"
 sidebar_label: Intelligence artificielle

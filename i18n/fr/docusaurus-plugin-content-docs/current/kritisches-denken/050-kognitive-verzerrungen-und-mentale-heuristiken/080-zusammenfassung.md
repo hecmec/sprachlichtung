@@ -1,6 +1,5 @@
 ---
 title: Résumé
-id: resume
 sidebar_position: 80
 description: Résumé des principales connaissances sur les biais cognitifs et les heuristiques mentales
 keywords:

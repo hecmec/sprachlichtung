@@ -3,7 +3,6 @@ title: Non distributio medii
 title_meta: Non distributio medii
 sidebar_label: Non distributio medii
 sidebar_position: 1
-id: non_distributio_medii
 description: Description du sophisme du moyen terme non distribué (Undistributed Middle)
 keywords:
   - Sophismes

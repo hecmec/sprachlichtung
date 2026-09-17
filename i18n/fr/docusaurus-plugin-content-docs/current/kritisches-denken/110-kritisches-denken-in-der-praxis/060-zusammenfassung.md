@@ -1,6 +1,5 @@
 ---
 title: Résumé
-id: resume
 sidebar_position: 6
 description: Résumé des points clés sur l'application pratique de la pensée critique
 keywords:

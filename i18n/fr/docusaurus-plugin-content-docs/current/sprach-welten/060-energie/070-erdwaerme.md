@@ -1,5 +1,4 @@
 ---
-id: geothermie
 title: Géothermie
 title_meta: Chaleur terrestre (géothermie)
 sidebar_label: Géothermie

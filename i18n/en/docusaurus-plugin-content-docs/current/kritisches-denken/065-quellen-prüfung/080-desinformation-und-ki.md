@@ -1,6 +1,5 @@
 ---
 title: Disinformation, fake news and AI fakes
-id: disinformation_and_ai
 sidebar_position: 8
 sidebar_label: Disinformation & AI fakes
 description: Recognising targeted disinformation, state campaigns, deepfakes and AI-generated content

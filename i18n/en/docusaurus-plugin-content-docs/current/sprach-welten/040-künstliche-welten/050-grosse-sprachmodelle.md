@@ -1,5 +1,4 @@
 ---
-id: large_language_models
 title: Large Language Models
 title_meta: "Large Language Models: What Is New, Where It Is Going and the Question of AGI"
 sidebar_label: Large Language Models

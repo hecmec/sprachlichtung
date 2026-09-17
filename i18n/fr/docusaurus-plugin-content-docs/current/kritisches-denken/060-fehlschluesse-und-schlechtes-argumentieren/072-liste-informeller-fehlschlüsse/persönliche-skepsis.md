@@ -3,7 +3,6 @@ title: Argument d'incrédulité personnelle
 title_meta: Argument d'incrédulité personnelle
 sidebar_label: Argument d'incrédulité personnelle
 sidebar_position: 1
-id: argument_dincredulite_personnelle
 description: Description de l'argument d'incrédulité personnelle (argument from incredulity)
 keywords:
   - Sophismes

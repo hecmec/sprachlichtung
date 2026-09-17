@@ -2,7 +2,6 @@
 title: Faux motifs
 title_meta: Faux motifs
 sidebar_label: Faux motifs
-id: faux-motifs
 sidebar_position: 1
 description: Description du sophisme des faux motifs (non causa pro causa / justification non pertinente)
 keywords:

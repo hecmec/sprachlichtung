@@ -1,5 +1,4 @@
 ---
-id: 04-relevanzfehlschluesse
 title: Fallacies of Relevance
 sidebar_position: 4
 description: Explanation of fallacies of relevance, in which the premises are irrelevant to the conclusion or insufficient to support it

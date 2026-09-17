@@ -1,6 +1,5 @@
 ---
 title: Fondements de la méthode scientifique
-id: fondements-de-la-methode-scientifique
 sidebar_label: Fondements de la méthode scientifique
 sidebar_position: 2
 description: Explication de la méthode scientifique, de ses processus et des différentes méthodes de recherche empirique

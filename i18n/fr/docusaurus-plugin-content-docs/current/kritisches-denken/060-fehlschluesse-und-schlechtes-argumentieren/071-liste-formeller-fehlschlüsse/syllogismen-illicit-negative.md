@@ -3,7 +3,6 @@ title: Conclusion affirmative à partir d'une prémisse négative
 title_meta: Conclusion affirmative à partir d'une prémisse négative
 sidebar_label: Conclusion affirmative à partir d'une prémisse négative
 sidebar_position: 1
-id: illicit_negative
 description: Description du sophisme d'une conclusion affirmative à partir d'une prémisse négative (Illicit Negative)
 keywords:
   - Sophismes

@@ -1,5 +1,4 @@
 ---
-id: glaube_gruende_wissen_gewissheit
 title: Belief, reasons, knowledge and certainty
 sidebar_label: Belief and knowledge
 sidebar_position: 14

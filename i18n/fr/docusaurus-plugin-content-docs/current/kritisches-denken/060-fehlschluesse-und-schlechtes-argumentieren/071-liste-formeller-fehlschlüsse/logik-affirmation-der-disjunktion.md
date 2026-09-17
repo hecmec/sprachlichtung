@@ -4,7 +4,6 @@ title_meta: Affirmation de la disjonction
 sidebar_label: Affirmation de la disjonction
 sidebar_position: 1
 description: Description du sophisme de l'affirmation de la disjonction (Affirming a Disjunct)
-id: logik_affirmation_der_disjunktion
 keywords:
   - sophismes
   - Fallacies

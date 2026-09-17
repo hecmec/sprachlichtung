@@ -3,7 +3,6 @@ title: Argumentum ad Logicam (sophisme du sophisme)
 title_meta: Argumentum ad Logicam
 sidebar_label: Argumentum ad Logicam
 sidebar_position: 1
-id: argumentum_ad_logicam
 description: Description du sophisme Argumentum ad Logicam
 keywords:
   - Sophismes

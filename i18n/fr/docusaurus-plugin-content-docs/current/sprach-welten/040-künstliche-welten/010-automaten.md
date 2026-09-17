@@ -1,5 +1,4 @@
 ---
-id: automates
 title: Automates
 title_meta: "Automates : de la machine de Turing au problème de l'arrêt"
 sidebar_label: Automates

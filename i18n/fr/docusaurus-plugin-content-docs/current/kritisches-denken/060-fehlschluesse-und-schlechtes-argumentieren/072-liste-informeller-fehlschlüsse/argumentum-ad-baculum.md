@@ -1,5 +1,4 @@
 ---
-id: argumentum_ad_baculum
 title: Argumentum ad Baculum
 title_meta: Argumentum ad Baculum
 sidebar_label: Argumentum ad Baculum

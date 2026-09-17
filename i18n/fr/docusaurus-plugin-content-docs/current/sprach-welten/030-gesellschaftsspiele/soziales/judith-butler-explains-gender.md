@@ -1,5 +1,4 @@
 ---
-id: butler_et_le_genre
 title: Butler et le genre
 title_meta: Judith Butler explique le genre
 sidebar_label: Butler et le genre

@@ -2,7 +2,6 @@
 title: Exercice - Plan de développement personnel pour la pensée critique
 sidebar_label: Exercice - Plan de développement personnel
 sidebar_position: 5
-id: exercice-plan-de-developpement-personnel-pour-la-pensee-critique
 description: Guide pratique d'exercice pour élaborer un plan de développement individuel de la pensée critique
 keywords:
   - pensée critique

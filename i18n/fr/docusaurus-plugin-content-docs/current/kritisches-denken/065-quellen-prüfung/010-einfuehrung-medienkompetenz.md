@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction-education-aux-medias
 sidebar_label: Introduction
 sidebar_position: 1
 description: "Introduction à l'éducation aux médias et à la critique des sources : pourquoi nous devons apprendre à vérifier à l'ère numérique de l'information"

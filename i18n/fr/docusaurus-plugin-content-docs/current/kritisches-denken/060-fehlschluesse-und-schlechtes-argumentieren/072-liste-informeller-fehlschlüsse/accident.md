@@ -1,5 +1,4 @@
 ---
-id: accident
 title: Sophisme de l'accident (A dicto simpliciter)
 title_meta: Sophisme de l'accident
 sidebar_label: Sophisme de l'accident

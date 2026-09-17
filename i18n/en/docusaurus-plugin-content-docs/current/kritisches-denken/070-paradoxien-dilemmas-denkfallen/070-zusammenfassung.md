@@ -1,5 +1,4 @@
 ---
-id: 070-zusammenfassung
 title: Summary
 sidebar_position: 7
 description: Summary of the key insights about paradoxes and their significance for critical thinking.

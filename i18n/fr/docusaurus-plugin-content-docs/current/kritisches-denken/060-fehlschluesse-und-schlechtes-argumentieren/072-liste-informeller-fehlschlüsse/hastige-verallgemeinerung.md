@@ -1,5 +1,4 @@
 ---
-id: generalisation_hative
 title: Généralisation hâtive
 title_meta: Généralisation hâtive
 sidebar_label: Généralisation hâtive

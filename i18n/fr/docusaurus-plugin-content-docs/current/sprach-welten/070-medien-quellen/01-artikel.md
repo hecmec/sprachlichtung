@@ -1,5 +1,4 @@
 ---
-id: articles_langue_philosophie
 title: Articles sur la langue et la philosophie
 sidebar_position: 1
 sidebar_label: Articles

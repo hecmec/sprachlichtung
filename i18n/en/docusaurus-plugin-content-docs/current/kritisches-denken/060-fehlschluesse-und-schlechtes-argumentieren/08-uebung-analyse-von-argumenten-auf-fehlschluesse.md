@@ -1,5 +1,4 @@
 ---
-id: 08-uebung-analyse-von-argumenten-auf-fehlschluesse
 title: "Exercise: Analysing Arguments for Fallacies"
 sidebar_position: 8
 sidebar_label: "Exercise: Analysing Fallacies"

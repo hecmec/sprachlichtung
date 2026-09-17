@@ -1,5 +1,4 @@
 ---
-id: jordan_peterson_psychologue_ou_gourou
 title: "Jordan Peterson : psychologue ou gourou ?"
 title_meta: "Jordan Peterson : psychologue ou gourou ? Un regard critique sur sa rhétorique et ses idées"
 sidebar_label: Jordan Peterson

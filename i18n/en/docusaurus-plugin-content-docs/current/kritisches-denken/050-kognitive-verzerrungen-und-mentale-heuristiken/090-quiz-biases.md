@@ -2,7 +2,6 @@
 title: "Quiz: Cognitive biases and mental heuristics"
 sidebar_position: 90
 sidebar_label: Quiz
-id: quiz_cognitive_biases
 description: Interactive self-test on understanding cognitive biases and mental heuristics for application in critical thinking.
 keywords:
   - quiz

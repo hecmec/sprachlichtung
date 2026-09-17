@@ -11,7 +11,6 @@ keywords:
   - pensée critique
   - prémisses inconsistantes
   - prémisses contradictoires
-id: logik_inkonsistente_praemissen
 last_update:
   date: 2026-06-07
   author: Immanuel Lupinus

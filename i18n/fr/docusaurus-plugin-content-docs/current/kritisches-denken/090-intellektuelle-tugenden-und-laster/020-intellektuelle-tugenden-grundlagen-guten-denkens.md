@@ -1,6 +1,5 @@
 ---
 title: Les vertus intellectuelles - fondements d'une pensée juste
-id: vertus_intellectuelles_fondements_pensee_juste
 sidebar_label: Les vertus intellectuelles
 sidebar_position: 2
 description: Présentation des principales vertus intellectuelles, traits de caractère qui favorisent une pensée juste

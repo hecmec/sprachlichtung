@@ -3,7 +3,6 @@ title: Demande de privilège spécial
 title_meta: Demande de privilège spécial
 sidebar_label: Demande de privilège spécial
 sidebar_position: 1
-id: demande_de_privilege_special
 description: Description de la demande de privilège spécial (Special Pleading)
 keywords:
   - Sophismes

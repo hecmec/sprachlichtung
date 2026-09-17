@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Ad Hominem
   - attaque contre la personne
-id: argumentum_ad_hominem
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

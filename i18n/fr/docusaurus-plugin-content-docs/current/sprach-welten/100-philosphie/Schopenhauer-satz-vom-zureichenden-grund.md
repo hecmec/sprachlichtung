@@ -1,5 +1,4 @@
 ---
-id: schopenhauer_principe_de_raison_suffisante
 title: "Schopenhauer : le principe de raison suffisante"
 sidebar_position: 1
 sidebar_label: "Schopenhauer : principe de raison suffisante"

@@ -1,5 +1,4 @@
 ---
-id: promises_and_dangers_of_ai
 title: Promises and Dangers of AI
 title_meta: "Promises and Dangers of AI: Benefits, Real Harms and Catastrophic Risks"
 sidebar_label: Promises and Dangers

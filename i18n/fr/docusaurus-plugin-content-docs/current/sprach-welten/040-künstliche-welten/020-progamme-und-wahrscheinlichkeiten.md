@@ -1,5 +1,4 @@
 ---
-id: programmes_et_probabilites
 title: Programmes et probabilités
 title_meta: "Programmes et probabilités : pourquoi l'IA estime au lieu de calculer"
 sidebar_label: Programmes et probabilités

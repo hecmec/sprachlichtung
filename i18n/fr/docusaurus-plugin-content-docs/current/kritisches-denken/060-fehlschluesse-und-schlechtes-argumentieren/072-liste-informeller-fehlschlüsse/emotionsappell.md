@@ -1,5 +1,4 @@
 ---
-id: appel_a_l_emotion
 title: Appel à l'émotion
 title_meta: Appel à l'émotion
 sidebar_label: Appel à l'émotion

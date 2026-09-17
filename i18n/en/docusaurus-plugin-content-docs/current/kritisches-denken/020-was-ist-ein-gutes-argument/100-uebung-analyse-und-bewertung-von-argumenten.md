@@ -2,7 +2,6 @@
 title: "Exercise: Analysis and evaluation of arguments"
 sidebar_position: 10
 sidebar_label: "Exercise: Argument analysis"
-id: exercise_argument_analysis
 description: Practical exercises for analyzing and evaluating various arguments
 keywords:
   - exercises

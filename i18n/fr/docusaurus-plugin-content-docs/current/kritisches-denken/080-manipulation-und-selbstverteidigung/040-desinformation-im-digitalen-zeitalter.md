@@ -1,5 +1,4 @@
 ---
-id: desinformation-a-l-ere-numerique
 title: La désinformation à l'ère numérique
 sidebar_position: 4
 sidebar_label: Désinformation numérique

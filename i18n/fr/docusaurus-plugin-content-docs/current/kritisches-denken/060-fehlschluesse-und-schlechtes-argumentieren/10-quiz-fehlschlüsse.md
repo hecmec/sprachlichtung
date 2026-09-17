@@ -2,7 +2,6 @@
 title: "Quiz : sophismes"
 sidebar_position: 10
 sidebar_label: Quiz
-id: quiz_sophismes
 description: Quiz interactif pour vérifier la compréhension des différents types de sophismes
 keywords:
   - Quiz

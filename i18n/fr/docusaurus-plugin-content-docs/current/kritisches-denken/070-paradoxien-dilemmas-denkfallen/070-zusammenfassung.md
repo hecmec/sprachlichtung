@@ -1,6 +1,5 @@
 ---
 title: Résumé
-id: resume_paradoxes
 sidebar_label: Résumé
 sidebar_position: 7
 description: Résumé des principaux enseignements sur les paradoxes et leur importance pour la pensée critique.

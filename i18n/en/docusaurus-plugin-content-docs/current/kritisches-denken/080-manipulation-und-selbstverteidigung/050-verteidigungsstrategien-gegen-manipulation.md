@@ -1,5 +1,4 @@
 ---
-id: 050-verteidigungsstrategien-gegen-manipulation
 title: Defence Strategies Against Manipulation
 sidebar_position: 5
 sidebar_label: Defence Strategies

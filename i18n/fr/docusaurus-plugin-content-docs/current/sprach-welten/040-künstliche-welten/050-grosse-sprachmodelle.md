@@ -1,5 +1,4 @@
 ---
-id: grands_modeles_de_langue
 title: Grands modèles de langue
 title_meta: "Grands modèles de langue : ce qui est nouveau, où cela va et la question de l'AGI"
 sidebar_label: Grands modèles de langue

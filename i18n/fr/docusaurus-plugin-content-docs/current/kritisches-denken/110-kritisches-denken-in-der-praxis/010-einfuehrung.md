@@ -1,6 +1,5 @@
 ---
 title: Introduction
-id: introduction
 sidebar_position: 1
 description: Introduction à l'application pratique de la pensée critique au quotidien
 keywords:

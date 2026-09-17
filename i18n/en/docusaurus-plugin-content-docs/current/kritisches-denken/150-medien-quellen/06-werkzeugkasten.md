@@ -13,7 +13,6 @@ keywords:
 last_update:
   date: 2026-02-04
   author: Immanuel Lupinus
-id: toolbox
 custom_translation_overwritten: false
 translation_status: manual
 ---

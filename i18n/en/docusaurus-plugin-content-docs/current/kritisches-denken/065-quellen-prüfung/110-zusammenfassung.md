@@ -1,6 +1,5 @@
 ---
 title: Summary
-id: summary_source_checking
 sidebar_position: 11
 description: Summary of the key concepts on media literacy and source criticism, with a complete list of sources
 keywords:

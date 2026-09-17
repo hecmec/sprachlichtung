@@ -1,6 +1,5 @@
 ---
 title: Médias sociaux, algorithmes et bulles de filtres
-id: medias_sociaux_algorithmes
 sidebar_position: 7
 sidebar_label: Médias sociaux et algorithmes
 description: Comment les plateformes, les algorithmes de recommandation et l'économie de l'attention façonnent notre regard, et ce que la recherche dit vraiment des bulles de filtres

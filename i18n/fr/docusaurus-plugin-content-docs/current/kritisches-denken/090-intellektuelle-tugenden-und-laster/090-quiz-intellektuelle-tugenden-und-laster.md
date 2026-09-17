@@ -1,5 +1,4 @@
 ---
-id: quiz-vertus-vices-intellectuels
 title: Quiz - Vertus et vices intellectuels
 sidebar_position: 9
 sidebar_label: Quiz

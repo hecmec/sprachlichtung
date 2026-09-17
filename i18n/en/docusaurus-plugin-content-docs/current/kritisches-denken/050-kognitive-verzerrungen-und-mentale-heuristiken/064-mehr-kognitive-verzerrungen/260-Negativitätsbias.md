@@ -1,7 +1,6 @@
 ---
 title: Negativity bias
 sidebar_position: 260
-id: negativity_bias
 description: The negativity bias describes the tendency to weight negative information more heavily and perceive it more intensely than positive information.
 keywords:
   - cognitive biases

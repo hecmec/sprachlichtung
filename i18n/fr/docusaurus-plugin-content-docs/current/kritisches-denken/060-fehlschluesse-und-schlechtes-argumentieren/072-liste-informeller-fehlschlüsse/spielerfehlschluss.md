@@ -4,7 +4,6 @@ title_meta: Sophisme du joueur
 sidebar_label: Sophisme du joueur
 sidebar_position: 1
 description: Description du sophisme du joueur (gambler's fallacy) dans la vie quotidienne
-id: sophisme_du_joueur
 keywords:
   - Sophismes
   - Fallacies

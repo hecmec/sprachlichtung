@@ -15,7 +15,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-id: muster_gueltiger_logischer_schluesse
 translation_status: auto
 custom_translation_overwritten: false
 ---

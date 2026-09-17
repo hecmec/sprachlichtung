@@ -3,7 +3,6 @@ title: Vœu pieux
 title_meta: Vœu pieux
 sidebar_label: Vœu pieux
 sidebar_position: 1
-id: voeu_pieux
 description: Description du vœu pieux (wishful thinking)
 keywords:
   - Sophismes

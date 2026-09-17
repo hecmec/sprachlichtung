@@ -1,5 +1,4 @@
 ---
-id: energie_animale
 title: Énergie animale
 title_meta: Énergie animale
 sidebar_label: Énergie animale

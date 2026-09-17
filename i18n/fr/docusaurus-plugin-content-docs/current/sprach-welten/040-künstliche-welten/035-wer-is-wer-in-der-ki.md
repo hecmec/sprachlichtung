@@ -1,5 +1,4 @@
 ---
-id: qui_est_qui_dans_l_ia
 title: Qui est qui dans l'IA
 title_meta: "Qui est qui dans l'IA : les principales figures, de Bayes à aujourd'hui"
 sidebar_label: Qui est qui dans l'IA

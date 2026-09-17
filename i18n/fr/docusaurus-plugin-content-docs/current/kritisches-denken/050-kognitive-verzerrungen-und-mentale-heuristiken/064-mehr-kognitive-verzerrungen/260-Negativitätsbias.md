@@ -1,6 +1,5 @@
 ---
 title: Biais de négativité
-id: biais_de_negativite
 sidebar_label: Biais de négativité
 sidebar_position: 260
 description: Le biais de négativité désigne la tendance à accorder plus de poids aux informations négatives et à les percevoir plus intensément que les positives.

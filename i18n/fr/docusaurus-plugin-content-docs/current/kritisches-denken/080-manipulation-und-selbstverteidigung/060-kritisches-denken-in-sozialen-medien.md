@@ -1,5 +1,4 @@
 ---
-id: kritisches-denken-in-sozialen-medien
 title: La pensée critique dans les médias sociaux
 sidebar_position: 6
 sidebar_label: Médias sociaux

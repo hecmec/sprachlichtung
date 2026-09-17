@@ -3,7 +3,6 @@ title: L'argument de l'homme de paille
 title_meta: L'argument de l'homme de paille
 sidebar_label: Homme de paille
 sidebar_position: 1
-id: homme_de_paille
 description: Description de l'argument de l'homme de paille (déformation de la position adverse)
 keywords:
   - Sophismes

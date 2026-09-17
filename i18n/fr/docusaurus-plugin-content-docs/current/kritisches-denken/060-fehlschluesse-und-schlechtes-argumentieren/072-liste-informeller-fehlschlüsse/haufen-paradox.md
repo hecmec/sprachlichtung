@@ -3,7 +3,6 @@ title: Paradoxe du tas (sorite)
 title_meta: Paradoxe du tas
 sidebar_label: Paradoxe du tas
 sidebar_position: 1
-id: paradoxe_du_tas
 description: Description du paradoxe du tas / sorite (sophismes liés aux termes vagues)
 keywords:
   - sophismes

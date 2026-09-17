@@ -1,6 +1,5 @@
 ---
 title: Idéalisation du passé
-id: idealisation_du_passe
 sidebar_label: Idéalisation du passé
 sidebar_position: 250
 description: L'idéalisation du passé désigne la tendance à présenter les événements passés sous un jour plus positif ou plus négatif qu'ils ne l'étaient réellement.

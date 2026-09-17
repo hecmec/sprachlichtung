@@ -1,7 +1,6 @@
 ---
 title: Characteristics of good arguments
 sidebar_label: Characteristics of good arguments
-id: characteristics_of_good_arguments
 sidebar_position: 5
 description: The most important quality characteristics of good arguments in critical thinking
 keywords:

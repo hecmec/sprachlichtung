@@ -1,6 +1,5 @@
 ---
 title: Searching and researching smartly
-id: searching_smartly
 sidebar_position: 6
 sidebar_label: Searching smartly
 description: "How to search well: using search engines wisely, distinguishing types of sources and using Wikipedia properly"

@@ -15,7 +15,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-id: introduction_jeux_de_societe
 translation_status: auto
 custom_translation_overwritten: false
 ---

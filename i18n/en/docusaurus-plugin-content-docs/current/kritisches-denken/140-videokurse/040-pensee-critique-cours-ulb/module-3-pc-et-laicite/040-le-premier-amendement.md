@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-le_premier_amendement
+id: pc-module-3-le-premier-amendement
 title: "Le premier amendement de la constitution des États-Unis"
 sidebar_label: "Le premier amendement"
 sidebar_position: 2

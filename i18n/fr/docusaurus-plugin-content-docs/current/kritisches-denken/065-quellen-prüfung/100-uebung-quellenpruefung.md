@@ -1,6 +1,5 @@
 ---
 title: "Exercice : vérifier les sources en pratique"
-id: exercice-verifier-les-sources
 sidebar_position: 10
 sidebar_label: "Exercice : vérifier les sources"
 description: "Exercices pratiques de critique des sources avec corrigés : appliquer SIFT, repérer les signaux d'alerte, classer les affirmations"

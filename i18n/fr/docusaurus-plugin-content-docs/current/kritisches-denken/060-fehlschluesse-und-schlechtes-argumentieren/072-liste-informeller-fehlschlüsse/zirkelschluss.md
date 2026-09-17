@@ -3,7 +3,6 @@ title: Raisonnement circulaire
 title_meta: Raisonnement circulaire
 sidebar_label: Raisonnement circulaire
 sidebar_position: 1
-id: raisonnement_circulaire
 description: Description du raisonnement circulaire (petitio principii / begging the question)
 keywords:
   - Sophismes

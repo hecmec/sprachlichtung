@@ -1,5 +1,4 @@
 ---
-id: energie_lunaire
 title: Énergie lunaire
 title_meta: Énergie lunaire (énergie des marées)
 sidebar_label: Énergie lunaire

@@ -1,5 +1,4 @@
 ---
-id: 070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern
 title: Exercise — Self-Reflection on Intellectual Virtues and Vices
 sidebar_position: 7
 description: A practical exercise for self-reflection and the development of your own intellectual character traits

@@ -1,6 +1,5 @@
 ---
 title: Désinformation, fausses nouvelles et faux générés par l'IA
-id: desinformation_et_ia
 sidebar_position: 8
 sidebar_label: Désinformation et IA
 description: Reconnaître la désinformation ciblée, les campagnes d'État, les hypertrucages (deepfakes) et les contenus générés par l'IA

@@ -3,7 +3,6 @@ title: Argumentum ad Misericordiam
 title_meta: Argumentum ad Misericordiam
 sidebar_label: Argumentum ad Misericordiam
 sidebar_position: 1
-id: argumentum_ad_misericordiam
 description: Description de l'Argumentum ad Misericordiam (appel à la pitié)
 keywords:
   - sophismes

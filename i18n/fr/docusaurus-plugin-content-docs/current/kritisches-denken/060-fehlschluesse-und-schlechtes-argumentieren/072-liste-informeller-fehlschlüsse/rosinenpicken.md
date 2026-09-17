@@ -3,7 +3,6 @@ title: Cueillette de cerises (cherry picking)
 title_meta: Cueillette de cerises (cherry picking)
 sidebar_label: Cueillette de cerises
 sidebar_position: 1
-id: cueillette_de_cerises
 description: "Description de la cueillette de cerises (cherry picking) : sélection des seules preuves qui confirment la thèse"
 keywords:
   - Sophismes

@@ -1,7 +1,6 @@
 ---
 title: Illusion de contrôle
 sidebar_label: Illusion de contrôle
-id: illusion_de_controle
 sidebar_position: 21
 description: L'illusion de contrôle décrit la tendance à surestimer son propre contrôle sur des événements ou des résultats, alors que ceux-ci dépendent souvent du hasard ou de facteurs externes.
 keywords:

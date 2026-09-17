@@ -11,7 +11,6 @@ keywords:
   - pensée critique
   - probabilité conditionnelle
   - Confusion of the Inverse
-id: sophisme_probabilite_conditionnelle
 last_update:
   date: 2026-06-07
   author: Immanuel Lupinus

@@ -1,5 +1,4 @@
 ---
-id: was_ist_kritisches_denken
 title: What is Critical Thinking?
 sidebar_label: What it is
 sidebar_position: 10

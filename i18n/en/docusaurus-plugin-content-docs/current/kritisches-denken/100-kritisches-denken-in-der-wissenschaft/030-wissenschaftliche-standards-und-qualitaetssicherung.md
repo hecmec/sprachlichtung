@@ -1,5 +1,4 @@
 ---
-id: 030-wissenschaftliche-standards-und-qualitaetssicherung
 title: Scientific Standards and Quality Assurance
 sidebar_position: 3
 description: An account of the quality assurance mechanisms in science, such as peer review and replication

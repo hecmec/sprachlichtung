@@ -1,6 +1,5 @@
 ---
 title: Biais du survivant
-id: biais_du_survivant
 sidebar_label: Biais du survivant
 sidebar_position: 270
 description: Le biais du survivant décrit la tendance à se concentrer sur les exemples de réussite tout en ignorant les cas d'échec, ce qui conduit à des évaluations faussées.

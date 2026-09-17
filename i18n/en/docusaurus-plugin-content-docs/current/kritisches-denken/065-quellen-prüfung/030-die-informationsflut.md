@@ -1,6 +1,5 @@
 ---
 title: The information flood and its pitfalls
-id: the_information_flood
 sidebar_position: 3
 sidebar_label: The information flood
 description: "Why source criticism is indispensable today: misinformation, disinformation and malinformation at a glance"

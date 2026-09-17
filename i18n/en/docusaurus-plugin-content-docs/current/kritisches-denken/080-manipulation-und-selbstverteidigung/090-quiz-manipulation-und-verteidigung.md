@@ -1,5 +1,4 @@
 ---
-id: 090-quiz-manipulation-und-verteidigung
 title: Quiz — Manipulation and Defence
 sidebar_position: 9
 sidebar_label: Quiz

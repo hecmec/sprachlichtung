@@ -1,5 +1,4 @@
 ---
-id: quiz-manipulation-und-verteidigung
 title: Quiz - Manipulation et défense
 sidebar_position: 9
 sidebar_label: Quiz

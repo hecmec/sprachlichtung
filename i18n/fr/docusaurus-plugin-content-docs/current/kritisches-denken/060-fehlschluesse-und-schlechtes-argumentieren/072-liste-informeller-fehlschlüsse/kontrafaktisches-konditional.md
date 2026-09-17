@@ -3,7 +3,6 @@ title: Conditionnel contrefactuel
 title_meta: Conditionnel contrefactuel
 sidebar_label: Conditionnel contrefactuel
 sidebar_position: 1
-id: conditionnel_contrefactuel
 description: Description du sophisme reposant sur des conditionnels contrefactuels (conclusions indémontrables du type « si... aurait »)
 keywords:
   - Sophismes

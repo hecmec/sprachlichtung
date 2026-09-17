@@ -1,5 +1,4 @@
 ---
-id: ablenkung_red_herring
 title: Diversion (hareng rouge)
 title_meta: Diversion (hareng rouge)
 sidebar_label: Diversion (hareng rouge)

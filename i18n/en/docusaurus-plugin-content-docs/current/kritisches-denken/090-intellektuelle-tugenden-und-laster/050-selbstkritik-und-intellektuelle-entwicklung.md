@@ -1,5 +1,4 @@
 ---
-id: 050-selbstkritik-und-intellektuelle-entwicklung
 title: Self-Criticism and Intellectual Development
 sidebar_position: 5
 description: The importance of self-reflection and constructive self-criticism for intellectual development

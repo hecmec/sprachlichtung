@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Sophisme téléologique
   - Téléologie
-id: sophisme_teleologique
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

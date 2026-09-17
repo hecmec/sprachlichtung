@@ -1,6 +1,5 @@
 ---
 title: Qu'est-ce que l'éducation aux médias ?
-id: quest-ce-que-leducation-aux-medias
 sidebar_label: Qu'est-ce que l'éducation aux médias ?
 sidebar_position: 2
 description: Éducation aux médias, littératie informationnelle et le concept MIL de l'UNESCO (Media and Information Literacy)

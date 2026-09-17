@@ -1,5 +1,5 @@
 ---
-id: grundhaltung_des_kritischen_denkens
+id: grundhaltung-des-kritischen-denkens
 title: The fundamental Attitude of Critical Thinking
 sidebar_position: 40
 sidebar_label: Fundamental Attitude
@@ -13,7 +13,6 @@ keywords:
 last_update:
   date: 2026-01-15
   author: Immanuel Lupinus
-slug: /critical-thinking/fundamental-attitude
 translation_status: auto
 ---
 

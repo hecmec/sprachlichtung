@@ -1,6 +1,5 @@
 ---
 title: Effet du spectateur
-id: effet_du_spectateur
 sidebar_label: Effet du spectateur
 sidebar_position: 280
 description: "La probabilité de porter secours diminue à mesure que d'autres personnes sont présentes : la responsabilité se dilue et l'incertitude augmente."

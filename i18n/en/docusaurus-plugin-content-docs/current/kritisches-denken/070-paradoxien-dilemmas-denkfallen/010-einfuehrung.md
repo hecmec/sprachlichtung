@@ -1,5 +1,4 @@
 ---
-id: 010-einfuehrung
 title: Introduction
 sidebar_position: 1
 description: Introduction to the concept of paradoxes as fascinating phenomena that challenge our critical thinking

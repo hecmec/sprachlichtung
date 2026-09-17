@@ -1,5 +1,4 @@
 ---
-id: fausse_dichotomie
 title: Fausse dichotomie
 title_meta: Fausse dichotomie
 sidebar_label: Fausse dichotomie

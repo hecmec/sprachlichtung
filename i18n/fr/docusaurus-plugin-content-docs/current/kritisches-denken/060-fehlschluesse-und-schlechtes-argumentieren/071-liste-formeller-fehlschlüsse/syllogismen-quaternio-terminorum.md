@@ -3,7 +3,6 @@ title: Quaternio Terminorum
 title_meta: Quaternio Terminorum
 sidebar_label: Quaternio Terminorum
 sidebar_position: 1
-id: quaternio_terminorum
 description: Description du sophisme des quatre termes (Quaternio Terminorum)
 keywords:
   - Sophismes

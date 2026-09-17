@@ -1,5 +1,4 @@
 ---
-id: 040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken
 title: Developing a Personal Plan for Critical Thinking
 sidebar_position: 4
 description: A systematic guide to self-assessment, goal-setting and the continuous development of critical thinking

@@ -1,6 +1,5 @@
 ---
 title: "Quiz: media literacy & source criticism"
-id: quiz_source_checking
 sidebar_position: 12
 sidebar_label: Quiz
 description: Interactive quiz to check your understanding of media literacy, SIFT and source criticism

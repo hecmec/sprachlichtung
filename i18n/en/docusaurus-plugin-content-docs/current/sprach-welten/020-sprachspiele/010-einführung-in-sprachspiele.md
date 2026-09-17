@@ -10,7 +10,6 @@ keywords:
 last_update:
   date: 2025-05-22
   author: Immanuel Lupinus
-id: introduction_to_language_games
 translation_status: auto
 custom_translation_overwritten: false
 ---

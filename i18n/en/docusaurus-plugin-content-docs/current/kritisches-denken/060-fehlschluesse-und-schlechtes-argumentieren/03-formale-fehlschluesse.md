@@ -1,5 +1,4 @@
 ---
-id: 03-formale-fehlschluesse
 title: Formal Fallacies
 sidebar_position: 3
 description: Analysis of common formal fallacies that violate the rules of logical structure regardless of content

@@ -3,7 +3,6 @@ title: Empoisonnement du puits
 title_meta: Empoisonnement du puits
 sidebar_label: Empoisonnement du puits
 sidebar_position: 1
-id: empoisonnement_du_puits
 description: "Description de l'empoisonnement du puits (poisoning the well) : discréditer une personne par anticipation"
 keywords:
   - Sophismes

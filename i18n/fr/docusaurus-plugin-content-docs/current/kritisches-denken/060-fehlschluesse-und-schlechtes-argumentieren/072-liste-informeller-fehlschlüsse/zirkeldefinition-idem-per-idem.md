@@ -3,7 +3,6 @@ title: Définition circulaire (Idem per Idem)
 title_meta: Définition circulaire
 sidebar_label: Définition circulaire (Idem per Idem)
 sidebar_position: 1
-id: definition_circulaire_idem_per_idem
 description: "Description de la définition circulaire (idem per idem) : définition d'un terme par lui-même"
 keywords:
   - Sophismes

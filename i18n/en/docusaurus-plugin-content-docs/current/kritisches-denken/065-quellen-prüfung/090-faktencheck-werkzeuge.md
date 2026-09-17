@@ -1,6 +1,5 @@
 ---
 title: Fact-checking and verification tools
-id: fact_checking_tools
 sidebar_position: 9
 sidebar_label: Fact-checking & tools
 description: Reputable fact-checking services, the IFCN, checking flowcharts and practical tools such as reverse image search and geolocation

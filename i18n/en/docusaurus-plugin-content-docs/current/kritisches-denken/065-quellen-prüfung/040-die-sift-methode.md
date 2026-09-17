@@ -1,6 +1,5 @@
 ---
 title: The SIFT method
-id: the_sift_method
 sidebar_position: 4
 description: "SIFT: four simple moves for quickly checking sources, plus lateral reading and click restraint"
 keywords:

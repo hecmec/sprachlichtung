@@ -1,6 +1,5 @@
 ---
 title: Apophénie
-id: apophenie
 sidebar_label: Apophénie
 sidebar_position: 310
 description: L'apophénie est la tendance à voir des motifs et du sens dans le hasard, là où il n'y en a aucun.

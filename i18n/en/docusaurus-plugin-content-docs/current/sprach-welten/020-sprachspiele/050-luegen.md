@@ -12,7 +12,6 @@ keywords:
 last_update:
   date: 2025-06-24
   author: Immanuel Lupinus
-id: lying_deceiving_and_cheating
 translation_status: auto
 custom_translation_overwritten: false
 ---

@@ -3,7 +3,6 @@ title: Sophisme existentiel
 title_meta: Sophisme existentiel
 sidebar_label: Sophisme existentiel
 sidebar_position: 1
-id: sophisme_existentiel
 description: Description du sophisme existentiel (présupposé d'existence, Existential Fallacy)
 keywords:
   - Sophismes

@@ -1,5 +1,4 @@
 ---
-id: negation_de_l_antecedent
 title: Négation de l'antécédent
 title_meta: Négation de l'antécédent
 sidebar_label: Négation de l'antécédent

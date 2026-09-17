@@ -1,5 +1,4 @@
 ---
-id: promesses_et_dangers_de_l_ia
 title: Promesses et dangers de l'IA
 title_meta: "Promesses et dangers de l'IA : bénéfices, dommages réels et risques catastrophiques"
 sidebar_label: Promesses et dangers

@@ -1,7 +1,6 @@
 ---
 title: Solutions
 sidebar_label: Solutions
-id: solutions
 sidebar_position: 11
 description: Solutions to the exercises on the analysis and evaluation of arguments
 keywords:

@@ -2,7 +2,6 @@
 title: Les sophismes dans les médias et la politique
 sidebar_position: 7
 sidebar_label: Sophismes dans les médias et la politique
-id: sophismes_medias_politique
 description: Examen des sophismes typiques dans les médias et les discours politiques ainsi que des stratégies pour les repérer
 keywords:
   - sophismes médiatiques

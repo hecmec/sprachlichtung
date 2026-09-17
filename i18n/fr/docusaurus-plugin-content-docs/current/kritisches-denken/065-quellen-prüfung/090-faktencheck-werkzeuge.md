@@ -1,6 +1,5 @@
 ---
 title: Vérification des faits et outils de vérification
-id: verification-des-faits-et-outils
 sidebar_position: 9
 sidebar_label: Vérification des faits & outils
 description: Services sérieux de vérification des faits, l'IFCN, des organigrammes de contrôle et des outils pratiques comme la recherche d'image inversée et la géolocalisation

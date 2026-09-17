@@ -12,7 +12,6 @@ keywords:
 last_update:
   date: 2025-06-24
   author: Immanuel Lupinus
-id: seduction_as_linguistic_manipulation
 translation_status: auto
 custom_translation_overwritten: false
 ---

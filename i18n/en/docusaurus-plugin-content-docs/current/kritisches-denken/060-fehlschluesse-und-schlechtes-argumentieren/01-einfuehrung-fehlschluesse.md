@@ -1,5 +1,4 @@
 ---
-id: 01-einfuehrung-fehlschluesse
 title: Introduction
 sidebar_position: 1
 description: Introduction to the concept of fallacies and their significance for critical thinking

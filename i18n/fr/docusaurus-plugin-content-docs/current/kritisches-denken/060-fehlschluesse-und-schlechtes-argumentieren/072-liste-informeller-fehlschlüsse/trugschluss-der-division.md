@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Division
   - Fallacy of Division
-id: sophisme_de_division
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

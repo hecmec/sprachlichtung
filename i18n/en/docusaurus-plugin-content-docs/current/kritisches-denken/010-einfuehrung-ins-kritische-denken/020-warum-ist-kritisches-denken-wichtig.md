@@ -1,5 +1,4 @@
 ---
-id: warum_ist_kritisches_denken_wichtig
 title: Why is critical thinking important?
 sidebar_label: Importance
 sidebar_position: 20

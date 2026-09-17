@@ -1,5 +1,4 @@
 ---
-id: automata
 title: Automata
 title_meta: "Automata: From the Turing Machine to the Halting Problem"
 sidebar_label: Automata

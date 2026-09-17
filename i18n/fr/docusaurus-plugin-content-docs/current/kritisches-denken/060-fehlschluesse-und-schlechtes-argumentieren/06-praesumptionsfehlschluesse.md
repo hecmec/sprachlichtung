@@ -2,7 +2,6 @@
 title: Sophismes de présomption
 sidebar_position: 6
 sidebar_label: Sophismes de présomption
-id: sophismes_de_presomption
 description: Analyse des sophismes de présomption, qui reposent sur des hypothèses infondées ou problématiques
 keywords:
   - Sophismes de présomption

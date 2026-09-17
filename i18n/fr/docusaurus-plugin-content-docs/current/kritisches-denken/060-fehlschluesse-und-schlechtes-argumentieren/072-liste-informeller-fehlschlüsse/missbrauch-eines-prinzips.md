@@ -3,7 +3,6 @@ title: Abus de principe
 title_meta: Abus de principe
 sidebar_label: Abus de principe
 sidebar_position: 1
-id: abus_de_principe
 description: Description de l'abus de principe (extension d'une règle au-delà de son domaine d'application véritable)
 keywords:
   - Sophismes

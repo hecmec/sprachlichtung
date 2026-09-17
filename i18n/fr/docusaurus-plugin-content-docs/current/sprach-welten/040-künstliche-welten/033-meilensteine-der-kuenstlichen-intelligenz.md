@@ -1,5 +1,4 @@
 ---
-id: jalons_de_l_intelligence_artificielle
 title: Jalons de l'intelligence artificielle
 title_meta: "Jalons de l'intelligence artificielle : onze étapes de 1950 à aujourd'hui"
 sidebar_label: Jalons de l'IA

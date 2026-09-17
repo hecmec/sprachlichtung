@@ -1,5 +1,4 @@
 ---
-id: milestones_of_artificial_intelligence
 title: Milestones of Artificial Intelligence
 title_meta: "Milestones of Artificial Intelligence: Eleven Stations from 1950 to Today"
 sidebar_label: Milestones of AI

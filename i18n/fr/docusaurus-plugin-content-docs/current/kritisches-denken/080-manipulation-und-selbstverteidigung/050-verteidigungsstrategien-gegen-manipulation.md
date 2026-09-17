@@ -3,7 +3,6 @@ title: Stratégies de défense contre la manipulation
 sidebar_position: 5
 sidebar_label: Stratégies de défense
 description: Stratégies pratiques pour se protéger contre différents types de tentatives de manipulation
-id: strategies_de_defense_contre_la_manipulation
 keywords:
   - Manipulation
   - Stratégies de défense

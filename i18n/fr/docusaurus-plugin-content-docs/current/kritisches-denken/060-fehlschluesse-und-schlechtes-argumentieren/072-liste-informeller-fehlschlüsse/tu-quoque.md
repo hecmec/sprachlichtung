@@ -3,7 +3,6 @@ title: Tu quoque
 title_meta: Tu quoque
 sidebar_label: Tu quoque
 sidebar_position: 1
-id: tu_quoque
 description: Description du sophisme tu quoque (toi aussi / reproche d'hypocrisie)
 keywords:
   - Sophismes

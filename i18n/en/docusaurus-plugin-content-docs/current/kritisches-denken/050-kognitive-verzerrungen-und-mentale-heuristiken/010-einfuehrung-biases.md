@@ -1,5 +1,5 @@
 ---
-id: 010-einfuehrung-biases
+id: "010-einfuehrung-biases"
 title: Introduction
 sidebar_position: 10
 description: Introduction to cognitive biases and their impact on our thinking

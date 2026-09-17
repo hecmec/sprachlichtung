@@ -1,5 +1,4 @@
 ---
-id: 020-intellektuelle-tugenden-grundlagen-guten-denkens
 title: Intellectual Virtues — Foundations of Good Thinking
 sidebar_position: 2
 description: An explanation of the most important intellectual virtues as character traits that promote good thinking

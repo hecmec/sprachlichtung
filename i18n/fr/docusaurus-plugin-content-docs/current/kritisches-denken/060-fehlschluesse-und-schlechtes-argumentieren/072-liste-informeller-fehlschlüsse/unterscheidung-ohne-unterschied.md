@@ -3,7 +3,6 @@ title: Distinction sans différence
 title_meta: Distinction sans différence
 sidebar_label: Distinction sans différence
 sidebar_position: 1
-id: unterscheidung_ohne_unterschied
 description: Description de la distinction sans différence (distinction without a difference)
 keywords:
   - Sophismes

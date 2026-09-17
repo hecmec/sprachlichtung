@@ -1,6 +1,5 @@
 ---
 title: Chercher et faire des recherches intelligemment
-id: chercher_intelligemment
 sidebar_position: 6
 sidebar_label: Chercher intelligemment
 description: "Comment bien chercher : utiliser les moteurs de recherche avec discernement, distinguer les types de sources et bien se servir de Wikipédia"

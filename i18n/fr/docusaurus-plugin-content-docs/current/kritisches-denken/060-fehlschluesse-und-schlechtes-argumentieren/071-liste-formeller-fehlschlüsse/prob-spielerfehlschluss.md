@@ -3,7 +3,6 @@ title: Sophisme du joueur
 title_meta: Sophisme du joueur
 sidebar_label: Sophisme du joueur
 sidebar_position: 1
-id: sophisme_du_joueur
 description: Description du sophisme du joueur (Gambler's Fallacy)
 keywords:
   - Sophismes

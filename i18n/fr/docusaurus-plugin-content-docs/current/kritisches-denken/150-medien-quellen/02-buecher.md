@@ -1,5 +1,4 @@
 ---
-id: buecher
 title: Livres sur la pensée critique
 sidebar_position: 2
 sidebar_label: Livres

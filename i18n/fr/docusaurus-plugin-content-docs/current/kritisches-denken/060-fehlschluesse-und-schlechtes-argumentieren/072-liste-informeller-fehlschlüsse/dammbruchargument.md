@@ -1,5 +1,4 @@
 ---
-id: pente_glissante
 title: Argument de la pente glissante (Slippery Slope)
 title_meta: Argument de la pente glissante
 sidebar_label: Pente glissante

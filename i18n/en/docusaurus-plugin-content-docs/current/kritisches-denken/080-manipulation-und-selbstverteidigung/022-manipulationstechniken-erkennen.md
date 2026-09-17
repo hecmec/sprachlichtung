@@ -1,5 +1,4 @@
 ---
-id: 022-manipulationstechniken-erkennen
 title: Recognising Manipulation Techniques
 sidebar_position: 2
 sidebar_label: Manipulation Techniques

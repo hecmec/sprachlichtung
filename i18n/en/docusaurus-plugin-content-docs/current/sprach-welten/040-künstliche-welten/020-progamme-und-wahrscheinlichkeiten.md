@@ -1,5 +1,4 @@
 ---
-id: programs_and_probabilities
 title: Programs and Probabilities
 title_meta: "Programs and Probabilities: Why AI Estimates Instead of Calculating"
 sidebar_label: Programs and Probabilities

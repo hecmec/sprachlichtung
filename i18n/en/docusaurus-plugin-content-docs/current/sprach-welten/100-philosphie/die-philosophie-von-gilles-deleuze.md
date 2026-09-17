@@ -11,7 +11,6 @@ keywords:
 last_update:
   date: 2025-11-24
   author: Immanuel Lupinus
-id: deleuze_philosophy_video
 translation_status: auto
 custom_translation_overwritten: false
 ---

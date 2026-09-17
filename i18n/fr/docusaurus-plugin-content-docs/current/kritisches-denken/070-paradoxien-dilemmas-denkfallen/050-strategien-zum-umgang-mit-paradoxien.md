@@ -2,7 +2,6 @@
 title: Stratégies pour aborder les paradoxes
 sidebar_label: Aborder les paradoxes
 sidebar_position: 5
-id: strategies_pour_aborder_les_paradoxes
 description: Méthodes et approches pour maîtriser et résoudre les situations paradoxales.
 keywords:
   - paradoxes

@@ -2,7 +2,6 @@
 title: Introduction aux jeux de langage
 sidebar_label: Introduction
 sidebar_position: 1
-id: introduction_aux_jeux_de_langage
 description: Introduction aux jeux de langage
 keywords:
   - jeux de langage

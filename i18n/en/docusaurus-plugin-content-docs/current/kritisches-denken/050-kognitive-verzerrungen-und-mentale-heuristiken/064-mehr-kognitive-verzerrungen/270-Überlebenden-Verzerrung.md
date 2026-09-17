@@ -1,7 +1,6 @@
 ---
 title: Survivorship bias
 sidebar_position: 270
-id: survivorship_bias
 description: Survivorship bias describes the tendency to concentrate on successful examples while ignoring the unsuccessful ones, which leads to distorted assessments.
 keywords:
   - cognitive biases

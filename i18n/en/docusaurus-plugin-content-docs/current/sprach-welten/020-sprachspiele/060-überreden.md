@@ -11,7 +11,6 @@ keywords:
 last_update:
   date: 2025-06-24
   author: Immanuel Lupinus
-id: persuading_and_convincing
 translation_status: auto
 custom_translation_overwritten: false
 ---

@@ -1,5 +1,4 @@
 ---
-id: 02-was-sind-fehlschluesse
 title: What Are Fallacies?
 sidebar_position: 2
 description: Definition, characteristics and categorisation of logical fallacies and why they are problematic in critical thinking

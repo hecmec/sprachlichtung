@@ -2,7 +2,6 @@
 title: Le jeu de langage de l'explication
 sidebar_label: Expliquer
 sidebar_position: 4
-id: le_jeu_de_langage_de_l_explication
 description: Le jeu de langage de l'explication
 keywords:
   - jeux de langage

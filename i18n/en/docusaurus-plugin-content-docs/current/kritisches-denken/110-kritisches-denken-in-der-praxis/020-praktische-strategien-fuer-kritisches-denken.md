@@ -1,5 +1,4 @@
 ---
-id: 020-praktische-strategien-fuer-kritisches-denken
 title: Practical Strategies for Critical Thinking
 sidebar_position: 2
 description: Concrete strategies and tools for applying critical thinking in practice in various areas of life

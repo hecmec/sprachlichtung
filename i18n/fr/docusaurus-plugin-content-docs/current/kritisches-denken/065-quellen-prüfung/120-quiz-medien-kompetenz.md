@@ -1,6 +1,5 @@
 ---
 title: "Quiz : éducation aux médias & critique des sources"
-id: quiz-education-aux-medias
 sidebar_position: 12
 sidebar_label: Quiz
 description: Quiz interactif pour vérifier sa compréhension de l'éducation aux médias, de SIFT et de la critique des sources

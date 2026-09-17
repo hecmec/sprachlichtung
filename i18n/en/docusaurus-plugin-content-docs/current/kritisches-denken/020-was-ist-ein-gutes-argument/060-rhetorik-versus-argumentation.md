@@ -1,7 +1,6 @@
 ---
 title: Rhetoric versus argumentation
 sidebar_label: Rhetoric versus argumentation
-id: rhetoric_versus_argumentation
 sidebar_position: 6
 description: The difference between rhetoric and argumentation in critical thinking
 keywords:

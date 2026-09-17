@@ -3,7 +3,6 @@ title: Aucun vrai Écossais
 title_meta: Aucun vrai Écossais
 sidebar_label: Aucun vrai Écossais
 sidebar_position: 1
-id: aucun_vrai_ecossais
 description: Description du sophisme « aucun vrai Écossais » (redéfinition a posteriori pour écarter les contre-exemples)
 keywords:
   - Sophismes

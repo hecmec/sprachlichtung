@@ -1,6 +1,5 @@
 ---
 title: "Quiz : biais cognitifs et heuristiques mentales"
-id: quiz_biais
 sidebar_position: 90
 sidebar_label: Quiz
 description: Auto-test interactif pour comprendre les biais cognitifs et les heuristiques mentales et les appliquer à la pensée critique.

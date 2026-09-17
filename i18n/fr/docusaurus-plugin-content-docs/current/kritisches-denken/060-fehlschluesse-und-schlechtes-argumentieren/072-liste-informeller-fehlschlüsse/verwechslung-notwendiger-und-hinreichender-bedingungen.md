@@ -3,7 +3,6 @@ title: Confusion entre conditions nécessaires et suffisantes
 title_meta: Conditions nécessaires et suffisantes
 sidebar_label: Conditions nécessaires vs. suffisantes
 sidebar_position: 1
-id: confusion_conditions_necessaires_suffisantes
 description: Description de la confusion entre conditions nécessaires et suffisantes
 keywords:
   - Sophismes

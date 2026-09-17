@@ -16,7 +16,6 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
-id: jordan_peterson_psychologist_or_guru
 translation_status: auto
 custom_translation_overwritten: false
 ---

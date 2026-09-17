@@ -1,5 +1,4 @@
 ---
-id: who_is_who_in_ai
 title: Who's Who in AI
 title_meta: "Who's Who in AI: The Most Important Minds from Bayes to Today"
 sidebar_label: Who's Who in AI

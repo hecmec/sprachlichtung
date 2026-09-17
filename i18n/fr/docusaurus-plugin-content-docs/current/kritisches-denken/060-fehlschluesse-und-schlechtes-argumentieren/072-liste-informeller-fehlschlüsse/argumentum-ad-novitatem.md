@@ -3,7 +3,6 @@ title: Argumentum ad Novitatem
 title_meta: Argumentum ad Novitatem
 sidebar_label: Argumentum ad Novitatem
 sidebar_position: 1
-id: argumentum_ad_novitatem
 description: Description de l'Argumentum ad Novitatem (appel à la nouveauté)
 keywords:
   - sophismes

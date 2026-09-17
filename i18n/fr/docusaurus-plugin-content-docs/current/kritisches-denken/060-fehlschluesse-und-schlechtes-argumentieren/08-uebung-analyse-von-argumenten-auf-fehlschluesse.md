@@ -2,7 +2,6 @@
 title: "Exercice : analyse d'arguments à la recherche de sophismes"
 sidebar_position: 8
 sidebar_label: "Exercice : analyse de sophismes"
-id: exercice_analyse_arguments_sophismes
 description: Exercice pratique pour identifier différents sophismes dans des arguments, avec corrigés et variantes améliorées
 keywords:
   - exercice

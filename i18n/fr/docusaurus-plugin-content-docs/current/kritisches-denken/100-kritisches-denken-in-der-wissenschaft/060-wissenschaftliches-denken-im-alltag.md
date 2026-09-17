@@ -1,6 +1,5 @@
 ---
 title: La pensée scientifique au quotidien
-id: pensee-scientifique-au-quotidien
 sidebar_label: La pensée scientifique au quotidien
 sidebar_position: 6
 description: Application des principes et méthodes scientifiques dans la vie quotidienne

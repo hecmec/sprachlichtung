@@ -1,5 +1,4 @@
 ---
-id: energie_nucleaire
 title: Énergie nucléaire
 title_meta: Énergie nucléaire
 sidebar_label: Énergie nucléaire

@@ -2,7 +2,6 @@
 title: Le jeu de langage du récit
 sidebar_label: Raconter
 sidebar_position: 4
-id: le_jeu_de_langage_du_recit
 description: Le jeu de langage du récit
 keywords:
   - jeux de langage

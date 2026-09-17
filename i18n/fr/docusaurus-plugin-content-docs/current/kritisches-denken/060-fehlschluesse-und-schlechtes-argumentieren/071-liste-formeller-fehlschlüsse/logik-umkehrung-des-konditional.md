@@ -3,7 +3,6 @@ title: Conversion du conditionnel
 title_meta: Conversion du conditionnel
 sidebar_label: Conversion du conditionnel
 sidebar_position: 1
-id: logique_conversion_du_conditionnel
 description: Description du sophisme de la conversion illégitime du conditionnel (converse error)
 keywords:
   - sophismes

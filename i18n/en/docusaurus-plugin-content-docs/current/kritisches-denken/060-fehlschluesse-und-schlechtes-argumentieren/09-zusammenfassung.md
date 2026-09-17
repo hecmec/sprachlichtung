@@ -1,5 +1,4 @@
 ---
-id: 09-zusammenfassung
 title: Summary
 sidebar_position: 9
 description: Summary of the key concepts on fallacies and their significance for critical thinking

@@ -1,5 +1,4 @@
 ---
-id: 040-epoche-und-produktiver-zweifel
 title: Epoché and Productive Doubt
 sidebar_position: 4
 description: The concepts of suspension of judgement and constructive doubt as tools of critical thinking

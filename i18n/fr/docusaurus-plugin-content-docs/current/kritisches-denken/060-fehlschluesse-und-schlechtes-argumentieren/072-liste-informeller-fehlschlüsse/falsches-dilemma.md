@@ -2,7 +2,6 @@
 title: Faux dilemme
 title_meta: Faux dilemme
 sidebar_label: Faux dilemme
-id: faux-dilemme
 sidebar_position: 1
 description: Description du faux dilemme (deux options seulement, alors qu'il en existe davantage)
 keywords:

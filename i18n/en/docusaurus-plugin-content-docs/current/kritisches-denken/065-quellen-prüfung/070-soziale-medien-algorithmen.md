@@ -1,6 +1,5 @@
 ---
 title: Social media, algorithms and filter bubbles
-id: social_media_algorithms
 sidebar_position: 7
 sidebar_label: Social media & algorithms
 description: How platforms, recommendation algorithms and the attention economy shape our view, and what the research on filter bubbles really says

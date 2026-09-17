@@ -1,5 +1,4 @@
 ---
-id: 090-quiz-wissenschaft-und-ihre-methoden
 title: Quiz — Science and Its Methods
 sidebar_position: 9
 description: A quiz to check your understanding of scientific methods and principles

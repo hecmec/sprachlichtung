@@ -1,5 +1,5 @@
 ---
-id: pc-module-3-les_conquetes_laiques_recent
+id: pc-module-3-les-conquetes-laiques-recent
 title: "Pensée critique - Les conquêtes laïques récentes"
 sidebar_label: "Les conquêtes laïques récentes"
 sidebar_position: 3

@@ -1,5 +1,4 @@
 ---
-id: ia_generative
 title: IA générative
 title_meta: "IA générative : de la série temporelle au LSTM et à l'attention"
 sidebar_label: IA générative

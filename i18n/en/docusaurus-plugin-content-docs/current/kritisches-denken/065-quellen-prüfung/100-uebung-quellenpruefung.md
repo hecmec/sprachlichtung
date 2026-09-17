@@ -1,6 +1,5 @@
 ---
 title: "Exercise: checking sources in practice"
-id: exercise_source_checking
 sidebar_position: 10
 sidebar_label: "Exercise: checking sources"
 description: "Practical exercises in source criticism with solutions: applying SIFT, spotting warning signs, classifying claims"

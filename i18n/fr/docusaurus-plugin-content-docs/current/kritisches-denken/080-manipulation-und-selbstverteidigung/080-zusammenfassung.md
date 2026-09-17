@@ -1,5 +1,4 @@
 ---
-id: zusammenfassung
 title: Résumé
 sidebar_position: 8
 description: Résumé des enseignements essentiels sur la manipulation et les stratégies de défense

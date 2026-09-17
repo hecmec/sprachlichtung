@@ -1,7 +1,6 @@
 ---
 title: What is an argument?
 sidebar_label: What is an argument?
-id: what_is_an_argument
 sidebar_position: 2
 description: The structure of an argument from premises and conclusion, the central terms and the Toulmin model
 keywords:

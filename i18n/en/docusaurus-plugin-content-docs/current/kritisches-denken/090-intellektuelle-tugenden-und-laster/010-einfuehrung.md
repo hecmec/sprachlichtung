@@ -1,5 +1,4 @@
 ---
-id: 010-einfuehrung
 title: Introduction
 sidebar_position: 1
 description: Introduction to the concept of intellectual virtues and vices as a fundamental aspect of critical thinking

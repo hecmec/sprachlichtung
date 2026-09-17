@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Pensée monocausale
   - Causal Oversimplification
-id: pensee_monocausale
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

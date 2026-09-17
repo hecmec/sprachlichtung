@@ -1,5 +1,4 @@
 ---
-id: 030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung
 title: Obstacles to Critical Thinking and How to Overcome Them
 sidebar_position: 3
 description: An analysis of internal and external barriers to critical thinking and strategies for overcoming them

@@ -1,7 +1,6 @@
 ---
 title: Introduction
 sidebar_position: 1
-id: introduction
 description: Introduction au thème de la manipulation et de l'autodéfense intellectuelle dans le contexte de la pensée critique
 keywords:
   - Manipulation

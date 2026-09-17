@@ -1,5 +1,4 @@
 ---
-id: negation_d_un_conjoint
 title: Négation d'un conjoint
 title_meta: Négation d'un conjoint
 sidebar_label: Négation d'un conjoint

@@ -3,7 +3,6 @@ title: Post hoc ergo propter hoc
 title_meta: Post hoc ergo propter hoc
 sidebar_label: Post hoc ergo propter hoc
 sidebar_position: 1
-id: post_hoc_ergo_propter_hoc
 description: Description du sophisme post hoc (la succession temporelle est confondue avec la cause)
 keywords:
   - Sophismes

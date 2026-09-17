@@ -1,5 +1,4 @@
 ---
-id: sophisme_d_ambiguite
 title: Sophisme d'ambiguïté (amphibologie)
 title_meta: Sophisme d'ambiguïté
 sidebar_label: Sophisme d'ambiguïté

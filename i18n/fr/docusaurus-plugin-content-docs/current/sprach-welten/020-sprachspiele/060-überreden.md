@@ -2,7 +2,6 @@
 title: Persuader et convaincre
 sidebar_label: Persuader
 sidebar_position: 6
-id: persuader_et_convaincre
 description: Les jeux de langage de la persuasion et de la conviction
 keywords:
   - jeux de langage

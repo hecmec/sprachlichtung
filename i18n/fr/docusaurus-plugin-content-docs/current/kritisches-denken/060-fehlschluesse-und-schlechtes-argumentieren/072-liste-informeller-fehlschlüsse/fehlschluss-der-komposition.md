@@ -3,7 +3,6 @@ title: Sophisme de composition
 title_meta: Sophisme de composition
 sidebar_label: Sophisme de composition
 sidebar_position: 1
-id: sophisme_de_composition
 description: Description du sophisme de composition (ce qui vaut pour les parties vaudrait pour le tout)
 keywords:
   - Sophismes

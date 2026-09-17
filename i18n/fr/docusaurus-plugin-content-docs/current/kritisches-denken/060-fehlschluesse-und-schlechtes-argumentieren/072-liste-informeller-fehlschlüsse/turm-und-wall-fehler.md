@@ -3,7 +3,6 @@ title: Sophisme du château fort et de la basse-cour (Motte and Bailey)
 title_meta: Sophisme du château fort et de la basse-cour
 sidebar_label: Château fort et basse-cour
 sidebar_position: 1
-id: turm_und_wall_fehler
 description: Description du sophisme « motte et bailey » (passage d'une thèse forte à une thèse facilement défendable)
 keywords:
   - Sophismes

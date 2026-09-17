@@ -1,5 +1,4 @@
 ---
-id: sophisme_genetique
 title: Sophisme génétique
 title_meta: Sophisme génétique
 sidebar_label: Sophisme génétique

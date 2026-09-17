@@ -1,5 +1,4 @@
 ---
-id: energie_solaire
 title: Énergie solaire
 title_meta: Énergie solaire
 sidebar_label: Énergie solaire

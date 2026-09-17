@@ -10,7 +10,6 @@ keywords:
   - pensée critique
   - Argumentum ad Ignorantiam
   - charge de la preuve
-id: argumentum_ad_ignorantiam
 last_update:
   date: 2026-06-08
   author: Immanuel Lupinus

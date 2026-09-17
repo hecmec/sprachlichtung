@@ -1,6 +1,5 @@
 ---
 title: "Evaluating sources: the criteria"
-id: evaluating_sources
 sidebar_position: 5
 sidebar_label: Evaluating sources
 description: "The core criteria of good source checking: authorship, currency, reputation, expertise, independence and evidence. With CRAAP and PICK."

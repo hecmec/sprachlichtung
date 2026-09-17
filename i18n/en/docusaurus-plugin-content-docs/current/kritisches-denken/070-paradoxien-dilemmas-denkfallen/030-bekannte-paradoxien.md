@@ -1,5 +1,4 @@
 ---
-id: 030-bekannte-paradoxien
 title: Well-Known Paradoxes
 sidebar_position: 3
 description: Overview of famous paradoxes such as the liar paradox, Russell's paradox and the prisoner's dilemma

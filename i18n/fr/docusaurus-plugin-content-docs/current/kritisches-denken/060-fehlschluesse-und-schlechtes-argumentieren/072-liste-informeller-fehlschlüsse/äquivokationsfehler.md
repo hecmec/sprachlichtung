@@ -1,5 +1,4 @@
 ---
-id: sophisme_d_equivoque
 title: Sophisme d'équivoque
 title_meta: Sophisme d'équivoque
 sidebar_label: Sophisme d'équivoque
