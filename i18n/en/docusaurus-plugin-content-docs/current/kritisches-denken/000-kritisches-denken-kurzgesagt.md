@@ -156,7 +156,13 @@ Perhaps not. Perhaps you do want to come of age and think for yourself. That is 
 ## Emancipation = Self-Determination
 
 <!--t src=4d6e66bd-->
-Literally, emancipation means: to be released from the hand [^emanzipation]. That is, not to be a slave or a child under someone else's tutelage.
+Literally, emancipation means: to be released from the hand [^emanzipation]. That is, to be a slave or a child under someone else's tutelage no longer.
+
+<!--t src=79dc2f86-->
+[^emanzipation]:
+    **Emancipation** comes from the Latin _ēmancipāre_: _ē_ (out of, away) + _mancipium_ (ownership acquired by laying a hand on something), from _manus_ (hand) and _capere_ (to take, to seize). Whoever was _in mancipio_ therefore literally belonged to someone who had "laid a hand on" him; _mancipium_ could accordingly also mean simply "slave" ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    In **Roman law**, _emancipatio_ denoted the release of a son from paternal authority (_patria potestas_): only through it did he become legally independent, and thus of age ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). The Law of the Twelve Tables (c. 450 BC) already stipulated: "_Si pater filium ter venum duit, filius a patre liber esto_" ("If a father sells his son three times, let the son be free of his father"). The procedure therefore combined a threefold mock sale (_mancipatio_) with manumission (_manumissio_), that is, with the very same legal act by which slaves were set free (Gaius, _Institutiones_ I, 132; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). The freeing of a slave and a child's coming of age are thus closely related from the very beginning: both release a human being from the "hand" of another.  
+    Since the 17th century the word has been used generally in the sense of "freeing oneself from constraint"; in the 19th century it became a political slogan (the emancipation of women, of Jews, of slaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 <!--t src=79dc2f86-->
 [^emanzipation]:
