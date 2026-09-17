@@ -135,13 +135,13 @@ Vous voulez ce qu'on vous vend.
 Vous allez où l'on vous envoie.
 
 <!--t src=edb267f5-->
-Cela ressemble à de la violence, à du totalitarisme, à de l'aliénation. Pas à de la liberté. Pas à de l'autodétermination.
+Cela sonne comme la violence, comme le totalitarisme, comme l'aliénation. Pas comme la liberté. Pas comme l'autodétermination.
 
-<!--t src=d9898976-->
-Vous vivez alors une vie étrangère : avec des pensées étrangères, des désirs étrangers, des buts étrangers. Vous n'habitez pas votre propre tête, vous n'y êtes qu'un invité.
+<!--t src=8cd1cd55-->
+Vous vivez alors une vie qui n'est pas la vôtre : avec des pensées étrangères, des désirs étrangers, des buts étrangers. Est-ce cela que vous voulez ?
 
-<!--t src=dd81077d-->
-Voulons-nous cela ? Non. Nous voulons être majeurs.
+<!--t src=e446ae64-->
+Peut-être pas. Peut-être voulez-vous justement être majeur et penser par vous-même. Cela dépend en partie de la culture.
 
 <!--t src=a3abde8d-->
 ## Émancipation = autodétermination
@@ -151,9 +151,9 @@ Littéralement, émancipation signifie : lâcher la main [^emanzipation]. C'est-
 
 <!--t src=79dc2f86-->
 [^emanzipation]:
-    **Émancipation** vient du latin _ēmancipāre_ : _ē_ (hors de, loin de) + _mancipium_ (propriété acquise en portant la main sur une chose), de _manus_ (main) et _capere_ (prendre, saisir). Celui qui était _in mancipio_ appartenait donc littéralement à quelqu'un qui avait « posé la main sur lui » ; _mancipium_ pouvait par conséquent signifier tout simplement « esclave » ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
-    En **droit romain**, l'_emancipatio_ désignait la sortie d'un fils de l'autorité paternelle (_patria potestas_) : ce n'est que par là qu'il devenait juridiquement autonome, donc majeur ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). La Loi des Douze Tables (vers 450 av. J.-C.) disposait déjà : « _Si pater filium ter venum duit, filius a patre liber esto_ » (« Si le père vend son fils trois fois, que le fils soit libre de son père »). La procédure combinait donc une triple vente fictive (_mancipatio_) avec l'affranchissement (_manumissio_), c'est-à-dire avec le même acte juridique par lequel les esclaves étaient affranchis (Gaius, _Institutiones_ I, 132 ; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). L'affranchissement de l'esclave et l'accession de l'enfant à la majorité sont ainsi étroitement apparentés dès l'origine : tous deux détachent un être humain de la « main » d'un autre.  
-    Depuis le XVIIe siècle, le mot est employé au sens général de « se libérer d'une contrainte » ; au XIXe siècle, il est devenu un mot d'ordre politique (émancipation des femmes, émancipation des Juifs, émancipation des esclaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
+    **Émancipation** vient du latin _ēmancipāre_ : _ē_ (hors de, loin de) + _mancipium_ (propriété acquise par la prise en main), de _manus_ (main) et _capere_ (prendre, saisir). Celui qui était _in mancipio_ appartenait donc littéralement à celui qui avait « posé la main sur lui » ; _mancipium_ pouvait par conséquent signifier tout simplement « esclave » ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    En **droit romain**, l'_emancipatio_ désignait la sortie d'un fils de la puissance paternelle (_patria potestas_) : ce n'est que par là qu'il devenait juridiquement autonome, donc majeur ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). La Loi des Douze Tables (vers 450 av. J.-C.) disposait déjà : « _Si pater filium ter venum duit, filius a patre liber esto_ » (« Si le père vend son fils trois fois, que le fils soit libre de son père »). La procédure combinait donc une triple vente fictive (_mancipatio_) avec un affranchissement (_manumissio_), c'est-à-dire avec l'acte juridique même par lequel les esclaves étaient affranchis (Gaius, _Institutiones_ I, 132 ; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). L'affranchissement de l'esclave et l'accession de l'enfant à la majorité sont ainsi étroitement apparentés dès l'origine : tous deux détachent un être humain de la « main » d'un autre.  
+    Depuis le XVIIe siècle, le mot est employé de façon générale au sens de « se libérer d'une contrainte » ; au XIXe siècle, il est devenu un mot d'ordre politique (émancipation des femmes, émancipation des Juifs, émancipation des esclaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 <!--t src=cdd82ee8-->
 **La pensée critique vous permet** de vous déterminer vous-même :

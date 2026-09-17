@@ -146,11 +146,11 @@ You go where you are sent.
 <!--t src=edb267f5-->
 That sounds like violence, like totalitarianism, like alienation. Not like freedom. Not like self-determination.
 
-<!--t src=d9898976-->
-You are then living a life that is not your own: with other people's thoughts, other people's wishes, other people's goals. You do not live in your own head, you are merely a guest there.
+<!--t src=8cd1cd55-->
+You then live a life that is not your own: with someone else's thoughts, someone else's wishes, someone else's goals. Is that what you want?
 
-<!--t src=dd81077d-->
-Do we want that? No. We want to be of age, to think for ourselves.
+<!--t src=e446ae64-->
+Perhaps not. Perhaps you do want to come of age and think for yourself. That is in part culturally dependent.
 
 <!--t src=a3abde8d-->
 ## Emancipation = Self-Determination
@@ -163,6 +163,12 @@ Literally, emancipation means: to be released from the hand [^emanzipation]. Tha
     **Emancipation** comes from the Latin _ēmancipāre_: _ē_ (out of, away) + _mancipium_ (ownership acquired by laying a hand on something), from _manus_ (hand) and _capere_ (to take, to seize). Whoever was _in mancipio_ therefore literally belonged to someone who had "laid a hand on" him; _mancipium_ could accordingly also mean simply "slave" ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
     In **Roman law**, _emancipatio_ denoted the release of a son from paternal authority (_patria potestas_): only through it did he become legally independent, and thus of age ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). The Law of the Twelve Tables (c. 450 BC) already stipulated: "_Si pater filium ter venum duit, filius a patre liber esto_" ("If a father sells his son three times, let the son be free of his father"). The procedure therefore combined a threefold mock sale (_mancipatio_) with manumission (_manumissio_), that is, with the very same legal act by which slaves were set free (Gaius, _Institutiones_ I, 132; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). The freeing of a slave and a child's coming of age are thus closely related from the very beginning: both release a human being from the "hand" of another.  
     Since the 17th century the word has been used generally in the sense of "freeing oneself from constraint"; in the 19th century it became a political slogan (the emancipation of women, of Jews, of slaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
+
+<!--t src=79dc2f86-->
+[^emanzipation]:
+    **Emancipation** comes from the Latin _ēmancipāre_: _ē_ (out of, away) + _mancipium_ (property acquired by laying on of the hand), from _manus_ (hand) and _capere_ (to take, to seize). Someone who was _in mancipio_ therefore literally belonged to whoever had "laid a hand on" him; _mancipium_ could accordingly also mean simply "slave" ([DWDS: emanzipieren](https://www.dwds.de/wb/emanzipieren)).  
+    In **Roman law**, _emancipatio_ denoted the release of a son from paternal authority (_patria potestas_): only through it did he become legally independent, and thus of age ([Wikipedia: Patria potestas](https://de.wikipedia.org/wiki/Patria_Potestas)). The Law of the Twelve Tables (c. 450 BC) already laid down: "_Si pater filium ter venum duit, filius a patre liber esto_" ("If a father sells his son three times, let the son be free of his father"). The procedure therefore combined a threefold mock sale (_mancipatio_) with manumission (_manumissio_), that is, with the very same legal act by which slaves were set free (Gaius, _Institutiones_ I, 132; [VRoma: Gaius on Emancipation](http://vroma.org/vromans/bcassidy/g_1_132.html)). The freeing of a slave and a child's coming of age are thus closely related from the very beginning: both release a human being from the "hand" of another.  
+    Since the 17th century the word has been used generally in the sense of "freeing oneself from constraint"; in the 19th century it became a political slogan (women's emancipation, Jewish emancipation, the emancipation of slaves) ([Wortgeschichte digital: Emanzipation](https://www.zdl.org/wb/wortgeschichten/Emanzipation)).
 
 <!--t src=cdd82ee8-->
 **Critical thinking allows** you to determine yourself:
