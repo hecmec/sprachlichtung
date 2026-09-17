@@ -111,7 +111,7 @@ import ReactPlayer from 'react-player';
 </div>
 </div>
 
-![Jeu de la mort](/img/kd/jeu-de-la-mort.png)  
+![Jeu de la mort](/img/kd/jeu-de-la-mort.jpg)  
 source: _[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mort-un-docu-fiction-edifiant-5024583)_
 
 <div className="row">

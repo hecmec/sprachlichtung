@@ -30,8 +30,8 @@ Wir fügen immer wieder neue hinzu.
 
 **[Frezgi](https://frezgi.com/)**
 
-<!-- ![frezgi app image](/img/kd/frezgi_github.png) -->
-<img src={require("@site/static/img/kd/frezgi_github.png").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![frezgi app image](/img/kd/frezgi_github.jpg) -->
+<img src={require("@site/static/img/kd/frezgi_github.jpg").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 
 - Das ist die einfachste Argument-mapping App, die sie sich vorstellen können.
@@ -39,8 +39,8 @@ Wir fügen immer wieder neue hinzu.
 
 **[Rationale](https://rationaleonline.com/)**
 
-<!-- ![Rationale app image](/img/kd/rationale_screenshot.png) -->
-<img src={require("@site/static/img/kd/rationale_screenshot.png").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
+<!-- ![Rationale app image](/img/kd/rationale_screenshot.jpg) -->
+<img src={require("@site/static/img/kd/rationale_screenshot.jpg").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 - Rationale ist eine kommerzielle funkionsreiche Web Applikation, die es erlaubt Argumentationen zu kartographieren.
 - Sie können alles spreichern und exportieren.
