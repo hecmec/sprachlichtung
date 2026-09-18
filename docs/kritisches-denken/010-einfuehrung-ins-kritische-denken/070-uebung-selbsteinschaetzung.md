@@ -16,7 +16,7 @@ last_update:
 completeness: 3/5
 draft: false
 # slug:
-# image:
+image: /img
 ---
 
 Bewerte deine eigenen kritischen Denkfähigkeiten, indem du die folgenden Fragen auf einer Skala von 1 (selten) bis 5 (sehr häufig) beantwortest:
