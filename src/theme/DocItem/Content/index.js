@@ -2,6 +2,9 @@ import React, {useEffect, useState} from 'react';
 import Content from '@theme-original/DocItem/Content';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Admonition from '@theme/Admonition';
+import Link from '@docusaurus/Link';
+import {useDoc} from '@docusaurus/plugin-content-docs/client';
+import {getToken, isEditablePath} from '@site/src/lib/githubEdit';
 
 // Machine-translation notice, keyed by locale. The German source pages
 // (default locale) intentionally have no entry, so no banner is shown there.
@@ -22,11 +25,18 @@ export default function ContentWrapper(props) {
   const {i18n} = useDocusaurusContext();
   const notice = NOTICES[i18n.currentLocale];
   const [dismissed, setDismissed] = useState(false);
+  const {metadata} = useDoc();
+  // Only editors who stored a GitHub token (on /edit) see the link, and only
+  // on German source pages.
+  const [canEdit, setCanEdit] = useState(false);
+  const sourcePath = metadata.source.replace(/^@site\//, '');
+  const isGermanDoc = i18n.currentLocale === i18n.defaultLocale && isEditablePath(sourcePath);
 
   useEffect(() => {
     if (localStorage.getItem(STORAGE_KEY) === 'true') {
       setDismissed(true);
     }
+    setCanEdit(Boolean(getToken()));
   }, []);
 
   const handleDismiss = () => {
@@ -36,6 +46,15 @@ export default function ContentWrapper(props) {
 
   return (
     <>
+      {isGermanDoc && canEdit && (
+        <div style={{textAlign: 'right'}}>
+          <Link
+            className="button button--sm button--outline button--primary"
+            to={`/edit?path=${encodeURIComponent(sourcePath)}&from=${encodeURIComponent(metadata.permalink)}`}>
+            Korrigieren
+          </Link>
+        </div>
+      )}
       {notice && !dismissed && (
         <Admonition type="note">
           <div style={{display: 'flex', alignItems: 'flex-start', gap: '1rem'}}>

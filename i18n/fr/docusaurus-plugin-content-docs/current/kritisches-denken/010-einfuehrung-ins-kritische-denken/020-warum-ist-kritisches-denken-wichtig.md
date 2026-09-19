@@ -19,8 +19,8 @@ translation_status: auto
 custom_translation_overwritten: false
 ---
 
-<!--t src=c65ec34f-->
-![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
+<!--t src=f5921e02-->
+![Orwell, si les gens ne savent pas bien écrire](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
 <!--t src=b939afa5-->
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]

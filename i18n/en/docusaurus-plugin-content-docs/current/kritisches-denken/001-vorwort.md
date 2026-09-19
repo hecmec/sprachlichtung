@@ -28,21 +28,31 @@ custom_translation_overwritten: false
   Since the Greeks, philosophers have stressed the importance of rational discourse. Where **power** is in play, **interests** are pushed through, and so the **truth** is readily sold as a mere "point of view": reality is then twisted, responsibility is relativised, and the obvious suddenly seems merely apparent.
   The Sophists already showed how, with rhetorical skill, one can even declare the guilty party — the proverbial bloody knife in hand — to be innocent.
 
-<!--t src=18010872-->
-  Yet, ever since antiquity, one thing has become clear again and again: **rationality is not arbitrary**; it follows rules that can be learned, applied and checked.
+<!--t src=0d43fa9c-->
+  Yet, ever since antiquity, one thing has become clear again and again: **rationality is not arbitrary**; rather, it follows rules that can be learned, applied and checked.
 
-<!--t src=a8f13102-->
-  A well-functioning political community thrives on healthy dialogue, and that requires citizens who think along critically, fairly and constructively.
+<!--t src=f16d23d6-->
+  A well-functioning political community thrives on healthy dialogue, and that requires citizens who think along critically, fairly and constructively. Unfortunately, that is rarely the case.
 
 <!--t src=1dc4486a-->
 - **Personal**: If you believe that politics is only for politicians, you will still get your money's worth here. Here you might just learn how, at the next family gathering, you can argue with your uncle in such a way that you both learn something without immediately going for each other's throats.
 
-<!--t src=4483dfa2-->
+<!--t src=45099729-->
 - **Different approaches**: different authors treat this topic very differently, depending on personal preferences and needs.
+
+<!--t src=f1d181b2-->
   Some show us first and foremost how important critical thinking is in everyday life.
+
+<!--t src=5db9d430-->
   The psychologists show us the influence of cognitive errors and emotions on our thinking.
+
+<!--t src=6b3c5649-->
   Those with political interests concentrate on our so-called "post-factual" age, the influence of the media and the state of the sources.
+
+<!--t src=d2c99094-->
   Those of a philosophical bent dive deep into the history of rationality and philosophy.
+
+<!--t src=0f9d7a0a-->
   The logicians shed light above all on the formal aspects and the logical errors of arguments, and the rhetoricians remind us that in the end we want to convince someone.
 
 <!--t src=fc73c8cb-->

@@ -1,6 +1,6 @@
 ---
 title: "Video-Zusammenfassung: Die Philosophie von Gilles Deleuze, erzählt von Parole de philosophe"
-sidebar_position: 1
+sidebar_position: 250
 sidebar_label: Gilles Deleuze, Parole de philosophe
 description: "Video-Zusammenfassung: Die Philosophie von Gilles Deleuze, erzählt von Parole de philosophe"
 keywords:
@@ -28,7 +28,7 @@ In diesem Video des YouTube-Kanals _Parole de philosophe_ erkunden wir das kompl
 
 ### **Einleitung: Deleuze, ein Beben in der Philosophie**
 
-Gilles Deleuze zu studieren heißt, sich ins Herz eines **explosiven** Denkens zu wagen, das die überlieferten Grundlagen der Philosophie erschüttert. Sein letztes Werk, _Was ist Philosophie?_ (1991, gemeinsam mit Félix Guattari verfasst), schlägt eine radikale Neubestimmung des Fachs vor. Für Deleuze ist die Philosophie weder eine Wissenschaft noch eine Kunst, sondern eine **Tätigkeit reiner Schöpfung**: Sie erfindet Begriffe, so wie die Kunst Werke und die Wissenschaft Funktionen hervorbringt. So umstürzlerisch dieser Gedanke ist, er steht doch in einer Linie von Denkern (Spinoza, Nietzsche), die in der Philosophie eine Kraft sahen, das Leben zu **intensivieren**, statt es zu erklären.
+Gilles Deleuze zu studieren heißt, sich ins Herz eines **explosiven** Denkens zu wagen, das die überlieferten Grundlagen der Philosophie erschüttert. Eines seiner letzten Werke, _Was ist Philosophie?_ (1991, gemeinsam mit Félix Guattari verfasst), schlägt eine radikale Neubestimmung des Fachs vor. Für Deleuze ist die Philosophie weder eine Wissenschaft noch eine Kunst, sondern eine **Tätigkeit reiner Schöpfung**: Sie erfindet Begriffe, so wie die Kunst Werke und die Wissenschaft Funktionen hervorbringt. So umstürzlerisch dieser Gedanke ist, er steht doch in einer Linie von Denkern (Spinoza, Nietzsche), die in der Philosophie eine Kraft sahen, das Leben zu **intensivieren**, statt es zu erklären.
 
 ## **1. Die Philosophie zwischen Wissenschaft und Kunst: ein dritter Weg**
 
@@ -41,7 +41,7 @@ Herkömmlich teilt sich das menschliche Denken in zwei Pole:
 
 **Beispiel**:
 
-- Platon befragte Begriffe wie „die Seele" oder „die Liebe".
+- Platon befragte Begriffe wie „die Seele“ oder „die Liebe“.
 - Kant, Descartes und Nietzsche haben jeweils Begriffe geprägt, um die Welt zu denken.
 - **Aber**: Niemand hatte gefragt, _was ein Begriff selbst eigentlich ist_.
 
@@ -59,11 +59,11 @@ Deleuze knüpft an **Spinoza** (die Macht des Handelns) und **Nietzsche** (die Z
 
 ## **3. Gegen die Identität: die Schizophrenie als Metapher**
 
-Deleuze kritisiert unsere Besessenheit von der Identität. Wir verbringen unser Leben damit, ein stabiles „Ich" zu errichten (z. B.: „Ich bin Lehrer, verheiratet, Vater von zwei Kindern"), doch diese Identität ist ein **Gefängnis**.
+Deleuze kritisiert unsere Besessenheit von der Identität. Wir verbringen unser Leben damit, ein stabiles „Ich“ zu errichten (z. B.: „Ich bin Lehrer, verheiratet, Vater von zwei Kindern“), doch diese Identität ist ein **Gefängnis**.
 
 **Provokante These**:
 
-- Die Schizophrenie ist keine zu vermeidende Krankheit, sondern ein **ursprünglicher Zustand**: Wir alle sind Zusammensetzungen aus „Wunschblöcken", die die Gesellschaft uns zwingt, zu einem kohärenten „Ich" zu ordnen.
+- Die Schizophrenie ist keine zu vermeidende Krankheit, sondern ein **ursprünglicher Zustand**: Wir alle sind Zusammensetzungen aus „Wunschblöcken“, die die Gesellschaft uns zwingt, zu einem kohärenten „Ich“ zu ordnen.
 - **Beispiel**: Die Liebe auf den ersten Blick ist keine Begegnung zweier Identitäten, sondern die Bildung eines **Gefüges** (ein Wunschstrom, der die Einzelnen durchquert).
 - **Problem**: Die Gesellschaft (Familie, Staat, Arbeit) drängt uns, diese Wunschströme zu **codieren**, um daraus eine feste Identität zu machen.
 
@@ -75,7 +75,7 @@ Für Deleuze ist der Wunsch kein Mangel (wie in der Psychoanalyse), sondern eine
 
 - Er sucht nicht zu besitzen, sondern sich zu **verbinden** (z. B.: der Mund des Säuglings, der sich an die Brust der Mutter anschließt).
 - Wir sind **Wunschmaschinen**, durchzogen von Strömen, die sich fortwährend an- und abkoppeln.
-- **Problem**: Das „Ich" wirkt wie ein **Zöllner** und begrenzt unsere möglichen Verbindungen.
+- **Problem**: Das „Ich“ wirkt wie ein **Zöllner** und begrenzt unsere möglichen Verbindungen.
 
 **Worum es geht**: zu lernen, den **Wunsch zirkulieren zu lassen**, ohne ihn in einer erstarrten Identität zu blockieren.
 
@@ -83,17 +83,17 @@ Für Deleuze ist der Wunsch kein Mangel (wie in der Psychoanalyse), sondern eine
 
 Deleuze stellt zwei Denkmodelle einander gegenüber:
 
-- **Der Baum**: überliefertes, lineares Denken, das um Ursprung und Identität kreist (z. B.: „Ich bin so, weil ich diese Kindheit hatte").
+- **Der Baum**: überliefertes, lineares Denken, das um Ursprung und Identität kreist (z. B.: „Ich bin so, weil ich diese Kindheit hatte“).
 - **Das Rhizom**: ein Netz ohne Zentrum, in dem jeder Punkt sich mit jedem anderen verbinden kann (z. B.: der Ingwer, der in alle Richtungen wächst).
 
 **Anwendung**:
 
 - **Sein Leben als Geografie leben**, nicht als Geschichte.
-  - Eine **Geschichte** sperrt uns in eine Erzählung ein („Ich bin so wegen meiner Vergangenheit").
-  - Eine **Geografie** öffnet uns für **mögliche Bahnen** („Wo bin ich jetzt? Welche Gefüge kann ich schaffen?").
-- **Beispiel**: Nach einer Trennung nicht nach einer Ursache suchen („Es ist meine Schuld"), sondern die **Deterritorialisierung** annehmen (das Ereignis, das uns aus unseren Gewohnheiten reißt).
+  - Eine **Geschichte** sperrt uns in eine Erzählung ein („Ich bin so wegen meiner Vergangenheit“).
+  - Eine **Geografie** öffnet uns für **mögliche Bahnen** („Wo bin ich jetzt? Welche Gefüge kann ich schaffen?“).
+- **Beispiel**: Nach einer Trennung nicht nach einer Ursache suchen („Es ist meine Schuld“), sondern die **Deterritorialisierung** annehmen (das Ereignis, das uns aus unseren Gewohnheiten reißt).
 
-**Ziel**: **Fluchtlinien** zu ziehen, Ausbrüche aus dem „Ich", um neue Weisen des Lebens zu erfinden.
+**Ziel**: **Fluchtlinien** zu ziehen, Ausbrüche aus dem „Ich“, um neue Weisen des Lebens zu erfinden.
 
 ## **6. Der Chaosmos: Ordnung und Chaos ineinander verschränkt**
 
@@ -103,7 +103,7 @@ Deleuze erfindet den Begriff des **Chaosmos** (Chaos + Kosmos):
 - Philosophische Begriffe sind **Inseln des Sinns**, dem Chaos entrissen, doch sie schaffen es nicht ab.
 
 **Schlüsselzitat** (Nietzsche, von Deleuze aufgegriffen):
-_„Man muß noch Chaos in sich haben, um einen tanzenden Stern gebären zu können."_
+_„Man muß noch Chaos in sich haben, um einen tanzenden Stern gebären zu können.“_
 
 **Folgerung**:
 
@@ -112,7 +112,7 @@ _„Man muß noch Chaos in sich haben, um einen tanzenden Stern gebären zu kön
 
 ## **7. Die Freiheit: werden statt wählen**
 
-Für Deleuze ist die Freiheit keine bewusste Wahl („Was will ich werden?"), sondern eine **Fähigkeit, sich vom Leben durchqueren zu lassen**.
+Für Deleuze ist die Freiheit keine bewusste Wahl („Was will ich werden?“), sondern eine **Fähigkeit, sich vom Leben durchqueren zu lassen**.
 
 - **Frei sein** heißt:
   - Den Ereignissen, die uns aus dem Gleichgewicht bringen, nicht zu widerstehen.
@@ -142,14 +142,14 @@ Und wenn Philosophieren vor allem hieße, **mit dem Chaos tanzen zu lernen**?
 
 **Zum Weiterlesen**:
 
-- 🇫🇷 _Qu'est-ce que la philosophie ?_ (Deleuze & Guattari, 1991) &mdash; 🇩🇪 dt. Ausgabe: _Was ist Philosophie?_ (Suhrkamp, 1996).
-- 🇫🇷 _Mille Plateaux_ (zur Vertiefung des Rhizoms) &mdash; 🇩🇪 dt. Ausgabe: _Tausend Plateaus_ (Merve, 1992).
-- 🇫🇷 _Nietzsche et la philosophie_ (zum Verständnis von Nietzsches Einfluss) &mdash; 🇩🇪 dt. Ausgabe: _Nietzsche und die Philosophie_.
+- 🇫🇷 _Qu'est-ce que la philosophie ?_ (Deleuze & Guattari, 1991); 🇩🇪 dt. Ausgabe: _Was ist Philosophie?_ (Suhrkamp, 1996).
+- 🇫🇷 _Mille Plateaux_ (zur Vertiefung des Rhizoms); 🇩🇪 dt. Ausgabe: _Tausend Plateaus_ (Merve, 1992).
+- 🇫🇷 _Nietzsche et la philosophie_ (zum Verständnis von Nietzsches Einfluss); 🇩🇪 dt. Ausgabe: _Nietzsche und die Philosophie_.
 
-**Fragen**:
+**Zum Weiterfragen**:
 
 - Wo lässt sich der Gedanke der Philosophie als Schöpfung von Begriffen schon vor Deleuze finden? (Kant, Hegel, Nietzsche, Whitehead, Wittgenstein)
-- Wie unterscheidet sich Deleuzes Begriff des „Werdens" von den überlieferten Auffassungen der Identität in der Philosophie?
-- Die existenzialistische Idee der Freiheit mit derjenigen von Deleuze kontrastieren. (bewusste Wahl vs. Fähigkeit, sich durchqueren zu lassen)
+- Wie unterscheidet sich Deleuzes Begriff des „Werdens“ von den überlieferten Auffassungen der Identität in der Philosophie?
+- Wie unterscheidet sich die existenzialistische Idee der Freiheit von derjenigen Deleuzes? (bewusste Wahl vs. Fähigkeit, sich durchqueren zu lassen)
 - Sein Leben als Geografie leben, nicht als Geschichte: Was bedeutet das konkret?
-- Worin besteht der Unterschied zwischen dem „Baum"- und dem „Rhizom"-Modell des Denkens nach Deleuze?
+- Worin besteht der Unterschied zwischen dem „Baum“- und dem „Rhizom“-Modell des Denkens nach Deleuze?

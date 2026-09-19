@@ -1,0 +1,60 @@
+.diff {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.85rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  overflow: hidden;
+}
+
+.hunk + .hunk {
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.hunkHeader {
+  padding: 0.25rem 0.75rem;
+  background: var(--ifm-color-emphasis-100);
+  color: var(--ifm-color-emphasis-700);
+}
+
+.row {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0 0.75rem;
+}
+
+.sign {
+  flex: none;
+  width: 1ch;
+  user-select: none;
+}
+
+.text {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.context {
+  color: var(--ifm-color-emphasis-700);
+}
+
+.removed {
+  background: rgba(220, 38, 38, 0.1);
+}
+
+.added {
+  background: rgba(22, 163, 74, 0.1);
+}
+
+.removed del {
+  background: rgba(220, 38, 38, 0.35);
+  text-decoration: line-through;
+}
+
+.added ins {
+  background: rgba(22, 163, 74, 0.35);
+  text-decoration: none;
+}
+
+.empty {
+  color: var(--ifm-color-emphasis-700);
+}

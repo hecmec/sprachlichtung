@@ -25,17 +25,22 @@ draft: false
   Seit den Griechen betonen Philosophen die Bedeutung eines rationalen Diskurses. Wo **Macht** im Spiel ist, werden **Interessen** durchgesetzt und damit die **Wahrheit** gern als bloßer "Standpunkt" verkauft: Dann wird Realität verdreht, Verantwortung relativiert und das Offensichtliche wirkt plötzlich scheinbar.
   Schon die Sophisten zeigten, wie man mit rhetorischem Geschick sogar den Schuldigen mit dem sprichwörtlich blutigen Messer in der Hand zum Unschuldigen erklären kann.
 
-  Doch ebenso wurde seit der Antike immer wieder Eines deutlich: **Rationalität ist nicht willkürlich**; sie folgt Regeln, die man lernen, anwenden und überprüfen kann.
+  Doch ebenso wurde seit der Antike immer wieder Eines deutlich: **Rationalität ist nicht willkürlich**, sondern sie folgt Regeln, die man lernen, anwenden und überprüfen kann.
 
-  Eine gut funktionierende politische Gemeinschaft lebt von einem gesunden Dialog und der braucht Bürger:innen, die kritisch, fair und konstruktiv mitdenken.
+  Eine gut funktionierende politische Gemeinschaft lebt von einem gesunden Dialog und der braucht Bürger:innen, die kritisch, fair und konstruktiv mitdenken. Das ist leider nur selten der Fall.
 
 - **Persönliches**: Wenn Sie glauben, dass Politik nur was für Politiker ist, dann kommen Sie hier trotzdem auf Ihre Kosten. Sie können hier vielleicht lernen, wie Sie beim nächsten Familientreffen mit Ihrem Onkel so diskutieren, dass Sie beide was lernen, ohne sich gleich an die Gurgel zu springen.
 
 - **Verschiedenes**: Verschiedene Autoren behandeln dieses Thema sehr unterschiedlich, abhängig von persönlichen Vorlieben und Bedürfnissen.
+
   Manche zeigen uns in erster Linie wie wichtig das kritische Denken im Alltag ist.
+
   Die Psychologen zeigen uns den Einfluss von kognitiven Fehlern und Emotionen auf unser Denken.
+
   Die politisch Interessierten konzentrieren sich auf unser sogenanntes "postfaktisches" Zeitalter, den Einfluss der Medien und die Quellenlage.
+
   Die philosophisch Angehauchten tauchen tief in die Geschichte der Rationalität und Philosophie ein.
+
   Die Logiker beleuchten vor allem die formalen Aspekte und logische Fehler von Argumentationen, und die Rhetoriker erinnern uns daran, dass wir am Ende jemanden überzeugen wollen.
 
 ## Ein Wort zum Stil und Umfang dieses Tutoriums

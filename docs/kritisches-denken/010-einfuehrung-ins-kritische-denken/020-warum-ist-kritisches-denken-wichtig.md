@@ -19,7 +19,7 @@ draft: false
 image: /img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg
 ---
 
-![](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
+![Orwell, if people cannot write well](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
 
