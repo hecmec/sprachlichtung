@@ -31,6 +31,7 @@ _A good whole does not have only good parts._
 ## Definition
 
 <!--t src=4892b6d5-->
+
 In the **fallacy of division**, it is assumed that a property of the **whole** automatically applies to each of its **parts** as well. It is the mirror image of the **fallacy of composition**.
 
 <!--t src=2bba955b-->
@@ -58,6 +59,7 @@ Also known as: _fallacy of division_
 <!-- list similar fallacies -->
 
 <!--t src=f8e01111-->
+
 - **Fallacy of composition** &mdash; the mirror image: from the parts to the whole.
 - **Ecological fallacy** &mdash; related: inferring from a group value to the individual.
 
@@ -73,6 +75,7 @@ Also known as: _fallacy of division_
 <!-- description of example one -->
 
 <!--t src=7a5511c7-->
+
 > "This team is the best in the league &mdash; so each of its players is the best in their position."
 
 <!--t src=9f396408-->
@@ -91,6 +94,7 @@ A top team can also have average individual players who are strong as a team. Th
 > „Water extinguishes fire. Water consists of hydrogen and oxygen. So hydrogen and oxygen extinguish fire.“
 
 <!--t src=f9064e88-->
+
 Oxygen promotes combustion, hydrogen is even flammable itself &mdash; the two elements precisely do not extinguish fire. The property of the compound does not belong to its components.
 
 <!--t src=69b1092f-->
@@ -106,4 +110,5 @@ Oxygen promotes combustion, hydrogen is even flammable itself &mdash; the two el
 - [Logically Fallacious: Division](https://www.logicallyfallacious.com/logicalfallacies/Division)
 
 <!--t src=253680fe-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)

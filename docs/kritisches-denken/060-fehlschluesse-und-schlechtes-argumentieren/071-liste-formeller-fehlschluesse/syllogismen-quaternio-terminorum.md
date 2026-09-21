@@ -78,4 +78,4 @@ EN: _four-term fallacy_ / _fallacy of four terms_
 - [Wikipedia: Fallacy of four terms](https://en.wikipedia.org/wiki/Fallacy_of_four_terms)
 - [Logically Fallacious: Four Terms](https://www.logicallyfallacious.com/logicalfallacies/Four-Terms)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum.md)

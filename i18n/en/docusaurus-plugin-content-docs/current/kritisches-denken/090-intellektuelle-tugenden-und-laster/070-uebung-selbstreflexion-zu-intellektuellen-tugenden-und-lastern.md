@@ -40,27 +40,27 @@ Reflect on your intellectual virtues and vices. Rate yourself on a scale from 1 
 
 **Intellectual virtues:**
 
-- Intellectual curiosity: **\_**
-- Intellectual humility: **\_**
-- Intellectual autonomy: **\_**
-- Intellectual integrity: **\_**
-- Intellectual perseverance: **\_**
-- Intellectual fairness: **\_**
-- Intellectual courage: **\_**
-- Intellectual empathy: **\_**
+- Intellectual curiosity: . . . . . .
+- Intellectual humility: . . . . . .
+- Intellectual autonomy: . . . . . .
+- Intellectual integrity: . . . . . .
+- Intellectual perseverance: . . . . . .
+- Intellectual fairness: . . . . . .
+- Intellectual courage: . . . . . .
+- Intellectual empathy: . . . . . .
 
 <!--t src=f88b7cd9-->
 
 **Intellectual vices:**
 
-- Intellectual arrogance: **\_**
-- Intellectual laziness: **\_**
-- Intellectual cowardice: **\_**
-- Intellectual dishonesty: **\_**
-- Intellectual narrow-mindedness: **\_**
-- Intellectual impatience: **\_**
-- Intellectual egocentrism: **\_**
-- Intellectual conformity: **\_**
+- Intellectual arrogance: . . . . . .
+- Intellectual laziness: . . . . . .
+- Intellectual cowardice: . . . . . .
+- Intellectual dishonesty: . . . . . .
+- Intellectual narrow-mindedness: . . . . . .
+- Intellectual impatience: . . . . . .
+- Intellectual egocentrism: . . . . . .
+- Intellectual conformity: . . . . . .
 
 <!--t src=79996d7c-->
 
@@ -89,28 +89,28 @@ Based on your reflection, identify:
 <!--t src=3b23cabe-->
 
 1. **Your three strongest intellectual virtues:**
-   - ***
-   - ***
-   - ***
+   - . . . . . .
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=09397bf0-->
 
 2. **Your three most pronounced intellectual vices:**
-   - ***
-   - ***
-   - ***
+   - . . . . . .
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=3b675f1c-->
 
 3. **Situations or contexts in which your intellectual virtues are particularly strong:**
-   - ***
-   - ***
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=89c25165-->
 
 4. **Situations or contexts in which your intellectual vices particularly come to the fore:**
-   - ***
-   - ***
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=e63ae6d9-->
 
@@ -123,36 +123,36 @@ Create a concrete plan for your intellectual development:
 <!--t src=3c619355-->
 
 1. **Priority**: Choose one intellectual virtue that you want to strengthen and one intellectual vice that you want to overcome.
-   - Virtue to strengthen: ************\_\_\_************
-   - Vice to overcome: ************\_\_\_************
+   - Virtue to strengthen: . . . . . .
+   - Vice to overcome: . . . . . .
 
 <!--t src=342ab7df-->
 
 2. **Concrete goals**: Formulate specific, measurable goals for each priority.
-   - Goal for the virtue: ************\_\_\_************
-   - Goal for the vice: ************\_\_\_************
+   - Goal for the virtue: . . . . . .
+   - Goal for the vice: . . . . . .
 
 <!--t src=48d4251e-->
 
 3. **Practical steps**: Identify 2-3 concrete activities or exercises for each goal.
    - For the virtue:
-     - ***
-     - ***
+     - . . . . . .
+     - . . . . . .
    - For the vice:
-     - ***
-     - ***
+     - . . . . . .
+     - . . . . . .
 
 <!--t src=25142314-->
 
-4. **Measuring progress**: How will you check your progress?
-   - ***
-   - ***
+1. **Measuring progress**: How will you check your progress?
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=3a2137db-->
 
 5. **Support**: Which resources or support do you need?
-   - ***
-   - ***
+   - . . . . . .
+   - . . . . . .
 
 <!--t src=1c417734-->
 
@@ -164,7 +164,4 @@ Plan to review your progress regularly and to adjust your development plan. Set 
 
 <!--t src=fa6451aa-->
 
-**Date for the first review**: ************\_\_\_************
-
-<!--t src=2734d924-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md)
+**Date for the first review**: . . . . . .

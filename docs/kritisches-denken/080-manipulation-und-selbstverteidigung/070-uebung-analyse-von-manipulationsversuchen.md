@@ -102,4 +102,4 @@ Analysieren Sie die folgenden Beispiele und identifizieren Sie die verwendeten M
      - Verschiedene Quellen zur Steuerreform konsultieren
      - Die tatsächlichen Auswirkungen auf verschiedene Einkommensgruppen recherchieren
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md)
+[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md)

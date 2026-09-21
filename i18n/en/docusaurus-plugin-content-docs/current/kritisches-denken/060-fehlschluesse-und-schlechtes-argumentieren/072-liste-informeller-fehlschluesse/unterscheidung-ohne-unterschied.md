@@ -30,6 +30,7 @@ _Different words, the same thing._
 ## Definition
 
 <!--t src=0f01de81-->
+
 The **distinction without a difference** asserts a difference between two things that differ only in **wording**, not in **substance**. The reformulation is meant to deflect a charge or rescue a position, even though nothing changes in content.
 
 <!--t src=cbfa83d3-->
@@ -58,6 +59,7 @@ Also known as: _distinction without a difference_
 <!-- list similar fallacies -->
 
 <!--t src=225727ac-->
+
 - **No true Scotsman** &mdash; related: after-the-fact redefinition to rescue a claim.
 - **Equivocation** &mdash; related: a game with word meanings.
 - **Special pleading** &mdash; related, when the apparent difference is meant to justify an exception.
@@ -74,6 +76,7 @@ Also known as: _distinction without a difference_
 <!-- description of example one -->
 
 <!--t src=2f8082a5-->
+
 > "I'm not a racist &mdash; I just don't like certain groups of people."
 
 <!--t src=3f8dc2fb-->
@@ -108,4 +111,5 @@ For the question of whether someone used the drug, this distinction makes no sub
 - [Logically Fallacious: Distinction Without a Difference](https://www.logicallyfallacious.com/logicalfallacies/Distinction-Without-a-Difference)
 
 <!--t src=e8f37965-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md)

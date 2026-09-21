@@ -31,9 +31,11 @@ _A big name is no proof._
 ## Definition
 
 <!--t src=aaf84e47-->
+
 In the **argumentum ad verecundiam** (appeal to authority), a claim is held to be true solely because an **authority** asserts it &mdash; often an authority that is _not competent_ or _not reliable_ for the topic.
 
 <!--t src=4d7da35e-->
+
 Important: relying on relevant experts is _not_ a fallacy, but reasonable. It becomes a fallacy when (a) the authority is outside their field, (b) there is no consensus within the field, or (c) the mere authority is supposed to _replace a substantive argument_.
 
 <!--t src=3c24b250-->
@@ -58,6 +60,7 @@ Also known as: _appeal to authority_ / _argumentum ad verecundiam_
 <!-- list similar fallacies -->
 
 <!--t src=1654d481-->
+
 - **Argumentum ad populum** &mdash; related: the crowd instead of a single authority.
 - **Genetic fallacy** &mdash; related: evaluation by source rather than by content.
 - **Argumentum ad antiquitatem** &mdash; related: the "authority" of tradition.
@@ -74,6 +77,7 @@ Also known as: _appeal to authority_ / _argumentum ad verecundiam_
 <!-- description of example one -->
 
 <!--t src=feaf0008-->
+
 > "A well-known actor recommends this dietary supplement &mdash; so it must be good."
 
 <!--t src=dcec14cc-->
@@ -108,4 +112,5 @@ Even a distinguished physicist is not automatically an expert on climate researc
 - [Logically Fallacious: Appeal to Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)
 
 <!--t src=bae3b065-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md)

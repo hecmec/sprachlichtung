@@ -64,6 +64,7 @@ Also known as: _affirming a disjunct_
 <!-- list similar fallacies -->
 
 <!--t src=9fe5e0a7-->
+
 - **Denying a conjunct** &mdash; the counterpart at the level of conjunction.
 - **False dilemma** &mdash; related: there too an inclusive or incomplete "or" is treated like a strict either-or.
 - **Non sequitur** &mdash; the umbrella term.
@@ -97,6 +98,7 @@ Lena can be both a doctor _and_ an artist. The truth of one member does not excl
 <!-- description of example two -->
 
 <!--t src=25f37ff4-->
+
 > "For dessert there is cake or ice cream. There is cake &mdash; so no ice cream."
 
 <!--t src=b980e9e5-->
@@ -118,4 +120,5 @@ If you ask the host nicely, she will surely give you both cake _and_ ice cream, 
 - [Logically Fallacious: Affirming a Disjunct](https://www.logicallyfallacious.com/logicalfallacies/Affirming-a-Disjunct)
 
 <!--t src=a47c528e-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md)

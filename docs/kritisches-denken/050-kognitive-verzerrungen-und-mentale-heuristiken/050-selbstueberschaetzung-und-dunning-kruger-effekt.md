@@ -16,6 +16,7 @@ last_update:
 completeness: 3/5
 draft: false
 ---
+
 <!-- markdownlint-disable MD024 -->
 
 Selbstüberschätzung ist ein weitverbreitetes Phänomen, das eng mit dem bereits erwähnten Dunning-Kruger-Effekt zusammenhängt. Es lohnt sich, dieses Phänomen genauer zu betrachten, da es fundamentale Auswirkungen auf unser kritisches Denken hat.
@@ -66,4 +67,4 @@ Selbstüberschätzung und der Dunning-Kruger-Effekt können kritisches Denken au
 
 5. **Kommunikationsprobleme**: Experten können Schwierigkeiten haben, ihr Wissen zu vermitteln, wenn sie die Komplexität ihres Fachgebiets für andere unterschätzen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)

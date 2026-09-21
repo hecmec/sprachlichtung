@@ -20,6 +20,7 @@ last_update:
 completeness: 4/5
 draft: false
 ---
+
 <!-- markdownlint-disable MD024 -->
 
 Es gibt Hunderte dokumentierter kognitiver Verzerrungen. Hier betrachten wir einige der wichtigsten und häufigsten:
@@ -202,4 +203,4 @@ Der **Gruppendenkeffekt** beschreibt die Tendenz in Gruppen, nach Konsens zu str
 - Anonyme Abstimmungen oder Feedback, um sozialen Druck zu reduzieren
 - Externe Perspektiven einholen
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)

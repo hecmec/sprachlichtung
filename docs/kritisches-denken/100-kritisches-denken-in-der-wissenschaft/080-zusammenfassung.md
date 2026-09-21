@@ -37,4 +37,4 @@ Wir haben gelernt:
 
 Die Wissenschaft ist ein mächtiges Werkzeug zur Gewinnung verlässlichen Wissens, aber sie hat auch Grenzen. Ein kritisches Verständnis wissenschaftlicher Methoden und Prinzipien hilft uns, wissenschaftliche Behauptungen angemessen zu bewerten und wissenschaftliches Denken in unserem Alltag anzuwenden.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/080-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/080-zusammenfassung.md)

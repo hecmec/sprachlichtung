@@ -17,7 +17,7 @@ last_update:
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} 
+<ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }}
 controls src='https://www.youtube.com/watch?v=2tElPB_d9g0' />
 
 &nbsp;
@@ -38,7 +38,7 @@ Diese Seite bietet eine **Einführung in den Online-Kurs** über kritisches Denk
 <div className="row">
 <div className="col col--6">
 
-Voici le lien vers la playlist YouTube du cours : [Développer sa pensée critique - ULB](https://www.youtube.com/playlist?list=PLy4aPukvD-MpU1s7Yoi8HRxDafOdBZhZK). 
+Voici le lien vers la playlist YouTube du cours : [Développer sa pensée critique - ULB](https://www.youtube.com/playlist?list=PLy4aPukvD-MpU1s7Yoi8HRxDafOdBZhZK).
 
 </div>
 <div className="col col--6 video-translation">
@@ -360,4 +360,4 @@ Modul 2 wird untersuchen, wie man dieses kritische Denken entwickelt, das unerl�
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md)

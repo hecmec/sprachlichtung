@@ -47,4 +47,4 @@ Im Zweifel: **Stopp. Wer sagt das? Was sagen andere? Wo ist das Original?** Vier
 
 Die vollständige Quellenliste zu diesem Kapitel findet sich auf der Seite [Quellen](./130-quellen-medienkompetenz.md).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md)

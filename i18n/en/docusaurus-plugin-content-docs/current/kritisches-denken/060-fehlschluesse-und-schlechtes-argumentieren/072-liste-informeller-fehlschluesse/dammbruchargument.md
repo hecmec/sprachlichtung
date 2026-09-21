@@ -30,6 +30,7 @@ _One step, and everything slides._
 ## Definition
 
 <!--t src=37eb8418-->
+
 In the **slippery slope** argument, it is claimed that a comparatively harmless first step leads **inevitably** to a chain of ever worse consequences &mdash; without this inevitability being justified.
 
 <!--t src=c2473427-->
@@ -58,6 +59,7 @@ Also known as: _slippery slope_
 <!-- list similar fallacies -->
 
 <!--t src=8cd52d09-->
+
 - **Argumentum ad baculum** &mdash; related: agreement through stoked fear of consequences.
 - **Fallacy of relative privation** &mdash; the opposite direction: there a step is played down.
 - **False dilemma** &mdash; related, when only "allow everything" or "allow nothing" appears.
@@ -108,4 +110,5 @@ From a single exception to criminality is a long, unsubstantiated path. The dram
 - [Logically Fallacious: Slippery Slope](https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope)
 
 <!--t src=17150f92-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)

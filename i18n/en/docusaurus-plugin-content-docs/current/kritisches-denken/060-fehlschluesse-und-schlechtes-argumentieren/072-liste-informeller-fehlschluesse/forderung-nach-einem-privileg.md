@@ -18,6 +18,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=4cc96be5-->
+
 :::tip In brief
 An exception to a general rule is claimed for one's own case, without justifying it.
 
@@ -29,9 +30,11 @@ _Rules for everyone &mdash; just not for me._
 ## Definition
 
 <!--t src=b038eb68-->
+
 **Special pleading** claims, for one's own case (or that of one's own side), an **exception** to a generally accepted rule, **without** giving a substantively relevant reason for that exception.
 
 <!--t src=820f4483-->
+
 The error: applying a rule to others but suspending it for oneself without a valid reason is inconsistent. An exception is justified only if a _relevant_ difference exists &mdash; if it is missing, the demand is arbitrary.
 
 <!--t src=3c24b250-->
@@ -56,6 +59,7 @@ Also known as: _special pleading_
 <!-- list similar fallacies -->
 
 <!--t src=51ae3f78-->
+
 - **No true Scotsman** &mdash; related: an after-the-fact exception to ward off a counterexample.
 - **Double standard** &mdash; related: two different measures for similar cases.
 - **Distinction without a difference** &mdash; related, when the asserted exception names no real difference.
@@ -72,6 +76,7 @@ Also known as: _special pleading_
 <!-- description of example one -->
 
 <!--t src=3a5240ac-->
+
 > "Punctuality is a duty &mdash; but for me it's different, I'm just creative."
 
 <!--t src=c9f17ce3-->
@@ -106,4 +111,5 @@ The added special condition immunises the claim against any test, without justif
 - [Logically Fallacious: Special Pleading](https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading)
 
 <!--t src=3dfe791c-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)

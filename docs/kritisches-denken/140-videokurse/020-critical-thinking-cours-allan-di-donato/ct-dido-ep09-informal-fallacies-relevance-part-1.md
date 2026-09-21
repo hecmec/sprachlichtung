@@ -26,4 +26,4 @@ controls src='https://youtu.be/P9PZkWJPwrQ' />
 
 There is no transcript for this video at the time of writing. 😪
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1.md)

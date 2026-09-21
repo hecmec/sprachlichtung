@@ -82,4 +82,4 @@ Es ist wichtig, zwischen legitimer Information und Propaganda zu unterscheiden:
 | Respektiert die Autonomie des Publikums  | Behandelt das Publikum als manipulierbare Masse |
 | Gibt Quellen und Methoden transparent an | Verschleiert Quellen und Methoden               |
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md)
+[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md)

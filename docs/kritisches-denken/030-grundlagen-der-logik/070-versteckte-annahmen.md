@@ -14,9 +14,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 Versteckte oder implizite Annahmen sind Aussagen, die in einem Argument nicht explizit formuliert werden, aber dennoch für die Schlussfolgerung notwendig sind. Sie bilden oft die "fehlenden Glieder" in einer Argumentationskette.
@@ -58,15 +57,12 @@ Versteckte Annahmen:
 Um versteckte Annahmen zu identifizieren, können folgende Strategien hilfreich sein:
 
 1. **Lückenanalyse**: Identifiziere "Sprünge" in der Argumentation, wo Zwischenschritte fehlen.
-
    - Frage: "Welche zusätzlichen Informationen werden benötigt, um von den Prämissen zur Schlussfolgerung zu gelangen?"
 
 2. **Gegenbeispieltest**: Versuche, Szenarien zu konstruieren, in denen die Prämissen wahr, aber die Schlussfolgerung falsch ist.
-
    - Frage: "Unter welchen Umständen könnten die Prämissen wahr sein, ohne dass die Schlussfolgerung folgt?"
 
 3. **Kontextanalyse**: Berücksichtige den kulturellen, sozialen oder historischen Kontext des Arguments.
-
    - Frage: "Welche Überzeugungen oder Werte werden in diesem Kontext als selbstverständlich vorausgesetzt?"
 
 4. **Begriffsanalyse**: Untersuche, wie Schlüsselbegriffe im Argument verwendet werden.
@@ -84,4 +80,4 @@ Das Erkennen versteckter Annahmen ist aus mehreren Gründen wichtig für das kri
 
 4. Es ermöglicht eine präzisere Kritik, indem genau identifiziert wird, welche Annahmen problematisch sind.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)
+[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)

@@ -66,4 +66,4 @@ Das Zauberwort hier heisst **Selbstbestimmung**.
 
 [^forst-recht]: Rainer Forst: _Das Recht auf Rechtfertigung. Elemente einer konstruktivistischen Theorie der Gerechtigkeit_. Suhrkamp, Frankfurt a. M. 2007.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md)
+[Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/090-macht.md)

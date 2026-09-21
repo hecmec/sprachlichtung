@@ -56,4 +56,4 @@ Deshalb hier nur eine ganz gleiche Auswahl, die uns gefällt.
 - 🇬🇧 [Raya - The alarming decline of critical thinking ](https://www.youtube.com/watch?v=vbvSLsMADCM)
 - 🇬🇧 [The Rise Of NPCs: Why Critical Thinking Is Dead](https://www.youtube.com/watch?v=ikjNj7CfeUI)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/05-videos.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/05-videos.md)
+[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/05-videos.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/05-videos.md)

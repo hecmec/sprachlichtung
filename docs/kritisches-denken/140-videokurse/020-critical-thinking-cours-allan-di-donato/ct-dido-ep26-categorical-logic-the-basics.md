@@ -136,18 +136,18 @@ Propositionen selbst zerfallen in vier grundlegendere Teile:
 <div className="row">
 <div className="col col--6">
 
-1. The **subject term** — what the assertion is about (in "All dogs are mammals," *dogs*).
-2. The **predicate term** — what is asserted about the subject (*mammals*).
-3. The **copula** — the verb joining subject and predicate, which in logic is always a form of **to be** (*is/are*, *is not/are not*, in any tense). The copula determines **quality**.
-4. The **quantifier** — the word indicating extent: **all** or **some**. It determines **quantity**. In a universal negative, the word **no** stands in for both the quantifier *all* and the negative part of the copula.
+1. The **subject term** — what the assertion is about (in "All dogs are mammals," _dogs_).
+2. The **predicate term** — what is asserted about the subject (_mammals_).
+3. The **copula** — the verb joining subject and predicate, which in logic is always a form of **to be** (_is/are_, _is not/are not_, in any tense). The copula determines **quality**.
+4. The **quantifier** — the word indicating extent: **all** or **some**. It determines **quantity**. In a universal negative, the word **no** stands in for both the quantifier _all_ and the negative part of the copula.
 
 </div>
 <div className="col col--6 video-translation">
 
-1. Der **Subjektterm** — worum es in der Aussage geht (in „Alle Hunde sind Säugetiere" die *Hunde*).
-2. Der **Prädikatterm** — was über das Subjekt ausgesagt wird (*Säugetiere*).
-3. Die **Kopula** — das Verb, das Subjekt und Prädikat verbindet, das in der Logik immer eine Form von **sein** ist (*ist/sind*, *ist nicht/sind nicht*, in jeder Zeitform). Die Kopula bestimmt die **Qualität**.
-4. Der **Quantor** — das Wort, das den Umfang angibt: **alle** oder **einige**. Er bestimmt die **Quantität**. In einer universell verneinenden Aussage vertritt das Wort **kein** sowohl den Quantor *alle* als auch den verneinenden Teil der Kopula.
+1. Der **Subjektterm** — worum es in der Aussage geht (in „Alle Hunde sind Säugetiere" die _Hunde_).
+2. Der **Prädikatterm** — was über das Subjekt ausgesagt wird (_Säugetiere_).
+3. Die **Kopula** — das Verb, das Subjekt und Prädikat verbindet, das in der Logik immer eine Form von **sein** ist (_ist/sind_, _ist nicht/sind nicht_, in jeder Zeitform). Die Kopula bestimmt die **Qualität**.
+4. Der **Quantor** — das Wort, das den Umfang angibt: **alle** oder **einige**. Er bestimmt die **Quantität**. In einer universell verneinenden Aussage vertritt das Wort **kein** sowohl den Quantor _alle_ als auch den verneinenden Teil der Kopula.
 
 </div>
 </div>
@@ -213,12 +213,12 @@ Die Beziehungen zwischen Subjekt und Prädikat lassen sich mit **Euler-Kreisen**
 <div className="row">
 <div className="col col--6">
 
-A key insight: because **some** can mean *any amount up to and including all*, the same diagrams that illustrate an A proposition also illustrate an I proposition. Thus if all dogs are mammals, it is also true that *some* dogs are mammals.
+A key insight: because **some** can mean _any amount up to and including all_, the same diagrams that illustrate an A proposition also illustrate an I proposition. Thus if all dogs are mammals, it is also true that _some_ dogs are mammals.
 
 </div>
 <div className="col col--6 video-translation">
 
-Eine wichtige Einsicht: Da **einige** *jede Menge bis einschließlich alle* bedeuten kann, veranschaulichen dieselben Diagramme, die eine A-Proposition darstellen, auch eine I-Proposition. Wenn also alle Hunde Säugetiere sind, ist es auch wahr, dass *einige* Hunde Säugetiere sind.
+Eine wichtige Einsicht: Da **einige** _jede Menge bis einschließlich alle_ bedeuten kann, veranschaulichen dieselben Diagramme, die eine A-Proposition darstellen, auch eine I-Proposition. Wenn also alle Hunde Säugetiere sind, ist es auch wahr, dass _einige_ Hunde Säugetiere sind.
 
 </div>
 </div>
@@ -252,12 +252,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**Singular subjects.** A proper noun names a **class of one**, so it takes the quantifier *all*: "Bill went to the store" becomes "All Bill...". The whole class (Bill) is the subject.
+**Singular subjects.** A proper noun names a **class of one**, so it takes the quantifier _all_: "Bill went to the store" becomes "All Bill...". The whole class (Bill) is the subject.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Singuläre Subjekte.** Ein Eigenname bezeichnet eine **Klasse von einem**, also nimmt er den Quantor *alle*: „Bill ging zum Laden" wird zu „Alle Bill …". Die ganze Klasse (Bill) ist das Subjekt.
+**Singuläre Subjekte.** Ein Eigenname bezeichnet eine **Klasse von einem**, also nimmt er den Quantor _alle_: „Bill ging zum Laden" wird zu „Alle Bill …". Die ganze Klasse (Bill) ist das Subjekt.
 
 </div>
 </div>
@@ -265,12 +265,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**Missing copula or extra phrases.** Standard form requires the verb *to be*; other verbs must be rewritten, and prepositional phrases or adjectives need a **generic noun** of the intended class added. "All Bill went to the store" becomes "All (Bill) is (a person who went to the store)." Di Donato suggests compartmentalizing the four parts, using parentheses, and replacing long terms with single-letter placeholders.
+**Missing copula or extra phrases.** Standard form requires the verb _to be_; other verbs must be rewritten, and prepositional phrases or adjectives need a **generic noun** of the intended class added. "All Bill went to the store" becomes "All (Bill) is (a person who went to the store)." Di Donato suggests compartmentalizing the four parts, using parentheses, and replacing long terms with single-letter placeholders.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Fehlende Kopula oder zusätzliche Wendungen.** Die Standardform erfordert das Verb *sein*; andere Verben müssen umgeschrieben werden, und Präpositionalphrasen oder Adjektive brauchen ein hinzugefügtes **Gattungsnomen** der gemeinten Klasse. „Alle Bill ging zum Laden" wird zu „Alle (Bill) sind (eine Person, die zum Laden ging)". Di Donato schlägt vor, die vier Teile abzugrenzen, Klammern zu verwenden und lange Terme durch Einzelbuchstaben-Platzhalter zu ersetzen.
+**Fehlende Kopula oder zusätzliche Wendungen.** Die Standardform erfordert das Verb _sein_; andere Verben müssen umgeschrieben werden, und Präpositionalphrasen oder Adjektive brauchen ein hinzugefügtes **Gattungsnomen** der gemeinten Klasse. „Alle Bill ging zum Laden" wird zu „Alle (Bill) sind (eine Person, die zum Laden ging)". Di Donato schlägt vor, die vier Teile abzugrenzen, Klammern zu verwenden und lange Terme durch Einzelbuchstaben-Platzhalter zu ersetzen.
 
 </div>
 </div>
@@ -278,12 +278,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**Words that signal quantity.** Words such as *anyone*, *everyone*, *whoever*, *a*, *the*, or *not* must be replaced with the only acceptable quantifiers: **all**, **some**, and **no**. "Anyone without hair is bald" becomes "All people without hair are people who are bald."
+**Words that signal quantity.** Words such as _anyone_, _everyone_, _whoever_, _a_, _the_, or _not_ must be replaced with the only acceptable quantifiers: **all**, **some**, and **no**. "Anyone without hair is bald" becomes "All people without hair are people who are bald."
 
 </div>
 <div className="col col--6 video-translation">
 
-**Wörter, die Quantität signalisieren.** Wörter wie *jeder*, *jedermann*, *wer auch immer*, *ein*, *der/die/das* oder *nicht* müssen durch die einzig zulässigen Quantoren ersetzt werden: **alle**, **einige** und **kein**. „Jeder ohne Haare ist kahl" wird zu „Alle Menschen ohne Haare sind Menschen, die kahl sind".
+**Wörter, die Quantität signalisieren.** Wörter wie _jeder_, _jedermann_, _wer auch immer_, _ein_, _der/die/das_ oder _nicht_ müssen durch die einzig zulässigen Quantoren ersetzt werden: **alle**, **einige** und **kein**. „Jeder ohne Haare ist kahl" wird zu „Alle Menschen ohne Haare sind Menschen, die kahl sind".
 
 </div>
 </div>
@@ -304,12 +304,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**The ambiguous "all are not."** "All dogs are not black" looks like an E proposition ("No dogs are black"), but the speaker usually means *not all* dogs are black. So it becomes the particular negative "Some dogs are not black." The construction **all S is not P** often means **some S is not P**.
+**The ambiguous "all are not."** "All dogs are not black" looks like an E proposition ("No dogs are black"), but the speaker usually means _not all_ dogs are black. So it becomes the particular negative "Some dogs are not black." The construction **all S is not P** often means **some S is not P**.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Das mehrdeutige „alle sind nicht".** „Alle Hunde sind nicht schwarz" sieht wie eine E-Proposition aus („Keine Hunde sind schwarz"), aber der Sprecher meint gewöhnlich, *nicht alle* Hunde sind schwarz. Also wird daraus die partikulär verneinende Aussage „Einige Hunde sind nicht schwarz". Die Konstruktion **alle S sind nicht P** bedeutet oft **einige S sind nicht P**.
+**Das mehrdeutige „alle sind nicht".** „Alle Hunde sind nicht schwarz" sieht wie eine E-Proposition aus („Keine Hunde sind schwarz"), aber der Sprecher meint gewöhnlich, _nicht alle_ Hunde sind schwarz. Also wird daraus die partikulär verneinende Aussage „Einige Hunde sind nicht schwarz". Die Konstruktion **alle S sind nicht P** bedeutet oft **einige S sind nicht P**.
 
 </div>
 </div>
@@ -317,12 +317,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**Exclusive propositions** (using *only* or *none but*) translate into **A** propositions in two steps: add the quantifier *all* while dropping the exclusive word, then **reverse** subject and predicate. "None but animals are veterinary patients" becomes "All veterinary patients are animals." An **exception** arises when *only* is preceded by the definite article *the*: "The only person in the pool is Tom" must preserve the meaning that no one else is present, giving "All persons in the pool are persons identical with Tom." The test is whether the translation is **logically equivalent** to the original (can one be true while the other is false?).
+**Exclusive propositions** (using _only_ or _none but_) translate into **A** propositions in two steps: add the quantifier _all_ while dropping the exclusive word, then **reverse** subject and predicate. "None but animals are veterinary patients" becomes "All veterinary patients are animals." An **exception** arises when _only_ is preceded by the definite article _the_: "The only person in the pool is Tom" must preserve the meaning that no one else is present, giving "All persons in the pool are persons identical with Tom." The test is whether the translation is **logically equivalent** to the original (can one be true while the other is false?).
 
 </div>
 <div className="col col--6 video-translation">
 
-**Exklusive Propositionen** (mit *nur* oder *niemand außer*) übersetzen sich in **A**-Propositionen in zwei Schritten: den Quantor *alle* hinzufügen und dabei das ausschließende Wort weglassen, dann Subjekt und Prädikat **vertauschen**. „Niemand außer Tieren sind Veterinärpatienten" wird zu „Alle Veterinärpatienten sind Tiere". Eine **Ausnahme** entsteht, wenn *nur* dem bestimmten Artikel *der/die/das* folgt: „Die einzige Person im Pool ist Tom" muss die Bedeutung bewahren, dass niemand sonst anwesend ist, was „Alle Personen im Pool sind Personen, die mit Tom identisch sind" ergibt. Der Test ist, ob die Übersetzung mit dem Original **logisch äquivalent** ist (kann das eine wahr sein, während das andere falsch ist?).
+**Exklusive Propositionen** (mit _nur_ oder _niemand außer_) übersetzen sich in **A**-Propositionen in zwei Schritten: den Quantor _alle_ hinzufügen und dabei das ausschließende Wort weglassen, dann Subjekt und Prädikat **vertauschen**. „Niemand außer Tieren sind Veterinärpatienten" wird zu „Alle Veterinärpatienten sind Tiere". Eine **Ausnahme** entsteht, wenn _nur_ dem bestimmten Artikel _der/die/das_ folgt: „Die einzige Person im Pool ist Tom" muss die Bedeutung bewahren, dass niemand sonst anwesend ist, was „Alle Personen im Pool sind Personen, die mit Tom identisch sind" ergibt. Der Test ist, ob die Übersetzung mit dem Original **logisch äquivalent** ist (kann das eine wahr sein, während das andere falsch ist?).
 
 </div>
 </div>
@@ -343,12 +343,12 @@ Der Rest der Folge behandelt die **Übersetzung**: alltägliche Sätze in die **
 <div className="row">
 <div className="col col--6">
 
-**Exceptive propositions** (signaled by *except*) contain two claims at once. "All police officers except those wearing gas masks passed out from the gas" splits into a universal affirmative ("All non-gas-mask-wearing officers are officers who passed out from the gas") and a universal negative ("No gas-mask-wearing officers are officers who passed out from the gas"). Di Donato uses the prefix **non-** to mark the relevant subclasses, previewing **term complements** for the next episode.
+**Exceptive propositions** (signaled by _except_) contain two claims at once. "All police officers except those wearing gas masks passed out from the gas" splits into a universal affirmative ("All non-gas-mask-wearing officers are officers who passed out from the gas") and a universal negative ("No gas-mask-wearing officers are officers who passed out from the gas"). Di Donato uses the prefix **non-** to mark the relevant subclasses, previewing **term complements** for the next episode.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Ausnehmende Propositionen** (signalisiert durch *außer*) enthalten zwei Behauptungen zugleich. „Alle Polizisten außer denen mit Gasmasken wurden vom Gas ohnmächtig" spaltet sich in eine universell bejahende („Alle Polizisten ohne Gasmaske sind Polizisten, die vom Gas ohnmächtig wurden") und eine universell verneinende („Keine Polizisten mit Gasmaske sind Polizisten, die vom Gas ohnmächtig wurden"). Di Donato verwendet die Vorsilbe **Nicht-**, um die relevanten Unterklassen zu markieren, und deutet die **Termkomplemente** für die nächste Folge an.
+**Ausnehmende Propositionen** (signalisiert durch _außer_) enthalten zwei Behauptungen zugleich. „Alle Polizisten außer denen mit Gasmasken wurden vom Gas ohnmächtig" spaltet sich in eine universell bejahende („Alle Polizisten ohne Gasmaske sind Polizisten, die vom Gas ohnmächtig wurden") und eine universell verneinende („Keine Polizisten mit Gasmaske sind Polizisten, die vom Gas ohnmächtig wurden"). Di Donato verwendet die Vorsilbe **Nicht-**, um die relevanten Unterklassen zu markieren, und deutet die **Termkomplemente** für die nächste Folge an.
 
 </div>
 </div>
@@ -379,4 +379,4 @@ Die Logik ist eine **Sprache für sich**, und die Übersetzung ist eine wesentli
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md)

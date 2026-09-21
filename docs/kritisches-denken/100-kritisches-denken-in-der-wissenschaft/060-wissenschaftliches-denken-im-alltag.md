@@ -24,24 +24,24 @@ Die Prinzipien und Methoden der Wissenschaft können auch außerhalb des formale
 Wissenschaftliches Denken im Alltag beinhaltet:
 
 1. **Empirische Orientierung**: Entscheidungen auf Beobachtungen und Evidenz statt auf Annahmen oder Überzeugungen stützen.
-   
-   *Beispiel*: Bei der Wahl einer Diät nach wissenschaftlichen Studien statt nach Anekdoten oder Testimonials suchen.
+
+   _Beispiel_: Bei der Wahl einer Diät nach wissenschaftlichen Studien statt nach Anekdoten oder Testimonials suchen.
 
 2. **Hypothesentesten**: Annahmen als Hypothesen betrachten und systematisch testen.
-   
-   *Beispiel*: Die Annahme "Mein Kind ist morgens produktiver" durch Beobachtung und Dokumentation über mehrere Wochen prüfen.
+
+   _Beispiel_: Die Annahme "Mein Kind ist morgens produktiver" durch Beobachtung und Dokumentation über mehrere Wochen prüfen.
 
 3. **Kontrolle von Variablen**: Bei Vergleichen oder Tests möglichst viele Faktoren konstant halten.
-   
-   *Beispiel*: Beim Testen eines neuen Produkts alle anderen Faktoren (Anwendungshäufigkeit, Umgebung, etc.) gleich halten.
+
+   _Beispiel_: Beim Testen eines neuen Produkts alle anderen Faktoren (Anwendungshäufigkeit, Umgebung, etc.) gleich halten.
 
 4. **Systematische Datensammlung**: Informationen methodisch und vollständig sammeln.
-   
-   *Beispiel*: Bei gesundheitlichen Symptomen ein Tagebuch führen, das alle relevanten Faktoren (Ernährung, Aktivität, Schlaf, etc.) dokumentiert.
+
+   _Beispiel_: Bei gesundheitlichen Symptomen ein Tagebuch führen, das alle relevanten Faktoren (Ernährung, Aktivität, Schlaf, etc.) dokumentiert.
 
 5. **Kritische Bewertung von Evidenz**: Informationen hinsichtlich Qualität, Relevanz und Zuverlässigkeit bewerten.
-   
-   *Beispiel*: Bei der Recherche zu einem Produkt die Qualität der Quellen und die Art der präsentierten Evidenz berücksichtigen.
+
+   _Beispiel_: Bei der Recherche zu einem Produkt die Qualität der Quellen und die Art der präsentierten Evidenz berücksichtigen.
 
 ## Wissenschaftliches Denken in verschiedenen Lebensbereichen
 
@@ -50,6 +50,7 @@ Wissenschaftliches Denken kann in verschiedenen Kontexten angewendet werden:
 ### Gesundheitsentscheidungen
 
 Bei gesundheitsbezogenen Entscheidungen kann wissenschaftliches Denken helfen:
+
 - Bewertung der Evidenz für Behandlungen oder Präventionsmaßnahmen
 - Verständnis von Risiken und Nutzen medizinischer Interventionen
 - Unterscheidung zwischen Korrelation und Kausalität bei Gesundheitsfaktoren
@@ -60,6 +61,7 @@ Bei gesundheitsbezogenen Entscheidungen kann wissenschaftliches Denken helfen:
 ### Finanzielle Entscheidungen
 
 Bei finanziellen Entscheidungen kann wissenschaftliches Denken helfen:
+
 - Systematische Analyse von Investitionsoptionen
 - Berücksichtigung langfristiger Trends statt kurzfristiger Schwankungen
 - Kritische Bewertung von Finanzprognosen und -beratung
@@ -70,6 +72,7 @@ Bei finanziellen Entscheidungen kann wissenschaftliches Denken helfen:
 ### Berufliche Entscheidungen
 
 Im beruflichen Kontext kann wissenschaftliches Denken helfen:
+
 - Evidenzbasierte Entscheidungsfindung in Organisationen
 - Systematische Evaluation von Projekten oder Initiativen
 - Datengestützte Problemanalyse und Lösungsentwicklung
@@ -82,23 +85,23 @@ Im beruflichen Kontext kann wissenschaftliches Denken helfen:
 Wissenschaftliches Denken kann helfen, kognitive Verzerrungen zu überwinden:
 
 1. **Bestätigungsfehler**: Aktiv nach Informationen suchen, die den eigenen Überzeugungen widersprechen.
-   
-   *Strategie*: Bei Recherchen bewusst nach gegenteiligen Argumenten oder Evidenz suchen.
+
+   _Strategie_: Bei Recherchen bewusst nach gegenteiligen Argumenten oder Evidenz suchen.
 
 2. **Verfügbarkeitsheuristik**: Systematische Daten statt leicht verfügbarer Beispiele verwenden.
-   
-   *Strategie*: Bei Risikoeinschätzungen nach statistischen Daten statt nach anekdotischen Berichten suchen.
+
+   _Strategie_: Bei Risikoeinschätzungen nach statistischen Daten statt nach anekdotischen Berichten suchen.
 
 3. **Ankereffekt**: Bewusst verschiedene Referenzpunkte betrachten.
-   
-   *Strategie*: Bei Verhandlungen oder Preiseinschätzungen mehrere unabhängige Vergleichswerte heranziehen.
+
+   _Strategie_: Bei Verhandlungen oder Preiseinschätzungen mehrere unabhängige Vergleichswerte heranziehen.
 
 4. **Grundlagenirrtum**: Situative Faktoren bei der Erklärung von Verhalten berücksichtigen.
-   
-   *Strategie*: Bei der Beurteilung des Verhaltens anderer systematisch nach kontextuellen Einflüssen fragen.
+
+   _Strategie_: Bei der Beurteilung des Verhaltens anderer systematisch nach kontextuellen Einflüssen fragen.
 
 5. **Rückschaufehler**: Vorhersagen dokumentieren, bevor Ereignisse eintreten.
-   
-   *Strategie*: Ein "Vorhersagetagebuch" führen, um die eigene Prognosefähigkeit realistisch einzuschätzen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md)
+   _Strategie_: Ein "Vorhersagetagebuch" führen, um die eigene Prognosefähigkeit realistisch einzuschätzen.
+
+[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md)

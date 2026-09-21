@@ -21,7 +21,7 @@ controls src='https://youtu.be/Af0STrY58i4' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 6:02. Original title: *Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY*
+Wireless Philosophy, Fallacies, 6:02. Original title: _Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY_
 
 <div className="row">
 <div className="col col--6">
@@ -192,4 +192,4 @@ Ablenkungsmanöver treten in vielen Formen auf: für die falsche Schlussfolgerun
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring.md)

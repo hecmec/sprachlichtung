@@ -32,6 +32,7 @@ _Where nothing is excluded, nothing can be excluded._
 ## Definition
 
 <!--t src=7c51d1b8-->
+
 One **rule of the categorical syllogism** is: if **both premises are affirmative**, then the conclusion must also be affirmative. If a **negative** conclusion is nevertheless drawn, the fallacy of the "negative conclusion from affirmative premises" (also _illicit affirmative_) is present.
 
 <!--t src=30b6008e-->
@@ -64,6 +65,7 @@ Also known as: _illicit affirmative_ / _negative conclusion from affirmative pre
 <!-- list similar fallacies -->
 
 <!--t src=42ba0e7b-->
+
 - **Affirmative conclusion from a negative premise (illicit negative)** &mdash; the mirror-image violation of the same quality rule.
 - **Two negative premises** &mdash; likewise a violation of the rules on the quality (affirmative/negative) of the statements.
 
@@ -85,6 +87,7 @@ Also known as: _illicit affirmative_ / _negative conclusion from affirmative pre
 > 3. Therefore some animals are not cats.
 
 <!--t src=3e87ce0c-->
+
 The conclusion is indeed _materially_ true, but does not follow: from two affirmative statements no negation can be obtained. Validly, only "All cats are animals" follows.
 
 <!--t src=f350657d-->
@@ -101,6 +104,7 @@ The conclusion is indeed _materially_ true, but does not follow: from two affirm
 > 3. Therefore some living things are not roses.
 
 <!--t src=eac1e5aa-->
+
 Here too, from pure inclusion (affirmative) an exclusion (negative) is asserted &mdash; this is formally inadmissible.
 
 <!--t src=69b1092f-->
@@ -116,4 +120,5 @@ Here too, from pure inclusion (affirmative) an exclusion (negative) is asserted 
 - [Logically Fallacious: Negative Conclusion from Affirmative Premises](https://www.logicallyfallacious.com/logicalfallacies/Negative-Conclusion-from-Affirmative-Premises)
 
 <!--t src=481d8d50-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md)

@@ -73,4 +73,4 @@ Das erzeugte Wohlgefühl soll die Kaufentscheidung tragen, sagt aber nichts übe
 - [Wikipedia: Appeal to emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion)
 - [Logically Fallacious: Appeal to Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md)

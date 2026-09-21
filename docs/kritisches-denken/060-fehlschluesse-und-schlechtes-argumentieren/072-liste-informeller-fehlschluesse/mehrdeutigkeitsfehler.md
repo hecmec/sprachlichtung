@@ -71,4 +71,4 @@ Die Struktur erlaubt zu lesen, man solle „Überlebende foltern“ helfen. Geme
 - [Wikipedia: Amphibolie](https://de.wikipedia.org/wiki/Amphibolie)
 - [Logically Fallacious: Amphiboly](https://www.logicallyfallacious.com/logicalfallacies/Amphiboly)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md)

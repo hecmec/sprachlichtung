@@ -22,7 +22,6 @@ Wir erklären fremdes Handeln mit Persönlichkeit, nicht mit Umständen.
 _Das liegt in seiner Natur._
 :::
 
-
 ## Definition
 
 Der **Grundlagenirrtum** ist die Tendenz, das Verhalten anderer Menschen durch ihre persönlichen Eigenschaften zu erklären und situative Faktoren zu unterschätzen, während wir bei uns selbst eher situative Faktoren zur Erklärung heranziehen.
@@ -77,4 +76,4 @@ Wirkt ein Kollege bei einer Präsentation nervös, schließen wir auf mangelnde 
 - Ross, L. (1977): "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"
 - Gilbert, D. T. & Malone, P. S. (1995): "The Correspondence Bias"
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md)

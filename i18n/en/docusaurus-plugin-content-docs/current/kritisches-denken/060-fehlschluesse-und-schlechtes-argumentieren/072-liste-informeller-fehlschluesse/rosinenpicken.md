@@ -30,9 +30,11 @@ _Picking out the raisins._
 ## Definition
 
 <!--t src=7990a595-->
+
 In **cherry picking**, only the data, cases or quotations that **support one's own thesis** are deliberately picked out, while all contradicting evidence is kept silent.
 
 <!--t src=7aa1ebdf-->
+
 The error: a one-sidedly assembled picture can "prove" almost any thesis. What counts is the _totality_ of the evidence, not a hand-picked selection.
 
 <!--t src=3c24b250-->
@@ -58,6 +60,7 @@ Also known as: _cherry picking_
 <!-- list similar fallacies -->
 
 <!--t src=c1e27c4b-->
+
 - **Confirmation bias** &mdash; the cognitive root: we prefer confirming information anyway.
 - **Hasty generalization** &mdash; related: an inference from a non-representative selection.
 - **Texas sharpshooter** &mdash; related: picking out apparent patterns after the fact.
@@ -74,6 +77,7 @@ Also known as: _cherry picking_
 <!-- description of example one -->
 
 <!--t src=4b3de209-->
+
 > "This diet works &mdash; look at the three people who lost weight with it."
 
 <!--t src=2cc36dd7-->
@@ -103,8 +107,10 @@ The selection produces a distorted picture of the state of research.
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
 <!--t src=7dc63485-->
+
 - [Wikipedia: Cherry picking (fallacy)](https://en.wikipedia.org/wiki/Cherry_picking)
 - [Logically Fallacious: Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)
 
 <!--t src=a9bb5c55-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md)

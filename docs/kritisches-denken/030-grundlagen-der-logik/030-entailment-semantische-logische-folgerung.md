@@ -15,9 +15,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 **Semantische Folgerung** oder Entailment ist ein fundamentales Konzept in der Logik. Es beschreibt eine Beziehung zwischen Aussagen, bei der eine Aussage (oder eine Gruppe von Aussagen) eine andere Aussage notwendigerweise impliziert.
@@ -48,7 +47,7 @@ Das hört sich alles sehr theoretisch an, also ein paar Beispiele.
 
 Das ist wahr, weil wir die Sprache so benutzen.  
 Von solchen Sätzen, die aufgrund ihrer Bedeutung wahr sind, sagt man oft:
-sie sind **analytisch wahr**.  
+sie sind **analytisch wahr**.
 
 :::tip
 "**Tom ist Junggeselle.**" daraus folgt "**Tom ist nicht verheiratet**."
@@ -80,7 +79,7 @@ Das folgt aus unseren Sprachregeln: wie wir "alle" und "Menschen" und "sterblich
 
 ## Semantische Folgerung vs. Implikation
 
-Wir müssen semantische Folgerung nicht nur von formaler Ableitbarkeit unterscheiden, sondern auch von der **materialen Implikation** (das ist ein schlaues Wort für den "Wenn-Also-Dann"-Operator in der formalen Logik)  unterscheiden:
+Wir müssen semantische Folgerung nicht nur von formaler Ableitbarkeit unterscheiden, sondern auch von der **materialen Implikation** (das ist ein schlaues Wort für den "Wenn-Also-Dann"-Operator in der formalen Logik) unterscheiden:
 
 - **Folgerung** (A ⊨ B) ist eine semantische Beziehung: Es geht um die notwendige Wahrheitserhaltung von A zu B.
 - **Implikation** (A → B) ist ein logischer Operator: "Wenn A, dann B" kann wahr sein, auch wenn zwischen A und B kein inhaltlicher Zusammenhang besteht.
@@ -111,7 +110,7 @@ Das Verständnis von Entailment ist entscheidend für das kritische Denken, da e
 
 ## Quellen
 
-- [Ableitung in der Logik](https://de.wikipedia.org/wiki/Ableitung_(Logik)), Wikipedia
+- [Ableitung in der Logik](<https://de.wikipedia.org/wiki/Ableitung_(Logik)>), Wikipedia
 - [Semantische Folgerung], Wikipedia(https://de.wikipedia.org/wiki/Semantische_Folgerung)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md)
+[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md)

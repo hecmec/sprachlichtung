@@ -65,12 +65,12 @@ Die erste und kleinste Familie der informellen Fehlschlüsse sind die **Fehlschl
 <div className="row">
 <div className="col col--6">
 
-A key word carries **more than one meaning** and changes sense between premises, blocking the conclusion (the formal counterpart is the **four-term fallacy**). It is the serious cousin of the **pun** (as in Abbott and Costello's *Who's on First?*, where one speaker uses a word as a question and the other as a name). Examples:
+A key word carries **more than one meaning** and changes sense between premises, blocking the conclusion (the formal counterpart is the **four-term fallacy**). It is the serious cousin of the **pun** (as in Abbott and Costello's _Who's on First?_, where one speaker uses a word as a question and the other as a name). Examples:
 
 </div>
 <div className="col col--6 video-translation">
 
-Ein Schlüsselwort trägt **mehr als eine Bedeutung** und wechselt zwischen den Prämissen den Sinn, was die Schlussfolgerung blockiert (das formale Gegenstück ist der **Vier-Begriffe-Fehlschluss**). Es ist der ernste Verwandte des **Wortspiels** (wie in Abbott und Costellos *Who's on First?*, wo ein Sprecher ein Wort als Frage und der andere als Namen verwendet). Beispiele:
+Ein Schlüsselwort trägt **mehr als eine Bedeutung** und wechselt zwischen den Prämissen den Sinn, was die Schlussfolgerung blockiert (das formale Gegenstück ist der **Vier-Begriffe-Fehlschluss**). Es ist der ernste Verwandte des **Wortspiels** (wie in Abbott und Costellos _Who's on First?_, wo ein Sprecher ein Wort als Frage und der andere als Namen verwendet). Beispiele:
 
 </div>
 </div>
@@ -78,16 +78,16 @@ Ein Schlüsselwort trägt **mehr als eine Bedeutung** und wechselt zwischen den 
 <div className="row">
 <div className="col col--6">
 
-- "An elephant is an animal, therefore a small elephant is a small animal", *small* is a **relative term**.
-- "All good things should be legal; feeling good is good; beating up people you dislike feels good; therefore it should be legal", *good* shifts from **morally good** to **pleasurable**.
-- Arguing from micro- to macro-evolution, or a theological argument where *really* means "truly" in one premise but "in mutual dependence" (Aquinas's sense) in another.
+- "An elephant is an animal, therefore a small elephant is a small animal", _small_ is a **relative term**.
+- "All good things should be legal; feeling good is good; beating up people you dislike feels good; therefore it should be legal", _good_ shifts from **morally good** to **pleasurable**.
+- Arguing from micro- to macro-evolution, or a theological argument where _really_ means "truly" in one premise but "in mutual dependence" (Aquinas's sense) in another.
 
 </div>
 <div className="col col--6 video-translation">
 
-- „Ein Elefant ist ein Tier, also ist ein kleiner Elefant ein kleines Tier" – *klein* ist ein **relativer Begriff**.
-- „Alle guten Dinge sollten legal sein; sich gut zu fühlen ist gut; Menschen zu verprügeln, die man nicht mag, fühlt sich gut an; also sollte es legal sein" – *gut* wechselt von **moralisch gut** zu **lustvoll**.
-- Von der Mikro- zur Makroevolution argumentieren, oder ein theologisches Argument, in dem *wirklich* in der einen Prämisse „tatsächlich" bedeutet, in der anderen aber „in gegenseitiger Abhängigkeit" (im Sinne von Aquin).
+- „Ein Elefant ist ein Tier, also ist ein kleiner Elefant ein kleines Tier" – _klein_ ist ein **relativer Begriff**.
+- „Alle guten Dinge sollten legal sein; sich gut zu fühlen ist gut; Menschen zu verprügeln, die man nicht mag, fühlt sich gut an; also sollte es legal sein" – _gut_ wechselt von **moralisch gut** zu **lustvoll**.
+- Von der Mikro- zur Makroevolution argumentieren, oder ein theologisches Argument, in dem _wirklich_ in der einen Prämisse „tatsächlich" bedeutet, in der anderen aber „in gegenseitiger Abhängigkeit" (im Sinne von Aquin).
 
 </div>
 </div>
@@ -136,14 +136,14 @@ Mehrdeutigkeit aus der **grammatischen Konstruktion** statt aus einem einzelnen 
 
 - "Reverend Smith said it was his privilege to marry six people yesterday."
 - "Wife kills husband with shotgun" (her weapon, or his?).
-- "Our burgers are made with 100% pure beef" (entirely beef, or just *one* ingredient?).
+- "Our burgers are made with 100% pure beef" (entirely beef, or just _one_ ingredient?).
 
 </div>
 <div className="col col--6 video-translation">
 
-- „Reverend Smith sagte, es sei ihm ein Vorrecht gewesen, gestern sechs Menschen zu trauen." (im Englischen: *to marry* = trauen oder heiraten)
+- „Reverend Smith sagte, es sei ihm ein Vorrecht gewesen, gestern sechs Menschen zu trauen." (im Englischen: _to marry_ = trauen oder heiraten)
 - „Ehefrau tötet Ehemann mit Schrotflinte" (ihre Waffe oder seine?).
-- „Unsere Burger sind aus 100 % reinem Rindfleisch gemacht" (ganz aus Rindfleisch, oder nur *eine* Zutat?).
+- „Unsere Burger sind aus 100 % reinem Rindfleisch gemacht" (ganz aus Rindfleisch, oder nur _eine_ Zutat?).
 
 </div>
 </div>
@@ -178,13 +178,13 @@ Unsachgemäße **Betonung** eines Wortes oder Teils einer Aussage (durch Zeichen
 <div className="col col--6">
 
 - "Shake well before using", so I shook it after breakfast.
-- "I'm not taking *you* to the movies" vs. "I'm not taking you to the *movies*", different implications, and the "we'll be home tonight" conclusion may be false.
+- "I'm not taking _you_ to the movies" vs. "I'm not taking you to the _movies_", different implications, and the "we'll be home tonight" conclusion may be false.
 
 </div>
 <div className="col col--6 video-translation">
 
 - „Vor Gebrauch gut schütteln", also schüttelte ich es nach dem Frühstück.
-- „Ich nehme *dich* nicht mit ins Kino" vs. „Ich nehme dich nicht mit ins *Kino*" – unterschiedliche Implikationen, und die Schlussfolgerung „wir sind heute Abend zu Hause" kann falsch sein.
+- „Ich nehme _dich_ nicht mit ins Kino" vs. „Ich nehme dich nicht mit ins _Kino_" – unterschiedliche Implikationen, und die Schlussfolgerung „wir sind heute Abend zu Hause" kann falsch sein.
 
 </div>
 </div>
@@ -259,14 +259,14 @@ Eine Position verteidigen, indem man einen Unterschied zu einer anderen behaupte
 <div className="row">
 <div className="col col--6">
 
-- A *changed* phone number vs. a *new* number (Seinfeld).
-- "There's no good or evil, only functional and dysfunctional", but *dysfunctional* presupposes a correct way to function, which is itself a moral standard.
+- A _changed_ phone number vs. a _new_ number (Seinfeld).
+- "There's no good or evil, only functional and dysfunctional", but _dysfunctional_ presupposes a correct way to function, which is itself a moral standard.
 
 </div>
 <div className="col col--6 video-translation">
 
-- Eine *geänderte* Telefonnummer vs. eine *neue* Nummer (Seinfeld).
-- „Es gibt kein Gut oder Böse, nur funktional und dysfunktional" – aber *dysfunktional* setzt eine richtige Art zu funktionieren voraus, die selbst ein moralischer Maßstab ist.
+- Eine _geänderte_ Telefonnummer vs. eine _neue_ Nummer (Seinfeld).
+- „Es gibt kein Gut oder Böse, nur funktional und dysfunktional" – aber _dysfunktional_ setzt eine richtige Art zu funktionieren voraus, die selbst ein moralischer Maßstab ist.
 
 </div>
 </div>
@@ -323,4 +323,4 @@ Das kratzt nur an der Oberfläche: Der beste Ansatz ist, die Beispiele durchzuge
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md)

@@ -21,7 +21,7 @@ controls src='https://youtu.be/LBNtChg4t4k' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 5:58. Original title: *CRITICAL THINKING - Cognitive Biases: Reference Dependence and Loss Aversion [HD]*
+Wireless Philosophy, Cognitive Biases, 5:58. Original title: _CRITICAL THINKING - Cognitive Biases: Reference Dependence and Loss Aversion [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -248,4 +248,4 @@ Santos schließt, dass selbst bei einer Entscheidung über Leben und Tod unsere 
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md)

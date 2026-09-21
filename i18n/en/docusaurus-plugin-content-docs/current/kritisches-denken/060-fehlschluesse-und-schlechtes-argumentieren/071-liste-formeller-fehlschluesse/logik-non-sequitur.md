@@ -50,6 +50,7 @@ The fallacy has the following form:
 2. Therefore conclusion K.
 
 <!--t src=3befa7b4-->
+
 …where C is not logically derivable from P. The truth of the premises is irrelevant here: even from true premises a non sequitur can "derive" a (coincidentally) true or a false conclusion &mdash; the inference is valid in no case.
 
 <!--t src=83ad83e3-->
@@ -64,6 +65,7 @@ Also known as: _non sequitur_
 <!-- list similar fallacies -->
 
 <!--t src=c9e5d5fb-->
+
 - **Affirming the consequent** &mdash; a special case of the non sequitur with the conditional.
 - **Denying the antecedent** &mdash; likewise a named special case.
 - **Argumentum ad logicam** &mdash; a special form: from "the argument is flawed" it does not follow that "the claim is false".
@@ -117,4 +119,5 @@ Between owning an expensive car and political expertise there is no logical conn
 - [Logically Fallacious: Non Sequitur](https://www.logicallyfallacious.com/logicalfallacies/Non-Sequitur)
 
 <!--t src=2a0b419b-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md)

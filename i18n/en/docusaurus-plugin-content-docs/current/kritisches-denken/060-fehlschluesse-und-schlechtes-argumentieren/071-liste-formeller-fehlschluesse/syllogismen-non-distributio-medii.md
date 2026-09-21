@@ -31,9 +31,11 @@ _A shared property is not identity._
 ## Definition
 
 <!--t src=ce746ed0-->
+
 In the fallacy of the **undistributed middle** (Latin _non distributio medii_), the middle term $M$ &mdash; the term that occurs in both premises and is meant to link them &mdash; is _distributed_ in **neither** of the two premises.
 
 <!--t src=f2d4663d-->
+
 A term is "distributed" if the statement refers to **all** of its members. In the sentence "All $S$ are $P$", only the subject $S$ is distributed, not the predicate $P$. If $M$ remains undistributed in both premises, it establishes no connection between the end terms &mdash; from a merely _shared_ property no identity follows.
 
 <!--t src=4c3eab81-->
@@ -62,6 +64,7 @@ Also known as: _undistributed middle_
 <!-- list similar fallacies -->
 
 <!--t src=60b61e80-->
+
 - **Quaternio terminorum** &mdash; a related structural defect of the syllogism, there through one term too many.
 - **Affirming the consequent** &mdash; the propositional-logic counterpart: there too, from a common consequence, identity of the cause is inferred.
 - **Hasty generalization** &mdash; related in content, when from a shared feature identity is inferred.
@@ -84,6 +87,7 @@ Also known as: _undistributed middle_
 > 3. Therefore all lions are cats.
 
 <!--t src=164108dd-->
+
 The middle term "animals" is undistributed in both premises (in each case it means only _some_ animals). That lions and cats are both animals does not make them the same.
 
 <!--t src=f350657d-->
@@ -114,4 +118,5 @@ The middle term "animals" is undistributed in both premises (in each case it mea
 - [Logically Fallacious: Fallacy of the Undistributed Middle](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle)
 
 <!--t src=a2c1141d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md)

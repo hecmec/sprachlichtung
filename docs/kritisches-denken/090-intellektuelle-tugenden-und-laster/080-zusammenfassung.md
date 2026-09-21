@@ -35,4 +35,4 @@ Wir haben gelernt:
 
 Die Kultivierung intellektueller Tugenden und die Überwindung intellektueller Laster sind nicht nur für akademische oder philosophische Zwecke wichtig, sondern haben praktische Auswirkungen auf unser tägliches Leben, unsere Entscheidungen und unsere Beziehungen zu anderen. Durch bewusste Anstrengung und kontinuierliche Reflexion können wir unsere intellektuellen Charaktereigenschaften entwickeln und zu besseren Denkern und Kommunikationspartnern werden.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md)

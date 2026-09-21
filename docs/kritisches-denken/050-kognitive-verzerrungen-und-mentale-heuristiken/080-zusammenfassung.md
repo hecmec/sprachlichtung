@@ -51,4 +51,4 @@ Das Bewusstsein für kognitive Verzerrungen und die Anwendung von Strategien zu 
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md)

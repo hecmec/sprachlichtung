@@ -17,12 +17,10 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
 import ReactPlayer from 'react-player';
-
 
 <ReactPlayer style={{ width: '100%', height: 'auto', aspectRatio: '16/9' }} controls src='https://www.youtube.com/watch?v=Bse3QVU1yfY' />
 
@@ -105,8 +103,8 @@ Diese Begriffe bezeichnen ebenfalls Herrscher, die **ihren Untertanen nicht zuh�
 La pensée critique peut exister **en secret**, mais dès qu’elle s’exprime publiquement, **elle devient visible** et donc **réprimable** par le tyran.
 C’est la distinction entre :
 
-* **Liberté de pensée** : intérieure, difficilement contrôlable.
-* **Liberté d’expression** : publique, souvent interdite ou punie en régime tyrannique.
+- **Liberté de pensée** : intérieure, difficilement contrôlable.
+- **Liberté d’expression** : publique, souvent interdite ou punie en régime tyrannique.
 
 Sans liberté d'expression, la pensée critique est réduite à un **for intérieur** impuissant.
 
@@ -118,8 +116,8 @@ Sans liberté d'expression, la pensée critique est réduite à un **for intéri
 Kritisches Denken kann **im Verborgenen** existieren, aber sobald es sich öffentlich äußert, **wird es sichtbar** und damit vom Tyrannen **unterdrückbar**.
 Das ist der Unterschied zwischen:
 
-* **Gedankenfreiheit**: innerlich, schwer zu kontrollieren.
-* **Meinungsfreiheit**: öffentlich, in einem tyrannischen Regime oft verboten oder bestraft.
+- **Gedankenfreiheit**: innerlich, schwer zu kontrollieren.
+- **Meinungsfreiheit**: öffentlich, in einem tyrannischen Regime oft verboten oder bestraft.
 
 Ohne Meinungsfreiheit ist das kritische Denken auf ein ohnmächtiges **Inneres** reduziert.
 
@@ -198,4 +196,4 @@ Die Tyrannei, ob religiös, monarchisch oder autokratisch, hat sich stets gegen 
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/040-la-question-de-la-tyrannie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/040-la-question-de-la-tyrannie.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/040-la-question-de-la-tyrannie.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/040-la-question-de-la-tyrannie.md)

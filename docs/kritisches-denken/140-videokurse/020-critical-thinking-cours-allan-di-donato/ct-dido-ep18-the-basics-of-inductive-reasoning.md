@@ -354,4 +354,4 @@ Die Bewertung von Analogien ist etwas **subjektiv** und hängt davon ab, wie rel
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning.md)

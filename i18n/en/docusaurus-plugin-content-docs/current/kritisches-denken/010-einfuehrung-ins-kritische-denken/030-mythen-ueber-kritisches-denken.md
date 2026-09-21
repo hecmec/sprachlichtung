@@ -14,9 +14,11 @@ translation_status: auto
 ---
 
 <!--t src=1bfdad9e-->
+
 ![quote campbell](/img/kd/quote-campbell-myth-facts.jpg)
 
 <!--t src=6ce03324-->
+
 > The myth does not point to a fact; the myth points beyond facts to something that informs the fact. (Joseph Campbell)
 
 <!--t src=4d4d06c0-->
@@ -51,6 +53,7 @@ Rational thinking always contains a large creative component. New ideas and conc
 ## Myth 3: Critical thinking is only relevant for academics and intellectuals
 
 <!--t src=9ff0d726-->
+
 **Reality:** Critical thinking is a practical skill that is useful in all areas of life &mdash; from shopping and media consumption to personal relationships and professional decisions.
 
 <!--t src=ee76bda4-->
@@ -70,6 +73,7 @@ The next time you see an advertisement, hear a political argument, or sign a con
 ## Myth 5: Critical thinking undermines authority and respect
 
 <!--t src=19eb4bd7-->
+
 **Yes:** Critical thinking destroys blind following of pseudo-authorities. Self-appointed authorities and other gurus are questioned instead of being **blindly followed**.
 Respect goes to whoever or whatever earns respect through evidence, logic and ethical conduct.
 
@@ -127,4 +131,5 @@ There are many philosophers who have understood this. They reconcile their belie
 [^2]: The philosopher **Immanuel Kant** showed in his work that faith and reason are distinct domains that do not contradict each other. God, freedom, and immortality, however, are not objects of empirical knowledge, but belong to practical reason.
 
 <!--t src=b1453b8c-->
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)

@@ -22,37 +22,47 @@ custom_translation_overwritten: false
 <!-- ## Formale Fehlschlüsse -->
 
 <!--t src=2aa2da81-->
+
 Les sophismes formels enfreignent les règles de la logique formelle. Ils sont structurellement erronés, indépendamment du contenu spécifique des énoncés.
 
 <!--t src=b2a927e7-->
+
 Tous les sophismes formels sont des cas particuliers du **Non sequitur** (du latin pour "cela ne suit pas")
 
 <!--t src=a1a25048-->
+
 ## 1. Affirmation du conséquent (Affirming the Consequent)
 
 <!--t src=16669b58-->
+
 Ce sophisme a la forme suivante :
 
 <!--t src=d1e42aba-->
+
 1. Si A, alors B.
 2. B est vrai.
 3. Donc A est vrai.
 
 <!--t src=895c5326-->
+
 ### Exemple :
 
 <!--t src=118339c0-->
+
 1. S'il pleut, la rue est mouillée.
 2. La rue est mouillée.
 3. Donc il pleut.
 
 <!--t src=072b7b42-->
+
 ### Pourquoi est-ce erroné ?
 
 <!--t src=ec3de9ef-->
+
 Il existe peut-être d'autres raisons pour qu'une rue soit mouillée (par exemple un nettoyage de la chaussée, une conduite d'eau éclatée). Le sophisme consiste à conclure de la vérité du conséquent (B) à la vérité de l'antécédent (A).
 
 <!--t src=cbf92f11-->
+
 ### Diagramme de Venn
 
 <!--t src=c312659c-->
@@ -101,34 +111,43 @@ Il existe peut-être d'autres raisons pour qu'une rue soit mouillée (par exempl
 </svg>
 
 <!--t src=06ff4f44-->
+
 ## 2. Négation de l'antécédent (Denying the Antecedent)
 
 <!--t src=16669b58-->
+
 Ce sophisme a la forme suivante :
 
 <!--t src=1e30b8e7-->
+
 1. Si A, alors B.
 2. A n'est pas vrai.
 3. Donc B n'est pas vrai.
 
 <!--t src=895c5326-->
+
 ### Exemple :
 
 <!--t src=ede3780a-->
+
 1. Si quelqu'un a de la fièvre, il est malade.
 2. Max n'a pas de fièvre.
 3. Donc Max n'est pas malade.
 
 <!--t src=072b7b42-->
+
 ### Pourquoi est-ce erroné ?
 
 <!--t src=b9adaa6c-->
+
 Il existe peut-être d'autres raisons pour lesquelles quelqu'un pourrait être malade, même sans avoir de fièvre. Le sophisme consiste à conclure de la fausseté de l'antécédent (A) à la fausseté du conséquent (B).
 
 <!--t src=cbf92f11-->
+
 ### Diagramme de Venn
 
 <!--t src=44c0ca30-->
+
 Le diagramme de Venn a la même forme que dans l'exemple précédent.
 
 <!--t src=2ebe7b39-->
@@ -182,39 +201,51 @@ Wenn ich in Wien bin, bin ich in Österreich.
 'non sequitur' 	Deshalb bin ich auch nicht in Österreich.  -->
 
 <!--t src=1663f7c5-->
+
 ## 3. Quaternio terminorum (sophisme des quatre termes)
 
 <!--t src=24190d11-->
+
 Ce sophisme apparaît dans les syllogismes catégoriques lorsqu'un terme est employé avec des significations différentes, de sorte que le syllogisme contient en réalité quatre termes au lieu de trois.
 
 <!--t src=82b4e76e-->
+
 **Exemple :**
+
 1. Toutes les étoiles brillent dans le ciel.
 2. Certains acteurs de cinéma sont des stars (des étoiles).
 3. Donc certains acteurs de cinéma brillent dans le ciel.
 
 <!--t src=d3ad64a1-->
+
 **Pourquoi est-ce erroné ?** Le terme "étoile/star" est employé avec deux significations différentes (corps céleste vs. personne célèbre). De ce fait, le syllogisme contient en réalité quatre termes au lieu de trois, ce qui rend la structure logique invalide.
 
 <!--t src=4a9b3b04-->
+
 ## 4. Sophisme du moyen terme non distribué (Undistributed Middle)
 
 <!--t src=e930e8b0-->
+
 Ce sophisme apparaît dans les syllogismes catégoriques lorsque le moyen terme n'est employé de façon complète (distributive) dans aucune des prémisses.
 
 <!--t src=45a05c10-->
+
 **Exemple :**
+
 1. Tous les chiens sont des mammifères.
 2. Tous les chats sont des mammifères.
 3. Donc tous les chiens sont des chats.
 
 <!--t src=4de80c71-->
+
 **Pourquoi est-ce erroné ?** Le moyen terme "mammifères" n'est employé de façon complète dans aucune des prémisses. Le sophisme consiste à conclure d'une propriété commune (tous deux sont des mammifères) à une identité.
 
 <!--t src=cbf92f11-->
+
 ### Diagramme de Venn
 
 <!--t src=b8a247a4-->
+
 Comme on peut le voir, après avoir exclu (hachures) les chiens non-mammifères et les chats non-mammifères, il n'existe aucun chevauchement obligatoire entre les chiens et les chats, bien que les deux soient des mammifères. Notre exemple m est un chien et un mammifère, mais pas un chat.\
 Les informations des prémisses ne suffisent toutefois pas à exclure des animaux qui seraient à la fois des chats et des chiens.
 
@@ -262,4 +293,5 @@ Les informations des prémisses ne suffisent toutefois pas à exclure des animau
 </svg>
 
 <!--t src=44df2b3d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)

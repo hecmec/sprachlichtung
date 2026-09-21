@@ -92,4 +92,4 @@ Das Sprachspiel der Verführung erfüllt komplexe soziale Funktionen:
 
 In seiner konstruktiven Form kann Verführung Menschen dabei helfen, selbstgesetzte Grenzen zu überwinden, neue Erfahrungen zu machen und aus festgefahrenen Mustern auszubrechen. Die Ambivalenz der Verführung &mdash; zwischen befreiendem Ausbruch und manipulativer Überwältigung &mdash; macht sie zu einem der faszinierendsten und ethisch komplexesten Sprachspiele, die wir kennen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/070-verfuehren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/070-verfuehren.md)
+[Article en français](/fr/docs/sprach-welten/020-sprachspiele/070-verfuehren.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/070-verfuehren.md)

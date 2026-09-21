@@ -15,9 +15,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 Das Verständnis von notwendigen und hinreichenden Bedingungen ist entscheidend für präzises logisches Denken und die Analyse von Argumenten.
@@ -78,4 +77,4 @@ Analyse:
 - Der Fehlschluss besteht darin, eine notwendige Bedingung als hinreichend zu behandeln.
 - Korrekt wäre: Schnelles Laufen ist notwendig, aber nicht hinreichend, um ein guter Fußballspieler zu sein.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)
+[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)

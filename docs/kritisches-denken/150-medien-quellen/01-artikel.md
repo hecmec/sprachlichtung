@@ -73,4 +73,4 @@ draft: false
 - 🇬🇧 George Orwell (1946): [_Politics and the English Language_](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/) &mdash; The Orwell Foundation
 - 🇫🇷 [Pierre Bourdieu. Derrière les mots, un pouvoir](https://www.cairn.info/les-grands-penseurs-du-langage--9782361065294-page-107.htm) &mdash; Cairn.info
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/01-artikel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/01-artikel.md)
+[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/01-artikel.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/01-artikel.md)

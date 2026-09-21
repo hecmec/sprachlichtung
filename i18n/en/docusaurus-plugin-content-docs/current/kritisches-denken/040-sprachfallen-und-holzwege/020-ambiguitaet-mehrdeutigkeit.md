@@ -35,9 +35,11 @@ translation_status: auto
 </div>
 
 <!--t src=18bb4026-->
+
 Ambiguity is present when a word, a sentence or some other linguistic expression can have more than one meaning.
 
 <!--t src=5f9ece94-->
+
 Ambiguities are a fruitful source of **humour and poetry**. At the same time they are a frightful source of misunderstandings and fallacies of every kind, especially when the different meanings get mixed up in the course of an argument.
 
 <!--t src=6edb4c6e-->
@@ -84,6 +86,7 @@ Syntactic ambiguity arises from the structure of a sentence, which can be interp
 **Examples:**
 
 <!--t src=51863b8e-->
+
 - "I saw the man with the binoculars." (Who had the binoculars &mdash; I or the man?)
 - "Flying planes can be dangerous." (Are flying planes dangerous, or can planes be dangerous when they fly?)
 - "She spoke about politics with passion." (Was the politics passionate, or was the manner of speaking passionate?)
@@ -113,6 +116,7 @@ Referential ambiguity occurs when it is unclear what a pronoun or other referent
 **Examples:**
 
 <!--t src=198b7f4a-->
+
 - "Paul talked with Peter about his problem." (Whose problem &mdash; Paul's or Peter's?)
 - "After the mother had hit her daughter, she apologized." (Who apologized?)
 - "The teachers argued with the students because they were dissatisfied." (Who was dissatisfied?)
@@ -154,4 +158,5 @@ Here, it is unclear who is being referred to as dishonest and who should resign.
 5. **Specify pronouns**: Replace ambiguous pronouns with the specific nouns they refer to.
 
 <!--t src=a889f926-->
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)

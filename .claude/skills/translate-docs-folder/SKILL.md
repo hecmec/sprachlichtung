@@ -44,9 +44,11 @@ records the hash of the German block it came from:
 
 ```markdown
 <!--t src=9f3a2b-->
+
 A machine-translated paragraph.
 
 <!--t src=7c1d44 by="Immanuel Lupinus" on=2026-06-05-->
+
 A hand-corrected, protected paragraph.
 ```
 
@@ -142,17 +144,17 @@ German articles may end with a line linking to their translations (clickable in
 VS Code while editing), e.g.:
 
 ```markdown
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/<rel>) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/<rel>)
+[Article en français](/fr/docusaurus-plugin-content-docs/current/<rel>) | [Article in English](/en/docusaurus-plugin-content-docs/current/<rel>)
 ```
 
 Do **not** copy it verbatim. In the translation, the line must point to the
 **two other languages**, never to the page itself. Each link text is written in
 the language it points to:
 
-| Target locale | Line in the translated file |
-| --- | --- |
-| `en` | `[Artikel auf Deutsch](/docs/<rel>) \| [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/<rel>)` |
-| `fr` | `[Artikel auf Deutsch](/docs/<rel>) \| [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/<rel>)` |
+| Target locale | Line in the translated file                                                                                     |
+| ------------- | --------------------------------------------------------------------------------------------------------------- |
+| `en`          | `[Artikel auf Deutsch](/docs/<rel>) \| [Article en français](/fr/docusaurus-plugin-content-docs/current/<rel>)` |
+| `fr`          | `[Artikel auf Deutsch](/docs/<rel>) \| [Article in English](/en/docusaurus-plugin-content-docs/current/<rel>)`  |
 
 - `<rel>` is the same path as the German source (relative to `docs/`); encode
   spaces as `%20`.
@@ -214,7 +216,7 @@ the generator, which marks anything untranslated with a `_t_` prefix:
 ```bash
 cp i18n/<locale>/docusaurus-plugin-content-docs/current.json /tmp/current.bak.json
 yarn write-translations:<locale>          # en | fr
-node -e "const j=require('./i18n/<locale>/docusaurus-plugin-content-docs/current.json');
+node -e "const j=require('./<locale>/docusaurus-plugin-content-docs/current.json');
   for(const [k,v] of Object.entries(j)) if(v.message.startsWith('_t_')) console.log(k);"
 cp /tmp/current.bak.json i18n/<locale>/docusaurus-plugin-content-docs/current.json
 ```

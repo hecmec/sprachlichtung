@@ -18,6 +18,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=7aaab201-->
+
 :::tip In brief
 A bold thesis is advanced, but in the face of resistance withdrawn to a harmless one &mdash; and later put forward again.
 
@@ -29,9 +30,11 @@ _Charge forward, retreat into the tower, charge forward again._
 ## Definition
 
 <!--t src=82cebdad-->
+
 The **motte-and-bailey** fallacy combines two theses of differing strength: a **contested, far-reaching** thesis (the "bailey") and a **modest, barely disputable** thesis (the "motte"). When the strong thesis is attacked, one retreats to the weak one ("that's all I really meant"); once the danger has passed, one advances the strong one again.
 
 <!--t src=37537578-->
+
 The name comes from a medieval form of castle: the inhabited but hard-to-defend courtyard (the _bailey_) is, under attack, abandoned in favor of the easily held tower mound (the _motte_).
 
 <!--t src=0d671439-->
@@ -60,6 +63,7 @@ Also known as: _motte-and-bailey fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=5a939668-->
+
 - **Equivocation** &mdash; related: two meanings are equated; here two theses.
 - **Straw man** &mdash; in a sense the mirror image: there one distorts the _other's_ position, here one shifts one's _own_.
 - **Distinction without a difference** &mdash; a related game with shifting meanings.
@@ -76,6 +80,7 @@ Also known as: _motte-and-bailey fallacy_
 <!-- description of example one -->
 
 <!--t src=03c0fc40-->
+
 > &mdash; "Everything is a social construction." (strong thesis)
 > &mdash; "Gravity too?"
 > &mdash; "Of course, only our _concepts_ of things." (weak thesis)
@@ -92,6 +97,7 @@ As soon as the objection falls silent, the strong claim reappears. But only the 
 <!-- description of example two -->
 
 <!--t src=599b578e-->
+
 > &mdash; "This diet cures diseases." (bailey)
 > &mdash; "Which ones, with what evidence?"
 > &mdash; "Well, healthy eating is simply good for the body." (motte)
@@ -113,4 +119,5 @@ No one disputes that healthy eating is good. With this truism the unsubstantiate
 - [RationalWiki: Motte and bailey](https://rationalwiki.org/wiki/Motte_and_bailey)
 
 <!--t src=1b411031-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md)

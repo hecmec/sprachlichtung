@@ -32,6 +32,7 @@ _An exclusion cannot ground a membership._
 ## Definition
 
 <!--t src=12a9138d-->
+
 One **rule of the categorical syllogism** is: if **one of the premises is negative**, then the conclusion must also be negative. If an **affirmative** conclusion is nevertheless drawn, the fallacy of the "affirmative conclusion from a negative premise" (also _illicit negative_) is present.
 
 <!--t src=0406d185-->
@@ -64,6 +65,7 @@ Also known as: _illicit negative_ / _affirmative conclusion from a negative prem
 <!-- list similar fallacies -->
 
 <!--t src=61857fb2-->
+
 - **Negative conclusion from affirmative premises (illicit affirmative)** &mdash; the mirror-image violation of the same quality rule.
 - **Two negative premises** &mdash; likewise a violation of the rules on the quality of the statements.
 
@@ -102,6 +104,7 @@ The negative premise separates fish from mammals. From it no affirmative conclus
 > 3. Therefore some soldiers are pacifists.
 
 <!--t src=d5c2a03e-->
+
 Here too, from a separation (negative) a belonging (affirmative) is derived &mdash; formally inadmissible. Validly, only "No soldier is a pacifist" follows.
 
 <!--t src=69b1092f-->
@@ -117,4 +120,5 @@ Here too, from a separation (negative) a belonging (affirmative) is derived &mda
 - [Logically Fallacious: Affirmative Conclusion from a Negative Premise](https://www.logicallyfallacious.com/logicalfallacies/Affirmative-Conclusion-from-a-Negative-Premise)
 
 <!--t src=2a30b04a-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md)

@@ -187,4 +187,4 @@ Manchmal stoßen wir auf Widerstände gegen kritisches Denken &mdash; bei uns se
 
 **Beispiel:** Wenn Sie in einem Team arbeiten, in dem kritisches Denken nicht geschätzt wird, könnten Sie zunächst Ihre eigenen kritischen Fragen in einer konstruktiven, nicht konfrontativen Weise stellen ("Ich versuche zu verstehen..."), Erfolge durch kritisches Denken sichtbar machen und allmählich eine Kultur fördern, in der verschiedene Perspektiven aktiv gesucht werden.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md)
+[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md)

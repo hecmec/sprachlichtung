@@ -3,19 +3,19 @@ title: Kategorienfehler
 sidebar_position: 5
 description: "Erläuterung zu Kategorienfehlern und ihren Auswirkungen auf kritisches Denken und Argumentation"
 keywords:
-   - Kategorienfehler
-   - Kategorienvertauschung
-   - logische Fehler
-   - Scheinprobleme
-   - ontologische Unterscheidungen
+  - Kategorienfehler
+  - Kategorienvertauschung
+  - logische Fehler
+  - Scheinprobleme
+  - ontologische Unterscheidungen
 last_update:
-   date: 2026-01-29
-   author: Immanuel Lupinus
+  date: 2026-01-29
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
 ---
- 
+
 <!-- ## Kategorienfehler -->
 
 Ein Kategorienfehler (auch: Kategorienvertauschung) liegt vor, wenn Begriffe oder Konzepte einer Kategorie fälschlicherweise auf eine andere Kategorie angewendet werden, zu der sie logisch nicht gehören. Solche Fehler führen zu Verwirrung und können Scheinprobleme oder Fehlschlüsse erzeugen.
@@ -70,4 +70,4 @@ Hier wird ein abstrakter Begriff (Freiheit) so behandelt, als könnte er eine ph
 
 4. **Kritisches Hinterfragen**: Prüfen Sie, ob Fragen oder Probleme möglicherweise auf kategorialen Verwechslungen beruhen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)
+[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)

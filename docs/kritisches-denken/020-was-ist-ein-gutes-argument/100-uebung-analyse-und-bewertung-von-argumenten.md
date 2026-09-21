@@ -16,12 +16,12 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
 
 <!-- # Übung: Analyse und Bewertung von Argumenten -->
 
 Analysieren und bewerten Sie die folgenden Argumente. Identifizieren Sie dabei:
+
 - Die expliziten Prämissen und die Schlussfolgerung
 - Versteckte Annahmen
 - Die Art des Arguments (deduktiv, induktiv, abduktiv)
@@ -29,18 +29,23 @@ Analysieren und bewerten Sie die folgenden Argumente. Identifizieren Sie dabei:
 - Mögliche Verbesserungen des Arguments
 
 ## Argument 1:
+
 "Die meisten Politiker sind korrupt. Hans ist Politiker. Daher ist Hans wahrscheinlich korrupt."
 
 ## Argument 2:
+
 "Entweder wir senken die Steuern, oder die Wirtschaft wird zusammenbrechen. Wir können es uns nicht leisten, dass die Wirtschaft zusammenbricht. Also müssen wir die Steuern senken."
 
 ## Argument 3:
+
 "In den letzten drei Jahren hat es immer am ersten Wochenende im Juli geregnet. Daher wird es auch dieses Jahr am ersten Wochenende im Juli regnen."
 
 ## Argument 4:
+
 "Studien haben gezeigt, dass Menschen, die regelmäßig meditieren, weniger Stress erleben. Maria möchte ihren Stress reduzieren. Daher sollte Maria regelmäßig meditieren."
 
 ## Argument 5:
+
 "Wenn die Sonne scheint, wird der Schnee schmelzen. Der Schnee schmilzt. Also scheint die Sonne."
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)
+[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)

@@ -30,6 +30,7 @@ _Poison the well before anyone drinks._
 ## Definition
 
 <!--t src=01817d7c-->
+
 **Poisoning the well** is a preemptive form of the **argumentum ad hominem**: before a person even puts forward an argument, they are saddled with negative (often irrelevant) information, so that the audience rejects them from the outset.
 
 <!--t src=1a06de36-->
@@ -58,6 +59,7 @@ Also known as: _poisoning the well_
 <!-- list similar fallacies -->
 
 <!--t src=57f7643e-->
+
 - **Argumentum ad hominem** &mdash; the umbrella term; poisoning the well is the _preemptive_ variant.
 - **Suggestive insinuation** &mdash; related: a suspicion is floated without evidence.
 - **Genetic fallacy** &mdash; evaluation by source rather than by content.
@@ -74,6 +76,7 @@ Also known as: _poisoning the well_
 <!-- description of example one -->
 
 <!--t src=4aebd79d-->
+
 > "Before the previous speaker takes the floor, you should know that he is paid by the industry &mdash; judge for yourselves."
 
 <!--t src=905194f3-->
@@ -103,9 +106,11 @@ Whoever agrees with the proposal afterwards automatically counts as heartless. T
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
 <!--t src=17c28c35-->
+
 - [Wikipedia: Brunnenvergiftung (Rhetorik)](<https://de.wikipedia.org/wiki/Brunnenvergiftung_(Rhetorik)>)
 - [Wikipedia: Poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well)
 - [Logically Fallacious: Poisoning the Well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)
 
 <!--t src=7da401e1-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md)

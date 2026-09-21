@@ -71,4 +71,4 @@ Was in all dem unverändert bleibt: Es sind Automaten, die Wahrscheinlichkeiten 
 
 [^tesler]: Zugeschrieben nach Douglas R. Hofstadter: _Gödel, Escher, Bach_, Basic Books, 1979, wo die Formel als "Teslers Theorem" zitiert wird.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md)
+[Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md)

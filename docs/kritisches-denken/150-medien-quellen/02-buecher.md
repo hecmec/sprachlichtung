@@ -80,4 +80,4 @@ https://www.drkishoresratnamschools.com/best-books-to-improve-critical-thinking/
 
 -->
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/02-buecher.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/02-buecher.md)
+[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/02-buecher.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/02-buecher.md)

@@ -60,6 +60,7 @@ Also known as: _tu quoque_ / _appeal to hypocrisy_
 <!-- list similar fallacies -->
 
 <!--t src=221127de-->
+
 - **Argumentum ad hominem** &mdash; the umbrella term: attacking the person instead of the matter.
 - **Whataboutism** &mdash; closely related: diversion through counter-accusations.
 - **Red herring** &mdash; the counter-accusation leads away from the topic.
@@ -76,6 +77,7 @@ Also known as: _tu quoque_ / _appeal to hypocrisy_
 <!-- description of example one -->
 
 <!--t src=4c639ee3-->
+
 > &mdash; "You should smoke less, it's unhealthy."
 > &mdash; "But you drink wine every evening yourself!"
 
@@ -91,6 +93,7 @@ The reference to drinking changes nothing about the fact that smoking is unhealt
 <!-- description of example two -->
 
 <!--t src=257c4709-->
+
 > &mdash; "This country violates human rights."
 > &mdash; "And what about you? You have police violence too!"
 
@@ -110,4 +113,5 @@ Even if the counter-charge were true, it would not invalidate the original criti
 - [Logically Fallacious: Tu Quoque](https://www.logicallyfallacious.com/logicalfallacies/Tu-Quoque)
 
 <!--t src=07d6b232-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md)

@@ -77,4 +77,4 @@ Wikipedia ist ein hervorragendes **Sprungbrett**: Überblick holen, dann den Fu�
 
 Ein nützlicher Nebeneffekt: Den Wikipedia-Eintrag einer _anderen_ Quelle aufzuschlagen, ist selbst eine Form des lateralen Lesens: so erfährt man schnell, wer hinter einer Zeitung, einem Verein oder einem Institut steckt.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md)
+[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md)

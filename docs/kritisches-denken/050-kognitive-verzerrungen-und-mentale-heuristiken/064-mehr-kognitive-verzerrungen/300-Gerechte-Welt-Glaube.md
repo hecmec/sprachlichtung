@@ -76,4 +76,4 @@ Der Gerechte-Welt-Glaube hängt eng mit mehreren anderen Verzerrungen zusammen u
 - Lerner, M. J. (1980): The Belief in a Just World: A Fundamental Delusion. Plenum Press.
 - Furnham, A. (2003): "Belief in a just world: research progress over the past decade". Personality and Individual Differences.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md)

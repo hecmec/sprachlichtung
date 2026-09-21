@@ -55,4 +55,4 @@ In den folgenden Kapiteln werden wir weitere Aspekte des kritischen Denkens erku
 
 - 🇩🇪 [agumentation.online](https://argumentation.online): Eine kuratierte Sammlung von Argumentrekonstruktionen
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)

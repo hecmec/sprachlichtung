@@ -62,4 +62,4 @@ last_update:
 4. b) Emotionale Bewusstheit und Distanzierung
 5. b) "Du bildest dir das ein. Ich habe nie gesagt, dass ich das tun würde."
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md)
+[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md)

@@ -77,6 +77,7 @@ Also known as: _fallacy fallacy_ / _argument from fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=6e32f47a-->
+
 - **Non sequitur** &mdash; The argumentum ad logicam is ultimately a non sequitur: from "the argument is flawed" it simply does not follow that "the claim is false".
 - **Genetic fallacy** &mdash; Related insofar as here too a claim is evaluated not on the basis of its content, but on the basis of something external (its origin or its justification).
 - **Straw man** &mdash; Often combined with the argumentum ad logicam: one refutes a weak (or distorted) justification and thereby declares the actual thesis settled.
@@ -118,6 +119,7 @@ Whatever it is called, the inference really is invalid &mdash; yet tigers are st
 <!-- description of example one -->
 
 <!--t src=00eb5fd3-->
+
 > &mdash; "The Earth is round, because my teacher said so."
 > &mdash; "That is an appeal to authority, so a fallacy. Consequently the Earth is _not_ round."
 
@@ -133,6 +135,7 @@ The justification („my teacher said so“) really is a weak argument. But to c
 <!-- description of example two -->
 
 <!--t src=4e711958-->
+
 > &mdash; "Smoking is unhealthy, because my grandmother always used to say so."
 > &mdash; "That is just an anecdotal and traditional argument. So smoking isn't unhealthy at all."
 
@@ -153,4 +156,5 @@ Here too the argument put forward is weak. But the harmfulness of smoking is wel
 - [Logically Fallacious: The Fallacy Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Fallacy-Fallacy)
 
 <!--t src=51c2a1f3-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md)

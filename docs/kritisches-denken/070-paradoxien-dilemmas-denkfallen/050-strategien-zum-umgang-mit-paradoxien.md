@@ -57,4 +57,4 @@ Einige Paradoxien haben zur Entwicklung völlig neuer theoretischer Rahmen gefü
 - Zenons Paradoxien inspirierten die Entwicklung der Infinitesimalrechnung
 - Das Gefangenendilemma führte zu neuen Ansätzen in der Spieltheorie und Evolutionsbiologie
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md)
+[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md)

@@ -93,4 +93,4 @@ Das Erkennen versteckter Annahmen ist aus mehreren Gründen wichtig für das kri
 
 5. Es schützt vor Manipulation durch Argumente, die auf versteckten, aber fragwürdigen Annahmen basieren.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md)
+[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md)

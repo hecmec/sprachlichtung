@@ -71,4 +71,4 @@ Dass etwas in der Natur vorkommt, macht es nicht moralisch geboten. Der Schluss 
 - [Wikipedia: Naturalistischer Fehlschluss](https://de.wikipedia.org/wiki/Naturalistischer_Fehlschluss)
 - [Logically Fallacious: Appeal to Nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md)

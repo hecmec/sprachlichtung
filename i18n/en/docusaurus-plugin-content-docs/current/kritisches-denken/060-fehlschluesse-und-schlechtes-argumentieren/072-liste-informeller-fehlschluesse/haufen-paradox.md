@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=5cf38692-->
+
 :::tip In brief
 From the vagueness of a term it is concluded that it does not exist at all &mdash; or that every boundary is arbitrary.
 
@@ -30,6 +31,7 @@ _When do grains become a heap?_
 ## Definition
 
 <!--t src=0dc407e2-->
+
 The **sorites paradox** (from Greek _sorós_ "heap") arises with **vague terms** that have no sharp boundary: a single grain of sand is not a heap; one more grain makes (in each case) no difference &mdash; so even a million grains would not be a heap. Conversely, one can "prove" that even a single grain is a heap.
 
 <!--t src=4231bca5-->
@@ -58,6 +60,7 @@ Also known as: _sorites paradox_ / _continuum fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=58859485-->
+
 - **False dichotomy** &mdash; the counterpart: there a continuum is wrongly _split in two_, here the existence of gradations is _denied_.
 - **Fallacy of relative privation** &mdash; related: every small step "doesn't count".
 
@@ -107,4 +110,5 @@ The lack of an exact wealth boundary does not refute that there are rich and poo
 - [Logically Fallacious: Continuum Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Continuum-Fallacy)
 
 <!--t src=ea075d50-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md)
