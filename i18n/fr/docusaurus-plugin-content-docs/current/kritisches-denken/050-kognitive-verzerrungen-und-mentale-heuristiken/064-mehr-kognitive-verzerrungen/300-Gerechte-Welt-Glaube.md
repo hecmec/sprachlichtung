@@ -99,4 +99,4 @@ La croyance en un monde juste est étroitement liée à plusieurs autres biais e
 - Furnham, A. (2003) : « Belief in a just world: research progress over the past decade ». Personality and Individual Differences.
 
 <!--t src=a610bfff-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md)

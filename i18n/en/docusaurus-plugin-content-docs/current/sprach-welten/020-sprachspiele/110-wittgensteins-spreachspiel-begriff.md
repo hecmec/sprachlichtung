@@ -127,4 +127,4 @@ The debate still resonates today: systematic philosophers of language often see 
 - [Philosophical Investigations: Wittgenstein's main work](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 
 <!--t src=9edc3be2-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)

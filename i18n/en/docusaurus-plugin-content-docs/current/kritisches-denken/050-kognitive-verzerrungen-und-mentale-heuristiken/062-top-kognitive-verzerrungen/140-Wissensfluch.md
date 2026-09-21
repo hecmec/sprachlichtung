@@ -114,4 +114,4 @@ Financial or legal jargon in emails/reports; teams make wrong decisions because 
 - Kahneman, D. (2011). Thinking, Fast and Slow — sections on communication traps.
 
 <!--t src=c22c9f31-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)

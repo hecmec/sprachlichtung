@@ -78,4 +78,4 @@ custom_translation_overwritten: false
 5. b) Le biais de confirmation (confirmation bias)
 
 <!--t src=ca5125f8-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)

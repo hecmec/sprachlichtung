@@ -72,4 +72,4 @@ Ainsi la phrase amère d'Orwell nous ramène à la tâche. L'affirmation que cer
 - 🇫🇷 Richard Rorty : _Contingence, ironie et solidarité_, Armand Colin, Paris 1993.
 
 <!--t src=14f54925-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)

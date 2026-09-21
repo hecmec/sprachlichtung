@@ -101,4 +101,4 @@ Both types of reasoning have their strengths and weaknesses:
 For critical thinking it is important to understand both types of reasoning and to apply them appropriately depending on the context.
 
 <!--t src=58dcf661-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md)

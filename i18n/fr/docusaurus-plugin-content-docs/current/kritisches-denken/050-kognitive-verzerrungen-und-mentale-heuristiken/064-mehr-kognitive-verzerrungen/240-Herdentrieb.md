@@ -126,4 +126,4 @@ Les tendances se propagent par imitation ; le refus de payer le coût social con
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992) : A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. Journal of Political Economy.
 
 <!--t src=a6ed906f-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md)

@@ -70,4 +70,4 @@ So Orwell's bitter sentence leads back to the task. The claim that some are more
 - Richard Rorty: _Contingency, Irony, and Solidarity_, 1989.
 
 <!--t src=14f54925-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)

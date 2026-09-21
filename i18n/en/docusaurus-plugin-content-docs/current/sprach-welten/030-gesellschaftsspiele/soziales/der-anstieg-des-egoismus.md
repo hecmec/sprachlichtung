@@ -209,4 +209,4 @@ Surtout, pour que les citoyens retrouvent foi en un projet collectif, les discou
 -->
 
 <!--t src=780c0184-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md)

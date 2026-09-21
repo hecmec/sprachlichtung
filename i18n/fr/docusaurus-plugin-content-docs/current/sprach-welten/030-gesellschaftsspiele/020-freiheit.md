@@ -71,4 +71,4 @@ Cela ne signifie pas qu'il faille opposer la liberté à l'égalité. Au contrai
 Ainsi le mot de Goethe nous ramène au début. La liberté n'est ni une possession ni un cadeau, mais une pratique qu'il faut sans cesse conquérir et interroger de façon critique, contre les puissances extérieures et contre nos propres commodités.
 
 <!--t src=d4834521-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/020-freiheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md)

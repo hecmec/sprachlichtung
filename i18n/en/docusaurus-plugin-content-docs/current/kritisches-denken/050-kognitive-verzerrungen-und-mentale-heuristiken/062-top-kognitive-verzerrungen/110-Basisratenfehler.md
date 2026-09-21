@@ -139,4 +139,4 @@ The base rate says: there are far more well-dressed employees than successful en
 - [Gigerenzer, G. (2002). Reckoning with Risk: Learning to Live with Uncertainty](https://www.amazon.de/Reckoning-Risk-Learning-Live-Uncertainty/dp/0140297863)
 
 <!--t src=e7884daf-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md)

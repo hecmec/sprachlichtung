@@ -93,4 +93,4 @@ Here you will find all the sources this chapter on media literacy and source cri
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). A journalism trade portal that presents media research and industry trends in an accessible way and offers a look behind the scenes of news coverage.
 
 <!--t src=c7336ce3-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)

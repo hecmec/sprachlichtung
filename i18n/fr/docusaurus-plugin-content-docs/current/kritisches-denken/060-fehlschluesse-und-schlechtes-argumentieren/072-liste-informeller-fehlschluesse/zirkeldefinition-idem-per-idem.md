@@ -94,4 +94,4 @@ Celui qui ne sait pas ce qu'est dormir ne l'apprend pas ainsi. Le terme est expl
 - [Wikipedia: Circular definition](https://en.wikipedia.org/wiki/Circular_definition)
 
 <!--t src=b757a1a4-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md)

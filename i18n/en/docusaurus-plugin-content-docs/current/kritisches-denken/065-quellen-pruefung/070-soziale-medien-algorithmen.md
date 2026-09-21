@@ -87,4 +87,4 @@ Does this mean algorithms are harmless? No. The concern merely shifts to the rig
 - **Sharing is spreading.** Every click on "share" is a vote cast for the algorithm. Check first, then share.
 
 <!--t src=b8b41af4-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)

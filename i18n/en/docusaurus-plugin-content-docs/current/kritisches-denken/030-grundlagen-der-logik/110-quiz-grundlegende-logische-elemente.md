@@ -75,4 +75,4 @@ translation_status: auto
 5. b) Natural substances are always safe.
 
 <!--t src=ba9fce6c-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)

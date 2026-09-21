@@ -77,4 +77,4 @@ custom_translation_overwritten: false
 - **Possible improvements**: Reformulate it as an abductive argument: "The snow is melting. One possible explanation is that the sun is shining. If no other factors are present, the sun is probably shining."
 
 <!--t src=f6dfc6a2-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)

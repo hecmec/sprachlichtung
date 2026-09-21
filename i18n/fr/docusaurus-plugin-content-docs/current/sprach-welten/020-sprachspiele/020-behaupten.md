@@ -158,4 +158,4 @@ L'analyse des actes de langage en général, et de l'affirmation comme acte de l
 - **Robert B. Brandom**, 🇩🇪 _Expressive Vernunft_ (Suhrkamp, 2000) / 🇬🇧 _Making It Explicit_ (1994) / 🇫🇷 _Rendre explicite_ (Cerf, 2010) : comprend l'affirmation comme un coup dans le **« jeu du donner et du demander des raisons »** : qui affirme s'engage et se rend redevable de justifications.
 
 <!--t src=f88f56b9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)

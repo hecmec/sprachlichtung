@@ -101,4 +101,4 @@ Explaining fulfils central social functions:
 In an increasingly complex world with specialized knowledge, competent explaining becomes a key ability for social cohesion. At the same time there is a constant tension between necessary simplification and problematic falsification of complex matters.
 
 <!--t src=b7042c85-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/040-erklaeren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/040-erklaeren.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/040-erklaeren.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/040-erklaeren.md)

@@ -142,4 +142,4 @@ Quel que soit le type de définition, il existe des critères généraux qu'une 
 5. **Tenir compte de la dépendance au contexte** : acceptez que, dans différents contextes, différentes définitions puissent être appropriées.
 
 <!--t src=171ca4e2-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)

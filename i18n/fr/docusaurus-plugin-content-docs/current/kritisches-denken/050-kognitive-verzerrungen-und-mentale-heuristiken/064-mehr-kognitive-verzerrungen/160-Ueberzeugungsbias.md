@@ -144,4 +144,4 @@ Les prémisses sont douteuses et la logique défectueuse, mais beaucoup de gens 
 - Markovits, H., & Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions.
 
 <!--t src=0816e453-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)

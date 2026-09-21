@@ -71,4 +71,4 @@ This does not mean playing freedom off against equality. On the contrary: an ema
 So Goethe's word leads back to the beginning. Freedom is neither a possession nor a gift, but a practice that must be won again and again and critically questioned, against external powers and against one's own comforts.
 
 <!--t src=d4834521-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/020-freiheit.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/020-freiheit.md)

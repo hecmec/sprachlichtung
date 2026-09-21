@@ -132,4 +132,4 @@ Aperçu fondé sur les données concernant la pauvreté, la santé, l'éducation
 - Matt Ridley, _The Rational Optimist_ (trad. fr. : "L'Optimisme rationnel")
 
 <!--t src=b9f458cf-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md)

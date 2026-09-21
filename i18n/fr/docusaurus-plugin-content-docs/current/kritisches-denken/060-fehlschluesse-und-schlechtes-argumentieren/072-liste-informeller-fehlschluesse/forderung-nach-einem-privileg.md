@@ -95,4 +95,4 @@ La condition spéciale ajoutée après coup immunise l'affirmation contre toute 
 - [Logically Fallacious: Special Pleading](https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading)
 
 <!--t src=3dfe791c-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)

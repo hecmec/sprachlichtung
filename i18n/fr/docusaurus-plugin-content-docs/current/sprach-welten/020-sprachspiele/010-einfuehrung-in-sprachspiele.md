@@ -152,4 +152,4 @@ La capacité à reconnaître le « jeu » qui est en train de se jouer est une c
 Qui pose ces questions saura mieux repérer les manipulations, éviter les malentendus et penser plus clairement.
 
 <!--t src=05ed0fff-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)

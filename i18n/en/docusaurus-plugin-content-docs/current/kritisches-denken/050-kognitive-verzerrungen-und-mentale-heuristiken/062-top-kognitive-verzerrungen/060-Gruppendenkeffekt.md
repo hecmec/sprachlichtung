@@ -106,4 +106,4 @@ In hospitals, hierarchical structures can lead to nurses or junior doctors not v
 - Janis, I. L. (1982): "Groupthink: Psychological Studies of Policy Decisions and Fiascoes"
 
 <!--t src=55755f6d-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md)

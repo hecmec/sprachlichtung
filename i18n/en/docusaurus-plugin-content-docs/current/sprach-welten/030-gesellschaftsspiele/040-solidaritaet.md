@@ -50,4 +50,4 @@ From this follows a double critique. **Solidarity without justice** degenerates 
 So solidarity shows itself as what it should always have been: neither mere feeling nor mere business, but a **practice of widening**. It begins with the reaction to nearby suffering, takes shape in lasting institutions and finds its measure in the recognition of all as equals. It is emancipatory where it transforms dependence into recognition, and it remains critical as long as it asks whose voice is still missing in the solidary "we".
 
 <!--t src=bf2a8fe5-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md)

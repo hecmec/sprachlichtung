@@ -73,4 +73,4 @@ Ainsi le laisser-être se révèle être une exigeante pratique de la distinctio
 [^forst-toleranz]: 🇩🇪 Rainer Forst : _Toleranz im Konflikt. Geschichte, Gehalt und Gegenwart eines umstrittenen Begriffs_ (« La tolérance en conflit. Histoire, contenu et actualité d'une notion controversée »). Suhrkamp, Francfort-sur-le-Main 2003.
 
 <!--t src=bc12717e-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md)

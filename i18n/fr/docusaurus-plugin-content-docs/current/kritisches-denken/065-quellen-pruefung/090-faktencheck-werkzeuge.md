@@ -111,4 +111,4 @@ Vérifier soi-même _ou_ recourir à des vérificateurs de faits sérieux : les 
 :::
 
 <!--t src=a94e8662-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md)

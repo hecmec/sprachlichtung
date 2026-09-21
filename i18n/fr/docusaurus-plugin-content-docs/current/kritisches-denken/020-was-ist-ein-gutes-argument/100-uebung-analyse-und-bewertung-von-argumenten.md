@@ -51,4 +51,4 @@ Analysez et évaluez les arguments suivants. Identifiez pour chacun :
 « Si le soleil brille, la neige fondra. La neige fond. Donc le soleil brille. »
 
 <!--t src=214a3cec-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)

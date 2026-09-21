@@ -45,4 +45,4 @@ Understanding these concepts forms the foundation for analyzing, evaluating, and
 In the following chapters, we will build on these foundations and explore further aspects of critical thinking, including argument analysis, linguistic pitfalls, and cognitive biases.
 
 <!--t src=1bf798e9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)

@@ -101,4 +101,4 @@ Persuading fulfils important social functions:
 The ability to convince others is a core competence in many professions and social roles. At the same time, the fine line between legitimate persuasion work and manipulative influence is a constant ethical challenge. In democratic societies, developing resistance to manipulative attempts at persuasion is just as important as the competence for argumentative convincing.
 
 <!--t src=8841bbc5-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/060-ueberreden.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md)

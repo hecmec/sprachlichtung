@@ -96,4 +96,4 @@ Les images naissent le plus souvent autrement, selon la même idée de fond. Dan
 [^diffusion]: Jonathan Ho, Ajay Jain, Pieter Abbeel : _Denoising Diffusion Probabilistic Models_, NeurIPS, 2020.
 
 <!--t src=01135ec1-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/040-generative-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/040-generative-ki.md)
+[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/040-generative-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/040-generative-ki.md)

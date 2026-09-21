@@ -137,4 +137,4 @@ Ici, on ne sait pas clairement qui est qualifié de malhonnête ni qui devrait a
 5. **Précisez les pronoms** : remplacez les pronoms ambigus par les noms spécifiques auxquels ils se rapportent.
 
 <!--t src=a889f926-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)

@@ -87,4 +87,4 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). La version germanophone du même portail.
 
 <!--t src=c7336ce3-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)

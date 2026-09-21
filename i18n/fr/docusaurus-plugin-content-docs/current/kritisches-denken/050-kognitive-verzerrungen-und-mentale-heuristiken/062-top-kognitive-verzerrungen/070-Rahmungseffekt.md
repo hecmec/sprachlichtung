@@ -126,4 +126,4 @@ Un prix est présenté comme :
 - _Daniel Kahneman_ : Thinking, fast and slow. Allen Lane Paperback, 2011 (français : Système 1 / Système 2 : Les deux vitesses de la pensée)
 
 <!--t src=c58d6ed6-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md)

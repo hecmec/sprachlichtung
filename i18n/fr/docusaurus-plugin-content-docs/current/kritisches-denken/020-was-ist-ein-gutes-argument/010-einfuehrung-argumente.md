@@ -147,4 +147,4 @@ Nous clarifions la différence entre les **règles d'inférence formelles** de l
 Pour finir, nous nous exerçons à **décomposer** un argument, à mettre au jour ses prémisses et sa conclusion, et à rendre visibles et à examiner ses **hypothèses implicites**.
 
 <!--t src=7a206acc-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)

@@ -94,4 +94,4 @@ Pour les contenus viraux, la règle vaut doublement : **d'abord vérifier, puis 
 L'IA facilite la falsification, mais les mêmes méthodes qui aident contre la désinformation classique (la lecture latérale, la vérification de la source, la recherche de l'original) fonctionnent aussi ici. La technique change, mais l'attitude fondamentale de vérification demeure.
 
 <!--t src=8b86c5ff-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md)

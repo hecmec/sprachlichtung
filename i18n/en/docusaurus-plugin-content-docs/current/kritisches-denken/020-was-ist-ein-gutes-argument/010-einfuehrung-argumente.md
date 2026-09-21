@@ -144,4 +144,4 @@ We clarify the difference between the **formal inference rules** of logic and **
 Finally, we practice **breaking down** an argument, exposing its premises and conclusion and making **implicit assumptions** visible and examining them.
 
 <!--t src=7a206acc-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)

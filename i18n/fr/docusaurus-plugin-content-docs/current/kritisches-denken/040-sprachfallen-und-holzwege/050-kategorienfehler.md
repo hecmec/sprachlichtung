@@ -97,4 +97,4 @@ Ici, un concept abstrait (la liberté) est traité comme s'il pouvait posséder 
 4. **Questionnement critique** : examinez si des questions ou des problèmes ne reposent pas sur des confusions catégorielles.
 
 <!--t src=c2236398-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)

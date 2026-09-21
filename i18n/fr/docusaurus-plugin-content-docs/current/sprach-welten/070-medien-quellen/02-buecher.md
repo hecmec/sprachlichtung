@@ -61,4 +61,4 @@ custom_translation_overwritten: false
 - 🇩🇪 [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) (œuvres clés de la sociologie) &mdash; soztheo.de
 
 <!--t src=f57027ce-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md)
+[Artikel auf Deutsch](/docs/sprach-welten/070-medien-quellen/02-buecher.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md)

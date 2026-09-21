@@ -73,4 +73,4 @@ The main difference between consistency and coherence can be summarized as follo
 In the practice of critical thinking, we strive for both consistency and coherence. Consistency is a necessary but not sufficient condition for a convincing argument. A truly strong argument must also be coherent, i.e., its components must be logically connected and mutually supportive.
 
 <!--t src=4d62f9e5-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md)

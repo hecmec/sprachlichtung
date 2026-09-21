@@ -116,4 +116,4 @@ Identical painkillers work more strongly when administered as expensive brand-na
 - Kaptchuk, T. J. (2001): "The Double-Blind, Placebo-Controlled Trial: Gold Standard or Golden Calf?"
 
 <!--t src=0d07b60e-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md)

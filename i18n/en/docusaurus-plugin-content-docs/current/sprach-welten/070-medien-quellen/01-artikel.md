@@ -71,4 +71,4 @@ custom_translation_overwritten: false
 - 🇩🇪 [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) (Gender-inclusive German: a guide) &mdash; geschicktgendern.de
 
 <!--t src=49987da2-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md)
+[Artikel auf Deutsch](/docs/sprach-welten/070-medien-quellen/01-artikel.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md)

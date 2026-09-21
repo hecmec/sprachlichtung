@@ -94,4 +94,4 @@ Le fait que la réussite ait suivi ne fait pas du porte-bonheur la cause. Ici, c
 - [Logically Fallacious: Post Hoc Ergo Propter Hoc](https://www.logicallyfallacious.com/logicalfallacies/Post-Hoc-Ergo-Propter-Hoc)
 
 <!--t src=a23636e7-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md)

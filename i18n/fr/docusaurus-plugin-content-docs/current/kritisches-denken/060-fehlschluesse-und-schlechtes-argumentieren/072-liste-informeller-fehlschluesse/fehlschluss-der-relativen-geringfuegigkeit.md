@@ -95,4 +95,4 @@ Le fait qu'il existe des problèmes plus grands ne rend pas le plus petit insign
 - [Logically Fallacious: Relative Privation](https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation)
 
 <!--t src=6facb370-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md)

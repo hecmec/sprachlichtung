@@ -735,4 +735,4 @@ Le philosophe Karl Popper l'a résumé ainsi : _« Je peux me tromper et tu peux
   une enquête rationnelle et impartiale. -->
 
 <!--t src=8f9faf06-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md)

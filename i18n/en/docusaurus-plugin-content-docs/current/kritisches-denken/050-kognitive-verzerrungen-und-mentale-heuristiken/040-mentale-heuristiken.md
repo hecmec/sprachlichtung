@@ -111,4 +111,4 @@ People judge risks as higher when they associate negative feelings with them and
 - Resistance: They are difficult to overcome, even when we are aware of them.
 
 <!--t src=538856cf-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)

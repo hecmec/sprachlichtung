@@ -103,4 +103,4 @@ Cela confond $P(\text{Spur} \mid \text{unschuldig})$ avec $P(\text{unschuldig} \
 - [Wikipedia : Prosecutor's fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
 
 <!--t src=721be3be-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md)

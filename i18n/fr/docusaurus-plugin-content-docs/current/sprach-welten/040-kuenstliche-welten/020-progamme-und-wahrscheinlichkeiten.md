@@ -96,4 +96,4 @@ Qui garde cela en tête lit autrement chaque affirmation sur l'IA. Non pas « la
 [^bayes]: Thomas Bayes : _An Essay towards solving a Problem in the Doctrine of Chances_, Philosophical Transactions of the Royal Society, 1763 (publié à titre posthume).
 
 <!--t src=a1e7c2d7-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md)
+[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md)

@@ -98,4 +98,4 @@ Elle pourrait tout aussi bien être à Hambourg. L'exclusion d'une présence sim
 - [Logically Fallacious: Denying a Conjunct](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Conjunct)
 
 <!--t src=d86e8002-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md)

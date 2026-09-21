@@ -121,4 +121,4 @@ Si, à la partie C, vous avez pensé automatiquement à la recherche d'image inv
 :::
 
 <!--t src=ab710085-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)

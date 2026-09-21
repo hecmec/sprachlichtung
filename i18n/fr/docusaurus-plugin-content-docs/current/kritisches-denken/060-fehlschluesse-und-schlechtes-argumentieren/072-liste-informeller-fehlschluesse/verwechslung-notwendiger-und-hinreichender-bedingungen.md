@@ -102,4 +102,4 @@ Même si l'argent était une condition nécessaire, il ne suffirait pas. La cond
 - [Logically Fallacious: Confusing Necessary with Sufficient Conditions](https://www.logicallyfallacious.com/logicalfallacies/Confusing-a-Necessary-Condition-with-a-Sufficient-Condition)
 
 <!--t src=07b1b509-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md)

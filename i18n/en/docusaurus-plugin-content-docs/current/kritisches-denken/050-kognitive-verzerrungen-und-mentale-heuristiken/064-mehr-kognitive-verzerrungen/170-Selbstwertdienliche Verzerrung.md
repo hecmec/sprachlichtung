@@ -108,4 +108,4 @@ Compliments are taken seriously, criticism is dismissed as "oversensitive" or "a
   The biases that serve to maintain a positive, consistent self-image.
 
 <!--t src=b4713c0a-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)

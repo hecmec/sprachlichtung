@@ -104,4 +104,4 @@ Les deux affirmations ne peuvent pas être vraies en même temps. Une défense q
 - [Logically Fallacious: Contradictory Premises](https://www.logicallyfallacious.com/logicalfallacies/Contradictory-Premises)
 
 <!--t src=d6bc47b9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md)

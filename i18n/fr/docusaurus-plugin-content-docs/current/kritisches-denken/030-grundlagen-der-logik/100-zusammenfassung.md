@@ -48,4 +48,4 @@ Comprendre ces concepts constitue le fondement de l'analyse, de l'évaluation et
 Dans les chapitres suivants, nous nous appuierons sur ces fondements et explorerons d'autres aspects de la pensée critique, parmi lesquels l'analyse des arguments, les pièges du langage et les biais cognitifs.
 
 <!--t src=1bf798e9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)

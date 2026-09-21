@@ -113,4 +113,4 @@ Three questions help with any quotation: what period does the statement come fro
 [^crawford]: Kate Crawford: _Atlas of AI_, Yale University Press, 2021.
 
 <!--t src=d3abd2fb-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md)
+[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md)

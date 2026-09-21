@@ -54,4 +54,4 @@ Il s'est constitué un public fidèle, mais aussi de nombreux critiques qui juge
 ... la suite arrive bientôt ...
 
 <!--t src=5619379a-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md)

@@ -93,4 +93,4 @@ Only the reconstruction makes a fair evaluation possible. With the exposed struc
 On the next pages we go deeper into tracking down hidden assumptions and practice the analysis on concrete examples.
 
 <!--t src=ab0b12d7-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)

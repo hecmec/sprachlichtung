@@ -95,4 +95,4 @@ Pour la question de savoir si quelqu'un a consommé, cette distinction ne fait, 
 - [Logically Fallacious: Distinction Without a Difference](https://www.logicallyfallacious.com/logicalfallacies/Distinction-Without-a-Difference)
 
 <!--t src=e8f37965-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/unterscheidung-ohne-unterschied.md)

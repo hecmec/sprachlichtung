@@ -94,4 +94,4 @@ Qu'un événement ait des conséquences ne signifie pas qu'il s'est produit _dan
 - [Logically Fallacious: Teleological (Design) Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Design-Fallacy)
 
 <!--t src=4f57bbdb-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md)

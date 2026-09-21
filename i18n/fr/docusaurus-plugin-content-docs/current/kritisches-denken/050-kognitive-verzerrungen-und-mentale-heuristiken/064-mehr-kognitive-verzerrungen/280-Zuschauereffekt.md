@@ -96,4 +96,4 @@ Plusieurs personnes observent du harcèlement ou une grave erreur de procédure.
 - Darley, J. M. & Latané, B. (1968) : « Bystander intervention in emergencies: Diffusion of responsibility ». Journal of Personality and Social Psychology.
 
 <!--t src=6fe875b8-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md)

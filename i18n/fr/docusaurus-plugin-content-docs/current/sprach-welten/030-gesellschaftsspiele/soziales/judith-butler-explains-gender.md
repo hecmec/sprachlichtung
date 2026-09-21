@@ -108,4 +108,4 @@ Butler s'intéresse moins à la défense de sa théorie qu'à la recherche de mo
 L'œuvre de Butler nous invite à questionner nos présupposés, à remettre en cause les normes et à imaginer un monde plus inclusif. Comme elle le dit elle-même : _« We are all the time struggling to achieve that goal. »_ (« Nous luttons en permanence pour atteindre ce but. »)
 
 <!--t src=9e2ba128-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md)

@@ -108,4 +108,4 @@ From a single exception to criminality is a long, unsubstantiated path. The dram
 - [Logically Fallacious: Slippery Slope](https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope)
 
 <!--t src=17150f92-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)

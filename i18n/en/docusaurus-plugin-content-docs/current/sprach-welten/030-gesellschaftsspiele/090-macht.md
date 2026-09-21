@@ -88,4 +88,4 @@ The magic word here is **self-determination**.
 [^forst-recht]: Rainer Forst: _Das Recht auf Rechtfertigung. Elemente einer konstruktivistischen Theorie der Gerechtigkeit_. Suhrkamp, Frankfurt a. M. 2007 (English _The Right to Justification_, Columbia University Press 2012).
 
 <!--t src=a09ca9a9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md)

@@ -102,4 +102,4 @@ Tant que personne n'habite sur la Lune, les prémisses sont vraies à vide, et l
 - [Logically Fallacious: Existential Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy)
 
 <!--t src=c68621d9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md)

@@ -53,4 +53,4 @@ Here you will find sources and further reading on the fundamentals of logic: fre
 <!-- - 🇩🇪 Timm Lampert: _Klassische Logik_. (Preprint) https://www2.hu-berlin.de/webMathematica/publications/Klassische_Logik_preprint.pdf -->
 
 <!--t src=9982b7e1-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)

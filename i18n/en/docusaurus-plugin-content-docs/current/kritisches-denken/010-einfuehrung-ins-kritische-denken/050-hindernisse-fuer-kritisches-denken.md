@@ -148,4 +148,4 @@ On top of this comes an often deeply rooted tendency to trust authorities &mdash
 Strong emotions can overlay rational thinking and lead to hasty or distorted judgments.
 
 <!--t src=f34f6901-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md)

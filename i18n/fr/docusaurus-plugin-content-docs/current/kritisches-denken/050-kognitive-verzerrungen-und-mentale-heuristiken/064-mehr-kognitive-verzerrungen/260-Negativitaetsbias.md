@@ -98,4 +98,4 @@ Un seul commentaire 1 étoile influence la décision d'achat plus que de nombreu
 - Kahneman, D. & Tversky, A. : théorie des perspectives (Prospect Theory) et aversion à la perte.
 
 <!--t src=b642e509-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)

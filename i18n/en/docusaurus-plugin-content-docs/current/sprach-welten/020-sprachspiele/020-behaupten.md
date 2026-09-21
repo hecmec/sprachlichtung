@@ -158,4 +158,4 @@ The analysis of speech acts in general, and of asserting as a linguistic act in 
 - **Robert B. Brandom**, _Making It Explicit_ (1994; German _Expressive Vernunft_, Suhrkamp 2000). — Understands asserting as a move in the **"game of giving and asking for reasons"**: whoever asserts undertakes a commitment for which reasons can be demanded.
 
 <!--t src=f88f56b9-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)

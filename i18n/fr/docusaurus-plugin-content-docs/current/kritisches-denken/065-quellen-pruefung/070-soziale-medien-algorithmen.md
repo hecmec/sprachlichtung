@@ -87,4 +87,4 @@ Cela veut-il dire que les algorithmes sont inoffensifs ? Non. L'inquiétude se d
 - **Partager, c'est diffuser.** Chaque clic sur « partager » est un vote pour l'algorithme. Vérifier d'abord, partager ensuite.
 
 <!--t src=b8b41af4-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)

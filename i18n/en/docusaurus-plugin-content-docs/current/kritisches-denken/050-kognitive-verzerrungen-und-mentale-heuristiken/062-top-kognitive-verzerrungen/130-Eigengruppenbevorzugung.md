@@ -114,4 +114,4 @@ Even random groupings (e.g. a preference for painting A vs. B) lead people to **
 - Brewer, M. B. (1999). The psychology of prejudice: Ingroup love vs. outgroup hate.
 
 <!--t src=ae4b27d0-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)

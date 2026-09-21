@@ -97,4 +97,4 @@ For context: new coal or gas plants come in, depending on the fuel price, at rou
 [^owid-energy]: Country and price comparisons e.g. at [Our World in Data – Energy](https://ourworldindata.org/energy) as well as the interactive [Energy-Charts by Fraunhofer ISE](https://www.energy-charts.info/).
 
 <!--t src=12e99e2a-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/014-erneuerbare-energien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/014-erneuerbare-energien.md)
+[Artikel auf Deutsch](/docs/sprach-welten/060-energie/014-erneuerbare-energien.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/014-erneuerbare-energien.md)

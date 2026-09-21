@@ -86,4 +86,4 @@ Pas de résolution nette : elle trouve la situation frustrante et ignore si elle
 - Méfiez-vous de quiconque revendique une vérité absolue sans laisser de place au questionnement, car **les intellectuels questionnent toujours**.
 
 <!--t src=2f23e06b-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)

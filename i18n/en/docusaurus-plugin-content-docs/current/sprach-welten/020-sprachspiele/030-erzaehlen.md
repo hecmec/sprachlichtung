@@ -99,4 +99,4 @@ Narrating fulfils fundamental social functions:
 Ultimately human societies are permeated by narratives &mdash; from the great cultural "meta-narratives" down to the small everyday stories. In the ability to tell and understand stories lies a key to human cooperation and cultural evolution. At the same time, critical distance from the narratives that surround and shape us remains a central task of reflective thinking.
 
 <!--t src=1d171096-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/030-erzaehlen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md)

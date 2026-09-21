@@ -108,4 +108,4 @@ Recognizing hidden assumptions is important for critical thinking for several re
 4. It enables more precise criticism by identifying exactly which assumptions are problematic.
 
 <!--t src=f62b5d01-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)

@@ -74,4 +74,4 @@ Qui veut juger de façon autonome se garde ici de deux exagérations. Les uns va
 [^geo]: Notions de base et données sur la géothermie chez 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et chez 🇩🇪 le [Fraunhofer ISE](https://www.ise.fraunhofer.de/), pour la France chez 🇫🇷 l'[ADEME](https://www.ademe.fr/) et le 🇫🇷 [BRGM (service géologique national)](https://www.brgm.fr/). Mise en perspective mondiale chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
 
 <!--t src=14939d05-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/070-erdwaerme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/070-erdwaerme.md)
+[Artikel auf Deutsch](/docs/sprach-welten/060-energie/070-erdwaerme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/070-erdwaerme.md)

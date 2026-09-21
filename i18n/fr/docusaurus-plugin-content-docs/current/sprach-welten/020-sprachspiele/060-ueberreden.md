@@ -101,4 +101,4 @@ La persuasion remplit d'importantes fonctions sociales :
 La capacité de convaincre autrui est une compétence clé dans de nombreux métiers et rôles sociaux. En même temps, la frontière étroite entre un travail de conviction légitime et une influence manipulatrice constitue un défi éthique permanent. Dans les sociétés démocratiques, développer une résistance aux tentatives de persuasion manipulatrices est tout aussi important que la compétence à convaincre par des arguments.
 
 <!--t src=8841bbc5-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md)
+[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/060-ueberreden.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md)

@@ -114,4 +114,4 @@ Les apparitions publiques de Trump montrent comment la **surestimation de soi** 
 - Dunning, D. (2011) : "The Dunning-Kruger effect: On being ignorant of one's own ignorance"
 
 <!--t src=07d5e504-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md)

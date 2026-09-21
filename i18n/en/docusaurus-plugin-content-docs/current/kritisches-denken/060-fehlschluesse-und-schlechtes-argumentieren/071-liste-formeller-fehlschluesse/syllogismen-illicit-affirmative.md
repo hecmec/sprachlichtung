@@ -116,4 +116,4 @@ Here too, from pure inclusion (affirmative) an exclusion (negative) is asserted 
 - [Logically Fallacious: Negative Conclusion from Affirmative Premises](https://www.logicallyfallacious.com/logicalfallacies/Negative-Conclusion-from-Affirmative-Premises)
 
 <!--t src=481d8d50-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md)

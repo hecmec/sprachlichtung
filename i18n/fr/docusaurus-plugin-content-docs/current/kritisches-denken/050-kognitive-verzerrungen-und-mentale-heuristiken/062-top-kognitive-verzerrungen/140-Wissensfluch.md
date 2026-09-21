@@ -114,4 +114,4 @@ Du jargon financier ou juridique dans les courriels et les rapports ; les équip
 - Kahneman, D. (2011). Système 1 / Système 2 : Les deux vitesses de la pensée — passages sur les pièges de la communication.
 
 <!--t src=c22c9f31-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)

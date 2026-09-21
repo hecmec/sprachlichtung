@@ -94,4 +94,4 @@ De notre propre incapacité à nous représenter la technique employée ne déco
 - [Logically Fallacious: Argument from Incredulity](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity)
 
 <!--t src=8f56072a-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md)

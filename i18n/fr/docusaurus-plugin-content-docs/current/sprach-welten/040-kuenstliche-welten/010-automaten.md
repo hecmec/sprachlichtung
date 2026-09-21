@@ -96,4 +96,4 @@ Ce chapitre traite des mondes artificiels et de l'intelligence artificielle. Tou
 [^turing]: Alan M. Turing : _On Computable Numbers, with an Application to the Entscheidungsproblem_, Proceedings of the London Mathematical Society, 1936.
 
 <!--t src=b236c276-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md)
+[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/010-automaten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md)

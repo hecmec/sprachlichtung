@@ -71,4 +71,4 @@ C'est précisément là que réside la valeur émancipatrice de ce chapitre. Qui
 [^gezeiten]: Éléments de contexte sur les marées et l'énergie marémotrice, entre autres chez 🇫🇷 « Usine marémotrice », dans : Wikipédia, [fr.wikipedia.org/wiki/Usine_marémotrice](https://fr.wikipedia.org/wiki/Usine_mar%C3%A9motrice) et 🇩🇪 « Gezeitenkraftwerk », dans : Wikipedia, [de.wikipedia.org/wiki/Gezeitenkraftwerk](https://de.wikipedia.org/wiki/Gezeitenkraftwerk). Mise en perspective dans le mix énergétique mondial chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
 
 <!--t src=b64fafce-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md)
+[Artikel auf Deutsch](/docs/sprach-welten/060-energie/080-mondenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md)

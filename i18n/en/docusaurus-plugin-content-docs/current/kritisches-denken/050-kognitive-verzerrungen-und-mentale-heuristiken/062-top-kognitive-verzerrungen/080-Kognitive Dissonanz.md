@@ -116,4 +116,4 @@ Someone preaches work-life balance but works 70 hours a week. The dissonance is 
 - [YouTube: Simon Josef Eckert, Kognitive Dissonanz - Ein Experiment von Festinger und Carlsmith von 1959](https://www.youtube.com/watch?v=xFrLNVnRfH4)
 
 <!--t src=607ef8b2-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md)

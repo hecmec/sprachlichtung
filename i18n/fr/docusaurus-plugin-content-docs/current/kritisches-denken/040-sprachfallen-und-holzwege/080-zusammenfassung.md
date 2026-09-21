@@ -45,4 +45,4 @@ Dans ce chapitre, nous avons examiné différents pièges du langage qui peuvent
 Prendre conscience de ces pièges du langage et appliquer les stratégies présentées peut nous aider à penser plus précisément, à communiquer plus clairement et à mieux percer à jour les tentatives de manipulation.
 
 <!--t src=5b5eec33-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)

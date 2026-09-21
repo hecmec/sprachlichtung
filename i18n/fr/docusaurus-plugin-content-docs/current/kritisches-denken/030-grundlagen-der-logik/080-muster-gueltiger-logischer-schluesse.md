@@ -142,4 +142,4 @@ Comprendre ces schémas d'argumentation est important pour la pensée critique, 
 4. Cela favorise une compréhension plus profonde des relations logiques entre les énoncés.
 
 <!--t src=54ffe867-->
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md)
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md)
