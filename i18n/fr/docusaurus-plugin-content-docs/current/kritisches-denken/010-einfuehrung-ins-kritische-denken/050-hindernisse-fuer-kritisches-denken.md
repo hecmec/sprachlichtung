@@ -164,6 +164,6 @@ S'y ajoute une tendance souvent profondément ancrée à faire confiance aux aut
 
 Des émotions fortes peuvent recouvrir la pensée rationnelle et conduire à des jugements hâtifs ou déformés.
 
-<!--t src=f34f6901-->
+<!--t src=964471a4-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/hindernisse-fuer-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/hindernisse-fuer-kritisches-denken)

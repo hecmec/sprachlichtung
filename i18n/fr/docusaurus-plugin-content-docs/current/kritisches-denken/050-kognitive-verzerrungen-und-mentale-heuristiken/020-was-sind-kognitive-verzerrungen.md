@@ -88,6 +88,6 @@ Les biais cognitifs naissent de différentes causes :
 
 5. **Influences émotionnelles** : les émotions peuvent recouvrir la pensée rationnelle et conduire à des jugements faussés.
 
-<!--t src=c35fd1d8-->
+<!--t src=81e046b7-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen)

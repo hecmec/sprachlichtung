@@ -165,6 +165,6 @@ Ici, on ne sait pas clairement qui est qualifié de malhonnête ni qui devrait a
 
 5. **Précisez les pronoms** : remplacez les pronoms ambigus par les noms spécifiques auxquels ils se rapportent.
 
-<!--t src=a889f926-->
+<!--t src=f347f23a-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/ambiguitaet-mehrdeutigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/ambiguitaet-mehrdeutigkeit)

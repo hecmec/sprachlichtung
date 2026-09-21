@@ -149,4 +149,4 @@ Deshalb ist die Antwort des Gerichts von 1987 bemerkenswert: Es begnügt sich ni
 <!-- href="https://www.youtube.com/watch?v=b6Smg-h37Tg"
   Pensée critique - La Cour suprême défend la biologie scientifique - 08 - Module 3 -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/080-la-cour-supreme-defend.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/080-la-cour-supreme-defend.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-cour-supreme-defend) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-cour-supreme-defend)

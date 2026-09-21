@@ -77,4 +77,4 @@ Der Mittelbegriff „Tiere“ ist in beiden Prämissen unverteilt (er meint jewe
 - [Wikipedia: Fallacy of the undistributed middle](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle)
 - [Logically Fallacious: Fallacy of the Undistributed Middle](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-non-distributio-medii) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-non-distributio-medii)

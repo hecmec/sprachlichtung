@@ -93,4 +93,4 @@ Wir fügen immer wieder neue hinzu.
 <!-- ## Logik
  -->
 
-[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/06-werkzeugkasten.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/06-werkzeugkasten.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/werkzeugkasten) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/werkzeugkasten)

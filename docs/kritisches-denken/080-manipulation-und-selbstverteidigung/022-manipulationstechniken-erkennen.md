@@ -153,4 +153,4 @@ Psychologische Manipulation nutzt tiefere psychologische Prozesse und Schwachste
 
   _Beispiel_: Ein Manipulator überhäuft sein Ziel mit Geschenken und Komplimenten, um später Kontrolle auszuüben.
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/022-manipulationstechniken-erkennen.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/022-manipulationstechniken-erkennen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen)

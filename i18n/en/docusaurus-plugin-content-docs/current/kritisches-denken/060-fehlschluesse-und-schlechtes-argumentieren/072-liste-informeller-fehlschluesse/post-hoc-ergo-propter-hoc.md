@@ -109,6 +109,6 @@ That the passing followed does not make the lucky charm its cause. Here it was t
 
 - [Logically Fallacious: Post Hoc Ergo Propter Hoc](https://www.logicallyfallacious.com/logicalfallacies/Post-Hoc-Ergo-Propter-Hoc)
 
-<!--t src=a23636e7-->
+<!--t src=b3c66190-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc)

@@ -59,3 +59,5 @@ Rejecting A because it will supposedly trigger an inevitable chain A → B → C
 ### Where this leads
 
 This is only the first of several presumption videos. The next covers the **oversimplification / reduction** subgroup, before the course moves into presumption fallacies specific to **inductive reasoning**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1)

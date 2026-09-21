@@ -66,3 +66,4 @@ Pour la pensée critique, l’intérêt de ce passage tient à la **forme de l�
 <!-- href="https://www.youtube.com/watch?v=1negUAgGMws"
   Pensée critique - L'Athéisme, la providence et la question du mal - 03 - Module 6 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-la-providence-et-la-question-du-mal) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-la-providence-et-la-question-du-mal)

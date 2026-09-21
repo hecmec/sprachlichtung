@@ -185,6 +185,6 @@ Le sophisme de division est l'inverse du sophisme de composition : on suppose à
 **Exemple du cerveau**
 « Le cerveau peut penser, donc les neurones peuvent penser. »
 
-<!--t src=cca80611-->
+<!--t src=4f6b3968-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/ambiguitaetsfehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/ambiguitaetsfehlschluesse)

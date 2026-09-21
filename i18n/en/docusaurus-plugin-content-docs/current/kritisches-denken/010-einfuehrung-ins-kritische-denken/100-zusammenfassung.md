@@ -149,6 +149,6 @@ Critical thinking is the **ability to think reflectively and independently** as 
 In the following chapters, we deepen these fundamentals and provide you with practical tools to systematically develop your critical thinking skills.
 :::
 
-<!--t src=7f543ad7-->
+<!--t src=fd780672-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/zusammenfassung)

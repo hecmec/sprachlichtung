@@ -92,6 +92,6 @@ custom_translation_overwritten: false
 4. b) Affirmation du conséquent
 5. b) Composition
 
-<!--t src=a72a7fcc-->
+<!--t src=85fa613b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/quiz-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/quiz-fehlschluesse)

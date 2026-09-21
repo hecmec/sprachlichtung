@@ -868,6 +868,6 @@ Rigid adherence to doctrines that are regarded as incontestable and may not be q
 
 - [_Critical Thinking_](https://en.wikipedia.org/wiki/Critical_thinking), Wikipedia
 
-<!--t src=641488ed-->
+<!--t src=63837816-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/begriffe-rund-ums-kritische-denken) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/begriffe-rund-ums-kritische-denken)

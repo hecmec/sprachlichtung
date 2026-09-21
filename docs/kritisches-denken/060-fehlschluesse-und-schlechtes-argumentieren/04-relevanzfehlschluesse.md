@@ -92,4 +92,4 @@ Dieser Fehlschluss lenkt von der eigentlichen Frage oder dem Argument ab, indem 
 
 **Warum ist das fehlerhaft?** Anstatt auf die Kritik an der Steuerpolitik einzugehen, wird ein völlig anderes Thema (Bildungspolitik) eingeführt, um abzulenken.
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse)

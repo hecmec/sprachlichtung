@@ -119,6 +119,6 @@ Here too, from a separation (negative) a belonging (affirmative) is derived &mda
 - [Wikipedia: Affirmative conclusion from a negative premise](https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise)
 - [Logically Fallacious: Affirmative Conclusion from a Negative Premise](https://www.logicallyfallacious.com/logicalfallacies/Affirmative-Conclusion-from-a-Negative-Premise)
 
-<!--t src=2a30b04a-->
+<!--t src=c98f2b6e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-negative) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-negative)

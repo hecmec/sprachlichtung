@@ -90,6 +90,6 @@ custom_translation_overwritten: false
 4. c) L'examen des preuves et la prise en compte d'explications alternatives avant de tirer des conclusions
 5. b) Le biais de confirmation (confirmation bias)
 
-<!--t src=ca5125f8-->
+<!--t src=179a9ef9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens)

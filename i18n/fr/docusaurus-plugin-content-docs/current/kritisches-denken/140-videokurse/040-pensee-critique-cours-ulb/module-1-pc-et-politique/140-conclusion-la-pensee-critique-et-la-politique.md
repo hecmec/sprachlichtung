@@ -98,3 +98,5 @@ Cette phrase de **Poincaré** résume le cœur de la pensée critique :
 
 **🎯 En résumé :**
 La pensée critique s’exerce contre les pressions sociales, politiques et idéologiques. Elle suppose un **jugement autonome**, un **rapport rigoureux aux faits**, et le **courage de la remise en question**, y compris de soi-même.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conclusion) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conclusion)

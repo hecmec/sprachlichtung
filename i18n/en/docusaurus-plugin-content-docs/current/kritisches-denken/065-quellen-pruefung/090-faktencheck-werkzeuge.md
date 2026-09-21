@@ -126,6 +126,6 @@ Anyone who wants to practise lateral reading with real examples will find free e
 Check yourself _or_ use reputable fact-checkers, both are good. For images: **reverse search first.** It exposes most „out-of-context“ fakes in seconds.
 :::
 
-<!--t src=a94e8662-->
+<!--t src=18fb47db-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge)

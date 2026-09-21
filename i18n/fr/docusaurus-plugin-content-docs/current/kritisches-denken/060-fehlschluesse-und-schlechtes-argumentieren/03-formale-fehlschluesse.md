@@ -292,6 +292,6 @@ Les informations des prémisses ne suffisent toutefois pas à exclure des animau
  </g>
 </svg>
 
-<!--t src=44df2b3d-->
+<!--t src=4228a3b9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse)

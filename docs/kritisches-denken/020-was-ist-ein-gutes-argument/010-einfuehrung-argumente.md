@@ -113,4 +113,4 @@ Wir klären den Unterschied zwischen **formalen Schlussregeln** der Logik und **
 
 Zum Schluss üben wir, ein Argument **zu zerlegen**, seine Prämissen und Konklusion freizulegen und **implizite Annahmen** sichtbar zu machen und zu prüfen.
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/einfuehrung-argumente) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/einfuehrung-argumente)

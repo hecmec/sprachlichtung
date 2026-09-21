@@ -129,6 +129,6 @@ Analysez les arguments suivants et identifiez les sophismes éventuels. Justifie
     - Sophisme : la conclusion (l'économie de marché libre est le meilleur système) est justifiée par une reformulation de la même affirmation (la liberté économique est ce qu'il y a de mieux).
     - Version améliorée : "Des études montrent que les pays à économie de marché libre tendent à présenter un revenu par habitant plus élevé, plus d'innovation et une plus grande mobilité économique que les pays dotés de systèmes économiques fortement régulés."
 
-<!--t src=73ca04ac-->
+<!--t src=4a208776-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/uebung-analyse-von-argumenten-auf-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/uebung-analyse-von-argumenten-auf-fehlschluesse)

@@ -53,5 +53,5 @@ We have learned:
 
 Engaging with paradoxes is an essential part of critical thinking. It teaches us to question assumptions, to think more precisely, to develop creative approaches to solutions and to recognise the limits of our concepts. Paradoxes remind us that even seemingly solid logical systems can have limits, and that critical thinking often means dealing with uncertainty and ambiguity.
 
-<!--t src=49f38734-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md)
+<!--t src=4d8d8e66-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung)

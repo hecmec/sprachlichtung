@@ -122,6 +122,6 @@ On peut aussi être malade sans fièvre (p. ex. en cas de fracture osseuse). L'a
 - [Wikipedia: Denying the antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 - [Logically Fallacious: Denying the Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)
 
-<!--t src=e33edc9c-->
+<!--t src=dec08e34-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens)

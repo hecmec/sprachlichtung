@@ -231,4 +231,4 @@ Damit schließt die Behandlung von **Induktion und Wissenschaft** im Kurs. Die n
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning)

@@ -120,6 +120,6 @@ Ici encore, à partir d'une séparation (négative), on déduit une appartenance
 - [Wikipedia: Affirmative conclusion from a negative premise](https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise)
 - [Logically Fallacious: Affirmative Conclusion from a Negative Premise](https://www.logicallyfallacious.com/logicalfallacies/Affirmative-Conclusion-from-a-Negative-Premise)
 
-<!--t src=2a30b04a-->
+<!--t src=c98f2b6e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-negative.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-negative) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-negative)

@@ -99,6 +99,6 @@ No neat resolution — she finds the situation frustrating and doesn't know if i
 - Being critical of media and enjoying it are compatible (she is proof).
 - Be wary of anyone claiming absolute truth who leaves no room for questioning — because **intellectuals always question**.
 
-<!--t src=2f23e06b-->
+<!--t src=f38c2af5-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens)

@@ -115,6 +115,6 @@ Analysis:
 - The fallacy consists in treating a necessary condition as sufficient.
 - Correct would be: Running fast is necessary, but not sufficient, to be a good football player.
 
-<!--t src=0c691e45-->
+<!--t src=d958e30b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen) | [Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen)

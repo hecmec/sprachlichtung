@@ -87,4 +87,4 @@ Drei Fragen helfen bei jedem Zitat: Aus welcher Zeit stammt die Aussage? Aus wel
 
 [^crawford]: Kate Crawford: _Atlas of AI_, Yale University Press, 2021.
 
-[Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/wer-is-wer-in-der-ki) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/wer-is-wer-in-der-ki)

@@ -113,6 +113,6 @@ Le bien-être ainsi suscité est censé porter la décision d'achat, mais ne dit
 - [Wikipedia: Appeal to emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion)
 - [Logically Fallacious: Appeal to Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)
 
-<!--t src=43021c3d-->
+<!--t src=71ad8a33-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/emotionsappell) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/emotionsappell)

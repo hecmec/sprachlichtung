@@ -313,3 +313,5 @@ On peut combiner les transformations avec le carré pour atteindre un énoncé v
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference)

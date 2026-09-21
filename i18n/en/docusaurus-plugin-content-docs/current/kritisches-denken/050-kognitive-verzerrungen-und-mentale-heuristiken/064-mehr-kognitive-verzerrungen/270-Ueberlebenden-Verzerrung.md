@@ -13,7 +13,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 2/5
-draft: true
+draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
@@ -127,6 +127,6 @@ Successful founders share playbooks in podcasts and books. You hear only the voi
 
 ## <!--t src=58b63e27-->
 
-<!--t src=62bbee03-->
+<!--t src=91abc447-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberlebenden-Verzerrung) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberlebenden-Verzerrung)

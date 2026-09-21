@@ -141,5 +141,5 @@ Scientific thinking can help to overcome cognitive biases:
 <!--t src=12cfedea-->
    *Strategy*: Keeping a "prediction diary" in order to assess one's own forecasting ability realistically.
 
-<!--t src=116b4e1f-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md)
+<!--t src=40fe294c-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag)

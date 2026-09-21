@@ -71,3 +71,5 @@ Di Donato closes with fallacies tied to empirical reasoning:
 - **Vague generalities**: statements too vague to be meaningful, where the group or attribute is so loosely defined that membership cannot be judged; remedied by a **sampling frame** or **precising definition**.
 
 The next video turns from inductive probability to **certainty**, comparing inductive certainty with other kinds.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability)

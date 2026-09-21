@@ -88,6 +88,6 @@ Un jugement honnête tient les deux ensemble : le nucléaire n'est ni la fin du 
 
 [^nuklear]: Aperçus factuels sur le nucléaire, les risques et les déchets, entre autres chez 🇩🇪 l'[Umweltbundesamt](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et chez 🇫🇷 « Énergie nucléaire », dans : Wikipédia, [fr.wikipedia.org/wiki/Énergie_nucléaire](https://fr.wikipedia.org/wiki/%C3%89nergie_nucl%C3%A9aire) et 🇩🇪 « Kernenergie », dans : Wikipedia, [de.wikipedia.org/wiki/Kernenergie](https://de.wikipedia.org/wiki/Kernenergie). Pour la France, voir aussi 🇫🇷 l'[ASNR (Autorité de sûreté nucléaire et de radioprotection)](https://www.asnr.fr/). Chiffres sur les parts et les décès par forme d'énergie chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-<!--t src=bcaa5172-->
+<!--t src=0c82f3ca-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/090-nuklearenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/090-nuklearenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/nuklearenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/nuklearenergie)

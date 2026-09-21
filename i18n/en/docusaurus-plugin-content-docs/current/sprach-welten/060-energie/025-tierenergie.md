@@ -91,6 +91,6 @@ In many parts of the world, by the way, animals still pull the plough and carry 
 
 [^energie-wiki]: On the origin of the unit "horsepower" and the concept of power see "Horsepower," in: Wikipedia, [en.wikipedia.org/wiki/Horsepower](https://en.wikipedia.org/wiki/Horsepower), as well as generally "Energy," in: Wikipedia, [en.wikipedia.org/wiki/Energy](https://en.wikipedia.org/wiki/Energy).
 
-<!--t src=15d097b5-->
+<!--t src=bb774206-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/025-tierenergie.md) | [Article en français](/fr/docs/sprach-welten/060-energie/025-tierenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/tierenergie) | [Article en français](pathname:///fr/docs/sprach-welten/energie/tierenergie)

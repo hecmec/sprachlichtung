@@ -109,6 +109,6 @@ Pour les penseurs critiques, il est important de reconnaître les techniques rh�
 - La crédibilité de l'orateur est-elle utilisée en remplacement des preuves ?
 - Les contre-arguments sont-ils présentés et pris en compte de façon équitable ?
 
-<!--t src=73cb4aac-->
+<!--t src=a8ebf9e8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

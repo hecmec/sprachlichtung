@@ -155,6 +155,6 @@ Behind every AI system stand an operator, a commission and a person who switched
 
 [^safetyreport]: Yoshua Bengio et al.: _International AI Safety Report_, 2025.
 
-<!--t src=1be3d02c-->
+<!--t src=b462475c-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI)

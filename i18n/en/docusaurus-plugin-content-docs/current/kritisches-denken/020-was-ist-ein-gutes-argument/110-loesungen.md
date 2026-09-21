@@ -86,6 +86,6 @@ custom_translation_overwritten: false
 - **Strength**: Weak &mdash; logically invalid, since there can be other causes of melting snow (e.g. warm temperatures without direct sunshine, rain, artificial heat sources).
 - **Possible improvements**: Reformulate it as an abductive argument: "The snow is melting. One possible explanation is that the sun is shining. If no other factors are present, the sun is probably shining."
 
-<!--t src=f6dfc6a2-->
+<!--t src=5bcd85e8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/loesungen) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/loesungen)

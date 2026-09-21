@@ -78,3 +78,5 @@ Mais raisonner, établir les faits et débattre des valeurs sont des exercices *
 - de **résister aux biais** personnels,
 - d’**accepter la complexité du réel**,
 - et de **cultiver une discipline intellectuelle** constante.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-argument-de-raison) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-argument-de-raison)

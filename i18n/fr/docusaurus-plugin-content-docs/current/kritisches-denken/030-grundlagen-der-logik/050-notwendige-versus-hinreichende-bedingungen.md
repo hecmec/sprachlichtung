@@ -118,6 +118,6 @@ Analyse :
 - Le sophisme consiste à traiter une condition nécessaire comme suffisante.
 - Ce qui serait correct : courir vite est nécessaire, mais non suffisant, pour être un bon footballeur.
 
-<!--t src=0c691e45-->
+<!--t src=d958e30b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen)

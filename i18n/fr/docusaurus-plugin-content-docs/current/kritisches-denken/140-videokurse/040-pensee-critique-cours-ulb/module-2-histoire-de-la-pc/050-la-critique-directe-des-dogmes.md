@@ -52,3 +52,5 @@ Progressivement, des revendications émergent : justice indépendante, lois équ
 ## 5. **Conclusion**
 
 La critique directe des dogmes participe d’un mouvement historique vers plus de liberté et de responsabilité individuelle. Elle permet l’émancipation de la pensée face aux vérités imposées, qu’elles soient religieuses ou politiques. Cette dynamique contribue à la constitution d’un espace public où la **pensée critique** peut non seulement exister, mais aussi transformer les sociétés.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-directe-des-dogmes) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-directe-des-dogmes)

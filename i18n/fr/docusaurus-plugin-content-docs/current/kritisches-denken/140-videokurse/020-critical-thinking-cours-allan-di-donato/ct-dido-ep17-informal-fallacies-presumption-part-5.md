@@ -218,3 +218,5 @@ Ces quatre sophismes closent l’ensemble du traitement des **sophismes informel
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5)

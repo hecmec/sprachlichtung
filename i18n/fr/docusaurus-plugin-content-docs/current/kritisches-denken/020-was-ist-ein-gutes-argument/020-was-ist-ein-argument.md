@@ -130,6 +130,6 @@ Comment utiliser ce schéma pour décomposer un argument concret, nous le verron
 
 [^toulmin-schema-en]: [Wikipédia : Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
 
-<!--t src=031678c3-->
+<!--t src=f84a210f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument)

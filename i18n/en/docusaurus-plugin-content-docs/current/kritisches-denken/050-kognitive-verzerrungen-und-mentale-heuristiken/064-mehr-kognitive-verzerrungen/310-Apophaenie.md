@@ -128,6 +128,6 @@ Whoever tests many variables without a clear hypothesis will almost certainly fi
 - Taleb, N. N. (2001): Fooled by Randomness &mdash; on spurious patterns in noisy data.
 - Gilovich, T. (1991): How We Know What Isn’t So &mdash; errors of everyday thinking.
 
-<!--t src=4ed4852c-->
+<!--t src=ea27eda6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Apophaenie) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Apophaenie)

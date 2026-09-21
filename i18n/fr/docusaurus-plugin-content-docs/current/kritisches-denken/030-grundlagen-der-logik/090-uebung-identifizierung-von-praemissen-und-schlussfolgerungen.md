@@ -86,6 +86,6 @@ Dans les arguments suivants, identifiez les prémisses et la conclusion. Déterm
    Validité : valide (syllogisme catégorique)
    Hypothèses cachées : la vérité de la première prémisse est douteuse
 
-<!--t src=76618d81-->
+<!--t src=20143389-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen)

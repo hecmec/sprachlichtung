@@ -157,6 +157,6 @@ This fallacy distracts from the actual question or argument by introducing an ir
 
 **Why is this flawed?** Instead of addressing the criticism of the tax policy, a completely different topic (education policy) is introduced in order to distract.
 
-<!--t src=1082f86b-->
+<!--t src=302e11de-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse)

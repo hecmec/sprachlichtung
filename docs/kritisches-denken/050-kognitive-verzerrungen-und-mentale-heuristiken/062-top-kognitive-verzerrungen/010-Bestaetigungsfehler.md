@@ -77,4 +77,4 @@ Er zitiert nur die erste Hälfte von Studien und hört auf zu lesen, sobald die 
 
 [Wikipedia: Bestätigungsfehler](https://de.wikipedia.org/wiki/Best%C3%A4tigungsfehler)
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Bestaetigungsfehler) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Bestaetigungsfehler)

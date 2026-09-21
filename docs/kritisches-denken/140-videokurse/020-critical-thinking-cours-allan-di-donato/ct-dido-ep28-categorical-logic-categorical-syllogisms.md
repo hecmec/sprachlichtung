@@ -276,4 +276,4 @@ Das Video schließt mit dem Hinweis, dass kategoriale Propositionen nicht die ei
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms)

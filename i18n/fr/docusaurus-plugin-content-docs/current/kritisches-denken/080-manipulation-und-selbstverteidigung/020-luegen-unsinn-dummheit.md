@@ -141,5 +141,5 @@ Ces distinctions ne sont pas un jeu académique. Qui les maîtrise réagit de ma
 - 🇩🇪 [Lügner, Bullshitter und Trottel](https://www.youtube.com/watch?v=azp3g8vpBJE&list=PLnNbFF6NPy3zL5uvLMjKCMRByR9kouFCY) (vidéo)
 - 🇩🇪 Cours « Bullshit-Resistenz » (UdK Berlin, 2023) : [Fake News](https://www.youtube.com/watch?v=cbYY-EGwvIs)
 
-<!--t src=73746989-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md)
+<!--t src=e5cae60a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/luegen-unsinn-dummheit) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/luegen-unsinn-dummheit)

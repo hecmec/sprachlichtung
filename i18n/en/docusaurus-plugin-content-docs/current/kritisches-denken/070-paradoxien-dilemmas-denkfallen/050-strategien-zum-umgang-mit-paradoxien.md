@@ -101,5 +101,5 @@ Some paradoxes have led to the development of entirely new theoretical framework
 - Zeno's paradoxes inspired the development of infinitesimal calculus
 - The prisoner's dilemma led to new approaches in game theory and evolutionary biology
 
-<!--t src=d922cec7-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md)
+<!--t src=3c438893-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien)

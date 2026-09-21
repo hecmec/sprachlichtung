@@ -73,4 +73,4 @@ Der Gleichheitsgrundsatz verlangt, _Gleiches gleich und Ungleiches ungleich_ zu 
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Sweeping Generalization](https://www.logicallyfallacious.com/logicalfallacies/Sweeping-Generalization)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips)

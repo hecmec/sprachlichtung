@@ -71,4 +71,4 @@ Dass das Bestehen folgte, macht den Glücksbringer nicht zur Ursache. Hier wirkt
 - [Wikipedia: Post hoc ergo propter hoc](https://de.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)
 - [Logically Fallacious: Post Hoc Ergo Propter Hoc](https://www.logicallyfallacious.com/logicalfallacies/Post-Hoc-Ergo-Propter-Hoc)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc)

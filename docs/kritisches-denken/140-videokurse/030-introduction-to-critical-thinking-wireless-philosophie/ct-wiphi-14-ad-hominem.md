@@ -226,4 +226,4 @@ Keine dieser Entgegnungen setzt sich mit Catherines oder Vlads Prämissen oder S
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem)

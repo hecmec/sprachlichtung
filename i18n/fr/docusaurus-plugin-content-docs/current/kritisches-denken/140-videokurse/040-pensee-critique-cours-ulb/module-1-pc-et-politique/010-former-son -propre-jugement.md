@@ -80,3 +80,5 @@ Former son propre jugement, c’est être capable :
 - De **participer activement à la vie collective** avec lucidité.
 
 👉 C’est le cœur même de la pensée critique.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-former-son-propre-jugement) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-former-son-propre-jugement)

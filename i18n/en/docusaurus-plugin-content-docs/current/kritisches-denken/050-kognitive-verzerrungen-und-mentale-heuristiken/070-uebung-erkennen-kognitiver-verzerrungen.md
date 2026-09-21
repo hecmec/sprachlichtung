@@ -87,6 +87,6 @@ Reflect on your observations:
 
 **Alternative Perspective**: Even if I disagree with the author's conclusion, some of the presented facts might be correct. I should check the sources of the statistics and consider whether there are valid points I should take into account.
 
-<!--t src=3a296846-->
+<!--t src=bbba956c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/uebung-erkennen-kognitiver-verzerrungen) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/uebung-erkennen-kognitiver-verzerrungen)

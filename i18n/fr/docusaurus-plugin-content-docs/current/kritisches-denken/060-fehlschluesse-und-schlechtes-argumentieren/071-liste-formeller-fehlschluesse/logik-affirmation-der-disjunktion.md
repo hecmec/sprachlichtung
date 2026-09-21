@@ -122,6 +122,6 @@ Si vous demandez gentiment à l'hôtesse, elle vous donnera certainement du gât
 - [Wikipedia : Affirming a disjunct](https://en.wikipedia.org/wiki/Affirming_a_disjunct)
 - [Logically Fallacious: Affirming a Disjunct](https://www.logicallyfallacious.com/logicalfallacies/Affirming-a-Disjunct)
 
-<!--t src=a47c528e-->
+<!--t src=6448377d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion)

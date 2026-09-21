@@ -63,3 +63,7 @@ So here is only a very small selection, the one we like.
 - 🇫🇷 [Gérald Bronner - Développer son esprit critique face au monde de la désinformation](https://www.youtube.com/watch?v=kjy0MHg-ZjU)
 -
 -->
+
+<!--t src=cb009f15-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/medien-quellen/videos) | [Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/videos)

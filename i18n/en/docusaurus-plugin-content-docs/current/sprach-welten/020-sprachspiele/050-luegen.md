@@ -264,6 +264,6 @@ Often the deception comes not as a smooth lie but as camouflaged language.
 - "collateral damage" = killed civilians.
 - "ethnic cleansing" — itself already a euphemistic term for expulsion/mass murder.
 
-<!--t src=10b30be2-->
+<!--t src=ed4c9dfd-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/050-luegen.md) | [Article en français](/fr/docs/sprach-welten/020-sprachspiele/050-luegen.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/luegen) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/luegen)

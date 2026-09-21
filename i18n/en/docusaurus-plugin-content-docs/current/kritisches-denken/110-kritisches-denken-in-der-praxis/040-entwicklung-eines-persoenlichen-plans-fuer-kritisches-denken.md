@@ -308,5 +308,5 @@ To optimise your development in critical thinking, it is important to track your
    - Setting of new long-term goals
    - Complete revision of the development plan
 
-<!--t src=bb280803-->
-[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md)
+<!--t src=d5269cb8-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken)

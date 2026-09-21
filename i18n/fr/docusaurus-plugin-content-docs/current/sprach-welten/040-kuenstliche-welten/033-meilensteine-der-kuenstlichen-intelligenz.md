@@ -152,6 +152,6 @@ Trois motifs se répètent. Premièrement : des décennies séparent souvent une
 
 [^transformer]: Ashish Vaswani et al. : _Attention Is All You Need_, NeurIPS, 2017.
 
-<!--t src=de80faea-->
+<!--t src=29806742-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/meilensteine-der-kuenstlichen-intelligenz) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/meilensteine-der-kuenstlichen-intelligenz)

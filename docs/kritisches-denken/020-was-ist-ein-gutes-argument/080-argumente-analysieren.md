@@ -75,4 +75,4 @@ Erst die Rekonstruktion macht eine faire Bewertung möglich. Mit der freigelegte
 
 Auf den nächsten Seiten vertiefen wir das Aufspüren versteckter Annahmen und üben die Analyse an konkreten Beispielen.
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren)

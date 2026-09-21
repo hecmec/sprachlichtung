@@ -76,5 +76,5 @@ custom_translation_overwritten: false
 4. c) Echo chambers and filter bubbles
 5. b) The goals should be specific and measurable
 
-<!--t src=df780072-->
-[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md)
+<!--t src=5f0af3d3-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis)

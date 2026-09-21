@@ -61,4 +61,4 @@ Identifizieren Sie in den folgenden Argumenten die Prämissen und die Schlussfol
    Gültigkeit: Gültig (kategorischer Syllogismus)
    Versteckte Annahmen: Die Wahrheit der ersten Prämisse ist fragwürdig
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen)

@@ -93,6 +93,6 @@ custom_translation_overwritten: false
 4. b) "Computers work similarly to the human brain. Computers cannot solve certain tasks. So the human brain probably cannot solve these tasks either."
 5. b) Change of perspective
 
-<!--t src=344e5acf-->
+<!--t src=674de98f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument)

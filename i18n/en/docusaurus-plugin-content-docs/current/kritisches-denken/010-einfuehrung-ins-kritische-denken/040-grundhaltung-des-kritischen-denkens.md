@@ -172,6 +172,6 @@ Examples:
 - A manager who acts neither risk-averse nor reckless, but decides in a balanced way.
 - Someone who stays calm in a dispute and neither becomes abusive nor submits. -->
 
-<!--t src=29366076-->
+<!--t src=d9087b82-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens)

@@ -97,3 +97,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=Mu9FSvKOBBs"
   Pensée critique - "L'affaire KITZMILLER" - 10 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller)

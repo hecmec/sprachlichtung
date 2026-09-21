@@ -72,4 +72,4 @@ Bei viralen Inhalten gilt doppelt: **erst prüfen, dann glauben, dann erst teile
 
 KI macht das Fälschen leichter, aber dieselben Methoden, die gegen klassische Desinformation helfen (laterales Lesen, Quelle prüfen, Original suchen), wirken auch hier. Die Technik ändert sich, die Grundhaltung des Prüfens bleibt.
 
-[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/desinformation-und-ki) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/desinformation-und-ki)

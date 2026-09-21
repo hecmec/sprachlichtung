@@ -220,6 +220,6 @@ S’il est difficile pour les mouvements politiques d’embrasser ces problèmes
 Surtout, pour que les citoyens retrouvent foi en un projet collectif, les discours incantatoires sur l’émancipation ne suffisent pas : il faut donner à voir, en actes, à quoi elle ressemble. La gauche doit redevenir utile au quotidien : grâce à l’entraide, l’aide aux devoirs, l’éducation populaire, l’engagement dans les centres sociaux, les MJC [maisons des jeunes et de la culture], les grandes associations, des personnes désaffiliées civiquement et politiquement, venues d’abord pour une prestation, découvrent qu’elles peuvent délibérer et décider ensemble. C’est comme ça que l’on peut réinvestir le collectif et renouer, un jour, avec le geste de voter.
 -->
 
-<!--t src=780c0184-->
+<!--t src=767bcf1e-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/soziales/der-anstieg-des-egoismus) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/soziales/der-anstieg-des-egoismus)

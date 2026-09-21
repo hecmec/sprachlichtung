@@ -155,5 +155,5 @@ Le **paradoxe de Newcomb** est un paradoxe de la décision :
 <!--t src=ebe183d3-->
 **Portée :** ce paradoxe oppose deux principes de décision : le principe de dominance (prendre les deux boîtes est toujours préférable) et le principe de l'utilité espérée (ne prendre que la boîte B conduit à une utilité espérée plus élevée si le prédicteur est fiable). Il a des répercussions sur la théorie de la décision, le libre arbitre et la causalité.
 
-<!--t src=aa34cffc-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md)
+<!--t src=2406f54a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/bekannte-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/bekannte-paradoxien)

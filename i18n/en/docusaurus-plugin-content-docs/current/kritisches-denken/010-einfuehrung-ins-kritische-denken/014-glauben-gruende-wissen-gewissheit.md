@@ -15,7 +15,7 @@ last_update:
   date: 2026-02-12
   author: Immanuel Lupinus
 completeness: 2/5
-draft: true
+draft: false
 translation_status: auto
 ---
 
@@ -902,6 +902,6 @@ The philosopher Karl Popper put it in a nutshell: _"I may be wrong and you may b
 <!-- The answer to these questions is always the same:
   unbiased rational inquiry. -->
 
-<!--t src=8f9faf06-->
+<!--t src=cacc5f50-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/glauben-gruende-wissen-gewissheit) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/glauben-gruende-wissen-gewissheit)

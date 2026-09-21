@@ -99,6 +99,6 @@ Pas de résolution nette : elle trouve la situation frustrante et ignore si elle
 - Être critique envers les médias et les apprécier sont compatibles (elle en est la preuve).
 - Méfiez-vous de quiconque revendique une vérité absolue sans laisser de place au questionnement, car **les intellectuels questionnent toujours**.
 
-<!--t src=2f23e06b-->
+<!--t src=f38c2af5-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens)

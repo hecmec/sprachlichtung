@@ -108,6 +108,6 @@ A missing study is no proof of safety. „Not investigated“ is not the same as
 
 - [Logically Fallacious: Appeal to Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Ignorance)
 
-<!--t src=d6b92fc5-->
+<!--t src=80a10cf2-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam)

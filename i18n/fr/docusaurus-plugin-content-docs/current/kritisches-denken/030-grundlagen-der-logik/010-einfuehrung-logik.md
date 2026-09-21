@@ -21,6 +21,6 @@ custom_translation_overwritten: false
 
 La logique constitue le socle de la pensée critique. Pour pouvoir analyser, évaluer et construire des arguments, nous devons comprendre les briques fondamentales de la logique. Dans ce chapitre, nous découvrons les principaux éléments logiques qui nous aident à penser plus clairement et à formuler de meilleurs arguments.
 
-<!--t src=8e85a641-->
+<!--t src=24127927-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik)

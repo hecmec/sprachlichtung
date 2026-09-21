@@ -118,6 +118,6 @@ No one disputes that healthy eating is good. With this truism the unsubstantiate
 - [Wikipedia: Motte-and-bailey fallacy](https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy)
 - [RationalWiki: Motte and bailey](https://rationalwiki.org/wiki/Motte_and_bailey)
 
-<!--t src=1b411031-->
+<!--t src=b7f44abd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/turm-und-wall-fehler) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/turm-und-wall-fehler)

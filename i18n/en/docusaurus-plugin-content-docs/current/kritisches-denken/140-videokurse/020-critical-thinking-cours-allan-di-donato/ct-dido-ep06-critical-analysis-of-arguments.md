@@ -67,3 +67,5 @@ A complete response must therefore do **both**: refute the opposing argument **a
 ### Where this leads
 
 This is only an overview; the formal testing of validity comes later. The next session moves into **informal logic**, beginning with the **informal fallacies of ambiguity**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments)

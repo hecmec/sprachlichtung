@@ -185,6 +185,6 @@ Comprendre ces schémas d'argumentation est important pour la pensée critique, 
 
 [^syllogismus-geschichte]: Le syllogisme a été, pendant plus de deux millénaires, d'Aristote à Gottlob Frege, le cœur de la logique. Avec sa _syllogistique_, Aristote a fondé la toute première logique formelle, et jusque tard dans le XIXᵉ siècle, la théorie du syllogisme (sous diverses formes) passait pour une théorie quasi complète de l'inférence valide. Ce n'est qu'avec George Boole, puis avec la _Begriffsschrift_ (idéographie) de Frege (1879) et le développement de la logique des prédicats moderne, que cette image a été dépassée. Du point de vue actuel, le syllogisme n'est plus un système autonome, mais seulement un **cas particulier de la logique des prédicats du premier ordre** (First Order Logic) : toutes les inférences syllogistiques peuvent s'exprimer avec des quantificateurs et des prédicats, tandis que la logique des prédicats va bien au-delà et saisit par exemple des relations à plusieurs places et des quantificateurs imbriqués que le syllogisme classique ne peut pas du tout traiter. Pour les personnes intéressées : [Syllogisme (Wikipédia)](https://fr.wikipedia.org/wiki/Syllogisme).
 
-<!--t src=ed7127b5-->
+<!--t src=e90d6c2f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/040-muster-gueltiger-argumente.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/040-muster-gueltiger-argumente.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/muster-gueltiger-argumente) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/muster-gueltiger-argumente)

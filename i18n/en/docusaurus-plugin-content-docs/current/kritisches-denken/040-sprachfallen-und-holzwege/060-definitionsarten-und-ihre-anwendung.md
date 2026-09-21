@@ -176,6 +176,6 @@ Regardless of the type of definition, there are general criteria that a good def
 
 5. **Consider Context Dependence**: Accept that different definitions may be appropriate in different contexts.
 
-<!--t src=171ca4e2-->
+<!--t src=a018faad-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/definitionsarten-und-ihre-anwendung) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/definitionsarten-und-ihre-anwendung)

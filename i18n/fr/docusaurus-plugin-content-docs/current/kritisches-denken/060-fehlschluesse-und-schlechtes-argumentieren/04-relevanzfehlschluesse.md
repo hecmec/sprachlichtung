@@ -158,6 +158,6 @@ Ce sophisme détourne l'attention de la question ou de l'argument réel en intro
 
 **Pourquoi est-ce fallacieux ?** Au lieu de répondre à la critique de la politique fiscale, on introduit un sujet totalement différent (la politique éducative) pour détourner l'attention.
 
-<!--t src=1082f86b-->
+<!--t src=302e11de-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/relevanzfehlschluesse)

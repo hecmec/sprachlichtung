@@ -89,5 +89,5 @@ Les médias sociaux représentent des défis particuliers pour la pensée critiq
 <!--t src=3d0404ea-->
    *Exemple* : soyez attentif aux signes de manipulation d'image, comme des ombres non naturelles, des proportions déformées ou un éclairage incohérent.
 
-<!--t src=4735f76f-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md)
+<!--t src=1b145c03-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien)

@@ -62,4 +62,4 @@ Fehlschlüsse sind in öffentlichen Diskursen, insbesondere in Medien und Politi
 
 6. **Seien Sie skeptisch gegenüber perfekten Lösungen**: Werden komplexe Probleme so dargestellt, als hätten sie einfache, eindeutige Lösungen?
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik)

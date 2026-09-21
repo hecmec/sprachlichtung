@@ -98,6 +98,6 @@ Comme nous l'avons déjà dit, de nombreux bons arguments ne sont de toute faço
 
 Dans ce qui suit, nous examinerons les principaux sophismes de chaque catégorie.
 
-<!--t src=0ca03c70-->
+<!--t src=43e12202-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse)

@@ -112,6 +112,6 @@ D'une simple exception jusqu'à la criminalité, le chemin est long et non étay
 - [Wikipédia : Pente glissante (argument)](<https://fr.wikipedia.org/wiki/Pente_glissante_(argument)>)
 - [Logically Fallacious: Slippery Slope](https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope)
 
-<!--t src=17150f92-->
+<!--t src=33c12ad4-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/dammbruchargument) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/dammbruchargument)

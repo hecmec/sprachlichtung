@@ -160,6 +160,6 @@ The debate still resonates today: systematic philosophers of language often see 
 - [Wikipedia: Language game](<https://en.wikipedia.org/wiki/Language_game_(philosophy)>)
 - [Philosophical Investigations: Wittgenstein's main work](https://en.wikipedia.org/wiki/Philosophical_Investigations)
 
-<!--t src=9edc3be2-->
+<!--t src=ceffd114-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article en français](/fr/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff)

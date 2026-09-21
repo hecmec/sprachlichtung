@@ -47,5 +47,5 @@ Nous avons appris :
 <!--t src=4a082537-->
 Cultiver les vertus intellectuelles et surmonter les vices intellectuels n'est pas seulement important à des fins académiques ou philosophiques : cela a des répercussions pratiques sur notre vie quotidienne, nos décisions et nos relations avec autrui. Par un effort conscient et une réflexion continue, nous pouvons développer nos traits de caractère intellectuels et devenir de meilleurs penseurs et partenaires de communication.
 
-<!--t src=d6ad1a8a-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md)
+<!--t src=019a7c60-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/zusammenfassung)

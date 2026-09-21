@@ -55,3 +55,5 @@ Strictly, there is no such thing as "almost certain," because certainty implies 
 ### Where This Leads
 
 The episode offers a map of the spectrum of certainty, from apodictic mathematical and logical truths, through self-evident existential truths, down to the psychological and probabilistic certainties of virtual, inductive, and moral conviction. Since the course is focused on induction, the next step is to return to **probability**, beginning with *a priori probability* in the following episode.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty)

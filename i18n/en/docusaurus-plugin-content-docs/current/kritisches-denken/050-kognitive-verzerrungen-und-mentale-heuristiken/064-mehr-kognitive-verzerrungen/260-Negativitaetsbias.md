@@ -16,7 +16,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 3/5
-draft: true
+draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
@@ -116,6 +116,6 @@ A single 1‑star comment influences the purchase decision more than many 5‑st
 - Baumeister, R. F. et al. (2001). "Bad is stronger than good". Review of General Psychology.
 - Kahneman, D. & Tversky, A. &mdash; Prospect Theory and loss aversion.
 
-<!--t src=b642e509-->
+<!--t src=cf77c322-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias)

@@ -98,6 +98,6 @@ The most dangerous false report is the one we _want_ to believe. Precisely with 
 
 How this checking works in practice is shown on the next page, with the simplest and most effective method there is for it.
 
-<!--t src=5cfb7d4b-->
+<!--t src=b4f5212c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/die-informationsflut) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/die-informationsflut)

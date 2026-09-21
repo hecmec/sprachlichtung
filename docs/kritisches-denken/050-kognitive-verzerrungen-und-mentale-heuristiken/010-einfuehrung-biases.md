@@ -50,4 +50,4 @@ In diesem Kapitel werden wir untersuchen, was kognitive Verzerrungen sind, wie s
 - [Zusammenfassung](./080-zusammenfassung.md)
 - [Quiz: Kognitive Verzerrungen und mentale Heuristiken](./090-quiz-biases.md)
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases)

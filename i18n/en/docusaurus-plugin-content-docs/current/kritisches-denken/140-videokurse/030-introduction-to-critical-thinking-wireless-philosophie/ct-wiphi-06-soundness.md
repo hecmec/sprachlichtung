@@ -72,3 +72,5 @@ Ancell closes with an invitation: try writing a sound argument of your own.
 ### Key takeaway
 
 Soundness is validity plus true premises, and only the pair together guarantees a true conclusion. Checking an argument therefore means asking two separate questions, and failing either one is enough to make it unsound.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-06-soundness) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-06-soundness)

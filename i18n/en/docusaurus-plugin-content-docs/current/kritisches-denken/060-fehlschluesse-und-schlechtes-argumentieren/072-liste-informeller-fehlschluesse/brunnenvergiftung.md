@@ -111,6 +111,6 @@ Whoever agrees with the proposal afterwards automatically counts as heartless. T
 - [Wikipedia: Poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well)
 - [Logically Fallacious: Poisoning the Well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)
 
-<!--t src=7da401e1-->
+<!--t src=d2621098-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/brunnenvergiftung) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/brunnenvergiftung)

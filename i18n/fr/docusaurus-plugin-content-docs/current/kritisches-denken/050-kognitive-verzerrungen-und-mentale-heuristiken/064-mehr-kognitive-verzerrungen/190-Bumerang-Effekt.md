@@ -129,6 +129,6 @@ Plus on moralise (« tu dois… »), plus l'**opposition** est probable ; la per
 - Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions.
 - Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth” era.
 
-<!--t src=6278b58e-->
+<!--t src=39c583f5-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Bumerang-Effekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Bumerang-Effekt)

@@ -140,26 +140,33 @@ rules, surface it in your Step 2 report rather than guessing.
 
 ### Language links at the end of an article
 
-German articles may end with a line linking to their translations (clickable in
-VS Code while editing), e.g.:
+German articles may end with a line linking to their published translations:
 
 ```markdown
-[Article en français](/fr/docusaurus-plugin-content-docs/current/<rel>) | [Article in English](/en/docusaurus-plugin-content-docs/current/<rel>)
+[Article en français](pathname:///fr/docs/<url>) | [Article in English](pathname:///en/docs/<url>)
 ```
 
-Do **not** copy it verbatim. In the translation, the line must point to the
+`<url>` is the page's **published URL path** below `/docs/`, not its file path:
+number prefixes are stripped, `.md` is dropped, and an `id`/`slug` in the
+frontmatter overrides the file name (e.g. `docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md`
+with `id: kritisches-denken-kurzgesagt` → `kritisches-denken/kritisches-denken-kurzgesagt`).
+Because translations keep the German `id`/`slug` and path, `<url>` is the same in
+every locale. The `pathname://` prefix makes Docusaurus emit a plain link that
+does a full page load; a normal `/fr/...` link would be routed inside the current
+locale's app (or get the locale prefixed) and end in a 404.
+
+Do **not** copy the line verbatim. In the translation it must point to the
 **two other languages**, never to the page itself. Each link text is written in
-the language it points to:
+the language it points to, and `<url>` stays exactly as in the German line:
 
-| Target locale | Line in the translated file                                                                                     |
-| ------------- | --------------------------------------------------------------------------------------------------------------- |
-| `en`          | `[Artikel auf Deutsch](/docs/<rel>) \| [Article en français](/fr/docusaurus-plugin-content-docs/current/<rel>)` |
-| `fr`          | `[Artikel auf Deutsch](/docs/<rel>) \| [Article in English](/en/docusaurus-plugin-content-docs/current/<rel>)`  |
+| Target locale | Line in the translated file |
+| --- | --- |
+| `en` | `[Artikel auf Deutsch](pathname:///docs/<url>) \| [Article en français](pathname:///fr/docs/<url>)` |
+| `fr` | `[Artikel auf Deutsch](pathname:///docs/<url>) \| [Article in English](pathname:///en/docs/<url>)` |
 
-- `<rel>` is the same path as the German source (relative to `docs/`); encode
-  spaces as `%20`.
-- For another locale `xx`: link to German (`/docs/<rel>`) plus the other existing
-  translations, each labelled in its own language.
+- Encode spaces in `<url>` as `%20`.
+- For another locale `xx`: link to German (`pathname:///docs/<url>`) plus the other
+  existing translations (`pathname:///<locale>/docs/<url>`), each labelled in its own language.
 - Only link to a translation whose file actually exists.
 
 ### Images

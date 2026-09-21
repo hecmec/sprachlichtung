@@ -115,6 +115,6 @@ Plusieurs personnes observent du harcèlement ou une grave erreur de procédure.
 - Wikipédia : [Effet du témoin](https://fr.wikipedia.org/wiki/Effet_du_t%C3%A9moin)
 - Darley, J. M. & Latané, B. (1968) : « Bystander intervention in emergencies: Diffusion of responsibility ». Journal of Personality and Social Psychology.
 
-<!--t src=6fe875b8-->
+<!--t src=fe2bcd08-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt)

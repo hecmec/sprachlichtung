@@ -95,6 +95,6 @@ La **déduction** garantit, l'**induction** généralise, l'**abduction** expliq
 
 > Pour aller plus loin : [Abduction, induction, déduction (arbeitsblaetter.stangl-taller.at, en allemand)](https://arbeitsblaetter.stangl-taller.at/DENKENTWICKLUNG/Abduktion-Induktion-Deduktion.shtml)
 
-<!--t src=36596968-->
+<!--t src=6fd5835d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/030-deduktion-induktion-abduktion.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/030-deduktion-induktion-abduktion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/deduktion-induktion-abduktion) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/deduktion-induktion-abduktion)

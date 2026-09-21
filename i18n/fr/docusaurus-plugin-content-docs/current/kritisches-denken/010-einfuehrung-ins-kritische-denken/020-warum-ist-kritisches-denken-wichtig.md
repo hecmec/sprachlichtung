@@ -160,6 +160,6 @@ La pensée critique favorise aussi l'**humanité** et l'**empathie**, en nous ap
 
 C'est un aspect souvent négligé, mais qui devient de plus en plus important dans le monde globalisé d'aujourd'hui.
 
-<!--t src=3137598c-->
+<!--t src=139e4eaa-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig)

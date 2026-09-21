@@ -66,4 +66,4 @@ Heißt das, Algorithmen seien harmlos? Nein. Die Sorge verschiebt sich nur vom r
 - **Beim Aufwühlen innehalten.** Starke Emotion ist im Feed oft ein Zeichen dafür, dass ein Inhalt auf Reichweite optimiert wurde, also Zeit für [SIFT](040-die-sift-methode.md).
 - **Teilen ist Verbreiten.** Jeder Klick auf „Teilen“ ist eine Stimme für den Algorithmus. Erst prüfen, dann teilen.
 
-[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen)

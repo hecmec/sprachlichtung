@@ -135,6 +135,6 @@ Le jeu de langage de la séduction remplit des fonctions sociales complexes :
 
 Sous sa forme constructive, la séduction peut aider les gens à franchir les limites qu'ils se sont eux-mêmes fixées, à faire de nouvelles expériences et à sortir de schémas figés. L'ambivalence de la séduction, entre échappée libératrice et emprise manipulatrice, en fait l'un des jeux de langage les plus fascinants et les plus complexes sur le plan éthique que nous connaissions.
 
-<!--t src=6a9be081-->
+<!--t src=ccd502dd-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/070-verfuehren.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/070-verfuehren.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/verfuehren) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/verfuehren)

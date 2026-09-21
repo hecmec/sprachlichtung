@@ -103,5 +103,5 @@ Les **bots** sont des comptes automatisés sur les réseaux sociaux, programmés
 - Répétition de messages identiques ou très similaires
 - Hausse soudaine du soutien à un sujet sans déclencheur identifiable
 
-<!--t src=fd377f72-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md)
+<!--t src=053ecef5-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter)

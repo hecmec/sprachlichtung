@@ -149,6 +149,6 @@ Specific techniques can help reduce certain biases.
 - Against the hindsight bias: document predictions before events occur
 - Against the status quo bias: actively generate and evaluate alternatives
 
-<!--t src=2771c678-->
+<!--t src=320e2fc9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen)

@@ -86,3 +86,5 @@ These use emotionally loaded language to influence beliefs and feelings without 
 ### Images
 
 Finally, **images are never true or false**, they are not claims, yet they powerfully elicit responses and are easily doctored or digitally manipulated to plant a false impression. This sets up the next lecture on advertising.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric)

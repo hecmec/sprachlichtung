@@ -105,4 +105,4 @@ Verschiedene Faktoren können die Entwicklung intellektueller Tugenden in Gemein
 
 **Praktische Anwendung:** Identifizieren Sie eine Gemeinschaft, zu der Sie gehören (Arbeitsplatz, Bildungseinrichtung, Verein), und überlegen Sie, welche intellektuellen Tugenden dort bereits geschätzt werden und welche gefördert werden könnten. Entwickeln Sie konkrete Vorschläge, wie diese Gemeinschaft intellektuelle Tugenden stärker kultivieren könnte.
 
-[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/060-intellektuelle-tugenden-in-gemeinschaften.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/060-intellektuelle-tugenden-in-gemeinschaften.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften)

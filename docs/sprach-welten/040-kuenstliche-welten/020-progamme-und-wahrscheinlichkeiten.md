@@ -70,4 +70,4 @@ Wer das im Kopf behält, liest jede Aussage über KI anders. Nicht "die Maschine
 
 [^bayes]: Thomas Bayes: _An Essay towards solving a Problem in the Doctrine of Chances_, Philosophical Transactions of the Royal Society, 1763 (posthum veröffentlicht).
 
-[Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/progamme-und-wahrscheinlichkeiten) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/progamme-und-wahrscheinlichkeiten)

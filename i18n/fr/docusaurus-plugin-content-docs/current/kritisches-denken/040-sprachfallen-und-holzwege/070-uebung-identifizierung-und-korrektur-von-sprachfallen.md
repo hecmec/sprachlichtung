@@ -131,6 +131,6 @@ Dans les exemples suivants, identifiez le type de piège du langage (ambiguïté
     - Problème : on attribue à l'évolution une intention ou un objectif.
     - Amélioration : « Le processus d'évolution conduit, par la sélection naturelle, à des organismes mieux adaptés à leur environnement. »
 
-<!--t src=50467185-->
+<!--t src=62456cf6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen)

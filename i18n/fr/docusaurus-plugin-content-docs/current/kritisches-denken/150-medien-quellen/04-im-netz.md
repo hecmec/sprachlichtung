@@ -34,3 +34,7 @@ custom_translation_overwritten: false
   - Association et collectif français de recherche interdisciplinaire sur la pensée critique et les sciences.
 - 🇫🇷 [Association Française pour l'Information Scientifique (AFIS)](https://www.afis.org/)
   - Association française qui promeut la science et la pensée critique depuis 1968 (revue _Science et pseudo-sciences_).
+
+<!--t src=2ee6dd06-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/medien-quellen/im-netz) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/im-netz)

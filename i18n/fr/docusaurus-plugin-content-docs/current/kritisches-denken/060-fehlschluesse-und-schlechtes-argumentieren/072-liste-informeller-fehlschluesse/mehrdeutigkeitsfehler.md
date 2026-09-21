@@ -111,6 +111,6 @@ En anglais, la structure permet de lire qu'il faudrait aider à « torturer des 
 - [Wikipédia : Amphibologie](https://fr.wikipedia.org/wiki/Amphibologie)
 - [Logically Fallacious: Amphiboly](https://www.logicallyfallacious.com/logicalfallacies/Amphiboly)
 
-<!--t src=53d648c9-->
+<!--t src=bf423a03-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mehrdeutigkeitsfehler) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mehrdeutigkeitsfehler)

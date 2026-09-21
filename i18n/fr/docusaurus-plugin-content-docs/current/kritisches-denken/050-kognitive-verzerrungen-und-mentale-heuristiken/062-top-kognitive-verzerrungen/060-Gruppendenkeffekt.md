@@ -127,6 +127,6 @@ Dans les hôpitaux, les structures hiérarchiques peuvent conduire le personnel 
 - Irving Janis (1972) : "Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes"
 - Janis, I. L. (1982) : "Groupthink: Psychological Studies of Policy Decisions and Fiascoes"
 
-<!--t src=55755f6d-->
+<!--t src=1bbebede-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Gruppendenkeffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Gruppendenkeffekt)

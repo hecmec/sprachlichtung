@@ -59,4 +59,4 @@ draft: false
 4. c) Vagheit und unscharfe Grenzen von Begriffen
 5. b) Unterscheidung zwischen Objekt- und Metasprache
 
-[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/080-quiz-paradoxien.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/080-quiz-paradoxien.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien)

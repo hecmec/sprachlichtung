@@ -111,4 +111,4 @@ Planen Sie, Ihren Fortschritt regelmäßig zu überprüfen und Ihren Entwicklung
 
 **Datum für die erste Überprüfung**: . . . . . .
 
-[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern)

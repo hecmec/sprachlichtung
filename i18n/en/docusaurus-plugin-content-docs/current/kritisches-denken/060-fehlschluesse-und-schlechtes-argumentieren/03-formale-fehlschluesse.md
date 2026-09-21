@@ -291,6 +291,6 @@ The information in the premises is not sufficient, however, to rule out animals 
  </g>
 </svg>
 
-<!--t src=44df2b3d-->
+<!--t src=4228a3b9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse)

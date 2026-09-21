@@ -110,6 +110,6 @@ For critical thinkers it is important to recognize rhetorical techniques and to 
 - Is the speaker's credibility used as a substitute for evidence?
 - Are counterarguments presented fairly and taken into account?
 
-<!--t src=73cb4aac-->
+<!--t src=a8ebf9e8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

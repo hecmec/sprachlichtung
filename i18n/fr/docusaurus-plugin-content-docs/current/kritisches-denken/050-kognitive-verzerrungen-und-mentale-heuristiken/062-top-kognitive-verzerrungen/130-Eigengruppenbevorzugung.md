@@ -139,6 +139,6 @@ De simples répartitions aléatoires (p. ex. une préférence pour le tableau A 
 - Tajfel, H., & Turner, J. C. (1979). Social Identity Theory.
 - Brewer, M. B. (1999). The psychology of prejudice: Ingroup love vs. outgroup hate.
 
-<!--t src=ae4b27d0-->
+<!--t src=db846424-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Eigengruppenbevorzugung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Eigengruppenbevorzugung)

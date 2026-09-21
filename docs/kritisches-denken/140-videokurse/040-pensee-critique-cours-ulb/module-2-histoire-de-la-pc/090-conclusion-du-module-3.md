@@ -164,4 +164,4 @@ Das kritische Denken hat, indem es sich den auferlegten Wahrheiten entgegenstell
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/090-conclusion-du-module-3.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/090-conclusion-du-module-3.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc)

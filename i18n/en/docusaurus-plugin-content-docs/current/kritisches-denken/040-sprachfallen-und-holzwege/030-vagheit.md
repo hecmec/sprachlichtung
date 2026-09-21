@@ -115,6 +115,6 @@ Vagueness differs from ambiguity. While ambiguous expressions have multiple dist
 
 4. **Awareness of Sorites Problems**: Recognize that small, incremental changes can lead to qualitatively different categories, and avoid arguments based on the assumption that small differences are never relevant.
 
-<!--t src=705e53d4-->
+<!--t src=426544a6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/vagheit) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/vagheit)

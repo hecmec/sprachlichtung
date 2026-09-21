@@ -79,5 +79,5 @@ custom_translation_overwritten: false
 4. b) Productive doubt leads to further investigation, unproductive doubt leads to intellectual paralysis
 5. a) Practising intellectual humility and reflecting on the limits of one's own knowledge
 
-<!--t src=befe573d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/090-quiz-intellektuelle-tugenden-und-laster.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/090-quiz-intellektuelle-tugenden-und-laster.md)
+<!--t src=6367bd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster)

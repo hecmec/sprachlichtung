@@ -71,3 +71,5 @@ Cette forme d’acceptation repose sur :
 L’argument d’autorité est **l’ennemi naturel de la pensée critique**, car il évite la discussion rationnelle. Toutefois, dans une société complexe, **la confiance dans certaines autorités (scientifiques, techniques)** peut être nécessaire, à condition de **rester vigilant** face aux abus de pouvoir et à l’opacité des décisions.
 
 > La pensée critique ne rejette pas toute autorité, mais exige qu’elle soit **justifiée, transparente et discutable**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-argument-d-authorite) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-argument-d-authorite)

@@ -361,5 +361,5 @@ La pensée critique est essentielle pour participer de manière constructive aux
 4. Réfléchir à ses propres valeurs et priorités et les rendre explicites
 5. Rechercher des intérêts communs, même en cas de positions divergentes
 
-<!--t src=4568e854-->
-[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md)
+<!--t src=6ec782b6-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/praktische-strategien-fuer-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/praktische-strategien-fuer-kritisches-denken)

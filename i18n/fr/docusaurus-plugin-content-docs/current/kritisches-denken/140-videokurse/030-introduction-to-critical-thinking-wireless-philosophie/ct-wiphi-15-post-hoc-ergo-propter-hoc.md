@@ -207,3 +207,5 @@ Conclure que Y a causé X du seul fait que X a suivi Y, c'est le sophisme post h
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc)

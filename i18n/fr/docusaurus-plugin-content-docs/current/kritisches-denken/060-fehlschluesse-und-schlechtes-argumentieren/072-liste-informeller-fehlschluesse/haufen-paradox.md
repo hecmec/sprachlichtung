@@ -111,6 +111,6 @@ L'absence de seuil exact de richesse ne réfute pas l'existence de riches et de 
 - [Wikipédia : Paradoxe sorite](https://fr.wikipedia.org/wiki/Paradoxe_sorite)
 - [Logically Fallacious: Continuum Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Continuum-Fallacy)
 
-<!--t src=ea075d50-->
+<!--t src=7407dddd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/haufen-paradox) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/haufen-paradox)

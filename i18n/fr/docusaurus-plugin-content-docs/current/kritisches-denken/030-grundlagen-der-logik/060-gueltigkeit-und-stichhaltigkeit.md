@@ -145,6 +145,6 @@ La distinction entre validité et solidité est importante pour la pensée criti
    - Les erreurs formelles (invalidité)
    - Les erreurs de contenu (prémisses fausses)
 
-<!--t src=e05ad641-->
+<!--t src=0d95cb12-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit)

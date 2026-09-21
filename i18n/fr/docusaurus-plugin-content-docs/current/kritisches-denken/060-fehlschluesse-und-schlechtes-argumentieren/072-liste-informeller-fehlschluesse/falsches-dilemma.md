@@ -112,6 +112,6 @@ Il existe d'autres options (d'autres économies, des recettes supplémentaires, 
 - [Wikipédia : Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
 - [Logically Fallacious: False Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)
 
-<!--t src=d4b60513-->
+<!--t src=fbf177f8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsches-dilemma) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsches-dilemma)

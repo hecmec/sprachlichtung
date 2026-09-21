@@ -111,6 +111,6 @@ L'oxygène favorise la combustion, l'hydrogène est même lui-même inflammable 
 - [Wikipedia: Fallacy of division](https://en.wikipedia.org/wiki/Fallacy_of_division)
 - [Logically Fallacious: Division](https://www.logicallyfallacious.com/logicalfallacies/Division)
 
-<!--t src=253680fe-->
+<!--t src=96b51e86-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/trugschluss-der-division) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/trugschluss-der-division)

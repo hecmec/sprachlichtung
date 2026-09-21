@@ -23,4 +23,4 @@ Kritisches Denken ist keine abstrakte intellektuelle Übung, sondern eine prakti
 
 In diesem Kapitel werden wir praktische Strategien und Werkzeuge für kritisches Denken in verschiedenen Kontexten kennenlernen, Hindernisse für kritisches Denken identifizieren und Wege zu ihrer Überwindung erkunden sowie einen persönlichen Entwicklungsplan für kontinuierliches Wachstum als kritischer Denker erstellen.
 
-[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/einfuehrung)

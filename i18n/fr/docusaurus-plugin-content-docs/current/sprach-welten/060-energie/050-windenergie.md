@@ -91,6 +91,6 @@ Qui veut juger de façon autonome demande donc : à qui appartient le parc éoli
 
 [^wind]: Données sur l'éolien chez 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et chez 🇩🇪 le [Fraunhofer ISE](https://www.ise.fraunhofer.de/) ; la part actuelle dans le mix électrique est indiquée par 🇩🇪 les [Energy-Charts](https://www.energy-charts.info/), pour la France par 🇫🇷 [RTE éCO2mix](https://www.rte-france.com/eco2mix). Tendances de long terme chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-<!--t src=58608174-->
+<!--t src=86a16d8d-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/050-windenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/050-windenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/windenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/windenergie)

@@ -155,6 +155,6 @@ Derrière chaque système d'IA se tiennent un exploitant, une commande et une pe
 
 [^safetyreport]: Yoshua Bengio et al. : _International AI Safety Report_, 2025.
 
-<!--t src=1be3d02c-->
+<!--t src=b462475c-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI)

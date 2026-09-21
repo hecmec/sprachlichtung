@@ -152,6 +152,6 @@ Des techniques spécifiques peuvent aider à réduire certains biais.
 - Contre le biais rétrospectif : consigner ses prévisions avant les événements
 - Contre le biais du statu quo : générer et évaluer activement des alternatives
 
-<!--t src=2771c678-->
+<!--t src=320e2fc9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen)

@@ -69,3 +69,5 @@ import ReactPlayer from 'react-player';
 ## Conclusion
 
 La pensée critique, en s’opposant aux vérités imposées, a servi d’instrument d’émancipation tout au long de l’histoire. Mais elle demeure fragile face aux retours de l’autoritarisme ou du dogmatisme contemporain.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc)

@@ -273,4 +273,4 @@ Dies ist nur ein Überblick; die formale Prüfung der Gültigkeit kommt später.
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments)

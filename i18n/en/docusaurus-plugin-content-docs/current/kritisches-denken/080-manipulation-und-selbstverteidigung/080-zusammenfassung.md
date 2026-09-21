@@ -43,5 +43,5 @@ In this chapter we have dealt with manipulation and defence strategies:
 <!--t src=3ab58961-->
 The ability to recognise manipulation and to resist it is an essential competence of critical thinking. In a world permeated by advertising, political propaganda, disinformation and subtle techniques of influence, critical thinking helps us to make informed and self-determined decisions.
 
-<!--t src=19c045ff-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md)
+<!--t src=0305e284-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung)

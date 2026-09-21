@@ -120,6 +120,6 @@ Tant que personne n'habite sur la Lune, les prémisses sont vraies à vide, et l
 - [Wikipedia: Existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy)
 - [Logically Fallacious: Existential Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy)
 
-<!--t src=c68621d9-->
+<!--t src=d5ecd02f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme)

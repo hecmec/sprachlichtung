@@ -125,6 +125,6 @@ A small, powerful habit of the professionals: **click restraint**. Don't click r
 
 There are classic checking checklists such as the **CRAAP test** (see next page). Caulfield's criticism of them: anyone who works through a page only "from the inside" looks precisely at the features that are easiest to fake. SIFT turns the tables and says: **out of the page, into the context.** Both have their place; SIFT is the faster first reflex.
 
-<!--t src=f779d23f-->
+<!--t src=5b668fa6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/die-sift-methode) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/die-sift-methode)

@@ -85,6 +85,6 @@ custom_translation_overwritten: false
 - **Force** : faible &mdash; logiquement invalide, car il peut y avoir d'autres causes à la fonte de la neige (p. ex. des températures douces sans soleil direct, la pluie, des sources de chaleur artificielles).
 - **Améliorations possibles** : reformuler en un argument abductif : « La neige fond. Une explication possible est que le soleil brille. En l'absence d'autres facteurs, c'est probablement le soleil qui brille. »
 
-<!--t src=f6dfc6a2-->
+<!--t src=5bcd85e8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/loesungen) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/loesungen)

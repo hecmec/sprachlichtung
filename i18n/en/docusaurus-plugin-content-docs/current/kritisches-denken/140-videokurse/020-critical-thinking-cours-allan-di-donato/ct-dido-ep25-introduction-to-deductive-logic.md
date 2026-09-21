@@ -79,3 +79,5 @@ The coming videos will reason with five proposition types. The first, **categori
 - **Biconditional propositions** assert that two components have the same truth value (they are **materially equivalent**), using "if and only if." A biconditional "A if and only if B" unpacks into two hypotheticals (if A then B, and if B then A) and is therefore both a necessary and a sufficient condition.
 
 The next episode begins a multi-part investigation of **categorical logic**, focusing on that first proposition type.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic)

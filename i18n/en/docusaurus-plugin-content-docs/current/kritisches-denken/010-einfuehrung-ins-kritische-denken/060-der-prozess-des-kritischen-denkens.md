@@ -21,7 +21,7 @@ translation_status: auto
 
 <!--t src=5739039a-->
 
-![the process of critical thinking](/img/process_critisches_denken_sprachlichtung.jpg)
+![the process of critical thinking](/img/kd/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->
 
@@ -91,6 +91,6 @@ Critical thinking is a systematic process that can include the following steps:
 - What have we learned from the process?
 - How can we improve our thinking process?
 
-<!--t src=a5a94530-->
+<!--t src=4d45084e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/der-prozess-des-kritischen-denkens) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/der-prozess-des-kritischen-denkens)

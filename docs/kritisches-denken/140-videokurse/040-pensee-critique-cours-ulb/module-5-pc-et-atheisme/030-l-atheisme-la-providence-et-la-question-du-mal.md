@@ -110,4 +110,4 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 
   -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/030-l-atheisme-la-providence-et-la-question-du-mal.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/030-l-atheisme-la-providence-et-la-question-du-mal.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-la-providence-et-la-question-du-mal) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-la-providence-et-la-question-du-mal)

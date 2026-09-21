@@ -90,5 +90,5 @@ Closely connected with epoché is **productive doubt** &mdash; a form of doubt t
 
 **Practical application:** Practise asking specific, targeted questions instead of expressing general scepticism. When you doubt, ask yourself: "What information would help me to reach a well-founded conclusion?" Use doubt as a starting point for exploration, not as an end point.
 
-<!--t src=a7129493-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md)
+<!--t src=f0386a43-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/epoche-und-produktiver-zweifel) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/epoche-und-produktiver-zweifel)

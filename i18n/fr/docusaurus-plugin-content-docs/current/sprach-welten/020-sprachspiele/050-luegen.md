@@ -264,6 +264,6 @@ Souvent, la tromperie ne se présente pas comme un mensonge franc, mais comme un
 - « dommage collatéral » = civils tués.
 - « nettoyage ethnique » : déjà un terme d'embellissement pour désigner l'expulsion et le massacre de masse.
 
-<!--t src=10b30be2-->
+<!--t src=ed4c9dfd-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/050-luegen.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/050-luegen.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/luegen) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/luegen)

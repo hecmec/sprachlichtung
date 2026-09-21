@@ -91,6 +91,6 @@ Trois évolutions rendent la MIL particulièrement urgente aujourd'hui :
 
 L'éducation aux médias n'est donc plus une discipline spécialisée réservée aux journalistes, mais une **compétence du quotidien**, au même titre que la lecture et le calcul.
 
-<!--t src=aa5d7a83-->
+<!--t src=ddc18e03-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/was-ist-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/was-ist-medienkompetenz)

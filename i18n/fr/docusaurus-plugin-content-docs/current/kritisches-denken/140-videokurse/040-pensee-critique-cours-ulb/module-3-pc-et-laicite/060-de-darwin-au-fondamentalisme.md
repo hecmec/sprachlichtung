@@ -70,3 +70,4 @@ Pour la pensée critique, deux points méritent d’être retenus. D’abord, la
 <!-- href="https://www.youtube.com/watch?v=0Xt9Vp3QviA"
   Pensée critique - De Darwin au fondamentalisme protestant - 06 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-de-darwin-au-fondamentalisme) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-de-darwin-au-fondamentalisme)

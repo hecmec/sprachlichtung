@@ -115,6 +115,6 @@ Observez en outre qui parle d'AGI. Le récit de la superintelligence imminente e
 
 [^chinchilla]: Jordan Hoffmann et al. : _Training Compute-Optimal Large Language Models_, NeurIPS, 2022.
 
-<!--t src=c13a9fb5-->
+<!--t src=6ff18a72-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/050-grosse-sprachmodelle.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/050-grosse-sprachmodelle.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/grosse-sprachmodelle) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/grosse-sprachmodelle)

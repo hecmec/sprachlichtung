@@ -175,6 +175,6 @@ Exemples :
 - Une dirigeante qui n'agit ni avec une aversion excessive au risque ni de manière inconsidérée, mais qui décide de façon pondérée.
 - Quelqu'un qui reste serein dans une dispute et qui ne devient ni injurieux ni soumis. -->
 
-<!--t src=29366076-->
+<!--t src=d9087b82-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens)

@@ -202,4 +202,4 @@ Die Kritik an den Dogmen kann **direkt** oder **indirekt** sein, aber in beiden 
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes)

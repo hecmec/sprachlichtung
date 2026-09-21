@@ -78,4 +78,4 @@ Solange niemand auf dem Mond wohnt, sind die Prämissen leer wahr &mdash; und di
 - [Wikipedia: Existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy)
 - [Logically Fallacious: Existential Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme)

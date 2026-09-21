@@ -144,6 +144,6 @@ Une bonne démarche :
 Si, à la partie C, vous avez pensé automatiquement à la recherche d'image inversée, vous êtes déjà au niveau des vérificateurs de faits expérimentés. C'est précisément ce réflexe, _remonter à l'original_, qui les distingue des novices.
 :::
 
-<!--t src=ab710085-->
+<!--t src=b3b221cf-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/uebung-quellenpruefung) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/uebung-quellenpruefung)

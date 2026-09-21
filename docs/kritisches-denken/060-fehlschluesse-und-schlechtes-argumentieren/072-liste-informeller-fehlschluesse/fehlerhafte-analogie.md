@@ -74,4 +74,4 @@ Die Übertragung der medizinischen Bildsprache auf die Gesellschaft setzt Vergle
 - [Wikipedia: False analogy](https://en.wikipedia.org/wiki/Argument_from_analogy#False_analogy)
 - [Logically Fallacious: Weak Analogy](https://www.logicallyfallacious.com/logicalfallacies/Faulty-Analogy)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlerhafte-analogie) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlerhafte-analogie)

@@ -112,6 +112,6 @@ L'inconfort d'une conséquence ne détermine pas si le fait sous-jacent est avé
 - [Wikipedia: Wishful thinking](https://en.wikipedia.org/wiki/Wishful_thinking)
 - [Logically Fallacious: Wishful Thinking](https://www.logicallyfallacious.com/logicalfallacies/Wishful-Thinking)
 
-<!--t src=38ee72af-->
+<!--t src=b6511acb-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/wunschdenken) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/wunschdenken)

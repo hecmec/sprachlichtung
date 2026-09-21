@@ -64,3 +64,5 @@ Straw men are not only used to attack a misrepresented position; politicians als
 ### Key takeaway
 
 Straw men, whether an exaggeration, an oversimplification or a dodge, work by swapping an opponent's real position for an easier target; keeping discussions productive requires grasping the exact position being advanced before attacking it.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-17-straw-man-fallacy) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-17-straw-man-fallacy)

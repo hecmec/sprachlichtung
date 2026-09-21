@@ -124,4 +124,4 @@ Die Fähigkeit, das jeweilige "Spiel" zu erkennen, das gerade gespielt wird, ist
 
 Wer diese Fragen stellt, kann Manipulation besser erkennen, Missverständnisse vermeiden und klarer denken.
 
-[Article en français](/fr/docs/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)
+[Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele)

@@ -323,4 +323,4 @@ Das kratzt nur an der Oberfläche: Der beste Ansatz ist, die Beispiele durchzuge
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity)

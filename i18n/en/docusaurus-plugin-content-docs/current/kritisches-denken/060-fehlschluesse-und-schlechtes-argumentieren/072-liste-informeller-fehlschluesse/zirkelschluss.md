@@ -113,6 +113,6 @@ The truth of the Bible is justified by the Bible itself. The argument presuppose
 
 - [The Fallacy Files: Begging the Question](https://www.fallacyfiles.org/begquest.html)
 
-<!--t src=2ff797cc-->
+<!--t src=9337bf2d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss)

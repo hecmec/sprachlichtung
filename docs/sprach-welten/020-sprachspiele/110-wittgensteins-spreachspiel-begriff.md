@@ -91,4 +91,4 @@ Die Debatte wirkt bis heute nach: Systematische Sprachphilosophen sehen in Wittg
 - [Wikipedia: Sprachspiel](https://de.wikipedia.org/wiki/Sprachspiel)
 - [Philosophische Untersuchungen: Wittgenstein's Hauptwerk](https://de.wikipedia.org/wiki/Philosophische_Untersuchungen)
 
-[Article en français](/fr/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)
+[Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff)

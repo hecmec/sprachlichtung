@@ -166,4 +166,4 @@ Das Verhältnis wirkt auch in die andere Richtung. Die Laizität ist nie ein fü
   Introduction du Module Laïcité
    -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/010-introduction-du-module-3.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/010-introduction-du-module-3.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite)

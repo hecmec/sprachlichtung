@@ -155,6 +155,6 @@ Here too the argument put forward is weak. But the harmfulness of smoking is wel
 - [Wikipedia: Argument from fallacy](https://en.wikipedia.org/wiki/Argument_from_fallacy)
 - [Logically Fallacious: The Fallacy Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Fallacy-Fallacy)
 
-<!--t src=51c2a1f3-->
+<!--t src=14a0bdf4-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/argumentum-ad-logicam) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/argumentum-ad-logicam)

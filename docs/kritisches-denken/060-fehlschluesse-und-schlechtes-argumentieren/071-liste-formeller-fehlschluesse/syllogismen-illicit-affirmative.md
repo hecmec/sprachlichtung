@@ -78,4 +78,4 @@ Auch hier wird aus reinem Einschluss (bejahend) ein Ausschluss (verneinend) beha
 - [Wikipedia: Negative conclusion from affirmative premises](https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises)
 - [Logically Fallacious: Negative Conclusion from Affirmative Premises](https://www.logicallyfallacious.com/logicalfallacies/Negative-Conclusion-from-Affirmative-Premises)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-illicit-affirmative.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-affirmative) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-illicit-affirmative)

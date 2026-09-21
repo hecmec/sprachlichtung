@@ -55,5 +55,5 @@ We have learned:
 
 Cultivating intellectual virtues and overcoming intellectual vices is important not only for academic or philosophical purposes, but has practical effects on our daily lives, our decisions and our relationships with others. Through conscious effort and continuous reflection, we can develop our intellectual character traits and become better thinkers and communication partners.
 
-<!--t src=d6ad1a8a-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/080-zusammenfassung.md)
+<!--t src=019a7c60-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/zusammenfassung)

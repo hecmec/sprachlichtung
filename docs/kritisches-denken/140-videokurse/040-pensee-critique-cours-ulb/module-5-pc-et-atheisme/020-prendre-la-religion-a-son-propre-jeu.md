@@ -99,4 +99,4 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 
 -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/020-prendre-la-religion-a-son-propre-jeu.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/020-prendre-la-religion-a-son-propre-jeu.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu)

@@ -118,6 +118,6 @@ La croyance en un monde juste est étroitement liée à plusieurs autres biais e
 - Lerner, M. J. (1980) : The Belief in a Just World: A Fundamental Delusion. Plenum Press.
 - Furnham, A. (2003) : « Belief in a just world: research progress over the past decade ». Personality and Individual Differences.
 
-<!--t src=a610bfff-->
+<!--t src=44a8ba71-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/300-Gerechte-Welt-Glaube.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Gerechte-Welt-Glaube) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Gerechte-Welt-Glaube)

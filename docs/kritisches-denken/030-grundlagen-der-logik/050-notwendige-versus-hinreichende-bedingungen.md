@@ -77,4 +77,4 @@ Analyse:
 - Der Fehlschluss besteht darin, eine notwendige Bedingung als hinreichend zu behandeln.
 - Korrekt wäre: Schnelles Laufen ist notwendig, aber nicht hinreichend, um ein guter Fußballspieler zu sein.
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/notwendige-versus-hinreichende-bedingungen)

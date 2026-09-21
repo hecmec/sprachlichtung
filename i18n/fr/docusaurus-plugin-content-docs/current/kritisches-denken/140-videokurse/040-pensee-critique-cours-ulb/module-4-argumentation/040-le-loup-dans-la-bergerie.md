@@ -85,3 +85,4 @@ C’est là qu’intervient le test du **public captif**, qui offre un critère 
 <!-- href="https://www.youtube.com/watch?v=BsKglbaOmR8"
   Pensée critique - Le "Loup" dans la bergerie - 04 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-le-loup-dans-la-bergerie) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-le-loup-dans-la-bergerie)

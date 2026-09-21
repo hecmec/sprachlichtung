@@ -65,3 +65,5 @@ The lesson is to gather all the evidence you can and consider all of it before d
 ### Key takeaway
 
 Abductive arguments are a kind of ampliative argument: their premises do not guarantee their conclusions, but offer them as the best explanation of what the premises report. Good explanations fit our background knowledge and are simpler than the alternatives, and any abductive argument stands only as long as no better explanation and no further evidence turns up.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-03-abductive-arguments) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-03-abductive-arguments)

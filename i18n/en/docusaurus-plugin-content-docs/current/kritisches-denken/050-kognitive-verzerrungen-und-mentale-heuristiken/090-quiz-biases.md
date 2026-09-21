@@ -91,6 +91,6 @@ custom_translation_overwritten: false
 4. c) The tendency of people with low abilities to overestimate themselves, and of experts to underestimate themselves
 5. b) Actively seek information that contradicts one's own beliefs
 
-<!--t src=5a3fafc2-->
+<!--t src=55517454-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/quiz-biases) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/quiz-biases)

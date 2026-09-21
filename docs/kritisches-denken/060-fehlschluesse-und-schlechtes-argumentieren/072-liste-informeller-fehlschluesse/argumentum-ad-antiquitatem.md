@@ -72,4 +72,4 @@ Jahrhundertelange Anwendung ersetzt keinen Wirksamkeitsnachweis. Auch unwirksame
 - [Wikipedia: Appeal to tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition)
 - [Logically Fallacious: Appeal to Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-antiquitatem) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-antiquitatem)

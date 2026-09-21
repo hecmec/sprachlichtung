@@ -184,6 +184,6 @@ The fallacy of division is the opposite of the fallacy of composition: it is wro
 **Brain example**
 "The brain can think, so the neurons can think."
 
-<!--t src=cca80611-->
+<!--t src=4f6b3968-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/ambiguitaetsfehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/ambiguitaetsfehlschluesse)

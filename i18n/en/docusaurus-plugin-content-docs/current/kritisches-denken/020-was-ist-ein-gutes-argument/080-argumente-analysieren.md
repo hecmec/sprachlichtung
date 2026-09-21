@@ -105,6 +105,6 @@ Only the reconstruction makes a fair evaluation possible. With the exposed struc
 
 On the next pages we go deeper into tracking down hidden assumptions and practice the analysis on concrete examples.
 
-<!--t src=ab0b12d7-->
+<!--t src=c14db0bd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren)

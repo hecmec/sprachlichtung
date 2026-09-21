@@ -95,6 +95,6 @@ custom_translation_overwritten: false
 4. b) "Democracy is angry about the election results."
 5. b) Stipulative definition
 
-<!--t src=8930bf81-->
+<!--t src=a039ad34-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen)

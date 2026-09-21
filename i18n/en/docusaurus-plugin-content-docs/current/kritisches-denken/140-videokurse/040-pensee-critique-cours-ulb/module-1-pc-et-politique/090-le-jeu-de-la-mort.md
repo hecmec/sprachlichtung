@@ -208,3 +208,5 @@ source: _[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mor
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-jeu-de-la-mort) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-jeu-de-la-mort)

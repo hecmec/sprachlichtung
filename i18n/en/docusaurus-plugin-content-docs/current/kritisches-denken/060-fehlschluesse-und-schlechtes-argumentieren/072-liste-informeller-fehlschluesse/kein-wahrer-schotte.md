@@ -113,6 +113,6 @@ The definition of „devout“ is narrowed after the fact so that the claim beco
 
 - [Logically Fallacious: No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
 
-<!--t src=abdb06d5-->
+<!--t src=10183a4b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte)

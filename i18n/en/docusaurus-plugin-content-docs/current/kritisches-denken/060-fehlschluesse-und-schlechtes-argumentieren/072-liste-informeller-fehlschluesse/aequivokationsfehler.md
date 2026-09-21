@@ -111,6 +111,6 @@ Also known as: _equivocation_
 
 - [Logically Fallacious: Equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)
 
-<!--t src=38cac6b6-->
+<!--t src=243a6800-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/aequivokationsfehler) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/aequivokationsfehler)

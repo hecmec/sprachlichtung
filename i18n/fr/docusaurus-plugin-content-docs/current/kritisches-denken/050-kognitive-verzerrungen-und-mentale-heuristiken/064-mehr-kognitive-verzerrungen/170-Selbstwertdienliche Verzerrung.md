@@ -130,6 +130,6 @@ Les compliments sont pris au sérieux, la critique balayée comme « hypersensib
   Biais d'auto-complaisance
   Les biais qui servent à maintenir une image de soi positive et cohérente.
 
-<!--t src=b4713c0a-->
+<!--t src=d88cd128-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung)

@@ -82,3 +82,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=KxCWL9Fyppo"
   Pensée critique - Réactions au nom de la pensée critique et de la laïcité - 14 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-reactions-au-nom-de-la-pensee-critique) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-reactions-au-nom-de-la-pensee-critique)

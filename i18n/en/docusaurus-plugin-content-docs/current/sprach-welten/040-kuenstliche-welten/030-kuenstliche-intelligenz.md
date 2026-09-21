@@ -119,6 +119,6 @@ What remains unchanged through all of it: these are automata estimating probabil
 
 [^tesler]: Attributed after Douglas R. Hofstadter: _Gödel, Escher, Bach_, Basic Books, 1979, where the formula is quoted as "Tesler's Theorem".
 
-<!--t src=eff6afcb-->
+<!--t src=a71e35e2-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/kuenstliche-intelligenz) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/kuenstliche-intelligenz)

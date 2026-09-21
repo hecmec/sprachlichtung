@@ -83,6 +83,6 @@ Identify the premises and conclusion in the following arguments. Also determine 
    Validity: Valid (categorical syllogism)
    Hidden assumptions: The truth of the first premise is questionable
 
-<!--t src=76618d81-->
+<!--t src=20143389-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen) | [Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/uebung-identifizierung-von-praemissen-und-schlussfolgerungen)

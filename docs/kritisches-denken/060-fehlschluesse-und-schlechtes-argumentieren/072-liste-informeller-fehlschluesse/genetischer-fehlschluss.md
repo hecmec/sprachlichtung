@@ -73,4 +73,4 @@ Wie eine Idee entstanden ist, sagt nichts über ihre Richtigkeit. Auch eine Eing
 - [Wikipedia: Genetic fallacy](https://en.wikipedia.org/wiki/Genetic_fallacy)
 - [Logically Fallacious: Genetic Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss)

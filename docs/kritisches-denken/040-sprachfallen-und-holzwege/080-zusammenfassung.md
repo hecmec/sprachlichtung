@@ -35,4 +35,4 @@ In diesem Kapitel haben wir verschiedene sprachliche Fallstricke untersucht, die
 
 Das Bewusstsein für diese sprachlichen Fallstricke und die Anwendung der vorgestellten Strategien können uns helfen, präziser zu denken, klarer zu kommunizieren und Manipulationsversuche besser zu durchschauen.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung)

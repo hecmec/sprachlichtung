@@ -139,6 +139,6 @@ Quelqu'un prêche l'équilibre entre vie professionnelle et vie privée, mais tr
 - [YouTube : Sprouts Deutschland, Kognitive Dissonanz - Der Kampf der gegensätzlichen Glaubenssätze](https://www.youtube.com/watch?v=5wWqChGRWsM)
 - [YouTube : Simon Josef Eckert, Kognitive Dissonanz - Ein Experiment von Festinger und Carlsmith von 1959](https://www.youtube.com/watch?v=xFrLNVnRfH4)
 
-<!--t src=607ef8b2-->
+<!--t src=58f04b3d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/080-Kognitive%20Dissonanz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Kognitive%20Dissonanz) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Kognitive%20Dissonanz)

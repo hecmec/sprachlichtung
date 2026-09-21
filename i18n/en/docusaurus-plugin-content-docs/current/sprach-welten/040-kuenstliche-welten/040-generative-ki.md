@@ -119,6 +119,6 @@ Images usually come about differently, following the same basic idea. In **diffu
 
 [^diffusion]: Jonathan Ho, Ajay Jain, Pieter Abbeel: _Denoising Diffusion Probabilistic Models_, NeurIPS, 2020.
 
-<!--t src=01135ec1-->
+<!--t src=47623ab7-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/040-generative-ki.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/040-generative-ki.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/generative-ki) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/generative-ki)

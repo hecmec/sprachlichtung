@@ -109,6 +109,6 @@ The reference to supposed common knowledge replaces the argument that ought actu
 
 - [Logically Fallacious: Appeal to the People](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
 
-<!--t src=f0efeccc-->
+<!--t src=611ba0de-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-populum) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-populum)

@@ -180,6 +180,6 @@ Les termes à charge évaluative contiennent des jugements implicites, positifs 
 
 5. **Usage conscient du langage** : faites attention à votre propre choix de mots et à son effet émotionnel possible.
 
-<!--t src=ef6c9f1c-->
+<!--t src=721ae12f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/geladene-sprache) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/geladene-sprache)

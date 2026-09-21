@@ -82,6 +82,6 @@ But the critical view does not end in Stoic humility. Much that long counted as 
 
 [^benjamin]: Walter Benjamin: _Zur Kritik der Gewalt_ (1921; English _Critique of Violence_), in: _Gesammelte Schriften_, vol. II.1, Suhrkamp, Frankfurt a. M. 1977: on the distinction between law-founding and law-preserving violence.
 
-<!--t src=0085fae0-->
+<!--t src=fff8f15a-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/gewalt-und-zwang) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/gewalt-und-zwang)

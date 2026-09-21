@@ -84,3 +84,5 @@ The rest of the episode addresses **translation**: rendering everyday sentences 
 ### Takeaway
 
 Logic is a **language of its own**, and translation is an essential skill. When no simple rule applies, always determine what the statement means and translate that meaning. The next episode continues categorical logic with the **square of opposition** and **immediate inference**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics)

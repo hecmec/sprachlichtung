@@ -115,6 +115,6 @@ Les tentatives de supprimer une information ne font souvent que la rendre vraime
 - Brehm, J. W. (1966) : A theory of psychological reactance. Academic Press.
 - Cialdini, R. (2006) : Influence: The Psychology of Persuasion &mdash; chapitre sur la rareté et la réactance.
 
-<!--t src=d94c2005-->
+<!--t src=53b38cd7-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Reaktanz) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Reaktanz)

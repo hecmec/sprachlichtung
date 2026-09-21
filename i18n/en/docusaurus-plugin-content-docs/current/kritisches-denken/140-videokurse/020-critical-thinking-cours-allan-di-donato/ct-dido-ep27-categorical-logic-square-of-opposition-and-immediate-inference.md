@@ -69,3 +69,5 @@ Two propositions are **logically equivalent** if and only if they always share b
 ### Putting It Together
 
 The transformations can be combined with the square to reach a target statement. Di Donato works a chained example (assuming existential import so that something capable of reasoning exists): starting from a false O proposition, he contraposes it, then applies superalternation and conversion to determine the truth value of the goal statement about humans. Different routes through the square yield the same result. The takeaway is that mastery comes through practice. The next episode turns to **categorical syllogisms**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference)

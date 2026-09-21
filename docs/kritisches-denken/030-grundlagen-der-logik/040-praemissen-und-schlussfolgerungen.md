@@ -83,4 +83,4 @@ Analyse:
 
 Dieses Argument enthält einen logischen Fehler, da es die notwendige Bedingung (Umkreisen der Sonne) mit einer hinreichenden Bedingung verwechselt. Nicht alles, was die Sonne umkreist, ist automatisch ein Planet (z.B. Asteroiden, Kometen).
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/praemissen-und-schlussfolgerungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/praemissen-und-schlussfolgerungen)

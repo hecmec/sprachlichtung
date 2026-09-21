@@ -92,4 +92,4 @@ Spezifische Techniken können helfen, bestimmte Verzerrungen zu reduzieren.
 - Gegen den Rückschaufehler: Vorhersagen vor Ereignissen dokumentieren
 - Gegen den Status-quo-Bias: Aktiv Alternativen generieren und bewerten
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen)

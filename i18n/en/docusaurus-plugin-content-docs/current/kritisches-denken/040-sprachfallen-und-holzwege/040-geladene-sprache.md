@@ -177,6 +177,6 @@ Value-laden terms contain implicit positive or negative evaluations.
 
 5. **Conscious Language Use**: Pay attention to your own word choices and their potential emotional impact.
 
-<!--t src=ef6c9f1c-->
+<!--t src=721ae12f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/geladene-sprache) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/geladene-sprache)

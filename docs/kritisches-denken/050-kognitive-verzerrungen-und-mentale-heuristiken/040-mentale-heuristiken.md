@@ -85,4 +85,4 @@ Menschen beurteilen Risiken als höher, wenn sie negative Gefühle mit ihnen ver
 - Unbewusstheit: Wir sind uns oft nicht bewusst, dass wir Heuristiken verwenden.
 - Resistenz: Sie sind schwer zu überwinden, selbst wenn wir uns ihrer bewusst sind.
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mentale-heuristiken) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mentale-heuristiken)

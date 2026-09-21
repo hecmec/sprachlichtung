@@ -54,4 +54,4 @@ draft: false
 
   Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen Sie doch einfach mal im deutschen Originaltext nach.
 
-[Article en français](/fr/docs/kritisches-denken/001-vorwort.md) | [Article in English](/en/docs/kritisches-denken/001-vorwort.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/vorwort) | [Article in English](pathname:///en/docs/kritisches-denken/vorwort)

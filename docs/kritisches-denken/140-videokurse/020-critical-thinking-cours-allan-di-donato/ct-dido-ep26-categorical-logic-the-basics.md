@@ -379,4 +379,4 @@ Die Logik ist eine **Sprache für sich**, und die Übersetzung ist eine wesentli
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics)

@@ -69,4 +69,4 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/080-la-pensee-critique-l-argumentation-et-la-liberte-d-expression.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/080-la-pensee-critique-l-argumentation-et-la-liberte-d-expression.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression)

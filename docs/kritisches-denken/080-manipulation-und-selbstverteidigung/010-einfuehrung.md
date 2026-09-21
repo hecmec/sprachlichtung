@@ -23,4 +23,4 @@ Manipulation ist der Versuch, das Denken, die Überzeugungen oder das Verhalten 
 
 In diesem Kapitel werden wir verschiedene Manipulationstechniken untersuchen, ihre psychologischen Grundlagen verstehen und Strategien entwickeln, um uns gegen Manipulation zu schützen. Wir werden auch die besonderen Herausforderungen betrachten, die das digitale Zeitalter mit sich bringt, und lernen, wie wir in sozialen Medien und anderen Online-Umgebungen kritisch denken können.
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/010-einfuehrung.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/010-einfuehrung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung)

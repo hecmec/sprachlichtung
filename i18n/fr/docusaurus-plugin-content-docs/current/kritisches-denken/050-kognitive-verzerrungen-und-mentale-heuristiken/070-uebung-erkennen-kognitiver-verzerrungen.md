@@ -90,6 +90,6 @@ Réfléchissez à vos observations :
 
 **Perspective alternative** : même si je ne suis pas d'accord avec la conclusion de l'auteur, certains des faits présentés pourraient être exacts. Je devrais vérifier les sources des statistiques et me demander s'il existe des arguments valides que je devrais prendre en compte.
 
-<!--t src=3a296846-->
+<!--t src=bbba956c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/uebung-erkennen-kognitiver-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/uebung-erkennen-kognitiver-verzerrungen)

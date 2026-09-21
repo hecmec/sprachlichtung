@@ -75,6 +75,6 @@ En cas de doute : **Stop. Qui le dit ? Que disent les autres ? Où est l'origina
 
 La liste complète des sources de ce chapitre se trouve sur la page [Sources](./130-quellen-medienkompetenz.md).
 
-<!--t src=f0c08653-->
+<!--t src=9e67ff32-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/zusammenfassung)

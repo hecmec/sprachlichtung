@@ -112,6 +112,6 @@ La condition spéciale ajoutée après coup immunise l'affirmation contre toute 
 - [Wikipedia: Special pleading](https://en.wikipedia.org/wiki/Special_pleading)
 - [Logically Fallacious: Special Pleading](https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading)
 
-<!--t src=3dfe791c-->
+<!--t src=ba873615-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/forderung-nach-einem-privileg) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/forderung-nach-einem-privileg)

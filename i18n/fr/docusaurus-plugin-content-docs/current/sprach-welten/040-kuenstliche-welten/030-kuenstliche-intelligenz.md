@@ -119,6 +119,6 @@ Ce qui, dans tout cela, ne change pas : ce sont des automates qui estiment des p
 
 [^tesler]: Attribué d'après Douglas R. Hofstadter : _Gödel, Escher, Bach_, Basic Books, 1979, où la formule est citée comme le « théorème de Tesler ».
 
-<!--t src=eff6afcb-->
+<!--t src=a71e35e2-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/030-kuenstliche-intelligenz.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/kuenstliche-intelligenz) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/kuenstliche-intelligenz)

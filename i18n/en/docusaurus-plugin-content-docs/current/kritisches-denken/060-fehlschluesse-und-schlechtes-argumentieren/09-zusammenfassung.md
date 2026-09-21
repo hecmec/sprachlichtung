@@ -77,6 +77,6 @@ Understanding fallacies is an essential part of critical thinking. It helps us t
 - [42 Fallacies PDF](https://aphilosopher.wordpress.com/wp-content/uploads/2010/09/42-fallacies.pdf)
 - [Scribbr / Logical Fallacies](https://www.scribbr.com/fallacies/logical-fallacy/)
 
-<!--t src=a1c4a187-->
+<!--t src=1511ea5a-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/09-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/09-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/zusammenfassung)

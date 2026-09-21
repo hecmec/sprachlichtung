@@ -128,6 +128,6 @@ Recognizing language traps is the first step toward avoiding them. In the follow
 
 At the end of this chapter, you will be able to recognize linguistic pitfalls in arguments, in the media, or in everyday conversations, and to counter them deliberately.
 
-<!--t src=1e72c286-->
+<!--t src=b2bc54b9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen)

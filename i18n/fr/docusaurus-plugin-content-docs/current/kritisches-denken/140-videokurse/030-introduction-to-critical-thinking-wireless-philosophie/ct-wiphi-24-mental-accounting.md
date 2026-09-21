@@ -205,3 +205,5 @@ Parce que nous répartissons naturellement l'argent en comptes mentaux distincts
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting)

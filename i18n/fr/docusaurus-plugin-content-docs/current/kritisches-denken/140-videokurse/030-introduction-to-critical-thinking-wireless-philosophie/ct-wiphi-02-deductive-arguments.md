@@ -347,3 +347,5 @@ Un argument déductif ne mérite notre adhésion qu'en étant solide, et la soli
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-02-deductive-arguments) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-02-deductive-arguments)

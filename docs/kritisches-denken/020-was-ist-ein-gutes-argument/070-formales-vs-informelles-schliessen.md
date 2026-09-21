@@ -75,4 +75,4 @@ Beide Arten des Schließens haben ihre Stärken und Schwächen:
 
 Für kritisches Denken ist es wichtig, beide Arten des Schließens zu verstehen und je nach Kontext angemessen einzusetzen.
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/formales-vs-informelles-schliessen) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/formales-vs-informelles-schliessen)

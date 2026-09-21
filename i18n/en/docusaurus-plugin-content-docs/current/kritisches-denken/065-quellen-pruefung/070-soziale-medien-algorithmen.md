@@ -104,6 +104,6 @@ Does this mean algorithms are harmless? No. The concern merely shifts to the rig
 - **Pause when you are stirred up.** In a feed, strong emotion is often a sign that a piece of content has been optimised for reach, so it is time for [SIFT](040-die-sift-methode.md).
 - **Sharing is spreading.** Every click on "share" is a vote cast for the algorithm. Check first, then share.
 
-<!--t src=b8b41af4-->
+<!--t src=ce981367-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen)

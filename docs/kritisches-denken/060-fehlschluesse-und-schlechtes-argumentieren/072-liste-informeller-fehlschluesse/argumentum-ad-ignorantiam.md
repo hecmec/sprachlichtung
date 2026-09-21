@@ -70,4 +70,4 @@ Eine fehlende Studie ist kein Unbedenklichkeitsnachweis. „Nicht untersucht“ 
 - [Wikipedia: Argumentum ad ignorantiam](https://de.wikipedia.org/wiki/Argumentum_ad_ignorantiam)
 - [Logically Fallacious: Appeal to Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Ignorance)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam)

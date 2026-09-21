@@ -289,4 +289,4 @@ Zunehmend wichtig sind **interdisziplinäre Ansätze**, die Methoden und Perspek
 - Die Umweltwissenschaft integriert Biologie, Chemie, Geologie, Wirtschaftswissenschaften und Politikwissenschaft.
 - Die Wissenschafts- und Technikforschung kombiniert soziologische, historische und philosophische Ansätze.
 
-[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode)

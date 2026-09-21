@@ -112,6 +112,6 @@ Des ingrédients qui ont bon goût ne donnent pas nécessairement ensemble un bo
 - [Wikipedia: Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition)
 - [Logically Fallacious: Composition](https://www.logicallyfallacious.com/logicalfallacies/Composition)
 
-<!--t src=822e70c9-->
+<!--t src=4a2c7ef8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition)

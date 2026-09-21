@@ -44,4 +44,4 @@ Er hat eine treue Anhängerschaft gewonnen, aber auch zahlreiche Kritiker, die s
 
 ... more is coming soon ...
 
-[Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/politische-argumentation/jordan-peterson-psychologe-oder-guru) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/politische-argumentation/jordan-peterson-psychologe-oder-guru)

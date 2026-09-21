@@ -112,6 +112,6 @@ The principle of equality requires treating _like cases alike and unlike cases d
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Sweeping Generalization](https://www.logicallyfallacious.com/logicalfallacies/Sweeping-Generalization)
 
-<!--t src=6c94b61f-->
+<!--t src=02e33c39-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips)

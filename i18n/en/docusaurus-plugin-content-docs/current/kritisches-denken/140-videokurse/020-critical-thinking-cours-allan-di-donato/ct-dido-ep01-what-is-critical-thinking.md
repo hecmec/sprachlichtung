@@ -97,3 +97,5 @@ He considers both views confused about what "right" and "factual" really mean, a
 ### Key takeaway
 
 The central message: **think carefully and precisely**, and **clear up ambiguity first**, because unclear ideas cannot be reasoned about well. Like math, the course builds on its foundations, so mastering the early concepts pays off later. Critical thinking is most valuable precisely in the **hard cases**, where agreed-upon criteria are missing and judgment is difficult.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking)

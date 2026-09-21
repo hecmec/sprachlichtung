@@ -78,5 +78,5 @@ custom_translation_overwritten: false
 4. b) Le doute productif mène à une investigation plus poussée, le doute improductif mène à la paralysie intellectuelle
 5. a) Pratiquer l'humilité intellectuelle et réfléchir aux limites de ses propres connaissances
 
-<!--t src=befe573d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/090-quiz-intellektuelle-tugenden-und-laster.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/090-quiz-intellektuelle-tugenden-und-laster.md)
+<!--t src=6367bd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster)

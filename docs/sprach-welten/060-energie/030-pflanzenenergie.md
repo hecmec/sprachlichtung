@@ -58,4 +58,4 @@ Die emanzipatorische Lehre ist einfach: Lass dich von grünen Etiketten nicht ei
 
 [^energie-wiki]: Grundlagen zu Photosynthese, Biomasse und Bioenergie u. a. bei „Biomasse", in: Wikipedia, [de.wikipedia.org/wiki/Biomasse](https://de.wikipedia.org/wiki/Biomasse), sowie beim [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien). Zur „Teller-oder-Tank"-Debatte siehe [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-[Article en français](/fr/docs/sprach-welten/060-energie/030-pflanzenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/030-pflanzenenergie.md)
+[Article en français](pathname:///fr/docs/sprach-welten/energie/pflanzenenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/pflanzenenergie)

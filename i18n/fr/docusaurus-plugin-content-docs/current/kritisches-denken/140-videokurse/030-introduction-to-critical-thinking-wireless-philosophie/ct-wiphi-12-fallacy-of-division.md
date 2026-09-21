@@ -183,3 +183,5 @@ Ce n'est pas parce que l'eau est mouillée que les molécules d'eau le sont : ce
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division)

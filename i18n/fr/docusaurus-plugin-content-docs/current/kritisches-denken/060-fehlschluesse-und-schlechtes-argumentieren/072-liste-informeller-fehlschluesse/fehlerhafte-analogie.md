@@ -116,6 +116,6 @@ La transposition de l'imagerie médicale à la société présuppose une compara
 - [Wikipedia: False analogy](https://en.wikipedia.org/wiki/Argument_from_analogy#False_analogy)
 - [Logically Fallacious: Weak Analogy](https://www.logicallyfallacious.com/logicalfallacies/Faulty-Analogy)
 
-<!--t src=bd3c6553-->
+<!--t src=e49f2e6e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlerhafte-analogie) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlerhafte-analogie)

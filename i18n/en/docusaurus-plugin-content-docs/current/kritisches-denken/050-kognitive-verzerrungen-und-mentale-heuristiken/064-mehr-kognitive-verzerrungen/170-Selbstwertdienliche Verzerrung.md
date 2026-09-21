@@ -130,6 +130,6 @@ Compliments are taken seriously, criticism is dismissed as "oversensitive" or "a
   Self-serving bias
   The biases that serve to maintain a positive, consistent self-image.
 
-<!--t src=b4713c0a-->
+<!--t src=d88cd128-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung)

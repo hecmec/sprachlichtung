@@ -103,4 +103,4 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 
 **Beispiel:** Der Fall des südkoreanischen Forschers Hwang Woo-suk, der 2004-2005 bahnbrechende Ergebnisse im Bereich des Klonens menschlicher Embryonen veröffentlichte, die sich später als gefälscht herausstellten.
 
-[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung)

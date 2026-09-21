@@ -171,6 +171,6 @@ Le taux de base le dit : il y a bien plus de salariés bien habillés que d'entr
 - Kahneman, D. & Tversky, A. (1973). On the psychology of prediction. Psychological Review, 80(4), 237-251.
 - [Gigerenzer, G. (2002). Reckoning with Risk: Learning to Live with Uncertainty](https://www.amazon.de/Reckoning-Risk-Learning-Live-Uncertainty/dp/0140297863)
 
-<!--t src=e7884daf-->
+<!--t src=933e4f7b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Basisratenfehler) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Basisratenfehler)

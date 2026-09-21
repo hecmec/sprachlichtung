@@ -85,6 +85,6 @@ So Orwell's bitter sentence leads back to the task. The claim that some are more
 - see also Habermas' discourse ethics, especially the principle of universalization (U), according to which a norm is valid only if all those affected could agree to it as participants in a practical discourse. Habermas: _Moralbewußtsein und kommunikatives Handeln_, Suhrkamp 1983.
 - Richard Rorty: _Contingency, Irony, and Solidarity_, 1989.
 
-<!--t src=14f54925-->
+<!--t src=f98a5b96-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/gleichheit) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/gleichheit)

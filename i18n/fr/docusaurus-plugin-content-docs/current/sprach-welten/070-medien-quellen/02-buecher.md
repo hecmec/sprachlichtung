@@ -67,6 +67,6 @@ custom_translation_overwritten: false
 - 🇫🇷 Pierre Bourdieu : _Ce que parler veut dire. L'économie des échanges linguistiques_ (Fayard, 1982)
 - 🇩🇪 [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) (œuvres clés de la sociologie) &mdash; soztheo.de
 
-<!--t src=f57027ce-->
+<!--t src=8c4a2a18-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/070-medien-quellen/02-buecher.md) | [Article in English](/en/docs/sprach-welten/070-medien-quellen/02-buecher.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/medien-quellen/buecher) | [Article in English](pathname:///en/docs/sprach-welten/medien-quellen/buecher)

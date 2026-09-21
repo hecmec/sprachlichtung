@@ -64,4 +64,4 @@ draft: false
 4. c) Überprüfung der Beweise und Berücksichtigung alternativer Erklärungen vor dem Ziehen von Schlussfolgerungen
 5. b) Bestätigungsfehler (Confirmation Bias)
 
-[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens)

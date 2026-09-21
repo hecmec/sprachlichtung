@@ -276,3 +276,5 @@ La vidéo se clôt en rappelant que les propositions catégoriques ne sont pas l
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms)

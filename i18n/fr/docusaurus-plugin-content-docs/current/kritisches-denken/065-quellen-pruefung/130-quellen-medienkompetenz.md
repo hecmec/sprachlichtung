@@ -99,6 +99,6 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇫🇷 [European Journalism Observatory](https://fr.ejo.ch/). Un portail spécialisé en journalisme qui rend accessibles la recherche sur les médias et les tendances du secteur, et permet de jeter un regard dans les coulisses de l'information.
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). La version germanophone du même portail.
 
-<!--t src=c7336ce3-->
+<!--t src=c9395ecc-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz)

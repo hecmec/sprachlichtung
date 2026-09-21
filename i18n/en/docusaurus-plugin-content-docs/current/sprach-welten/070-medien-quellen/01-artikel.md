@@ -82,6 +82,6 @@ custom_translation_overwritten: false
 - 🇩🇪 [Christian Wickert (2025): Jürgen Habermas &mdash; Theorie des kommunikativen Handelns (1981)](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/juergen-habermas-theorie-des-kommunikativen-handelns-1981/) &mdash; soztheo.de
 - 🇩🇪 [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) (Gender-inclusive German: a guide) &mdash; geschicktgendern.de
 
-<!--t src=49987da2-->
+<!--t src=98e842db-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/070-medien-quellen/01-artikel.md) | [Article en français](/fr/docs/sprach-welten/070-medien-quellen/01-artikel.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/medien-quellen/artikel) | [Article en français](pathname:///fr/docs/sprach-welten/medien-quellen/artikel)

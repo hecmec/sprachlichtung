@@ -207,4 +207,4 @@ Ein **Signal des Vorurteils**: wenn eine Person für bestimmte Fakten extreme St
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits)

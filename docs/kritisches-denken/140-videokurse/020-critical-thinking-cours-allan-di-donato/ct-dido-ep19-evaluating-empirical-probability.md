@@ -308,4 +308,4 @@ Das nächste Video wendet sich von der induktiven Wahrscheinlichkeit der **Gewis
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability)

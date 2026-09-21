@@ -131,6 +131,6 @@ Qui souhaite s'entraîner à la lecture latérale avec de vrais exemples trouver
 Vérifier soi-même _ou_ recourir à des vérificateurs de faits sérieux : les deux sont valables. Pour les images, la règle est : **la recherche inversée d'abord.** Elle démasque en quelques secondes la plupart des falsifications « sorties de leur contexte ».
 :::
 
-<!--t src=a94e8662-->
+<!--t src=18fb47db-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge)

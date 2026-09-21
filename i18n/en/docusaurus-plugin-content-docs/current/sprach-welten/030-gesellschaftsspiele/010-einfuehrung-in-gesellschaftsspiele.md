@@ -51,6 +51,6 @@ Some examples of this use of the term "social games" as a social practice are:
 - Competition and collaboration
 - Solidarity and community-building
 
-<!--t src=c1564172-->
+<!--t src=62de8b3f-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele)

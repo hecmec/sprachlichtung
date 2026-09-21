@@ -120,6 +120,6 @@ This confuses $P(\text{trace} \mid \text{innocent})$ with $P(\text{innocent} \mi
 - [Wikipedia: Confusion of the inverse](https://en.wikipedia.org/wiki/Confusion_of_the_inverse)
 - [Wikipedia: Prosecutor's fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
 
-<!--t src=721be3be-->
+<!--t src=cfdf18f6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit)

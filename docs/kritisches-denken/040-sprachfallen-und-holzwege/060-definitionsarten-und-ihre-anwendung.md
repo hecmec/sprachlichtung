@@ -117,4 +117,4 @@ Unabhängig von der Art der Definition gibt es allgemeine Kriterien, die eine gu
 
 5. **Kontextabhängigkeit berücksichtigen**: Akzeptieren Sie, dass in verschiedenen Kontexten unterschiedliche Definitionen angemessen sein können.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/definitionsarten-und-ihre-anwendung) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/definitionsarten-und-ihre-anwendung)

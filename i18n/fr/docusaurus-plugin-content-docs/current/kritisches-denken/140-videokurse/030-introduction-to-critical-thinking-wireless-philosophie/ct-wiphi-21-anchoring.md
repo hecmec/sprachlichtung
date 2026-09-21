@@ -153,3 +153,5 @@ Parce que les ancres, même arbitraires, attirent nos estimations vers elles, ve
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring)

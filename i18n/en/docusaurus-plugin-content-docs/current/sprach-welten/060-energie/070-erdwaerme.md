@@ -91,6 +91,6 @@ Whoever wants to judge in a self-determined way guards here against two exaggera
 
 [^geo]: Basics and data on geothermal energy at the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) and at [Fraunhofer ISE](https://www.ise.fraunhofer.de/). Worldwide context at [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-<!--t src=14939d05-->
+<!--t src=f41854c6-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/070-erdwaerme.md) | [Article en français](/fr/docs/sprach-welten/060-energie/070-erdwaerme.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/erdwaerme) | [Article en français](pathname:///fr/docs/sprach-welten/energie/erdwaerme)

@@ -91,6 +91,6 @@ Dans de nombreuses régions du monde, d'ailleurs, des animaux tirent toujours la
 
 [^energie-wiki]: Sur l'origine de l'unité « cheval-vapeur » et sur la notion de puissance, voir 🇫🇷 « Cheval-vapeur », dans : Wikipédia, [fr.wikipedia.org/wiki/Cheval-vapeur](https://fr.wikipedia.org/wiki/Cheval-vapeur), et 🇩🇪 « Pferdestärke », dans : Wikipedia, [de.wikipedia.org/wiki/Pferdestärke](https://de.wikipedia.org/wiki/Pferdest%C3%A4rke), ainsi que, plus généralement, 🇫🇷 « Énergie », dans : Wikipédia, [fr.wikipedia.org/wiki/Énergie](https://fr.wikipedia.org/wiki/%C3%89nergie) et 🇩🇪 « Energie », dans : Wikipedia, [de.wikipedia.org/wiki/Energie](https://de.wikipedia.org/wiki/Energie).
 
-<!--t src=15d097b5-->
+<!--t src=bb774206-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/025-tierenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/025-tierenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/tierenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/tierenergie)

@@ -138,6 +138,6 @@ Du jargon financier ou juridique dans les courriels et les rapports ; les équip
 - Heath, C., & Heath, D. (2007). Made to Stick — chapitre : la malédiction du savoir.
 - Kahneman, D. (2011). Système 1 / Système 2 : Les deux vitesses de la pensée — passages sur les pièges de la communication.
 
-<!--t src=c22c9f31-->
+<!--t src=3370fafa-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Wissensfluch) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Wissensfluch)

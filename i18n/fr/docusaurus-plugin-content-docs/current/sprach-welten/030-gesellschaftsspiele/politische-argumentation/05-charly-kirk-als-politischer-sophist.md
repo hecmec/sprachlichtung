@@ -419,6 +419,6 @@ Il semble ignorer que **la plupart des climatologues ne sont pas marxistes** et 
 [6]: https://twitter.com/i/grok/share/08fPPyozhw8cpBmd8muw16KQU "X"
 [7]: https://science.feedback.org/review/in-viral-turning-point-usa-video-candace-owens-and-charlie-kirk-falsely-claim-there-is-no-evidence-of-global-warming-and-scientists-dont-know-the-cause/ "In viral Turning Point USA video, Candace Owens and Charlie Kirk falsely claim there is no evidence of global warming and scientists don’t know the cause - Science Feedback"
 
-<!--t src=2fb1488d-->
+<!--t src=74f605c2-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/05-charly-kirk-als-politischer-sophist.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/05-charly-kirk-als-politischer-sophist.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/politische-argumentation/charly-kirk-als-politischer-sophist) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/politische-argumentation/charly-kirk-als-politischer-sophist)

@@ -91,6 +91,6 @@ custom_translation_overwritten: false
 4. c) La tendance des personnes peu compétentes à se surestimer et celle des experts à se sous-estimer
 5. b) Rechercher activement des informations qui contredisent ses propres convictions
 
-<!--t src=5a3fafc2-->
+<!--t src=55517454-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/quiz-biases) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/quiz-biases)

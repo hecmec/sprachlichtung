@@ -69,4 +69,4 @@ Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere k
 
 4. **Bewusstsein für Sorites-Probleme**: Erkennen Sie, dass kleine, inkrementelle Änderungen zu qualitativ unterschiedlichen Kategorien führen können, und vermeiden Sie Argumente, die auf der Annahme basieren, dass kleine Unterschiede nie relevant sind.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/vagheit) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/vagheit)

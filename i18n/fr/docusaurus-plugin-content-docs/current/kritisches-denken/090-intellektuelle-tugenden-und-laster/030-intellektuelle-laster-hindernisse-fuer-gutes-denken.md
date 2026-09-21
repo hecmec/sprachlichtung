@@ -213,5 +213,5 @@ Le **conformisme intellectuel** est la tendance à adopter des convictions et de
 <!--t src=9c0e5cdf-->
 **Stratégie pour le surmonter :** Développez votre autonomie intellectuelle en examinant vos convictions à l'aune de leur justification, indépendamment de qui les défend. Exercez-vous à vous forger votre propre opinion avant de consulter celle des autres.
 
-<!--t src=74c45c01-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md)
+<!--t src=4c0ba077-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken)

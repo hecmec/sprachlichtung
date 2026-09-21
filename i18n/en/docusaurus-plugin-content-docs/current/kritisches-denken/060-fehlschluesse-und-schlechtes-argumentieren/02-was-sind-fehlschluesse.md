@@ -97,6 +97,6 @@ As we have already said, many good arguments are not formally logically valid an
 
 Below we will look at the most important fallacies from each category.
 
-<!--t src=0ca03c70-->
+<!--t src=43e12202-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse)

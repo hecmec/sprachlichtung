@@ -117,6 +117,6 @@ Au lieu d'examiner l'affirmation, on attaque la formation de la personne. L'abse
 - [Wikipédia : Argumentum ad hominem](https://fr.wikipedia.org/wiki/Argumentum_ad_hominem)
 - [Logically Fallacious: Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)
 
-<!--t src=f2b250f9-->
+<!--t src=5650c902-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem)

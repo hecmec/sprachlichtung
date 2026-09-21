@@ -71,4 +71,4 @@ Dass ein Ereignis Folgen hat, heisst nicht, dass es _zu einem Zweck_ eintrat. Si
 - [Wikipedia: Teleologie](https://de.wikipedia.org/wiki/Teleologie)
 - [Logically Fallacious: Teleological (Design) Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Design-Fallacy)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum)

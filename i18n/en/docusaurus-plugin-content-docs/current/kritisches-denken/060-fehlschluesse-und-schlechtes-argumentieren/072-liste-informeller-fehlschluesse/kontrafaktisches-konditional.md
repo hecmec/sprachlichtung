@@ -109,6 +109,6 @@ A different pass would have had countless consequences &mdash; the opponent too 
 
 - [Wikipedia: Counterfactual conditional](https://en.wikipedia.org/wiki/Counterfactual_conditional)
 
-<!--t src=37a8b181-->
+<!--t src=6252959d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kontrafaktisches-konditional) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kontrafaktisches-konditional)

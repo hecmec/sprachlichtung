@@ -130,6 +130,6 @@ Add up your points based on your answers (1-5 for each question) to get a total 
 Note that this self-assessment is subjective and may be influenced by cognitive biases.
 It serves as a starting point for your personal development in critical thinking.
 
-<!--t src=ab7a25eb-->
+<!--t src=3d38ba58-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung)

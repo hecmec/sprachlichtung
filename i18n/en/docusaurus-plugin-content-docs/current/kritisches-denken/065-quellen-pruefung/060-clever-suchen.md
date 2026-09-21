@@ -117,6 +117,6 @@ Wikipedia is an excellent **springboard**: get an overview, then follow the foot
 
 A useful side effect: looking up the Wikipedia entry of _another_ source is itself a form of lateral reading: this is how you quickly find out who is behind a newspaper, an association or an institute.
 
-<!--t src=1f8aa695-->
+<!--t src=11166441-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/clever-suchen) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/clever-suchen)

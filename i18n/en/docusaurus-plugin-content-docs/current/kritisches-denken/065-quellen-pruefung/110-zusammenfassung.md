@@ -75,6 +75,6 @@ When in doubt: **Stop. Who says this? What do others say? Where is the original?
 
 The complete list of sources for this chapter can be found on the [Sources](./130-quellen-medienkompetenz.md) page.
 
-<!--t src=f0c08653-->
+<!--t src=9e67ff32-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/110-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/zusammenfassung)

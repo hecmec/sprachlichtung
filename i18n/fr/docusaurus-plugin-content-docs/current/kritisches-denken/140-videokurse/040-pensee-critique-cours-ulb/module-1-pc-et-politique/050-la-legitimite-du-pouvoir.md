@@ -71,3 +71,5 @@ Cette vidéo traite de la **légitimité du pouvoir politique**, en distinguant 
 La **légitimité véritable** d’un pouvoir ne peut s’établir durablement sans **adhésion rationnelle**.
 La pensée critique est essentielle pour distinguer entre **soumission aveugle** et **obéissance éclairée**.
 Les régimes qui négligent cette légitimité rationnelle finissent toujours par s’effondrer.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-legitimite-du-pouvoir) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-legitimite-du-pouvoir)

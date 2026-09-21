@@ -1049,6 +1049,6 @@ The sociologist investigates why errors, conspiracy theories and false informati
 
 [^gegen-sokal]: The book, too, did not go unchallenged. Critics accused the authors of tearing quotations out of context, of taking metaphors literally and of inferring from a single prank to whole disciplines. Sokal and Bricmont themselves stress that they are not judging the thought of the authors named as a whole, but only the misuse of scientific concepts. The debate is thus itself an object lesson: both sides have to submit to the same scrutiny they demand of the other.
 
-<!--t src=54aff685-->
+<!--t src=2c0acd94-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md) | [Article en français](/fr/docs/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/philosophie/geschichte-und-quellen-des-kritischen-denkens) | [Article en français](pathname:///fr/docs/sprach-welten/philosophie/geschichte-und-quellen-des-kritischen-denkens)

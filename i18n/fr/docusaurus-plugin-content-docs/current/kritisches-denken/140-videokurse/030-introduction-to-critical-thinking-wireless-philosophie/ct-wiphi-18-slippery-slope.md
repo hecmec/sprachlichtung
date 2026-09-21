@@ -198,3 +198,5 @@ Un argument de la pente glissante ne vaut que ce que vaut la chaîne qui relie s
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope)

@@ -174,3 +174,5 @@ Regimes that neglect this rational legitimacy always end up collapsing.
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-legitimite-du-pouvoir) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-legitimite-du-pouvoir)

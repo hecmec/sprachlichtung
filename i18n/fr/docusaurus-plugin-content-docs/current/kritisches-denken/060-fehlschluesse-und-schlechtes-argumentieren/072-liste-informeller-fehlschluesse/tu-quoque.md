@@ -114,6 +114,6 @@ Même si le contre-reproche était fondé, il n'invaliderait pas la critique ini
 - [Wikipédia : Tu quoque](https://fr.wikipedia.org/wiki/Tu_quoque)
 - [Logically Fallacious: Tu Quoque](https://www.logicallyfallacious.com/logicalfallacies/Tu-Quoque)
 
-<!--t src=07d6b232-->
+<!--t src=14498bcb-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/tu-quoque) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/tu-quoque)

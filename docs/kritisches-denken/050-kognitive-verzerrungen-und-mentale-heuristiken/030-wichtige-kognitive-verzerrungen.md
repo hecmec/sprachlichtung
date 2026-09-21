@@ -203,4 +203,4 @@ Der **Gruppendenkeffekt** beschreibt die Tendenz in Gruppen, nach Konsens zu str
 - Anonyme Abstimmungen oder Feedback, um sozialen Druck zu reduzieren
 - Externe Perspektiven einholen
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen)

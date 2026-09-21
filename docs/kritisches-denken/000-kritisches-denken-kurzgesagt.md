@@ -410,4 +410,4 @@ flowchart LR
 
 Nach diesem sehr kondensierten Überblick über das kritische Denken kommen wir nun zu den Details!
 
-[Article en français](/fr/docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md) | [Article in English](/en/docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-kurzgesagt) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-kurzgesagt)

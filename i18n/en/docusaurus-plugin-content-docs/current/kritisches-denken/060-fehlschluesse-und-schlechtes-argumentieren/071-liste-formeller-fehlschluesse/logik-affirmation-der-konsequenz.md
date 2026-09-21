@@ -119,6 +119,6 @@ A fever can have many other causes. The inference from the effect (fever) to a p
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 - [Logically Fallacious: Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)
 
-<!--t src=4109e58d-->
+<!--t src=cec624d1-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz)

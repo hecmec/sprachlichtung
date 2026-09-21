@@ -139,6 +139,6 @@ Understanding fulfils essential social functions:
 
 In a pluralistic and globalized world, the language game of understanding becomes a key competence for successful coexistence. It remains, however, always a paradoxical challenge: despite all efforts we can never fully step into another's shoes &mdash; and precisely this awareness of incompleteness belongs to true understanding.
 
-<!--t src=c05f5729-->
+<!--t src=bb856f8e-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/080-verstehen.md) | [Article en français](/fr/docs/sprach-welten/020-sprachspiele/080-verstehen.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/verstehen) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/verstehen)

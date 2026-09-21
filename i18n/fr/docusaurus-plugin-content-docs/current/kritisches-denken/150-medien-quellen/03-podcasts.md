@@ -58,3 +58,7 @@ custom_translation_overwritten: false
   - « A podcast that's enthusiastic about linguistics » &mdash; solide et divertissant sur la langue au quotidien.
 - 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) &mdash; Binge Audio
   - La linguiste Laélia Véron sur la langue, le pouvoir et les débats de société autour de la parole.
+
+<!--t src=9724629a-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/medien-quellen/podcasts) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/podcasts)

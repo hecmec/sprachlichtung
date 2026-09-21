@@ -49,4 +49,4 @@ Wir müssen einfach lernen sie zu **prüfen**.
 
 Wir setzen dabei nicht auf Misstrauen gegen alles. Das wäre genauso schädlich wie blindes Vertrauen. Ziel ist eine geübte, gelassene Skepsis: prüfen, bevor man glaubt, und prüfen, bevor man teilt.
 
-[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz)

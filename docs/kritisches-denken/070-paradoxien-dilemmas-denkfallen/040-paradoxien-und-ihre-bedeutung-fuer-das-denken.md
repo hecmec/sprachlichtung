@@ -43,4 +43,4 @@ Die Auseinandersetzung mit Paradoxien fördert kritisches Denken, indem sie uns 
 - Die Grenzen unserer Konzepte zu erkennen
 - Mit Unsicherheit und Ambiguität umzugehen
 
-[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/040-paradoxien-und-ihre-bedeutung-fuer-das-denken.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/040-paradoxien-und-ihre-bedeutung-fuer-das-denken.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken)

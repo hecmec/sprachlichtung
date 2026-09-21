@@ -107,6 +107,6 @@ La bille ne connaît pas les tours précédents. Le noir n'est pas devenu plus p
 - [Wikipédia : Sophisme du joueur](https://fr.wikipedia.org/wiki/Sophisme_du_joueur)
 - [Logically Fallacious: The Gambler's Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Gambler-s-Fallacy)
 
-<!--t src=b3b0b79f-->
+<!--t src=bb07f711-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/spielerfehlschluss) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/spielerfehlschluss)

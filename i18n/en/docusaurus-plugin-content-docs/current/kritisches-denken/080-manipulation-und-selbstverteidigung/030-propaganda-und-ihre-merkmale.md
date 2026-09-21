@@ -127,5 +127,5 @@ It is important to distinguish between legitimate information and propaganda:
 | Respects the autonomy of the audience    | Treats the audience as a manipulable mass       |
 | States sources and methods transparently | Obscures sources and methods                    |
 
-<!--t src=f55352a5-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/030-propaganda-und-ihre-merkmale.md)
+<!--t src=192089b4-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale)

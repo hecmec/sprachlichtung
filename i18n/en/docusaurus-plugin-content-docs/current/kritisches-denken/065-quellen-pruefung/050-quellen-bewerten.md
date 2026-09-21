@@ -171,6 +171,6 @@ Source: SBCC Library, _SIFT & PICK_ ([libguides.sbcc.edu](https://libguides.sbcc
 - [ ] **Evidence** present and traceable to the primary source?
 - [ ] **Cui bono**: who benefits from this?
 
-<!--t src=7eb0a0c1-->
+<!--t src=f19c227d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quellen-bewerten) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/quellen-bewerten)

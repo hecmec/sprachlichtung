@@ -65,4 +65,4 @@ Die gefährlichste Falschmeldung ist die, die wir glauben _wollen_. Gerade bei I
 
 Wie dieses Prüfen praktisch geht, zeigt die nächste Seite, mit der einfachsten und wirksamsten Methode, die es dafür gibt.
 
-[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/die-informationsflut) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/die-informationsflut)

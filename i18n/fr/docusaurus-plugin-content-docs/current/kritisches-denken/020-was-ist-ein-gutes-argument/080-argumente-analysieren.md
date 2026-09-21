@@ -104,6 +104,6 @@ Seule la reconstruction rend possible une évaluation équitable. Avec la struct
 
 Dans les pages suivantes, nous approfondissons la détection des hypothèses cachées et nous nous exerçons à l'analyse sur des exemples concrets.
 
-<!--t src=ab0b12d7-->
+<!--t src=c14db0bd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren)

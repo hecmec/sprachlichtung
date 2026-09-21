@@ -116,5 +116,5 @@ In recent years, various disciplines, particularly psychology and biomedicine, h
 <!--t src=76345507-->
 **Example:** The case of the South Korean researcher Hwang Woo-suk, who in 2004-2005 published groundbreaking results in the field of cloning human embryos that later turned out to be fabricated.
 
-<!--t src=27c29e3b-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md)
+<!--t src=e5ab17a3-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung)

@@ -119,6 +119,6 @@ Le moyen terme « animaux » est non distribué dans les deux prémisses (il ne 
 - [Wikipedia: Fallacy of the undistributed middle](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle)
 - [Logically Fallacious: Fallacy of the Undistributed Middle](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle)
 
-<!--t src=a2c1141d-->
+<!--t src=3f0507d0-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-non-distributio-medii.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-non-distributio-medii) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-non-distributio-medii)

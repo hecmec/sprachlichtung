@@ -93,6 +93,6 @@ In the following chapters we will explore further aspects of critical thinking, 
 
 - 🇩🇪 [agumentation.online](https://argumentation.online): a curated collection of argument reconstructions
 
-<!--t src=2189d79d-->
+<!--t src=471be580-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/zusammenfassung)

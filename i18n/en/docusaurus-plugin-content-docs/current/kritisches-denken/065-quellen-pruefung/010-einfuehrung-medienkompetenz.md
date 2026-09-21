@@ -69,6 +69,6 @@ We simply have to learn to **verify** it.
 
 We are not betting on distrust of everything here. That would be just as harmful as blind trust. The goal is a practised, calm scepticism: check before you believe, and check before you share.
 
-<!--t src=4ec246a6-->
+<!--t src=ab905189-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz)

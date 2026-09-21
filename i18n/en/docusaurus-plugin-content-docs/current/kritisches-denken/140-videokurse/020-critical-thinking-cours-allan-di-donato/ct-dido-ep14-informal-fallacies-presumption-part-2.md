@@ -51,3 +51,5 @@ Assuming the answer **always** lies in the middle between two extremes, the oppo
 ### Where this leads
 
 The next presumption session moves on to the **unjustified assumptions** subgroup, with several more videos still to come.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2)

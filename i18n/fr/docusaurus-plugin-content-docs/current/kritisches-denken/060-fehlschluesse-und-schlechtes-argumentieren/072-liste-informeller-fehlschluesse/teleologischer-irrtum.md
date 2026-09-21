@@ -111,6 +111,6 @@ Qu'un événement ait des conséquences ne signifie pas qu'il s'est produit _dan
 - [Wikipédia : Téléologie](https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9ologie)
 - [Logically Fallacious: Teleological (Design) Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Design-Fallacy)
 
-<!--t src=4f57bbdb-->
+<!--t src=a241d5f6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum)

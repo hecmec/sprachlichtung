@@ -111,6 +111,6 @@ Le fait qu'une chose existe dans la nature ne la rend pas moralement requise. Le
 - [Wikipédia : Sophisme naturaliste](https://fr.wikipedia.org/wiki/Sophisme_naturaliste)
 - [Logically Fallacious: Appeal to Nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)
 
-<!--t src=0a91de2d-->
+<!--t src=d91cbeb7-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/naturalistischer-fehlschluss) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/naturalistischer-fehlschluss)

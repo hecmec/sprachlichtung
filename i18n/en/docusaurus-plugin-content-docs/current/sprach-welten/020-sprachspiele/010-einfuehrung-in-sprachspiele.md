@@ -178,6 +178,6 @@ The ability to recognize the particular "game" being played at any given moment 
 
 Whoever asks these questions can better recognize manipulation, avoid misunderstandings and think more clearly.
 
-<!--t src=05ed0fff-->
+<!--t src=4305cbad-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article en français](/fr/docs/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele)

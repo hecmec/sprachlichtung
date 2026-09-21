@@ -90,6 +90,6 @@ custom_translation_overwritten: false
 4. c) Si A, alors B. Non B. Donc non A.
 5. b) Les substances naturelles sont toujours sûres.
 
-<!--t src=ba9fce6c-->
+<!--t src=aeefc055-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente)

@@ -111,6 +111,6 @@ De notre propre incapacité à nous représenter la technique employée ne déco
 - [Wikipedia: Argument from incredulity](https://en.wikipedia.org/wiki/Argument_from_incredulity)
 - [Logically Fallacious: Argument from Incredulity](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity)
 
-<!--t src=8f56072a-->
+<!--t src=9484b970-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/persoenliche-skepsis) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/persoenliche-skepsis)

@@ -81,3 +81,5 @@ La majorité des participants **va jusqu’au bout**, infligeant des décharges 
 * **Obéir à l’autorité sans réflexion** peut mener à des actes graves, même envers des inconnus.
 * **La pensée critique**, la capacité de dire **non** et de se **mettre à la place de l’autre**, est essentielle pour **prévenir la banalité du mal**.
 * L'expérience de Milgram nous interpelle sur **la responsabilité morale individuelle** face à toute forme d'autorité, même scientifique.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-experience-de-milgram) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-experience-de-milgram)

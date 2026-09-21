@@ -106,4 +106,4 @@ Analysieren Sie eine potenziell pseudowissenschaftliche Behauptung anhand folgen
    - Handelt es sich eher um Wissenschaft oder Pseudowissenschaft?
    - Welche Merkmale waren für Ihre Einschätzung ausschlaggebend?
 
-[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/070-uebung-wissenschaftliche-behauptungen-analysieren.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/070-uebung-wissenschaftliche-behauptungen-analysieren.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren)

@@ -104,4 +104,4 @@ Hier ist unklar, wer als unehrlich bezeichnet wird und wer die Positionen aufgeb
 
 5. **Präzisieren Sie Pronomen**: Ersetzen Sie mehrdeutige Pronomen durch die spezifischen Nomen, auf die sie sich beziehen.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/ambiguitaet-mehrdeutigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/ambiguitaet-mehrdeutigkeit)

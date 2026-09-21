@@ -70,4 +70,4 @@ Hier wird ein abstrakter Begriff (Freiheit) so behandelt, als könnte er eine ph
 
 4. **Kritisches Hinterfragen**: Prüfen Sie, ob Fragen oder Probleme möglicherweise auf kategorialen Verwechslungen beruhen.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/kategorienfehler) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/kategorienfehler)

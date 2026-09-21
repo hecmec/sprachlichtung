@@ -120,6 +120,6 @@ Ici, un concept abstrait (la liberté) est traité comme s'il pouvait posséder 
 
 4. **Questionnement critique** : examinez si des questions ou des problèmes ne reposent pas sur des confusions catégorielles.
 
-<!--t src=c2236398-->
+<!--t src=20ab34b6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/kategorienfehler) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/kategorienfehler)

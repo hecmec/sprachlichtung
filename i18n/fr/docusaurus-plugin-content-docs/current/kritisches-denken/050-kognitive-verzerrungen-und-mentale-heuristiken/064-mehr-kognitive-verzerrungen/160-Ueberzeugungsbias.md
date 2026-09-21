@@ -175,6 +175,6 @@ Les prémisses sont douteuses et la logique défectueuse, mais beaucoup de gens 
 - Klauer, K. C., Musch, J., & Naumer, B. (2000). On belief bias in syllogistic reasoning.
 - Markovits, H., & Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions.
 
-<!--t src=0816e453-->
+<!--t src=21c55e3b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberzeugungsbias) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberzeugungsbias)

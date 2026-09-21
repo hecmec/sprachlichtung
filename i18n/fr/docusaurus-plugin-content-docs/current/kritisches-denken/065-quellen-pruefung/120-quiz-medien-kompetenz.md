@@ -153,6 +153,6 @@ custom_translation_overwritten: false
 9. c) Une recherche d'image inversée
 10. b) L'engagement sur le code de l'IFCN
 
-<!--t src=2a69da4f-->
+<!--t src=b8b551c5-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quiz-medien-kompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quiz-medien-kompetenz)

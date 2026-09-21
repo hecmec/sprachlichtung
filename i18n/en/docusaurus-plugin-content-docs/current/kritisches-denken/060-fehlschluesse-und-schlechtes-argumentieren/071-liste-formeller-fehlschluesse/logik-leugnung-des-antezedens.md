@@ -119,6 +119,6 @@ One can also be ill without a fever (e.g. with a broken bone). The absence of th
 - [Wikipedia: Denying the antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 - [Logically Fallacious: Denying the Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)
 
-<!--t src=e33edc9c-->
+<!--t src=dec08e34-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens)

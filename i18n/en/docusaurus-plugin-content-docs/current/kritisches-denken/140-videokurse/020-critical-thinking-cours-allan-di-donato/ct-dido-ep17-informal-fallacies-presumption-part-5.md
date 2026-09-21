@@ -53,3 +53,5 @@ Crucially, he argues that **having a bias is neither wrong nor irrational**; we 
 ### Conclusion
 
 These four fallacies bring the entire treatment of **informal fallacies** to a close. Di Donato signals that the next video will move on to the **basics of inductive reasoning**, staying within informal logic. The fallacies covered here will remain relevant as the course turns to examining different types of thinking.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5)

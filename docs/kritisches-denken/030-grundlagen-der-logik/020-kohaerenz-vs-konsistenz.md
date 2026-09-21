@@ -67,4 +67,4 @@ Der Hauptunterschied zwischen Konsistenz und Kohärenz lässt sich wie folgt zus
 
 In der Praxis des kritischen Denkens streben wir sowohl nach Konsistenz als auch nach Kohärenz. Konsistenz ist eine notwendige, aber keine hinreichende Bedingung für ein überzeugendes Argument. Ein wirklich starkes Argument muss auch kohärent sein, d.h. seine Bestandteile müssen logisch miteinander verbunden sein und sich gegenseitig stützen.
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/kohaerenz-vs-konsistenz) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/kohaerenz-vs-konsistenz)

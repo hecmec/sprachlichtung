@@ -118,6 +118,6 @@ As long as no one lives on the Moon, the premises are vacuously true &mdash; and
 - [Wikipedia: Existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy)
 - [Logically Fallacious: Existential Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy)
 
-<!--t src=c68621d9-->
+<!--t src=d5ecd02f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-existenz-annahme.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme)

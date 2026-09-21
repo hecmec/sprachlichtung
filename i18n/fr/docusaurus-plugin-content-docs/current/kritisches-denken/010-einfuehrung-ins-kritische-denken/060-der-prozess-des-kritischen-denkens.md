@@ -24,7 +24,7 @@ custom_translation_overwritten: false
 
 <!--t src=5739039a-->
 
-![le processus de la pensée critique](/img/process_critisches_denken_sprachlichtung.jpg)
+![le processus de la pensée critique](/img/kd/process_critisches_denken_sprachlichtung.jpg)
 
 <!--t src=c66d842d-->
 
@@ -94,6 +94,6 @@ La pensée critique est un processus systématique qui peut comporter les étape
 - Qu'avons-nous appris de ce processus ?
 - Comment pouvons-nous améliorer notre processus de pensée ?
 
-<!--t src=a5a94530-->
+<!--t src=4d45084e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/der-prozess-des-kritischen-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/der-prozess-des-kritischen-denkens)

@@ -71,4 +71,4 @@ Die fehlende exakte Reichtumsgrenze widerlegt nicht, dass es Reiche und Arme gib
 - [Wikipedia: Sorites-Paradoxon](https://de.wikipedia.org/wiki/Sorites-Paradoxon)
 - [Logically Fallacious: Continuum Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Continuum-Fallacy)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/haufen-paradox) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/haufen-paradox)

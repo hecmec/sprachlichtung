@@ -161,6 +161,6 @@ Understanding entailment is crucial for critical thinking as it helps us:
 - [Derivation in Logic](https://en.wikipedia.org/wiki/Logical_consequence), Wikipedia
 - [Semantic Entailment](https://en.wikipedia.org/wiki/Logical_consequence), Wikipedia
 
-<!--t src=a053eb58-->
+<!--t src=bac6f4d6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/entailment-semantische-logische-folgerung) | [Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/entailment-semantische-logische-folgerung)

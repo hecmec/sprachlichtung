@@ -103,4 +103,4 @@ Kritisches Denken ist die **Fähigkeit, reflektiert und unabhängig zu denken** 
 In den folgenden Kapiteln vertiefen wir diese Grundlagen und stellen dir praktische Werkzeuge zur Verfügung, um deine kritischen Denkfähigkeiten systematisch zu entwickeln.
 :::
 
-[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/zusammenfassung)

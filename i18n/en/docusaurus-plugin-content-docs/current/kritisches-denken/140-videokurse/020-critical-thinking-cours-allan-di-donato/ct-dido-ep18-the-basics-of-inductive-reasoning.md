@@ -85,3 +85,5 @@ All boil down to one principle: **the more similar the sample and target, the hi
 ### Relative Strength
 
 Evaluating analogies is somewhat **subjective**, depending on how relevant and similar the analogs seem. Rather than seeking absolute strength, ask what would make the argument stronger, or compare it with rival analogies. The Sumerian example (Italian and Spanish must be spoken to prove fluency, so Sumerian must be too) is judged **weak**: the sample is small, not diverse, and ignores that Sumerian is a **dead language**. The next video will turn to **certainty and probability**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep18-the-basics-of-inductive-reasoning)

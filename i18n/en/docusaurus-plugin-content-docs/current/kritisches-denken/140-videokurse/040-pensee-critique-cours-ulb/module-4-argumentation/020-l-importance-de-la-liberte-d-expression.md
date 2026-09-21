@@ -91,3 +91,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=lIz6NCe9Seg"
   Pensée critique - L'Importance de la Liberté d'expression - 02 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-l-importance-de-la-liberte-d-expression) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-l-importance-de-la-liberte-d-expression)

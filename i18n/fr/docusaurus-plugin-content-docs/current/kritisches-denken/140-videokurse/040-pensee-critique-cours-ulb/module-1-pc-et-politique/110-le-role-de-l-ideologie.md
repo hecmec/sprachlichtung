@@ -67,3 +67,5 @@ import ReactPlayer from 'react-player';
 
 * **Moins séduisante que l’idéologie** : Elle ne propose pas de réponse simple, mais un rapport nuancé et exigeant au réel.
 * **Combat contre les simplifications** : Lutter contre les préjugés idéologiques ou religieux nécessite courage, discernement, et rigueur intellectuelle.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-prejuges-ideologiques) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-prejuges-ideologiques)

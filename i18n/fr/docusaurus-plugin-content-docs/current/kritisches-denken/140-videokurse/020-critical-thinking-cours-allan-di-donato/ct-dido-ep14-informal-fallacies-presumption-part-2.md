@@ -205,3 +205,5 @@ La prochaine séance sur la présomption passe au sous-groupe des **hypothèses 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2)

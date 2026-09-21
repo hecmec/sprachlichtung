@@ -72,3 +72,5 @@ Having an **open mind** means listening to and weighing all sides before decidin
 ### Key takeaway
 
 Learn the **names of the common biases**. Having that list in mind makes it far easier to catch yourself in the moment ("that's exactly the bias I'm falling into") and adjust. Ultimately the aim is not to diagnose everyone else, but to **fix and sharpen your own thinking**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias)

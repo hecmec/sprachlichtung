@@ -69,5 +69,5 @@ custom_translation_overwritten: false
 <!--t src=5265e7ea-->
   Donc, si quelque chose vous semble étrange en anglais ou en français, jetez simplement un œil au texte original allemand.
 
-<!--t src=980d95bc-->
-[Artikel auf Deutsch](/docs/kritisches-denken/001-vorwort.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/001-vorwort.md)
+<!--t src=73c2ee3e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/vorwort) | [Article in English](pathname:///en/docs/kritisches-denken/vorwort)

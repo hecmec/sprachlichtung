@@ -60,6 +60,6 @@ Il en découle une double critique. La **solidarité sans justice** dégénère 
 
 Ainsi la solidarité se montre pour ce qu'elle devrait toujours déjà être : ni simple sentiment, ni simple affaire, mais une **pratique d'élargissement**. Elle commence par la réaction à la souffrance proche, prend forme dans des institutions durables et trouve sa mesure dans la reconnaissance de tous comme égaux. Elle est émancipatrice là où elle transforme la dépendance en reconnaissance, et elle reste critique aussi longtemps qu'elle se demande quelle voix manque encore dans le nous solidaire.
 
-<!--t src=bf2a8fe5-->
+<!--t src=794057c9-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/solidaritaet) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/solidaritaet)

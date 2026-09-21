@@ -120,6 +120,6 @@ Expliquer remplit des fonctions sociales centrales :
 
 Dans un monde de plus en plus complexe, où le savoir est spécialisé, savoir expliquer avec compétence devient une aptitude clé pour la cohésion de la société. En même temps, il existe une tension permanente entre la simplification nécessaire et la falsification problématique d'états de choses complexes.
 
-<!--t src=b7042c85-->
+<!--t src=d3718a1c-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/040-erklaeren.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/040-erklaeren.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/erklaeren) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/erklaeren)

@@ -138,6 +138,6 @@ Excessive premiums for device insurance and warranties, in order to avoid small,
   Loss aversion
   The tendency to weight losses more heavily than gains.
 
-<!--t src=ea943aa6-->
+<!--t src=7fbe45a5-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Verlustaversion) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Verlustaversion)

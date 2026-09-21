@@ -120,6 +120,6 @@ Anyone who keeps this in mind reads every statement about AI differently. Not "t
 
 [^bayes]: Thomas Bayes: _An Essay towards solving a Problem in the Doctrine of Chances_, Philosophical Transactions of the Royal Society, 1763 (published posthumously).
 
-<!--t src=a1e7c2d7-->
+<!--t src=2e2daac1-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/progamme-und-wahrscheinlichkeiten) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/progamme-und-wahrscheinlichkeiten)

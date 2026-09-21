@@ -120,6 +120,6 @@ Both statements cannot be true at once. A defense that rests on contradictory pr
 - [Wikipedia: Principle of explosion (ex falso quodlibet)](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [Logically Fallacious: Contradictory Premises](https://www.logicallyfallacious.com/logicalfallacies/Contradictory-Premises)
 
-<!--t src=d6bc47b9-->
+<!--t src=3e2cebf9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen)

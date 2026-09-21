@@ -201,4 +201,4 @@ Darin liegt die dauerhafteste Lehre. Eine Lehre kann das gesamte Vokabular der W
 <!-- href="https://www.youtube.com/watch?v=Mu9FSvKOBBs"
   Pensée critique - "L'affaire KITZMILLER" - 10 - Module 3 -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/100-l-affaire-kitzmiller.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/100-l-affaire-kitzmiller.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller)

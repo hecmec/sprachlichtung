@@ -111,6 +111,6 @@ The protestation of „not wanting to say anything“ carries precisely the impu
 - [Wikipedia: Innuendo](https://en.wikipedia.org/wiki/Innuendo)
 - [Logically Fallacious: Innuendo](https://www.logicallyfallacious.com/logicalfallacies/Innuendo)
 
-<!--t src=88d9c755-->
+<!--t src=e477816c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung)

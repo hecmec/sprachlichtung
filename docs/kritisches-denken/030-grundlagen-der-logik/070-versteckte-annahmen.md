@@ -80,4 +80,4 @@ Das Erkennen versteckter Annahmen ist aus mehreren Gründen wichtig für das kri
 
 4. Es ermöglicht eine präzisere Kritik, indem genau identifiziert wird, welche Annahmen problematisch sind.
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/versteckte-annahmen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/versteckte-annahmen)

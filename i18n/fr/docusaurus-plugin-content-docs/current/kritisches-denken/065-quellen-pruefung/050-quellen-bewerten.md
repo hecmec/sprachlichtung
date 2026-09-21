@@ -171,6 +171,6 @@ Source : SBCC Library, _SIFT & PICK_ ([libguides.sbcc.edu](https://libguides.sbc
 - [ ] **Preuves** présentes et traçables jusqu'à la source primaire ?
 - [ ] **Cui bono** : à qui cela profite-t-il ?
 
-<!--t src=7eb0a0c1-->
+<!--t src=f19c227d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quellen-bewerten) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quellen-bewerten)

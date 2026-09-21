@@ -63,4 +63,4 @@ Soziale Medien stellen besondere Herausforderungen für kritisches Denken dar. H
 
    _Beispiel_: Achten Sie auf Anzeichen von Bildmanipulation wie unnatürliche Schatten, verzerrte Proportionen oder inkonsistente Beleuchtung.
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien)

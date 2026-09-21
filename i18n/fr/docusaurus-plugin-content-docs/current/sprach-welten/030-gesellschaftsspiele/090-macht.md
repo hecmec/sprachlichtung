@@ -108,6 +108,6 @@ Le maître mot est ici l'**autodétermination**.
 
 [^forst-recht]: 🇩🇪 Rainer Forst : _Das Recht auf Rechtfertigung. Elemente einer konstruktivistischen Theorie der Gerechtigkeit_ (« Le droit à la justification. Éléments d'une théorie constructiviste de la justice »). Suhrkamp, Francfort-sur-le-Main 2007.
 
-<!--t src=a09ca9a9-->
+<!--t src=83a6bf0b-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/090-macht.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/macht) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/macht)

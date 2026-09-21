@@ -122,6 +122,6 @@ Les deux affirmations ne peuvent pas être vraies en même temps. Une défense q
 - [Wikipedia: Principle of explosion (ex falso quodlibet)](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [Logically Fallacious: Contradictory Premises](https://www.logicallyfallacious.com/logicalfallacies/Contradictory-Premises)
 
-<!--t src=d6bc47b9-->
+<!--t src=3e2cebf9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen)

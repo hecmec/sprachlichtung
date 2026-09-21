@@ -110,6 +110,6 @@ Fresh paint says nothing about load-bearing capacity. Even if the bridge is safe
 
 - [Logically Fallacious: Irrelevant Conclusion](https://www.logicallyfallacious.com/logicalfallacies/Irrelevant-Conclusion)
 
-<!--t src=dd786d6a-->
+<!--t src=eb37d06d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-gruende) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-gruende)

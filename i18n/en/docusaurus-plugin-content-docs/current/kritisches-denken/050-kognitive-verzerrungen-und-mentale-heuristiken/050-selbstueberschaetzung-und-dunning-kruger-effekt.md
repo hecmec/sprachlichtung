@@ -114,6 +114,6 @@ Overconfidence and the Dunning-Kruger effect can impair critical thinking in sev
 
 5. **Communication Problems**: Experts may struggle to convey their knowledge if they underestimate the complexity of their field for others.
 
-<!--t src=ef94e18c-->
+<!--t src=978ed283-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt)

@@ -95,6 +95,6 @@ Qui sait à quel point son propre corps fournit peu, et combien d'énergie étra
 
 [^strompreis]: Les prix actuels de l'électricité pour les ménages sont documentés entre autres par 🇩🇪 l'[Office fédéral de la statistique allemand (Statistisches Bundesamt)](https://www.destatis.de/) ainsi que par 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien). Pour la France, voir 🇫🇷 les [prix de l'électricité de l'INSEE](https://www.insee.fr/).
 
-<!--t src=b1ef2e57-->
+<!--t src=706ffad6-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/020-menschenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/020-menschenenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/menschenenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/menschenenergie)

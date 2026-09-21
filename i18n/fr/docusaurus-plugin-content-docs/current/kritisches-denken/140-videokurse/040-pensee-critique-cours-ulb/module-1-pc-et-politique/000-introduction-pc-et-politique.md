@@ -94,3 +94,5 @@ Ils viennent de deux sources :
 Le module 2 explorera comment développer cette pensée critique, essentielle pour comprendre, décider et agir librement dans un monde complexe.
 
 **Objectif du module** : Apprendre à penser par soi-même, contre les automatismes et les autorités abusives — pour mieux vivre ensemble.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-intro) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-intro)

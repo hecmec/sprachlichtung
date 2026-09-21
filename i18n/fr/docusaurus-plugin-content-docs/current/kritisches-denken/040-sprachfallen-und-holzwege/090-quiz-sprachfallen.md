@@ -95,6 +95,6 @@ custom_translation_overwritten: false
 4. b) « La démocratie est en colère contre les résultats électoraux. »
 5. b) Définition stipulative
 
-<!--t src=8930bf81-->
+<!--t src=a039ad34-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen)

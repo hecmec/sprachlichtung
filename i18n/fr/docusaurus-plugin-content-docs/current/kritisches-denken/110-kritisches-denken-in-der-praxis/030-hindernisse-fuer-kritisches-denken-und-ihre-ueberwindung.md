@@ -253,5 +253,5 @@ Nous rencontrons parfois des résistances à la pensée critique : chez nous-mê
 <!--t src=664d1cbe-->
 **Exemple :** si vous travaillez dans une équipe où la pensée critique n'est pas valorisée, vous pourriez d'abord poser vos propres questions critiques d'une manière constructive et non conflictuelle (« J'essaie de comprendre... »), rendre visibles les réussites obtenues grâce à la pensée critique et favoriser progressivement une culture dans laquelle on recherche activement les différentes perspectives.
 
-<!--t src=5f07d359-->
-[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md)
+<!--t src=2b8b5dba-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung)

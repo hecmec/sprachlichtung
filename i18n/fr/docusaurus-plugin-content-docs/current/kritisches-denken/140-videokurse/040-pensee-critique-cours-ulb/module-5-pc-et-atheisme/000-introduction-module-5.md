@@ -70,3 +70,4 @@ Pour la pensée critique, la leçon est double. D’une part, l’accusation d�
 <!-- href="https://www.youtube.com/watch?v=PJsZt4_ZvgA"
   Pensée critique - Introduction du Module: R -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-intro-module-pensee-critique-et-atheisme) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-intro-module-pensee-critique-et-atheisme)

@@ -15,7 +15,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 1/5
-draft: true
+draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
@@ -113,6 +113,6 @@ Several people observe bullying or a serious process error. No one intervenes, b
 - Wikipedia: [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - Darley, J. M. & Latané, B. (1968): "Bystander intervention in emergencies: Diffusion of responsibility". Journal of Personality and Social Psychology.
 
-<!--t src=6fe875b8-->
+<!--t src=fe2bcd08-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt)

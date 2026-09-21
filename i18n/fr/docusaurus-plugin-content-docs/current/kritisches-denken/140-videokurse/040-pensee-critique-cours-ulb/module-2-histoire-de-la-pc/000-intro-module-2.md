@@ -81,3 +81,5 @@ Après avoir exploré la relation entre pensée critique et politique, la vidéo
 ## Conclusion
 
 Cette mise en perspective historique prépare à comprendre les débats philosophiques contemporains sur la pensée critique, en montrant son évolution, ses enjeux et ses dangers.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-introduction) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-introduction)

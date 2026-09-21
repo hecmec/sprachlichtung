@@ -121,6 +121,6 @@ Les deux types d'inférence ont leurs forces et leurs faiblesses :
 
 Pour la pensée critique, il est important de comprendre les deux types d'inférence et de les employer de façon appropriée selon le contexte.
 
-<!--t src=58dcf661-->
+<!--t src=afea780d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/070-formales-vs-informelles-schliessen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/formales-vs-informelles-schliessen) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/formales-vs-informelles-schliessen)

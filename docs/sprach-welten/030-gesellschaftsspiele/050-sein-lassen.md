@@ -54,4 +54,4 @@ So entpuppt sich Sein-Lassen als eine anspruchsvolle Praxis der Unterscheidung. 
 
 [^forst-toleranz]: Rainer Forst: _Toleranz im Konflikt. Geschichte, Gehalt und Gegenwart eines umstrittenen Begriffs_. Suhrkamp, Frankfurt a. M. 2003.
 
-[Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/sein-lassen) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/sein-lassen)

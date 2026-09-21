@@ -77,5 +77,5 @@ custom_translation_overwritten: false
 4. c) Vagueness and the fuzzy boundaries of concepts
 5. b) Distinguishing between object language and metalanguage
 
-<!--t src=e2ee1c13-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/080-quiz-paradoxien.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/080-quiz-paradoxien.md)
+<!--t src=4826dd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien)

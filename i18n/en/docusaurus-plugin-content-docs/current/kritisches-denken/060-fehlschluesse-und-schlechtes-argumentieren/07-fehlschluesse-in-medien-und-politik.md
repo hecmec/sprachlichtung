@@ -109,6 +109,6 @@ Fallacies are widespread in public discourse, especially in the media and politi
 
 6. **Be sceptical of perfect solutions**: Are complex problems being presented as if they had simple, clear-cut solutions?
 
-<!--t src=086cb5c2-->
+<!--t src=1b02863c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik)

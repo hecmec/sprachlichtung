@@ -160,6 +160,6 @@ Aperçu fondé sur les données concernant la pauvreté, la santé, l'éducation
 - Johan Norberg, _Progress_ (trad. fr. : "Non, ce n'était pas mieux avant : Dix raisons d'avoir confiance en l'avenir")
 - Matt Ridley, _The Rational Optimist_ (trad. fr. : "L'Optimisme rationnel")
 
-<!--t src=b9f458cf-->
+<!--t src=80d0c863-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Vergangenheitsverklaerung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Vergangenheitsverklaerung)

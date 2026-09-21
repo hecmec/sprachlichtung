@@ -237,3 +237,5 @@ La séance ajoute six sophismes de plus à la liste en cours. La cinquième et d
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4)

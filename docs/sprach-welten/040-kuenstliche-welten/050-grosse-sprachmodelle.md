@@ -69,4 +69,4 @@ Beachten Sie außerdem, wer über AGI spricht. Die Erzählung von der nahen Supe
 
 [^chinchilla]: Jordan Hoffmann u. a.: _Training Compute-Optimal Large Language Models_, NeurIPS, 2022.
 
-[Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/050-grosse-sprachmodelle.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/050-grosse-sprachmodelle.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/grosse-sprachmodelle) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/grosse-sprachmodelle)

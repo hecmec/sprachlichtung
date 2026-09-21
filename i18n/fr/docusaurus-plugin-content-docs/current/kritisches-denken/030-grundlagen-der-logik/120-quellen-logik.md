@@ -62,6 +62,6 @@ Vous trouverez ici des sources et des lectures complémentaires sur les fondemen
 <!--t src=8270de77-->
 <!-- - 🇩🇪 Timm Lampert: _Klassische Logik_. (Preprint) https://www2.hu-berlin.de/webMathematica/publications/Klassische_Logik_preprint.pdf -->
 
-<!--t src=9982b7e1-->
+<!--t src=ac081bbc-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/quellen-logik) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/quellen-logik)

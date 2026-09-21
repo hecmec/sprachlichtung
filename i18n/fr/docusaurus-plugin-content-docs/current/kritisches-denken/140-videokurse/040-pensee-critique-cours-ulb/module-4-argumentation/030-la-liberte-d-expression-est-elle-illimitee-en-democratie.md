@@ -79,3 +79,4 @@ Pour la pensée critique, l’apport le plus utile est la distinction entre limi
 <!-- href="https://www.youtube.com/watch?v=wZcaGMmsh38"
   Pensée critique - La Liberté d'expression est-elle illimitée en démocratie ? - 03 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites)

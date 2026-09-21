@@ -74,6 +74,6 @@ Awareness of cognitive biases and the application of strategies to overcome them
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
 
-<!--t src=6f00b95c-->
+<!--t src=9fb9b63a-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/zusammenfassung)

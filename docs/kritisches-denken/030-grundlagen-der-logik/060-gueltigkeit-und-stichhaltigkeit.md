@@ -99,4 +99,4 @@ Die Unterscheidung zwischen Gültigkeit und Stichhaltigkeit ist für das kritisc
    - Formale Fehler (Ungültigkeit)
    - Inhaltliche Fehler (falsche Prämissen)
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit)

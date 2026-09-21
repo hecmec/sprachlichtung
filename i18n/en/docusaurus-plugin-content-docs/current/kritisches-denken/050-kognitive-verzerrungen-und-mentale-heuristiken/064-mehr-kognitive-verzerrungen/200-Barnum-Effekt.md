@@ -95,6 +95,6 @@ DE: _Barnum-Effekt / Forer-Effekt_
 - Forer, B. R. (1949). The fallacy of personal validation.
 - Meehl, P. (1954). Clinical vs. Statistical Prediction.
 
-<!--t src=0e90aae2-->
+<!--t src=b11cfa80-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/200-Barnum-Effekt.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/200-Barnum-Effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Barnum-Effekt) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Barnum-Effekt)

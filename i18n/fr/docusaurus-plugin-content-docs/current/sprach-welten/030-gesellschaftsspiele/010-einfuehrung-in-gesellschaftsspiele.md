@@ -51,6 +51,6 @@ Voici quelques exemples de cet usage de la notion de « jeux de société » com
 - Compétition et collaboration
 - Solidarité et construction de la communauté
 
-<!--t src=c1564172-->
+<!--t src=62de8b3f-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele)

@@ -109,6 +109,6 @@ That an event has consequences does not mean that it occurred _for a purpose_. M
 
 - [Logically Fallacious: Teleological (Design) Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Design-Fallacy)
 
-<!--t src=4f57bbdb-->
+<!--t src=a241d5f6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/teleologischer-irrtum.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/teleologischer-irrtum)

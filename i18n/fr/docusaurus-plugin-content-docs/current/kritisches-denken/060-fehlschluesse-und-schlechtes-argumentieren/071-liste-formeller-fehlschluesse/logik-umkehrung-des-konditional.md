@@ -119,6 +119,6 @@ Se lever tôt est peut-être fréquent chez ceux qui réussissent, mais ce n'est
 - [Wikipedia: Konversionsfehlschluss](https://de.wikipedia.org/wiki/Konversionsfehlschluss)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 
-<!--t src=5c1096a4-->
+<!--t src=e831b4aa-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-umkehrung-des-konditional.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-umkehrung-des-konditional.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-umkehrung-des-konditional) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-umkehrung-des-konditional)

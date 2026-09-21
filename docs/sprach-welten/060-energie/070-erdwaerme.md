@@ -56,4 +56,4 @@ Wer selbstbestimmt urteilen will, hütet sich hier vor zwei Übertreibungen. Die
 
 [^geo]: Grundlagen und Daten zur Geothermie beim [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) und beim [Fraunhofer ISE](https://www.ise.fraunhofer.de/). Weltweite Einordnung bei [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-[Article en français](/fr/docs/sprach-welten/060-energie/070-erdwaerme.md) | [Article in English](/en/docs/sprach-welten/060-energie/070-erdwaerme.md)
+[Article en français](pathname:///fr/docs/sprach-welten/energie/erdwaerme) | [Article in English](pathname:///en/docs/sprach-welten/energie/erdwaerme)

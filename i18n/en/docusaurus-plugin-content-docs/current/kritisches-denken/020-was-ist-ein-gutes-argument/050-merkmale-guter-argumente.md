@@ -156,6 +156,6 @@ A good argument takes into account the strength of the conclusion in relation to
 
 > I smoke because it isn't really that dangerous. My grandma smoked all her life and died at 96. My neighbor, a vegetarian jogger, kicked the bucket at 45.
 
-<!--t src=4224528f-->
+<!--t src=52c87a7e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/merkmale-guter-argumente) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/merkmale-guter-argumente)

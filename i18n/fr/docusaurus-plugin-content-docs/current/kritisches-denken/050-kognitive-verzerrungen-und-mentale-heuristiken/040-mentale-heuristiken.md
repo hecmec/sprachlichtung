@@ -139,6 +139,6 @@ Les gens jugent les risques plus élevés lorsqu'ils y associent des sentiments 
 - Inconscience : nous n'avons souvent pas conscience que nous utilisons des heuristiques.
 - Résistance : elles sont difficiles à surmonter, même lorsque nous en avons conscience.
 
-<!--t src=538856cf-->
+<!--t src=f1211424-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mentale-heuristiken) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mentale-heuristiken)

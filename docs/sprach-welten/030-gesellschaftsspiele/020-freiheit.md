@@ -53,4 +53,4 @@ Das bedeutet nicht, Freiheit gegen Gleichheit auszuspielen. Im Gegenteil: Eine e
 
 So führt Goethes Wort zurück zum Anfang. Freiheit ist kein Besitz und kein Geschenk, sondern eine Praxis, die immer wieder erkämpft und kritisch befragt werden muss, gegen äußere Mächte und gegen die eigenen Bequemlichkeiten.
 
-[Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/020-freiheit.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/020-freiheit.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/freiheit) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/freiheit)

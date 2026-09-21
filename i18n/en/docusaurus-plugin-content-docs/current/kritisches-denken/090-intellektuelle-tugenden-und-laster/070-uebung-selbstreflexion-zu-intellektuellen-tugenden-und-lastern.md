@@ -165,3 +165,7 @@ Plan to review your progress regularly and to adjust your development plan. Set 
 <!--t src=fa6451aa-->
 
 **Date for the first review**: . . . . . .
+
+<!--t src=d3148d57-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern)

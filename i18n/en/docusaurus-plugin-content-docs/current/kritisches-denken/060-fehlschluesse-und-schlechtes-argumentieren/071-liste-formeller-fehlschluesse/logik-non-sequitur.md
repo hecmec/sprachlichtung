@@ -118,6 +118,6 @@ Between owning an expensive car and political expertise there is no logical conn
 
 - [Logically Fallacious: Non Sequitur](https://www.logicallyfallacious.com/logicalfallacies/Non-Sequitur)
 
-<!--t src=2a0b419b-->
+<!--t src=d9180186-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-non-sequitur.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-non-sequitur) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-non-sequitur)

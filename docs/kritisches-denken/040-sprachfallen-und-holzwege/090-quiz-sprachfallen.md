@@ -67,4 +67,4 @@ draft: false
 4. b) "Die Demokratie ist wütend über die Wahlergebnisse."
 5. b) Stipulative Definition
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/quiz-sprachfallen)

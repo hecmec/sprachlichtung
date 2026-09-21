@@ -58,4 +58,4 @@ Wer selbstbestimmt urteilen will, fragt deshalb konkret: Wie viel liefert eine A
 
 [^solar]: Zahlen und Grafiken zur Solarenergie beim [Fraunhofer ISE](https://www.ise.fraunhofer.de/), zur Preisentwicklung und zum weltweiten Zubau bei [Our World in Data – Energy](https://ourworldindata.org/energy). Echtzeitdaten zum deutschen Strommix liefern die [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/); amtliche Daten das [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien).
 
-[Article en français](/fr/docs/sprach-welten/060-energie/040-sonnenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/040-sonnenenergie.md)
+[Article en français](pathname:///fr/docs/sprach-welten/energie/sonnenenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/sonnenenergie)

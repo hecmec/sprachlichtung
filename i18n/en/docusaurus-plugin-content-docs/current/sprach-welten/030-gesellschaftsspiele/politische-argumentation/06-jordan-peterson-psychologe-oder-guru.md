@@ -62,6 +62,6 @@ He has won a loyal following, but also numerous critics who find his views divis
 
 ... more is coming soon ...
 
-<!--t src=5619379a-->
+<!--t src=472ca7df-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/06-jordan-peterson-psychologe-oder-guru.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/politische-argumentation/jordan-peterson-psychologe-oder-guru) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/politische-argumentation/jordan-peterson-psychologe-oder-guru)

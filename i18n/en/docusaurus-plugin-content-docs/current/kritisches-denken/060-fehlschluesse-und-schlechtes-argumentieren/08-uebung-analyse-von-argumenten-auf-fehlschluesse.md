@@ -129,6 +129,6 @@ Analyse the following arguments and identify possible fallacies. Justify your an
     - Fallacy: The conclusion (the free market is the best system) is justified by a rephrasing of the same claim (economic freedom is best).
     - Improved version: "Studies show that countries with a free market tend to have a higher per-capita income, more innovation and greater economic mobility than countries with heavily regulated economic systems."
 
-<!--t src=73ca04ac-->
+<!--t src=4a208776-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/uebung-analyse-von-argumenten-auf-fehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/uebung-analyse-von-argumenten-auf-fehlschluesse)

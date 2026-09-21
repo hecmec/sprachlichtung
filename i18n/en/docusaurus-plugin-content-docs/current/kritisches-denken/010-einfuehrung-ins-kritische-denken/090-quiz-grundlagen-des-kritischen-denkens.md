@@ -87,6 +87,6 @@ translation_status: auto
 4. c) Examining evidence and considering alternative explanations before drawing conclusions
 5. b) Confirmation bias
 
-<!--t src=ca5125f8-->
+<!--t src=179a9ef9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens) | [Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/quiz-grundlagen-des-kritischen-denkens)

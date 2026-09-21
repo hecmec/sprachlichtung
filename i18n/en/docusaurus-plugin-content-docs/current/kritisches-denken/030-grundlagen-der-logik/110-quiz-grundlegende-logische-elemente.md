@@ -87,6 +87,6 @@ translation_status: auto
 4. c) If A, then B. Not B. Therefore not A.
 5. b) Natural substances are always safe.
 
-<!--t src=ba9fce6c-->
+<!--t src=aeefc055-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente) | [Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente)

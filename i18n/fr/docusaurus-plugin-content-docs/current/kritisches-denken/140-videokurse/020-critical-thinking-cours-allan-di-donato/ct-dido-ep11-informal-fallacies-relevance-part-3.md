@@ -252,3 +252,5 @@ Cela clôt les appels à l’autorité. La quatrième séance sur la pertinence 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3)

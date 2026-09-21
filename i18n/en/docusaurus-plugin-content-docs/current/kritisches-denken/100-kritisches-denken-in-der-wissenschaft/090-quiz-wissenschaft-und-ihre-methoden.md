@@ -76,5 +76,5 @@ custom_translation_overwritten: false
 4. b) Securing the quality and reliability of scientific publications
 5. c) Immunisation against criticism and falsification
 
-<!--t src=3579c2e0-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/090-quiz-wissenschaft-und-ihre-methoden.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/090-quiz-wissenschaft-und-ihre-methoden.md)
+<!--t src=0bb96635-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden)

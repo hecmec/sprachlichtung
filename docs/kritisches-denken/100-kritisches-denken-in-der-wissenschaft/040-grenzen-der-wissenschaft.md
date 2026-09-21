@@ -93,4 +93,4 @@ Eine wichtige Grenze der Wissenschaft betrifft die Beziehung zwischen Fakten und
 
    _Beispiel_: Forschungsprioritäten werden oft von Finanzierungsquellen und gesellschaftlichen Interessen geprägt.
 
-[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft)

@@ -383,3 +383,5 @@ Pour les salaires d’une petite entreprise, la moyenne arithmétique pourrait �
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability)

@@ -85,6 +85,6 @@ Political argumentation is a special language game distinguished by certain feat
 - Bad political arguments, by contrast, are often emotional, unobjective or manipulative. They can be based on misinformation, prejudices or personal attacks.
 - It is important to question political arguments critically and to assess the quality of the argumentation.
 
-<!--t src=78569cbf-->
+<!--t src=816f61b5-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/politische-argumentation/einfuhrung-politische-argumentation) | [Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/politische-argumentation/einfuhrung-politische-argumentation)

@@ -113,6 +113,6 @@ L'assurance de ne « rien vouloir dire » véhicule précisément l'allégation 
 - [Wikipedia: Innuendo](https://en.wikipedia.org/wiki/Innuendo)
 - [Logically Fallacious: Innuendo](https://www.logicallyfallacious.com/logicalfallacies/Innuendo)
 
-<!--t src=88d9c755-->
+<!--t src=e477816c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung)

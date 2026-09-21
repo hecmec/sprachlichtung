@@ -31,4 +31,4 @@ Wir haben gelernt:
 
 Die Auseinandersetzung mit Paradoxien ist ein wesentlicher Bestandteil des kritischen Denkens. Sie lehrt uns, Annahmen zu hinterfragen, präziser zu denken, kreative Lösungsansätze zu entwickeln und die Grenzen unserer Konzepte zu erkennen. Paradoxien erinnern uns daran, dass selbst scheinbar solide logische Systeme Grenzen haben können und dass kritisches Denken oft bedeutet, mit Unsicherheit und Ambiguität umzugehen.
 
-[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung)

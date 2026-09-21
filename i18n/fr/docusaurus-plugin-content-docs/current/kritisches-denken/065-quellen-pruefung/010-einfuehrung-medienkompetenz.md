@@ -70,6 +70,6 @@ Nous devons simplement apprendre à la **vérifier**.
 
 Pour cela, nous ne misons pas sur la méfiance envers tout. Ce serait tout aussi nuisible que la confiance aveugle. L'objectif est un scepticisme exercé et serein : vérifier avant de croire, et vérifier avant de partager.
 
-<!--t src=4ec246a6-->
+<!--t src=ab905189-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/einfuehrung-medienkompetenz)

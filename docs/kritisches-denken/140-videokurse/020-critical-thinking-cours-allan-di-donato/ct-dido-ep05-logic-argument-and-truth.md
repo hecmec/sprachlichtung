@@ -26,4 +26,4 @@ controls src='https://youtu.be/AH1d3maOJSw' />
 
 There is no transcript for this video at the time of writing. 😪
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth)

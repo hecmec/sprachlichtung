@@ -54,3 +54,5 @@ The fallacy does not guarantee a false conclusion. If every part of a cat is com
 ### Key takeaway
 
 The fallacy of composition is inferring, without justification, that a whole has the same qualities as its parts; the inference can occasionally land on a true conclusion, but it is fallacious reasoning regardless, and should not be trusted to reveal, for instance, colourless cats.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-11-fallacy-of-composition) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-11-fallacy-of-composition)

@@ -58,4 +58,4 @@ Wie wir schon gesagt haben, sind die viele gute Argumente sowieso formal logisch
 
 Im Folgenden werden wir die wichtigsten Fehlschlüsse aus jeder Kategorie betrachten.
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse)

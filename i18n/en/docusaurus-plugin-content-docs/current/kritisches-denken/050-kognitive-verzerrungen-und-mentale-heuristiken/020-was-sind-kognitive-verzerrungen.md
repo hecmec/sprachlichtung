@@ -84,6 +84,6 @@ Cognitive biases arise for various reasons:
 
 5. **Emotional Influences**: Emotions can override rational thinking and lead to distorted judgments.
 
-<!--t src=c35fd1d8-->
+<!--t src=81e046b7-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen)

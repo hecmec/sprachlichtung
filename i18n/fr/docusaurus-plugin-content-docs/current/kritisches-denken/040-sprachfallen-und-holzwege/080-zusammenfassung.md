@@ -51,6 +51,6 @@ Dans ce chapitre, nous avons examiné différents pièges du langage qui peuvent
 
 Prendre conscience de ces pièges du langage et appliquer les stratégies présentées peut nous aider à penser plus précisément, à communiquer plus clairement et à mieux percer à jour les tentatives de manipulation.
 
-<!--t src=5b5eec33-->
+<!--t src=ce7eb752-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung)

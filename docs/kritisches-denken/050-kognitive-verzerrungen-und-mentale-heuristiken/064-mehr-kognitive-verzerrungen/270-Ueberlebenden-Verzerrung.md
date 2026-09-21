@@ -85,4 +85,4 @@ Erfolgreiche Gründer erzählen Playbooks in Podcasts und Büchern. Man hört nu
 
 ---
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberlebenden-Verzerrung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Ueberlebenden-Verzerrung)

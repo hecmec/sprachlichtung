@@ -88,5 +88,5 @@ Certains paradoxes ont conduit au développement de cadres théoriques entièrem
 - les paradoxes de Zénon ont inspiré le développement du calcul infinitésimal
 - le dilemme du prisonnier a donné lieu à de nouvelles approches en théorie des jeux et en biologie de l'évolution
 
-<!--t src=d922cec7-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/050-strategien-zum-umgang-mit-paradoxien.md)
+<!--t src=3c438893-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien)

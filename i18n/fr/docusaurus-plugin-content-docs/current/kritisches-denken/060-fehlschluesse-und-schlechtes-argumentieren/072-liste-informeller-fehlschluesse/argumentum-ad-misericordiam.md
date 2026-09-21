@@ -110,6 +110,6 @@ Le destin de la personne n'est pas une raison qui tranche la question de savoir 
 - [Wikipedia : Appeal to pity](https://en.wikipedia.org/wiki/Appeal_to_pity)
 - [Logically Fallacious: Appeal to Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)
 
-<!--t src=31381e09-->
+<!--t src=dc1591a0-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam)

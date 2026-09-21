@@ -78,5 +78,5 @@ custom_translation_overwritten: false
 4. b) Conscience émotionnelle et prise de distance
 5. b) « Tu te fais des idées. Je n'ai jamais dit que je ferais cela. »
 
-<!--t src=164f69e3-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/090-quiz-manipulation-und-verteidigung.md)
+<!--t src=8dfcba16-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung)

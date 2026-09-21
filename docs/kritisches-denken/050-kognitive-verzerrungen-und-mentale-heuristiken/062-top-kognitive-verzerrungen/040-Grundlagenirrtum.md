@@ -76,4 +76,4 @@ Wirkt ein Kollege bei einer Präsentation nervös, schließen wir auf mangelnde 
 - Ross, L. (1977): "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"
 - Gilbert, D. T. & Malone, P. S. (1995): "The Correspondence Bias"
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Grundlagenirrtum) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Grundlagenirrtum)

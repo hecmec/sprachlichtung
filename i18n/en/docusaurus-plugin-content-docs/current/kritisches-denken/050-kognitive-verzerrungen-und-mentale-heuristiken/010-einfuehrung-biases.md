@@ -66,6 +66,6 @@ In this chapter, we will explore what cognitive biases are, how they arise, and 
 - [Summary](./080-zusammenfassung.md)
 - [Quiz: Cognitive biases and mental heuristics](./090-quiz-biases.md)
 
-<!--t src=9cebec92-->
+<!--t src=e054d189-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases)

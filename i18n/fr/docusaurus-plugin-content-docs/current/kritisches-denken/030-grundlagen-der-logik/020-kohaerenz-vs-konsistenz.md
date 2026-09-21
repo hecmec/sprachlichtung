@@ -95,6 +95,6 @@ La principale différence entre la consistance et la cohérence peut se résumer
 
 Dans la pratique de la pensée critique, nous visons à la fois la consistance et la cohérence. La consistance est une condition nécessaire, mais non suffisante, pour un argument convaincant. Un argument vraiment fort doit aussi être cohérent, c'est-à-dire que ses composants doivent être logiquement reliés entre eux et se soutenir mutuellement.
 
-<!--t src=4d62f9e5-->
+<!--t src=d5ffe6d8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/020-kohaerenz-vs-konsistenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/kohaerenz-vs-konsistenz) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/kohaerenz-vs-konsistenz)

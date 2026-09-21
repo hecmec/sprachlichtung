@@ -33,4 +33,4 @@ Kritisches Denken ist keine abstrakte intellektuelle Übung, sondern eine prakti
 
 Die Entwicklung kritischen Denkens ist eine lebenslange Reise, die Geduld, Ausdauer und Offenheit erfordert. Aber die Belohnungen &mdash; bessere Entscheidungen, tieferes Verständnis, größere intellektuelle Autonomie und konstruktivere Beiträge zu gesellschaftlichen Diskursen &mdash; machen diese Anstrengung mehr als lohnenswert.
 
-[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/zusammenfassung)

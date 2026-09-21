@@ -112,6 +112,6 @@ Le fait qu'il existe des problèmes plus grands ne rend pas le plus petit insign
 - [Wikipedia: Relative privation](https://en.wikipedia.org/wiki/Relative_privation)
 - [Logically Fallacious: Relative Privation](https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation)
 
-<!--t src=6facb370-->
+<!--t src=2010eaf3-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit)

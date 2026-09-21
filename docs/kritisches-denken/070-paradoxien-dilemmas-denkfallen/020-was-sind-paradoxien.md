@@ -49,4 +49,4 @@ Paradoxien können nach verschiedenen Kriterien klassifiziert werden. Eine nütz
 
 6. **Sorites-Paradoxien (Haufen-Paradoxien)**: Diese entstehen durch vage Begriffe und die Frage, wann kleine, inkrementelle Änderungen zu einer qualitativen Veränderung führen.
 
-[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/020-was-sind-paradoxien.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/020-was-sind-paradoxien.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien)

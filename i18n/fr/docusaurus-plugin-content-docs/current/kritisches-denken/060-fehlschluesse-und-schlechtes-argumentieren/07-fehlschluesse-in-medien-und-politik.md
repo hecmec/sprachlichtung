@@ -110,6 +110,6 @@ Les sophismes sont très répandus dans les discours publics, en particulier dan
 
 6. **Méfiez-vous des solutions parfaites** : Des problèmes complexes sont-ils présentés comme s'ils avaient des solutions simples et univoques ?
 
-<!--t src=086cb5c2-->
+<!--t src=1b02863c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/fehlschluesse-in-medien-und-politik)

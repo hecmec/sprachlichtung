@@ -112,6 +112,6 @@ Un usage séculaire ne remplace pas une preuve d'efficacité. Des procédés ine
 - [Wikipedia: Appeal to tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition)
 - [Logically Fallacious: Appeal to Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)
 
-<!--t src=50125e88-->
+<!--t src=193d13a3-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-antiquitatem) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-antiquitatem)

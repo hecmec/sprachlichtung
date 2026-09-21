@@ -104,4 +104,4 @@ Kritisches Denken fördert auch **Mitmenschlichkeit** und **Empathie**, indem es
 
 Das ist ein Aspekt, der häufig übersehen wird, der aber in der heutigen globalisierten Welt immer wichtiger wird.
 
-[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig)

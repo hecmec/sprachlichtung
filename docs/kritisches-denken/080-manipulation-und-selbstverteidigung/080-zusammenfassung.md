@@ -32,4 +32,4 @@ In diesem Kapitel haben wir uns mit Manipulation und Verteidigungsstrategien bef
 
 Die Fähigkeit, Manipulation zu erkennen und ihr zu widerstehen, ist eine wesentliche Kompetenz des kritischen Denkens. In einer Welt, die von Werbung, politischer Propaganda, Desinformation und subtilen Beeinflussungstechniken durchdrungen ist, hilft uns kritisches Denken, informierte und selbstbestimmte Entscheidungen zu treffen.
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung)

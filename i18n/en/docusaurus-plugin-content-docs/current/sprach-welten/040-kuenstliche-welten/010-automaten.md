@@ -119,6 +119,6 @@ This chapter is about artificial worlds and artificial intelligence. Everything 
 
 [^turing]: Alan M. Turing: _On Computable Numbers, with an Application to the Entscheidungsproblem_, Proceedings of the London Mathematical Society, 1936.
 
-<!--t src=b236c276-->
+<!--t src=d40ffc32-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/010-automaten.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/010-automaten.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/automaten) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/automaten)

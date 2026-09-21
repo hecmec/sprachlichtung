@@ -365,5 +365,5 @@ Les **approches interdisciplinaires**, qui combinent les méthodes et les perspe
 - Les sciences de l'environnement intègrent la biologie, la chimie, la géologie, les sciences économiques et la science politique.
 - Les études des sciences et des techniques (Science and Technology Studies) combinent des approches sociologiques, historiques et philosophiques.
 
-<!--t src=4dfb01bc-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md)
+<!--t src=e6ef612b-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode)

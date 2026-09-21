@@ -113,6 +113,6 @@ La manière dont une idée est née ne dit rien sur sa justesse. Même une intui
 - [Wikipedia: Genetic fallacy](https://en.wikipedia.org/wiki/Genetic_fallacy)
 - [Logically Fallacious: Genetic Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy)
 
-<!--t src=e7082be7-->
+<!--t src=3b2ed7bd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss)

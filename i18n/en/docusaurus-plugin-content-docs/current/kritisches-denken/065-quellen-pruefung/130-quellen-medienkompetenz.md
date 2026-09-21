@@ -92,6 +92,6 @@ Here you will find all the sources this chapter on media literacy and source cri
 - 🇬🇧 [Introduction to College Research: Disinformation & Fact-Checking](https://pressbooks.pub/introtocollegeresearch/part/introduction/). A very good online book on media literacy and source criticism (_information literacy skills_) with an open license (OER, CC-BY).
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). A journalism trade portal that presents media research and industry trends in an accessible way and offers a look behind the scenes of news coverage.
 
-<!--t src=c7336ce3-->
+<!--t src=c9395ecc-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz)

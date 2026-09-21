@@ -75,4 +75,4 @@ Statt die Aussage zu prüfen, wird die Bildung der Person angegriffen. Ein fehle
 - [Wikipedia: Argumentum ad hominem](https://de.wikipedia.org/wiki/Argumentum_ad_hominem)
 - [Logically Fallacious: Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem)

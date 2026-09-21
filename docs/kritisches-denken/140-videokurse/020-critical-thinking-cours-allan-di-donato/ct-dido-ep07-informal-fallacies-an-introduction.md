@@ -219,4 +219,4 @@ Die nächste Folge beginnt mit der ersten und kleinsten (und oft humorvollsten) 
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction)

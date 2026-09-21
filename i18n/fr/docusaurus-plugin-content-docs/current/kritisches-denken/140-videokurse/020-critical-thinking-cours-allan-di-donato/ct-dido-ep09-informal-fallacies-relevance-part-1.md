@@ -24,3 +24,5 @@ controls src='https://youtu.be/P9PZkWJPwrQ' />
 &nbsp;
 
 There is no transcript for this video at the time of writing. 😪
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep09-informal-fallacies-relevance-part-1)

@@ -117,6 +117,6 @@ Un seul commentaire 1 étoile influence la décision d'achat plus que de nombreu
 - Baumeister, R. F. et al. (2001). "Bad is stronger than good". Review of General Psychology.
 - Kahneman, D. & Tversky, A. : théorie des perspectives (Prospect Theory) et aversion à la perte.
 
-<!--t src=b642e509-->
+<!--t src=cf77c322-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias)

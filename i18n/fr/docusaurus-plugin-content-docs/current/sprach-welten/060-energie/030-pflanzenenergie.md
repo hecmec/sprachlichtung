@@ -95,6 +95,6 @@ La leçon émancipatrice est simple : ne vous laissez pas endormir par les étiq
 
 [^energie-wiki]: Notions de base sur la photosynthèse, la biomasse et la bioénergie, entre autres chez 🇫🇷 « Biomasse (énergie) », dans : Wikipédia, [fr.wikipedia.org/wiki/Biomasse\_(énergie)](<https://fr.wikipedia.org/wiki/Biomasse_(%C3%A9nergie)>) et 🇩🇪 « Biomasse », dans : Wikipedia, [de.wikipedia.org/wiki/Biomasse](https://de.wikipedia.org/wiki/Biomasse), ainsi qu'auprès de 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et de 🇫🇷 l'[ADEME](https://www.ademe.fr/). Sur le débat de « l'assiette ou le réservoir », voir 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-<!--t src=7d8d5b4b-->
+<!--t src=0c061db0-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/030-pflanzenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/030-pflanzenenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/pflanzenenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/pflanzenenergie)

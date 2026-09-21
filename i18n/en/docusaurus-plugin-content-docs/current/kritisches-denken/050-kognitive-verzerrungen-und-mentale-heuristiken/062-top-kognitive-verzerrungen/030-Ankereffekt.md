@@ -112,6 +112,6 @@ If a random or obviously wrong number is mentioned before an estimate, later ans
 - Tversky & Kahneman (1974): "Judgment under Uncertainty: Heuristics and Biases".
 - Chapman & Johnson (1999): "Anchoring, Activation, and the Construction of Values".
 
-<!--t src=4896dbb9-->
+<!--t src=fbf1159f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Ankereffekt) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Ankereffekt)

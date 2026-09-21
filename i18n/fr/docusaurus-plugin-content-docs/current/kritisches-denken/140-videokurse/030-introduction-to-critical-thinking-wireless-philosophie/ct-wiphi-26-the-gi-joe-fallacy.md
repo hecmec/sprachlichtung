@@ -179,3 +179,5 @@ La conclusion de Santos renverse le slogan du dessin animé : pour la plupart de
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-26-the-gi-joe-fallacy) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-26-the-gi-joe-fallacy)

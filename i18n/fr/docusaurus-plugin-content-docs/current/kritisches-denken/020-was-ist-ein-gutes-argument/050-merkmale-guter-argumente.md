@@ -155,6 +155,6 @@ Un bon argument tient compte de la force de la conclusion par rapport à la forc
 
 > Je fume, parce que ce n'est pas si dangereux. Ma grand-mère a fumé toute sa vie et est morte à 96 ans. Mon voisin, un joggeur végétarien, a passé l'arme à gauche à 45 ans.
 
-<!--t src=4224528f-->
+<!--t src=52c87a7e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/merkmale-guter-argumente) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/merkmale-guter-argumente)

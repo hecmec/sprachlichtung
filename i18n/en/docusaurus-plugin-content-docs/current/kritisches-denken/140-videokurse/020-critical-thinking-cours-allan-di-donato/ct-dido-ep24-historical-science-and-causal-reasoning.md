@@ -64,3 +64,5 @@ The bulk of the episode catalogs **causal fallacies**, errors of presumption tha
 ### Wrap-Up
 
 This closes the course's treatment of **induction and science**. The next episode shifts gears entirely to **deductive logic**, which Di Donato promises is among the most practical skills critical thinking has to offer.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning)

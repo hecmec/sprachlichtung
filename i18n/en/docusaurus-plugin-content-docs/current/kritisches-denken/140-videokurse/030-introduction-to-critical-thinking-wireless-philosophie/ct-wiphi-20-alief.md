@@ -47,3 +47,5 @@ Santos extends the idea to bias: someone who has lived in a society structured b
 ### Key takeaway
 
 Whenever you hesitate to touch a plastic spider, cry at a film you know is fictional, or notice one of your own mistaken biases, that is your aliefs, not your beliefs, at work.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-20-alief) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-20-alief)

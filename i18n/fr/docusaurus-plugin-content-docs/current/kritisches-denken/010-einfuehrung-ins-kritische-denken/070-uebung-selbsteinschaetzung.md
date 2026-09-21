@@ -133,6 +133,6 @@ Additionne tes points en fonction de tes réponses (1 à 5 pour chaque question)
 Note que cette auto-évaluation est subjective et peut être influencée par des biais cognitifs.  
 Elle sert de point de départ pour ton développement personnel en matière de pensée critique.
 
-<!--t src=ab7a25eb-->
+<!--t src=3d38ba58-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung)

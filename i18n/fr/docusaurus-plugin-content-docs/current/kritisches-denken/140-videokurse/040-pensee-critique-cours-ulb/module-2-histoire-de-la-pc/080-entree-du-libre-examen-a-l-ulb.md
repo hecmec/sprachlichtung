@@ -72,3 +72,5 @@ import ReactPlayer from 'react-player';
 
 **Conclusion :**
 Le libre examen, élargi par les idéologues, devient en Belgique une véritable doctrine politique et intellectuelle. L’Université Libre de Bruxelles incarne cette volonté de défendre la pensée critique, la liberté de conscience et l’indépendance vis-à-vis des pouvoirs religieux, au cœur même de l’éducation supérieure.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen-ulb) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen-ulb)

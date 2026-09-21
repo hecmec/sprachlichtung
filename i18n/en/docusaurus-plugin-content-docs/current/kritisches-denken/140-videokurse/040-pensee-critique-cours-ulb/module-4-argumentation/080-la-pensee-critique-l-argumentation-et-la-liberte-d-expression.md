@@ -73,3 +73,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=JDroWCTyRDU"
   Pensée critique - La pensée critique, l'argumentation et la liberté d'expression - 08 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression)

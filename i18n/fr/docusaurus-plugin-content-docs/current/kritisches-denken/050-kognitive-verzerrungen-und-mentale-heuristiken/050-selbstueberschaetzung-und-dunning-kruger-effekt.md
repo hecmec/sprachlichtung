@@ -117,6 +117,6 @@ La surestimation de soi et l'effet Dunning-Kruger peuvent entraver la pensée cr
 
 5. **Problèmes de communication** : les experts peuvent avoir du mal à transmettre leur savoir lorsqu'ils sous-estiment, pour les autres, la complexité de leur domaine.
 
-<!--t src=ef94e18c-->
+<!--t src=978ed283-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt)

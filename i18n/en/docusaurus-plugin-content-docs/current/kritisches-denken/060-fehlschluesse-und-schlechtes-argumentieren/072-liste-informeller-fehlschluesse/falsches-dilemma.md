@@ -109,6 +109,6 @@ There are further options (other savings, additional revenue, reallocations). Th
 
 - [Logically Fallacious: False Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)
 
-<!--t src=d4b60513-->
+<!--t src=fbf177f8-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsches-dilemma) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsches-dilemma)

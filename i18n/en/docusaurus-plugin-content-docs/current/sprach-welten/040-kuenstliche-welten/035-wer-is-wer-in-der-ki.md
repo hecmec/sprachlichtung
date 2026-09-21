@@ -137,6 +137,6 @@ Three questions help with any quotation: what period does the statement come fro
 
 [^crawford]: Kate Crawford: _Atlas of AI_, Yale University Press, 2021.
 
-<!--t src=d3abd2fb-->
+<!--t src=3957c648-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md) | [Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/kuenstliche-welten/wer-is-wer-in-der-ki) | [Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/wer-is-wer-in-der-ki)

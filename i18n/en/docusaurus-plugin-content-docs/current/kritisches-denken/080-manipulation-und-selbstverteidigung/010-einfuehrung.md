@@ -30,5 +30,5 @@ Manipulation is the attempt to influence the thinking, beliefs or behaviour of o
 <!--t src=fcad68ef-->
 In this chapter we will examine various techniques of manipulation, understand their psychological foundations and develop strategies to protect ourselves against manipulation. We will also consider the particular challenges that the digital age brings with it, and learn how we can think critically in social media and other online environments.
 
-<!--t src=c10c1009-->
-[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/010-einfuehrung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/010-einfuehrung.md)
+<!--t src=31020bfd-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung)

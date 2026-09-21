@@ -92,6 +92,6 @@ Dans les chapitres suivants, nous explorerons d'autres aspects de la pensée cri
 
 - 🇩🇪 [agumentation.online](https://argumentation.online) : une collection curatée de reconstructions d'arguments
 
-<!--t src=2189d79d-->
+<!--t src=471be580-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/zusammenfassung)

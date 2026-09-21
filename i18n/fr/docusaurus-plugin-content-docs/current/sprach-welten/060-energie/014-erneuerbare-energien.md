@@ -118,6 +118,6 @@ Pour situer les choses : de nouvelles centrales à charbon ou à gaz se situent,
 
 [^owid-energy]: Comparaisons entre pays et de prix, entre autres chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy) ainsi que dans les 🇩🇪 [Energy-Charts interactifs du Fraunhofer ISE](https://www.energy-charts.info/). Pour la France, les données du réseau sont publiées par 🇫🇷 [RTE éCO2mix](https://www.rte-france.com/eco2mix).
 
-<!--t src=12e99e2a-->
+<!--t src=c8fcff59-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/014-erneuerbare-energien.md) | [Article in English](/en/docs/sprach-welten/060-energie/014-erneuerbare-energien.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/erneuerbare-energien) | [Article in English](pathname:///en/docs/sprach-welten/energie/erneuerbare-energien)

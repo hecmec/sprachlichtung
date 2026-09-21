@@ -231,3 +231,5 @@ L’épisode dresse une carte du spectre de la certitude : des vérités mathém
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty)

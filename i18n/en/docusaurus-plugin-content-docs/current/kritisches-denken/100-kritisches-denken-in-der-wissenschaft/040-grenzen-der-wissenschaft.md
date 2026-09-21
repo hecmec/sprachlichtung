@@ -135,5 +135,5 @@ An important limit of science concerns the relationship between facts and values
 <!--t src=2ea9e0f2-->
    *Example*: Research priorities are often shaped by funding sources and societal interests.
 
-<!--t src=8ba031a1-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md)
+<!--t src=f8b5b6e5-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft)

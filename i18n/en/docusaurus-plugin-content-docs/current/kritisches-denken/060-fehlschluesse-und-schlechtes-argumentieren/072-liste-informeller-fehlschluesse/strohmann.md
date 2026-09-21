@@ -112,6 +112,6 @@ The moderate statement is inflated into a ban on „every joy“ and then indign
 
 - [Logically Fallacious: Straw Man](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)
 
-<!--t src=0a83159f-->
+<!--t src=07b12fd0-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann)

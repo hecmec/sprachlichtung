@@ -48,4 +48,4 @@ Analysieren und bewerten Sie die folgenden Argumente. Identifizieren Sie dabei:
 
 "Wenn die Sonne scheint, wird der Schnee schmelzen. Der Schnee schmilzt. Also scheint die Sonne."
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten)

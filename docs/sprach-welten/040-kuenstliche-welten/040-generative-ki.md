@@ -71,4 +71,4 @@ Bilder entstehen meist anders, nach demselben Grundgedanken. Bei der **Diffusion
 
 [^diffusion]: Jonathan Ho, Ajay Jain, Pieter Abbeel: _Denoising Diffusion Probabilistic Models_, NeurIPS, 2020.
 
-[Article en français](/fr/docs/sprach-welten/040-kuenstliche-welten/040-generative-ki.md) | [Article in English](/en/docs/sprach-welten/040-kuenstliche-welten/040-generative-ki.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/generative-ki) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/generative-ki)

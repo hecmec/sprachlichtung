@@ -109,6 +109,6 @@ Oxygen promotes combustion, hydrogen is even flammable itself &mdash; the two el
 - [Wikipedia: Fallacy of division](https://en.wikipedia.org/wiki/Fallacy_of_division)
 - [Logically Fallacious: Division](https://www.logicallyfallacious.com/logicalfallacies/Division)
 
-<!--t src=253680fe-->
+<!--t src=96b51e86-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/trugschluss-der-division) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/trugschluss-der-division)

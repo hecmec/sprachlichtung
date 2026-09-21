@@ -117,6 +117,6 @@ Le trading à court terme est souvent pratiqué avec la conviction d'avoir le ma
 - Langer, E. J. (1975) : "The illusion of control". Journal of Personality and Social Psychology, 32(2).
 - Daniel Kahneman : Thinking, Fast and Slow (en français : Système 1 / Système 2 : Les deux vitesses de la pensée).
 
-<!--t src=3a9cf644-->
+<!--t src=678984ac-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Kontrollillusion) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Kontrollillusion)

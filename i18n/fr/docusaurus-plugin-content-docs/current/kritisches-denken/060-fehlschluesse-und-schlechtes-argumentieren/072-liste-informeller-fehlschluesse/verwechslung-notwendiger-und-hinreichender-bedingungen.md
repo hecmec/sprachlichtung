@@ -121,6 +121,6 @@ Même si l'argent était une condition nécessaire, il ne suffirait pas. La cond
 - [Wikipédia : Condition nécessaire et suffisante](https://fr.wikipedia.org/wiki/Condition_n%C3%A9cessaire_et_suffisante)
 - [Logically Fallacious: Confusing Necessary with Sufficient Conditions](https://www.logicallyfallacious.com/logicalfallacies/Confusing-a-Necessary-Condition-with-a-Sufficient-Condition)
 
-<!--t src=07b1b509-->
+<!--t src=69ea6e6e-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen)

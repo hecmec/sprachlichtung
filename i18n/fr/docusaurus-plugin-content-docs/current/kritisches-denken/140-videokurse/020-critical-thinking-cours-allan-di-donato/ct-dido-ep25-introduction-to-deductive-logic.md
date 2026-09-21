@@ -351,3 +351,5 @@ L’épisode suivant entame une étude en plusieurs volets de la **logique caté
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic)

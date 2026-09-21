@@ -248,5 +248,5 @@ Unlike mere thinking skills or techniques, intellectual virtues also encompass m
 
 **Practical application:** Practise active listening without immediately contradicting. Ask yourself: "Why might a reasonable person hold this position?" Try to reconstruct arguments from the perspective of different cultural or ideological standpoints.
 
-<!--t src=8e7898a0-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md)
+<!--t src=7ebb7015-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens)

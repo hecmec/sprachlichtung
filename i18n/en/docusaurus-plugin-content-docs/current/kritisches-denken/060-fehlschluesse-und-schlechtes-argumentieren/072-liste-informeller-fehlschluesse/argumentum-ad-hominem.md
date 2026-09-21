@@ -115,6 +115,6 @@ Instead of examining the statement, the person's education is attacked. A missin
 
 - [Logically Fallacious: Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)
 
-<!--t src=f2b250f9-->
+<!--t src=5650c902-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-hominem.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem)

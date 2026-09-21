@@ -92,6 +92,6 @@ custom_translation_overwritten: false
 4. b) Affirming the consequent
 5. b) Composition
 
-<!--t src=a72a7fcc-->
+<!--t src=85fa613b-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/quiz-fehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/quiz-fehlschluesse)

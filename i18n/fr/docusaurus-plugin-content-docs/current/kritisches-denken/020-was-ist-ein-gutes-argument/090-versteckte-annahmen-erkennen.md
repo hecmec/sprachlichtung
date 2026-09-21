@@ -155,6 +155,6 @@ Reconnaître les hypothèses cachées est important pour la pensée critique, po
 
 5. Cela protège contre la manipulation par des arguments fondés sur des hypothèses cachées mais douteuses.
 
-<!--t src=82805bad-->
+<!--t src=3f40deaf-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/versteckte-annahmen-erkennen) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/versteckte-annahmen-erkennen)

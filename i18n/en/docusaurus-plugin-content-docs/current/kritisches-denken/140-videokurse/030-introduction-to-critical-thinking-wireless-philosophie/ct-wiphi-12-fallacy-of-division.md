@@ -49,3 +49,5 @@ He adds that the fallacy of division is the converse of the [fallacy of composit
 ### Key takeaway
 
 Just because water is wet does not mean water molecules are wet: what holds for a whole need not hold for its parts, and the inference from whole to part needs its own justification each time.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division)

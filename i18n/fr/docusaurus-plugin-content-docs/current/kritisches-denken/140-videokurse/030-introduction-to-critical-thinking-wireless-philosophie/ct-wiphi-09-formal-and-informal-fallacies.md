@@ -290,3 +290,5 @@ Un sophisme formel est un défaut dans la forme de l'argument : tout argument de
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies)

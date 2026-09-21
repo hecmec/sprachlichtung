@@ -154,4 +154,4 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 
 **Praktische Anwendung:** Üben Sie aktives Zuhören, ohne sofort zu widersprechen. Fragen Sie sich: "Warum könnte eine vernünftige Person diese Position vertreten?" Versuchen Sie, Argumente aus der Perspektive verschiedener kultureller oder ideologischer Standpunkte zu rekonstruieren.
 
-[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens)

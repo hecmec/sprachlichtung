@@ -119,6 +119,6 @@ If you ask the host nicely, she will surely give you both cake _and_ ice cream, 
 - [Wikipedia: Affirming a disjunct](https://en.wikipedia.org/wiki/Affirming_a_disjunct)
 - [Logically Fallacious: Affirming a Disjunct](https://www.logicallyfallacious.com/logicalfallacies/Affirming-a-Disjunct)
 
-<!--t src=a47c528e-->
+<!--t src=6448377d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion)

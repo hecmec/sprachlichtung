@@ -62,6 +62,6 @@ Analyze and evaluate the following arguments. In doing so, identify:
 
 "If the sun is shining, the snow will melt. The snow is melting. So the sun is shining."
 
-<!--t src=214a3cec-->
+<!--t src=52e10939-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten)

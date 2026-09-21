@@ -351,3 +351,5 @@ La compétence que le cours cherche à développer consiste à **ralentir et à 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics)

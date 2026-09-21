@@ -128,6 +128,6 @@ Identify the type of language pitfall (ambiguity, vagueness, loaded language, or
     - Problem: Evolution is attributed an intention or a goal.
     - Improvement: "The process of evolution, through natural selection, leads to organisms that are better adapted to their environment."
 
-<!--t src=50467185-->
+<!--t src=62456cf6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md) | [Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen) | [Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen)

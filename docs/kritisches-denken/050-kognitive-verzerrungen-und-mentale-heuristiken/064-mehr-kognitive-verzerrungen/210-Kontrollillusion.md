@@ -74,4 +74,4 @@ Kurzfristiger Handel wird oft mit der Überzeugung betrieben, den Markt "im Grif
 - Langer, E. J. (1975): "The illusion of control". Journal of Personality and Social Psychology, 32(2).
 - Daniel Kahneman: Thinking, Fast and Slow (deutsch: Schnelles Denken, langsames Denken).
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Kontrollillusion) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Kontrollillusion)

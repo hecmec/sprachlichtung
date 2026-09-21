@@ -86,3 +86,4 @@ L’intérêt pour la pensée critique tient au mécanisme des catégories englo
 <!-- href="https://www.youtube.com/watch?v=iHHR9292K14"
   Pensée critique - La confusion du blasphème et des propos racistes - 07 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-blaspheme-et-des-propos-racistes) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-blaspheme-et-des-propos-racistes)

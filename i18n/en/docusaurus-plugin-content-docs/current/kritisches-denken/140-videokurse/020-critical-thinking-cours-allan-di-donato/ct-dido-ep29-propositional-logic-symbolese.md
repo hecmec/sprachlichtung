@@ -81,3 +81,5 @@ Di Donato closes with practice translations:
 - "Jules likes pizza even though Luigi likes lasagna just in case either Moshe likes mozzarella or Henry likes Limburger" → *(J · L) ≡ (M ∨ H)*, showing how brackets keep complex forms clear.
 
 The episode ends by previewing the next topic: using these elements to examine the different types of **syllogisms** built from these propositions.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese)

@@ -79,4 +79,4 @@ Niemand bestreitet, dass gesunde Ernährung guttut. Mit dieser Binsenweisheit wi
 - [Wikipedia: Motte-and-bailey fallacy](https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy)
 - [RationalWiki: Motte and bailey](https://rationalwiki.org/wiki/Motte_and_bailey)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/turm-und-wall-fehler) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/turm-und-wall-fehler)

@@ -73,4 +73,4 @@ Für kritische Denker ist es wichtig, rhetorische Techniken zu erkennen und zwis
 - Wird die Glaubwürdigkeit des Sprechers als Ersatz für Beweise eingesetzt?
 - Werden Gegenargumente fair dargestellt und berücksichtigt?
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

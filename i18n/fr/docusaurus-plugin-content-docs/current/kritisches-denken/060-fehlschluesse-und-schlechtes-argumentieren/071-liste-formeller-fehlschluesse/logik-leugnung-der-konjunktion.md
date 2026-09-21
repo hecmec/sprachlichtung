@@ -115,6 +115,6 @@ Elle pourrait tout aussi bien être à Hambourg. L'exclusion d'une présence sim
 - [Wikipedia : Denying a conjunct](https://en.wikipedia.org/wiki/Denying_a_conjunct)
 - [Logically Fallacious: Denying a Conjunct](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Conjunct)
 
-<!--t src=d86e8002-->
+<!--t src=df9659ab-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion)

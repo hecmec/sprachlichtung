@@ -38,4 +38,4 @@ Das Verständnis dieser Konzepte bildet die Grundlage für die Analyse, Bewertun
 
 In den folgenden Kapiteln werden wir auf diesen Grundlagen aufbauen und weitere Aspekte des kritischen Denkens erkunden, darunter die Analyse von Argumenten, sprachliche Fallstricke und kognitive Verzerrungen.
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/zusammenfassung)

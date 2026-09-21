@@ -196,6 +196,6 @@ The analysis of speech acts in general, and of asserting as a linguistic act in 
 - **John R. Searle**, _Speech Acts_ (1969; German _Sprechakte. Ein sprachphilosophischer Essay_, Suhrkamp 1971). — Systematizes the **felicity conditions** of asserting (preparatory, sincerity and essential condition) and the _direction of fit_ between word and world.
 - **Robert B. Brandom**, _Making It Explicit_ (1994; German _Expressive Vernunft_, Suhrkamp 2000). — Understands asserting as a move in the **"game of giving and asking for reasons"**: whoever asserts undertakes a commitment for which reasons can be demanded.
 
-<!--t src=f88f56b9-->
+<!--t src=471848e3-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article en français](/fr/docs/sprach-welten/020-sprachspiele/020-behaupten.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/behaupten) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/behaupten)

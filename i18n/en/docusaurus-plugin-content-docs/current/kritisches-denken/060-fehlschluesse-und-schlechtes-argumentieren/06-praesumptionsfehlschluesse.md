@@ -145,6 +145,6 @@ This fallacy claims that something must be true because it has not been proven f
 
 **Why is this flawed?** The absence of evidence against a claim is not evidence for the claim. The burden of proof lies with the person making a positive claim.
 
-<!--t src=ef29736b-->
+<!--t src=3233d087-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/praesumptionsfehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/praesumptionsfehlschluesse)

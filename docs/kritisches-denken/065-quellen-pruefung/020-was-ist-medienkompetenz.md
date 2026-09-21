@@ -58,4 +58,4 @@ Drei Entwicklungen machen MIL heute besonders dringlich:
 
 Medienkompetenz ist damit keine Spezialdisziplin für Journalisten mehr, sondern eine **Alltagskompetenz** wie Lesen und Rechnen.
 
-[Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/was-ist-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/was-ist-medienkompetenz)

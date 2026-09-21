@@ -351,4 +351,4 @@ Die nächste Folge beginnt eine mehrteilige Untersuchung der **kategorialen Logi
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic)

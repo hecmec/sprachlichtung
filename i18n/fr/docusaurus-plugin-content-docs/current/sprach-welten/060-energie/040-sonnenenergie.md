@@ -95,6 +95,6 @@ Qui veut juger de façon autonome demande donc concrètement : combien une insta
 
 [^solar]: Chiffres et graphiques sur l'énergie solaire chez 🇩🇪 le [Fraunhofer ISE](https://www.ise.fraunhofer.de/), sur l'évolution des prix et le développement mondial chez 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy). Les données en temps réel du mix électrique allemand sont fournies par 🇩🇪 les [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/), pour la France par 🇫🇷 [RTE éCO2mix](https://www.rte-france.com/eco2mix) ; les données officielles par 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et 🇫🇷 l'[ADEME](https://www.ademe.fr/).
 
-<!--t src=4b6fb4fe-->
+<!--t src=6212cec5-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/040-sonnenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/040-sonnenenergie.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/sonnenenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/sonnenenergie)

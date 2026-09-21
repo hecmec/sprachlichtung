@@ -87,4 +87,4 @@ Trumps öffentliche Auftritte demonstrieren, wie **Selbstüberschätzung** mit m
 - Kruger, J., & Dunning, D. (1999): "Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments"
 - Dunning, D. (2011): "The Dunning-Kruger effect: On being ignorant of one's own ignorance"
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/050-Dunning-Kruger-Effekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Dunning-Kruger-Effekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Dunning-Kruger-Effekt)

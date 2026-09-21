@@ -105,4 +105,4 @@ Formulieren Sie ein persönliches Commitment zu Ihrem Entwicklungsplan:
 
 Datum: ****\*\*****\_****\*\***** Unterschrift: ****\*\*****\_****\*\*****
 
-[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken)

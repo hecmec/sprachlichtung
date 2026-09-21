@@ -81,5 +81,5 @@ L'épochè consiste à retenir les jugements hâtifs et à préserver un état d
 <!--t src=b2e601f1-->
 **Application pratique :** exercez-vous à poser des questions spécifiques et ciblées plutôt qu'à exprimer un scepticisme général. Lorsque vous doutez, demandez-vous : « Quelles informations m'aideraient à parvenir à une conclusion fondée ? » Utilisez le doute comme point de départ d'une exploration, et non comme un point d'arrivée.
 
-<!--t src=a7129493-->
-[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md)
+<!--t src=f0386a43-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/epoche-und-produktiver-zweifel) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/epoche-und-produktiver-zweifel)

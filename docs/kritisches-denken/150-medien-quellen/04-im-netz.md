@@ -31,4 +31,4 @@ draft: false
 - 🇫🇷 [Association Française pour l’Information Scientifique (AFIS)](https://www.afis.org/)
   - französischer Verein, der seit 1968 Wissenschaft und kritisches Denken fördert (Zeitschrift _Science et pseudo-sciences_).
 
-[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/04-im-netz.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/04-im-netz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/im-netz) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/im-netz)

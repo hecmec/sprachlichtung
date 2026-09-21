@@ -112,6 +112,6 @@ Une peinture fraîche ne dit rien de la capacité portante. Même si le pont est
 - [Wikipédia : Ignoratio elenchi (hors sujet)](https://fr.wikipedia.org/wiki/Ignoratio_elenchi)
 - [Logically Fallacious: Irrelevant Conclusion](https://www.logicallyfallacious.com/logicalfallacies/Irrelevant-Conclusion)
 
-<!--t src=dd786d6a-->
+<!--t src=eb37d06d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-gruende) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-gruende)

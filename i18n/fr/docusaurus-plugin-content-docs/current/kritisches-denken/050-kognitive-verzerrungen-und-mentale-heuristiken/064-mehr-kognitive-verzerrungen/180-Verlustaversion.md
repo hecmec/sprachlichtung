@@ -138,6 +138,6 @@ Des primes excessives pour des assurances d'appareils et des garanties, afin d'�
   Aversion à la perte
   La tendance à accorder plus de poids aux pertes qu'aux gains.
 
-<!--t src=ea943aa6-->
+<!--t src=7fbe45a5-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Verlustaversion) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Verlustaversion)

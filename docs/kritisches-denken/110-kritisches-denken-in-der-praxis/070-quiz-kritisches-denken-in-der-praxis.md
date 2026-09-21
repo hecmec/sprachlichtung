@@ -61,4 +61,4 @@ last_update:
 4. c) Echokammern und Filterblasen
 5. b) Die Ziele sollten spezifisch und messbar sein
 
-[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis)

@@ -156,6 +156,6 @@ Recognizing hidden assumptions is important for critical thinking for several re
 
 5. It protects against manipulation by arguments that are based on hidden but questionable assumptions.
 
-<!--t src=82805bad-->
+<!--t src=3f40deaf-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/090-versteckte-annahmen-erkennen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/versteckte-annahmen-erkennen) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/versteckte-annahmen-erkennen)

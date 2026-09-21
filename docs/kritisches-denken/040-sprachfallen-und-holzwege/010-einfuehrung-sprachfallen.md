@@ -77,4 +77,4 @@ Das Erkennen von Sprachfallen ist der erste Schritt, um sie zu vermeiden. In den
 
 Am Ende dieses Kapitels wirst du in der Lage sein, sprachliche Fallstricke in Argumenten, Medien oder Alltagsgesprächen zu erkennen und ihnen gezielt entgegenzuwirken.
 
-[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen)

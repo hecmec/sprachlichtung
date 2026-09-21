@@ -128,6 +128,6 @@ The more one moralizes ("You must..."), the more likely **defiance** follows; th
 - Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions.
 - Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth" era.
 
-<!--t src=6278b58e-->
+<!--t src=39c583f5-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Bumerang-Effekt) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Bumerang-Effekt)

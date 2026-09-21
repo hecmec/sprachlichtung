@@ -24,4 +24,4 @@ Paradoxien sind faszinierende Phänomene, die unser Denken herausfordern und uns
 
 In diesem Kapitel werden wir verschiedene Arten von Paradoxien untersuchen, ihre Struktur analysieren und ihre Bedeutung für das kritische Denken erkunden. Wir werden auch Strategien entwickeln, um mit paradoxen Situationen umzugehen und aus ihnen zu lernen.
 
-[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/010-einfuehrung.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/010-einfuehrung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung)

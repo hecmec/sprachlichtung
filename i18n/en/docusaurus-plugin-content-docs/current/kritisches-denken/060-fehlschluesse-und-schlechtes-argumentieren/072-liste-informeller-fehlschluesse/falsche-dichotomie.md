@@ -114,6 +114,6 @@ Health is a continuum with many intermediate states. The strict two-way split mi
 - [Wikipedia: False dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 - [Logically Fallacious: Black-or-White](https://www.logicallyfallacious.com/logicalfallacies/Black-or-White-Fallacy)
 
-<!--t src=9dfddefd-->
+<!--t src=fdac5eac-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-dichotomie) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-dichotomie)

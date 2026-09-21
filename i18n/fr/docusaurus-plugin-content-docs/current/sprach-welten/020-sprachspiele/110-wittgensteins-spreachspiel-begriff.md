@@ -162,6 +162,6 @@ Le débat continue de produire ses effets aujourd'hui : les philosophes systéma
 - 🇫🇷 [Recherches philosophiques : l'œuvre majeure de Wittgenstein](https://fr.wikipedia.org/wiki/Recherches_philosophiques)
 - 🇩🇪 [Philosophische Untersuchungen: Wittgenstein's Hauptwerk](https://de.wikipedia.org/wiki/Philosophische_Untersuchungen)
 
-<!--t src=9edc3be2-->
+<!--t src=ceffd114-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/wittgensteins-spreachspiel-begriff)

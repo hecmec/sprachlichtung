@@ -179,3 +179,5 @@ Puisque la qualité dont on se souvient d'une expérience ne dépend que de son 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect)

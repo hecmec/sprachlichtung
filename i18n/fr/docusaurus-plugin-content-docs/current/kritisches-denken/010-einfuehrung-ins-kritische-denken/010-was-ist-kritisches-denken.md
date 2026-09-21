@@ -231,6 +231,6 @@ C'est parti !
 
 [^4]: Dans l'article de Facione : "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."
 
-<!--t src=58229017-->
+<!--t src=eb0a4ac2-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/was-ist-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/was-ist-kritisches-denken)

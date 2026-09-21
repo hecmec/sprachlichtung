@@ -75,3 +75,5 @@ Pour la pensée critique, la conclusion est un exercice de démenti d’une hypo
 
 <!-- href="https://www.youtube.com/watch?v=SfWxC7yXHVE"
   Pensée critique - Les conquêtes laïques récentes - 03 - Module 3 -->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-les-conquetes-laiques-recent) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-les-conquetes-laiques-recent)

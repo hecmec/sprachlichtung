@@ -134,6 +134,6 @@ Il y a beaucoup de philosophes qui l'ont compris. Ils réconcilient leur foi en 
 
 [^2]: Le philosophe **Emmanuel Kant** a montré dans son œuvre que la foi et la raison sont des domaines distincts qui ne se contredisent pas. Dieu, la liberté et l'immortalité ne sont toutefois pas des objets de connaissance empirique, mais relèvent de la raison pratique.
 
-<!--t src=b1453b8c-->
+<!--t src=b3de717f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/mythen-ueber-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/mythen-ueber-kritisches-denken)

@@ -18,6 +18,6 @@ translation_status: auto
 
 Logic forms the foundation of critical thinking. To be able to analyze, evaluate, and construct arguments, we must understand the basic building blocks of logic. In this chapter, we get to know the most important logical elements that help us think more clearly and formulate better arguments.
 
-<!--t src=8e85a641-->
+<!--t src=24127927-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik) | [Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik)

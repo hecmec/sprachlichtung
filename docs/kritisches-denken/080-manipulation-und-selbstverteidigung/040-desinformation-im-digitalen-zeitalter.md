@@ -88,4 +88,4 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 - Wiederholung identischer oder sehr ähnlicher Nachrichten
 - Plötzlicher Anstieg von Unterstützung für ein Thema ohne erkennbaren Auslöser
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter)

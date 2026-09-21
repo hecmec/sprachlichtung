@@ -151,4 +151,4 @@ Die entscheidende Lehre liegt in einem einfachen Kriterium: Eine Kontroverse wir
 <!-- href="https://www.youtube.com/watch?v=ZAKMBpl9gWM"
   Pensée critique - Résumé de la section: Laïcité et biologie - 11 - Module 3 -->
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/110-resume-de-la-section.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/110-resume-de-la-section.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-resume-section-laicite-biologie) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-resume-section-laicite-biologie)

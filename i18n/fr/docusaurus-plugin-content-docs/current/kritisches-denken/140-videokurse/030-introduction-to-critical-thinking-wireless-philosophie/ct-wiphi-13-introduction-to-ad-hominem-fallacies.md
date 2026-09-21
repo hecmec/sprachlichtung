@@ -192,3 +192,5 @@ Chung conclut en soumettant au public un exemple supplémentaire, « Ronald Reag
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies)

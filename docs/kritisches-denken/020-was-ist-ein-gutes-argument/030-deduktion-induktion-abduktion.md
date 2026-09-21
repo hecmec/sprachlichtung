@@ -62,4 +62,4 @@ flowchart LR
 
 > Weiterführend: [Abduktion, Induktion, Deduktion (arbeitsblaetter.stangl-taller.at)](https://arbeitsblaetter.stangl-taller.at/DENKENTWICKLUNG/Abduktion-Induktion-Deduktion.shtml)
 
-[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/030-deduktion-induktion-abduktion.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/030-deduktion-induktion-abduktion.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/deduktion-induktion-abduktion) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/deduktion-induktion-abduktion)

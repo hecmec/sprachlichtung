@@ -144,6 +144,6 @@ A good approach:
 If you automatically thought of the reverse image search in Part C, you are already at the level of practised fact-checkers. It is precisely this reflex, _back to the original_, that sets them apart from amateurs.
 :::
 
-<!--t src=ab710085-->
+<!--t src=b3b221cf-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article en français](/fr/docs/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/uebung-quellenpruefung) | [Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/uebung-quellenpruefung)

@@ -110,6 +110,6 @@ How an idea arose says nothing about its correctness. Even a sudden inspiration 
 - [Wikipedia: Genetic fallacy](https://en.wikipedia.org/wiki/Genetic_fallacy)
 - [Logically Fallacious: Genetic Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy)
 
-<!--t src=e7082be7-->
+<!--t src=3b2ed7bd-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/genetischer-fehlschluss)

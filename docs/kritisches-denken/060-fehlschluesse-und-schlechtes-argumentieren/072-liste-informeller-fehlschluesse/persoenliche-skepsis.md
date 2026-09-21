@@ -71,4 +71,4 @@ Aus dem eigenen Unvermögen, sich die Technik vorzustellen, folgt keine ausserir
 - [Wikipedia: Argument from incredulity](https://en.wikipedia.org/wiki/Argument_from_incredulity)
 - [Logically Fallacious: Argument from Incredulity](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/persoenliche-skepsis) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/persoenliche-skepsis)

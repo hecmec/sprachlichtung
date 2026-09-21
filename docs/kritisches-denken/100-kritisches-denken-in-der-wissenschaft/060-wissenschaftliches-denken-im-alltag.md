@@ -104,4 +104,4 @@ Wissenschaftliches Denken kann helfen, kognitive Verzerrungen zu überwinden:
 
    _Strategie_: Ein "Vorhersagetagebuch" führen, um die eigene Prognosefähigkeit realistisch einzuschätzen.
 
-[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/060-wissenschaftliches-denken-im-alltag.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag)

@@ -130,6 +130,6 @@ Qui teste de nombreuses variables sans hypothèse claire trouvera presque à cou
 - Taleb, N. N. (2001) : Fooled by Randomness &mdash; sur les motifs illusoires dans des données bruitées.
 - Gilovich, T. (1991) : How We Know What Isn’t So &mdash; les erreurs du raisonnement quotidien.
 
-<!--t src=4ed4852c-->
+<!--t src=ea27eda6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Apophaenie) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Apophaenie)

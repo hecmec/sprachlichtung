@@ -226,3 +226,5 @@ Aucune de ces répliques n'aborde les prémisses ni la conclusion de Catherine o
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem)

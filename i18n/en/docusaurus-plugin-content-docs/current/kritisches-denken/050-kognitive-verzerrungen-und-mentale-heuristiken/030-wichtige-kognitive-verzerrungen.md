@@ -331,6 +331,6 @@ The **hindsight bias** is the tendency, after an event has occurred, to believe 
 - Anonymous voting or feedback to reduce social pressure
 - Seek external perspectives
 
-<!--t src=12acd56d-->
+<!--t src=607f8996-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen)

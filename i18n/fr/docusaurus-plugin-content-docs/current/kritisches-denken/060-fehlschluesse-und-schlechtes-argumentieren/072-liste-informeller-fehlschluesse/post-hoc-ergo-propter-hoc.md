@@ -111,6 +111,6 @@ Le fait que la réussite ait suivi ne fait pas du porte-bonheur la cause. Ici, c
 - [Wikipédia : Post hoc ergo propter hoc](https://fr.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)
 - [Logically Fallacious: Post Hoc Ergo Propter Hoc](https://www.logicallyfallacious.com/logicalfallacies/Post-Hoc-Ergo-Propter-Hoc)
 
-<!--t src=a23636e7-->
+<!--t src=b3c66190-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/post-hoc-ergo-propter-hoc)

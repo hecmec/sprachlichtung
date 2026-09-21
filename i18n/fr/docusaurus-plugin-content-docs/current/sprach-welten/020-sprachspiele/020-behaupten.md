@@ -196,6 +196,6 @@ L'analyse des actes de langage en général, et de l'affirmation comme acte de l
 - **John R. Searle**, 🇩🇪 _Sprechakte. Ein sprachphilosophischer Essay_ (Suhrkamp, 1971) / 🇬🇧 _Speech Acts_ (1969) / 🇫🇷 _Les actes de langage. Essai de philosophie du langage_ (Hermann, 1972) : systématise les **conditions de réussite** de l'affirmation (condition préliminaire, de sincérité, condition essentielle) et l'_ajustement_ entre le mot et le monde.
 - **Robert B. Brandom**, 🇩🇪 _Expressive Vernunft_ (Suhrkamp, 2000) / 🇬🇧 _Making It Explicit_ (1994) / 🇫🇷 _Rendre explicite_ (Cerf, 2010) : comprend l'affirmation comme un coup dans le **« jeu du donner et du demander des raisons »** : qui affirme s'engage et se rend redevable de justifications.
 
-<!--t src=f88f56b9-->
+<!--t src=471848e3-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/020-behaupten.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/behaupten) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/behaupten)

@@ -110,6 +110,6 @@ The good feeling produced is meant to carry the purchasing decision, but says no
 - [Wikipedia: Appeal to emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion)
 - [Logically Fallacious: Appeal to Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)
 
-<!--t src=43021c3d-->
+<!--t src=71ad8a33-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/emotionsappell.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/emotionsappell) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/emotionsappell)

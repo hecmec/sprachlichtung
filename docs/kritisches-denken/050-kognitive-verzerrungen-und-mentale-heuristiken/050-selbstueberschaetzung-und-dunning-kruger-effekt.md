@@ -67,4 +67,4 @@ Selbstüberschätzung und der Dunning-Kruger-Effekt können kritisches Denken au
 
 5. **Kommunikationsprobleme**: Experten können Schwierigkeiten haben, ihr Wissen zu vermitteln, wenn sie die Komplexität ihres Fachgebiets für andere unterschätzen.
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/selbstueberschaetzung-und-dunning-kruger-effekt)

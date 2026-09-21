@@ -138,6 +138,6 @@ Lorsqu'on cherche une seule personne parmi des millions, même un taux d'erreur 
 - [Wikipédia : Négligence de la fréquence de base](https://fr.wikipedia.org/wiki/N%C3%A9gligence_de_la_fr%C3%A9quence_de_base)
 - [Wikipedia: Base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)
 
-<!--t src=f8aad710-->
+<!--t src=3f25492d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-praevalenzfehler.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-praevalenzfehler.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-praevalenzfehler) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-praevalenzfehler)

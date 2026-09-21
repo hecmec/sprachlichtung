@@ -142,6 +142,6 @@ Des antidouleurs identiques agissent plus fortement lorsqu'ils sont administrés
 - Benedetti, F. (2008) : "Placebo Effects: Understanding the mechanisms in health and disease"
 - Kaptchuk, T. J. (2001) : "The Double-Blind, Placebo-Controlled Trial: Gold Standard or Golden Calf?"
 
-<!--t src=0d07b60e-->
+<!--t src=2fa9139d-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/230-Placebo-Effekt.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Placebo-Effekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Placebo-Effekt)

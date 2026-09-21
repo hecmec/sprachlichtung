@@ -335,6 +335,6 @@ La **pensée de groupe** désigne la tendance, au sein des groupes, à recherche
 - Recourir à des votes ou à des retours anonymes pour réduire la pression sociale
 - Solliciter des perspectives extérieures
 
-<!--t src=12acd56d-->
+<!--t src=607f8996-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/wichtige-kognitive-verzerrungen)

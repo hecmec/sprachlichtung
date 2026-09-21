@@ -125,4 +125,4 @@ Im digitalen Zeitalter ist Medienkompetenz besonders wichtig:
 
   _Beispiel_: Lesen Sie Artikel vollständig und prüfen Sie ihre Quellen, bevor Sie sie teilen, selbst wenn die Überschrift Ihre Überzeugungen bestätigt.
 
-[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/verteidigungsstrategien-gegen-manipulation) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/verteidigungsstrategien-gegen-manipulation)

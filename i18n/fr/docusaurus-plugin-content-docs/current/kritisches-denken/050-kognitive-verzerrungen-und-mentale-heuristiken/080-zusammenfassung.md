@@ -77,6 +77,6 @@ La prise de conscience des biais cognitifs et l'application de stratégies pour 
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
 
-<!--t src=6f00b95c-->
+<!--t src=9fb9b63a-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/zusammenfassung)

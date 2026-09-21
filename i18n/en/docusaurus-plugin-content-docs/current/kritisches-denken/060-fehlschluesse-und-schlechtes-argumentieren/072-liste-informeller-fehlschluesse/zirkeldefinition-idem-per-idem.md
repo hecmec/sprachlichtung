@@ -109,6 +109,6 @@ Whoever does not know what sleeping is does not learn it this way. The term is e
 
 - [Wikipedia: Circular definition](https://en.wikipedia.org/wiki/Circular_definition)
 
-<!--t src=b757a1a4-->
+<!--t src=15d20456-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem)

@@ -70,3 +70,4 @@ L’enseignement décisif tient dans un critère simple : une controverse ne s�
 <!-- href="https://www.youtube.com/watch?v=ZAKMBpl9gWM"
   Pensée critique - Résumé de la section: Laïcité et biologie - 11 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-resume-section-laicite-biologie) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-resume-section-laicite-biologie)

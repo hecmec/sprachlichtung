@@ -53,4 +53,4 @@ So führt Orwells bitterer Satz zurück zur Aufgabe. Die Behauptung, manche seie
 - siehe auch Habermas' Diskursethik, v. a. der Universalisierungsgrundsatz (U), wonach eine Norm nur gilt, wenn ihr alle Betroffenen als Teilnehmer eines praktischen Diskurses zustimmen könnten. Habermas: _Moralbewußtsein und kommunikatives Handeln_, Suhrkamp 1983.
 - Richard Rorty: _Contingency, Irony, and Solidarity_, 1989.
 
-[Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/gleichheit) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/gleichheit)

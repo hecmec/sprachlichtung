@@ -121,6 +121,6 @@ De deux négations, rien ne s'ensuit. Que l'hydrogène ne soit pas un gaz noble 
 - [Wikipedia: Fallacy of exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises)
 - [Logically Fallacious: Exclusive Premises](https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises)
 
-<!--t src=b19c79d4-->
+<!--t src=e355fab9-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen)

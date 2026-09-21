@@ -85,6 +85,6 @@ custom_translation_overwritten: false
 - 🇫🇷 [Écriture inclusive](https://fr.wikipedia.org/wiki/%C3%89criture_inclusive) &mdash; Wikipédia
 - 🇫🇷 [Sociolinguistique](https://fr.wikipedia.org/wiki/Sociolinguistique) &mdash; Wikipédia
 
-<!--t src=49987da2-->
+<!--t src=98e842db-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/070-medien-quellen/01-artikel.md) | [Article in English](/en/docs/sprach-welten/070-medien-quellen/01-artikel.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/medien-quellen/artikel) | [Article in English](pathname:///en/docs/sprach-welten/medien-quellen/artikel)

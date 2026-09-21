@@ -165,3 +165,7 @@ Prévoyez de vérifier régulièrement vos progrès et d'ajuster votre plan de d
 <!--t src=fa6451aa-->
 
 **Date de la première vérification** : . . . . . . . . . . . .
+
+<!--t src=d3148d57-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern)

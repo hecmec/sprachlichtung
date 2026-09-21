@@ -82,3 +82,4 @@ L’exercice de pensée critique tient dans ce déplacement : juger un régime d
 <!-- href="https://www.youtube.com/watch?v=w35NVFeLmRE"
   Pensée critique - L'invocation de Dieu par les pouvoirs publics - 05 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-l-invocation-de-dieu) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-l-invocation-de-dieu)

@@ -126,6 +126,6 @@ Une petite habitude puissante des professionnels : le **click restraint** (« re
 
 Il existe des listes de contrôle classiques comme le **test CRAAP** (voir page suivante). Caulfield lui reproche ceci : qui examine une page seulement « de l'intérieur » regarde précisément les caractéristiques les plus faciles à falsifier. SIFT renverse la logique et dit : **sortez de la page, entrez dans le contexte.** Les deux ont leur place ; SIFT est le premier réflexe, le plus rapide.
 
-<!--t src=f779d23f-->
+<!--t src=5b668fa6-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/die-sift-methode) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/die-sift-methode)

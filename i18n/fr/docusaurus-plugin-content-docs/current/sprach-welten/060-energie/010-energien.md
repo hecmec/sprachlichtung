@@ -125,6 +125,6 @@ Il n'est pas nécessaire d'être physicien pour prendre part au débat sur l'én
 
 [^endenergie]: 🇩🇪 « Endenergieverbrauch », dans : Wikipedia, [de.wikipedia.org/wiki/Endenergieverbrauch](https://de.wikipedia.org/wiki/Endenergieverbrauch). Sur le découplage entre croissance économique et consommation d'énergie, voir aussi 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy) ainsi que 🇫🇷 les chiffres clés de l'énergie de l'[ADEME](https://www.ademe.fr/).
 
-<!--t src=3c6ba513-->
+<!--t src=f6ed3478-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/060-energie/010-energien.md) | [Article in English](/en/docs/sprach-welten/060-energie/010-energien.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/energie/energien) | [Article in English](pathname:///en/docs/sprach-welten/energie/energien)

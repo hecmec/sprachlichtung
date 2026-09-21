@@ -113,4 +113,4 @@ Das Verständnis von Entailment ist entscheidend für das kritische Denken, da e
 - [Ableitung in der Logik](<https://de.wikipedia.org/wiki/Ableitung_(Logik)>), Wikipedia
 - [Semantische Folgerung], Wikipedia(https://de.wikipedia.org/wiki/Semantische_Folgerung)
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/entailment-semantische-logische-folgerung) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/entailment-semantische-logische-folgerung)

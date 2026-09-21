@@ -54,4 +54,4 @@ Kognitive Verzerrungen entstehen aus verschiedenen Gründen:
 
 5. **Emotionale Einflüsse**: Emotionen können rationales Denken überlagern und zu verzerrten Urteilen führen.
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/was-sind-kognitive-verzerrungen)

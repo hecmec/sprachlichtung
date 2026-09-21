@@ -70,4 +70,4 @@ Wird vor einer Schätzung eine zufällige oder offensichtlich falsche Zahl genan
 - Tversky & Kahneman (1974): "Judgment under Uncertainty: Heuristics and Biases".
 - Chapman & Johnson (1999): "Anchoring, Activation, and the Construction of Values".
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Ankereffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Ankereffekt)

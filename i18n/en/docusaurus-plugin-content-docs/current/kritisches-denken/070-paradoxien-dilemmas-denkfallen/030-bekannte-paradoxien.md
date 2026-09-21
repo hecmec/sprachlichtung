@@ -186,5 +186,5 @@ The **surprise test paradox** reads:
 
 **Significance:** This paradox pits two decision principles against each other: the dominance principle (taking both boxes is always better) and the expected-utility principle (taking only Box B leads to higher expected utility if the predictor is reliable). It has implications for decision theory, free will and causality.
 
-<!--t src=aa34cffc-->
-[Artikel auf Deutsch](/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md)
+<!--t src=2406f54a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/bekannte-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/bekannte-paradoxien)

@@ -90,6 +90,6 @@ Ainsi le laisser-être se révèle être une exigeante pratique de la distinctio
 
 [^forst-toleranz]: 🇩🇪 Rainer Forst : _Toleranz im Konflikt. Geschichte, Gehalt und Gegenwart eines umstrittenen Begriffs_ (« La tolérance en conflit. Histoire, contenu et actualité d'une notion controversée »). Suhrkamp, Francfort-sur-le-Main 2003.
 
-<!--t src=bc12717e-->
+<!--t src=972f49e1-->
 
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md) | [Article in English](/en/docs/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md)
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/sein-lassen) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/sein-lassen)

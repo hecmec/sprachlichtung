@@ -159,5 +159,5 @@ Analyse a potentially pseudoscientific claim using the following criteria:
    - Is it more a matter of science or pseudoscience?
    - Which features were decisive for your assessment?
 
-<!--t src=dc2606c9-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/070-uebung-wissenschaftliche-behauptungen-analysieren.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/070-uebung-wissenschaftliche-behauptungen-analysieren.md)
+<!--t src=0ec279ef-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren)

@@ -110,6 +110,6 @@ L'absence d'étude ne constitue pas une preuve d'innocuité. « Non étudié » 
 - [Wikipédia : Argumentum ad ignorantiam](https://fr.wikipedia.org/wiki/Argumentum_ad_ignorantiam)
 - [Logically Fallacious: Appeal to Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Ignorance)
 
-<!--t src=d6b92fc5-->
+<!--t src=80a10cf2-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-ignorantiam.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-ignorantiam)

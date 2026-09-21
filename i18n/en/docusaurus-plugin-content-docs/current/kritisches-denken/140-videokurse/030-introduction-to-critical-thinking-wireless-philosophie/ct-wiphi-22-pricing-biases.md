@@ -49,3 +49,5 @@ The behavioural economist Baba Shiv and colleagues let people pay different amou
 ### Key takeaway
 
 Because our minds assume that a higher price means better quality, even when the price is entirely arbitrary, pricing biases affect not just what we are willing to pay, but how good something actually seems, and even performs, to us.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases)

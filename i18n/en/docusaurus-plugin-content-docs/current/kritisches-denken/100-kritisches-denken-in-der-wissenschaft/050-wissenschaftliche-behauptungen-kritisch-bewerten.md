@@ -161,5 +161,5 @@ Communicating scientific findings to the public is associated with particular ch
    - Consideration of the audience's prior knowledge and needs
    - Promotion of scientific understanding among the public
 
-<!--t src=a0bc5b42-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/050-wissenschaftliche-behauptungen-kritisch-bewerten.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/050-wissenschaftliche-behauptungen-kritisch-bewerten.md)
+<!--t src=9e44d4ab-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten)

@@ -364,5 +364,5 @@ Increasingly important are **interdisciplinary approaches**, which combine the m
 - Environmental science integrates biology, chemistry, geology, economics and political science.
 - Science and technology studies combine sociological, historical and philosophical approaches.
 
-<!--t src=4dfb01bc-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md)
+<!--t src=e6ef612b-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode)

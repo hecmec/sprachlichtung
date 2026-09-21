@@ -72,4 +72,4 @@ Dass es grössere Probleme gibt, macht das kleinere nicht belanglos. Der Verweis
 - [Wikipedia: Relative privation](https://en.wikipedia.org/wiki/Relative_privation)
 - [Logically Fallacious: Relative Privation](https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit)

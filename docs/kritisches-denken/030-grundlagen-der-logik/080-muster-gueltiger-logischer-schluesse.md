@@ -128,4 +128,4 @@ Das Verständnis dieser Argumentationsmuster ist aus mehreren Gründen wichtig f
 
 4. Es fördert ein tieferes Verständnis der logischen Beziehungen zwischen Aussagen.
 
-[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/muster-gueltiger-logischer-schluesse) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/muster-gueltiger-logischer-schluesse)

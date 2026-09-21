@@ -50,4 +50,4 @@ draft: false
 - 🇫🇷 [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais) (Laélia Véron) &mdash; Binge Audio
   - Linguistin Laélia Véron über Sprache, Macht und gesellschaftliche Debatten rund ums Sprechen.
 
-[Article en français](/fr/docs/kritisches-denken/150-medien-quellen/03-podcasts.md) | [Article in English](/en/docs/kritisches-denken/150-medien-quellen/03-podcasts.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/podcasts) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/podcasts)

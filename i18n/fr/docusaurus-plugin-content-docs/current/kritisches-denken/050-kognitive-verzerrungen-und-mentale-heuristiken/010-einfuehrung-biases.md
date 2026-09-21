@@ -70,6 +70,6 @@ Dans ce chapitre, nous allons examiner ce que sont les biais cognitifs, comment 
 - [Résumé](./080-zusammenfassung.md)
 - [Quiz : les biais cognitifs et les heuristiques mentales](./090-quiz-biases.md)
 
-<!--t src=9cebec92-->
+<!--t src=e054d189-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases)

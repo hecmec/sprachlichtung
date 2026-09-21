@@ -356,3 +356,5 @@ Enfin, **une image n’est jamais vraie ni fausse** : ce n’est pas une affirma
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric)

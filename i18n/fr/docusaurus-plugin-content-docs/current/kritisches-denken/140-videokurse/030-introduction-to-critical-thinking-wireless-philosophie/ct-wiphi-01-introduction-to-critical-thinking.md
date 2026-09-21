@@ -306,3 +306,5 @@ La pensée critique consiste à s'assurer que nous avons de bonnes raisons de cr
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking)

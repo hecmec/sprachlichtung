@@ -47,3 +47,5 @@ Because the peak-end heuristic only registers two moments, it discards all infor
 ### Key takeaway
 
 Since an experience's remembered goodness depends only on its peak and its end, the surest way to make an event feel great is to end it on its best possible point, which is why so many enjoyable events, from a winning goal to a fireworks finale, save their peak for last.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect)

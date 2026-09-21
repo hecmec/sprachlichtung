@@ -71,4 +71,4 @@ Gerade neue Verfahren sind oft noch wenig erprobt. Neuheit ersetzt keinen Wirksa
 - [Wikipedia: Appeal to novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)
 - [Logically Fallacious: Appeal to Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)
 
-[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-novitatem) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-novitatem)

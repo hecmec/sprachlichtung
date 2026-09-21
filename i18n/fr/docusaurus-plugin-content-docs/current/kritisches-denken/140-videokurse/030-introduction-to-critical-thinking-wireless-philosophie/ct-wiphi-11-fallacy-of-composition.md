@@ -211,3 +211,5 @@ Le sophisme de composition consiste à inférer, sans justification, qu'un tout 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-11-fallacy-of-composition) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-11-fallacy-of-composition)

@@ -93,6 +93,6 @@ custom_translation_overwritten: false
 4. b) « Les ordinateurs fonctionnent de façon semblable au cerveau humain. Les ordinateurs ne peuvent pas résoudre certaines tâches. Donc le cerveau humain ne peut probablement pas résoudre ces tâches non plus. »
 5. b) Le changement de perspective
 
-<!--t src=344e5acf-->
+<!--t src=674de98f-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument)

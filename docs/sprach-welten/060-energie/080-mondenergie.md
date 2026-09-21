@@ -54,4 +54,4 @@ Genau darin liegt der emanzipatorische Wert dieses Kapitels. Wer versteht, dass 
 
 [^gezeiten]: Hintergründe zu Gezeiten und Gezeitenenergie u. a. bei „Gezeitenkraftwerk", in: Wikipedia, [de.wikipedia.org/wiki/Gezeitenkraftwerk](https://de.wikipedia.org/wiki/Gezeitenkraftwerk). Einordnung in den weltweiten Energiemix bei [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-[Article en français](/fr/docs/sprach-welten/060-energie/080-mondenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/080-mondenergie.md)
+[Article en français](pathname:///fr/docs/sprach-welten/energie/mondenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/mondenergie)

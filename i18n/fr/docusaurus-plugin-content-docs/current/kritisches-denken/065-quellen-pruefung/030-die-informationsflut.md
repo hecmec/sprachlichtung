@@ -99,6 +99,6 @@ La fausse nouvelle la plus dangereuse est celle que nous _voulons_ croire. C'est
 
 Comment procéder concrètement à cette vérification, c'est ce que montre la page suivante, avec la méthode la plus simple et la plus efficace qui soit.
 
-<!--t src=5cfb7d4b-->
+<!--t src=b4f5212c-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/die-informationsflut) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/die-informationsflut)

@@ -95,4 +95,4 @@ Geplant für 77 Millionen Euro (2007), finale Kosten: 866 Millionen Euro. Jeder 
 - Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes.
 - Heath, C. (1995). Escalation and de-escalation of commitment in response to sunk costs.
 
-[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/150-Versunkene-Kosten-Falle.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/150-Versunkene-Kosten-Falle.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Versunkene-Kosten-Falle) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Versunkene-Kosten-Falle)

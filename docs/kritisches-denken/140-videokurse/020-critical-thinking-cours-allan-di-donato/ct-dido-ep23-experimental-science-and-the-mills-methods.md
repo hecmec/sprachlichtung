@@ -296,4 +296,4 @@ Die nächste Folge wendet sich der historischen Wissenschaft und häufigen Fehle
 </div>
 </div>
 
-[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods)

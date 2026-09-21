@@ -154,4 +154,4 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 
 **Überwindungsstrategie:** Entwickeln Sie intellektuelle Autonomie, indem Sie Ihre Überzeugungen auf ihre Begründung hin überprüfen, unabhängig davon, wer sie vertritt. Üben Sie, Ihre eigene Meinung zu bilden, bevor Sie die Meinungen anderer konsultieren.
 
-[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken)

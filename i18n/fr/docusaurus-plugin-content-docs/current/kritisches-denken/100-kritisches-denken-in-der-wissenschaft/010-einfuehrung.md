@@ -31,5 +31,5 @@ La science est l'une des entreprises les plus fructueuses de l'humanité pour ac
 <!--t src=5db73c6f-->
 Dans ce chapitre, nous examinerons les fondements de la méthode scientifique, nous découvrirons différentes approches scientifiques et nous comprendrons comment la science génère et vérifie les connaissances. Nous considérerons également les limites de la science et apprendrons comment évaluer de manière critique les affirmations scientifiques.
 
-<!--t src=bf04bfff-->
-[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md)
+<!--t src=31f94043-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/einfuehrung)

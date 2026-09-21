@@ -109,6 +109,6 @@ The person's fate is no reason that settles the question of who actually played 
 - [Wikipedia: Appeal to pity](https://en.wikipedia.org/wiki/Appeal_to_pity)
 - [Logically Fallacious: Appeal to Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)
 
-<!--t src=31381e09-->
+<!--t src=dc1591a0-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam)

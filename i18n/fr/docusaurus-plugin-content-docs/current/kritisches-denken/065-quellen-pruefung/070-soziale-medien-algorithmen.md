@@ -104,6 +104,6 @@ Cela veut-il dire que les algorithmes sont inoffensifs ? Non. L'inquiétude se d
 - **Faire une pause quand on est remué.** Dans le fil, une émotion forte est souvent le signe qu'un contenu a été optimisé pour la portée : c'est le moment d'appliquer [SIFT](040-die-sift-methode.md).
 - **Partager, c'est diffuser.** Chaque clic sur « partager » est un vote pour l'algorithme. Vérifier d'abord, partager ensuite.
 
-<!--t src=b8b41af4-->
+<!--t src=ce981367-->
 
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/soziale-medien-algorithmen)
