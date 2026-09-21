@@ -179,3 +179,6 @@ In the digital age, media literacy is particularly important:
 
 <!--t src=24d0a919-->
   *Example*: Read articles in full and check their sources before sharing them, even if the headline confirms your beliefs.
+
+<!--t src=6eddb603-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md)

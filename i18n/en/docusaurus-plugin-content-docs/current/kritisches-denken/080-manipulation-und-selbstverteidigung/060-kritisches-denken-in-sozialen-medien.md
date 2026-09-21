@@ -88,3 +88,6 @@ Social media poses particular challenges for critical thinking. Here are some sp
 
 <!--t src=3d0404ea-->
    *Example*: Watch out for signs of image manipulation such as unnatural shadows, distorted proportions or inconsistent lighting.
+
+<!--t src=4735f76f-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md)

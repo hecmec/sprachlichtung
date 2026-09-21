@@ -44,3 +44,6 @@ La pensée critique n'est pas un exercice intellectuel abstrait, mais une compé
 
 <!--t src=4f0512bb-->
 Le développement de la pensée critique est un cheminement de toute une vie, qui exige patience, persévérance et ouverture d'esprit. Mais les bénéfices &mdash; de meilleures décisions, une compréhension plus profonde, une plus grande autonomie intellectuelle et des contributions plus constructives aux débats de société &mdash; rendent cet effort plus que rentable.
+
+<!--t src=6404073b-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md)

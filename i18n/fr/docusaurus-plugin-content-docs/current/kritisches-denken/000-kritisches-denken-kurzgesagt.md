@@ -527,3 +527,6 @@ flowchart LR
 
 <!--t src=31c8926a-->
 Après cet aperçu très condensé de la pensée critique, nous passons maintenant aux détails !
+
+<!--t src=b8cc8b98-->
+[Artikel auf Deutsch](/docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/000-kritisches-denken-kurzgesagt.md)

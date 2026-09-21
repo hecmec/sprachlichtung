@@ -159,3 +159,6 @@ Formulate a personal commitment to your development plan:
 <!--t src=69e22dff-->
 
 Date: **********\_********** Signature: **********\_**********
+
+<!--t src=148e6474-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md)

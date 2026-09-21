@@ -122,3 +122,6 @@ Analysez les exemples suivants et identifiez les techniques de manipulation util
      - Chercher des données et des faits concrets
      - Consulter différentes sources sur la réforme fiscale
      - Se renseigner sur les effets réels pour les différentes tranches de revenus
+
+<!--t src=4d970041-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md)

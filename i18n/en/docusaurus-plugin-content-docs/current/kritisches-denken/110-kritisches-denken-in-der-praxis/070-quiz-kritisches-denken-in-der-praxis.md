@@ -75,3 +75,6 @@ custom_translation_overwritten: false
 3. b) Actively seeking out information that contradicts one's own beliefs
 4. c) Echo chambers and filter bubbles
 5. b) The goals should be specific and measurable
+
+<!--t src=df780072-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md)

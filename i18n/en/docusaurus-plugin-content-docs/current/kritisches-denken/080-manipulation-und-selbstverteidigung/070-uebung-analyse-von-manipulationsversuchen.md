@@ -136,3 +136,6 @@ Analyse the following examples and identify the manipulation techniques used. Co
      - Look for concrete data and facts
      - Consult various sources on the tax reform
      - Research the actual effects on different income groups
+
+<!--t src=4d970041-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/070-uebung-analyse-von-manipulationsversuchen.md)
