@@ -84,3 +84,5 @@ In Krankenhäusern können hierarchische Strukturen dazu führen, dass Pflegekr�
 - [Wikipedia: Groupthink](https://de.wikipedia.org/wiki/Groupthink)
 - Irving Janis (1972): "Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes"
 - Janis, I. L. (1982): "Groupthink: Psychological Studies of Policy Decisions and Fiascoes"
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md)

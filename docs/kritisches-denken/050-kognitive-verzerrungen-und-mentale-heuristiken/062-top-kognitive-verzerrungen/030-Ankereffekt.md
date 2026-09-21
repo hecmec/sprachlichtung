@@ -69,3 +69,5 @@ Wird vor einer Schätzung eine zufällige oder offensichtlich falsche Zahl genan
 - [Wikipedia: Ankereffekt](https://de.wikipedia.org/wiki/Ankereffekt)
 - Tversky & Kahneman (1974): "Judgment under Uncertainty: Heuristics and Biases".
 - Chapman & Johnson (1999): "Anchoring, Activation, and the Construction of Values".
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md)

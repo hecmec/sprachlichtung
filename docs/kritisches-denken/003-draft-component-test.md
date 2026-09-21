@@ -10,12 +10,11 @@ last_update:
   author: Immanuel Lupinus
 
 completeness: 1/5
-draft: true
-
+unlisted: true
 ---
+
 import React from 'react';
 import ReactPlayer from 'react-player';
-
 
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
 
@@ -79,7 +78,7 @@ You can also specify image dimensions ??:
 You can use **img** tags
 
 ```html
-<img src={require("@site/static/img/docusaurus.png").default} alt="docu img" 
+<img src={require("@site/static/img/docusaurus.png").default} alt="docu img"
   width="300" style={{marginBottom: '-10px'}} />
 ```
 
@@ -122,27 +121,25 @@ note, tip, info, warning, danger
 Docusaurus has a special syntax to create admonitions and callouts:
 
 ```md
-
 :::note Notiz
-Hier ist eine Notiz 
+Hier ist eine Notiz
 :::
 
 :::tip Mein Tipp
-Hier ist ein Tipp 
+Hier ist ein Tipp
 :::
 
 :::info Information
-Hier ist eine Information 
+Hier ist eine Information
 :::
 
 :::warning Achtung
-Hier ist eine Warnung 
+Hier ist eine Warnung
 :::
 
 :::danger Gefahr
 This action is dangerous
 :::
-
 ```
 
 :::note Notiz
@@ -187,8 +184,8 @@ import Admonition from '@theme/Admonition';
 
 <Admonition type="note" icon="💬" title="Zitat">
 
-  "**Ich weiß, dass ich nichts weiß**"  
-  wörtlich: "Denn von mir selbst wusste ich, dass ich gar nichts weiß ..."
+"**Ich weiß, dass ich nichts weiß**"  
+ wörtlich: "Denn von mir selbst wusste ich, dass ich gar nichts weiß ..."
 
   <p class="text--right">Sokrates in Platon: _Apologie des Sokrates_ 22d</p>
 </Admonition>
@@ -229,7 +226,6 @@ You can also use named footnotes:
 Here's another sentence[^namedNote].
 
 [^namedNote]: This is a named footnote.
-
 ```
 
 Here's another sentence[^namedNote].
@@ -249,9 +245,9 @@ flowchart TD
 
 Here is the github of [vscode-markdown-shortcuts](https://github.com/mdickin/vscode-markdown-shortcuts).
 
-- Ctrl-B for **bold**  
-- Ctrl-I for _italic_  
-- Ctrl-L for toggle [link](www.example.org) to resource.  
+- Ctrl-B for **bold**
+- Ctrl-I for _italic_
+- Ctrl-L for toggle [link](www.example.org) to resource.
 
 ## Math
 
@@ -265,9 +261,9 @@ $$
 <details>
   <summary>Hier kannst du mehr Quellen finden</summary>
 
-  - Quelle 1
-  - Quelle 2 
-  - Quelle 3
+- Quelle 1
+- Quelle 2
+- Quelle 3
 </details>
 ```
 
@@ -281,7 +277,9 @@ $$
 </details>
 
 ## Browser window
+
 <!-- import BrowserWindow from '@site/src/components/BrowserWindow'; -->
+
 ```md
 <BrowserWindow>
 toto
@@ -292,14 +290,17 @@ toto
 toto
 </BrowserWindow>
 
-<!-- ## Tooltip old 
-This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and this is another  
-<Tooltip type="another-subject-area" content="different-topic">Tooltip</Tooltip> 
+<!-- ## Tooltip old
+This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and this is another
+<Tooltip type="another-subject-area" content="different-topic">Tooltip</Tooltip>
 -->
+
 ## Html Tooltip
+
 ```
 <a title="This is a tooltip">Hover over me</a>
 ```
+
 <a title="This is a tooltip">Hover over me</a>
 
 ## Extended Tooltip
@@ -314,11 +315,11 @@ This is a <Tooltip type="subject-area" content="topic">Tooltip</Tooltip> and thi
 
 <Tooltip text="Text Tooltip" model="text">
   Eine Text Nachricht in grau
-</Tooltip> 
+</Tooltip>
 
 <Tooltip text="Info Tooltip" model="info">
   Brief explanation
-</Tooltip> 
+</Tooltip>
 
 <Tooltip text="Success Tooltip" model="success">
   ## Success message.  
@@ -476,9 +477,9 @@ import TabItem from '@theme/TabItem';
   viewBox="0 0 48 48"
   width="48"
   height="48">
-  <path fill="#FF6D00" d="M42 42H6V6h36v36z" />
-  <path fill="#FFF" d="M8 8v32h32V8H8zm30 30H10V10h28v28z" />
-  <path
+<path fill="#FF6D00" d="M42 42H6V6h36v36z" />
+<path fill="#FFF" d="M8 8v32h32V8H8zm30 30H10V10h28v28z" />
+<path
     fill="#FFF"
     d="M23 32h2v-6l5.5-10h-2.1L24 24.1 19.6 16h-2.1L23 26z"
   />

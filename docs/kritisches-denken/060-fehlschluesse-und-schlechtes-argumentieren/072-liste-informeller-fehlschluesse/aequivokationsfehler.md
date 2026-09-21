@@ -73,3 +73,5 @@ EN: _equivocation_
 
 - [Wikipedia: Äquivokation](https://de.wikipedia.org/wiki/%C3%84quivokation)
 - [Logically Fallacious: Equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md)

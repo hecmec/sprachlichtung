@@ -75,3 +75,5 @@ Eine kleine, mächtige Gewohnheit der Profis: **Click Restraint** („Klick-Zur�
 ## Warum nicht einfach eine Checkliste?
 
 Es gibt klassische Prüf-Checklisten wie den **CRAAP-Test** (siehe nächste Seite). Caulfield kritisiert daran: Wer eine Seite nur „von innen“ abarbeitet, schaut genau auf die Merkmale, die sich am leichtesten fälschen lassen. SIFT dreht den Spieß um und sagt: **raus aus der Seite, rein in den Kontext.** Beides hat seinen Platz; SIFT ist der schnellere erste Reflex.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/040-die-sift-methode.md)

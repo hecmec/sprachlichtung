@@ -79,3 +79,5 @@ Wenn Sie die Gastgeberin freundlich fragen, dann gibt Sie Ihnen sicherlich Kuche
 - [Wikipedia (de): Affirming a Disjunct](https://de.wikipedia.org/wiki/Affirming_a_Disjunct)
 - [Wikipedia: Affirming a disjunct](https://en.wikipedia.org/wiki/Affirming_a_disjunct)
 - [Logically Fallacious: Affirming a Disjunct](https://www.logicallyfallacious.com/logicalfallacies/Affirming-a-Disjunct)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-disjunktion.md)

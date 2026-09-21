@@ -53,3 +53,5 @@ Kognitive Verzerrungen entstehen aus verschiedenen Gründen:
 4. **Evolutionäre Anpassungen**: Manche Verzerrungen könnten evolutionäre Vorteile geboten haben, auch wenn sie in der modernen Welt zu suboptimalen Entscheidungen führen.
 
 5. **Emotionale Einflüsse**: Emotionen können rationales Denken überlagern und zu verzerrten Urteilen führen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)

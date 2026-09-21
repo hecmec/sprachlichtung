@@ -34,3 +34,5 @@ In diesem Kapitel haben wir verschiedene sprachliche Fallstricke untersucht, die
 - **Definitionsarten** umfassen reportive (beschreibende), stipulative (festlegende), präzisierende und persuasive (überzeugende) Definitionen. Gute Definitionen sollten klar, angemessen, nicht-zirkulär und weder zu weit noch zu eng sein.
 
 Das Bewusstsein für diese sprachlichen Fallstricke und die Anwendung der vorgestellten Strategien können uns helfen, präziser zu denken, klarer zu kommunizieren und Manipulationsversuche besser zu durchschauen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)

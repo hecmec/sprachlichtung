@@ -84,3 +84,5 @@ Identifizieren Sie in den folgenden Beispielen die Art der Sprachfalle (Ambiguit
 10. **Kategorienfehler**
     - Problem: Der Evolution wird eine Absicht oder ein Ziel zugeschrieben.
     - Verbesserung: "Der Evolutionsprozess führt durch natürliche Selektion zu Organismen, die besser an ihre Umwelt angepasst sind."
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md)

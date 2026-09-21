@@ -74,3 +74,5 @@ Erst die Rekonstruktion macht eine faire Bewertung möglich. Mit der freigelegte
 - Greift eine **Ausnahme**, die das Argument entkräftet?
 
 Auf den nächsten Seiten vertiefen wir das Aufspüren versteckter Annahmen und üben die Analyse an konkreten Beispielen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)

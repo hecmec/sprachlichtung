@@ -91,3 +91,5 @@ Ein guter Weg:
 :::tip Geschafft?
 Wenn Sie bei Teil C automatisch an die Rückwärts-Bildersuche gedacht haben, sind Sie schon auf dem Niveau geübter Faktenprüfer. Genau dieser Reflex, _zum Original zurück_, unterscheidet sie von Laien.
 :::
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)

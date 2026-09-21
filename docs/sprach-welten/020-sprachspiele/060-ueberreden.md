@@ -78,3 +78,5 @@ Das Überreden erfüllt wichtige soziale Funktionen:
 * Es kann bei der Überwindung schädlicher Gewohnheiten oder Vorurteile helfen
 
 Die Fähigkeit, andere zu überzeugen, ist eine Kernkompetenz in vielen Berufen und sozialen Rollen. Gleichzeitig ist der schmale Grat zwischen legitimer Überzeugungsarbeit und manipulativer Beeinflussung eine ständige ethische Herausforderung. In demokratischen Gesellschaften ist die Entwicklung von Resistenz gegen manipulative Überredungsversuche genauso wichtig wie die Kompetenz zum argumentativen Überzeugen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/060-ueberreden.md)

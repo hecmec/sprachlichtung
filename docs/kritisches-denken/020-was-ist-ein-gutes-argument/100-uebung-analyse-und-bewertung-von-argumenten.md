@@ -42,3 +42,5 @@ Analysieren und bewerten Sie die folgenden Argumente. Identifizieren Sie dabei:
 
 ## Argument 5:
 "Wenn die Sonne scheint, wird der Schnee schmelzen. Der Schnee schmilzt. Also scheint die Sonne."
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/100-uebung-analyse-und-bewertung-von-argumenten.md)

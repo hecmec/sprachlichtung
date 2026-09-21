@@ -98,3 +98,5 @@ Hinzu kommt eine oft tief verankerte Tendenz, Autoritäten zu vertrauen &mdash; 
 ## Emotionale Faktoren
 
 Starke Emotionen können rationales Denken überlagern und zu voreiligen oder verzerrten Urteilen führen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/050-hindernisse-fuer-kritisches-denken.md)

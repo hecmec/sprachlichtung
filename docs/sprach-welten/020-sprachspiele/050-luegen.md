@@ -160,3 +160,5 @@ Oft kommt der Betrug nicht als glatte Lüge, sondern als getarnte Sprache.
 - "außerordentliche Überstellung" (extraordinary rendition) = Verschleppung in Folterstaaten.
 - "Kollateralschaden" = getötete Zivilisten.
 - "ethnische Säuberung" — selbst schon ein Beschönigungsbegriff für Vertreibung/Massenmord.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md)

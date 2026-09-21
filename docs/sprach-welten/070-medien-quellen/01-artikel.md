@@ -55,3 +55,5 @@ draft: false
 - [Wie die Sprache das Denken formt](https://www.spektrum.de/news/linguistik-wie-die-sprache-das-denken-formt/1145804) &mdash; Spektrum.de
 - [Christian Wickert (2025): Jürgen Habermas &mdash; Theorie des kommunikativen Handelns (1981)](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/juergen-habermas-theorie-des-kommunikativen-handelns-1981/) &mdash; soztheo.de
 - [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) &mdash; geschicktgendern.de
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md)

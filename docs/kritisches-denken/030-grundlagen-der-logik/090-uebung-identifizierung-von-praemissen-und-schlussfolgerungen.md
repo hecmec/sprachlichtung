@@ -61,3 +61,5 @@ Identifizieren Sie in den folgenden Argumenten die Prämissen und die Schlussfol
    Schlussfolgerung: "Hans ist korrupt"
    Gültigkeit: Gültig (kategorischer Syllogismus)
    Versteckte Annahmen: Die Wahrheit der ersten Prämisse ist fragwürdig
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)

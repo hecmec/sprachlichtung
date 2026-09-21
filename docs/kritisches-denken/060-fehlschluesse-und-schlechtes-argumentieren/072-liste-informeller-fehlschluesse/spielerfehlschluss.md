@@ -68,3 +68,5 @@ Die Kugel kennt die vorherigen Runden nicht. Schwarz ist nicht wahrscheinlicher 
 
 - [Wikipedia: Spielerfehlschluss](https://de.wikipedia.org/wiki/Spielerfehlschluss)
 - [Logically Fallacious: The Gambler's Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Gambler-s-Fallacy)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md)

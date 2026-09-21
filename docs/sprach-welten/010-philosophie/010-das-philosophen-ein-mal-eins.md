@@ -169,3 +169,5 @@ Lange wurde bestritten, dass es afrikanische Philosophie überhaupt gibt; Hegel 
 [^hegel-afrika]: Georg Wilhelm Friedrich Hegel, _Vorlesungen über die Philosophie der Geschichte_, 1837 (posthum), Einleitung.
 
 [^hountondji]: Die Debatte begann mit Placide Tempels, _La philosophie bantoue_, 1945; die wichtigste Kritik daran ist Paulin Hountondji, _Sur la « philosophie africaine »_, 1976.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/010-das-philosophen-ein-mal-eins.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/010-das-philosophen-ein-mal-eins.md)

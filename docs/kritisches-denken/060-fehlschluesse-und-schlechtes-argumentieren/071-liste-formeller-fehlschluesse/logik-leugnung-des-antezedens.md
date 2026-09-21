@@ -79,3 +79,5 @@ Man kann auch ohne Fieber krank sein (z. B. bei einem Knochenbruch). Das Fehlen 
 - [Wikipedia: Inversionsfehlschluss](https://de.wikipedia.org/wiki/Inversionsfehlschluss)
 - [Wikipedia: Denying the antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 - [Logically Fallacious: Denying the Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md)

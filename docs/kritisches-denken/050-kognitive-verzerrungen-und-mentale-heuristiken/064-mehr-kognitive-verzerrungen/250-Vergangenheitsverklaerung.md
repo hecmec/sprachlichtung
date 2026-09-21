@@ -99,3 +99,5 @@ Datenbasierter Überblick zu Armut, Gesundheit, Bildung, Sicherheit.
 - Max Roser, _The short history of global living conditions_ (Our World in Data)
 - Johan Norberg, _Progress_ (dt.: "Fortschritt: Zehn Gründe, warum die Welt besser ist, als du denkst")
 - Matt Ridley, _The Rational Optimist_ (dt.: "Der rationale Optimist: Warum wir immer reicher werden")
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/250-Vergangenheitsverklaerung.md)

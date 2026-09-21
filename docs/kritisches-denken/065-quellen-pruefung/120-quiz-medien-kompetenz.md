@@ -104,3 +104,5 @@ draft: false
 8. b) Ein erfahrener Nutzer hat die Version auf offensichtlichen Vandalismus geprüft
 9. c) Eine Bilder-Rückwärtssuche
 10. b) Die Verpflichtung auf den IFCN-Code
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md)

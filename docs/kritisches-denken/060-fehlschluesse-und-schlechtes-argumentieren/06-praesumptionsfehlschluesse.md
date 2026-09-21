@@ -83,3 +83,5 @@ Dieser Fehlschluss behauptet, dass etwas wahr sein muss, weil es nicht als falsc
 "Niemand hat bewiesen, dass Geister nicht existieren. Also müssen sie existieren."
 
 **Warum ist das fehlerhaft?** Die Abwesenheit von Beweisen gegen eine Behauptung ist kein Beweis für die Behauptung. Die Beweislast liegt bei demjenigen, der eine positive Behauptung aufstellt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md)

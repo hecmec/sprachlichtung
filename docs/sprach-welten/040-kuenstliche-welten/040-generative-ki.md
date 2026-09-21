@@ -70,3 +70,5 @@ Bilder entstehen meist anders, nach demselben Grundgedanken. Bei der **Diffusion
 [^transformer]: Ashish Vaswani u. a.: _Attention Is All You Need_, NeurIPS, 2017.
 
 [^diffusion]: Jonathan Ho, Ajay Jain, Pieter Abbeel: _Denoising Diffusion Probabilistic Models_, NeurIPS, 2020.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/040-generative-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/040-generative-ki.md)

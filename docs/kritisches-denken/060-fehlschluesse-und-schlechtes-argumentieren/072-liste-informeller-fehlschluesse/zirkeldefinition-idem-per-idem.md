@@ -70,3 +70,5 @@ Wer nicht weiss, was Schlafen ist, lernt es so nicht. Der Begriff wird durch sic
 
 - [Wikipedia: Idem per idem](https://de.wikipedia.org/wiki/Idem_per_idem)
 - [Wikipedia: Circular definition](https://en.wikipedia.org/wiki/Circular_definition)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem.md)

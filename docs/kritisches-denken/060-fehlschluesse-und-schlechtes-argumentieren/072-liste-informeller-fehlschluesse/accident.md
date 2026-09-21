@@ -72,3 +72,5 @@ Die Regel „die Wahrheit sagen“ deckt diesen Notfall nicht ab. Ihre starre An
 - [Wikipedia: Trugschluss der Akzidenz](https://de.wikipedia.org/wiki/Trugschluss_der_Akzidenz)
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/accident.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/accident.md)

@@ -114,3 +114,5 @@ Das Verständnis dieser Argumentationsmuster ist aus mehreren Gründen wichtig f
 3. Es bietet Werkzeuge für die Konstruktion eigener gültiger Argumente.
 
 4. Es fördert ein tieferes Verständnis der logischen Beziehungen zwischen Aussagen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md)

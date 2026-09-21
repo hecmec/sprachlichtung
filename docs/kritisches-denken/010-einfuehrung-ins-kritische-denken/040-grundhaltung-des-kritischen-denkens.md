@@ -111,3 +111,5 @@ Beispiele:
 - Ein Athlet, der nach einem Sieg nicht prahlt, aber auch nicht seine Leistung verleugnet.
 - Eine Managerin, die weder risikoscheu noch rücksichtslos handelt, sondern abgewogen entscheidet.
 - Jemand, der im Streit gelassen bleibt und weder ausfällig wird noch sich unterwirft. -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)

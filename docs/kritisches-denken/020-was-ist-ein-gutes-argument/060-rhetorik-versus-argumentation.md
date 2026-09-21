@@ -71,3 +71,5 @@ Für kritische Denker ist es wichtig, rhetorische Techniken zu erkennen und zwis
 - Werden emotionale Appelle verwendet, um logische Lücken zu überbrücken?
 - Wird die Glaubwürdigkeit des Sprechers als Ersatz für Beweise eingesetzt?
 - Werden Gegenargumente fair dargestellt und berücksichtigt?
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md)

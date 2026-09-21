@@ -57,3 +57,5 @@ Drei Entwicklungen machen MIL heute besonders dringlich:
 - **Aufmerksamkeit ist Geld.** Plattformen verdienen an unserer Verweildauer. Inhalte, die uns lange fesseln, werden bevorzugt, nicht unbedingt die wahren (mehr dazu im Kapitel über [Algorithmen](070-soziale-medien-algorithmen.md)).
 
 Medienkompetenz ist damit keine Spezialdisziplin für Journalisten mehr, sondern eine **Alltagskompetenz** wie Lesen und Rechnen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md)

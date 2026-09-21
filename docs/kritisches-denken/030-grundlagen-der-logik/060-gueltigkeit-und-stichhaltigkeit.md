@@ -95,3 +95,5 @@ Die Unterscheidung zwischen Gültigkeit und Stichhaltigkeit ist für das kritisc
 3. Sie hilft, Fehler in der Argumentation präziser zu identifizieren:
    - Formale Fehler (Ungültigkeit)
    - Inhaltliche Fehler (falsche Prämissen)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md)

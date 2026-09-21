@@ -69,3 +69,5 @@ Wer das im Kopf behält, liest jede Aussage über KI anders. Nicht "die Maschine
 [^polanyi]: Michael Polanyi: _The Tacit Dimension_, University of Chicago Press, 1966.
 
 [^bayes]: Thomas Bayes: _An Essay towards solving a Problem in the Doctrine of Chances_, Philosophical Transactions of the Royal Society, 1763 (posthum veröffentlicht).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/020-progamme-und-wahrscheinlichkeiten.md)

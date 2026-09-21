@@ -10,7 +10,7 @@ last_update:
   author: Immanuel Lupinus
 
 completeness: 4/5
-draft: true
+unlisted: true
 ---
 
 ## Image catalog
@@ -21,4 +21,3 @@ preview, filter by path, and click **Copy** to grab a link ready to paste into
 a markdown page (e.g. `![alt](/img/kd/foo.png)`).
 
 <ImageReferential />
-

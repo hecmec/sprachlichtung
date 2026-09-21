@@ -71,3 +71,5 @@ Armut hat in der Regel viele Ursachen (Bildung, Gesundheit, Arbeitsmarkt, Herkun
 
 - [Wikipedia: Causal oversimplification](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause)
 - [Logically Fallacious: Causal Oversimplification](https://www.logicallyfallacious.com/logicalfallacies/Causal-Oversimplification)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mono-kausales-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mono-kausales-denken.md)

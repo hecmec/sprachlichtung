@@ -52,3 +52,5 @@ So führt Orwells bitterer Satz zurück zur Aufgabe. Die Behauptung, manche seie
 - Englisch: The Right to Justification: Elements of a Constructivist Theory of Justice. Columbia University Press, 2012.
 - siehe auch Habermas' Diskursethik, v. a. der Universalisierungsgrundsatz (U), wonach eine Norm nur gilt, wenn ihr alle Betroffenen als Teilnehmer eines praktischen Diskurses zustimmen könnten. Habermas: _Moralbewußtsein und kommunikatives Handeln_, Suhrkamp 1983.
 - Richard Rorty: _Contingency, Irony, and Solidarity_, 1989.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)

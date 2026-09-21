@@ -16,7 +16,7 @@ completeness: 3/5
 draft: false
 ---
 
-Dies ist die Zusammenfassung eines sehr guten Videos über Anti-Intellektualismus und die Gefahren für unsere demokratischen Gesellschaften.
+**Dies ist die Zusammenfassung** eines sehr guten Videos über Anti-Intellektualismus und die Gefahren für unsere demokratischen Gesellschaften.
 
 Das Video ist auf English. Wir haben hier die wichtigsten Punkte in Deutsch wiedergegeben.
 
@@ -67,3 +67,5 @@ Keine saubere Auflösung: Sie findet die Lage frustrierend und weiß nicht, ob s
 
 - Medien gegenüber kritisch zu sein und sie zu genießen ist vereinbar (sie ist der Beweis).
 - Misstrauen Sie allen, die absolute Wahrheit beanspruchen und keinen Raum zum Nachfragen lassen, denn **Intellektuelle fragen immer nach**.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)

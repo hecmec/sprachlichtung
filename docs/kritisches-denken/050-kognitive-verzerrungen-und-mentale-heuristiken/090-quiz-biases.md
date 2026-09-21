@@ -63,3 +63,5 @@ draft: false
 3. b) Die Wahrscheinlichkeit dramatischer, aber seltener Ereignisse überschätzen
 4. c) Die Tendenz von Menschen mit geringen Fähigkeiten, sich zu überschätzen, und von Experten, sich zu unterschätzen
 5. b) Aktiv nach Informationen suchen, die den eigenen Überzeugungen widersprechen
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/090-quiz-biases.md)

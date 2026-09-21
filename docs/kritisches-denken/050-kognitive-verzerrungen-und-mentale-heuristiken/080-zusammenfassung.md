@@ -50,3 +50,5 @@ Das Bewusstsein für kognitive Verzerrungen und die Anwendung von Strategien zu 
 - https://www.weforum.org/stories/2021/11/humans-cognitive-bias-mistake/
 
 - https://selbstreguliert-leben.de/blog/kognitive-verzerrungen/
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/080-zusammenfassung.md)

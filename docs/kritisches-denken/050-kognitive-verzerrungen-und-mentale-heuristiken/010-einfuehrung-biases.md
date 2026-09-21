@@ -49,3 +49,5 @@ In diesem Kapitel werden wir untersuchen, was kognitive Verzerrungen sind, wie s
 - [Übung: Erkennen von kognitiven Verzerrungen in eigenen Denkprozessen](./070-uebung-erkennen-kognitiver-verzerrungen.md)
 - [Zusammenfassung](./080-zusammenfassung.md)
 - [Quiz: Kognitive Verzerrungen und mentale Heuristiken](./090-quiz-biases.md)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)

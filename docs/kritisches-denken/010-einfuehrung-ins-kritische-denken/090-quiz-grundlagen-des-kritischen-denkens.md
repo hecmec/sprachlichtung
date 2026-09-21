@@ -63,3 +63,5 @@ draft: false
 3. b) Weil es uns befähigt, in der Informationsflut zu navigieren und Fakten von Fiktion zu unterscheiden
 4. c) Überprüfung der Beweise und Berücksichtigung alternativer Erklärungen vor dem Ziehen von Schlussfolgerungen
 5. b) Bestätigungsfehler (Confirmation Bias)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/090-quiz-grundlagen-des-kritischen-denkens.md)

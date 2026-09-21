@@ -70,3 +70,5 @@ Der Verweis auf das vermeintliche Allgemeinwissen ersetzt das Argument, das die 
 
 - [Wikipedia: Argumentum ad populum](https://de.wikipedia.org/wiki/Argumentum_ad_populum)
 - [Logically Fallacious: Appeal to the People](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md)

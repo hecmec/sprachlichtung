@@ -48,3 +48,5 @@ Wir müssen einfach lernen sie zu **prüfen**.
 :::
 
 Wir setzen dabei nicht auf Misstrauen gegen alles. Das wäre genauso schädlich wie blindes Vertrauen. Ziel ist eine geübte, gelassene Skepsis: prüfen, bevor man glaubt, und prüfen, bevor man teilt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)

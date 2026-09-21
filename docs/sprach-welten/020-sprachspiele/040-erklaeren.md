@@ -78,3 +78,5 @@ Das Erklären erfüllt zentrale soziale Funktionen:
 - Es bildet eine Brücke zwischen Expertenwissen und öffentlichen Diskursen
 
 In einer zunehmend komplexen Welt mit spezialisiertem Wissen wird das kompetente Erklären zu einer Schlüsselfähigkeit für den gesellschaftlichen Zusammenhalt. Gleichzeitig besteht eine ständige Spannung zwischen notwendiger Vereinfachung und problematischer Verfälschung komplexer Sachverhalte.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/040-erklaeren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/040-erklaeren.md)

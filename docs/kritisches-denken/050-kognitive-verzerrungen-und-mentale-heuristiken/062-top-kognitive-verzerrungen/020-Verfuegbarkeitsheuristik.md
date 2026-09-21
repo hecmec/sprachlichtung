@@ -75,3 +75,5 @@ Das funktioniert auch sehr gut in der Politik. Wenn Sie eine dumme Idee immer wi
 - [Wikipedia: Verfügbarkeitsheuristik](https://de.wikipedia.org/wiki/Verf%C3%BCgbarkeitsheuristik)
 - [Original Paper by Tversky and Kahneman (1973), _Availability: a Heuristic for Judging Frequency and Probability_](https://familyvest.com/wp-content/uploads/2019/02/TverskyKahneman73.pdf)
 - _Daniel Kahneman_: Thinking, fast and slow. Allen Lane Paperback, 2011 Kapitel 12: The Science of Availability. (deutsch: Schnelles Denken, langsames Denken)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md)

@@ -70,3 +70,5 @@ Selbst dort, wo eine Aufgabe grundsätzlich lösbar ist, bleibt die Frage nach d
 Dieses Kapitel handelt von künstlichen Welten und künstlicher Intelligenz. Alles, was auf den folgenden Seiten kommt, von Wahrscheinlichkeiten über neuronale Netze bis zu großen Sprachmodellen, läuft am Ende auf Automaten. Es sind sehr große, sehr schnelle, sehr eindrucksvolle Automaten. Aber die Grenzen, die Turing 1936 mit Papier und Bleistift gefunden hat, gelten für sie alle.
 
 [^turing]: Alan M. Turing: _On Computable Numbers, with an Application to the Entscheidungsproblem_, Proceedings of the London Mathematical Society, 1936.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md)

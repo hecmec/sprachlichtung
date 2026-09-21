@@ -77,3 +77,5 @@ Das verwechselt $P(\text{Spur} \mid \text{unschuldig})$ mit $P(\text{unschuldig}
 - [Wikipedia (de): Confusion of the Inverse](https://de.wikipedia.org/wiki/Confusion_of_the_Inverse)
 - [Wikipedia: Confusion of the inverse](https://en.wikipedia.org/wiki/Confusion_of_the_inverse)
 - [Wikipedia: Prosecutor's fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit.md)

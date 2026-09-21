@@ -57,3 +57,5 @@ Wasserkraft ist ein Musterfall dafür, dass es die eine saubere Energie nicht gi
 Wer genau hinschaut, fragt deshalb nach dem konkreten Fall: Was wird hier überflutet, und wer wird gefragt? Auffällig oft tragen die Lasten solcher Großprojekte die Ärmsten und Machtlosesten, während der Strom in ferne Städte und Fabriken fließt. Energie und Gerechtigkeit hängen auch hier zusammen. Das Wasser fließt von selbst zu Tal; wer davon profitiert und wer dafür weichen muss, ist dagegen eine höchst menschliche Entscheidung.
 
 [^wasser]: Grundlagen und Daten zur Wasserkraft beim [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien); zum Anteil im Strommix die [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/) und [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md)

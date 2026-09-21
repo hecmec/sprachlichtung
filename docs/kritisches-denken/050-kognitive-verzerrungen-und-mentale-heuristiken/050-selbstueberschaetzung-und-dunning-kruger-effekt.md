@@ -65,3 +65,5 @@ Selbstüberschätzung und der Dunning-Kruger-Effekt können kritisches Denken au
 4. **Entscheidungsverzerrungen**: Übermäßiges Vertrauen in die eigenen Urteile kann zu voreiligen oder schlecht durchdachten Entscheidungen führen.
 
 5. **Kommunikationsprobleme**: Experten können Schwierigkeiten haben, ihr Wissen zu vermitteln, wenn sie die Komplexität ihres Fachgebiets für andere unterschätzen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/050-selbstueberschaetzung-und-dunning-kruger-effekt.md)

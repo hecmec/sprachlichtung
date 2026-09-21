@@ -84,3 +84,5 @@ Menschen beurteilen Risiken als höher, wenn sie negative Gefühle mit ihnen ver
 - Unangemessenheit: In komplexen oder ungewohnten Situationen können sie zu schlechten Entscheidungen führen.
 - Unbewusstheit: Wir sind uns oft nicht bewusst, dass wir Heuristiken verwenden.
 - Resistenz: Sie sind schwer zu überwinden, selbst wenn wir uns ihrer bewusst sind.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)

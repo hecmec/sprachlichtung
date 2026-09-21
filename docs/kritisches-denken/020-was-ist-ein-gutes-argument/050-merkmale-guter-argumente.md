@@ -86,3 +86,5 @@ Ein gutes Argument berücksichtigt die Stärke der Schlussfolgerung im Verhältn
 > Mein Nachbar hat dieses Medikament genommen und sich besser gefühlt. Daher wird es definitiv auch bei dir wirken und alle deine Symptome beseitigen.
 
 > Ich rauche, weil es ja nicht so gefährlich ist. Meine Oma hat ihr Leben lang geraucht und ist mit 96 Jahren gestorben. Mein Nachbar, ein vegetarischer Jogger, hat mit 45 den Löffel abgegeben.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/050-merkmale-guter-argumente.md)

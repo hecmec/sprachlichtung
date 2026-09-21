@@ -11,7 +11,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 3/5
-draft: true
+draft: false
 ---
 
 **Schopenhauer: _Über die vierfache Wurzel des Satzes vom zureichenden Grunde_**

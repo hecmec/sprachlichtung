@@ -201,3 +201,5 @@ Der **Gruppendenkeffekt** beschreibt die Tendenz in Gruppen, nach Konsens zu str
 - Einsatz von Techniken wie dem "Advocatus Diaboli" (Teufelsbeistand)
 - Anonyme Abstimmungen oder Feedback, um sozialen Druck zu reduzieren
 - Externe Perspektiven einholen
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)

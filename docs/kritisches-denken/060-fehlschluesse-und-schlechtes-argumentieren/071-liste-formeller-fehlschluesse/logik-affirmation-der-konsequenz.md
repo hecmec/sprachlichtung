@@ -79,3 +79,5 @@ Fieber kann viele andere Ursachen haben. Der Schluss von der Wirkung (Fieber) au
 - [Wikipedia: Konversionsfehlschluss](https://de.wikipedia.org/wiki/Konversionsfehlschluss)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 - [Logically Fallacious: Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md)
