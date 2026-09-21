@@ -52,3 +52,6 @@ Critical thinking is not an abstract intellectual exercise, but a practical skil
 
 <!--t src=4f0512bb-->
 The development of critical thinking is a lifelong journey that requires patience, perseverance and openness. But the rewards &mdash; better decisions, deeper understanding, greater intellectual autonomy and more constructive contributions to societal discourse &mdash; make this effort more than worthwhile.
+
+<!--t src=6404073b-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/060-zusammenfassung.md)

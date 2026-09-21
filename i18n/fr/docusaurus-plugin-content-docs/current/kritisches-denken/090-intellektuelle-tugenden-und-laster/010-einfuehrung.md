@@ -30,3 +30,6 @@ Les vertus intellectuelles sont des traits de caractère et des attitudes qui fa
 
 <!--t src=de3abd2a-->
 Dans ce chapitre, nous examinerons les principales vertus et les principaux vices intellectuels, nous comprendrons leur importance pour la pensée critique et nous explorerons les moyens de cultiver les vertus intellectuelles dans notre propre pensée et au sein de nos communautés.
+
+<!--t src=46798f76-->
+[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md)

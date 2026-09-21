@@ -32,3 +32,6 @@ Science is one of humanity's most successful endeavours for obtaining reliable k
 <!--t src=5db73c6f-->
 
 In this chapter we will examine the foundations of the scientific method, get to know various scientific approaches and understand how science generates and tests knowledge. We will also consider the limits of science and learn how we can critically evaluate scientific claims.
+
+<!--t src=bf04bfff-->
+[Artikel auf Deutsch](/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md)

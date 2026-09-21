@@ -102,3 +102,6 @@ The digital age has created new opportunities for the spread of disinformation a
 - Unnatural activity patterns (e.g. 24/7 activity)
 - Repetition of identical or very similar messages
 - A sudden surge of support for a topic with no recognisable trigger
+
+<!--t src=fd377f72-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md)

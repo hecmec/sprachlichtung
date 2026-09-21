@@ -359,3 +359,6 @@ Critical thinking is essential for constructive participation in social discussi
 3. Take into account the perspectives of various interest groups (science, business, affected communities)
 4. Reflect on and make explicit your own values and priorities
 5. Look for common interests, even where positions differ
+
+<!--t src=4568e854-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md)

@@ -140,3 +140,6 @@ Ces distinctions ne sont pas un jeu académique. Qui les maîtrise réagit de ma
 - 🇬🇧 Harry G. Frankfurt : _On Bullshit_ (Princeton University Press, 2005) ; 🇩🇪 éd. all. _Bullshit_ (Suhrkamp, 2006) ; 🇫🇷 éd. fr. _De l'art de dire des conneries_ (Mazarine/Fayard, 2006).
 - 🇩🇪 [Lügner, Bullshitter und Trottel](https://www.youtube.com/watch?v=azp3g8vpBJE&list=PLnNbFF6NPy3zL5uvLMjKCMRByR9kouFCY) (vidéo)
 - 🇩🇪 Cours « Bullshit-Resistenz » (UdK Berlin, 2023) : [Fake News](https://www.youtube.com/watch?v=cbYY-EGwvIs)
+
+<!--t src=73746989-->
+[Artikel auf Deutsch](/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md)

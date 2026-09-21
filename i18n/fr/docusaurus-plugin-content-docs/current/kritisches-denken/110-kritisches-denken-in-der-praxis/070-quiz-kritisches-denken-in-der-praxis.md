@@ -76,3 +76,6 @@ custom_translation_overwritten: false
 3. b) Rechercher activement des informations qui contredisent ses propres convictions
 4. c) Les chambres d'écho et les bulles de filtres
 5. b) Les objectifs devraient être spécifiques et mesurables
+
+<!--t src=df780072-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/070-quiz-kritisches-denken-in-der-praxis.md)

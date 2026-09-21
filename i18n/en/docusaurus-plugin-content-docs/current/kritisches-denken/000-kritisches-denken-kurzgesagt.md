@@ -648,3 +648,6 @@ flowchart LR
 <!--t src=31c8926a-->
 
 After this very condensed overview of critical thinking, we now come to the details!
+
+<!--t src=b8cc8b98-->
+[Artikel auf Deutsch](/docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/000-kritisches-denken-kurzgesagt.md)

@@ -247,3 +247,6 @@ Like intellectual virtues, intellectual vices also encompass motivational and em
 <!--t src=9c0e5cdf-->
 
 **Strategy for overcoming it:** Develop intellectual autonomy by examining your beliefs for their justification, regardless of who holds them. Practise forming your own opinion before consulting the opinions of others.
+
+<!--t src=74c45c01-->
+[Artikel auf Deutsch](/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/030-intellektuelle-laster-hindernisse-fuer-gutes-denken.md)

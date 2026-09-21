@@ -31,3 +31,6 @@ Critical thinking is not an abstract intellectual exercise but a practical skill
 <!--t src=d8da4716-->
 
 In this chapter we will get to know practical strategies and tools for critical thinking in various contexts, identify obstacles to critical thinking and explore ways of overcoming them, and create a personal development plan for continuous growth as a critical thinker.
+
+<!--t src=65d7a2a0-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md)

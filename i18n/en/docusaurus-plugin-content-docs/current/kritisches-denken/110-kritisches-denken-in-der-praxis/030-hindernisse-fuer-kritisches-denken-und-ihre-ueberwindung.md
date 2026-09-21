@@ -279,3 +279,6 @@ Sometimes we encounter resistance to critical thinking &mdash; in ourselves or i
 <!--t src=664d1cbe-->
 
 **Example:** If you work in a team where critical thinking is not valued, you could initially ask your own critical questions in a constructive, non-confrontational way ("I'm trying to understand..."), make the successes of critical thinking visible, and gradually foster a culture in which various perspectives are actively sought.
+
+<!--t src=5f07d359-->
+[Artikel auf Deutsch](/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/030-hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung.md)
