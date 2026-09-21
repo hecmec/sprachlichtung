@@ -65,12 +65,12 @@ Diese Vorlesung aus Allan Di Donatos Kurs über kritisches Denken untersucht, wi
 <div className="row">
 <div className="col col--6">
 
-**Empirical probability** is the examination of empirical evidence to determine the probable conclusion in an inductive situation. *Empirical* means derived from or relying upon experience or observation. *Probability* is the likelihood that something is the case: a claim supported by evidence strong enough to establish a presumption, but not necessarily proof. To evaluate an inductive argument built on empirical data, Di Donato proposes **four considerations**: extension, the nature of the situation, the manner of procedure, and our background knowledge.
+**Empirical probability** is the examination of empirical evidence to determine the probable conclusion in an inductive situation. _Empirical_ means derived from or relying upon experience or observation. _Probability_ is the likelihood that something is the case: a claim supported by evidence strong enough to establish a presumption, but not necessarily proof. To evaluate an inductive argument built on empirical data, Di Donato proposes **four considerations**: extension, the nature of the situation, the manner of procedure, and our background knowledge.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Empirische Wahrscheinlichkeit** ist die Untersuchung empirischer Evidenz, um in einer induktiven Situation die wahrscheinliche Schlussfolgerung zu bestimmen. *Empirisch* bedeutet aus Erfahrung oder Beobachtung abgeleitet oder auf ihnen beruhend. *Wahrscheinlichkeit* ist die Wahrscheinlichkeit, dass etwas der Fall ist: eine Behauptung, die durch Evidenz gestützt wird, die stark genug ist, um eine Vermutung zu begründen, aber nicht notwendigerweise ein Beweis ist. Um ein induktives Argument zu bewerten, das auf empirischen Daten beruht, schlägt Di Donato **vier Betrachtungen** vor: die Extension, die Natur der Situation, die Art des Vorgehens und unser Hintergrundwissen.
+**Empirische Wahrscheinlichkeit** ist die Untersuchung empirischer Evidenz, um in einer induktiven Situation die wahrscheinliche Schlussfolgerung zu bestimmen. _Empirisch_ bedeutet aus Erfahrung oder Beobachtung abgeleitet oder auf ihnen beruhend. _Wahrscheinlichkeit_ ist die Wahrscheinlichkeit, dass etwas der Fall ist: eine Behauptung, die durch Evidenz gestützt wird, die stark genug ist, um eine Vermutung zu begründen, aber nicht notwendigerweise ein Beweis ist. Um ein induktives Argument zu bewerten, das auf empirischen Daten beruht, schlägt Di Donato **vier Betrachtungen** vor: die Extension, die Natur der Situation, die Art des Vorgehens und unser Hintergrundwissen.
 
 </div>
 </div>
@@ -274,7 +274,7 @@ Di Donato schließt mit Fehlschlüssen, die mit dem empirischen Schließen verbu
 <div className="col col--6">
 
 - **Biased generalization**: a sample large enough yet still unrepresentative of the target.
-- **Hasty generalization**: an overconfident conclusion drawn from too small a sample ("these 10 movies are poorly written, so *most* movies are" is weaker than concluding "*some* are").
+- **Hasty generalization**: an overconfident conclusion drawn from too small a sample ("these 10 movies are poorly written, so _most_ movies are" is weaker than concluding "_some_ are").
 - **Anecdotal evidence**: a hasty generalization built on one or two persuasive stories; effectively a sample of one or two.
 - **Self-selection fallacy**: overestimating a conclusion from a self-selected sample (e.g., a website or call-in poll) that over-represents the strongly motivated.
 - **Slanted question**: wording chosen to elicit a particular response (asking about "protection from dangerous second-hand smoke" versus "infringing on a citizen's right to smoke").
@@ -285,7 +285,7 @@ Di Donato schließt mit Fehlschlüssen, die mit dem empirischen Schließen verbu
 <div className="col col--6 video-translation">
 
 - **Verzerrte Verallgemeinerung**: eine Stichprobe, die groß genug, aber dennoch nicht repräsentativ für das Ziel ist.
-- **Voreilige Verallgemeinerung**: eine überheblich gezogene Schlussfolgerung aus einer zu kleinen Stichprobe („diese 10 Filme sind schlecht geschrieben, also sind es *die meisten* Filme" ist schwächer als der Schluss „*einige* sind es").
+- **Voreilige Verallgemeinerung**: eine überheblich gezogene Schlussfolgerung aus einer zu kleinen Stichprobe („diese 10 Filme sind schlecht geschrieben, also sind es _die meisten_ Filme" ist schwächer als der Schluss „_einige_ sind es").
 - **Anekdotische Evidenz**: eine voreilige Verallgemeinerung, die auf ein oder zwei überzeugenden Geschichten aufbaut; im Grunde eine Stichprobe von ein oder zwei.
 - **Selbstselektions-Fehlschluss**: eine Schlussfolgerung aus einer selbst ausgewählten Stichprobe überschätzen (z. B. eine Website- oder Call-in-Umfrage), die die stark Motivierten überrepräsentiert.
 - **Tendenziöse Frage**: eine Formulierung, die gewählt wird, um eine bestimmte Antwort hervorzurufen (nach „Schutz vor gefährlichem Passivrauchen" fragen versus „Eingriff in das Recht eines Bürgers zu rauchen").
@@ -308,4 +308,4 @@ Das nächste Video wendet sich von der induktiven Wahrscheinlichkeit der **Gewis
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability.md)

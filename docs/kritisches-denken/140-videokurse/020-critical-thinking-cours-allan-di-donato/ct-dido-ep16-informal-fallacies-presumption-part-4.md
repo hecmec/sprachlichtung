@@ -78,12 +78,12 @@ Eine **Verallgemeinerung** leitet aus der wiederholten Erfahrung ähnlicher Einz
 <div className="row">
 <div className="col col--6">
 
-**1. Dicto simpliciter (sweeping generalization / fallacy of accident).** From the Latin *a dicto simpliciter ad dictum secundum quid*, "from the statement unqualified to the statement qualified." The fallacy occurs when a general rule is cited even though it is false, or when a reliable rule is misapplied to a special case it does not cover. It rests on confusing an **accidental** trait (one a class member may have but that is not required by its nature, such as brown hair in humans) with an **essential** trait (one universal to the class, such as being warm-blooded). The error is treating an accidental trait as essential and applying the rule despite a qualifying exception. Examples: "Airplane pilots are usually male, so our pilot will be male"; "It should be illegal to cut people with knives, so surgery should be illegal too"; "Lying is universally wrong according to Kant, so Germans who lied to hide Jews during the Holocaust did wrong."
+**1. Dicto simpliciter (sweeping generalization / fallacy of accident).** From the Latin _a dicto simpliciter ad dictum secundum quid_, "from the statement unqualified to the statement qualified." The fallacy occurs when a general rule is cited even though it is false, or when a reliable rule is misapplied to a special case it does not cover. It rests on confusing an **accidental** trait (one a class member may have but that is not required by its nature, such as brown hair in humans) with an **essential** trait (one universal to the class, such as being warm-blooded). The error is treating an accidental trait as essential and applying the rule despite a qualifying exception. Examples: "Airplane pilots are usually male, so our pilot will be male"; "It should be illegal to cut people with knives, so surgery should be illegal too"; "Lying is universally wrong according to Kant, so Germans who lied to hide Jews during the Holocaust did wrong."
 
 </div>
 <div className="col col--6 video-translation">
 
-**1. Dicto simpliciter (pauschale Verallgemeinerung / Fehlschluss des Akzidens).** Vom lateinischen *a dicto simpliciter ad dictum secundum quid*, „von der uneingeschränkten Aussage zur eingeschränkten Aussage". Der Fehlschluss tritt auf, wenn eine allgemeine Regel angeführt wird, obwohl sie falsch ist, oder wenn eine verlässliche Regel fälschlich auf einen Sonderfall angewandt wird, den sie nicht abdeckt. Er beruht darauf, ein **akzidentelles** Merkmal (eines, das ein Klassenmitglied haben kann, das aber nicht durch seine Natur gefordert ist, wie braunes Haar beim Menschen) mit einem **wesentlichen** Merkmal (einem für die Klasse universellen, wie Warmblütigkeit) zu verwechseln. Der Fehler ist, ein akzidentelles Merkmal als wesentlich zu behandeln und die Regel trotz einer einschränkenden Ausnahme anzuwenden. Beispiele: „Flugzeugpiloten sind meist männlich, also wird unser Pilot männlich sein"; „Es sollte illegal sein, Menschen mit Messern zu schneiden, also sollte auch Chirurgie illegal sein"; „Lügen ist laut Kant universell falsch, also handelten Deutsche, die logen, um während des Holocaust Juden zu verstecken, falsch".
+**1. Dicto simpliciter (pauschale Verallgemeinerung / Fehlschluss des Akzidens).** Vom lateinischen _a dicto simpliciter ad dictum secundum quid_, „von der uneingeschränkten Aussage zur eingeschränkten Aussage". Der Fehlschluss tritt auf, wenn eine allgemeine Regel angeführt wird, obwohl sie falsch ist, oder wenn eine verlässliche Regel fälschlich auf einen Sonderfall angewandt wird, den sie nicht abdeckt. Er beruht darauf, ein **akzidentelles** Merkmal (eines, das ein Klassenmitglied haben kann, das aber nicht durch seine Natur gefordert ist, wie braunes Haar beim Menschen) mit einem **wesentlichen** Merkmal (einem für die Klasse universellen, wie Warmblütigkeit) zu verwechseln. Der Fehler ist, ein akzidentelles Merkmal als wesentlich zu behandeln und die Regel trotz einer einschränkenden Ausnahme anzuwenden. Beispiele: „Flugzeugpiloten sind meist männlich, also wird unser Pilot männlich sein"; „Es sollte illegal sein, Menschen mit Messern zu schneiden, also sollte auch Chirurgie illegal sein"; „Lügen ist laut Kant universell falsch, also handelten Deutsche, die logen, um während des Holocaust Juden zu verstecken, falsch".
 
 </div>
 </div>
@@ -183,17 +183,17 @@ Eine **Verallgemeinerung** leitet aus der wiederholten Erfahrung ähnlicher Einz
 <div className="col col--6">
 
 - **Oversimplified cause:** treating A as the sole cause when B has multiple contributing factors.
-- **Necessary vs. sufficient conditions:** a *necessary* condition must be present for the effect but does not alone produce it; a *sufficient* condition is enough to produce it. Temperatures at or below 32°F are necessary for snow, but precipitation is also required for sufficiency.
+- **Necessary vs. sufficient conditions:** a _necessary_ condition must be present for the effect but does not alone produce it; a _sufficient_ condition is enough to produce it. Temperatures at or below 32°F are necessary for snow, but precipitation is also required for sufficiency.
 - **Confusing cause and effect:** did the appliance shut off because the power failed, or did a short in the appliance blow a fuse and cut the power? Cause and effect can even be simultaneous.
-- **Mistaking correlation for cause:** events occurring together (the *cum hoc ergo propter hoc*, "with this, therefore because of this" variant), such as ice-cream sales rising with beach openings.
+- **Mistaking correlation for cause:** events occurring together (the _cum hoc ergo propter hoc_, "with this, therefore because of this" variant), such as ice-cream sales rising with beach openings.
 
 </div>
 <div className="col col--6 video-translation">
 
 - **Übervereinfachte Ursache:** A als einzige Ursache behandeln, obwohl B mehrere mitwirkende Faktoren hat.
-- **Notwendige vs. hinreichende Bedingungen:** eine *notwendige* Bedingung muss für die Wirkung vorhanden sein, bringt sie aber nicht allein hervor; eine *hinreichende* Bedingung genügt, um sie hervorzubringen. Temperaturen bei oder unter 0 °C sind für Schnee notwendig, aber es ist auch Niederschlag erforderlich, damit es hinreicht.
+- **Notwendige vs. hinreichende Bedingungen:** eine _notwendige_ Bedingung muss für die Wirkung vorhanden sein, bringt sie aber nicht allein hervor; eine _hinreichende_ Bedingung genügt, um sie hervorzubringen. Temperaturen bei oder unter 0 °C sind für Schnee notwendig, aber es ist auch Niederschlag erforderlich, damit es hinreicht.
 - **Ursache und Wirkung verwechseln:** Ging das Gerät aus, weil der Strom ausfiel, oder hat ein Kurzschluss im Gerät eine Sicherung durchbrennen lassen und den Strom unterbrochen? Ursache und Wirkung können sogar gleichzeitig sein.
-- **Korrelation mit Ursache verwechseln:** Ereignisse, die gemeinsam auftreten (die Variante *cum hoc ergo propter hoc*, „mit diesem, also wegen diesem"), etwa steigende Eisverkäufe zugleich mit der Eröffnung der Strände.
+- **Korrelation mit Ursache verwechseln:** Ereignisse, die gemeinsam auftreten (die Variante _cum hoc ergo propter hoc_, „mit diesem, also wegen diesem"), etwa steigende Eisverkäufe zugleich mit der Eröffnung der Strände.
 
 </div>
 </div>
@@ -237,4 +237,4 @@ Die Folge fügt der laufenden Liste sechs weitere Fehlschlüsse hinzu. Der fünf
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md)

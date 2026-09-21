@@ -30,6 +30,7 @@ _The same word, two meanings._
 ## Definition
 
 <!--t src=b4d59ae7-->
+
 In **equivocation**, an **ambiguous word** is used with **different meanings** within the same argument. Because the word outwardly stays the same, the inference seems to "fit" &mdash; in truth the sentences are talking about different things.
 
 <!--t src=7d1a08b3-->
@@ -58,6 +59,7 @@ Also known as: _equivocation_
 <!-- list similar fallacies -->
 
 <!--t src=ed8b9c02-->
+
 - **Quaternio terminorum** &mdash; the formal expression in the syllogism (four instead of three terms).
 - **Fallacy of ambiguity (amphiboly)** &mdash; related: ambiguity through _sentence structure_ instead of through a word.
 - **Distinction without a difference** &mdash; a related game with meanings.
@@ -80,6 +82,7 @@ Also known as: _equivocation_
 > 3. Therefore the laws of nature need a lawgiver.
 
 <!--t src=997fc67b-->
+
 "Law" means in 1 a _legal regulation_, in 2 a _scientific regularity_. The two meanings are inadmissibly equated.
 
 <!--t src=f350657d-->
@@ -109,4 +112,5 @@ Also known as: _equivocation_
 - [Logically Fallacious: Equivocation](https://www.logicallyfallacious.com/logicalfallacies/Equivocation)
 
 <!--t src=38cac6b6-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/aequivokationsfehler.md)

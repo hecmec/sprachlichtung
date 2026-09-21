@@ -110,4 +110,4 @@ Das **Newcomb-Paradoxon** ist ein Entscheidungsparadoxon:
 
 **Bedeutung:** Dieses Paradoxon stellt zwei Entscheidungsprinzipien gegeneinander: das Dominanzprinzip (beide Boxen nehmen ist immer besser) und das Erwartungsnutzenprinzip (nur Box B zu nehmen führt zu höherem erwarteten Nutzen, wenn der Vorhersager zuverlässig ist). Es hat Auswirkungen auf Entscheidungstheorie, freien Willen und Kausalität.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md)
+[Article en français](/fr/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md) | [Article in English](/en/docs/kritisches-denken/070-paradoxien-dilemmas-denkfallen/030-bekannte-paradoxien.md)

@@ -35,6 +35,7 @@ _Pity proves nothing._
 In the **Argumentum ad Misericordiam** (appeal to pity), instead of substantive reasons the **compassion** of the other party is addressed in order to push through a claim or demand.
 
 <!--t src=c9db2b1f-->
+
 The error: pity is an understandable feeling, but no evidence. Whether a claim is true or a demand justified does not depend on how much we feel sorry for the person concerned. (Compassion can be morally _relevant_ &mdash; it becomes a fallacy when it replaces a _substantive_ proof.)
 
 <!--t src=3c24b250-->
@@ -58,6 +59,7 @@ Also known as: _appeal to pity_ / _argumentum ad misericordiam_
 <!-- list similar fallacies -->
 
 <!--t src=3c6b9c3e-->
+
 - **Appeal to emotion** &mdash; the umbrella term: here it is compassion that is addressed.
 - **Argumentum ad baculum** &mdash; the counterpart via fear instead of pity.
 
@@ -73,6 +75,7 @@ Also known as: _appeal to pity_ / _argumentum ad misericordiam_
 <!-- description of example one -->
 
 <!--t src=073d5fb0-->
+
 > "Professor, you have to give me a better grade &mdash; I studied all night and urgently need the scholarship."
 
 <!--t src=49cd0535-->
@@ -107,4 +110,5 @@ The person's fate is no reason that settles the question of who actually played 
 - [Logically Fallacious: Appeal to Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)
 
 <!--t src=31381e09-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md)

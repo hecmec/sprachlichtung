@@ -80,4 +80,4 @@ Edles Design, hoher Preis oder ein prominentes Testurteil lassen Konsumentinnen 
 - Nisbett, R. E. & Wilson, T. D. (1977): "The Halo Effect: Evidence for Unconscious Alteration of Judgments".
 - Daniel Kahneman (2011): Thinking, Fast and Slow. Kapitel zu Urteilsverzerrungen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md)

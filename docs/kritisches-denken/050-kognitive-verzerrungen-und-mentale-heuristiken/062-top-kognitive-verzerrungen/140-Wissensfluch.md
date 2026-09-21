@@ -86,4 +86,4 @@ Finanz- oder Rechtsjargon in Mails/Reports; Teams treffen falsche Entscheidungen
 - Heath, C., & Heath, D. (2007). Made to Stick — Kapitel: Der Fluch des Wissens.
 - Kahneman, D. (2011). Schnelles Denken, langsames Denken — Abschnitte zu Kommunikationsfallen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)

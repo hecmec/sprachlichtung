@@ -30,9 +30,11 @@ _What would have been, no one knows for certain._
 ## Definition
 
 <!--t src=40b81513-->
+
 A **counterfactual conditional** is a statement of the form "**If** A had happened, **then** B would have occurred" &mdash; about a situation that did _not_ occur. It becomes a fallacy when one draws a **certain** conclusion from such an assumption, even though the assumed course of events cannot be checked at all.
 
 <!--t src=bbd377aa-->
+
 The error: the hypothetical world in which A happened is not accessible. What consequences A would _really_ have had usually cannot be said with certainty &mdash; too many other factors would have played a part. The claim suggests a certainty that does not exist.
 
 <!--t src=3c24b250-->
@@ -40,6 +42,7 @@ The error: the hypothetical world in which A happened is not accessible. What co
 The fallacy has the following form:
 
 <!--t src=ea36efad-->
+
 1. A did not happen.
 2. Claim: "Had A happened, then _certainly_ B."
 3. The inference to B is presented as established.
@@ -56,6 +59,7 @@ Also known as: _counterfactual fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=eb36baad-->
+
 - **Wishful thinking** &mdash; related, when the hypothetical consequence corresponds to what one wishes for.
 - **Post hoc ergo propter hoc** &mdash; related: unsubstantiated cause-and-effect claims.
 - **Single-cause thinking** &mdash; related: only one factor is held responsible for the hypothetical course of events.
@@ -91,6 +95,7 @@ No one knows how this other path through life would have turned out. The claim a
 > „Without that one pass, we would surely have won the game.“
 
 <!--t src=32628730-->
+
 A different pass would have had countless consequences &mdash; the opponent too would have played differently. The certain victory is pure speculation.
 
 <!--t src=69b1092f-->
@@ -105,4 +110,5 @@ A different pass would have had countless consequences &mdash; the opponent too 
 - [Wikipedia: Counterfactual conditional](https://en.wikipedia.org/wiki/Counterfactual_conditional)
 
 <!--t src=37a8b181-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md)

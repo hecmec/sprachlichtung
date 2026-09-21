@@ -58,4 +58,4 @@ Wer weiß, wie wenig der eigene Körper leistet und wie viel fremde Energie im A
 
 [^strompreis]: Aktuelle Strompreise für Haushalte dokumentiert u. a. das [Statistische Bundesamt](https://www.destatis.de/) sowie das [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/020-menschenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/020-menschenenergie.md)
+[Article en français](/fr/docs/sprach-welten/060-energie/020-menschenenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/020-menschenenergie.md)

@@ -56,4 +56,4 @@ Wer selbstbestimmt urteilen will, fragt deshalb nach: Wem gehört der Windpark, 
 
 [^wind]: Daten zur Windkraft beim [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) und beim [Fraunhofer ISE](https://www.ise.fraunhofer.de/); den aktuellen Anteil am Strommix zeigen die [Energy-Charts](https://www.energy-charts.info/). Langfristige Trends bei [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/050-windenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/050-windenergie.md)
+[Article en français](/fr/docs/sprach-welten/060-energie/050-windenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/050-windenergie.md)

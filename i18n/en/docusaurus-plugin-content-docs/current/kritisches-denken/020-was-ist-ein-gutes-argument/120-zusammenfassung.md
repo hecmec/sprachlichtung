@@ -23,58 +23,76 @@ custom_translation_overwritten: false
 <!-- # Summary -->
 
 <!--t src=bd89eb22-->
+
 In this chapter we have examined what makes an argument and what distinguishes a good argument from a bad one. We have learned:
 
 <!--t src=4ff75500-->
+
 - **What is an argument**: An argument consists of **premises** (reasons) and a **conclusion** (claim). Its internal structure can be described using terms such as validity and soundness and the **Toulmin model**.
 
 <!--t src=2ec95ae9-->
+
 - **Types of reasoning**: **Deduction** secures, **induction** generalizes, **abduction** explains. Only deduction is truth-preserving; induction and abduction extend our knowledge, but remain uncertain.
 
 <!--t src=e6b69127-->
+
 - **Patterns of valid arguments**: We have got to know various argument patterns, including categorical syllogisms, reductio ad absurdum, arguments from analogy and abduction. Understanding these patterns helps us to analyze and construct arguments.
 
 <!--t src=e11722c3-->
+
 - **Characteristics of good arguments**: Clarity, relevance, adequacy, refutability and proportionality are important quality characteristics of arguments.
 
 <!--t src=0783b38c-->
+
 - **Rhetoric versus argumentation**: While argumentation focuses on logical reasoning and evidence, rhetoric also encompasses emotional appeals, style and presentation. Both have their place in communication, but critical thinkers should be able to distinguish between persuasive rhetoric and solid argumentation.
 
 <!--t src=68e5676f-->
+
 - **Formal vs. informal reasoning**: Formal reasoning is based on explicit rules and structures and is independent of the content, while informal reasoning takes place in natural language and takes into account context, background knowledge and implicit assumptions.
 
 <!--t src=9bcd855d-->
+
 - **Analyzing arguments**: We have learned to reconstruct an argument &mdash; to expose conclusion and premises, to add implicit assumptions and to apply the Toulmin model in practice &mdash; in order to then be able to evaluate it fairly.
 
 <!--t src=a1e9adfa-->
+
 - **Recognizing hidden assumptions**: We have got to know various types of hidden assumptions (value assumptions, factual assumptions, conceptual assumptions, causal assumptions) and methods for identifying them (the "why" chain, the negation test, the change of perspective, the analogy test).
 
 <!--t src=87f8f609-->
+
 The ability to recognize and construct good arguments is a core competence of critical thinking. It enables us to make well-founded decisions, to protect ourselves against manipulation and to participate constructively in discussions.
 
 <!--t src=5df953dc-->
+
 In the following chapters we will explore further aspects of critical thinking, including linguistic pitfalls, cognitive biases and fallacies that can hinder good arguing.
 
 <!--t src=69b1092f-->
+
 ## Sources
 
 <!--t src=6d80b3e6-->
 <!-- TODO: Eigene Quellen seite -->
 
 <!--t src=ca0cf10f-->
+
 - 🇬🇧 Stephen Toulmin (1958), _The Uses of Argument_
 
 <!--t src=886d680d-->
+
 - 🇬🇧 Reconstructing and Analyzing Arguments. https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01%3A_Reconstructing_and_Analyzing_Arguments
 
 <!--t src=d3646438-->
+
 - 🇩🇪 Henning Franzen, Anne Burkard and David Löwenstein, [Argumentieren lernen, Aufgaben für den Philosophie- und Ethikunterricht](https://www.philovernetzt.de/argumentieren-lernen/) (Learning to argue: exercises for philosophy and ethics teaching). Online, cc-by-nc-sa.
 
 <!--t src=5479de49-->
+
 - 🇩🇪 Jonas Pfister (2020a). Kritisches Denken. Ditzingen: Reclam.
 
 <!--t src=50b7b280-->
+
 - 🇩🇪 [agumentation.online](https://argumentation.online): a curated collection of argument reconstructions
 
 <!--t src=2189d79d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)

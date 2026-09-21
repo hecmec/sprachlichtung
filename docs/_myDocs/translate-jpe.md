@@ -61,8 +61,8 @@ translated. We additionally:
 
 ```
 German source : docs/<rel-path>
-English target: i18n/en/docusaurus-plugin-content-docs/current/<rel-path>
-French target : i18n/fr/docusaurus-plugin-content-docs/current/<rel-path>
+English target: i18n/en/docs/<rel-path>
+French target : i18n/fr/docs/<rel-path>
 ```
 
 ## 3. The block model
@@ -227,7 +227,7 @@ translating short, well-scoped snippets. Pipeline:
 French currently has only UI `.json` files and **no content translations**; the
 `fr` locale is commented out in `docusaurus.config.ts`. Enabling it means:
 uncomment `fr` and add it to the `locales` array, then run the same pipeline to
-populate `i18n/fr/docusaurus-plugin-content-docs/current/`. The strategy above
+populate `i18n/fr/docs/`. The strategy above
 applies unchanged to `fr`.
 
 ## 12. Worked mini-example

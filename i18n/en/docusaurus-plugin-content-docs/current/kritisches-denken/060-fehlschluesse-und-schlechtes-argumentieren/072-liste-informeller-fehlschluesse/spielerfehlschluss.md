@@ -30,9 +30,11 @@ _The die does not remember._
 ## Definition
 
 <!--t src=57962b3c-->
+
 In the **gambler's fallacy**, one believes that, with **independent** random events, an outcome becomes "more due" the longer it has failed to occur (or "less likely" the more often it has recently occurred).
 
 <!--t src=d4eb057a-->
+
 The error: independent events have no memory. A fair die shows a six on each throw with equal probability, no matter how long none has come up. The small probability of a long run concerns the _prediction in advance_, not the _next_ throw after a run that has already occurred.
 
 <!--t src=a515c65a-->
@@ -53,6 +55,7 @@ Also known as: _gambler's fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=deb50a6a-->
+
 - **Hot-hand fallacy** &mdash; the opposite direction: from a run, its continuation is inferred.
 - **Base rate fallacy** &mdash; related as a typical error in dealing with probabilities.
 
@@ -68,6 +71,7 @@ Also known as: _gambler's fallacy_
 <!-- description of example one -->
 
 <!--t src=ed6e5e80-->
+
 > "I've now thrown the die twenty times without a six &mdash; now one finally has to come up."
 
 <!--t src=9dbd77c8-->
@@ -82,6 +86,7 @@ The probability of a six remains $1/6$ on every throw. The run of bad luck so fa
 <!-- description of example two -->
 
 <!--t src=1f3b657f-->
+
 > "At roulette red came up five times &mdash; now I'll bet on black, it's overdue."
 
 <!--t src=e9dd34b2-->
@@ -100,4 +105,5 @@ The ball does not know the previous rounds. Black has not become more likely.
 - [Logically Fallacious: The Gambler's Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Gambler-s-Fallacy)
 
 <!--t src=b3b0b79f-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md)

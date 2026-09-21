@@ -104,4 +104,4 @@ Diese Unterscheidungen sind keine akademische Spielerei. Wer sie beherrscht, rea
 - [Lügner, Bullshitter und Trottel](https://www.youtube.com/watch?v=azp3g8vpBJE&list=PLnNbFF6NPy3zL5uvLMjKCMRByR9kouFCY) (Video)
 - Vorlesung „Bullshit-Resistenz" (UdK Berlin, 2023): [Fake News](https://www.youtube.com/watch?v=cbYY-EGwvIs)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md)
+[Article en français](/fr/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md) | [Article in English](/en/docs/kritisches-denken/080-manipulation-und-selbstverteidigung/020-luegen-unsinn-dummheit.md)

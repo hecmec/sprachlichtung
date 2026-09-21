@@ -3,15 +3,15 @@ title: Geladene Sprache (Loaded Speech)
 sidebar_position: 4
 description: "Analyse von emotional geladener Sprache und deren Einfluss auf Argumentation und kritisches Denken"
 keywords:
-   - geladene Sprache
-   - Euphemismen
-   - Dysphemismen
-   - emotionale Manipulation
-   - wertgeladene Begriffe
-   - implizite Wertungen
+  - geladene Sprache
+  - Euphemismen
+  - Dysphemismen
+  - emotionale Manipulation
+  - wertgeladene Begriffe
+  - implizite Wertungen
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
@@ -106,4 +106,4 @@ Wertgeladene Begriffe enthalten implizite positive oder negative Bewertungen.
 
 5. **Bewusste Sprachverwendung**: Achten Sie auf Ihre eigene Wortwahl und deren mögliche emotionale Wirkung.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)
+[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)

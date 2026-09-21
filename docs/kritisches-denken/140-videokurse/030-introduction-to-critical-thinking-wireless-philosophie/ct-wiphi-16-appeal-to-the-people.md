@@ -21,7 +21,7 @@ controls src='https://youtu.be/aF6EHTtyYqw' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 4:25. Original title: *CRITICAL THINKING - Fallacies: Appeal to the People [HD]*
+Wireless Philosophy, Fallacies, 4:25. Original title: _CRITICAL THINKING - Fallacies: Appeal to the People [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -207,4 +207,4 @@ Die verbreitete Überzeugung ist nur sehr selten das, was eine Behauptung wahr m
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md)

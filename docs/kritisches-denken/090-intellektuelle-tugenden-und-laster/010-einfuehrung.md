@@ -23,4 +23,4 @@ Intellektuelle Tugenden sind Charaktereigenschaften und Haltungen, die gutes Den
 
 In diesem Kapitel werden wir die wichtigsten intellektuellen Tugenden und Laster untersuchen, ihre Bedeutung für kritisches Denken verstehen und Wege erkunden, wie wir intellektuelle Tugenden in unserem eigenen Denken und in unseren Gemeinschaften kultivieren können.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md)
+[Article en français](/fr/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md) | [Article in English](/en/docs/kritisches-denken/090-intellektuelle-tugenden-und-laster/010-einfuehrung.md)

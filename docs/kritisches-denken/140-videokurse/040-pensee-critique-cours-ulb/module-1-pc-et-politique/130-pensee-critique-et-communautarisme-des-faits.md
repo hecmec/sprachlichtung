@@ -18,7 +18,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -53,16 +52,16 @@ Der **Kommunitarismus** bezeichnet die Haltung, die **Werte und Interessen einer
 
 ## ⚠️ Le danger du radicalisme communautaire
 
-* Certains groupes radicaux (ex. intégrismes religieux ou nationalismes extrêmes) utilisent leurs **valeurs communautaires** pour **justifier la violence** ou l'exclusion.
-* Exemple : des extrémistes religieux commettent des attentats au nom de "valeurs supérieures" perçues comme universelles.
+- Certains groupes radicaux (ex. intégrismes religieux ou nationalismes extrêmes) utilisent leurs **valeurs communautaires** pour **justifier la violence** ou l'exclusion.
+- Exemple : des extrémistes religieux commettent des attentats au nom de "valeurs supérieures" perçues comme universelles.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h2>Die Gefahr des gemeinschaftlichen Radikalismus</h2>
 
-* Manche radikalen Gruppen (z. B. religiöser Fundamentalismus oder extreme Nationalismen) nutzen ihre **gemeinschaftlichen Werte**, um **Gewalt** oder Ausgrenzung **zu rechtfertigen**.
-* Beispiel: Religiöse Extremisten verüben Anschläge im Namen „höherer Werte", die als universell wahrgenommen werden.
+- Manche radikalen Gruppen (z. B. religiöser Fundamentalismus oder extreme Nationalismen) nutzen ihre **gemeinschaftlichen Werte**, um **Gewalt** oder Ausgrenzung **zu rechtfertigen**.
+- Beispiel: Religiöse Extremisten verüben Anschläge im Namen „höherer Werte", die als universell wahrgenommen werden.
 
 </div>
 </div>
@@ -74,8 +73,8 @@ Der **Kommunitarismus** bezeichnet die Haltung, die **Werte und Interessen einer
 
 Haarscher introduit une forme plus insidieuse : **le communautarisme des faits** :
 
-* Il ne s'agit plus de différences de valeurs (ce qui peut être acceptable), mais de **sélection des faits selon le préjugé communautaire**.
-* Chaque groupe accepte uniquement les faits qui confortent **sa version victimaire**, en ignorant ou niant les faits qui contredisent cette narration.
+- Il ne s'agit plus de différences de valeurs (ce qui peut être acceptable), mais de **sélection des faits selon le préjugé communautaire**.
+- Chaque groupe accepte uniquement les faits qui confortent **sa version victimaire**, en ignorant ou niant les faits qui contredisent cette narration.
 
 </div>
 <div className="col col--6 video-translation">
@@ -84,8 +83,8 @@ Haarscher introduit une forme plus insidieuse : **le communautarisme des faits**
 
 Haarscher führt eine heimtückischere Form ein: **den Kommunitarismus der Fakten**:
 
-* Es geht nicht mehr um Unterschiede der Werte (was akzeptabel sein kann), sondern um die **Auswahl der Fakten nach dem gemeinschaftlichen Vorurteil**.
-* Jede Gruppe akzeptiert nur die Fakten, die **ihre Opferversion** stützen, und ignoriert oder leugnet die Fakten, die dieser Erzählung widersprechen.
+- Es geht nicht mehr um Unterschiede der Werte (was akzeptabel sein kann), sondern um die **Auswahl der Fakten nach dem gemeinschaftlichen Vorurteil**.
+- Jede Gruppe akzeptiert nur die Fakten, die **ihre Opferversion** stützen, und ignoriert oder leugnet die Fakten, die dieser Erzählung widersprechen.
 
 </div>
 </div>
@@ -95,16 +94,16 @@ Haarscher führt eine heimtückischere Form ein: **den Kommunitarismus der Fakte
 
 ### 📌 Comportements caractéristiques :
 
-* **Acceptation trop rapide** de certains faits (rumeurs, simplifications) s’ils confirment une idée préexistante.
-* **Exigence excessive de preuves** ou **déni** quand les faits sont défavorables à sa communauté.
+- **Acceptation trop rapide** de certains faits (rumeurs, simplifications) s’ils confirment une idée préexistante.
+- **Exigence excessive de preuves** ou **déni** quand les faits sont défavorables à sa communauté.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h3>Charakteristische Verhaltensweisen:</h3>
 
-* **Zu schnelles Akzeptieren** bestimmter Fakten (Gerüchte, Vereinfachungen), wenn sie eine vorbestehende Idee bestätigen.
-* **Übertriebene Beweisforderung** oder **Leugnung**, wenn die Fakten der eigenen Gemeinschaft ungünstig sind.
+- **Zu schnelles Akzeptieren** bestimmter Fakten (Gerüchte, Vereinfachungen), wenn sie eine vorbestehende Idee bestätigen.
+- **Übertriebene Beweisforderung** oder **Leugnung**, wenn die Fakten der eigenen Gemeinschaft ungünstig sind.
 
 </div>
 </div>
@@ -129,12 +128,12 @@ Ein **unbegründetes Gerücht**, wonach sich kein Jude in den Türmen des World 
 <div className="row">
 <div className="col col--6">
 
-## 🤝 Une voie vers le dialogue : accepter *tous* les faits
+## 🤝 Une voie vers le dialogue : accepter _tous_ les faits
 
 Un exemple de dialogue israélo-palestinien montre qu’**un terrain commun** peut émerger si **chaque camp accepte aussi les faits qui ne lui sont pas favorables** :
 
-* Les Israéliens doivent pouvoir reconnaître les abus de leur armée.
-* Les Palestiniens doivent pouvoir condamner les attentats-suicides.
+- Les Israéliens doivent pouvoir reconnaître les abus de leur armée.
+- Les Palestiniens doivent pouvoir condamner les attentats-suicides.
 
 Ce **partage des faits établis** est **préalable indispensable à la pensée critique** et au compromis.
 
@@ -145,8 +144,8 @@ Ce **partage des faits établis** est **préalable indispensable à la pensée c
 
 Ein Beispiel eines israelisch-palästinensischen Dialogs zeigt, dass **ein gemeinsamer Boden** entstehen kann, wenn **jede Seite auch die ihr ungünstigen Fakten anerkennt**:
 
-* Die Israelis müssen die Übergriffe ihrer Armee anerkennen können.
-* Die Palästinenser müssen die Selbstmordattentate verurteilen können.
+- Die Israelis müssen die Übergriffe ihrer Armee anerkennen können.
+- Die Palästinenser müssen die Selbstmordattentate verurteilen können.
 
 Dieses **Teilen der feststehenden Fakten** ist eine **unerlässliche Voraussetzung für das kritische Denken** und den Kompromiss.
 
@@ -158,14 +157,14 @@ Dieses **Teilen der feststehenden Fakten** ist eine **unerlässliche Voraussetzu
 
 ## 📚 Cas des attentats de janvier 2015 en France
 
-Après les attentats contre *Charlie Hebdo* et l’Hyper Cacher, certaines écoles ont organisé des **minutes de silence**. Des jeunes, influencés par des **sites complotistes**, ont refusé de participer, **niant les faits établis** au profit de théories alternatives non fondées.
+Après les attentats contre _Charlie Hebdo_ et l’Hyper Cacher, certaines écoles ont organisé des **minutes de silence**. Des jeunes, influencés par des **sites complotistes**, ont refusé de participer, **niant les faits établis** au profit de théories alternatives non fondées.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h2>Der Fall der Anschläge vom Januar 2015 in Frankreich</h2>
 
-Nach den Anschlägen auf *Charlie Hebdo* und den Hyper Cacher hielten manche Schulen **Schweigeminuten** ab. Jugendliche, beeinflusst von **Verschwörungsseiten**, weigerten sich teilzunehmen und **leugneten die feststehenden Fakten** zugunsten unbegründeter alternativer Theorien.
+Nach den Anschlägen auf _Charlie Hebdo_ und den Hyper Cacher hielten manche Schulen **Schweigeminuten** ab. Jugendliche, beeinflusst von **Verschwörungsseiten**, weigerten sich teilzunehmen und **leugneten die feststehenden Fakten** zugunsten unbegründeter alternativer Theorien.
 
 </div>
 </div>
@@ -208,4 +207,4 @@ Ein **Signal des Vorurteils**: wenn eine Person für bestimmte Fakten extreme St
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/130-pensee-critique-et-communautarisme-des-faits.md)

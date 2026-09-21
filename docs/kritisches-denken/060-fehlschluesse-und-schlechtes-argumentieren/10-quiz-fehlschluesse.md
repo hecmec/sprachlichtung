@@ -63,4 +63,4 @@ last_update:
 4. b) Bestätigungsfehler des Nachsatzes
 5. b) Komposition
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md)

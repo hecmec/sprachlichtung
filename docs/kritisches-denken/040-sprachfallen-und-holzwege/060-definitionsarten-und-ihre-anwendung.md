@@ -3,15 +3,15 @@ title: Definitionsarten und ihre Anwendung
 sidebar_position: 6
 description: "Übersicht über verschiedene Arten von Definitionen und ihre Rolle im kritischen Denken"
 keywords:
-   - Definition
-   - reportive Definition
-   - stipulative Definition
-   - präzisierende Definition
-   - persuasive Definition
-   - Begriffsklärung
+  - Definition
+  - reportive Definition
+  - stipulative Definition
+  - präzisierende Definition
+  - persuasive Definition
+  - Begriffsklärung
 last_update:
-   date: 2026-01-29
-   author: Immanuel Lupinus
+  date: 2026-01-29
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
@@ -26,11 +26,13 @@ Definitionen sind entscheidend für klares Denken und präzise Kommunikation. Je
 Reportive Definitionen beschreiben, wie ein Begriff tatsächlich verwendet wird. Sie berichten über den etablierten Sprachgebrauch.
 
 **Merkmale:**
+
 - Beschreiben den tatsächlichen Sprachgebrauch
 - Können wahr oder falsch sein
 - Basieren oft auf Wörterbüchern, Fachliteratur oder empirischen Untersuchungen
 
 **Beispiele:**
+
 - "Ein 'Junggeselle' ist ein unverheirateter erwachsener Mann."
 - "In der Physik bezeichnet 'Arbeit' das Produkt aus Kraft und Weg in Richtung der Kraft."
 - "In der Umgangssprache bedeutet 'cool' etwas Beeindruckendes oder Modisches."
@@ -40,11 +42,13 @@ Reportive Definitionen beschreiben, wie ein Begriff tatsächlich verwendet wird.
 Stipulative Definitionen legen fest, wie ein Begriff in einem bestimmten Kontext verwendet werden soll, unabhängig vom üblichen Sprachgebrauch.
 
 **Merkmale:**
+
 - Legen eine Bedeutung für einen spezifischen Zweck fest
 - Können nicht wahr oder falsch sein, sondern nur mehr oder weniger nützlich
 - Werden oft in wissenschaftlichen, philosophischen oder juristischen Kontexten verwendet
 
 **Beispiele:**
+
 - "In dieser Studie definieren wir 'Jugendliche' als Personen zwischen 13 und 19 Jahren."
 - "Für die Zwecke dieses Gesetzes gilt als 'Fahrzeug' jedes Mittel zur Beförderung von Personen oder Sachen, das nicht ausschließlich durch menschliche oder tierische Kraft bewegt wird."
 - "In diesem Spiel bezeichnen wir die roten Figuren als 'Jäger' und die blauen als 'Sammler'."
@@ -54,11 +58,13 @@ Stipulative Definitionen legen fest, wie ein Begriff in einem bestimmten Kontext
 Präzisierende Definitionen schärfen die Bedeutung eines vagen oder mehrdeutigen Begriffs, indem sie seine Grenzen klarer ziehen.
 
 **Merkmale:**
+
 - Reduzieren Vagheit oder Mehrdeutigkeit
 - Behalten die Kernbedeutung bei, machen aber Grenzfälle klarer
 - Sind weder rein reportiv noch rein stipulativ
 
 **Beispiele:**
+
 - "Unter 'Demokratie' verstehen wir ein politisches System, in dem die Regierung durch freie und faire Wahlen bestimmt wird, Grundrechte garantiert sind und die Gewaltenteilung gewährleistet ist."
 - "Als 'übergewichtig' bezeichnen wir Personen mit einem Body-Mass-Index von 25 oder höher."
 - "Mit 'nachhaltig' meinen wir Praktiken, die die Bedürfnisse der Gegenwart befriedigen, ohne die Fähigkeit zukünftiger Generationen zu gefährden, ihre eigenen Bedürfnisse zu befriedigen."
@@ -68,11 +74,13 @@ Präzisierende Definitionen schärfen die Bedeutung eines vagen oder mehrdeutige
 Persuasive Definitionen versuchen, Einstellungen oder Bewertungen zu beeinflussen, indem sie wertende Elemente in die Definition einbauen.
 
 **Merkmale:**
+
 - Enthalten explizite oder implizite Wertungen
 - Dienen oft rhetorischen oder ideologischen Zwecken
 - Vermischen Beschreibung und Bewertung
 
 **Beispiele:**
+
 - "Abtreibung ist die vorsätzliche Tötung eines unschuldigen menschlichen Wesens." (pro-life Perspektive)
 - "Abtreibung ist ein medizinischer Eingriff zur Wahrung der reproduktiven Autonomie der Frau." (pro-choice Perspektive)
 - "Steuern sind staatlich organisierter Diebstahl." (libertäre Perspektive)
@@ -109,4 +117,4 @@ Unabhängig von der Art der Definition gibt es allgemeine Kriterien, die eine gu
 
 5. **Kontextabhängigkeit berücksichtigen**: Akzeptieren Sie, dass in verschiedenen Kontexten unterschiedliche Definitionen angemessen sein können.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)
+[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)

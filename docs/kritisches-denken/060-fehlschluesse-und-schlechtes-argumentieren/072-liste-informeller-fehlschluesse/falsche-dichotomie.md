@@ -74,4 +74,4 @@ Gesundheit ist ein Kontinuum mit vielen Zwischenzuständen. Die strikte Zweiteil
 - [Wikipedia: False dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 - [Logically Fallacious: Black-or-White](https://www.logicallyfallacious.com/logicalfallacies/Black-or-White-Fallacy)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md)

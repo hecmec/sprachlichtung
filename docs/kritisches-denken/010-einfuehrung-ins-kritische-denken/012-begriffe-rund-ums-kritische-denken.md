@@ -453,4 +453,4 @@ Starres Festhalten an Lehrsätzen, die als unumstößlich gelten und nicht hinte
 - Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction), Santa Clara University 1990.
 - Peter A. Facione: [_Critical Thinking: What It Is and Why It Counts_](https://www.researchgate.net/publication/251303244_Critical_Thinking_What_It_Is_and_Why_It_Counts), 2015
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md)
+[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/012-begriffe-rund-ums-kritische-denken.md)

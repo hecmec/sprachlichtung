@@ -35,6 +35,7 @@ _Old does not mean good._
 In the **Argumentum ad Antiquitatem** (appeal to tradition), a claim or practice is held to be right **because it is old** or has „always“ been done that way.
 
 <!--t src=4b184ec8-->
+
 The error: the age of a belief is no evidence of its correctness. Long-cherished customs too can be wrong, outdated or harmful. (Conversely, tradition is not automatically wrong &mdash; it is just no _argument_ in itself.)
 
 <!--t src=3c24b250-->
@@ -58,6 +59,7 @@ Also known as: _appeal to tradition_ / _argumentum ad antiquitatem_
 <!-- list similar fallacies -->
 
 <!--t src=c25001c5-->
+
 - **Argumentum ad novitatem** &mdash; the counterpart: "new, therefore better".
 - **Argumentum ad populum** &mdash; related: not "long", but "many".
 - **Naturalistic fallacy** &mdash; related: from "that's how it's customary" to "that's how it ought to be".
@@ -74,6 +76,7 @@ Also known as: _appeal to tradition_ / _argumentum ad antiquitatem_
 <!-- description of example one -->
 
 <!--t src=a944794b-->
+
 > "We've always done it this way here &mdash; why should we change it?"
 
 <!--t src=2bc2250b-->
@@ -108,4 +111,5 @@ Centuries of use are no substitute for proof of efficacy. Ineffective methods to
 - [Logically Fallacious: Appeal to Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)
 
 <!--t src=50125e88-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-antiquitatem.md)

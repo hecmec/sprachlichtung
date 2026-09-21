@@ -208,4 +208,4 @@ source: _[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mor
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/090-le-jeu-de-la-mort.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/090-le-jeu-de-la-mort.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/090-le-jeu-de-la-mort.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/090-le-jeu-de-la-mort.md)

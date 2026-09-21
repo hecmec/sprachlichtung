@@ -23,27 +23,34 @@ custom_translation_overwritten: false
 <!-- ## Einführung -->
 
 <!--t src=4a3ed140-->
+
 Jamais il n'a été aussi facile d'accéder à l'information, et jamais il n'a été aussi difficile de séparer la bonne (fiable) de la mauvaise (fausse). Un simple smartphone nous donne accès à plus de connaissances que n'en a jamais contenu aucune bibliothèque de l'histoire.
 Le flot d'informations est immense, et l'on y voit désormais nager aussi davantage de rumeurs, de publicités déguisées en informations, d'erreurs sincères, de nombreuses opinions rémunérées et de mensonges délibérés, aujourd'hui de plus en plus produits par des machines.
 
 <!--t src=61f9472e-->
+
 Quiconque veut penser de manière critique ne peut donc échapper à une question clé :
 
 <!--t src=4d9dc6b6-->
+
 > **Comment puis-je savoir si je peux faire confiance à ce que je lis, vois ou entends ?**
 
 <!--t src=38214116-->
+
 C'est précisément l'objet de ce chapitre.  
 L'**éducation aux médias** est la capacité de s'orienter dans le monde médiatique : trouver, comprendre et situer les contenus, et les utiliser soi-même de manière responsable.  
 La **critique des sources** en est l'outil : l'examen exercé de _qui_ dit quelque chose, d'_où_ cela provient et de la _qualité_ avec laquelle c'est étayé.
 
 <!--t src=1c26cab7-->
+
 La bonne nouvelle : la vérification des sources n'est pas une science occulte. Elle se résume à quelques gestes que chacun peut apprendre et qui se font souvent en moins d'une minute. Les professionnels ne font rien de fondamentalement différent des amateurs aguerris ; ils le font simplement plus vite et avec plus de constance.
 
 <!--t src=6b4f673a-->
+
 Dans ce chapitre, nous apprenons :
 
 <!--t src=cb849f4f-->
+
 - ce que recouvre au juste l'éducation aux médias (mot-clé : **MIL**),
 - la **méthode SIFT** : quatre gestes simples pour vérifier rapidement,
 - comment distinguer les **bonnes des mauvaises sources**,
@@ -53,13 +60,16 @@ Dans ce chapitre, nous apprenons :
 - quels **outils de vérification des faits et de vérification** existent.
 
 <!--t src=6dc079ce-->
+
 :::tip En bref
 L'information est disponible en abondance.  
 Nous devons simplement apprendre à la **vérifier**.
 :::
 
 <!--t src=8825b0ec-->
+
 Pour cela, nous ne misons pas sur la méfiance envers tout. Ce serait tout aussi nuisible que la confiance aveugle. L'objectif est un scepticisme exercé et serein : vérifier avant de croire, et vérifier avant de partager.
 
 <!--t src=4ec246a6-->
-[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md) | [Article in English](/en/docs/kritisches-denken/065-quellen-pruefung/010-einfuehrung-medienkompetenz.md)

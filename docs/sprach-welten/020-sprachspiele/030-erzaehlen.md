@@ -77,4 +77,4 @@ Das Erzählen erfüllt fundamentale soziale Funktionen:
 
 Letztlich sind menschliche Gesellschaften von Erzählungen durchdrungen &mdash; von den großen kulturellen "Meta-Erzählungen" bis hin zu den kleinen Alltagsgeschichten. In der Fähigkeit, Geschichten zu erzählen und zu verstehen, liegt ein Schlüssel zur menschlichen Kooperation und kulturellen Evolution. Gleichzeitig bleibt kritische Distanz zu den Narrativen, die uns umgeben und prägen, eine zentrale Aufgabe reflektierten Denkens.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md)
+[Article en français](/fr/docs/sprach-welten/020-sprachspiele/030-erzaehlen.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/030-erzaehlen.md)

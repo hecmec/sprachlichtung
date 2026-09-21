@@ -21,7 +21,7 @@ controls src='https://youtu.be/qBkj-AYYg7w' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 8:11. Original title: *CRITICAL THINKING - Fallacies: Ad Hominem [HD]*
+Wireless Philosophy, Fallacies, 8:11. Original title: _CRITICAL THINKING - Fallacies: Ad Hominem [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -226,4 +226,4 @@ Keine dieser Entgegnungen setzt sich mit Catherines oder Vlads Prämissen oder S
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md)

@@ -80,4 +80,4 @@ Es gibt viele Philosophen, die das verstanden haben. Sie versöhnen ihren Gottes
 
 [^2]: Der Philosoph **Immanuel Kant** hat in seinem Werk gezeigt, dass Glaube und Vernunft unterschiedliche Bereiche sind, die sich nicht widersprechen. Gott, Freiheit und Unsterblichkeit sind jedoch keine Gegenstände empirischer Erkenntnis, sondern gehören sur praktischen Vernunft.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)
+[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)

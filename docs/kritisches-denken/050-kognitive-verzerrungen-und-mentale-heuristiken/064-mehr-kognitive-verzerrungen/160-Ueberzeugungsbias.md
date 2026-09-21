@@ -109,4 +109,4 @@ Die Prämissen sind fragwürdig und die Logik fehlerhaft, aber viele Menschen ak
 - Klauer, K. C., Musch, J., & Naumer, B. (2000). On belief bias in syllogistic reasoning.
 - Markovits, H., & Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)

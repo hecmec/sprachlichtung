@@ -18,6 +18,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=27c00534-->
+
 :::tip In brief
 Only two possibilities are offered as a choice, although there are more.
 
@@ -29,9 +30,11 @@ _Either&mdash;or, where a third would be possible._
 ## Definition
 
 <!--t src=e7104cab-->
+
 In the **false dilemma**, only **two options** are presented and portrayed as exhaustive, even though in reality **further possibilities** (or intermediate positions) exist. If one rejects the one option, one is supposed to necessarily accept the other.
 
 <!--t src=ceeeeef6-->
+
 The error: the selection is artificially narrowed. Whoever accepts the "either&mdash;or" overlooks the third option that has been hidden.
 
 <!--t src=3c24b250-->
@@ -56,6 +59,7 @@ Also known as: _false dilemma_
 <!-- list similar fallacies -->
 
 <!--t src=393ab157-->
+
 - **False dichotomy** &mdash; nearly synonymous: the either-or division itself.
 - **Straw man** &mdash; related, when the opposing position is narrowed to an extreme option.
 - **Single-cause thinking** &mdash; related: an artificial narrowing of possible causes.
@@ -76,6 +80,7 @@ Also known as: _false dilemma_
 > „Either you are for us or you are against us.“
 
 <!--t src=be954e2d-->
+
 In between lie many positions &mdash; partial agreement, neutrality, nuanced criticism. The choice is reduced to two extremes.
 
 <!--t src=f350657d-->
@@ -105,4 +110,5 @@ There are further options (other savings, additional revenue, reallocations). Th
 - [Logically Fallacious: False Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)
 
 <!--t src=d4b60513-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md)

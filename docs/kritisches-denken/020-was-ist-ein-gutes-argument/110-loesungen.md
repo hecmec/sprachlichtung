@@ -63,4 +63,4 @@ draft: false
 - **Stärke**: Schwach &mdash; logisch ungültig, da es andere Ursachen für schmelzenden Schnee geben kann (z.B. warme Temperaturen ohne direkten Sonnenschein, Regen, künstliche Wärmequellen).
 - **Mögliche Verbesserungen**: In ein abduktives Argument umformulieren: "Der Schnee schmilzt. Eine mögliche Erklärung ist, dass die Sonne scheint. Wenn keine anderen Faktoren vorliegen, scheint wahrscheinlich die Sonne."
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)
+[Article en français](/fr/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/en/docs/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)

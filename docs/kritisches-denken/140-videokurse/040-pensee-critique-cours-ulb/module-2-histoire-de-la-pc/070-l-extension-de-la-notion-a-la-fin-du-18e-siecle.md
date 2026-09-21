@@ -160,4 +160,4 @@ Die **Ideologen** prägen diese Wandlung, indem sie die Vernunft auf **alle Bere
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/070-l-extension-de-la-notion-a-la-fin-du-18e-siecle.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/070-l-extension-de-la-notion-a-la-fin-du-18e-siecle.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/070-l-extension-de-la-notion-a-la-fin-du-18e-siecle.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/070-l-extension-de-la-notion-a-la-fin-du-18e-siecle.md)

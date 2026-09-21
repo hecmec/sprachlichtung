@@ -36,7 +36,7 @@ So entstehen allerdings ganz typische Vorurteile und Schubladendenken.
 3. **Universell**: Sie betreffen alle Menschen, unabhängig von Intelligenz oder Bildung.
 
 4. **Hartnäckig**: Selbst wenn man sich ihrer bewusst ist, können sie weiterhin das Denken beeinflussen.\
-Doch wenn wir sie kennen, dann können wir versuchen, ihnen entgegenzuwirken.
+   Doch wenn wir sie kennen, dann können wir versuchen, ihnen entgegenzuwirken.
 
 5. **Adaptiv**: Viele kognitive Verzerrungen haben sich entwickelt, weil sie in bestimmten Umgebungen oder Situationen nützlich waren oder sind.
 
@@ -54,4 +54,4 @@ Kognitive Verzerrungen entstehen aus verschiedenen Gründen:
 
 5. **Emotionale Einflüsse**: Emotionen können rationales Denken überlagern und zu verzerrten Urteilen führen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/020-was-sind-kognitive-verzerrungen.md)

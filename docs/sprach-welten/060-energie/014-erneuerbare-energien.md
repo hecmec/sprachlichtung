@@ -75,4 +75,4 @@ Zum Einordnen: Neue Kohle- oder Gaskraftwerke liegen je nach Brennstoffpreis gro
 
 [^owid-energy]: Länder- und Preisvergleiche u. a. bei [Our World in Data – Energy](https://ourworldindata.org/energy) sowie den interaktiven [Energy-Charts des Fraunhofer ISE](https://www.energy-charts.info/).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/014-erneuerbare-energien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/014-erneuerbare-energien.md)
+[Article en français](/fr/docs/sprach-welten/060-energie/014-erneuerbare-energien.md) | [Article in English](/en/docs/sprach-welten/060-energie/014-erneuerbare-energien.md)

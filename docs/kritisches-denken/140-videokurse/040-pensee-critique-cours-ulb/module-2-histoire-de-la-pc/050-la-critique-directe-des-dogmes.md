@@ -16,7 +16,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -34,16 +33,16 @@ import ReactPlayer from 'react-player';
 
 ## 1. **Définition du dogme et de la critique directe**
 
-Le *dogme* est une thèse considérée comme indiscutable, car supposée d’origine divine. Il concerne à la fois la vision du monde, les valeurs et les comportements à adopter. Il se fonde sur des textes sacrés transmis par des auteurs inspirés par Dieu, et ne peut donc être remis en cause dans la tradition religieuse.
-La *critique directe des dogmes* consiste à confronter frontalement ces thèses et à proposer d’autres voies morales ou existentielles. Cette démarche suscite souvent une forte opposition, notamment de la part des institutions religieuses.
+Le _dogme_ est une thèse considérée comme indiscutable, car supposée d’origine divine. Il concerne à la fois la vision du monde, les valeurs et les comportements à adopter. Il se fonde sur des textes sacrés transmis par des auteurs inspirés par Dieu, et ne peut donc être remis en cause dans la tradition religieuse.
+La _critique directe des dogmes_ consiste à confronter frontalement ces thèses et à proposer d’autres voies morales ou existentielles. Cette démarche suscite souvent une forte opposition, notamment de la part des institutions religieuses.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h2>1. <strong>Definition des Dogmas und der direkten Kritik</strong></h2>
 
-Das *Dogma* ist eine These, die als unbestreitbar gilt, weil sie als göttlichen Ursprungs angenommen wird. Es betrifft zugleich die Weltsicht, die Werte und die anzunehmenden Verhaltensweisen. Es gründet sich auf heilige Texte, die von gottbegeisterten Autoren überliefert wurden, und kann daher in der religiösen Tradition nicht infrage gestellt werden.
-Die *direkte Kritik an den Dogmen* besteht darin, diese Thesen frontal zu konfrontieren und andere moralische oder existenzielle Wege vorzuschlagen. Dieses Vorgehen ruft oft starken Widerstand hervor, besonders vonseiten der religiösen Institutionen.
+Das _Dogma_ ist eine These, die als unbestreitbar gilt, weil sie als göttlichen Ursprungs angenommen wird. Es betrifft zugleich die Weltsicht, die Werte und die anzunehmenden Verhaltensweisen. Es gründet sich auf heilige Texte, die von gottbegeisterten Autoren überliefert wurden, und kann daher in der religiösen Tradition nicht infrage gestellt werden.
+Die _direkte Kritik an den Dogmen_ besteht darin, diese Thesen frontal zu konfrontieren und andere moralische oder existenzielle Wege vorzuschlagen. Dieses Vorgehen ruft oft starken Widerstand hervor, besonders vonseiten der religiösen Institutionen.
 
 </div>
 </div>
@@ -122,4 +121,4 @@ Die direkte Kritik an den Dogmen ist Teil einer historischen Bewegung hin zu meh
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md)

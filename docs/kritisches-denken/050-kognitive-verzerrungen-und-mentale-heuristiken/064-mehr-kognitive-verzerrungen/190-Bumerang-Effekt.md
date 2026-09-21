@@ -80,4 +80,4 @@ Je mehr man moralisiert ("Du musst…"), desto eher folgt **Trotz**; die Person 
 - Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions.
 - Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth” era.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md)

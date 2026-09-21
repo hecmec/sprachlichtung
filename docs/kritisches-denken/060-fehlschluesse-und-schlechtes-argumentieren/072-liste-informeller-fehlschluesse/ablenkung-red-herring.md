@@ -75,4 +75,4 @@ Der Verweis auf China beantwortet die Frage nach der Mülltrennung nicht, sonder
 - [Wikipedia: Red herring (fallacy)](https://en.wikipedia.org/wiki/Red_herring)
 - [Logically Fallacious: Red Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md)

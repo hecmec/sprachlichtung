@@ -78,12 +78,12 @@ Aufbauend auf der vorigen Erörterung der mathematischen Gewissheit wendet sich 
 <div className="row">
 <div className="col col--6">
 
-A natural question is why we speak of probability rather than certainty if the calculations are mathematical. We *can* have mathematical certainty about the calculations themselves and know an exact probability, but the result still only describes the chance that something occurs. Numbers have no causal power, and whether an event actually happens is influenced by factors beyond the math.
+A natural question is why we speak of probability rather than certainty if the calculations are mathematical. We _can_ have mathematical certainty about the calculations themselves and know an exact probability, but the result still only describes the chance that something occurs. Numbers have no causal power, and whether an event actually happens is influenced by factors beyond the math.
 
 </div>
 <div className="col col--6 video-translation">
 
-Eine naheliegende Frage ist, warum wir von Wahrscheinlichkeit statt von Gewissheit sprechen, wenn die Berechnungen mathematisch sind. Wir *können* mathematische Gewissheit über die Berechnungen selbst haben und eine exakte Wahrscheinlichkeit kennen, aber das Ergebnis beschreibt trotzdem nur die Chance, dass etwas eintritt. Zahlen haben keine kausale Kraft, und ob ein Ereignis tatsächlich eintritt, wird von Faktoren jenseits der Mathematik beeinflusst.
+Eine naheliegende Frage ist, warum wir von Wahrscheinlichkeit statt von Gewissheit sprechen, wenn die Berechnungen mathematisch sind. Wir _können_ mathematische Gewissheit über die Berechnungen selbst haben und eine exakte Wahrscheinlichkeit kennen, aber das Ergebnis beschreibt trotzdem nur die Chance, dass etwas eintritt. Zahlen haben keine kausale Kraft, und ob ein Ereignis tatsächlich eintritt, wird von Faktoren jenseits der Mathematik beeinflusst.
 
 </div>
 </div>
@@ -274,12 +274,12 @@ Wenn wir nur eine **Teilmenge** von r Elementen aus n wollen, verwenden wir n! /
 <div className="row">
 <div className="col col--6">
 
-Because real codes usually *allow repetition*, we need the **complex permutation formula**: raise the number of options per position to the power of the number of positions.
+Because real codes usually _allow repetition_, we need the **complex permutation formula**: raise the number of options per position to the power of the number of positions.
 
 </div>
 <div className="col col--6 video-translation">
 
-Da echte Codes gewöhnlich *Wiederholung erlauben*, brauchen wir die **komplexe Permutationsformel**: Erhebe die Anzahl der Optionen pro Position in die Potenz der Anzahl der Positionen.
+Da echte Codes gewöhnlich _Wiederholung erlauben_, brauchen wir die **komplexe Permutationsformel**: Erhebe die Anzahl der Optionen pro Position in die Potenz der Anzahl der Positionen.
 
 </div>
 </div>
@@ -330,12 +330,12 @@ Beachte, dass das Erraten der richtigen Dreibuchstaben-Kombination uns zur Grund
 <div className="row">
 <div className="col col--6">
 
-The key contrast is that a priori probability can be calculated exactly *before* any event, whereas **a posteriori probability** cannot be calculated until *after* events and observations. This is why it is tied to the **scientific method**, which provides guidelines for forming and testing hypotheses, the topic of the next video. Examples include presidential approval polls, which must actually be taken, and computing an **average**, which requires collected data such as test scores.
+The key contrast is that a priori probability can be calculated exactly _before_ any event, whereas **a posteriori probability** cannot be calculated until _after_ events and observations. This is why it is tied to the **scientific method**, which provides guidelines for forming and testing hypotheses, the topic of the next video. Examples include presidential approval polls, which must actually be taken, and computing an **average**, which requires collected data such as test scores.
 
 </div>
 <div className="col col--6 video-translation">
 
-Der entscheidende Gegensatz ist, dass die A-priori-Wahrscheinlichkeit *vor* jedem Ereignis exakt berechnet werden kann, während die **A-posteriori-Wahrscheinlichkeit** erst *nach* Ereignissen und Beobachtungen berechnet werden kann. Deshalb ist sie an die **wissenschaftliche Methode** gebunden, die Richtlinien für das Bilden und Testen von Hypothesen liefert, das Thema des nächsten Videos. Beispiele sind Zustimmungsumfragen zu Präsidenten, die tatsächlich durchgeführt werden müssen, und die Berechnung eines **Mittelwerts**, die gesammelte Daten wie Testergebnisse erfordert.
+Der entscheidende Gegensatz ist, dass die A-priori-Wahrscheinlichkeit _vor_ jedem Ereignis exakt berechnet werden kann, während die **A-posteriori-Wahrscheinlichkeit** erst _nach_ Ereignissen und Beobachtungen berechnet werden kann. Deshalb ist sie an die **wissenschaftliche Methode** gebunden, die Richtlinien für das Bilden und Testen von Hypothesen liefert, das Thema des nächsten Videos. Beispiele sind Zustimmungsumfragen zu Präsidenten, die tatsächlich durchgeführt werden müssen, und die Berechnung eines **Mittelwerts**, die gesammelte Daten wie Testergebnisse erfordert.
 
 </div>
 </div>
@@ -383,4 +383,4 @@ Bei den Gehältern einer kleinen Firma könnte das arithmetische Mittel \$65.000
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability.md)

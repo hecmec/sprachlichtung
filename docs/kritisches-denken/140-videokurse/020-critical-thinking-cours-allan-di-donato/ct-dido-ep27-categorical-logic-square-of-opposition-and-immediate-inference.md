@@ -171,14 +171,14 @@ Alle Beziehungen setzen voraus, dass die Propositionen dieselben Subjekt- und Pr
 <div className="row">
 <div className="col col--6">
 
-- *Superalternation:* the truth of the upper implies the truth of the lower, but the falsity of the upper implies nothing.
-- *Subalternation:* the falsity of the lower implies the falsity of the upper, but the truth of the lower implies nothing.
+- _Superalternation:_ the truth of the upper implies the truth of the lower, but the falsity of the upper implies nothing.
+- _Subalternation:_ the falsity of the lower implies the falsity of the upper, but the truth of the lower implies nothing.
 
 </div>
 <div className="col col--6 video-translation">
 
-- *Superalternation:* Die Wahrheit des Oberen impliziert die Wahrheit des Unteren, aber die Falschheit des Oberen impliziert nichts.
-- *Subalternation:* Die Falschheit des Unteren impliziert die Falschheit des Oberen, aber die Wahrheit des Unteren impliziert nichts.
+- _Superalternation:_ Die Wahrheit des Oberen impliziert die Wahrheit des Unteren, aber die Falschheit des Oberen impliziert nichts.
+- _Subalternation:_ Die Falschheit des Unteren impliziert die Falschheit des Oberen, aber die Wahrheit des Unteren impliziert nichts.
 
 </div>
 </div>
@@ -212,12 +212,12 @@ Alle Beziehungen setzen voraus, dass die Propositionen dieselben Subjekt- und Pr
 <div className="row">
 <div className="col col--6">
 
-But the square also has gaps. From a *false* E proposition we can infer its contradictory I is true, yet A and O remain **unknown**: the falsity of a contrary determines nothing, and superimplication and subalternation both fail to reach them. Some corners simply cannot be deduced from certain starting points.
+But the square also has gaps. From a _false_ E proposition we can infer its contradictory I is true, yet A and O remain **unknown**: the falsity of a contrary determines nothing, and superimplication and subalternation both fail to reach them. Some corners simply cannot be deduced from certain starting points.
 
 </div>
 <div className="col col--6 video-translation">
 
-Aber das Quadrat hat auch Lücken. Aus einer *falschen* E-Proposition können wir folgern, dass ihre kontradiktorische I wahr ist, doch A und O bleiben **unbekannt**: Die Falschheit einer konträren bestimmt nichts, und Superimplikation und Subalternation erreichen sie beide nicht. Manche Ecken lassen sich von bestimmten Ausgangspunkten aus schlicht nicht ableiten.
+Aber das Quadrat hat auch Lücken. Aus einer _falschen_ E-Proposition können wir folgern, dass ihre kontradiktorische I wahr ist, doch A und O bleiben **unbekannt**: Die Falschheit einer konträren bestimmt nichts, und Superimplikation und Subalternation erreichen sie beide nicht. Manche Ecken lassen sich von bestimmten Ausgangspunkten aus schlicht nicht ableiten.
 
 </div>
 </div>
@@ -238,12 +238,12 @@ Aber das Quadrat hat auch Lücken. Aus einer *falschen* E-Proposition können wi
 <div className="row">
 <div className="col col--6">
 
-Two propositions are **logically equivalent** if and only if they always share both the same truth value *and* the same meaning. (This is stronger than **material implication**, which guarantees only matching truth values.) A transformation yields a new statement, but it expresses the same proposition, since a proposition is the meaning, not the statement. Each transformation is itself a form of immediate inference. There are three:
+Two propositions are **logically equivalent** if and only if they always share both the same truth value _and_ the same meaning. (This is stronger than **material implication**, which guarantees only matching truth values.) A transformation yields a new statement, but it expresses the same proposition, since a proposition is the meaning, not the statement. Each transformation is itself a form of immediate inference. There are three:
 
 </div>
 <div className="col col--6 video-translation">
 
-Zwei Propositionen sind **logisch äquivalent**, genau dann, wenn sie immer sowohl denselben Wahrheitswert *als auch* dieselbe Bedeutung teilen. (Das ist stärker als die **materiale Implikation**, die nur übereinstimmende Wahrheitswerte garantiert.) Eine Umformung ergibt eine neue Aussage, aber sie drückt dieselbe Proposition aus, da eine Proposition die Bedeutung ist, nicht die Aussage. Jede Umformung ist selbst eine Form der unmittelbaren Folgerung. Es gibt drei:
+Zwei Propositionen sind **logisch äquivalent**, genau dann, wenn sie immer sowohl denselben Wahrheitswert _als auch_ dieselbe Bedeutung teilen. (Das ist stärker als die **materiale Implikation**, die nur übereinstimmende Wahrheitswerte garantiert.) Eine Umformung ergibt eine neue Aussage, aber sie drückt dieselbe Proposition aus, da eine Proposition die Bedeutung ist, nicht die Aussage. Jede Umformung ist selbst eine Form der unmittelbaren Folgerung. Es gibt drei:
 
 </div>
 </div>
@@ -277,12 +277,12 @@ Zwei Propositionen sind **logisch äquivalent**, genau dann, wenn sie immer sowo
 <div className="row">
 <div className="col col--6">
 
-**Contraposition** also takes two steps: (1) swap subject and predicate (as in conversion), and (2) replace each term with its complement. Like conversion it works on only two types, but here the other pair of contradictories, **A and O**. The original is the *contraponend*, the result the *contrapositive*. Example: "Some dessert is not ice cream" becomes "Some non-ice-cream is not non-dessert."
+**Contraposition** also takes two steps: (1) swap subject and predicate (as in conversion), and (2) replace each term with its complement. Like conversion it works on only two types, but here the other pair of contradictories, **A and O**. The original is the _contraponend_, the result the _contrapositive_. Example: "Some dessert is not ice cream" becomes "Some non-ice-cream is not non-dessert."
 
 </div>
 <div className="col col--6 video-translation">
 
-**Die Kontraposition** erfolgt ebenfalls in zwei Schritten: (1) Subjekt und Prädikat vertauschen (wie bei der Konversion) und (2) jeden Term durch sein Komplement ersetzen. Wie die Konversion funktioniert sie nur bei zwei Typen, hier aber beim anderen Paar der kontradiktorischen, **A und O**. Das Original ist das *Kontraponend*, das Ergebnis das *Kontrapositiv*. Beispiel: „Einige Nachspeisen sind kein Eis" wird zu „Einige Nicht-Eis sind keine Nicht-Nachspeisen".
+**Die Kontraposition** erfolgt ebenfalls in zwei Schritten: (1) Subjekt und Prädikat vertauschen (wie bei der Konversion) und (2) jeden Term durch sein Komplement ersetzen. Wie die Konversion funktioniert sie nur bei zwei Typen, hier aber beim anderen Paar der kontradiktorischen, **A und O**. Das Original ist das _Kontraponend_, das Ergebnis das _Kontrapositiv_. Beispiel: „Einige Nachspeisen sind kein Eis" wird zu „Einige Nicht-Eis sind keine Nicht-Nachspeisen".
 
 </div>
 </div>
@@ -313,4 +313,4 @@ Die Umformungen lassen sich mit dem Quadrat kombinieren, um zu einer Zielaussage
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep27-categorical-logic-square-of-opposition-and-immediate-inference.md)

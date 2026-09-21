@@ -17,23 +17,28 @@ translation_status: auto
 ---
 
 <!--t src=f5921e02-->
+
 ![Orwell, if people cannot write well](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
 <!--t src=b939afa5-->
+
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
 
 <!--t src=14794862-->
 <!-- The quotation above is already in English; the German rendering is omitted here. -->
 
 <!--t src=f076ff72-->
+
 [^orwell]:
     The sentence is widely attributed to George Orwell, but it cannot be traced to his work. It condenses a thought from Orwell's essay _Politics and the English Language_, where he writes: "But if thought corrupts language, language can also corrupt thought."  
     (George Orwell: _Politics and the English Language_, in: _Horizon_, April 1946)
 
 <!--t src=99d60573-->
+
 Critical thinking is both a martial art and a team sport.
 
 <!--t src=19b218f9-->
+
 :::info Bivalence
 
 <p class="text--center">**Working against each other (antagonism)** and **working together (synergy)**</p> 
@@ -81,6 +86,7 @@ Critical thinking helps us to navigate this complex information landscape by ena
 ## Making better decisions
 
 <!--t src=30aa9abe-->
+
 Every day we make numerous decisions &mdash; **we have to decide** &mdash; from everyday questions such as "What shall I eat for lunch?" to complex life decisions such as career choice, financial investments or medical treatments.
 
 <!--t src=79e76255-->
@@ -127,9 +133,11 @@ In the personal sphere, critical thinking supports:
 ## Citizens of civil society
 
 <!--t src=8c93b0d1-->
+
 In a democratic society, critical thinking is essential for an informed and engaged citizenry. It enables us:
 
 <!--t src=92c992a2-->
+
 - To critically question political statements and election promises
 - To consider social and ethical questions from various perspectives
 - To participate in public debates and decision-making processes
@@ -149,4 +157,5 @@ Critical thinking also fosters **humanity** and **empathy** by teaching us to un
 This is an aspect that is often overlooked, but that is becoming ever more important in today's globalized world.
 
 <!--t src=3137598c-->
-[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)

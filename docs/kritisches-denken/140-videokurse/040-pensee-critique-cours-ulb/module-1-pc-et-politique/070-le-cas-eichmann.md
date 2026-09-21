@@ -3,7 +3,7 @@ id: pc-module-1-le-cas-eichmann
 title: "Le cas Eichmann"
 sidebar_label: "Le cas Eichmann"
 sidebar_position: 7
-description: "Résumé: Le cas Eichmann &mdash Mooc ULB 2016, Guy Haarscher"  
+description: "Résumé: Le cas Eichmann &mdash Mooc ULB 2016, Guy Haarscher"
 
 keywords:
   - ULB
@@ -18,7 +18,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -50,4 +49,4 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md)

@@ -257,4 +257,4 @@ Dies ist nur das erste von mehreren Videos zu den Voraussetzungs-Fehlschlüssen.
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1.md)

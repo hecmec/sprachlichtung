@@ -61,4 +61,4 @@ Kritisches Denken ist ein systematischer Prozess, der folgende Schritte umfassen
 - Was haben wir aus dem Prozess gelernt?
 - Wie können wir unseren Denkprozess verbessern?
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md)
+[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md)

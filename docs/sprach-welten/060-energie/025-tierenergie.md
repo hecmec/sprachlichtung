@@ -56,4 +56,4 @@ In vielen Teilen der Welt ziehen übrigens noch immer Tiere den Pflug und tragen
 
 [^energie-wiki]: Zur Herkunft der Einheit „Pferdestärke" und zum Leistungsbegriff siehe „Pferdestärke", in: Wikipedia, [de.wikipedia.org/wiki/Pferdestärke](https://de.wikipedia.org/wiki/Pferdest%C3%A4rke), sowie allgemein „Energie", in: Wikipedia, [de.wikipedia.org/wiki/Energie](https://de.wikipedia.org/wiki/Energie).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/025-tierenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/025-tierenergie.md)
+[Article en français](/fr/docs/sprach-welten/060-energie/025-tierenergie.md) | [Article in English](/en/docs/sprach-welten/060-energie/025-tierenergie.md)

@@ -21,4 +21,4 @@ Fehlschlüsse sind fehlerhafte Argumentationsmuster, die auf den ersten Blick ü
 In diesem Kapitel werden wir verschiedene Arten von Fehlschlüssen kennenlernen, ihre Struktur analysieren und Strategien entwickeln, um sie in Argumenten anderer zu erkennen und in unseren eigenen zu vermeiden.\
 Das Verständnis von Fehlschlüssen ist ein wesentlicher Bestandteil des kritischen Denkens und hilft uns, Manipulationsversuche zu durchschauen und präziser zu argumentieren.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md)

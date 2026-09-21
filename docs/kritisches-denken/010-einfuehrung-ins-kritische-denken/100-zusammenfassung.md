@@ -13,10 +13,10 @@ last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
 
-completeness: 4/5  
+completeness: 4/5
 draft: false
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 ## Was ist kritisches Denken?
@@ -50,15 +50,15 @@ Kritisches Denken ist die **Fähigkeit, reflektiert und unabhängig zu denken** 
 
 ## Häufige Mythen (und die Realität)
 
-| Mythos | Realität |
-|---|---|
-| Kritisches Denken = alles kritisieren | Ausgewogene Bewertung von Stärken und Schwächen, nicht bloße Negativität |
-| Unkreativ und rein analytisch | Kreativität und kritisches Denken ergänzen sich |
-| Nur für Akademiker relevant | Nützlich in allen Lebensbereichen (Alltag, Beruf, Beziehungen) |
-| Entweder man hat es oder nicht | Kontinuierlich erlern- und ausbaubar (kein binärer Zustand) |
-| Untergräbt Autorität und Respekt | Hinterfragt blindes Folgen, anerkennt gerechtfertigte Expertise |
-| Gegen Gefühle/Intuition/Hoffnung | Integriert Emotion und Intuition reflektiert, basiert auf Gründen und Belegen |
-| Gegen Glauben/Spiritualität | Glaube und Wissen trennen; koexistieren, wenn klar abgegrenzt |
+| Mythos                                | Realität                                                                      |
+| ------------------------------------- | ----------------------------------------------------------------------------- |
+| Kritisches Denken = alles kritisieren | Ausgewogene Bewertung von Stärken und Schwächen, nicht bloße Negativität      |
+| Unkreativ und rein analytisch         | Kreativität und kritisches Denken ergänzen sich                               |
+| Nur für Akademiker relevant           | Nützlich in allen Lebensbereichen (Alltag, Beruf, Beziehungen)                |
+| Entweder man hat es oder nicht        | Kontinuierlich erlern- und ausbaubar (kein binärer Zustand)                   |
+| Untergräbt Autorität und Respekt      | Hinterfragt blindes Folgen, anerkennt gerechtfertigte Expertise               |
+| Gegen Gefühle/Intuition/Hoffnung      | Integriert Emotion und Intuition reflektiert, basiert auf Gründen und Belegen |
+| Gegen Glauben/Spiritualität           | Glaube und Wissen trennen; koexistieren, wenn klar abgegrenzt                 |
 
 ## Die Grundhaltung des kritischen Denkens
 
@@ -103,5 +103,4 @@ Kritisches Denken ist die **Fähigkeit, reflektiert und unabhängig zu denken** 
 In den folgenden Kapiteln vertiefen wir diese Grundlagen und stellen dir praktische Werkzeuge zur Verfügung, um deine kritischen Denkfähigkeiten systematisch zu entwickeln.
 :::
 
-
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)
+[Article en français](/fr/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article in English](/en/docs/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)

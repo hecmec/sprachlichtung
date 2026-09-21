@@ -16,8 +16,8 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
+
 import React from 'react';
 import ReactPlayer from 'react-player';
 
@@ -74,10 +74,9 @@ Es setzt **keine Überlegenheit** voraus: Jeder kann Thesen vorbringen, Begründ
 
 - Certains faits semblent simples (ex. : « ce mur est blanc »), mais ils sont l’exception.
 - La plupart des faits sont :
-
-    - **éloignés** (géographiquement ou historiquement),
-    - **complexes** (ex. : faits scientifiques, économiques...),
-    - **filtrés** par des médiations (journalisme, témoignages, Internet...).
+  - **éloignés** (géographiquement ou historiquement),
+  - **complexes** (ex. : faits scientifiques, économiques...),
+  - **filtrés** par des médiations (journalisme, témoignages, Internet...).
 
 </div>
 <div className="col col--6 video-translation">
@@ -88,10 +87,9 @@ Es setzt **keine Überlegenheit** voraus: Jeder kann Thesen vorbringen, Begründ
 
 - Manche Fakten scheinen einfach (z. B. „diese Wand ist weiß"), aber das ist die Ausnahme.
 - Die meisten Fakten sind:
-
-    - **entfernt** (geografisch oder historisch),
-    - **komplex** (z. B. wissenschaftliche, wirtschaftliche Fakten …),
-    - **gefiltert** durch Vermittlungen (Journalismus, Zeugenaussagen, Internet …).
+  - **entfernt** (geografisch oder historisch),
+  - **komplex** (z. B. wissenschaftliche, wirtschaftliche Fakten …),
+  - **gefiltert** durch Vermittlungen (Journalismus, Zeugenaussagen, Internet …).
 
 </div>
 </div>
@@ -205,4 +203,4 @@ Aber zu argumentieren, die Fakten festzustellen und über die Werte zu debattier
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md)

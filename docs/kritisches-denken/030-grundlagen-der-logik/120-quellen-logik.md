@@ -43,4 +43,4 @@ Hier finden sich Quellen und weiterführende Literatur zu den Grundlagen der Log
 
 <!-- - 🇩🇪 Timm Lampert: _Klassische Logik_. (Preprint) https://www2.hu-berlin.de/webMathematica/publications/Klassische_Logik_preprint.pdf -->
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)
+[Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article in English](/en/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)

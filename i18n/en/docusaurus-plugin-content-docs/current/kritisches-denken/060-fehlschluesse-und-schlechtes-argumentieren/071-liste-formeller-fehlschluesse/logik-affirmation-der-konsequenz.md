@@ -35,6 +35,7 @@ _The effect does not prove the cause._
 **Affirming the consequent** (also called asserting the consequent) infers, from a conditional and the truth of its consequent, the truth of its antecedent.
 
 <!--t src=2c7db0a7-->
+
 The error lies in the fact that "If A, then B" only says that A is _sufficient_ for B &mdash; not that A is the only possible cause of B. B can also be true for other reasons.
 
 <!--t src=3c24b250-->
@@ -63,6 +64,7 @@ Also known as: _affirming the consequent_
 <!-- list similar fallacies -->
 
 <!--t src=8cbde0ec-->
+
 - **Denying the antecedent** &mdash; the mirror image: there one infers from the negated antecedent to the negated consequent.
 - **Converse error** &mdash; the underlying confusion: "If A, then B" is treated like "If B, then A".
 - **Non sequitur** &mdash; the umbrella term for all these invalid inferences.
@@ -118,4 +120,5 @@ A fever can have many other causes. The inference from the effect (fever) to a p
 - [Logically Fallacious: Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)
 
 <!--t src=4109e58d-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md)

@@ -18,47 +18,59 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=148116fd-->
+
 Original title in the newspaper _Le Monde_:\
 "_How can one fight against the rise of egoism? Najat Vallaud-Belkacem discusses with the sociologist Camille Peugny_", fr:
 [_Comment lutter contre la montée des égoïsmes ? Najat Vallaud-Belkacem débat avec le sociologue Camille Peugny_](https://www.lemonde.fr/idees/article/2026/01/17/comment-lutter-contre-la-montee-des-egoismes-najat-vallaud-belkacem-debat-avec-le-sociologue-camille-peugny_6662718_3232.html)
 
 <!--t src=e749d7c1-->
+
 ## Structured summary: Equality of opportunity and equality of conditions in the face of the triumph of egoism
 
 <!--t src=fc82262f-->
+
 ### 1. Egoism as a "new social constraint"
 
 <!--t src=877cdf9e-->
+
 Camille Peugny, sociologist, analyses the emergence of a **generalized egoism** since the 1980s, which has become a social norm in France and other Western societies.
 
 <!--t src=d974ff7c-->
+
 This phenomenon is explained by the **retreat of the welfare state** and the **rise of individual competition**, which displace collective values (solidarity, public services). Egoism is no longer a moral choice but a **constraint imposed by the system**, in which each and every one must fight for their own place: in school, work and everyday life.
 
 <!--t src=24ccb018-->
+
 Najat Vallaud-Belkacem, former minister, confirms this analysis: the **commercialization of society** (education, health, etc.) and the **digital attention economy** (algorithms, social networks) reinforce individualistic behaviours and weaken civic sense.
 
 <!--t src=1e76bf29-->
+
 ### 2. Dangers for equality
 
 <!--t src=8cb04aff-->
+
 - **Educational inequalities**: Privileged classes defend their privileges (private schools, refusal of social mixing) and turn the school into a field of **struggle for places**. Meritocracy becomes an illusion that veils a "**heritocracy**".
 - **Precarization of the working classes**: Precarious employment (delivery services, domestic helpers) and Uberization push the most vulnerable into a **forced individual responsibility** &mdash; without a social safety net.
 - **Rise of neoliberalism**: Upper middle classes, once progressive, now profess **competition and merit** and interpret inequalities as the result of individual paths. This ideological turn weakens redistribution policies.
 - **Weakening of the collective**: Social movements (yellow vests, pension protests) barely find a hearing; this **demotivates civic engagement**.
 
 <!--t src=f108f7ec-->
+
 ### 3. Equality of opportunity vs. equality of conditions
 
 <!--t src=e2ebfc1c-->
+
 - **Equality of opportunity** (fair competition) dominates but is **insufficient**: it does not guarantee a **dignified life** for all (workers, cashiers, etc.).
 - Many people from the lower classes do not really live this equality of opportunity, because they live under unequal conditions.
 - **Equality of conditions** is central to social cohesion. Living conditions are very different: adequate wages, affordable rents, working conditions, social mobility.
 - **Merit or origin**: The middle class increasingly believes that it owes its success to its own merit alone. They forget their debt to their origin and to society as a whole.
 
 <!--t src=885bbb53-->
+
 ### 4. What is to be done?
 
 <!--t src=a1b71624-->
+
 - **Reduce the importance of diplomas**: In France it is still too important to have attended a renowned university. We need more continuing education, lifelong learning, apprenticeship.
 - **Improve wages and career paths** in low-skilled occupations.
 - **Fight against discrimination** (gender, origin, colour of skin).
@@ -209,4 +221,5 @@ Surtout, pour que les citoyens retrouvent foi en un projet collectif, les discou
 -->
 
 <!--t src=780c0184-->
-[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md)
+
+[Artikel auf Deutsch](/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md) | [Article en français](/fr/docs/sprach-welten/030-gesellschaftsspiele/soziales/der-anstieg-des-egoismus.md)

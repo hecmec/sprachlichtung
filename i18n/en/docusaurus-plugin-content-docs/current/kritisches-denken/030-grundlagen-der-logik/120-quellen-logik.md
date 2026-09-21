@@ -18,29 +18,36 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=ecb9dd36-->
+
 Here you will find sources and further reading on the fundamentals of logic: freely available online textbooks (OER) as well as well-established standard German-language introductions in print.
 
 <!--t src=57849308-->
+
 ## Freely available online textbooks
 
 <!--t src=c53f86c6-->
+
 - 🇩🇪 Torsten Wilholt: _Logik und Argumentation_. https://www.philos.uni-hannover.de/fileadmin/philos/Dateien/Personen_-_Dokumente/Wilholt/Logik.pdf
 - 🇬🇧 P. D. Magnus et al.: [forall x: An Introduction to Formal Logic (Calgary)](https://forallx.openlogicproject.org/html/Ch1.html). The most widely used free logic textbook in the English-speaking world, a modern standard for an introduction to formal propositional and predicate logic.
 - 🇬🇧 Matthew Van Cleave: [Introduction to Logic and Critical Thinking](https://oercommons.org/groups/openwa-philosophy-and-logic/1422/17221/). A free textbook (OER) that ties logic closely to critical thinking and to the assessment of everyday arguments.
 
 <!--t src=97c4f207-->
+
 ## Standard German-language introductions (books)
 
 <!--t src=e90f2cc9-->
+
 - 🇩🇪 Ansgar Beckermann: _Einführung in die Logik._ De Gruyter, 4th edition 2014. A clear, pedagogically thought-out introduction to classical logic, widely used at German universities.
 - 🇩🇪 Wolfgang Detel: _Grundkurs Philosophie. Band 1: Logik._ Reclam. A compact, readable entry point into formal logic within the framework of a philosophy foundation course.
 - 🇩🇪 Ernst Tugendhat, Ursula Wolf: _Logisch-semantische Propädeutik._ Reclam. A classic that connects logic with the analysis of language and puts the relationship between language and logical form at its center.
 - 🇩🇪 Wesley C. Salmon: _Logik._ Reclam. A well-established, broadly accessible introduction (German translation) that also covers inductive inferences and fallacies.
 
 <!--t src=9cd79262-->
+
 ## Further logic textbooks (freely available)
 
 <!--t src=12241f39-->
+
 - 🇩🇪 Holger Brenner: [_Einführung in die mathematische Logik_. Wikiversity course. (Osnabrück 2018, cc-by-sa-4.0).](<https://de.wikiversity.org/wiki/Kurs:Einf%C3%BChrung_in_die_mathematische_Logik_(Osnabr%C3%BCck_2018)>)
   - This is a very good course on mathematical logic, but perhaps a little too formal for most of our readers.
 - 🇩🇪 Horst Wessel: [_Logik_ (1998, cc-by-sa-4.0).](https://zenodo.org/records/18620514)
@@ -53,4 +60,5 @@ Here you will find sources and further reading on the fundamentals of logic: fre
 <!-- - 🇩🇪 Timm Lampert: _Klassische Logik_. (Preprint) https://www2.hu-berlin.de/webMathematica/publications/Klassische_Logik_preprint.pdf -->
 
 <!--t src=9982b7e1-->
-[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md) | [Article en français](/fr/docs/kritisches-denken/030-grundlagen-der-logik/120-quellen-logik.md)

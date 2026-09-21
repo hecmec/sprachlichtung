@@ -92,4 +92,4 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/040-le-loup-dans-la-bergerie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/040-le-loup-dans-la-bergerie.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/040-le-loup-dans-la-bergerie.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/040-le-loup-dans-la-bergerie.md)

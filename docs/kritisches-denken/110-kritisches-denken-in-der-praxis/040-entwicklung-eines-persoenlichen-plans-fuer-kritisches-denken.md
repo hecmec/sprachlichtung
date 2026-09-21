@@ -26,24 +26,24 @@ Der erste Schritt zur Verbesserung des kritischen Denkens ist eine ehrliche Selb
 **Bereiche zur Selbsteinschätzung:**
 
 1. **Stärken und Schwächen**: In welchen Aspekten des kritischen Denkens sind Sie bereits stark, und wo liegen Ihre Herausforderungen?
-   
-   *Beispielfragen*:
+
+   _Beispielfragen_:
    - Fällt es Ihnen leicht, Annahmen zu identifizieren?
    - Können Sie verschiedene Perspektiven einnehmen?
    - Wie gut sind Sie darin, Emotionen von Fakten zu trennen?
    - Suchen Sie aktiv nach Gegenargumenten zu Ihren Überzeugungen?
 
 2. **Kontextuelle Faktoren**: In welchen Situationen fällt Ihnen kritisches Denken leichter oder schwerer?
-   
-   *Beispielfragen*:
+
+   _Beispielfragen_:
    - Bei welchen Themen reagieren Sie emotional?
    - In welchen sozialen Kontexten fällt es Ihnen schwer, kritisch zu denken?
    - Wann und wo können Sie am besten reflektieren?
    - Welche externen Faktoren behindern Ihr kritisches Denken?
 
 3. **Lernstil und Präferenzen**: Wie lernen und denken Sie am besten?
-   
-   *Beispielfragen*:
+
+   _Beispielfragen_:
    - Lernen Sie besser durch Lesen, Diskussion oder praktische Anwendung?
    - Bevorzugen Sie strukturierte oder explorative Lernansätze?
    - Arbeiten Sie besser allein oder im Austausch mit anderen?
@@ -58,13 +58,13 @@ Der erste Schritt zur Verbesserung des kritischen Denkens ist eine ehrliche Selb
 
 **Beispiel für eine Selbsteinschätzungsmatrix:**
 
-| Aspekt des kritischen Denkens | Selbsteinschätzung (1-10) | Beispiele/Beobachtungen | Entwicklungsziele |
-|-------------------------------|---------------------------|-------------------------|-------------------|
-| Annahmen identifizieren | 7 | Gut bei anderen, schwieriger bei eigenen Annahmen | Eigene Annahmen bewusster reflektieren |
-| Evidenz bewerten | 5 | Tendenz, anekdotische Evidenz zu überbewerten | Systematischere Evidenzbewertung üben |
-| Perspektivenwechsel | 8 | Stark in beruflichen Kontexten, schwächer bei politischen Themen | Bei politischen Themen bewusst andere Perspektiven einnehmen |
-| Emotionale Regulation | 4 | Schwierigkeiten bei persönlich wichtigen Themen | Emotionale Distanzierungstechniken entwickeln |
-| Komplexität akzeptieren | 6 | Manchmal Tendenz zu voreiligen Schlüssen | Mehr Komfort mit vorläufigen Antworten entwickeln |
+| Aspekt des kritischen Denkens | Selbsteinschätzung (1-10) | Beispiele/Beobachtungen                                          | Entwicklungsziele                                            |
+| ----------------------------- | ------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
+| Annahmen identifizieren       | 7                         | Gut bei anderen, schwieriger bei eigenen Annahmen                | Eigene Annahmen bewusster reflektieren                       |
+| Evidenz bewerten              | 5                         | Tendenz, anekdotische Evidenz zu überbewerten                    | Systematischere Evidenzbewertung üben                        |
+| Perspektivenwechsel           | 8                         | Stark in beruflichen Kontexten, schwächer bei politischen Themen | Bei politischen Themen bewusst andere Perspektiven einnehmen |
+| Emotionale Regulation         | 4                         | Schwierigkeiten bei persönlich wichtigen Themen                  | Emotionale Distanzierungstechniken entwickeln                |
+| Komplexität akzeptieren       | 6                         | Manchmal Tendenz zu voreiligen Schlüssen                         | Mehr Komfort mit vorläufigen Antworten entwickeln            |
 
 ## Zielsetzung
 
@@ -73,24 +73,24 @@ Basierend auf Ihrer Selbsteinschätzung können Sie spezifische, realistische Zi
 **Prinzipien effektiver Zielsetzung:**
 
 1. **Spezifisch**: Konkrete, klar definierte Ziele statt vager Absichten
-   
-   *Beispiel*: Statt "besser argumentieren" könnte ein spezifisches Ziel sein: "Lernen, Prämissen und Schlussfolgerungen in Argumenten klar zu identifizieren und zu bewerten"
+
+   _Beispiel_: Statt "besser argumentieren" könnte ein spezifisches Ziel sein: "Lernen, Prämissen und Schlussfolgerungen in Argumenten klar zu identifizieren und zu bewerten"
 
 2. **Messbar**: Kriterien festlegen, an denen Fortschritt erkennbar ist
-   
-   *Beispiel*: "Mindestens drei Mal pro Woche einen Nachrichtenartikel mit der ESCAPE-Methode (Evidence, Source, Context, Audience, Purpose, Execution) analysieren"
+
+   _Beispiel_: "Mindestens drei Mal pro Woche einen Nachrichtenartikel mit der ESCAPE-Methode (Evidence, Source, Context, Audience, Purpose, Execution) analysieren"
 
 3. **Attraktiv**: Ziele, die persönlich bedeutsam und motivierend sind
-   
-   *Beispiel*: Wenn Sie sich für Umweltthemen interessieren, könnten Sie sich zum Ziel setzen, umweltpolitische Debatten kritisch zu analysieren
+
+   _Beispiel_: Wenn Sie sich für Umweltthemen interessieren, könnten Sie sich zum Ziel setzen, umweltpolitische Debatten kritisch zu analysieren
 
 4. **Realistisch**: Ziele, die herausfordernd, aber erreichbar sind
-   
-   *Beispiel*: Beginnen Sie mit dem Ziel, eine kognitive Verzerrung pro Woche zu identifizieren und zu reflektieren, statt alle auf einmal anzugehen
+
+   _Beispiel_: Beginnen Sie mit dem Ziel, eine kognitive Verzerrung pro Woche zu identifizieren und zu reflektieren, statt alle auf einmal anzugehen
 
 5. **Terminiert**: Zeitrahmen für die Zielerreichung festlegen
-   
-   *Beispiel*: "In den nächsten drei Monaten werde ich die Grundlagen der Argumentanalyse lernen und anwenden"
+
+   _Beispiel_: "In den nächsten drei Monaten werde ich die Grundlagen der Argumentanalyse lernen und anwenden"
 
 **Beispiele für Ziele zur Entwicklung kritischen Denkens:**
 
@@ -116,12 +116,14 @@ Um Ihre Ziele zu erreichen, benötigen Sie effektive Lern- und Übungsstrategien
 ### Formale Lernmöglichkeiten
 
 **Kurse und Bildungsangebote:**
+
 - Universitätskurse in Logik, Philosophie oder kritischem Denken
 - Online-Kurse auf Plattformen wie Coursera, edX oder Khan Academy
 - Workshops und Seminare zu kritischem Denken oder verwandten Themen
 - Zertifizierungsprogramme in analytischem Denken oder Problemlösung
 
 **Bücher und Ressourcen:**
+
 - Lehrbücher zu kritischem Denken und informeller Logik
 - Populärwissenschaftliche Bücher zu kognitiven Verzerrungen und Denkprozessen
 - Podcasts und YouTube-Kanäle zu kritischem Denken und Rationalität
@@ -132,18 +134,21 @@ Um Ihre Ziele zu erreichen, benötigen Sie effektive Lern- und Übungsstrategien
 ### Praktische Übungen
 
 **Tägliche Übungen:**
+
 - **Medienanalyse**: Täglich einen Nachrichtenartikel oder Social Media-Post kritisch analysieren
 - **Reflexionstagebuch**: Tägliche Reflexion über eigene Denkprozesse und Entscheidungen
 - **Argumentkartierung**: Regelmäßig Argumente aus Texten oder Gesprächen visuell darstellen
 - **Perspektivenwechsel**: Bewusst versuchen, Situationen aus anderen Blickwinkeln zu betrachten
 
 **Wöchentliche Übungen:**
+
 - **Tiefenrecherche**: Ein Thema pro Woche aus verschiedenen Quellen recherchieren
 - **Debattierübungen**: Mit Freunden oder Kollegen strukturierte Debatten führen
 - **Fallstudienanalyse**: Komplexe Fälle oder Probleme systematisch analysieren
 - **Gedankenexperimente**: Hypothetische Szenarien durchspielen und analysieren
 
 **Monatliche Übungen:**
+
 - **Buchclub**: Bücher lesen und diskutieren, die verschiedene Perspektiven bieten
 - **Skill-Review**: Monatliche Überprüfung des Fortschritts und Anpassung des Lernplans
 - **Tiefenanalyse**: Ein komplexes Thema umfassend und aus verschiedenen Perspektiven untersuchen
@@ -151,21 +156,22 @@ Um Ihre Ziele zu erreichen, benötigen Sie effektive Lern- und Übungsstrategien
 
 **Beispiel für einen wöchentlichen Übungsplan:**
 
-| Tag | Übung | Zeitaufwand | Fokus |
-|-----|-------|-------------|-------|
-| Montag | Medienanalyse | 15 Min | Einen Nachrichtenartikel mit der ESCAPE-Methode analysieren |
-| Dienstag | Argumentkartierung | 20 Min | Ein Argument aus einem Text oder Gespräch visuell darstellen |
-| Mittwoch | Reflexion | 15 Min | Tagebucheintrag zu einer Entscheidung oder einem Urteil des Tages |
-| Donnerstag | Perspektivenwechsel | 15 Min | Ein aktuelles Thema aus einer gegensätzlichen Perspektive betrachten |
-| Freitag | Fehlschlussidentifikation | 15 Min | In Medien oder Gesprächen nach logischen Fehlschlüssen suchen |
-| Samstag | Tiefenrecherche | 45 Min | Ein Thema aus verschiedenen Quellen recherchieren |
-| Sonntag | Wochenreflexion | 20 Min | Fortschritte und Herausforderungen der Woche reflektieren |
+| Tag        | Übung                     | Zeitaufwand | Fokus                                                                |
+| ---------- | ------------------------- | ----------- | -------------------------------------------------------------------- |
+| Montag     | Medienanalyse             | 15 Min      | Einen Nachrichtenartikel mit der ESCAPE-Methode analysieren          |
+| Dienstag   | Argumentkartierung        | 20 Min      | Ein Argument aus einem Text oder Gespräch visuell darstellen         |
+| Mittwoch   | Reflexion                 | 15 Min      | Tagebucheintrag zu einer Entscheidung oder einem Urteil des Tages    |
+| Donnerstag | Perspektivenwechsel       | 15 Min      | Ein aktuelles Thema aus einer gegensätzlichen Perspektive betrachten |
+| Freitag    | Fehlschlussidentifikation | 15 Min      | In Medien oder Gesprächen nach logischen Fehlschlüssen suchen        |
+| Samstag    | Tiefenrecherche           | 45 Min      | Ein Thema aus verschiedenen Quellen recherchieren                    |
+| Sonntag    | Wochenreflexion           | 20 Min      | Fortschritte und Herausforderungen der Woche reflektieren            |
 
 ### Soziales Lernen
 
 Kritisches Denken kann durch Interaktion mit anderen erheblich gefördert werden.
 
 **Möglichkeiten für soziales Lernen:**
+
 - **Diskussionsgruppen**: Regelmäßige Treffen zum Austausch über komplexe Themen
 - **Debattierclubs**: Strukturierte Debatten zu kontroversen Fragen
 - **Mentoring**: Lernen von erfahrenen kritischen Denkern
@@ -181,38 +187,38 @@ Um Ihre Entwicklung im kritischen Denken zu optimieren, ist es wichtig, Ihren Fo
 **Methoden zur Fortschrittsverfolgung:**
 
 1. **Regelmäßige Selbstbewertung**: Wiederholen Sie Ihre Selbsteinschätzung in regelmäßigen Abständen
-   
-   *Beispiel*: Vierteljährliche Überprüfung Ihrer Stärken und Schwächen im kritischen Denken
+
+   _Beispiel_: Vierteljährliche Überprüfung Ihrer Stärken und Schwächen im kritischen Denken
 
 2. **Konkrete Meilensteine**: Definieren Sie spezifische Meilensteine auf dem Weg zu Ihren Zielen
-   
-   *Beispiel*: "Nach drei Monaten kann ich die 10 häufigsten logischen Fehlschlüsse identifizieren und erklären"
+
+   _Beispiel_: "Nach drei Monaten kann ich die 10 häufigsten logischen Fehlschlüsse identifizieren und erklären"
 
 3. **Lerntagebuch**: Dokumentieren Sie Ihre Lernerfahrungen, Erkenntnisse und Herausforderungen
-   
-   *Beispiel*: Wöchentliche Einträge zu Ihren Übungen, Erkenntnissen und offenen Fragen
+
+   _Beispiel_: Wöchentliche Einträge zu Ihren Übungen, Erkenntnissen und offenen Fragen
 
 4. **Feedback einholen**: Suchen Sie regelmäßig Rückmeldung von anderen zu Ihren Denkprozessen
-   
-   *Beispiel*: Bitten Sie einen Freund oder Mentor, Ihre Argumentationsweise zu bewerten
+
+   _Beispiel_: Bitten Sie einen Freund oder Mentor, Ihre Argumentationsweise zu bewerten
 
 **Anpassungsstrategien:**
 
 1. **Regelmäßige Reviews**: Planen Sie feste Zeitpunkte zur Überprüfung und Anpassung Ihres Plans
-   
-   *Beispiel*: Monatliche "Retrospektive" zu Ihrem Lernfortschritt
+
+   _Beispiel_: Monatliche "Retrospektive" zu Ihrem Lernfortschritt
 
 2. **Flexibilität bewahren**: Seien Sie bereit, Ihre Ziele und Methoden anzupassen, wenn sie nicht funktionieren
-   
-   *Beispiel*: Wenn Selbststudium allein nicht effektiv ist, suchen Sie nach Gruppenlernmöglichkeiten
+
+   _Beispiel_: Wenn Selbststudium allein nicht effektiv ist, suchen Sie nach Gruppenlernmöglichkeiten
 
 3. **Herausforderungen eskalieren**: Erhöhen Sie schrittweise die Komplexität Ihrer Übungen
-   
-   *Beispiel*: Von der Analyse einfacher Argumente zu komplexen, interdisziplinären Problemen übergehen
+
+   _Beispiel_: Von der Analyse einfacher Argumente zu komplexen, interdisziplinären Problemen übergehen
 
 4. **Neue Bereiche erschließen**: Erweitern Sie Ihre Fähigkeiten auf verschiedene Domänen
-   
-   *Beispiel*: Nach dem Erlernen logischer Analyse auch emotionale Intelligenz im kritischen Denken entwickeln
+
+   _Beispiel_: Nach dem Erlernen logischer Analyse auch emotionale Intelligenz im kritischen Denken entwickeln
 
 **Beispiel für einen Anpassungsprozess:**
 
@@ -233,4 +239,4 @@ Um Ihre Entwicklung im kritischen Denken zu optimieren, ist es wichtig, Ihren Fo
    - Festlegung neuer langfristiger Ziele
    - Vollständige Überarbeitung des Entwicklungsplans
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md)
+[Article en français](/fr/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md) | [Article in English](/en/docs/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md)

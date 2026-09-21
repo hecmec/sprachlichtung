@@ -21,7 +21,7 @@ controls src='https://youtu.be/NFiDdbquWJY' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 4:54. Original title: *CRITICAL THINKING - Cognitive Biases: Anchoring [HD]*
+Wireless Philosophy, Cognitive Biases, 4:54. Original title: _CRITICAL THINKING - Cognitive Biases: Anchoring [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -153,4 +153,4 @@ Weil Anker, selbst willkürliche, unsere Schätzungen zu sich hinziehen, setzen 
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring.md)

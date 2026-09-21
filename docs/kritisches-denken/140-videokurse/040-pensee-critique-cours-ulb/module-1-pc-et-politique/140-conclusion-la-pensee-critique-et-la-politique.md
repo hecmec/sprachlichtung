@@ -18,7 +18,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -38,8 +37,8 @@ import ReactPlayer from 'react-player';
 
 Le module interroge le **rapport entre libre pensée et politique**, à travers deux axes principaux :
 
-* **Critique du pouvoir**
-* **Établissement des faits**
+- **Critique du pouvoir**
+- **Établissement des faits**
 
 </div>
 <div className="col col--6 video-translation">
@@ -48,8 +47,8 @@ Le module interroge le **rapport entre libre pensée et politique**, à travers 
 
 Das Modul hinterfragt das **Verhältnis zwischen freiem Denken und Politik** anhand zweier Hauptachsen:
 
-* **Kritik der Macht**
-* **Feststellung der Fakten**
+- **Kritik der Macht**
+- **Feststellung der Fakten**
 
 </div>
 </div>
@@ -63,8 +62,8 @@ Das Modul hinterfragt das **Verhältnis zwischen freiem Denken und Politik** anh
 
 Développer un jugement éclairé est complexe, surtout dans la sphère morale, sociale et politique, car :
 
-* L’histoire ne se répète jamais à l’identique.
-* Il faut *interpréter le présent* à partir du passé, tout en gardant un œil critique sur les différences.
+- L’histoire ne se répète jamais à l’identique.
+- Il faut _interpréter le présent_ à partir du passé, tout en gardant un œil critique sur les différences.
 
 </div>
 <div className="col col--6 video-translation">
@@ -75,8 +74,8 @@ Développer un jugement éclairé est complexe, surtout dans la sphère morale, 
 
 Ein aufgeklärtes Urteil zu entwickeln ist komplex, besonders im moralischen, sozialen und politischen Bereich, denn:
 
-* Die Geschichte wiederholt sich nie in gleicher Weise.
-* Man muss *die Gegenwart* aus der Vergangenheit *deuten* und dabei die Unterschiede kritisch im Auge behalten.
+- Die Geschichte wiederholt sich nie in gleicher Weise.
+- Man muss _die Gegenwart_ aus der Vergangenheit _deuten_ und dabei die Unterschiede kritisch im Auge behalten.
 
 </div>
 </div>
@@ -88,16 +87,14 @@ Ein aufgeklärtes Urteil zu entwickeln ist komplex, besonders im moralischen, so
 
 Deux types d’obstacles sont identifiés :
 
-* **Extérieurs** :
+- **Extérieurs** :
+  - Le tyran qui impose sa volonté.
+  - Le pouvoir religieux basé sur **l’argument d’autorité** (ex. : l’Église contre Galilée).
+  - Le pouvoir totalitaire, fondé sur la peur et non la légitimité.
 
-  * Le tyran qui impose sa volonté.
-  * Le pouvoir religieux basé sur **l’argument d’autorité** (ex. : l’Église contre Galilée).
-  * Le pouvoir totalitaire, fondé sur la peur et non la légitimité.
-
-* **Intérieurs** :
-
-  * **Légitimité irrationnelle** : adhésion par ignorance, émotion ou propagande.
-  * **Légitimité rationnelle** : adhésion après réflexion critique.
+- **Intérieurs** :
+  - **Légitimité irrationnelle** : adhésion par ignorance, émotion ou propagande.
+  - **Légitimité rationnelle** : adhésion après réflexion critique.
 
 </div>
 <div className="col col--6 video-translation">
@@ -106,16 +103,14 @@ Deux types d’obstacles sont identifiés :
 
 Zwei Arten von Hindernissen werden benannt:
 
-* **Äußere**:
+- **Äußere**:
+  - Der Tyrann, der seinen Willen aufzwingt.
+  - Die religiöse Macht, gegründet auf **das Autoritätsargument** (z. B. die Kirche gegen Galilei).
+  - Die totalitäre Macht, gegründet auf Furcht und nicht auf Legitimität.
 
-  * Der Tyrann, der seinen Willen aufzwingt.
-  * Die religiöse Macht, gegründet auf **das Autoritätsargument** (z. B. die Kirche gegen Galilei).
-  * Die totalitäre Macht, gegründet auf Furcht und nicht auf Legitimität.
-
-* **Innere**:
-
-  * **Irrationale Legitimität**: Zustimmung durch Unwissenheit, Emotion oder Propaganda.
-  * **Rationale Legitimität**: Zustimmung nach kritischer Reflexion.
+- **Innere**:
+  - **Irrationale Legitimität**: Zustimmung durch Unwissenheit, Emotion oder Propaganda.
+  - **Rationale Legitimität**: Zustimmung nach kritischer Reflexion.
 
 </div>
 </div>
@@ -125,18 +120,18 @@ Zwei Arten von Hindernissen werden benannt:
 
 ### 🧪 Trois exemples emblématiques :
 
-* **Eichmann** : environnement répressif, absence de jugement personnel.
-* **Expérience de Milgram** : soumission à l’autorité scientifique malgré un contexte démocratique.
-* **Jeu de la mort** : obéissance extrême dans un simple jeu télévisé, révélant un **conformisme** inquiétant.
+- **Eichmann** : environnement répressif, absence de jugement personnel.
+- **Expérience de Milgram** : soumission à l’autorité scientifique malgré un contexte démocratique.
+- **Jeu de la mort** : obéissance extrême dans un simple jeu télévisé, révélant un **conformisme** inquiétant.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h3>Drei sinnbildliche Beispiele:</h3>
 
-* **Eichmann**: repressives Umfeld, Fehlen eines persönlichen Urteils.
-* **Milgram-Experiment**: Unterwerfung unter die wissenschaftliche Autorität trotz eines demokratischen Kontexts.
-* **Spiel des Todes**: extremer Gehorsam in einer bloßen Fernsehshow, der einen beunruhigenden **Konformismus** offenbart.
+- **Eichmann**: repressives Umfeld, Fehlen eines persönlichen Urteils.
+- **Milgram-Experiment**: Unterwerfung unter die wissenschaftliche Autorität trotz eines demokratischen Kontexts.
+- **Spiel des Todes**: extremer Gehorsam in einer bloßen Fernsehshow, der einen beunruhigenden **Konformismus** offenbart.
 
 </div>
 </div>
@@ -148,7 +143,7 @@ Zwei Arten von Hindernissen werden benannt:
 
 ### 📌 L’enseignement de Poincaré
 
-La pensée critique *doit refuser l’autorité humaine et les préjugés*, mais *se soumettre aux faits eux-mêmes*, même s’ils sont dérangeants.
+La pensée critique _doit refuser l’autorité humaine et les préjugés_, mais _se soumettre aux faits eux-mêmes_, même s’ils sont dérangeants.
 
 </div>
 <div className="col col--6 video-translation">
@@ -157,7 +152,7 @@ La pensée critique *doit refuser l’autorité humaine et les préjugés*, mais
 
 <h3>Die Lehre Poincarés</h3>
 
-Das kritische Denken *muss die menschliche Autorität und die Vorurteile zurückweisen*, sich aber *den Tatsachen selbst unterwerfen*, auch wenn sie störend sind.
+Das kritische Denken _muss die menschliche Autorität und die Vorurteile zurückweisen_, sich aber _den Tatsachen selbst unterwerfen_, auch wenn sie störend sind.
 
 </div>
 </div>
@@ -167,10 +162,10 @@ Das kritische Denken *muss die menschliche Autorität und die Vorurteile zurück
 
 ### 🧱 Obstacles à l’établissement des faits
 
-* **Idéologies** : filtrent ou déforment les faits.
-* **Préjugés** : masquent la réalité.
-* **Simplifications séduisantes** : évitent la complexité du réel.
-* **Communautarisme** : déforme systématiquement les faits pour présenter son groupe comme victime, les autres comme bourreaux.
+- **Idéologies** : filtrent ou déforment les faits.
+- **Préjugés** : masquent la réalité.
+- **Simplifications séduisantes** : évitent la complexité du réel.
+- **Communautarisme** : déforme systématiquement les faits pour présenter son groupe comme victime, les autres comme bourreaux.
 
 > ➤ Ce biais communautariste est qualifié de **"défaite de la pensée critique"**.
 
@@ -179,10 +174,10 @@ Das kritische Denken *muss die menschliche Autorität und die Vorurteile zurück
 
 <h3>Hindernisse für die Feststellung der Fakten</h3>
 
-* **Ideologien**: filtern oder verzerren die Fakten.
-* **Vorurteile**: verdecken die Wirklichkeit.
-* **Verführerische Vereinfachungen**: vermeiden die Komplexität der Wirklichkeit.
-* **Kommunitarismus**: verzerrt systematisch die Fakten, um die eigene Gruppe als Opfer, die anderen als Täter darzustellen.
+- **Ideologien**: filtern oder verzerren die Fakten.
+- **Vorurteile**: verdecken die Wirklichkeit.
+- **Verführerische Vereinfachungen**: vermeiden die Komplexität der Wirklichkeit.
+- **Kommunitarismus**: verzerrt systematisch die Fakten, um die eigene Gruppe als Opfer, die anderen als Täter darzustellen.
 
 > ➤ Diese kommunitaristische Verzerrung wird als **„Niederlage des kritischen Denkens"** bezeichnet.
 
@@ -211,12 +206,12 @@ Das kritische Denken *muss die menschliche Autorität und die Vorurteile zurück
 
 ## 🧠 Conclusion
 
-> « *Il faut se soumettre aux faits — et non aux autorités humaines ou à ses propres préjugés.* »
+> « _Il faut se soumettre aux faits — et non aux autorités humaines ou à ses propres préjugés._ »
 
 Cette phrase de **Poincaré** résume le cœur de la pensée critique :
 
-* **Refuser toute soumission aveugle** à une autorité ou à un dogme.
-* **Accepter les faits**, même quand ils bousculent nos croyances ou identités.
+- **Refuser toute soumission aveugle** à une autorité ou à un dogme.
+- **Accepter les faits**, même quand ils bousculent nos croyances ou identités.
 
 **🎯 En résumé :**
 La pensée critique s’exerce contre les pressions sociales, politiques et idéologiques. Elle suppose un **jugement autonome**, un **rapport rigoureux aux faits**, et le **courage de la remise en question**, y compris de soi-même.
@@ -226,12 +221,12 @@ La pensée critique s’exerce contre les pressions sociales, politiques et idé
 
 <h2>Fazit</h2>
 
-> „*Man muss sich den Tatsachen unterwerfen — und nicht den menschlichen Autoritäten oder den eigenen Vorurteilen.*"
+> „_Man muss sich den Tatsachen unterwerfen — und nicht den menschlichen Autoritäten oder den eigenen Vorurteilen._"
 
 Dieser Satz **Poincarés** fasst den Kern des kritischen Denkens zusammen:
 
-* **Jede blinde Unterwerfung** unter eine Autorität oder ein Dogma **verweigern**.
-* **Die Fakten anerkennen**, auch wenn sie unsere Überzeugungen oder Identitäten erschüttern.
+- **Jede blinde Unterwerfung** unter eine Autorität oder ein Dogma **verweigern**.
+- **Die Fakten anerkennen**, auch wenn sie unsere Überzeugungen oder Identitäten erschüttern.
 
 **🎯 Zusammengefasst:**
 Kritisches Denken übt sich gegen die sozialen, politischen und ideologischen Zwänge. Es setzt ein **eigenständiges Urteil**, ein **strenges Verhältnis zu den Fakten** und den **Mut zur Infragestellung** voraus, auch der eigenen Person.
@@ -239,4 +234,4 @@ Kritisches Denken übt sich gegen die sozialen, politischen und ideologischen Zw
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/140-conclusion-la-pensee-critique-et-la-politique.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/140-conclusion-la-pensee-critique-et-la-politique.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/140-conclusion-la-pensee-critique-et-la-politique.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/140-conclusion-la-pensee-critique-et-la-politique.md)

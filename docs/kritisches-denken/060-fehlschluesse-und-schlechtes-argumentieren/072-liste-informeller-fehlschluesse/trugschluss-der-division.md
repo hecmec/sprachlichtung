@@ -71,4 +71,4 @@ Sauerstoff fördert die Verbrennung, Wasserstoff ist sogar selbst brennbar &mdas
 - [Wikipedia: Fallacy of division](https://en.wikipedia.org/wiki/Fallacy_of_division)
 - [Logically Fallacious: Division](https://www.logicallyfallacious.com/logicalfallacies/Division)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)

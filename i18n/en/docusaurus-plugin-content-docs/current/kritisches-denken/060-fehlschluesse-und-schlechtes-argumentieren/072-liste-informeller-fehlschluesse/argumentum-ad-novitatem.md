@@ -59,6 +59,7 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 <!-- list similar fallacies -->
 
 <!--t src=4b1994b1-->
+
 - **Argumentum ad antiquitatem** &mdash; the counterpart: "old, therefore tried and tested".
 - **Argumentum ad populum** &mdash; related, when the new is at the same time taken to be the trendy thing.
 
@@ -78,6 +79,7 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 > „This is the latest model, so it is the best choice.“
 
 <!--t src=9a6b2db5-->
+
 Whether it is the best choice depends on properties and suitability &mdash; not on the release date.
 
 <!--t src=f350657d-->
@@ -108,4 +110,5 @@ Precisely new procedures are often still little tested. Novelty is no substitute
 - [Logically Fallacious: Appeal to Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)
 
 <!--t src=df2e3f5e-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md)

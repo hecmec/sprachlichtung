@@ -32,9 +32,11 @@ _Two separations make no connection._
 ## Definition
 
 <!--t src=0acc5bdc-->
+
 One **rule of the categorical syllogism** is: from **two negative premises** nothing follows. If a conclusion is drawn anyway, the fallacy of "exclusive premises" is present.
 
 <!--t src=049c5209-->
+
 The reason: each negative premise only says that the middle term is _separated_ from one of the end terms. If **both** premises are negative, the middle term is separated from both end terms &mdash; it can then build no bridge between them. About the relationship of the end terms to each other, everything remains open.
 
 <!--t src=3c24b250-->
@@ -63,6 +65,7 @@ Also known as: _exclusive premises_ / _fallacy of exclusive premises_
 <!-- list similar fallacies -->
 
 <!--t src=22d0f1ba-->
+
 - **Illicit negative (affirmative conclusion from a negative premise)** &mdash; a related violation of the quality rules of the syllogism.
 - **Illicit affirmative (negative conclusion from affirmative premises)** &mdash; the counterpart on the affirmative side.
 - **Undistributed middle** &mdash; likewise a case in which the middle term does not connect the end terms.
@@ -85,6 +88,7 @@ Also known as: _exclusive premises_ / _fallacy of exclusive premises_
 > 3. Therefore some pets are reptiles.
 
 <!--t src=c995e783-->
+
 Both premises are negative. They only say what is _not_ connected; about the relationship between pets and reptiles they say nothing. The conclusion is not warranted.
 
 <!--t src=f350657d-->
@@ -117,4 +121,5 @@ From two negations nothing follows. That hydrogen is not a noble gas says nothin
 - [Logically Fallacious: Exclusive Premises](https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises)
 
 <!--t src=b19c79d4-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md)

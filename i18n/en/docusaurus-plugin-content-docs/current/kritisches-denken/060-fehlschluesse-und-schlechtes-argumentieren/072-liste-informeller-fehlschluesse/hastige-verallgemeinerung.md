@@ -30,6 +30,7 @@ _From the sample, prematurely to the whole._
 ## Definition
 
 <!--t src=0b20a639-->
+
 In the **hasty generalization**, a **general rule** is inferred from a **sample that is too small or not representative**.
 
 <!--t src=d00e5b49-->
@@ -57,6 +58,7 @@ Also known as: _hasty generalization_
 <!-- list similar fallacies -->
 
 <!--t src=a5835896-->
+
 - **Cherry picking** &mdash; related: the selection of cases is not representative.
 - **Faulty analogy** &mdash; related: an inadmissible transfer to other cases.
 - **Accident** &mdash; the counterpart (_converse accident_): from the general rule to the special case.
@@ -73,6 +75,7 @@ Also known as: _hasty generalization_
 <!-- description of example one -->
 
 <!--t src=1552819a-->
+
 > "Two tourists from this country were rude &mdash; the people from there are all just rude."
 
 <!--t src=1b30d81f-->
@@ -87,6 +90,7 @@ Two cases are no adequate basis for a judgement about millions of people. This i
 <!-- description of example two -->
 
 <!--t src=318b66fc-->
+
 > "My grandfather smoked and lived to 95 &mdash; so smoking can't be harmful."
 
 <!--t src=9876e1e9-->
@@ -105,4 +109,5 @@ A single case does not refute a statistic. From it no general rule can be derive
 - [Logically Fallacious: Hasty Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)
 
 <!--t src=56b1f8fa-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md)

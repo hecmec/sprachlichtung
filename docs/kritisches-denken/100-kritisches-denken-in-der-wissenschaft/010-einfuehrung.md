@@ -23,4 +23,4 @@ Die Wissenschaft ist eines der erfolgreichsten Unterfangen der Menschheit, um ve
 
 In diesem Kapitel werden wir die Grundlagen der wissenschaftlichen Methode untersuchen, verschiedene wissenschaftliche Ansätze kennenlernen und verstehen, wie Wissenschaft Wissen generiert und überprüft. Wir werden auch die Grenzen der Wissenschaft betrachten und lernen, wie wir wissenschaftliche Behauptungen kritisch bewerten können.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md)
+[Article en français](/fr/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md) | [Article in English](/en/docs/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/010-einfuehrung.md)

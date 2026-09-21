@@ -30,6 +30,7 @@ _Where something comes from says nothing about whether it is true._
 ## Definition
 
 <!--t src=cc3676bd-->
+
 The **genetic fallacy** evaluates a claim, idea or thing on the basis of its **origin** &mdash; who invented it, where it comes from, how it came about &mdash; instead of on the basis of its actual content.
 
 <!--t src=64cedc28-->
@@ -58,6 +59,7 @@ Also known as: _genetic fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=281ab338-->
+
 - **Argumentum ad hominem** &mdash; a special form: the source is a person.
 - **Poisoning the well** &mdash; a special form: a discrediting attribution of origin made in advance.
 - **Argumentum ad antiquitatem** &mdash; the positive variant: origin in tradition as a supposed merit.
@@ -74,6 +76,7 @@ Also known as: _genetic fallacy_
 <!-- description of example one -->
 
 <!--t src=35438a6c-->
+
 > "The motorway network was expanded under the National Socialists &mdash; how can you think motorways are good?"
 
 <!--t src=2a9784b6-->
@@ -88,6 +91,7 @@ The historical origin does not decide the present-day usefulness or uselessness 
 <!-- description of example two -->
 
 <!--t src=3967783e-->
+
 > "This idea came to him in a dream &mdash; so it can't be taken seriously."
 
 <!--t src=9e92c644-->
@@ -107,4 +111,5 @@ How an idea arose says nothing about its correctness. Even a sudden inspiration 
 - [Logically Fallacious: Genetic Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy)
 
 <!--t src=e7082be7-->
-[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)
+
+[Artikel auf Deutsch](/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)

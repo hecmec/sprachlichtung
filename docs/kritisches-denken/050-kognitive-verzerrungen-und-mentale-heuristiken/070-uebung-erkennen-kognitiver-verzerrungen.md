@@ -58,4 +58,4 @@ Reflektieren Sie über Ihre Beobachtungen:
 
 **Alternative Perspektive**: Auch wenn ich mit der Schlussfolgerung des Autors nicht übereinstimme, könnten einige der präsentierten Fakten korrekt sein. Ich sollte die Quellen der Statistiken prüfen und überlegen, ob es valide Punkte gibt, die ich berücksichtigen sollte.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)

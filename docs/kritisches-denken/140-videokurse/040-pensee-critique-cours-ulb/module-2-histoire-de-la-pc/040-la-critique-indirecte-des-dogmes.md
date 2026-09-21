@@ -16,7 +16,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -59,8 +58,8 @@ Das kritische Denken, als freie Übung der rationalen Prüfung, stößt oft auf 
 
 Elle s’attaque frontalement aux contenus dogmatiques :
 
-* Sur les **faits** : ex. la description de l’origine du monde dans la Bible vs les découvertes scientifiques.
-* Sur les **valeurs** : remise en cause des règles morales (ex. sur la sexualité) imposées par l’Église.
+- Sur les **faits** : ex. la description de l’origine du monde dans la Bible vs les découvertes scientifiques.
+- Sur les **valeurs** : remise en cause des règles morales (ex. sur la sexualité) imposées par l’Église.
 
 </div>
 <div className="col col--6 video-translation">
@@ -71,8 +70,8 @@ Elle s’attaque frontalement aux contenus dogmatiques :
 
 Sie greift die dogmatischen Inhalte frontal an:
 
-* Bei den **Fakten**: z. B. die Beschreibung des Ursprungs der Welt in der Bibel gegenüber den wissenschaftlichen Entdeckungen.
-* Bei den **Werten**: Infragestellung der von der Kirche auferlegten moralischen Regeln (z. B. zur Sexualität).
+- Bei den **Fakten**: z. B. die Beschreibung des Ursprungs der Welt in der Bibel gegenüber den wissenschaftlichen Entdeckungen.
+- Bei den **Werten**: Infragestellung der von der Kirche auferlegten moralischen Regeln (z. B. zur Sexualität).
 
 </div>
 </div>
@@ -97,13 +96,13 @@ Sie zielt nicht direkt auf das Dogma, sondern schwächt dessen Autorität auf Um
 <div className="row">
 <div className="col col--6">
 
-## 📚 L’exemple du *Nom de la rose* (Umberto Eco)
+## 📚 L’exemple du _Nom de la rose_ (Umberto Eco)
 
 Le roman illustre la crainte de certains religieux que **le rire et la comédie** ne sapent progressivement la foi :
 
-* Un manuscrit perdu d’Aristote sur la comédie est redécouvert.
-* Un moine empoisonne ses pages pour empêcher sa lecture.
-* Pourquoi ? Parce que le **rire crée une distance**, permet de **relativiser**, de **questionner**, et donc de **désacraliser** les dogmes.
+- Un manuscrit perdu d’Aristote sur la comédie est redécouvert.
+- Un moine empoisonne ses pages pour empêcher sa lecture.
+- Pourquoi ? Parce que le **rire crée une distance**, permet de **relativiser**, de **questionner**, et donc de **désacraliser** les dogmes.
 
 ➡️ Le rire, même inoffensif au départ, peut conduire à des remises en cause profondes (ex. la Trinité ou la conception virginale de Marie).
 
@@ -114,9 +113,9 @@ Le roman illustre la crainte de certains religieux que **le rire et la comédie*
 
 Der Roman veranschaulicht die Furcht mancher Geistlicher, dass **das Lachen und die Komödie** den Glauben nach und nach untergraben:
 
-* Ein verschollenes Manuskript des Aristoteles über die Komödie wird wiederentdeckt.
-* Ein Mönch vergiftet dessen Seiten, um seine Lektüre zu verhindern.
-* Warum? Weil das **Lachen eine Distanz schafft**, es erlaubt zu **relativieren**, zu **hinterfragen** und damit die Dogmen zu **entheiligen**.
+- Ein verschollenes Manuskript des Aristoteles über die Komödie wird wiederentdeckt.
+- Ein Mönch vergiftet dessen Seiten, um seine Lektüre zu verhindern.
+- Warum? Weil das **Lachen eine Distanz schafft**, es erlaubt zu **relativieren**, zu **hinterfragen** und damit die Dogmen zu **entheiligen**.
 
 ➡️ Das Lachen, anfangs auch harmlos, kann zu tiefgreifenden Infragestellungen führen (z. B. der Dreifaltigkeit oder der jungfräulichen Empfängnis Marias).
 
@@ -130,8 +129,8 @@ Der Roman veranschaulicht die Furcht mancher Geistlicher, dass **das Lachen und 
 
 ### A. La Grèce antique
 
-* Les philosophes passent d'une explication mythologique à une explication **rationnelle et naturelle** (eau, feu, air…).
-* En abordant la nature sans faire appel aux dieux, ils **affaiblissent indirectement le pouvoir religieux**.
+- Les philosophes passent d'une explication mythologique à une explication **rationnelle et naturelle** (eau, feu, air…).
+- En abordant la nature sans faire appel aux dieux, ils **affaiblissent indirectement le pouvoir religieux**.
 
 </div>
 <div className="col col--6 video-translation">
@@ -140,8 +139,8 @@ Der Roman veranschaulicht die Furcht mancher Geistlicher, dass **das Lachen und 
 
 <h3>A. Das antike Griechenland</h3>
 
-* Die Philosophen gehen von einer mythologischen zu einer **rationalen und natürlichen** Erklärung über (Wasser, Feuer, Luft …).
-* Indem sie sich der Natur nähern, ohne die Götter anzurufen, **schwächen sie indirekt die religiöse Macht**.
+- Die Philosophen gehen von einer mythologischen zu einer **rationalen und natürlichen** Erklärung über (Wasser, Feuer, Luft …).
+- Indem sie sich der Natur nähern, ohne die Götter anzurufen, **schwächen sie indirekt die religiöse Macht**.
 
 </div>
 </div>
@@ -151,20 +150,20 @@ Der Roman veranschaulicht die Furcht mancher Geistlicher, dass **das Lachen und 
 
 ### B. Galilée (XVIIe siècle)
 
-* Reprend les thèses de **Copernic** (héliocentrisme).
-* Sa lunette astronomique lui permet de **confirmer que la Terre tourne autour du Soleil**.
-* Cela entre en **contradiction directe** avec certains passages bibliques (ex. le Soleil arrêté par Dieu dans l’Ancien Testament).
-* L’Église craint que si l’on donne raison à la science contre l’Écriture, **la pensée critique ne finisse par s’attaquer aussi aux valeurs chrétiennes**.
+- Reprend les thèses de **Copernic** (héliocentrisme).
+- Sa lunette astronomique lui permet de **confirmer que la Terre tourne autour du Soleil**.
+- Cela entre en **contradiction directe** avec certains passages bibliques (ex. le Soleil arrêté par Dieu dans l’Ancien Testament).
+- L’Église craint que si l’on donne raison à la science contre l’Écriture, **la pensée critique ne finisse par s’attaquer aussi aux valeurs chrétiennes**.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h3>B. Galilei (17. Jahrhundert)</h3>
 
-* Er greift die Thesen des **Kopernikus** (Heliozentrismus) auf.
-* Sein astronomisches Fernrohr erlaubt ihm, **zu bestätigen, dass die Erde sich um die Sonne dreht**.
-* Das steht in **direktem Widerspruch** zu bestimmten Bibelstellen (z. B. die von Gott angehaltene Sonne im Alten Testament).
-* Die Kirche fürchtet, dass, wenn man der Wissenschaft gegen die Schrift recht gibt, **das kritische Denken sich am Ende auch den christlichen Werten zuwendet**.
+- Er greift die Thesen des **Kopernikus** (Heliozentrismus) auf.
+- Sein astronomisches Fernrohr erlaubt ihm, **zu bestätigen, dass die Erde sich um die Sonne dreht**.
+- Das steht in **direktem Widerspruch** zu bestimmten Bibelstellen (z. B. die von Gott angehaltene Sonne im Alten Testament).
+- Die Kirche fürchtet, dass, wenn man der Wissenschaft gegen die Schrift recht gibt, **das kritische Denken sich am Ende auch den christlichen Werten zuwendet**.
 
 </div>
 </div>
@@ -203,4 +202,4 @@ Die Kritik an den Dogmen kann **direkt** oder **indirekt** sein, aber in beiden 
 </div>
 </div>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md)
+[Article en français](/fr/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md) | [Article in English](/en/docs/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/040-la-critique-indirecte-des-dogmes.md)

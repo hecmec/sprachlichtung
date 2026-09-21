@@ -1,19 +1,19 @@
 ---
 title: Wittgensteins Sprachspielbegriff
-#sidebar_label: 
+#sidebar_label:
 sidebar_position: 8
 description: "Ludwig Wittgensteins Konzept des Sprachspiels und seine Bedeutung"
 keywords:
-    - Sprachspiele
-    - Wittgenstein
-    - Philosophie
-    - Sprachphilosophie
-    - Bedeutungstheorie
+  - Sprachspiele
+  - Wittgenstein
+  - Philosophie
+  - Sprachphilosophie
+  - Bedeutungstheorie
 last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 <!-- # Wittgensteins Sprachspielbegriff -->
@@ -88,7 +88,7 @@ Die Debatte wirkt bis heute nach: Systematische Sprachphilosophen sehen in Wittg
 
 ## Quellen
 
-- [Wikipedia: Sprachspiel](https://de.wikipedia.org/wiki/Sprachspiel)  
+- [Wikipedia: Sprachspiel](https://de.wikipedia.org/wiki/Sprachspiel)
 - [Philosophische Untersuchungen: Wittgenstein's Hauptwerk](https://de.wikipedia.org/wiki/Philosophische_Untersuchungen)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)
+[Article en français](/fr/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md) | [Article in English](/en/docs/sprach-welten/020-sprachspiele/110-wittgensteins-spreachspiel-begriff.md)

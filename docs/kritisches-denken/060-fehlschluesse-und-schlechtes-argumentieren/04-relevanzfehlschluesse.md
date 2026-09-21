@@ -30,6 +30,7 @@ Beim Ad-Hominem-Fehlschluss wird die Person angegriffen, anstatt auf ihre Argume
 **Warum ist das fehlerhaft?** Die persönlichen Eigenschaften oder Handlungen von Dr. Schmidt haben nichts mit der Gültigkeit seiner Argumente zu tun. Selbst wenn er inkonsequent handelt, könnten seine Argumente dennoch stichhaltig sein.
 
 **Varianten:**
+
 - **Circumstantial Ad Hominem**: "Sie argumentieren nur so, weil Sie davon profitieren würden."
 - **Tu Quoque (Auch du)**: "Sie kritisieren mich für X, aber Sie tun selbst X."
 - **Guilt by Association**: "Sie teilen diese Meinung mit Gruppe Y, und Gruppe Y ist schlecht."
@@ -91,4 +92,4 @@ Dieser Fehlschluss lenkt von der eigentlichen Frage oder dem Argument ab, indem 
 
 **Warum ist das fehlerhaft?** Anstatt auf die Kritik an der Steuerpolitik einzugehen, wird ein völlig anderes Thema (Bildungspolitik) eingeführt, um abzulenken.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)
