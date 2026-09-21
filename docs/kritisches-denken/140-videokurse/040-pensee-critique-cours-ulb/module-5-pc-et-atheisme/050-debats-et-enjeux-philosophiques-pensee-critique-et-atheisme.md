@@ -110,3 +110,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 4:194 minutes, 19 - à se dégager de ses tentations
 
    -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/050-debats-et-enjeux-philosophiques-pensee-critique-et-atheisme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/050-debats-et-enjeux-philosophiques-pensee-critique-et-atheisme.md)

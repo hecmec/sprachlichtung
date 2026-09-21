@@ -237,3 +237,5 @@ Aristoteles sucht **Demokratie und kritisches Denken zu versöhnen**, indem er s
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/030-aristote.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/030-aristote.md)

@@ -108,3 +108,5 @@ Erstellen Sie einen konkreten Plan für Ihre intellektuelle Entwicklung:
 Planen Sie, Ihren Fortschritt regelmäßig zu überprüfen und Ihren Entwicklungsplan anzupassen. Setzen Sie sich einen Termin für eine erste Überprüfung in etwa einem Monat.
 
 **Datum für die erste Überprüfung**: ___________________________
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/070-uebung-selbstreflexion-zu-intellektuellen-tugenden-und-lastern.md)

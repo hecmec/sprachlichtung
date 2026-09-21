@@ -217,3 +217,5 @@ Diese vier Fehlschlüsse bringen die gesamte Behandlung der **informellen Fehlsc
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep17-informal-fallacies-presumption-part-5.md)

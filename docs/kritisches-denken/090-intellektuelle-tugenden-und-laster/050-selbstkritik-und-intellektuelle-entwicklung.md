@@ -82,3 +82,5 @@ Die Kultivierung intellektueller Tugenden und die Überwindung intellektueller L
    *Beispiel*: Die Person beginnt, ihre verbesserten Zuhörfähigkeiten zu nutzen, um tiefere Fragen zu stellen und komplexere Perspektiven zu verstehen.
 
 **Praktische Anwendung:** Betrachten Sie Ihre intellektuelle Entwicklung als eine Reise, nicht als Ziel. Setzen Sie sich spezifische, realistische Ziele für die Kultivierung bestimmter intellektueller Tugenden. Feiern Sie Fortschritte, ohne Perfektion zu erwarten. Seien Sie geduldig mit sich selbst und erkennen Sie an, dass intellektuelles Wachstum Zeit und kontinuierliche Anstrengung erfordert.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/050-selbstkritik-und-intellektuelle-entwicklung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/050-selbstkritik-und-intellektuelle-entwicklung.md)

@@ -350,3 +350,5 @@ Die nächste Folge beginnt eine mehrteilige Untersuchung der **kategorialen Logi
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep25-introduction-to-deductive-logic.md)

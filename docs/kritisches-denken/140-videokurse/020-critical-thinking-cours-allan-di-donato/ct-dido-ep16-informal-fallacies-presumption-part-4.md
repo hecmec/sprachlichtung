@@ -236,3 +236,5 @@ Die Folge fügt der laufenden Liste sechs weitere Fehlschlüsse hinzu. Der fünf
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4.md)

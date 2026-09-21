@@ -49,3 +49,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/070-le-cas-eichmann.md)

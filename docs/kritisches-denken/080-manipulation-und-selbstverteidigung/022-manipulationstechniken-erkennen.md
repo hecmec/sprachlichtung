@@ -146,3 +146,5 @@ Psychologische Manipulation nutzt tiefere psychologische Prozesse und Schwachste
 - **Love Bombing**: Überschwängliche Zuneigung und Aufmerksamkeit werden genutzt, um jemanden zu manipulieren.
   
   *Beispiel*: Ein Manipulator überhäuft sein Ziel mit Geschenken und Komplimenten, um später Kontrolle auszuüben.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/022-manipulationstechniken-erkennen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/022-manipulationstechniken-erkennen.md)

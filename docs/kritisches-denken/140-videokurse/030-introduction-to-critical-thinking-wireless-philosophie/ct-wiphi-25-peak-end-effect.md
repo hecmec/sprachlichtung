@@ -178,3 +178,5 @@ Da die erinnerte Güte eines Erlebnisses nur von seinem Höhepunkt und seinem En
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect.md)

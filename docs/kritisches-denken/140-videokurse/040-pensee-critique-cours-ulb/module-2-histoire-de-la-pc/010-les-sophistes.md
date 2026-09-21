@@ -172,3 +172,5 @@ Auf die Qualität der Argumentation zu achten, die Sophismen zu erkennen und ein
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/010-les-sophistes.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/010-les-sophistes.md)

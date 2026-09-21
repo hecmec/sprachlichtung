@@ -81,3 +81,5 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 - Unnatürliche Aktivitätsmuster (z.B. 24/7-Aktivität)
 - Wiederholung identischer oder sehr ähnlicher Nachrichten
 - Plötzlicher Anstieg von Unterstützung für ein Thema ohne erkennbaren Auslöser
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/040-desinformation-im-digitalen-zeitalter.md)

@@ -172,3 +172,5 @@ Der lehrreichste Mechanismus ist vielleicht der unauffälligste: Es sind nicht a
 <!-- href="https://www.youtube.com/watch?v=7OlTR7n12iU"
   Pensée critique - Les Monkey Laws - 07 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/070-les-monkey-laws.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/070-les-monkey-laws.md)

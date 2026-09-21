@@ -60,3 +60,5 @@ Eng verbunden mit der Epoché ist der **produktive Zweifel** &mdash; eine Form d
 **Beispiel:** Ein Wissenschaftler, der eine etablierte Theorie hinterfragt, nicht um sie zu widerlegen, sondern um sie besser zu verstehen oder zu verbessern, und bereit ist, seine Zweifel aufzugeben, wenn die Beweise überzeugend sind.
 
 **Praktische Anwendung:** Üben Sie, spezifische, gezielte Fragen zu stellen, anstatt allgemeine Skepsis zu äußern. Wenn Sie zweifeln, fragen Sie sich: "Welche Informationen würden mir helfen, zu einer fundierten Schlussfolgerung zu gelangen?" Nutzen Sie Zweifel als Ausgangspunkt für Erkundung, nicht als Endpunkt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/040-epoche-und-produktiver-zweifel.md)

@@ -211,3 +211,5 @@ Man **entmenschlicht das Opfer** und rechtfertigt den Angreifer im Namen eines h
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/120-victimes-et-bourreaux-interchangeables.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/120-victimes-et-bourreaux-interchangeables.md)

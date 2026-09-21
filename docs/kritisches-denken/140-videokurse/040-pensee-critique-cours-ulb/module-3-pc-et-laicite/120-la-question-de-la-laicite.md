@@ -140,3 +140,5 @@ Die Lektion steht auch dazu, dass ein Teil der Fälle unentschieden bleibt. Bei 
 <!-- href="https://www.youtube.com/watch?v=tdQDm8iEfss"
   Pensée critique - Débats et enjeux philosophiques : La question de la Laïcité - 12 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/120-la-question-de-la-laicite.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/120-la-question-de-la-laicite.md)

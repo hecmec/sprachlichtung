@@ -206,3 +206,5 @@ Zu schließen, dass Y X verursacht hat, bloß weil X auf Y folgte, ist der Post-
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc.md)

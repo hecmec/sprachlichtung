@@ -121,3 +121,5 @@ Die direkte Kritik an den Dogmen ist Teil einer historischen Bewegung hin zu meh
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-2-histoire-de-la-pc/050-la-critique-directe-des-dogmes.md)

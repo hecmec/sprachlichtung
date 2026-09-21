@@ -409,3 +409,5 @@ flowchart LR
 &nbsp;
 
 Nach diesem sehr kondensierten Überblick über das kritische Denken kommen wir nun zu den Details!
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/000-kritisches-denken-kurzgesagt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/000-kritisches-denken-kurzgesagt.md)

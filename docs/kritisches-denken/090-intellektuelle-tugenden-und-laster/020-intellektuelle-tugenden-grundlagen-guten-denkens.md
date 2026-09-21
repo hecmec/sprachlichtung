@@ -153,3 +153,5 @@ Anders als bloße Denkfähigkeiten oder -techniken umfassen intellektuelle Tugen
 **Beispiel:** Der Anthropologe Franz Boas revolutionierte sein Feld durch seine Fähigkeit, kulturelle Praktiken aus der Perspektive der jeweiligen Kultur zu verstehen, anstatt sie durch die Linse westlicher Werte zu beurteilen.
 
 **Praktische Anwendung:** Üben Sie aktives Zuhören, ohne sofort zu widersprechen. Fragen Sie sich: "Warum könnte eine vernünftige Person diese Position vertreten?" Versuchen Sie, Argumente aus der Perspektive verschiedener kultureller oder ideologischer Standpunkte zu rekonstruieren.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/020-intellektuelle-tugenden-grundlagen-guten-denkens.md)

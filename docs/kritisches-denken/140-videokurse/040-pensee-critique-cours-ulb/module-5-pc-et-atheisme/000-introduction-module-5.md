@@ -131,3 +131,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 6:396 minutes, 39 - critique les accusations d'athéisme
 
    -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/000-introduction-module-5.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/000-introduction-module-5.md)

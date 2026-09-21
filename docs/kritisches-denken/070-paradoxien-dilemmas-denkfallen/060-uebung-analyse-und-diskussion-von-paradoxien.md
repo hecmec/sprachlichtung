@@ -80,3 +80,5 @@ Analysieren Sie die folgenden paradoxen Situationen. Identifizieren Sie die Art 
      - Viele-Welten-Interpretation: Das Buch stammt ursprünglich aus einer anderen Zeitlinie.
      - Zeitreisen könnten grundsätzlich unmöglich sein, gerade wegen solcher Paradoxien.
      - Die Information könnte sich in der Schleife allmählich verändern, was auf lange Sicht zu Inkonsistenzen führen würde.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/060-uebung-analyse-und-diskussion-von-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/060-uebung-analyse-und-diskussion-von-paradoxien.md)

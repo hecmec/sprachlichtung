@@ -143,3 +143,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 7:397 minutes, 39 - religion de son caractère dogmatique 7 un résultat paradoxal qui donne beaucoup à réfléchir
 
    -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/040-laicite-religion-et-atheisme.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/040-laicite-religion-et-atheisme.md)

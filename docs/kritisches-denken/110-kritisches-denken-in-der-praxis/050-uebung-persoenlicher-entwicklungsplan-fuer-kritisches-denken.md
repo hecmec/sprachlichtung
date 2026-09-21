@@ -104,3 +104,5 @@ Formulieren Sie ein persönliches Commitment zu Ihrem Entwicklungsplan:
 "Ich verpflichte mich, diesen Plan zur Entwicklung meiner kritischen Denkfähigkeiten zu verfolgen, weil _____________________. Ich werde Herausforderungen als Lernmöglichkeiten betrachten und flexibel bleiben, während ich konsequent an meinen Zielen arbeite."
 
 Datum: _____________________ Unterschrift: _____________________
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/050-uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken.md)

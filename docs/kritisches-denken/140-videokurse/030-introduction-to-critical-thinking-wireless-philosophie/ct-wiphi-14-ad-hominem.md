@@ -225,3 +225,5 @@ Keine dieser Entgegnungen setzt sich mit Catherines oder Vlads Prämissen oder S
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem.md)

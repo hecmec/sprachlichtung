@@ -359,3 +359,5 @@ Modul 2 wird untersuchen, wie man dieses kritische Denken entwickelt, das unerl√
 
 </div>
 </div>
+
+[Article en fran√ßais](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/000-introduction-pc-et-politique.md)

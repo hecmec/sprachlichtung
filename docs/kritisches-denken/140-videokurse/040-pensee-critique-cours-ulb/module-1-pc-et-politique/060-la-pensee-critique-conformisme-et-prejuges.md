@@ -180,3 +180,5 @@ Dieser persönliche Kampf ist **schwieriger, als einer äußeren Unterdrückung 
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/060-la-pensee-critique-conformisme-et-prejuges.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/060-la-pensee-critique-conformisme-et-prejuges.md)

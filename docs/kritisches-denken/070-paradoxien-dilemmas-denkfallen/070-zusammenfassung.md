@@ -30,3 +30,5 @@ Wir haben gelernt:
 - Es gibt verschiedene **Strategien zum Umgang mit Paradoxien**, darunter die Identifizierung versteckter Annahmen, die Unterscheidung von Sprachebenen, die Präzisierung vager Begriffe, kontextuelle Analyse, die Akzeptanz von Grenzen und die Entwicklung neuer theoretischer Rahmen.
 
 Die Auseinandersetzung mit Paradoxien ist ein wesentlicher Bestandteil des kritischen Denkens. Sie lehrt uns, Annahmen zu hinterfragen, präziser zu denken, kreative Lösungsansätze zu entwickeln und die Grenzen unserer Konzepte zu erkennen. Paradoxien erinnern uns daran, dass selbst scheinbar solide logische Systeme Grenzen haben können und dass kritisches Denken oft bedeutet, mit Unsicherheit und Ambiguität umzugehen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/070-zusammenfassung.md)

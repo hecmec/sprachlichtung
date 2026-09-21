@@ -186,3 +186,5 @@ Die Übung im kritischen Denken liegt in dieser Verschiebung: Eine laizistische 
 <!-- href="https://www.youtube.com/watch?v=w35NVFeLmRE"
   Pensée critique - L'invocation de Dieu par les pouvoirs publics - 05 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/050-l-invocation-de-dieu.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/050-l-invocation-de-dieu.md)

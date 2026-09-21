@@ -53,3 +53,5 @@ draft: false
 - Der **Originaltext ist in Deutsch**. Die Englische und Französische Übersetzung habe ich an künstliche Intelligenz delegiert und manchmal korrigiert, aber eben nicht immer.
 
   Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen Sie doch einfach mal im deutschen Originaltext nach.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/001-vorwort.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/001-vorwort.md)

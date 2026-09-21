@@ -103,3 +103,5 @@ Verschiedene Faktoren können die Entwicklung intellektueller Tugenden in Gemein
    *Überwindungsstrategie*: Anerkennung des Werts von Zeit für Reflexion und tiefes Denken, und Schaffung von Räumen dafür.
 
 **Praktische Anwendung:** Identifizieren Sie eine Gemeinschaft, zu der Sie gehören (Arbeitsplatz, Bildungseinrichtung, Verein), und überlegen Sie, welche intellektuellen Tugenden dort bereits geschätzt werden und welche gefördert werden könnten. Entwickeln Sie konkrete Vorschläge, wie diese Gemeinschaft intellektuelle Tugenden stärker kultivieren könnte.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/060-intellektuelle-tugenden-in-gemeinschaften.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/090-intellektuelle-tugenden-und-laster/060-intellektuelle-tugenden-in-gemeinschaften.md)

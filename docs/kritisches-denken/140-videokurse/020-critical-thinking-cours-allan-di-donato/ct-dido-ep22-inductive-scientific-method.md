@@ -278,3 +278,5 @@ Das Testen von Hypothesen hat eine logische Struktur. Aus „wenn die Hypothese 
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method.md)

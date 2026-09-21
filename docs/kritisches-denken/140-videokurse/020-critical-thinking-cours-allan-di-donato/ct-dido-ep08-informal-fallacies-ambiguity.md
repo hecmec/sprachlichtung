@@ -322,3 +322,5 @@ Das kratzt nur an der Oberfläche: Der beste Ansatz ist, die Beispiele durchzuge
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity.md)

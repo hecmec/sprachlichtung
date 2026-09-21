@@ -166,3 +166,5 @@ Für das kritische Denken besteht die Übung gerade darin, beide Argumentreihen 
 <!-- href="https://www.youtube.com/watch?v=KxCWL9Fyppo"
   Pensée critique - Réactions au nom de la pensée critique et de la laïcité - 14 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/140-reactions-au-nom-de-la-pensee-critique.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/140-reactions-au-nom-de-la-pensee-critique.md)

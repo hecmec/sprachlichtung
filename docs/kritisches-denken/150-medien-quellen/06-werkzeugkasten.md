@@ -93,3 +93,5 @@ Wir fügen immer wieder neue hinzu.
 <!-- ## Logik
  -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/06-werkzeugkasten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/06-werkzeugkasten.md)

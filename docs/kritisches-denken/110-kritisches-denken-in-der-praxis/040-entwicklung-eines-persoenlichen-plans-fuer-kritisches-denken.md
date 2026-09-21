@@ -232,3 +232,5 @@ Um Ihre Entwicklung im kritischen Denken zu optimieren, ist es wichtig, Ihren Fo
    - Reflexion über langfristige Entwicklung
    - Festlegung neuer langfristiger Ziele
    - Vollständige Überarbeitung des Entwicklungsplans
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/040-entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken.md)

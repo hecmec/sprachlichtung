@@ -182,3 +182,5 @@ Nur weil Wasser nass ist, sind Wassermoleküle noch lange nicht nass: Was für e
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division.md)

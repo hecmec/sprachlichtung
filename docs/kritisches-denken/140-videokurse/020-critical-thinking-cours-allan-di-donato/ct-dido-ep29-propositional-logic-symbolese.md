@@ -336,3 +336,5 @@ Die Folge endet mit einer Vorschau auf das nächste Thema: diese Elemente zu ver
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese.md)

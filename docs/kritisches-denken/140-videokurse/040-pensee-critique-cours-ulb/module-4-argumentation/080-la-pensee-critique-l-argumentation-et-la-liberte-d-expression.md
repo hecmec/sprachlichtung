@@ -68,3 +68,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/080-la-pensee-critique-l-argumentation-et-la-liberte-d-expression.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-4-argumentation/080-la-pensee-critique-l-argumentation-et-la-liberte-d-expression.md)

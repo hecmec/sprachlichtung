@@ -270,3 +270,5 @@ Zunehmend wichtig sind **interdisziplinäre Ansätze**, die Methoden und Perspek
 - Die Kognitionswissenschaft verbindet Psychologie, Neurowissenschaft, Linguistik, Philosophie und Informatik.
 - Die Umweltwissenschaft integriert Biologie, Chemie, Geologie, Wirtschaftswissenschaften und Politikwissenschaft.
 - Die Wissenschafts- und Technikforschung kombiniert soziologische, historische und philosophische Ansätze.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/020-grundlagen-der-wissenschaftlichen-methode.md)

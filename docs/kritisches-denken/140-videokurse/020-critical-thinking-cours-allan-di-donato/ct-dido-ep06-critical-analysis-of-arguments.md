@@ -272,3 +272,5 @@ Dies ist nur ein Überblick; die formale Prüfung der Gültigkeit kommt später.
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments.md)

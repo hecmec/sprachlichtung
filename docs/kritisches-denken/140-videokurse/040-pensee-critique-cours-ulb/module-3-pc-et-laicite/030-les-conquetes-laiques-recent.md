@@ -174,3 +174,5 @@ Für das kritische Denken ist der Schluss eine Übung in der Widerlegung einer p
 
 <!-- href="https://www.youtube.com/watch?v=SfWxC7yXHVE"
   Pensée critique - Les conquêtes laïques récentes - 03 - Module 3 -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/030-les-conquetes-laiques-recent.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/030-les-conquetes-laiques-recent.md)

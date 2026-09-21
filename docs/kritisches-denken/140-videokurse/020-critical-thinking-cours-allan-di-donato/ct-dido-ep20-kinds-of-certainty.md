@@ -230,3 +230,5 @@ Die Folge bietet eine Landkarte des Spektrums der Gewissheit, von apodiktischen 
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty.md)

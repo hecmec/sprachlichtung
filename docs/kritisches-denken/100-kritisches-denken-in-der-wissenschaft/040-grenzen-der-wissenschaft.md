@@ -92,3 +92,5 @@ Eine wichtige Grenze der Wissenschaft betrifft die Beziehung zwischen Fakten und
 3. **Wissenschaft im gesellschaftlichen Kontext**: Wissenschaftliche Forschung findet in einem sozialen, politischen und ökonomischen Kontext statt, der sie beeinflusst.
    
    *Beispiel*: Forschungsprioritäten werden oft von Finanzierungsquellen und gesellschaftlichen Interessen geprägt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/040-grenzen-der-wissenschaft.md)

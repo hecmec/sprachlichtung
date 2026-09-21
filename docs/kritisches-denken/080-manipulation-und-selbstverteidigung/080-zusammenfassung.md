@@ -31,3 +31,5 @@ In diesem Kapitel haben wir uns mit Manipulation und Verteidigungsstrategien bef
 - **Kritisches Denken in sozialen Medien** erfordert spezifische Strategien wie langsames Scrollen, aktive Quellenprüfung, emotionale Pausen, bewusste Kuratierung, Nutzung von Faktencheck-Tools, Kontextsuche und kritisches Lesen von Bildern.
 
 Die Fähigkeit, Manipulation zu erkennen und ihr zu widerstehen, ist eine wesentliche Kompetenz des kritischen Denkens. In einer Welt, die von Werbung, politischer Propaganda, Desinformation und subtilen Beeinflussungstechniken durchdrungen ist, hilft uns kritisches Denken, informierte und selbstbestimmte Entscheidungen zu treffen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/080-zusammenfassung.md)

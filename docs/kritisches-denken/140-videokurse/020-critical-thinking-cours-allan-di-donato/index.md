@@ -38,3 +38,5 @@ Der gesamte Kurs ist zurzeit nur auf Englisch verfügbar, also haben wir entschi
 the episode list is shared across locales in src/data/ct-dido-course.ts -->
 
 <VideoCardGrid videos={ctDidoCourse} />
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/index.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/index.md)

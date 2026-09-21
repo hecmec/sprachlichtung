@@ -204,3 +204,5 @@ Aber zu argumentieren, die Fakten festzustellen und über die Werte zu debattier
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/030-l-argument-de-raison.md)

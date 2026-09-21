@@ -283,3 +283,5 @@ Kritisches Denken ist essenziell für die konstruktive Teilnahme an gesellschaft
 3. Die Perspektiven verschiedener Interessengruppen (Wissenschaft, Wirtschaft, betroffene Gemeinschaften) berücksichtigen
 4. Eigene Werte und Prioritäten reflektieren und explizit machen
 5. Nach gemeinsamen Interessen suchen, auch bei unterschiedlichen Positionen
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/020-praktische-strategien-fuer-kritisches-denken.md)

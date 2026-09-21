@@ -206,3 +206,5 @@ Die verbreitete Überzeugung ist nur sehr selten das, was eine Behauptung wahr m
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people.md)

@@ -22,3 +22,5 @@ In den vorherigen Kapiteln haben wir die theoretischen Grundlagen des kritischen
 Kritisches Denken ist keine abstrakte intellektuelle Übung, sondern eine praktische Fähigkeit, die in allen Lebensbereichen angewendet werden kann und sollte. Von alltäglichen Entscheidungen über berufliche Herausforderungen bis hin zu gesellschaftlichen Fragen &mdash; kritisches Denken hilft uns, klarere, fundiertere und reflektiertere Urteile zu fällen.
 
 In diesem Kapitel werden wir praktische Strategien und Werkzeuge für kritisches Denken in verschiedenen Kontexten kennenlernen, Hindernisse für kritisches Denken identifizieren und Wege zu ihrer Überwindung erkunden sowie einen persönlichen Entwicklungsplan für kontinuierliches Wachstum als kritischer Denker erstellen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/110-kritisches-denken-in-der-praxis/010-einfuehrung.md)

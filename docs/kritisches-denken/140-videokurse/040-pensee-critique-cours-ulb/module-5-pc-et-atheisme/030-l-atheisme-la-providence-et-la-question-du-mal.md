@@ -109,3 +109,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 4:164 minutes, 16 - faisant l'athéisme
 
   -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/030-l-atheisme-la-providence-et-la-question-du-mal.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/030-l-atheisme-la-providence-et-la-question-du-mal.md)

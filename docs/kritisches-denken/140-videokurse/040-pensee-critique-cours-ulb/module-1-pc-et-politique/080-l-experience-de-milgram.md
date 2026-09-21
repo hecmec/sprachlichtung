@@ -191,3 +191,5 @@ Die Mehrheit der Teilnehmer **geht bis zum Ende** und versetzt maximale Stromst√
 
 </div>
 </div>
+
+[Article en fran√ßais](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/080-l-experience-de-milgram.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-1-pc-et-politique/080-l-experience-de-milgram.md)

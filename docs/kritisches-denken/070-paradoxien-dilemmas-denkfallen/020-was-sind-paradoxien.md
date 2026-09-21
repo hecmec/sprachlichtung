@@ -48,3 +48,5 @@ Paradoxien können nach verschiedenen Kriterien klassifiziert werden. Eine nütz
 5. **Zeitliche Paradoxien**: Diese betreffen Widersprüche im Zusammenhang mit Zeit, insbesondere mit Zeitreisen.
 
 6. **Sorites-Paradoxien (Haufen-Paradoxien)**: Diese entstehen durch vage Begriffe und die Frage, wann kleine, inkrementelle Änderungen zu einer qualitativen Veränderung führen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/020-was-sind-paradoxien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/070-paradoxien-dilemmas-denkfallen/020-was-sind-paradoxien.md)

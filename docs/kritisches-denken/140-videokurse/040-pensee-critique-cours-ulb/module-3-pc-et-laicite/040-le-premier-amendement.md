@@ -170,3 +170,5 @@ Der zweite Ertrag ist die genaue Lektüre des Textes selbst. Der Erste Zusatzart
 <!-- href="https://www.youtube.com/watch?v=CQHS7ouJ0Jw"
   Pensée critique - Le premier amendement de la constitution des États-Unis - 04 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/040-le-premier-amendement.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/040-le-premier-amendement.md)

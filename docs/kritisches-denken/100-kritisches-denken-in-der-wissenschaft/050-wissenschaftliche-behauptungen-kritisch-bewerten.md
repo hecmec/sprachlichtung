@@ -123,3 +123,5 @@ Die Vermittlung wissenschaftlicher Erkenntnisse an die Öffentlichkeit ist mit b
    - Vermeidung von Übertreibungen und unbegründeten Spekulationen
    - Berücksichtigung des Vorwissens und der Bedürfnisse des Publikums
    - Förderung des wissenschaftlichen Verständnisses in der Öffentlichkeit
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/050-wissenschaftliche-behauptungen-kritisch-bewerten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/050-wissenschaftliche-behauptungen-kritisch-bewerten.md)

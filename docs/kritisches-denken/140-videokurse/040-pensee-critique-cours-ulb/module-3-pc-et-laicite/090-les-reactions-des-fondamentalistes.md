@@ -171,3 +171,5 @@ Für das kritische Denken ist die Lehre eine doppelte. Zum einen muss ein Argume
 <!-- href="https://www.youtube.com/watch?v=UIPD9-vdQio"
   Pensée critique - Les réactions des fondamentalistes : L'intelligent Design - 09 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/090-les-reactions-des-fondamentalistes.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/090-les-reactions-des-fondamentalistes.md)

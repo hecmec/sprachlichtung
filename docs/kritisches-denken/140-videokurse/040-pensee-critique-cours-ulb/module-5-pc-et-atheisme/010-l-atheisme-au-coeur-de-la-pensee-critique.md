@@ -126,3 +126,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 5:505 minutes, 50 - pensée critique
 
    -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/010-l-atheisme-au-coeur-de-la-pensee-critique.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/010-l-atheisme-au-coeur-de-la-pensee-critique.md)

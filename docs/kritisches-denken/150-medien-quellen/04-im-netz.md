@@ -30,3 +30,5 @@ draft: false
   - französischer Verein und Kollektiv zur interdisziplinären Forschung des Kritischen Denkens und der Wissenschaften.
 - 🇫🇷 [Association Française pour l’Information Scientifique (AFIS)](https://www.afis.org/)
   - französischer Verein, der seit 1968 Wissenschaft und kritisches Denken fördert (Zeitschrift _Science et pseudo-sciences_).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/04-im-netz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/150-medien-quellen/04-im-netz.md)

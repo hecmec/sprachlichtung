@@ -251,3 +251,5 @@ Damit sind die Autoritätsargumente abgeschlossen. Die nächste (vierte) Relevan
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/020-critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3.md)

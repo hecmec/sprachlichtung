@@ -94,3 +94,5 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 - **Fragwürdige Forschungspraktiken**: Praktiken, die zwar nicht als Fehlverhalten gelten, aber die Integrität der Forschung beeinträchtigen
 
 **Beispiel:** Der Fall des südkoreanischen Forschers Hwang Woo-suk, der 2004-2005 bahnbrechende Ergebnisse im Bereich des Klonens menschlicher Embryonen veröffentlichte, die sich später als gefälscht herausstellten.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/100-kritisches-denken-in-der-wissenschaft/030-wissenschaftliche-standards-und-qualitaetssicherung.md)

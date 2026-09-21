@@ -166,3 +166,5 @@ Die eingangs gesetzte Unterscheidung ist selbst eine kritische Übung: Sie verhi
 <!-- href="https://www.youtube.com/watch?v=LP0hi6fpxEg"
   Pensée critique - La genèse de l'islamisme contemporain - 13 - Module 3 -->
 
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/130-la-genese-de-l-islamisme-contemporain.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-3-pc-et-laicite/130-la-genese-de-l-islamisme-contemporain.md)

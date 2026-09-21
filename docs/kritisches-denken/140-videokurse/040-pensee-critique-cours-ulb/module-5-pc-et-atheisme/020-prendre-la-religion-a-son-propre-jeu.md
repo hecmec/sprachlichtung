@@ -98,3 +98,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 3:253 minutes, 25 - arriver à une telle conclusion
 
 -->
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/020-prendre-la-religion-a-son-propre-jeu.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/040-pensee-critique-cours-ulb/module-5-pc-et-atheisme/020-prendre-la-religion-a-son-propre-jeu.md)

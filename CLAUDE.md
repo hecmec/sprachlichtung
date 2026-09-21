@@ -65,3 +65,7 @@ React components in `src/components/` are used in MDX pages:
 - Math is supported via KaTeX (`$inline$` and `$$block$$`)
 - Mermaid diagrams are enabled (fenced code blocks with `mermaid` language tag)
 - File naming uses dashes, not underscores (recent migration ongoing)
+
+## Committing
+
+- Before every commit, check whether the commit already changes `version` in `package.json` (`git diff --cached package.json`). If it does not, bump the **patch** number (e.g. `0.4.4` → `0.4.5`) and stage `package.json` with the commit. Never bump minor/major unless explicitly asked.

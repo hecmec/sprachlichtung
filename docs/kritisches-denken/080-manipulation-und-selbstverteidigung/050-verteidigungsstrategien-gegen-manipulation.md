@@ -124,3 +124,5 @@ Im digitalen Zeitalter ist Medienkompetenz besonders wichtig:
 - **Seien Sie vorsichtig mit dem Teilen**: Überprüfen Sie Informationen, bevor Sie sie weiterverbreiten.
   
   *Beispiel*: Lesen Sie Artikel vollständig und prüfen Sie ihre Quellen, bevor Sie sie teilen, selbst wenn die Überschrift Ihre Überzeugungen bestätigt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/050-verteidigungsstrategien-gegen-manipulation.md)

@@ -247,3 +247,5 @@ Santos schließt, dass selbst bei einer Entscheidung über Leben und Tod unsere 
 
 </div>
 </div>
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/140-videokurse/030-introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion.md)

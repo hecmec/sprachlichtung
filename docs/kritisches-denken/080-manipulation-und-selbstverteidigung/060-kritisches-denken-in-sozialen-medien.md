@@ -62,3 +62,5 @@ Soziale Medien stellen besondere Herausforderungen für kritisches Denken dar. H
 7. **Kritisches Lesen von Bildern**: Lernen Sie, visuelle Inhalte kritisch zu betrachten.
    
    *Beispiel*: Achten Sie auf Anzeichen von Bildmanipulation wie unnatürliche Schatten, verzerrte Proportionen oder inkonsistente Beleuchtung.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/080-manipulation-und-selbstverteidigung/060-kritisches-denken-in-sozialen-medien.md)
