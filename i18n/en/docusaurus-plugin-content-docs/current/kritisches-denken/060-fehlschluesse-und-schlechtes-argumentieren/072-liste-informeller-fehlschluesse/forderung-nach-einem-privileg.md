@@ -104,3 +104,6 @@ The added special condition immunises the claim against any test, without justif
 
 - [Wikipedia: Special pleading](https://en.wikipedia.org/wiki/Special_pleading)
 - [Logically Fallacious: Special Pleading](https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading)
+
+<!--t src=3dfe791c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)

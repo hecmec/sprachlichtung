@@ -78,3 +78,6 @@ We find these formal fallacies above all in arguments that are meant to be forma
 
 <!--t src=282d5984-->
 Below we will look at the most important fallacies from each category.
+
+<!--t src=0ca03c70-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)

@@ -106,3 +106,6 @@ Analyse the following arguments and identify possible fallacies. Justify your an
 10. **Petitio Principii (Circular Reasoning)**
     - Fallacy: The conclusion (the free market is the best system) is justified by a rephrasing of the same claim (economic freedom is best).
     - Improved version: "Studies show that countries with a free market tend to have a higher per-capita income, more innovation and greater economic mobility than countries with heavily regulated economic systems."
+
+<!--t src=73ca04ac-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md)

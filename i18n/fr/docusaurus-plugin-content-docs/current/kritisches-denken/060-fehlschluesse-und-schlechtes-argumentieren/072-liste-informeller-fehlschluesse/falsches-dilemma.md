@@ -93,3 +93,6 @@ Il existe d'autres options (d'autres économies, des recettes supplémentaires, 
 <!--t src=5cb046f0-->
 - [Wikipédia : Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
 - [Logically Fallacious: False Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)
+
+<!--t src=d4b60513-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsches-dilemma.md)

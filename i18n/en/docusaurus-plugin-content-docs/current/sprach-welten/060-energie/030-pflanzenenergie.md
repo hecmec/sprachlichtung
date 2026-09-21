@@ -75,3 +75,6 @@ The emancipatory lesson is simple: don't let yourself be lulled by green labels,
 
 <!--t src=e003676f-->
 [^energie-wiki]: Basics on photosynthesis, biomass and bioenergy e.g. at "Biomass," in: Wikipedia, [en.wikipedia.org/wiki/Biomass](https://en.wikipedia.org/wiki/Biomass), as well as at the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien). On the "plate or tank" debate see [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=7d8d5b4b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md)

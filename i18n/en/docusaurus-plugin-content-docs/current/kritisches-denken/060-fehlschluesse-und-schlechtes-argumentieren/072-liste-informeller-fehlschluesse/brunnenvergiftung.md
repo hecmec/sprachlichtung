@@ -106,3 +106,6 @@ Whoever agrees with the proposal afterwards automatically counts as heartless. T
 - [Wikipedia: Brunnenvergiftung (Rhetorik)](<https://de.wikipedia.org/wiki/Brunnenvergiftung_(Rhetorik)>)
 - [Wikipedia: Poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well)
 - [Logically Fallacious: Poisoning the Well](https://www.logicallyfallacious.com/logicalfallacies/Poisoning-the-Well)
+
+<!--t src=7da401e1-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/brunnenvergiftung.md)

@@ -125,3 +125,6 @@ There are many philosophers who have understood this. They reconcile their belie
 <!--t src=93867af4-->
 
 [^2]: The philosopher **Immanuel Kant** showed in his work that faith and reason are distinct domains that do not contradict each other. God, freedom, and immortality, however, are not objects of empirical knowledge, but belong to practical reason.
+
+<!--t src=b1453b8c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)

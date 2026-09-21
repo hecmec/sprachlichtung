@@ -104,3 +104,6 @@ La chute du mur de Berlin en 1989 apparaît aujourd'hui comme la conséquence lo
 - [Wikipédia : Biais rétrospectif](https://fr.wikipedia.org/wiki/Biais_r%C3%A9trospectif)
 - Fischhoff, B. (1975). Hindsight ≠ foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299.
 - Roese, N. J., & Vohs, K. D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411-426.
+
+<!--t src=81e365b1-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/100-Rueckschaufehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/100-Rueckschaufehler.md)

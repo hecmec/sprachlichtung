@@ -152,3 +152,6 @@ Here, it is unclear who is being referred to as dishonest and who should resign.
 <!--t src=6a6843de-->
 
 5. **Specify pronouns**: Replace ambiguous pronouns with the specific nouns they refer to.
+
+<!--t src=a889f926-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)

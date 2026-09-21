@@ -87,3 +87,6 @@ Les sophismes sont très répandus dans les discours publics, en particulier dan
 
 <!--t src=697267e7-->
 6. **Méfiez-vous des solutions parfaites** : Des problèmes complexes sont-ils présentés comme s'ils avaient des solutions simples et univoques ?
+
+<!--t src=086cb5c2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md)

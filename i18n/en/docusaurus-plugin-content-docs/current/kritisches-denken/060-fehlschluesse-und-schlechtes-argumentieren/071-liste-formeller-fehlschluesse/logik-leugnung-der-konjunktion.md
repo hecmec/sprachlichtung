@@ -109,3 +109,6 @@ She could just as well be in Hamburg. Ruling out simultaneous presence permits n
 
 - [Wikipedia: Denying a conjunct](https://en.wikipedia.org/wiki/Denying_a_conjunct)
 - [Logically Fallacious: Denying a Conjunct](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Conjunct)
+
+<!--t src=d86e8002-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion.md)

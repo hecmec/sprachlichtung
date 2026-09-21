@@ -19,7 +19,7 @@ custom_translation_overwritten: false
 <!--t src=89e05b4e-->
 import Admonition from '@theme/Admonition';
 
-<!--t src=523401d1-->
+<!--t src=d368e8df-->
 ![la pensée critique est essentielle pour donner du sens au monde](/img/kd/quote-helen-czerski-Critical-thinking-is-essential-to-make-sense.jpg)
 
 <!--t src=9c685dad-->
@@ -192,3 +192,6 @@ C'est parti !
 
 <!--t src=0f881fae-->
 [^4]: Dans l'article de Facione : "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."
+
+<!--t src=58229017-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md)

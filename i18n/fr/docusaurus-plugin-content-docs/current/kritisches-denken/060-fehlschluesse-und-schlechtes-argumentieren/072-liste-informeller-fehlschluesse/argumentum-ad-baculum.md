@@ -93,3 +93,6 @@ De la menace d'ennuis, il ne découle pas que l'affirmation soit exacte.
 <!--t src=ae560ea9-->
 - [Wikipedia: Argumentum ad baculum](https://en.wikipedia.org/wiki/Argumentum_ad_baculum)
 - [Logically Fallacious: Appeal to Force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)
+
+<!--t src=f1cfd82e-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-baculum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-baculum.md)

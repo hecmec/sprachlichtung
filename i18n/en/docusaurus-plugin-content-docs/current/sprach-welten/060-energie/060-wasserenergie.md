@@ -75,3 +75,6 @@ Whoever looks closely therefore asks about the concrete case: what is being floo
 
 <!--t src=254c95ba-->
 [^wasser]: Basics and data on hydropower at the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien); on the share in the electricity mix the [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/) and [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=4182b416-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md)

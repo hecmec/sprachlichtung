@@ -110,3 +110,6 @@ Clothing, expressions, or apps become popular because others use them — not be
 - Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments.
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A theory of fads, fashion, custom, and cultural change as informational cascades.
 - Cialdini, R. B. (2009). Influence: Science and Practice — chapter on Social Proof.
+
+<!--t src=1f604b9a-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md)

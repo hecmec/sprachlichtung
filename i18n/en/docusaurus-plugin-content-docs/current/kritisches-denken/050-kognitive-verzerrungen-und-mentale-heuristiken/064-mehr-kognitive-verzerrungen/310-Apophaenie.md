@@ -105,3 +105,6 @@ Whoever tests many variables without a clear hypothesis will almost certainly fi
 - Kahneman, D. (2011): Thinking, Fast and Slow &mdash; chapters on pattern recognition and chance.
 - Taleb, N. N. (2001): Fooled by Randomness &mdash; on spurious patterns in noisy data.
 - Gilovich, T. (1991): How We Know What Isn’t So &mdash; errors of everyday thinking.
+
+<!--t src=4ed4852c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md)

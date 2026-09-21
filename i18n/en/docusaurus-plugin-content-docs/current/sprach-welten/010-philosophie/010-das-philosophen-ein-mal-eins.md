@@ -235,3 +235,6 @@ For a long time it was denied that African philosophy existed at all; Hegel, for
 
 <!--t src=08d35525-->
 [^hountondji]: The debate began with Placide Tempels, _La philosophie bantoue_, 1945; the most important criticism of it is Paulin Hountondji, _Sur la « philosophie africaine »_, 1976.
+
+<!--t src=71755e82-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/010-das-philosophen-ein-mal-eins.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/010-das-philosophen-ein-mal-eins.md)

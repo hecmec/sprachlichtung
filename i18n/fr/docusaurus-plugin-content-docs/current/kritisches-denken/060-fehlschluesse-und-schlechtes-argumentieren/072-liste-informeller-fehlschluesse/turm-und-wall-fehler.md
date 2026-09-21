@@ -101,3 +101,6 @@ Personne ne conteste qu'une alimentation saine fait du bien. Avec ce truisme, on
 - [Wikipedia: Motte-and-Bailey-Argument](https://de.wikipedia.org/wiki/Motte-and-Bailey-Argument)
 - [Wikipedia: Motte-and-bailey fallacy](https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy)
 - [RationalWiki: Motte and bailey](https://rationalwiki.org/wiki/Motte_and_bailey)
+
+<!--t src=1b411031-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/turm-und-wall-fehler.md)

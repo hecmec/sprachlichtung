@@ -112,3 +112,6 @@ Even random groupings (e.g. a preference for painting A vs. B) lead people to **
 - Tajfel, H. (1970/1971). Experiments on the minimal group paradigm.
 - Tajfel, H., & Turner, J. C. (1979). Social Identity Theory.
 - Brewer, M. B. (1999). The psychology of prejudice: Ingroup love vs. outgroup hate.
+
+<!--t src=ae4b27d0-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)

@@ -212,3 +212,6 @@ Souvent, la tromperie ne se présente pas comme un mensonge franc, mais comme un
 - « restitution extraordinaire » (extraordinary rendition) = enlèvement et transfert vers des États pratiquant la torture.
 - « dommage collatéral » = civils tués.
 - « nettoyage ethnique » : déjà un terme d'embellissement pour désigner l'expulsion et le massacre de masse.
+
+<!--t src=10b30be2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md)

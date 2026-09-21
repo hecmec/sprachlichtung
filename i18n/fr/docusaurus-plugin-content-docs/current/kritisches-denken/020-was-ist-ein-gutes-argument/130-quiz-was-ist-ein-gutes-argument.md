@@ -79,3 +79,6 @@ custom_translation_overwritten: false
 3. c) Abduction
 4. b) « Les ordinateurs fonctionnent de façon semblable au cerveau humain. Les ordinateurs ne peuvent pas résoudre certaines tâches. Donc le cerveau humain ne peut probablement pas résoudre ces tâches non plus. »
 5. b) Le changement de perspective
+
+<!--t src=344e5acf-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md)

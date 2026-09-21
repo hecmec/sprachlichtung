@@ -97,3 +97,6 @@ La définition de « croyant » est resserrée a posteriori de telle sorte que l
 <!--t src=33b7ad02-->
 - [Wikipédia : Aucun vrai Écossais](https://fr.wikipedia.org/wiki/Aucun_vrai_%C3%89cossais)
 - [Logically Fallacious: No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
+
+<!--t src=abdb06d5-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md)

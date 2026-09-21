@@ -137,3 +137,6 @@ Regardless of the type of definition, there are general criteria that a good def
 
 <!--t src=46225d40-->
 5. **Consider Context Dependence**: Accept that different definitions may be appropriate in different contexts.
+
+<!--t src=171ca4e2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)

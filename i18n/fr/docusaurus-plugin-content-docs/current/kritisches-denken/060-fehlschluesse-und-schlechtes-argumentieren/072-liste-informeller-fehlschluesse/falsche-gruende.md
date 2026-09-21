@@ -93,3 +93,6 @@ Une peinture fraîche ne dit rien de la capacité portante. Même si le pont est
 <!--t src=942e7734-->
 - [Wikipédia : Ignoratio elenchi (hors sujet)](https://fr.wikipedia.org/wiki/Ignoratio_elenchi)
 - [Logically Fallacious: Irrelevant Conclusion](https://www.logicallyfallacious.com/logicalfallacies/Irrelevant-Conclusion)
+
+<!--t src=dd786d6a-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-gruende.md)

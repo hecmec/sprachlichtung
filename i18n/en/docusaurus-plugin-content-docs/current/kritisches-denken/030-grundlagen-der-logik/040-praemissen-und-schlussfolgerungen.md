@@ -93,3 +93,6 @@ Analysis:
 
 <!--t src=36610850-->
 This argument contains a logical error, as it confuses a necessary condition (orbiting the sun) with a sufficient condition. Not everything that orbits the sun is automatically a planet (e.g., asteroids, comets).
+
+<!--t src=e000548d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md)

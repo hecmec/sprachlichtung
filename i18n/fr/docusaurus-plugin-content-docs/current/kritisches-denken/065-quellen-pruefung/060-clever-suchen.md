@@ -97,3 +97,6 @@ Wikipédia est un excellent **tremplin** : prendre une vue d'ensemble, puis suiv
 
 <!--t src=2c3e5ee4-->
 Un effet secondaire utile : consulter l'article Wikipédia consacré à une _autre_ source est lui-même une forme de lecture latérale ; on apprend ainsi rapidement qui se cache derrière un journal, une association ou un institut.
+
+<!--t src=1f8aa695-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md)

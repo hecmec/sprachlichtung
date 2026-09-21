@@ -119,3 +119,6 @@ Specific techniques can help reduce certain biases.
 - Against the fundamental attribution error: systematically look for situational factors
 - Against the hindsight bias: document predictions before events occur
 - Against the status quo bias: actively generate and evaluate alternatives
+
+<!--t src=2771c678-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)

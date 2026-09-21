@@ -94,3 +94,6 @@ La manière dont une idée est née ne dit rien sur sa justesse. Même une intui
 - [Wikipédia (fr) : Sophisme génétique](https://fr.wikipedia.org/wiki/Sophisme_g%C3%A9n%C3%A9tique)
 - [Wikipedia: Genetic fallacy](https://en.wikipedia.org/wiki/Genetic_fallacy)
 - [Logically Fallacious: Genetic Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy)
+
+<!--t src=e7082be7-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/genetischer-fehlschluss.md)

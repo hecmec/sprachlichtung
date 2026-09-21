@@ -105,3 +105,6 @@ Plus on moralise (« tu dois… »), plus l'**opposition** est probable ; la per
 - [Wikipédia : Effet boomerang (psychologie)](https://fr.wikipedia.org/wiki/Effet_boomerang_(psychologie))
 - Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions.
 - Lewandowsky, S., Ecker, U., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth” era.
+
+<!--t src=6278b58e-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/190-Bumerang-Effekt.md)

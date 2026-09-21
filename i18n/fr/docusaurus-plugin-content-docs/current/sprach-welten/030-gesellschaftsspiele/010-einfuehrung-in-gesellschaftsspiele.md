@@ -44,3 +44,6 @@ Voici quelques exemples de cet usage de la notion de « jeux de société » com
 - Communication et négociation
 - Compétition et collaboration
 - Solidarité et construction de la communauté
+
+<!--t src=c1564172-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md)

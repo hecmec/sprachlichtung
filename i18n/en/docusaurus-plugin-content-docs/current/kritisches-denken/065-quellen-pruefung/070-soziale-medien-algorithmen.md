@@ -85,3 +85,6 @@ Does this mean algorithms are harmless? No. The concern merely shifts to the rig
 - **Break out deliberately.** Go to reputable sources directly instead of just waiting for the feed. Seek out different sources actively.
 - **Pause when you are stirred up.** In a feed, strong emotion is often a sign that a piece of content has been optimised for reach, so it is time for [SIFT](040-die-sift-methode.md).
 - **Sharing is spreading.** Every click on "share" is a vote cast for the algorithm. Check first, then share.
+
+<!--t src=b8b41af4-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)

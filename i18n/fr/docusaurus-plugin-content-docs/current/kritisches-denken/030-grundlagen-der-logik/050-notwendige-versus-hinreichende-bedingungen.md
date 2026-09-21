@@ -96,3 +96,6 @@ Analyse :
 - Courir vite est une condition nécessaire pour être un bon footballeur.
 - Le sophisme consiste à traiter une condition nécessaire comme suffisante.
 - Ce qui serait correct : courir vite est nécessaire, mais non suffisant, pour être un bon footballeur.
+
+<!--t src=0c691e45-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)

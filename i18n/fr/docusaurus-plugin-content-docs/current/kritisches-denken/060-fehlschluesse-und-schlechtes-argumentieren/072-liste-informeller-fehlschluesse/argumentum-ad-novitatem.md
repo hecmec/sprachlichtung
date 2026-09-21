@@ -92,3 +92,6 @@ Justement, les procédés nouveaux sont souvent encore peu éprouvés. La nouvea
 - [Wikipedia : Appel à la nouveauté](https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_nouveaut%C3%A9)
 - [Wikipedia: Appeal to novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)
 - [Logically Fallacious: Appeal to Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)
+
+<!--t src=df2e3f5e-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-novitatem.md)

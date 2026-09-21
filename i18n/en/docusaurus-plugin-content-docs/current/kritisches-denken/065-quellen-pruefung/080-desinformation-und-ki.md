@@ -91,3 +91,6 @@ With viral content it applies doubly: **check first, then believe, and only then
 
 <!--t src=137d92ce-->
 AI makes faking easier, but the same methods that help against classic disinformation (lateral reading, checking the source, looking for the original) work here too. The technology changes, the basic attitude of checking remains.
+
+<!--t src=8b86c5ff-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/080-desinformation-und-ki.md)

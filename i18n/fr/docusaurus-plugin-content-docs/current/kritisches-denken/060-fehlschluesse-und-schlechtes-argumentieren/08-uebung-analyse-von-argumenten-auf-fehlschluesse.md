@@ -106,3 +106,6 @@ Analysez les arguments suivants et identifiez les sophismes éventuels. Justifie
 10. **Petitio Principii (raisonnement circulaire)**
     - Sophisme : la conclusion (l'économie de marché libre est le meilleur système) est justifiée par une reformulation de la même affirmation (la liberté économique est ce qu'il y a de mieux).
     - Version améliorée : "Des études montrent que les pays à économie de marché libre tendent à présenter un revenu par habitant plus élevé, plus d'innovation et une plus grande mobilité économique que les pays dotés de systèmes économiques fortement régulés."
+
+<!--t src=73ca04ac-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md)

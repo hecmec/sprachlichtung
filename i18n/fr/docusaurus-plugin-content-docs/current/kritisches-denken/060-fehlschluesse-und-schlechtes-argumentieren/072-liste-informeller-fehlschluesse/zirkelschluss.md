@@ -95,3 +95,6 @@ La vérité de la Bible est justifiée par la Bible elle-même. L'argument prés
 <!--t src=de646151-->
 - [Wikipédia : Pétition de principe](https://fr.wikipedia.org/wiki/P%C3%A9tition_de_principe)
 - [The Fallacy Files: Begging the Question](https://www.fallacyfiles.org/begquest.html)
+
+<!--t src=2ff797cc-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md)

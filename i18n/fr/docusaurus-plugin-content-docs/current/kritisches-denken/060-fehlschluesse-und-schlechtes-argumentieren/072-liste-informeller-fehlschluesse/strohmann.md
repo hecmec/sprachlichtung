@@ -96,3 +96,6 @@ L'affirmation mesurée est grossie en une interdiction de « tout plaisir », pu
 <!--t src=73a38485-->
 - [Wikipédia : Épouvantail (rhétorique)](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique))
 - [Logically Fallacious: Straw Man](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)
+
+<!--t src=0a83159f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md)

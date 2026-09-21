@@ -98,3 +98,6 @@ If a colleague seems nervous during a presentation, we infer a lack of competenc
 - [Wikipedia: Fundamental attribution error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 - Ross, L. (1977): "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"
 - Gilbert, D. T. & Malone, P. S. (1995): "The Correspondence Bias"
+
+<!--t src=7bfe33fa-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/040-Grundlagenirrtum.md)

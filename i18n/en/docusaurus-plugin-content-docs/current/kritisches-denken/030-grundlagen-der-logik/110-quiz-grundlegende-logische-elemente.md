@@ -73,3 +73,6 @@ translation_status: auto
 3. b) It is valid and all premises are true.
 4. c) If A, then B. Not B. Therefore not A.
 5. b) Natural substances are always safe.
+
+<!--t src=ba9fce6c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)

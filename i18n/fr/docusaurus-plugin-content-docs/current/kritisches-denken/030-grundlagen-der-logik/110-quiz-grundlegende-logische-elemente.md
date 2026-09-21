@@ -76,3 +76,6 @@ custom_translation_overwritten: false
 3. b) Il est valide et que toutes les prémisses sont vraies.
 4. c) Si A, alors B. Non B. Donc non A.
 5. b) Les substances naturelles sont toujours sûres.
+
+<!--t src=ba9fce6c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)

@@ -138,3 +138,6 @@ Source : SBCC Library, _SIFT & PICK_ ([libguides.sbcc.edu](https://libguides.sbc
 - [ ] **Financement/intérêts** transparents ?
 - [ ] **Preuves** présentes et traçables jusqu'à la source primaire ?
 - [ ] **Cui bono** : à qui cela profite-t-il ?
+
+<!--t src=7eb0a0c1-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md)

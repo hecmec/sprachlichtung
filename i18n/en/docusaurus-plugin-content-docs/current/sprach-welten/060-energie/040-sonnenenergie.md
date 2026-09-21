@@ -75,3 +75,6 @@ Whoever wants to judge in a self-determined way therefore asks concretely: how m
 
 <!--t src=5cc9df14-->
 [^solar]: Figures and charts on solar energy at [Fraunhofer ISE](https://www.ise.fraunhofer.de/), on price development and worldwide build-out at [Our World in Data – Energy](https://ourworldindata.org/energy). Real-time data on the German electricity mix are provided by the [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/); official data by the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien).
+
+<!--t src=4b6fb4fe-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/040-sonnenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/040-sonnenenergie.md)

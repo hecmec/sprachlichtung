@@ -118,3 +118,6 @@ Three patterns recur. First: decades often lie between an idea and its effect, b
 
 <!--t src=992b6aef-->
 [^transformer]: Ashish Vaswani et al.: _Attention Is All You Need_, NeurIPS, 2017.
+
+<!--t src=de80faea-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md)

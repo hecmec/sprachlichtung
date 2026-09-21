@@ -93,3 +93,6 @@ La pauvreté a en règle générale de multiples causes (éducation, santé, mar
 <!--t src=0c161116-->
 - [Wikipédia : Causal oversimplification](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause)
 - [Logically Fallacious: Causal Oversimplification](https://www.logicallyfallacious.com/logicalfallacies/Causal-Oversimplification)
+
+<!--t src=967c4196-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mono-kausales-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mono-kausales-denken.md)

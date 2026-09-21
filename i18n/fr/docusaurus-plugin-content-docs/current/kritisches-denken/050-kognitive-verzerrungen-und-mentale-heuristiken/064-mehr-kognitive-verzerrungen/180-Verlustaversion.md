@@ -112,3 +112,6 @@ Des primes excessives pour des assurances d'appareils et des garanties, afin d'�
 - [Wikipédia : Aversion à la perte](https://fr.wikipedia.org/wiki/Aversion_%C3%A0_la_perte)
   Aversion à la perte
   La tendance à accorder plus de poids aux pertes qu'aux gains.
+
+<!--t src=ea943aa6-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/180-Verlustaversion.md)

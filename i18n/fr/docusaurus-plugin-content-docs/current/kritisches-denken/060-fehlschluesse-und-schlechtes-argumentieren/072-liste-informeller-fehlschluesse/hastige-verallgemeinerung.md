@@ -92,3 +92,6 @@ Un cas isolé ne réfute aucune statistique. On ne peut en déduire aucune règl
 <!--t src=447f6628-->
 - [Wikipédia (fr) : Généralisation hâtive](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ralisation_h%C3%A2tive)
 - [Logically Fallacious: Hasty Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)
+
+<!--t src=56b1f8fa-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md)

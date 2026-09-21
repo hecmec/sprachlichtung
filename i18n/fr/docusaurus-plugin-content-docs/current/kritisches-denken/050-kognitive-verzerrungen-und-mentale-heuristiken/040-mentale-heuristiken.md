@@ -112,3 +112,6 @@ Les gens jugent les risques plus élevés lorsqu'ils y associent des sentiments 
 - Inadéquation : dans des situations complexes ou inhabituelles, elles peuvent conduire à de mauvaises décisions.
 - Inconscience : nous n'avons souvent pas conscience que nous utilisons des heuristiques.
 - Résistance : elles sont difficiles à surmonter, même lorsque nous en avons conscience.
+
+<!--t src=538856cf-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/040-mentale-heuristiken.md)

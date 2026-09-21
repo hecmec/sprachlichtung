@@ -153,3 +153,6 @@ Examples:
 - An athlete who does not boast after a victory, but also does not deny their achievement.
 - A manager who acts neither risk-averse nor reckless, but decides in a balanced way.
 - Someone who stays calm in a dispute and neither becomes abusive nor submits. -->
+
+<!--t src=29366076-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)

@@ -97,3 +97,6 @@ Wikipedia is an excellent **springboard**: get an overview, then follow the foot
 
 <!--t src=2c3e5ee4-->
 A useful side effect: looking up the Wikipedia entry of _another_ source is itself a form of lateral reading: this is how you quickly find out who is behind a newspaper, an association or an institute.
+
+<!--t src=1f8aa695-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/060-clever-suchen.md)

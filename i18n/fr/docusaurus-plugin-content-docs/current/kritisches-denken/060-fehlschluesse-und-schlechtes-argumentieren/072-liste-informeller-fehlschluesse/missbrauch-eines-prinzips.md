@@ -94,3 +94,6 @@ Le principe d'égalité exige de traiter _ce qui est semblable de manière sembl
 - [Wikipédia : Sophisme de l'accident](https://fr.wikipedia.org/wiki/Sophisme_de_l%27accident)
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Sweeping Generalization](https://www.logicallyfallacious.com/logicalfallacies/Sweeping-Generalization)
+
+<!--t src=6c94b61f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/missbrauch-eines-prinzips.md)

@@ -72,3 +72,6 @@ L'argumentation politique est un jeu de langage particulier, qui se distingue pa
 - Les bons arguments politiques sont clairs, logiques et reposent sur des faits vérifiables. Ils prennent en compte différentes perspectives et favorisent le dialogue.
 - Les mauvais arguments politiques, en revanche, sont souvent émotionnels, non objectifs ou manipulateurs. Ils peuvent reposer sur des informations erronées, des préjugés ou des attaques personnelles.
 - Il est important de questionner les arguments politiques de manière critique et d'évaluer la qualité de l'argumentation.
+
+<!--t src=78569cbf-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md)

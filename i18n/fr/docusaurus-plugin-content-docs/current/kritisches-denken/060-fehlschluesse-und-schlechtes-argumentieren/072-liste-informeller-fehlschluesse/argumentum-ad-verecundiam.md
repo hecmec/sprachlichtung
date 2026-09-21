@@ -94,3 +94,6 @@ Même un physicien éminent n'est pas automatiquement un spécialiste de la rech
 - [Wikipédia : Argument d'autorité](https://fr.wikipedia.org/wiki/Argument_d%27autorit%C3%A9)
 - [Wikipedia: Argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Logically Fallacious: Appeal to Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)
+
+<!--t src=bae3b065-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md)

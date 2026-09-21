@@ -70,3 +70,6 @@ Ainsi la phrase amère d'Orwell nous ramène à la tâche. L'affirmation que cer
 - 🇫🇷 Jürgen Habermas : _Morale et communication. Conscience morale et activité communicationnelle_, Cerf, Paris 1986 (traduction française du précédent).
 - 🇬🇧 Richard Rorty : _Contingency, Irony, and Solidarity_, 1989.
 - 🇫🇷 Richard Rorty : _Contingence, ironie et solidarité_, Armand Colin, Paris 1993.
+
+<!--t src=14f54925-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/030-gleichheit.md)

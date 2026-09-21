@@ -734,3 +734,6 @@ The philosopher Karl Popper put it in a nutshell: _"I may be wrong and you may b
 <!--t src=c4e9cf76-->
 <!-- The answer to these questions is always the same:
   unbiased rational inquiry. -->
+
+<!--t src=8f9faf06-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md)

@@ -82,3 +82,6 @@ La fausse nouvelle la plus dangereuse est celle que nous _voulons_ croire. C'est
 
 <!--t src=8316e077-->
 Comment procéder concrètement à cette vérification, c'est ce que montre la page suivante, avec la méthode la plus simple et la plus efficace qui soit.
+
+<!--t src=5cfb7d4b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md)

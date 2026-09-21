@@ -75,3 +75,6 @@ Whoever knows how little their own body produces and how much foreign energy is 
 
 <!--t src=557e25f9-->
 [^strompreis]: Current electricity prices for households are documented e.g. by the [German Federal Statistical Office (Destatis)](https://www.destatis.de/) and the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien).
+
+<!--t src=b1ef2e57-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/020-menschenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/020-menschenenergie.md)

@@ -72,3 +72,6 @@ Political argumentation is a special language game distinguished by certain feat
 - Good political arguments are clear, logical and based on verifiable facts. They take various perspectives into account and foster dialogue.
 - Bad political arguments, by contrast, are often emotional, unobjective or manipulative. They can be based on misinformation, prejudices or personal attacks.
 - It is important to question political arguments critically and to assess the quality of the argumentation.
+
+<!--t src=78569cbf-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md)

@@ -130,3 +130,6 @@ Ici aussi, l'argument avancé est faible. La nocivité du tabac est cependant bi
 - [Wikipédia : Argumentum ad logicam](https://fr.wikipedia.org/wiki/Argumentum_ad_logicam)
 - [Wikipedia: Argument from fallacy](https://en.wikipedia.org/wiki/Argument_from_fallacy)
 - [Logically Fallacious: The Fallacy Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Fallacy-Fallacy)
+
+<!--t src=51c2a1f3-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md)

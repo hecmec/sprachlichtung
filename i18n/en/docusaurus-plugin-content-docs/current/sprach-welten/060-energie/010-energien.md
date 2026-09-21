@@ -98,3 +98,6 @@ You don't have to be a physicist to have a say on energy. It is enough to know t
 
 <!--t src=bda7d6c4-->
 [^endenergie]: "World energy supply and consumption," in: Wikipedia, [en.wikipedia.org/wiki/World_energy_supply_and_consumption](https://en.wikipedia.org/wiki/World_energy_supply_and_consumption). On the decoupling of economic growth and energy consumption see also [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=3c6ba513-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/010-energien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/010-energien.md)

@@ -90,3 +90,6 @@ Seule la reconstruction rend possible une évaluation équitable. Avec la struct
 
 <!--t src=c91ce14d-->
 Dans les pages suivantes, nous approfondissons la détection des hypothèses cachées et nous nous exerçons à l'analyse sur des exemples concrets.
+
+<!--t src=ab0b12d7-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)

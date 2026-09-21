@@ -79,3 +79,6 @@ custom_translation_overwritten: false
 3. c) Abduction
 4. b) "Computers work similarly to the human brain. Computers cannot solve certain tasks. So the human brain probably cannot solve these tasks either."
 5. b) Change of perspective
+
+<!--t src=344e5acf-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md)
