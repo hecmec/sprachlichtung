@@ -40,27 +40,27 @@ Reflect on your intellectual virtues and vices. Rate yourself on a scale from 1 
 
 **Intellectual virtues:**
 
-- Intellectual curiosity: \_ \_ \_ \_ \_
-- Intellectual humility: \_ \_ \_ \_ \_
-- Intellectual autonomy: \_ \_ \_ \_ \_
-- Intellectual integrity: \_ \_ \_ \_ \_
-- Intellectual perseverance: \_ \_ \_ \_ \_
-- Intellectual fairness: \_ \_ \_ \_ \_
-- Intellectual courage: \_ \_ \_ \_ \_
-- Intellectual empathy: \_ \_ \_ \_ \_
+- Intellectual curiosity: . . . . . .
+- Intellectual humility: . . . . . .
+- Intellectual autonomy: . . . . . .
+- Intellectual integrity: . . . . . .
+- Intellectual perseverance: . . . . . .
+- Intellectual fairness: . . . . . .
+- Intellectual courage: . . . . . .
+- Intellectual empathy: . . . . . .
 
 <!--t src=f88b7cd9-->
 
 **Intellectual vices:**
 
-- Intellectual arrogance: \_ \_ \_ \_ \_
-- Intellectual laziness: \_ \_ \_ \_ \_
-- Intellectual cowardice: \_ \_ \_ \_ \_
-- Intellectual dishonesty: \_ \_ \_ \_ \_
-- Intellectual narrow-mindedness: \_ \_ \_ \_ \_
-- Intellectual impatience: \_ \_ \_ \_ \_
-- Intellectual egocentrism: \_ \_ \_ \_ \_
-- Intellectual conformity: \_ \_ \_ \_ \_
+- Intellectual arrogance: . . . . . .
+- Intellectual laziness: . . . . . .
+- Intellectual cowardice: . . . . . .
+- Intellectual dishonesty: . . . . . .
+- Intellectual narrow-mindedness: . . . . . .
+- Intellectual impatience: . . . . . .
+- Intellectual egocentrism: . . . . . .
+- Intellectual conformity: . . . . . .
 
 <!--t src=79996d7c-->
 
