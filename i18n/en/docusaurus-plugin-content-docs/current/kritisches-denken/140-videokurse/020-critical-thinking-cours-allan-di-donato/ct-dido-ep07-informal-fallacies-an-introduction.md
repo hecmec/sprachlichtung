@@ -58,3 +58,5 @@ The course organizes informal fallacies into three families (a "fallacy family t
 Textbooks organize and name these fallacies differently, and a single argument often commits **more than one** fallacy at once, so two careful analysts may legitimately spot different errors in the same example.
 
 The next episode begins with the first and smallest (and often most humorous) family: the **fallacies of ambiguity**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction)

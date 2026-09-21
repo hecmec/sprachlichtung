@@ -65,12 +65,12 @@ Nach mehreren Folgen über kategoriale Logik kehrt dieses Video zu einer anderen
 <div className="row">
 <div className="col col--6">
 
-Whereas the fundamental elements of categorical logic were **terms** (subject, predicate, middle), the fundamental elements of propositional logic are **statements** or **propositions**, hence the name. Statements can be **simple** (also called **atomic**), such as "fast foods tend to be unhealthy," or **compound**, such as "Chuck Berry plays the guitar and Fats Domino plays the piano," which joins two atomic statements with the operator *and*.
+Whereas the fundamental elements of categorical logic were **terms** (subject, predicate, middle), the fundamental elements of propositional logic are **statements** or **propositions**, hence the name. Statements can be **simple** (also called **atomic**), such as "fast foods tend to be unhealthy," or **compound**, such as "Chuck Berry plays the guitar and Fats Domino plays the piano," which joins two atomic statements with the operator _and_.
 
 </div>
 <div className="col col--6 video-translation">
 
-Während die grundlegenden Elemente der kategorialen Logik **Terme** waren (Subjekt, Prädikat, Mittelbegriff), sind die grundlegenden Elemente der Aussagenlogik **Aussagen** oder **Propositionen**, daher der Name. Aussagen können **einfach** (auch **atomar** genannt) sein, wie „Fast Food ist tendenziell ungesund", oder **zusammengesetzt**, wie „Chuck Berry spielt Gitarre und Fats Domino spielt Klavier", was zwei atomare Aussagen mit dem Operator *und* verbindet.
+Während die grundlegenden Elemente der kategorialen Logik **Terme** waren (Subjekt, Prädikat, Mittelbegriff), sind die grundlegenden Elemente der Aussagenlogik **Aussagen** oder **Propositionen**, daher der Name. Aussagen können **einfach** (auch **atomar** genannt) sein, wie „Fast Food ist tendenziell ungesund", oder **zusammengesetzt**, wie „Chuck Berry spielt Gitarre und Fats Domino spielt Klavier", was zwei atomare Aussagen mit dem Operator _und_ verbindet.
 
 </div>
 </div>
@@ -117,16 +117,16 @@ Die Sprache hat mehrere Arten von Symbolen:
 <div className="row">
 <div className="col col--6">
 
-- **Statement variables**: lowercase letters *p* through *z* stand for any proposition and are used to build general **statement forms** (e.g., *p · q*). Substituting specific content gives a **substitution instance**.
-- **Statement abbreviations**: uppercase letters *A* through *Z* abbreviate specific propositions. "I am Batman" can become *B*, no matter how long or complex the original sentence is.
-- The **conclusion indicator** (the **tri-dot**, which Di Donato calls the "Predator sight") translates as *therefore* or *so*.
+- **Statement variables**: lowercase letters _p_ through _z_ stand for any proposition and are used to build general **statement forms** (e.g., _p · q_). Substituting specific content gives a **substitution instance**.
+- **Statement abbreviations**: uppercase letters _A_ through _Z_ abbreviate specific propositions. "I am Batman" can become _B_, no matter how long or complex the original sentence is.
+- The **conclusion indicator** (the **tri-dot**, which Di Donato calls the "Predator sight") translates as _therefore_ or _so_.
 
 </div>
 <div className="col col--6 video-translation">
 
-- **Aussagenvariablen**: die Kleinbuchstaben *p* bis *z* stehen für eine beliebige Proposition und werden verwendet, um allgemeine **Aussageformen** zu bilden (z. B. *p · q*). Das Einsetzen konkreten Inhalts ergibt eine **Substitutionsinstanz**.
-- **Aussagenabkürzungen**: die Großbuchstaben *A* bis *Z* kürzen bestimmte Propositionen ab. „Ich bin Batman" kann zu *B* werden, egal wie lang oder komplex der ursprüngliche Satz ist.
-- Der **Schlussfolgerungsindikator** (die **drei Punkte**, die Di Donato das „Predator-Visier" nennt) wird als *also* oder *daher* übersetzt.
+- **Aussagenvariablen**: die Kleinbuchstaben _p_ bis _z_ stehen für eine beliebige Proposition und werden verwendet, um allgemeine **Aussageformen** zu bilden (z. B. _p · q_). Das Einsetzen konkreten Inhalts ergibt eine **Substitutionsinstanz**.
+- **Aussagenabkürzungen**: die Großbuchstaben _A_ bis _Z_ kürzen bestimmte Propositionen ab. „Ich bin Batman" kann zu _B_ werden, egal wie lang oder komplex der ursprüngliche Satz ist.
+- Der **Schlussfolgerungsindikator** (die **drei Punkte**, die Di Donato das „Predator-Visier" nennt) wird als _also_ oder _daher_ übersetzt.
 
 </div>
 </div>
@@ -160,21 +160,21 @@ Operatoren verbinden oder modifizieren Aussagen und bestimmen den Gesamtwahrheit
 <div className="row">
 <div className="col col--6">
 
-- **Negation** (the **tilde**, ~) means *not* or "it is not the case that," reversing the truth value of a proposition.
-- The **hypothetical** or conditional (**horseshoe** ⊃ or **arrow** →) translates *if p then q* and expresses **material implication**.
-- The **disjunction** (the **wedge** ∨) joins **disjuncts** to express *either p or q*.
-- The **conjunction** (the **dot** · or **ampersand** &) joins **conjuncts** to express *both p and q*.
-- The **biconditional** (the **tri-bar** ≡ or **double-sided arrow** ↔) expresses **material equivalence**, *p if and only if q*.
+- **Negation** (the **tilde**, ~) means _not_ or "it is not the case that," reversing the truth value of a proposition.
+- The **hypothetical** or conditional (**horseshoe** ⊃ or **arrow** →) translates _if p then q_ and expresses **material implication**.
+- The **disjunction** (the **wedge** ∨) joins **disjuncts** to express _either p or q_.
+- The **conjunction** (the **dot** · or **ampersand** &) joins **conjuncts** to express _both p and q_.
+- The **biconditional** (the **tri-bar** ≡ or **double-sided arrow** ↔) expresses **material equivalence**, _p if and only if q_.
 - **Brackets** (parentheses) are essential for removing ambiguity in compound statements with several operators.
 
 </div>
 <div className="col col--6 video-translation">
 
-- **Negation** (die **Tilde**, ~) bedeutet *nicht* oder „es ist nicht der Fall, dass" und kehrt den Wahrheitswert einer Proposition um.
-- Das **Hypothetische** oder Konditional (**Hufeisen** ⊃ oder **Pfeil** →) übersetzt *wenn p dann q* und drückt die **materiale Implikation** aus.
-- Die **Disjunktion** (der **Keil** ∨) verbindet **Disjunkte**, um *entweder p oder q* auszudrücken.
-- Die **Konjunktion** (der **Punkt** · oder das **Et-Zeichen** &) verbindet **Konjunkte**, um *sowohl p als auch q* auszudrücken.
-- Das **Bikonditional** (der **Dreifachbalken** ≡ oder **beidseitige Pfeil** ↔) drückt die **materiale Äquivalenz** aus, *p genau dann, wenn q*.
+- **Negation** (die **Tilde**, ~) bedeutet _nicht_ oder „es ist nicht der Fall, dass" und kehrt den Wahrheitswert einer Proposition um.
+- Das **Hypothetische** oder Konditional (**Hufeisen** ⊃ oder **Pfeil** →) übersetzt _wenn p dann q_ und drückt die **materiale Implikation** aus.
+- Die **Disjunktion** (der **Keil** ∨) verbindet **Disjunkte**, um _entweder p oder q_ auszudrücken.
+- Die **Konjunktion** (der **Punkt** · oder das **Et-Zeichen** &) verbindet **Konjunkte**, um _sowohl p als auch q_ auszudrücken.
+- Das **Bikonditional** (der **Dreifachbalken** ≡ oder **beidseitige Pfeil** ↔) drückt die **materiale Äquivalenz** aus, _p genau dann, wenn q_.
 - **Klammern** sind wesentlich, um Mehrdeutigkeit in zusammengesetzten Aussagen mit mehreren Operatoren zu beseitigen.
 
 </div>
@@ -209,18 +209,18 @@ Jeder Operator hat seine eigenen Wahrheitsbedingungen:
 <div className="row">
 <div className="col col--6">
 
-- A **hypothetical** is always true *except* when the antecedent is true and the consequent is false.
+- A **hypothetical** is always true _except_ when the antecedent is true and the consequent is false.
 - A **disjunction** is true as long as at least one disjunct is true; it is false only when both are false.
-- A **conjunction** is true *only* when both conjuncts are true.
-- A **biconditional** is true *only* when both components share the same truth value.
+- A **conjunction** is true _only_ when both conjuncts are true.
+- A **biconditional** is true _only_ when both components share the same truth value.
 
 </div>
 <div className="col col--6 video-translation">
 
-- Ein **Hypothetisches** ist immer wahr, *außer* wenn das Antezedens wahr und das Konsequens falsch ist.
+- Ein **Hypothetisches** ist immer wahr, _außer_ wenn das Antezedens wahr und das Konsequens falsch ist.
 - Eine **Disjunktion** ist wahr, solange mindestens ein Disjunkt wahr ist; sie ist nur falsch, wenn beide falsch sind.
-- Eine **Konjunktion** ist *nur* wahr, wenn beide Konjunkte wahr sind.
-- Ein **Bikonditional** ist *nur* wahr, wenn beide Komponenten denselben Wahrheitswert teilen.
+- Eine **Konjunktion** ist _nur_ wahr, wenn beide Konjunkte wahr sind.
+- Ein **Bikonditional** ist _nur_ wahr, wenn beide Komponenten denselben Wahrheitswert teilen.
 
 </div>
 </div>
@@ -228,12 +228,12 @@ Jeder Operator hat seine eigenen Wahrheitsbedingungen:
 <div className="row">
 <div className="col col--6">
 
-Di Donato also notes that some compound propositions are **not** truth-functional. With connectives like *because*, *believes that*, or *hopes that*, the truth of the whole is not fixed by the truth of the parts. "Joe failed because he didn't turn in his homework" requires a genuine causal link, and "Joe believed the sun revolves around the earth" is true so long as Joe holds that belief, regardless of whether the belief itself is true.
+Di Donato also notes that some compound propositions are **not** truth-functional. With connectives like _because_, _believes that_, or _hopes that_, the truth of the whole is not fixed by the truth of the parts. "Joe failed because he didn't turn in his homework" requires a genuine causal link, and "Joe believed the sun revolves around the earth" is true so long as Joe holds that belief, regardless of whether the belief itself is true.
 
 </div>
 <div className="col col--6 video-translation">
 
-Di Donato merkt außerdem an, dass manche zusammengesetzten Propositionen **nicht** wahrheitsfunktional sind. Bei Bindewörtern wie *weil*, *glaubt, dass* oder *hofft, dass* ist die Wahrheit des Ganzen nicht durch die Wahrheit der Teile festgelegt. „Joe fiel durch, weil er seine Hausaufgaben nicht abgab" erfordert einen echten kausalen Zusammenhang, und „Joe glaubte, die Sonne drehe sich um die Erde" ist wahr, solange Joe diese Überzeugung hegt, unabhängig davon, ob die Überzeugung selbst wahr ist.
+Di Donato merkt außerdem an, dass manche zusammengesetzten Propositionen **nicht** wahrheitsfunktional sind. Bei Bindewörtern wie _weil_, _glaubt, dass_ oder _hofft, dass_ ist die Wahrheit des Ganzen nicht durch die Wahrheit der Teile festgelegt. „Joe fiel durch, weil er seine Hausaufgaben nicht abgab" erfordert einen echten kausalen Zusammenhang, und „Joe glaubte, die Sonne drehe sich um die Erde" ist wahr, solange Joe diese Überzeugung hegt, unabhängig davon, ob die Überzeugung selbst wahr ist.
 
 </div>
 </div>
@@ -254,12 +254,12 @@ Di Donato merkt außerdem an, dass manche zusammengesetzten Propositionen **nich
 <div className="row">
 <div className="col col--6">
 
-A large part of the lesson is learning which English words signal which operator. For **hypotheticals**, the word *if* introduces the **antecedent** and *then* the **consequent**. The tricky phrase *only if* points instead to the **consequent**, so "p only if q" is *p ⊃ q*. A **necessary condition** is the consequent; a **sufficient condition** is the antecedent. Phrases like *implies*, *entails*, *given that*, *provided that*, and *on the condition that* all point to the antecedent, while *is implied by* or *is entailed by* point to the consequent.
+A large part of the lesson is learning which English words signal which operator. For **hypotheticals**, the word _if_ introduces the **antecedent** and _then_ the **consequent**. The tricky phrase _only if_ points instead to the **consequent**, so "p only if q" is _p ⊃ q_. A **necessary condition** is the consequent; a **sufficient condition** is the antecedent. Phrases like _implies_, _entails_, _given that_, _provided that_, and _on the condition that_ all point to the antecedent, while _is implied by_ or _is entailed by_ point to the consequent.
 
 </div>
 <div className="col col--6 video-translation">
 
-Ein großer Teil der Lektion besteht darin zu lernen, welche englischen Wörter welchen Operator signalisieren. Bei **Hypothetischen** führt das Wort *if* (wenn) das **Antezedens** ein und *then* (dann) das **Konsequens**. Die knifflige Wendung *only if* (nur wenn) weist stattdessen auf das **Konsequens**, sodass „p only if q" *p ⊃ q* ist. Eine **notwendige Bedingung** ist das Konsequens; eine **hinreichende Bedingung** ist das Antezedens. Wendungen wie *implies*, *entails*, *given that*, *provided that* und *on the condition that* weisen alle auf das Antezedens, während *is implied by* oder *is entailed by* auf das Konsequens weisen.
+Ein großer Teil der Lektion besteht darin zu lernen, welche englischen Wörter welchen Operator signalisieren. Bei **Hypothetischen** führt das Wort _if_ (wenn) das **Antezedens** ein und _then_ (dann) das **Konsequens**. Die knifflige Wendung _only if_ (nur wenn) weist stattdessen auf das **Konsequens**, sodass „p only if q" _p ⊃ q_ ist. Eine **notwendige Bedingung** ist das Konsequens; eine **hinreichende Bedingung** ist das Antezedens. Wendungen wie _implies_, _entails_, _given that_, _provided that_ und _on the condition that_ weisen alle auf das Antezedens, während _is implied by_ oder _is entailed by_ auf das Konsequens weisen.
 
 </div>
 </div>
@@ -267,12 +267,12 @@ Ein großer Teil der Lektion besteht darin zu lernen, welche englischen Wörter 
 <div className="row">
 <div className="col col--6">
 
-For **disjunctions**, watch for *either…or*, plain *or*, and the counter-intuitive *unless* ("p unless q" equals *p ∨ q*). **Conjunctions** are signaled not only by *and* and *both…and* but also by *although*, *but*, *even though*, *however*, *nevertheless*, and *yet*. The **biconditional** appears as *if and only if*, *a necessary and sufficient condition*, and *just in case*.
+For **disjunctions**, watch for _either…or_, plain _or_, and the counter-intuitive _unless_ ("p unless q" equals _p ∨ q_). **Conjunctions** are signaled not only by _and_ and _both…and_ but also by _although_, _but_, _even though_, _however_, _nevertheless_, and _yet_. The **biconditional** appears as _if and only if_, _a necessary and sufficient condition_, and _just in case_.
 
 </div>
 <div className="col col--6 video-translation">
 
-Bei **Disjunktionen** achte auf *either … or*, das schlichte *or* und das kontraintuitive *unless* („p unless q" entspricht *p ∨ q*). **Konjunktionen** werden nicht nur durch *and* und *both … and* signalisiert, sondern auch durch *although*, *but*, *even though*, *however*, *nevertheless* und *yet*. Das **Bikonditional** erscheint als *if and only if*, *a necessary and sufficient condition* und *just in case*.
+Bei **Disjunktionen** achte auf _either … or_, das schlichte _or_ und das kontraintuitive _unless_ („p unless q" entspricht _p ∨ q_). **Konjunktionen** werden nicht nur durch _and_ und _both … and_ signalisiert, sondern auch durch _although_, _but_, _even though_, _however_, _nevertheless_ und _yet_. Das **Bikonditional** erscheint als _if and only if_, _a necessary and sufficient condition_ und _just in case_.
 
 </div>
 </div>
@@ -306,20 +306,20 @@ Di Donato schließt mit Übungsübersetzungen:
 <div className="row">
 <div className="col col--6">
 
-- "The ringing of the bell is sufficient for the dog to start salivating" → *R ⊃ D* (the sufficient item is the antecedent).
-- "Mark watches TV unless Jim goes to the bank" → *M ∨ J*.
-- "It's not the case that both Sean and Deirdre are dancers" → *~(S · D)*.
-- "Neither Bill nor Jeff play football" → *~(B ∨ J)*, a negated disjunction.
-- "Jules likes pizza even though Luigi likes lasagna just in case either Moshe likes mozzarella or Henry likes Limburger" → *(J · L) ≡ (M ∨ H)*, showing how brackets keep complex forms clear.
+- "The ringing of the bell is sufficient for the dog to start salivating" → _R ⊃ D_ (the sufficient item is the antecedent).
+- "Mark watches TV unless Jim goes to the bank" → _M ∨ J_.
+- "It's not the case that both Sean and Deirdre are dancers" → _~(S · D)_.
+- "Neither Bill nor Jeff play football" → _~(B ∨ J)_, a negated disjunction.
+- "Jules likes pizza even though Luigi likes lasagna just in case either Moshe likes mozzarella or Henry likes Limburger" → _(J · L) ≡ (M ∨ H)_, showing how brackets keep complex forms clear.
 
 </div>
 <div className="col col--6 video-translation">
 
-- „The ringing of the bell is sufficient for the dog to start salivating" → *R ⊃ D* (das Hinreichende ist das Antezedens).
-- „Mark watches TV unless Jim goes to the bank" → *M ∨ J*.
-- „It's not the case that both Sean and Deirdre are dancers" → *~(S · D)*.
-- „Neither Bill nor Jeff play football" → *~(B ∨ J)*, eine negierte Disjunktion.
-- „Jules likes pizza even though Luigi likes lasagna just in case either Moshe likes mozzarella or Henry likes Limburger" → *(J · L) ≡ (M ∨ H)*, was zeigt, wie Klammern komplexe Formen klar halten.
+- „The ringing of the bell is sufficient for the dog to start salivating" → _R ⊃ D_ (das Hinreichende ist das Antezedens).
+- „Mark watches TV unless Jim goes to the bank" → _M ∨ J_.
+- „It's not the case that both Sean and Deirdre are dancers" → _~(S · D)_.
+- „Neither Bill nor Jeff play football" → _~(B ∨ J)_, eine negierte Disjunktion.
+- „Jules likes pizza even though Luigi likes lasagna just in case either Moshe likes mozzarella or Henry likes Limburger" → _(J · L) ≡ (M ∨ H)_, was zeigt, wie Klammern komplexe Formen klar halten.
 
 </div>
 </div>
@@ -336,3 +336,5 @@ Die Folge endet mit einer Vorschau auf das nächste Thema: diese Elemente zu ver
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese)

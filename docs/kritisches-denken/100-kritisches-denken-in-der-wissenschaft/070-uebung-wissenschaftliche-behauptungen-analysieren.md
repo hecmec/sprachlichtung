@@ -105,3 +105,5 @@ Analysieren Sie eine potenziell pseudowissenschaftliche Behauptung anhand folgen
 7. **Schlussfolgerung**:
    - Handelt es sich eher um Wissenschaft oder Pseudowissenschaft?
    - Welche Merkmale waren für Ihre Einschätzung ausschlaggebend?
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren)

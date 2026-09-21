@@ -42,3 +42,6 @@ Dans ce chapitre, nous nous sommes penchés sur la manipulation et les stratégi
 
 <!--t src=3ab58961-->
 La capacité à reconnaître la manipulation et à y résister est une compétence essentielle de la pensée critique. Dans un monde imprégné de publicité, de propagande politique, de désinformation et de techniques d'influence subtiles, la pensée critique nous aide à prendre des décisions éclairées et autonomes.
+
+<!--t src=0305e284-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/zusammenfassung)

@@ -21,7 +21,7 @@ controls src='https://youtu.be/roRIPM3i0ZM' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 3:41. Original title: *CRITICAL THINKING - Cognitive Biases: Pricing Biases [HD]*
+Wireless Philosophy, Cognitive Biases, 3:41. Original title: _CRITICAL THINKING - Cognitive Biases: Pricing Biases [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -191,3 +191,5 @@ Weil unser Denken annimmt, ein höherer Preis bedeute bessere Qualität, selbst 
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases)

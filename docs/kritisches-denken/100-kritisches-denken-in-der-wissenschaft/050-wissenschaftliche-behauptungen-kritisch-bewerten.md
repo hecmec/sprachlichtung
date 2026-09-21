@@ -24,6 +24,7 @@ In einer Welt, in der wir ständig mit wissenschaftlichen oder pseudowissenschaf
 **Pseudowissenschaft** bezeichnet Praktiken oder Behauptungen, die den Anschein von Wissenschaftlichkeit erwecken, aber grundlegende wissenschaftliche Prinzipien verletzen.
 
 **Merkmale von Pseudowissenschaft:**
+
 - **Immunisierung gegen Kritik**: Theorien werden so formuliert, dass sie nicht falsifizierbar sind.
 - **Selektive Evidenz**: Belege werden selektiv ausgewählt, widersprüchliche Evidenz ignoriert.
 - **Mangel an Präzision**: Vage, mehrdeutige Begriffe und Behauptungen.
@@ -33,6 +34,7 @@ In einer Welt, in der wir ständig mit wissenschaftlichen oder pseudowissenschaf
 - **Autoritätsberufung**: Übermäßige Betonung der Qualifikationen oder des Status einzelner Personen.
 
 **Beispiele für Pseudowissenschaften:**
+
 - Astrologie
 - Homöopathie
 - Kreationismus/Intelligent Design
@@ -46,32 +48,32 @@ Es ist wichtig zu betonen, dass die Grenze zwischen Wissenschaft und Pseudowisse
 Bei der Bewertung wissenschaftlicher Studien sollten folgende Aspekte berücksichtigt werden:
 
 1. **Studiendesign**: Welche Art von Studie wurde durchgeführt? Randomisierte kontrollierte Studien bieten in der Regel stärkere Evidenz als Beobachtungsstudien.
-   
-   *Fragen*: War die Studie experimentell oder beobachtend? Gab es eine Kontrollgruppe? Wurden Teilnehmer randomisiert?
+
+   _Fragen_: War die Studie experimentell oder beobachtend? Gab es eine Kontrollgruppe? Wurden Teilnehmer randomisiert?
 
 2. **Stichprobe**: Wie wurden die Teilnehmer ausgewählt, und wie repräsentativ sind sie?
-   
-   *Fragen*: Wie groß war die Stichprobe? Wie wurden die Teilnehmer rekrutiert? Gibt es mögliche Selektionsverzerrungen?
+
+   _Fragen_: Wie groß war die Stichprobe? Wie wurden die Teilnehmer rekrutiert? Gibt es mögliche Selektionsverzerrungen?
 
 3. **Methodik**: Waren die verwendeten Methoden angemessen und robust?
-   
-   *Fragen*: Wurden standardisierte, validierte Messverfahren verwendet? Waren die Methoden transparent dokumentiert? Gab es potenzielle Verzerrungen?
+
+   _Fragen_: Wurden standardisierte, validierte Messverfahren verwendet? Waren die Methoden transparent dokumentiert? Gab es potenzielle Verzerrungen?
 
 4. **Statistische Analyse**: Wurden angemessene statistische Verfahren verwendet?
-   
-   *Fragen*: Waren die statistischen Tests für die Daten und Fragestellung geeignet? Wurde die statistische Signifikanz korrekt interpretiert? Wurde die Effektgröße berichtet?
+
+   _Fragen_: Waren die statistischen Tests für die Daten und Fragestellung geeignet? Wurde die statistische Signifikanz korrekt interpretiert? Wurde die Effektgröße berichtet?
 
 5. **Interpretation**: Werden die Schlussfolgerungen durch die Daten gestützt?
-   
-   *Fragen*: Gehen die Schlussfolgerungen über die Daten hinaus? Werden alternative Erklärungen berücksichtigt? Werden Einschränkungen der Studie diskutiert?
+
+   _Fragen_: Gehen die Schlussfolgerungen über die Daten hinaus? Werden alternative Erklärungen berücksichtigt? Werden Einschränkungen der Studie diskutiert?
 
 6. **Publikationskontext**: Wo und wie wurde die Studie veröffentlicht?
-   
-   *Fragen*: Wurde die Studie in einer peer-reviewten Fachzeitschrift veröffentlicht? Gibt es mögliche Interessenkonflikte? Wurde die Studie präregistriert?
+
+   _Fragen_: Wurde die Studie in einer peer-reviewten Fachzeitschrift veröffentlicht? Gibt es mögliche Interessenkonflikte? Wurde die Studie präregistriert?
 
 7. **Replikation und Konsistenz**: Stehen die Ergebnisse im Einklang mit anderen Studien?
-   
-   *Fragen*: Wurden die Ergebnisse in unabhängigen Studien repliziert? Fügen sie sich in den breiteren Forschungskontext ein?
+
+   _Fragen_: Wurden die Ergebnisse in unabhängigen Studien repliziert? Fügen sie sich in den breiteren Forschungskontext ein?
 
 ## Umgang mit wissenschaftlicher Unsicherheit
 
@@ -123,3 +125,5 @@ Die Vermittlung wissenschaftlicher Erkenntnisse an die Öffentlichkeit ist mit b
    - Vermeidung von Übertreibungen und unbegründeten Spekulationen
    - Berücksichtigung des Vorwissens und der Bedürfnisse des Publikums
    - Förderung des wissenschaftlichen Verständnisses in der Öffentlichkeit
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten)

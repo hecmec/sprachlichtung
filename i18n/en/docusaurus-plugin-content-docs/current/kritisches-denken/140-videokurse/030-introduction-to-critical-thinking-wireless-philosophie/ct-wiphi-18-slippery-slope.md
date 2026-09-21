@@ -52,3 +52,5 @@ Wu closes with an example for viewers to assess themselves: a 2012 proposal by t
 ### Key takeaway
 
 A slippery slope argument is only as strong as the chain connecting its steps; testing whether the claimed effects are really bad, whether they are really likely to follow, and whether the costs truly outweigh the benefits shows when the argument holds and when the slope is not actually so slippery.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope)

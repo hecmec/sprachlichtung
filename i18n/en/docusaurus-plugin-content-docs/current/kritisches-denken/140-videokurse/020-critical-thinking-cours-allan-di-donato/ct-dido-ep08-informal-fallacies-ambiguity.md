@@ -74,3 +74,5 @@ Using **complicated or technical language** to sound smart or scientific and sil
 ### Practice
 
 This only scratches the surface: the best approach is to review the examples and **practice spotting ambiguity** yourself. Next comes the much larger family, the **fallacies of relevance**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity)

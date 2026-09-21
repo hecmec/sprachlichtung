@@ -30,3 +30,7 @@ custom_translation_overwritten: false
 
 <!--t src=07c849dc-->
 ## Language and society
+
+<!--t src=a54d02b2-->
+
+[Article en français](pathname:///fr/docs/sprach-welten/medien-quellen/podcasts)

@@ -72,3 +72,4 @@ La relation joue aussi dans l’autre sens. La laïcité n’est jamais acquise 
   Introduction du Module Laïcité
    -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite)

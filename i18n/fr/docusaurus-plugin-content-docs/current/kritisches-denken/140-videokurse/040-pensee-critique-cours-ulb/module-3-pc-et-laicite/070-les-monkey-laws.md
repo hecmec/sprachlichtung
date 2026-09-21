@@ -75,3 +75,4 @@ Le mécanisme le plus instructif est peut-être le plus discret : ce ne sont pas
 <!-- href="https://www.youtube.com/watch?v=7OlTR7n12iU"
   Pensée critique - Les Monkey Laws - 07 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-les-monkey-laws) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-les-monkey-laws)

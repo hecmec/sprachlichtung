@@ -337,3 +337,5 @@ L’épisode s’achève en annonçant le sujet suivant : l’emploi de ces él�
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep29-propositional-logic-symbolese)

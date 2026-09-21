@@ -160,3 +160,5 @@ The **idéologues** mark this transformation by applying reason to **every domai
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen)

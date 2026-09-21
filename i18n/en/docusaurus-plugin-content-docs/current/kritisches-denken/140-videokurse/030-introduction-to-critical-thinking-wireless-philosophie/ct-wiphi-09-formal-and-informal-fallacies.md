@@ -71,3 +71,5 @@ The trouble with the feather is the two meanings of "light", light in weight and
 ### Key takeaway
 
 A formal fallacy is a defect in the argument's form, so any argument of that shape is invalid. An informal fallacy is a defect in the argument's content, which may in turn produce a defect in its form. An argument can therefore have true premises and an apparently valid form and still commit a fallacy.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies)

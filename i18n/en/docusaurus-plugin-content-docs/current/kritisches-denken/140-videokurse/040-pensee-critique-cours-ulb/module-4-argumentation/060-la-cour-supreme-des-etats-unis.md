@@ -87,3 +87,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=nhHnPFiB6uY"
   Pensée critique - La cour suprême des États-Unis - 06 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-cour-supreme) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-cour-supreme)

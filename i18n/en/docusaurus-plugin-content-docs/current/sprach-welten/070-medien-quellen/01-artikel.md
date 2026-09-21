@@ -18,23 +18,29 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=3d878f80-->
+
 - Here are a few introductory articles on language, critical thinking and philosophy.
 - We keep adding new ones.
 
 <!--t src=d9064981-->
+
 ## Critical thinking
 
 <!--t src=001ba343-->
+
 ### Foundational
 
 <!--t src=78acc7d4-->
+
 - 🇩🇪 [Paul R., Elder L. (2008). Kritisches Denken, Begriffe & Tools, Ein Leitfaden im Taschenformat](https://www.criticalthinking.org/data/pages/65/0942a6869e3fecf0491debf6af6cb9846504e18baf508.pdf) &mdash; Criticalthinking.org
 - 🇩🇪 [Dorota Gierszewski. Die Kraft des kritischen Denkens. Sind Fähigkeiten wichtiger als Wissen?](https://epale.ec.europa.eu/de/blog/die-kraft-des-kritischen-denkens-sind-faehigkeiten-wichtiger-als-wissen) &mdash; Epale, European Commission
 
 <!--t src=c696b4d4-->
+
 ### Popular
 
 <!--t src=cd558488-->
+
 - 🇩🇪 [Die Kompetenz des kritischen Denkens &mdash; analysiert vor dem Hintergrund der KI-Debatte in der Bildung](https://ebildungslabor.de/blog/die-kompetenz-des-kritischen-denkens-analysiert-vor-dem-hintergrund-der-ki-debatte-in-der-bildung/) &mdash; ebildungslabor.de
 - 🇩🇪 [Die Bedeutung des kritischen Denkens in der modernen Gesellschaft](https://digitales-institut.de/die-bedeutung-des-kritischen-denkens-in-der-modernen-gesellschaft/) &mdash; digitales-institut.de
 - 🇩🇪 [Kritisches Denken in Zeiten von Fake News und halluzinierender Künstlicher Intelligenz](https://blog.univie.ac.at/studium/kritisches-denken/) &mdash; University of Vienna
@@ -45,16 +51,20 @@ custom_translation_overwritten: false
 <!-- https://karlhosang.de/kritisches-denken/ -->
 
 <!--t src=599f93df-->
+
 ### Academic
 
 <!--t src=23bec6d2-->
+
 - 🇬🇧 [Peter Facione (1989), Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction? aka "The Delphi Report”](https://www.researchgate.net/publication/242279575_Critical_Thinking_A_Statement_of_Expert_Consensus_for_Purposes_of_Educational_Assessment_and_Instruction)
 - 🇬🇧 [Deanna Kuhn (1999), A Developmental Model of Critical Thinking](https://www.educationforthinking.org/sites/default/files/page-image/1-01DevelopmentalModelCriticalThinking.pdf)
 
 <!--t src=035e163a-->
+
 ## Philosophy of language
 
 <!--t src=06cd9009-->
+
 - 🇬🇧 [Philosophy of language](https://en.wikipedia.org/wiki/Philosophy_of_language) &mdash; Wikipedia
 - 🇩🇪 [Sprachphilosophie](https://de.wikipedia.org/wiki/Sprachphilosophie) &mdash; Wikipedia
 - 🇩🇪 [Sprachphilosophie](https://www.philosophie.ch/sprachphilosophie) &mdash; philosophie.ch
@@ -62,10 +72,16 @@ custom_translation_overwritten: false
 - 🇩🇪 [W. Vossenkuhl: Sprachphilosophie, version of 08.06.2022](https://www.staatslexikon-online.de/Lexikon/Sprachphilosophie) &mdash; staatslexikon-online.de
 
 <!--t src=07c849dc-->
+
 ## Language and society
 
 <!--t src=f4efd9e7-->
+
 - 🇩🇪 [Josef Klein, Sprache und Macht (2010)](https://www.bpb.de/shop/zeitschriften/apuz/32949/sprache-und-macht/) &mdash; bpb.de
 - 🇩🇪 [Wie die Sprache das Denken formt](https://www.spektrum.de/news/linguistik-wie-die-sprache-das-denken-formt/1145804) (How language shapes thought) &mdash; Spektrum.de
 - 🇩🇪 [Christian Wickert (2025): Jürgen Habermas &mdash; Theorie des kommunikativen Handelns (1981)](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/juergen-habermas-theorie-des-kommunikativen-handelns-1981/) &mdash; soztheo.de
 - 🇩🇪 [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) (Gender-inclusive German: a guide) &mdash; geschicktgendern.de
+
+<!--t src=98e842db-->
+
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/medien-quellen/artikel) | [Article en français](pathname:///fr/docs/sprach-welten/medien-quellen/artikel)

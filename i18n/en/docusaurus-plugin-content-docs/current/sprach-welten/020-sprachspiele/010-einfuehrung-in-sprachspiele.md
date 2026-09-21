@@ -15,36 +15,47 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=503c7856-->
+
 The idea of the "**language game**", coined by **Ludwig Wittgenstein**, is a central tool of critical thinking. It holds that words derive their meaning not from a fixed definition but from their **use** in a particular context (a "game").
 
 <!--t src=ae3a4ee8-->
+
 There are as many different language games as there are human, language-related activities - commanding, describing, reporting, making jokes, praying, cursing, greeting, thanking. Each has its own **rules** and purposes.
 
 <!--t src=4de71a40-->
+
 We can also present these games in groups: everyday life, entertainment, the world of work, science, law, politics, art, etc.
 
 <!--t src=8b0d9ecc-->
+
 Here is an overview that I like: the most important language games, simply presented.
 
 <!--t src=fffd65c0-->
+
 ## Basic idea: What is a language game?
 
 <!--t src=95fd4de0-->
+
 A language game is the social context in which language is used. Each game has its own rules, goals and permissible "moves". Conflicts often arise when people believe they are having the same conversation, but are acting by the rules of different language games.
 
 <!--t src=2bc8adbb-->
+
 One person talks about power, another talks about law, and both are doing politics.
 
 <!--t src=39c9170b-->
+
 ## The most important language games at a glance
 
 <!--t src=e3f5f384-->
+
 Here are the central "arenas" in which our thinking and acting takes shape:
 
 <!--t src=f231596e-->
+
 ### 1. The scientific language game
 
 <!--t src=a0f12a65-->
+
 - **Goal:** To make objective, verifiable and predictable statements about reality.
 - **Rules/features:**
   - **Empiricism:** Statements must be provable through observation or experiment.
@@ -53,15 +64,18 @@ Here are the central "arenas" in which our thinking and acting takes shape:
   - **Precision:** Terms are exactly defined (e.g. "energy", "gene").
 
 <!--t src=7e3cf09f-->
+
 - **Examples:**
   - The gravitational constant G is about $6.674 \times 10^{-11} \text{ m}^3 \text{kg}^{-1} \text{s}^{-2}$. (A verifiable factual claim)
   - "We hypothesize that agent X inhibits cell growth." (A test setup)
   - A peer-review report that methodologically criticizes a study.
 
 <!--t src=211c9d4f-->
+
 ### 2. The legal language game
 
 <!--t src=1f31ed18-->
+
 - **Goal:** To regulate social behaviour, decide conflicts and establish justice.
 - **Rules/features:**
   - **Reference to legal texts:** Arguments are only valid if they rest on statutes and precedents.
@@ -73,9 +87,11 @@ Here are the central "arenas" in which our thinking and acting takes shape:
   - The drafting of a contract to fix future actions.
 
 <!--t src=1d2d09be-->
+
 ### 3. The political language game
 
 <!--t src=dcac1d37-->
+
 - **Goals:** To gain, exercise and control power; to build consensus, legitimize actions and influence public opinion.
 - **Rules/features:**
   - **Rhetoric and persuasion:** It is often less about truth than about pushing through one's own goals. One of the main means is the manipulation of public opinion.
@@ -87,9 +103,11 @@ Here are the central "arenas" in which our thinking and acting takes shape:
   - A diplomatic note deliberately worded ambiguously.
 
 <!--t src=c4c88385-->
+
 ### 4. The everyday/social language game
 
 <!--t src=f995b76d-->
+
 - **Goal:** To build and maintain social relationships, coordinate actions, find one's way in everyday life.
 - **Rules/features:**
   - **Context-dependence:** "There's a draught" can be an observation, a request ("Close the window!") or a criticism.
@@ -101,9 +119,11 @@ Here are the central "arenas" in which our thinking and acting takes shape:
   - Offering comfort ("It'll be all right.").
 
 <!--t src=6fbf9e80-->
+
 ### 5. The artistic/aesthetic language game
 
 <!--t src=c8d9499e-->
+
 - **Goal:** To evoke emotions, change perceptions, create beauty, explore human existence.
 - **Rules/features:**
   - **Ambiguity:** Words and images can and often should be interpreted in various ways.
@@ -115,24 +135,30 @@ Here are the central "arenas" in which our thinking and acting takes shape:
   - The fictional pact: The reader knows that the story of a novel is "not true", and yet engages with it.
 
 <!--t src=e3282eb0-->
+
 ## Historical development and present-day relevance
 
 <!--t src=a7fbb0e6-->
+
 - **In the past:** In many ancient cultures the **mythical-religious language game** dominated. Its goal was to create meaning and explain the world through tales of gods and heroes. The "rules" were tradition and revelation, not empirical testing. The Enlightenment established the scientific language game as a counter-model.
 
 <!--t src=4897681d-->
+
 - **Today:** A decisive new field is the **digital language game** (social media, forums).
   - **Goal:** Attention, identity construction, viral spread.
   - **Rules:** Brevity (tweets), emotional escalation, memes, likes/shares as currency, algorithmic visibility.
   - **Example:** A hashtag like `#ClimateCrisis` bundles a political debate, while a meme reduces complex matters to an ironic "move".
 
 <!--t src=e1b8920f-->
+
 ## Conclusion
 
 <!--t src=b031515e-->
+
 The ability to recognize the particular "game" being played at any given moment is a core competence of rationality. Critical thinking means asking:
 
 <!--t src=b7633ac0-->
+
 - **Which game are we playing here right now?**
   - Science
   - Politics
@@ -149,4 +175,9 @@ The ability to recognize the particular "game" being played at any given moment 
   - When a scientist and a theologian talk about ultimate causes, they are not necessarily speaking the same language.
 
 <!--t src=e243ebbb-->
+
 Whoever asks these questions can better recognize manipulation, avoid misunderstandings and think more clearly.
+
+<!--t src=4305cbad-->
+
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele) | [Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/einfuehrung-in-sprachspiele)

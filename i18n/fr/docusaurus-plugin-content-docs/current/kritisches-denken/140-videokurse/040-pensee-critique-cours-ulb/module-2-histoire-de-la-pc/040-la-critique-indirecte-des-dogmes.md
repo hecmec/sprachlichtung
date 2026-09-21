@@ -79,3 +79,5 @@ L’exemple de **Darwin** sera analysé de manière similaire : la théorie de l
 ## 🧩 Conclusion
 
 La critique des dogmes peut être **directe** ou **indirecte**, mais dans les deux cas, elle remet en cause l’autorité religieuse. C’est ainsi que, **progressivement**, l’Église a perdu de son pouvoir en Europe, à mesure que la pensée critique et la science ont progressé.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes)

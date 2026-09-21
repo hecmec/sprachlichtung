@@ -72,4 +72,4 @@ Aus dem fehlenden Wissen über die Ursache folgt keine planende Instanz.
 - [Wikipedia: God of the gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 - [Logically Fallacious: God of the Gaps](https://www.logicallyfallacious.com/logicalfallacies/God-of-the-Gaps)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/gott-der-luecken-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/gott-der-luecken-argument.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/gott-der-luecken-argument) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/gott-der-luecken-argument)

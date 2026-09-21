@@ -257,3 +257,5 @@ Ce n’est que la première de plusieurs vidéos sur la présomption. La suivant
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep13-informal-fallacies-presumption-part-1)

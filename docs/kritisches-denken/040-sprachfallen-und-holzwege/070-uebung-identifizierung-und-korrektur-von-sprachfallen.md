@@ -2,18 +2,18 @@
 title: "Übung - Identifizierung und Korrektur von Sprachfallen"
 sidebar_position: 7
 description: "Praktische Übungen zum Erkennen und Korrigieren von verschiedenen Sprachfallen im Rahmen des kritischen Denkens"
-keywords: 
-   - Übungen
-   - Sprachfallen
-   - Ambiguität
-   - Vagheit
-   - geladene Sprache
-   - Kategorienfehler
-   - kritisches Denken
-   - praktische Anwendung
+keywords:
+  - Übungen
+  - Sprachfallen
+  - Ambiguität
+  - Vagheit
+  - geladene Sprache
+  - Kategorienfehler
+  - kritisches Denken
+  - praktische Anwendung
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
@@ -85,4 +85,4 @@ Identifizieren Sie in den folgenden Beispielen die Art der Sprachfalle (Ambiguit
     - Problem: Der Evolution wird eine Absicht oder ein Ziel zugeschrieben.
     - Verbesserung: "Der Evolutionsprozess führt durch natürliche Selektion zu Organismen, die besser an ihre Umwelt angepasst sind."
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/uebung-identifizierung-und-korrektur-von-sprachfallen)

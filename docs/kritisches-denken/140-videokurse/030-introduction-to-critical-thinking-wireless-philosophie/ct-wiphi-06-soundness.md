@@ -300,3 +300,5 @@ Schlüssigkeit ist Gültigkeit plus wahre Prämissen, und nur beide zusammen gar
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-06-soundness) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-06-soundness)

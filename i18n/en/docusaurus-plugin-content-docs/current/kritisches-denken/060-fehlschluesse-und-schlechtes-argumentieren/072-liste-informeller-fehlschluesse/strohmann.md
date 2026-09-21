@@ -30,6 +30,7 @@ _Knock down a straw man instead of the opponent._
 ## Definition
 
 <!--t src=c811a5db-->
+
 In the **straw man** argument, the opponent's position is presented in a **distorted, exaggerated or simplified** way, and then this easily attackable caricature is refuted &mdash; as if one had refuted the real position.
 
 <!--t src=40c79811-->
@@ -59,6 +60,7 @@ Also known as: _straw man_
 <!-- list similar fallacies -->
 
 <!--t src=748b18e6-->
+
 - **Red herring** &mdash; related: both dodge the real issue.
 - **Motte-and-bailey** &mdash; a related game with shifting positions.
 - **False dilemma** &mdash; related, when the opposing position is narrowed to an extreme variant.
@@ -75,10 +77,12 @@ Also known as: _straw man_
 <!-- description of example one -->
 
 <!--t src=ea96d2dc-->
+
 > &mdash; "We should take in refugees who are in distress."
 > &mdash; "So you want to bring all the world's misery to us and abolish the borders."
 
 <!--t src=a7c7dbcd-->
+
 "Taking in people in distress" is turned into "abolishing all borders" &mdash; an exaggeration that no one actually held.
 
 <!--t src=f350657d-->
@@ -89,6 +93,7 @@ Also known as: _straw man_
 <!-- description of example two -->
 
 <!--t src=b073588a-->
+
 > &mdash; "I think children shouldn't watch television all day."
 > &mdash; "So you want to forbid children every joy."
 
@@ -106,3 +111,7 @@ The moderate statement is inflated into a ban on „every joy“ and then indign
 <!--t src=73a38485-->
 
 - [Logically Fallacious: Straw Man](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)
+
+<!--t src=07b12fd0-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann)

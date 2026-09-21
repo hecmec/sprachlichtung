@@ -78,3 +78,6 @@ custom_translation_overwritten: false
 3. b) The suspension of judgement and openness towards various possibilities
 4. b) Productive doubt leads to further investigation, unproductive doubt leads to intellectual paralysis
 5. a) Practising intellectual humility and reflecting on the limits of one's own knowledge
+
+<!--t src=6367bd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster)

@@ -21,7 +21,7 @@ controls src='https://youtu.be/5A7hSaoRv0g' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 5:42. Original title: *CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]*
+Wireless Philosophy, Fallacies, 5:42. Original title: _CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -206,3 +206,5 @@ Zu schließen, dass Y X verursacht hat, bloß weil X auf Y folgte, ist der Post-
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc)

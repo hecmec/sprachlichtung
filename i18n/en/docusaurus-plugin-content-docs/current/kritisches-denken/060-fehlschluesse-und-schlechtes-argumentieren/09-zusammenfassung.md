@@ -21,6 +21,7 @@ custom_translation_overwritten: false
 <!-- ## Summary -->
 
 <!--t src=ee914c28-->
+
 In this chapter we have dealt with fallacies &mdash; flawed patterns of argument that can seem convincing at first glance but, on closer inspection, reveal logical defects.
 
 <!--t src=c639ae50-->
@@ -64,6 +65,7 @@ Understanding fallacies is an essential part of critical thinking. It helps us t
 ## Sources
 
 <!--t src=eefd4ab5-->
+
 - [Wikipedia DE : Fehlschluss](https://de.wikipedia.org/wiki/Fehlschluss)
 - [The Internet Encyclopedia of Philosophy : Fallacy](https://iep.utm.edu/fallacy/)
 - [Wikipedia EN : Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
@@ -74,3 +76,7 @@ Understanding fallacies is an essential part of critical thinking. It helps us t
 - [Fallacy Files](https://www.fallacyfiles.org/whatarff.html)
 - [42 Fallacies PDF](https://aphilosopher.wordpress.com/wp-content/uploads/2010/09/42-fallacies.pdf)
 - [Scribbr / Logical Fallacies](https://www.scribbr.com/fallacies/logical-fallacy/)
+
+<!--t src=1511ea5a-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/zusammenfassung)

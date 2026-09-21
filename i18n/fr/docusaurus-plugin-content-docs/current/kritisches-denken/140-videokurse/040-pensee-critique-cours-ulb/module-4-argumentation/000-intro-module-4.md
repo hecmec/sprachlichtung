@@ -68,3 +68,4 @@ Le point le plus exigeant est le dernier. Il ne suffit pas de proclamer la liber
 <!-- href="https://www.youtube.com/watch?v=ACKML9FOXtw"
   Pensée critique - Introduction du Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-introduction-du-module-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-introduction-du-module-argumentation)

@@ -153,3 +153,5 @@ Wie intellektuelle Tugenden umfassen auch intellektuelle Laster motivationale un
 **Beispiel:** Ein Mitglied einer politischen Partei, das seine Meinung zu einem Thema ändert, sobald die Parteiführung eine offizielle Position bezieht, ohne diese kritisch zu prüfen.
 
 **Überwindungsstrategie:** Entwickeln Sie intellektuelle Autonomie, indem Sie Ihre Überzeugungen auf ihre Begründung hin überprüfen, unabhängig davon, wer sie vertritt. Üben Sie, Ihre eigene Meinung zu bilden, bevor Sie die Meinungen anderer konsultieren.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-laster-hindernisse-fuer-gutes-denken)

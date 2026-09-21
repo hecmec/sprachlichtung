@@ -68,4 +68,4 @@ Keine saubere Auflösung: Sie findet die Lage frustrierend und weiß nicht, ob s
 - Medien gegenüber kritisch zu sein und sie zu genießen ist vereinbar (sie ist der Beweis).
 - Misstrauen Sie allen, die absolute Wahrheit beanspruchen und keinen Raum zum Nachfragen lassen, denn **Intellektuelle fragen immer nach**.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens)

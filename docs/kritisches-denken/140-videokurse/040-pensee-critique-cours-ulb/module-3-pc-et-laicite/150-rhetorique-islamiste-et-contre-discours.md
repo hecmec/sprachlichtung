@@ -33,3 +33,5 @@ Cette vidéo est une discussion, on ne fait pas de résumé. 😪
 
 <!-- href="https://www.youtube.com/watch?v=huOvS8nbsNQ"
   Pensée critique - Débat - La rhétorique islamiste et ses contres-discours aujourd'hui - 15 - Mod 3 -->
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-rhetorique-islamiste) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-rhetorique-islamiste)

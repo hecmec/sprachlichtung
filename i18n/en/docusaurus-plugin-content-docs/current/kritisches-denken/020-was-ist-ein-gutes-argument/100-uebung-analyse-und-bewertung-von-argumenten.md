@@ -23,7 +23,9 @@ custom_translation_overwritten: false
 <!-- # Exercise: Analysis and evaluation of arguments -->
 
 <!--t src=b8a9857b-->
+
 Analyze and evaluate the following arguments. In doing so, identify:
+
 - The explicit premises and the conclusion
 - Hidden assumptions
 - The type of argument (deductive, inductive, abductive)
@@ -31,21 +33,35 @@ Analyze and evaluate the following arguments. In doing so, identify:
 - Possible improvements to the argument
 
 <!--t src=406a3963-->
+
 ## Argument 1:
+
 "Most politicians are corrupt. Hans is a politician. Therefore Hans is probably corrupt."
 
 <!--t src=c0d0773f-->
+
 ## Argument 2:
+
 "Either we lower taxes, or the economy will collapse. We cannot afford for the economy to collapse. So we must lower taxes."
 
 <!--t src=0c3c57a8-->
+
 ## Argument 3:
+
 "For the last three years it has always rained on the first weekend in July. Therefore it will rain on the first weekend in July this year too."
 
 <!--t src=9323cbbf-->
+
 ## Argument 4:
+
 "Studies have shown that people who meditate regularly experience less stress. Maria wants to reduce her stress. Therefore Maria should meditate regularly."
 
 <!--t src=77eaaf44-->
+
 ## Argument 5:
+
 "If the sun is shining, the snow will melt. The snow is melting. So the sun is shining."
+
+<!--t src=52e10939-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten) | [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/uebung-analyse-und-bewertung-von-argumenten)

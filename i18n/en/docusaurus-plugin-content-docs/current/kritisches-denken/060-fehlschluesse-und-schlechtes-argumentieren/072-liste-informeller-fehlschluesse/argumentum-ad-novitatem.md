@@ -59,6 +59,7 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 <!-- list similar fallacies -->
 
 <!--t src=4b1994b1-->
+
 - **Argumentum ad antiquitatem** &mdash; the counterpart: "old, therefore tried and tested".
 - **Argumentum ad populum** &mdash; related, when the new is at the same time taken to be the trendy thing.
 
@@ -78,6 +79,7 @@ Also known as: _appeal to novelty_ / _argumentum ad novitatem_
 > „This is the latest model, so it is the best choice.“
 
 <!--t src=9a6b2db5-->
+
 Whether it is the best choice depends on properties and suitability &mdash; not on the release date.
 
 <!--t src=f350657d-->
@@ -106,3 +108,7 @@ Precisely new procedures are often still little tested. Novelty is no substitute
 
 - [Wikipedia: Appeal to novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)
 - [Logically Fallacious: Appeal to Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)
+
+<!--t src=8f73cfda-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-novitatem) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-novitatem)

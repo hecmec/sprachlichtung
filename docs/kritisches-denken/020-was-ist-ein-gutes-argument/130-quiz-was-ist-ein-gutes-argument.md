@@ -65,4 +65,4 @@ draft: false
 4. b) "Computer funktionieren ähnlich wie das menschliche Gehirn. Computer können bestimmte Aufgaben nicht lösen. Also kann das menschliche Gehirn wahrscheinlich auch diese Aufgaben nicht lösen."
 5. b) Perspektivenwechsel
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/130-quiz-was-ist-ein-gutes-argument.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/quiz-was-ist-ein-gutes-argument)

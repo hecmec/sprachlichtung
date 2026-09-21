@@ -39,12 +39,12 @@ controls src='https://youtu.be/mJLnsB0NzfI' />
 <div className="row">
 <div className="col col--6">
 
-**Rhetoric is the art of persuasion.** A central theme of the course is the distinction between **proof and persuasion**: logic gives *logical* reasons for the truth of a claim, while rhetoric uses techniques that work *psychologically* and need not involve reason at all. Good critical thinkers learn to tell the two apart.
+**Rhetoric is the art of persuasion.** A central theme of the course is the distinction between **proof and persuasion**: logic gives _logical_ reasons for the truth of a claim, while rhetoric uses techniques that work _psychologically_ and need not involve reason at all. Good critical thinkers learn to tell the two apart.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Rhetorik ist die Kunst der Überzeugung.** Ein zentrales Thema des Kurses ist die Unterscheidung zwischen **Beweis und Überredung**: Die Logik liefert *logische* Gründe für die Wahrheit einer Behauptung, während die Rhetorik Techniken einsetzt, die *psychologisch* wirken und gar keine Vernunft erfordern müssen. Gute kritische Denker lernen, beides auseinanderzuhalten.
+**Rhetorik ist die Kunst der Überzeugung.** Ein zentrales Thema des Kurses ist die Unterscheidung zwischen **Beweis und Überredung**: Die Logik liefert _logische_ Gründe für die Wahrheit einer Behauptung, während die Rhetorik Techniken einsetzt, die _psychologisch_ wirken und gar keine Vernunft erfordern müssen. Gute kritische Denker lernen, beides auseinanderzuhalten.
 
 </div>
 </div>
@@ -78,24 +78,24 @@ Klare Kommunikation vermittelt Bedeutung genau. Die Klarheit wird durch vier Din
 <div className="row">
 <div className="col col--6">
 
-- **Vagueness** – a term whose meaning is excessively inexact, with fuzzy borders (*bald*, *rich*, *fast*, "do a good job"). Some vagueness is normal and acceptable; it becomes a problem only when it makes a claim impossible to assess.
+- **Vagueness** – a term whose meaning is excessively inexact, with fuzzy borders (_bald_, _rich_, _fast_, "do a good job"). Some vagueness is normal and acceptable; it becomes a problem only when it makes a claim impossible to assess.
 - **Ambiguity** – a claim that could carry more than one meaning without contextual clues. Three kinds:
-  - **Semantic ambiguity (equivocation)** – one word has multiple meanings (e.g. "our mothers *bore* us"; the *Who's on First?* routine).
+  - **Semantic ambiguity (equivocation)** – one word has multiple meanings (e.g. "our mothers _bore_ us"; the _Who's on First?_ routine).
   - **Syntactic ambiguity (amphibology)** – grammar/word order creates two readings ("I shot an elephant in my pajamas").
-  - **Grouping ambiguity** – confusion over whether a term is used **collectively** or **distributively** (the basis of the later *composition* fallacy).
-  Ambiguity can be **unintentional** (fix it with care) or **intentional** (used to mislead or to soften a response).
+  - **Grouping ambiguity** – confusion over whether a term is used **collectively** or **distributively** (the basis of the later _composition_ fallacy).
+    Ambiguity can be **unintentional** (fix it with care) or **intentional** (used to mislead or to soften a response).
 - **Generality** – too broad, supplying too little detail ("no animals allowed").
 - **Undefined terms** – cured by defining terms (see below).
 
 </div>
 <div className="col col--6 video-translation">
 
-- **Vagheit** – ein Begriff, dessen Bedeutung übermäßig ungenau ist, mit unscharfen Rändern (*kahl*, *reich*, *schnell*, „gute Arbeit leisten"). Ein gewisses Maß an Vagheit ist normal und akzeptabel; zum Problem wird sie erst, wenn sie eine Behauptung unbeurteilbar macht.
+- **Vagheit** – ein Begriff, dessen Bedeutung übermäßig ungenau ist, mit unscharfen Rändern (_kahl_, _reich_, _schnell_, „gute Arbeit leisten"). Ein gewisses Maß an Vagheit ist normal und akzeptabel; zum Problem wird sie erst, wenn sie eine Behauptung unbeurteilbar macht.
 - **Mehrdeutigkeit** – eine Behauptung, die ohne Kontexthinweise mehr als eine Bedeutung tragen könnte. Drei Arten:
-  - **Semantische Mehrdeutigkeit (Äquivokation)** – ein Wort hat mehrere Bedeutungen (z. B. „our mothers *bore* us"; die Nummer *Who's on First?*).
+  - **Semantische Mehrdeutigkeit (Äquivokation)** – ein Wort hat mehrere Bedeutungen (z. B. „our mothers _bore_ us"; die Nummer _Who's on First?_).
   - **Syntaktische Mehrdeutigkeit (Amphibolie)** – Grammatik/Wortstellung erzeugt zwei Lesarten („Ich schoss einen Elefanten in meinem Pyjama").
-  - **Gruppierungs-Mehrdeutigkeit** – Verwirrung darüber, ob ein Begriff **kollektiv** oder **distributiv** verwendet wird (die Grundlage des späteren *Kompositions*-Fehlschlusses).
-  Mehrdeutigkeit kann **unbeabsichtigt** sein (mit Sorgfalt zu beheben) oder **absichtlich** (um zu täuschen oder eine Antwort abzumildern).
+  - **Gruppierungs-Mehrdeutigkeit** – Verwirrung darüber, ob ein Begriff **kollektiv** oder **distributiv** verwendet wird (die Grundlage des späteren _Kompositions_-Fehlschlusses).
+    Mehrdeutigkeit kann **unbeabsichtigt** sein (mit Sorgfalt zu beheben) oder **absichtlich** (um zu täuschen oder eine Antwort abzumildern).
 - **Allgemeinheit** – zu weit gefasst, liefert zu wenig Detail („keine Tiere erlaubt").
 - **Undefinierte Begriffe** – geheilt durch das Definieren von Begriffen (siehe unten).
 
@@ -133,18 +133,18 @@ Definitionen dienen vier Zwecken: die Bedeutung eines Wortes anzugeben, die Bede
 
 - **Lexical** – the ordinary dictionary meaning.
 - **Explanatory** – unpacks the implications of a known but difficult concept.
-- **Stipulative** – assigns a meaning for a particular context ("in this class we will use the word *legend* to mean…").
-- **Precising** – narrows an unclear term to reduce ambiguity (defining *walking* vs *running* by keeping a foot on the ground).
-- **Rhetorical (persuasive)** – a pseudo-definition that works on feelings via **connotation** ("*casualties* refers to our sons and daughters killed in battle").
+- **Stipulative** – assigns a meaning for a particular context ("in this class we will use the word _legend_ to mean…").
+- **Precising** – narrows an unclear term to reduce ambiguity (defining _walking_ vs _running_ by keeping a foot on the ground).
+- **Rhetorical (persuasive)** – a pseudo-definition that works on feelings via **connotation** ("_casualties_ refers to our sons and daughters killed in battle").
 
 </div>
 <div className="col col--6 video-translation">
 
 - **Lexikalisch** – die gewöhnliche Wörterbuchbedeutung.
 - **Erläuternd** – entfaltet die Implikationen eines bekannten, aber schwierigen Begriffs.
-- **Stipulativ (festsetzend)** – weist für einen bestimmten Kontext eine Bedeutung zu („in diesem Kurs verwenden wir das Wort *Legende* im Sinne von …").
-- **Präzisierend** – engt einen unklaren Begriff ein, um Mehrdeutigkeit zu verringern (*Gehen* vs. *Laufen* dadurch definieren, dass ein Fuß am Boden bleibt).
-- **Rhetorisch (überredend)** – eine Pseudo-Definition, die über die **Konnotation** auf Gefühle wirkt („*Verluste* meint unsere im Kampf gefallenen Söhne und Töchter").
+- **Stipulativ (festsetzend)** – weist für einen bestimmten Kontext eine Bedeutung zu („in diesem Kurs verwenden wir das Wort _Legende_ im Sinne von …").
+- **Präzisierend** – engt einen unklaren Begriff ein, um Mehrdeutigkeit zu verringern (_Gehen_ vs. _Laufen_ dadurch definieren, dass ein Fuß am Boden bleibt).
+- **Rhetorisch (überredend)** – eine Pseudo-Definition, die über die **Konnotation** auf Gefühle wirkt („_Verluste_ meint unsere im Kampf gefallenen Söhne und Töchter").
 
 </div>
 </div>
@@ -152,12 +152,12 @@ Definitionen dienen vier Zwecken: die Bedeutung eines Wortes anzugeben, die Bede
 <div className="row">
 <div className="col col--6">
 
-By manner, definitions can be **analytical** (denotative: the necessary/sufficient features a thing must have), **by example** (ostensive: pointing to an instance), or **by synonym** (*dog* → *canine*).
+By manner, definitions can be **analytical** (denotative: the necessary/sufficient features a thing must have), **by example** (ostensive: pointing to an instance), or **by synonym** (_dog_ → _canine_).
 
 </div>
 <div className="col col--6 video-translation">
 
-Nach ihrer Art können Definitionen **analytisch** sein (denotativ: die notwendigen/hinreichenden Merkmale, die eine Sache haben muss), **durch Beispiel** (ostensiv: auf einen Einzelfall zeigen) oder **durch Synonym** (*Hund* → *Kaniden*).
+Nach ihrer Art können Definitionen **analytisch** sein (denotativ: die notwendigen/hinreichenden Merkmale, die eine Sache haben muss), **durch Beispiel** (ostensiv: auf einen Einzelfall zeigen) oder **durch Synonym** (_Hund_ → _Kaniden_).
 
 </div>
 </div>
@@ -178,12 +178,12 @@ Nach ihrer Art können Definitionen **analytisch** sein (denotativ: die notwendi
 <div className="row">
 <div className="col col--6">
 
-A good argumentative essay should: **state the issue**, **state your position**, **support it** with reasons (not just assertions), and **address the strongest opposing positions**. Tackling the *best* counter-arguments, not weak ones, makes your case stronger. Thomas Aquinas's method is the model: pose the question, list objections up front, give a short rebuttal, present the body of the argument, then reply to each objection in detail.
+A good argumentative essay should: **state the issue**, **state your position**, **support it** with reasons (not just assertions), and **address the strongest opposing positions**. Tackling the _best_ counter-arguments, not weak ones, makes your case stronger. Thomas Aquinas's method is the model: pose the question, list objections up front, give a short rebuttal, present the body of the argument, then reply to each objection in detail.
 
 </div>
 <div className="col col--6 video-translation">
 
-Ein guter argumentativer Essay sollte: **die Streitfrage benennen**, **die eigene Position benennen**, **sie mit Gründen stützen** (nicht bloß mit Behauptungen) und **die stärksten Gegenpositionen behandeln**. Die *besten* Gegenargumente anzugehen, nicht die schwachen, macht die eigene Sache stärker. Thomas von Aquins Methode ist das Vorbild: die Frage stellen, Einwände vorab auflisten, eine kurze Erwiderung geben, den Hauptteil des Arguments darlegen und dann auf jeden Einwand im Detail antworten.
+Ein guter argumentativer Essay sollte: **die Streitfrage benennen**, **die eigene Position benennen**, **sie mit Gründen stützen** (nicht bloß mit Behauptungen) und **die stärksten Gegenpositionen behandeln**. Die _besten_ Gegenargumente anzugehen, nicht die schwachen, macht die eigene Sache stärker. Thomas von Aquins Methode ist das Vorbild: die Frage stellen, Einwände vorab auflisten, eine kurze Erwiderung geben, den Hauptteil des Arguments darlegen und dann auf jeden Einwand im Detail antworten.
 
 </div>
 </div>
@@ -218,13 +218,13 @@ Wenn eine Behauptung vorgebracht wird, beurteile sowohl **die Behauptung selbst*
 <div className="col col--6">
 
 - **The claim** – assess its **initial plausibility**: how well it squares with our **background information and direct experience**. ("Ginseng makes kids grow faster" has low plausibility; "the tank still has fuel after the warning light" has high plausibility.)
-- **The source** – credibility rests on **knowledge, truthfulness, accuracy, and objectivity**. Be more suspicious of an **interested party** (someone who stands to gain) than a **disinterested** one. **Expertise** raises credibility, and expert claims generally outweigh amateur ones, but experts can be wrong and often disagree (the later *appeal to authority* fallacy). Where you can make the same **direct observation** yourself, you need not defer to the expert.
+- **The source** – credibility rests on **knowledge, truthfulness, accuracy, and objectivity**. Be more suspicious of an **interested party** (someone who stands to gain) than a **disinterested** one. **Expertise** raises credibility, and expert claims generally outweigh amateur ones, but experts can be wrong and often disagree (the later _appeal to authority_ fallacy). Where you can make the same **direct observation** yourself, you need not defer to the expert.
 
 </div>
 <div className="col col--6 video-translation">
 
 - **Die Behauptung** – schätze ihre **anfängliche Plausibilität** ein: wie gut sie sich mit unseren **Hintergrundinformationen und der direkten Erfahrung** deckt. („Ginseng lässt Kinder schneller wachsen" hat geringe Plausibilität; „der Tank hat nach der Warnleuchte noch Sprit" hat hohe Plausibilität.)
-- **Die Quelle** – Glaubwürdigkeit beruht auf **Wissen, Wahrhaftigkeit, Genauigkeit und Objektivität**. Sei misstrauischer gegenüber einer **interessierten Partei** (jemand, der einen Vorteil hat) als gegenüber einer **uninteressierten**. **Fachkenntnis** erhöht die Glaubwürdigkeit, und Expertenaussagen wiegen im Allgemeinen schwerer als die von Laien, aber Experten können sich irren und sind oft uneinig (der spätere Fehlschluss des *Autoritätsarguments*). Wo du dieselbe **direkte Beobachtung** selbst machen kannst, musst du dich nicht auf den Experten verlassen.
+- **Die Quelle** – Glaubwürdigkeit beruht auf **Wissen, Wahrhaftigkeit, Genauigkeit und Objektivität**. Sei misstrauischer gegenüber einer **interessierten Partei** (jemand, der einen Vorteil hat) als gegenüber einer **uninteressierten**. **Fachkenntnis** erhöht die Glaubwürdigkeit, und Expertenaussagen wiegen im Allgemeinen schwerer als die von Laien, aber Experten können sich irren und sind oft uneinig (der spätere Fehlschluss des _Autoritätsarguments_). Wo du dieselbe **direkte Beobachtung** selbst machen kannst, musst du dich nicht auf den Experten verlassen.
 
 </div>
 </div>
@@ -275,12 +275,12 @@ Aristoteles definierte Rhetorik als das Erkennen der verfügbaren Überzeugungsm
 <div className="row">
 <div className="col col--6">
 
-He also gave the **five canons of rhetoric**: *invention* (developing arguments), *arrangement*, *style*, *memory*, and *delivery* (tone, pace, body language). Logic and rhetoric were the twin anchors of Western education: logic demonstrates truth, rhetoric wins people over. A valid argument may still fail to persuade, and persuasion can succeed without proving anything.
+He also gave the **five canons of rhetoric**: _invention_ (developing arguments), _arrangement_, _style_, _memory_, and _delivery_ (tone, pace, body language). Logic and rhetoric were the twin anchors of Western education: logic demonstrates truth, rhetoric wins people over. A valid argument may still fail to persuade, and persuasion can succeed without proving anything.
 
 </div>
 <div className="col col--6 video-translation">
 
-Er gab außerdem die **fünf Kanones der Rhetorik**: *inventio* (Argumente entwickeln), *dispositio* (Anordnung), *elocutio* (Stil), *memoria* (Gedächtnis) und *actio/pronuntiatio* (Vortrag: Ton, Tempo, Körpersprache). Logik und Rhetorik waren die beiden Anker der westlichen Bildung: Die Logik weist die Wahrheit nach, die Rhetorik gewinnt die Menschen. Ein gültiges Argument kann dennoch nicht überzeugen, und Überredung kann gelingen, ohne irgendetwas zu beweisen.
+Er gab außerdem die **fünf Kanones der Rhetorik**: _inventio_ (Argumente entwickeln), _dispositio_ (Anordnung), _elocutio_ (Stil), _memoria_ (Gedächtnis) und _actio/pronuntiatio_ (Vortrag: Ton, Tempo, Körpersprache). Logik und Rhetorik waren die beiden Anker der westlichen Bildung: Die Logik weist die Wahrheit nach, die Rhetorik gewinnt die Menschen. Ein gültiges Argument kann dennoch nicht überzeugen, und Überredung kann gelingen, ohne irgendetwas zu beweisen.
 
 </div>
 </div>
@@ -314,7 +314,7 @@ Diese verwenden emotional aufgeladene Sprache, um Überzeugungen und Gefühle oh
 <div className="row">
 <div className="col col--6">
 
-- **Slanters (better/worse/shielding)** – **euphemisms** vs **dysphemisms** (*escort* vs *thug*), **weaselers** that hedge to avoid criticism ("as far as I know", "perhaps"), and **downplayers** that minimize ("*merely*", "so-called", scare quotes).
+- **Slanters (better/worse/shielding)** – **euphemisms** vs **dysphemisms** (_escort_ vs _thug_), **weaselers** that hedge to avoid criticism ("as far as I know", "perhaps"), and **downplayers** that minimize ("_merely_", "so-called", scare quotes).
 - **Unwarranted assumptions** – **stereotypes** (over-generalizations about a group), **innuendo** (implying without stating: "far be it from me to call my opponent a liar"), and **loaded questions** ("have you stopped beating your wife?").
 - **Humor and exaggeration** – **ridicule / sarcasm** (mocking a position instead of refuting it) and **hyperbole** ("dumber than a rock"; calling conservatives fascists or liberals communists).
 - **Comparisons and surrogates** – **rhetorical definitions/explanations** and misleading **analogies/comparisons** (ask: is key information missing? is the same standard used?), plus **proof surrogates** ("obviously…", "reliable sources say", "everybody knows") and **repetition**, a staple of propaganda.
@@ -322,7 +322,7 @@ Diese verwenden emotional aufgeladene Sprache, um Überzeugungen und Gefühle oh
 </div>
 <div className="col col--6 video-translation">
 
-- **Tönungswörter (aufwertend/abwertend/abschirmend)** – **Euphemismen** vs. **Dysphemismen** (*Begleitung* vs. *Schläger*), **Weichmacher (weaselers)**, die absichern, um Kritik zu vermeiden („soweit ich weiß", „vielleicht"), und **Verharmloser (downplayers)**, die kleinreden („*bloß*", „sogenannt", distanzierende Anführungszeichen).
+- **Tönungswörter (aufwertend/abwertend/abschirmend)** – **Euphemismen** vs. **Dysphemismen** (_Begleitung_ vs. _Schläger_), **Weichmacher (weaselers)**, die absichern, um Kritik zu vermeiden („soweit ich weiß", „vielleicht"), und **Verharmloser (downplayers)**, die kleinreden („_bloß_", „sogenannt", distanzierende Anführungszeichen).
 - **Ungerechtfertigte Annahmen** – **Stereotype** (Übergeneralisierungen über eine Gruppe), **Anspielungen (innuendo)** (andeuten, ohne es auszusprechen: „es liegt mir fern, meinen Gegner einen Lügner zu nennen") und **Suggestivfragen** („haben Sie aufgehört, Ihre Frau zu schlagen?").
 - **Humor und Übertreibung** – **Spott / Sarkasmus** (eine Position verhöhnen, statt sie zu widerlegen) und **Hyperbel** („dümmer als ein Stein"; Konservative Faschisten nennen oder Liberale Kommunisten).
 - **Vergleiche und Ersatzbeweise** – **rhetorische Definitionen/Erklärungen** und irreführende **Analogien/Vergleiche** (frage: Fehlen wichtige Informationen? Wird derselbe Maßstab angelegt?), dazu **Beweis-Surrogate** („offensichtlich …", „zuverlässige Quellen sagen", „jeder weiß") und **Wiederholung**, ein fester Bestandteil der Propaganda.
@@ -355,3 +355,5 @@ Schließlich sind **Bilder nie wahr oder falsch**, sie sind keine Behauptungen, 
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep03-rhetoric)

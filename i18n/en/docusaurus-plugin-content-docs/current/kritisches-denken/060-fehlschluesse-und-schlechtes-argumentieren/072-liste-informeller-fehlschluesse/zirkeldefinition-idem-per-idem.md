@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=fb847be1-->
+
 :::tip In brief
 A term is defined by means of itself &mdash; the definition explains nothing.
 
@@ -30,6 +31,7 @@ _The same by the same._
 ## Definition
 
 <!--t src=5fa2df30-->
+
 The **circular definition** (Latin _idem per idem_ &mdash; "the same by the same") explains a term by **using it again** (or a synonymous word) in the explanation. Whoever does not know the term is afterward just as wise as before.
 
 <!--t src=f64071fe-->
@@ -58,6 +60,7 @@ Also known as: _circular definition_ / _idem per idem_
 <!-- list similar fallacies -->
 
 <!--t src=255bdd36-->
+
 - **Circular reasoning** &mdash; the umbrella term at the level of argumentation.
 - **Distinction without a difference** &mdash; related: words are rearranged without explaining anything.
 
@@ -105,3 +108,7 @@ Whoever does not know what sleeping is does not learn it this way. The term is e
 <!--t src=aa6fe6b4-->
 
 - [Wikipedia: Circular definition](https://en.wikipedia.org/wiki/Circular_definition)
+
+<!--t src=15d20456-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkeldefinition-idem-per-idem)

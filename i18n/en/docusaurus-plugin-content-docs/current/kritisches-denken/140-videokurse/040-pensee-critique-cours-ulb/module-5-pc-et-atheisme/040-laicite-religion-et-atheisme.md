@@ -87,3 +87,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=pa5jtBASnbU"
   Pensée critique - Laïcité, religion et athéisme - 04 - Module 6 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-laicite-religion-et-atheisme) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-laicite-religion-et-atheisme)

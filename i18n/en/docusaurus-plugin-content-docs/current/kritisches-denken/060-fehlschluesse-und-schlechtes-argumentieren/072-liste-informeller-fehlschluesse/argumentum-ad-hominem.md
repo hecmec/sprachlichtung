@@ -31,6 +31,7 @@ _Hit the messenger, not the message._
 ## Definition
 
 <!--t src=6c395607-->
+
 In the **argumentum ad hominem** ("argument against the person"), the attack is not directed against the _claim_, but against the _person_ who makes it. Traits, origin, character or circumstances of the person are meant to invalidate the claim.
 
 <!--t src=01158549-->
@@ -48,6 +49,7 @@ The fallacy has the following form:
 3. Therefore B is false.
 
 <!--t src=8cf70470-->
+
 To be distinguished from this is the _legitimate_ criticism of a witness's credibility &mdash; there it is not about the truth of the statement, but about its reliability as a source.
 
 <!--t src=9981028e-->
@@ -62,6 +64,7 @@ Also known as: _ad hominem_
 <!-- list similar fallacies -->
 
 <!--t src=35d15852-->
+
 - **Tu quoque** &mdash; a special form: the charge of hypocrisy instead of a substantive answer.
 - **Poisoning the well** &mdash; a special form: the person is discredited _in advance_.
 - **Genetic fallacy** &mdash; related: evaluation by origin rather than content.
@@ -78,6 +81,7 @@ Also known as: _ad hominem_
 <!-- description of example one -->
 
 <!--t src=9d660838-->
+
 > &mdash; "The climate scientist has presented her measurement data."
 > &mdash; "Oh, she's a stubborn activist &mdash; you don't have to take that seriously."
 
@@ -110,3 +114,7 @@ Instead of examining the statement, the person's education is attacked. A missin
 <!--t src=7ede5ab8-->
 
 - [Logically Fallacious: Ad Hominem (Abusive)](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Abusive)
+
+<!--t src=5650c902-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-hominem)

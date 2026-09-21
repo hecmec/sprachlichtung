@@ -86,3 +86,5 @@ source: _[Le jeu de la mort - RTBF](https://www.rtbf.be/article/le-jeu-de-la-mor
 
 - **Appel à la vigilance** :
   Il faut **"penser contre soi-même"**, c’est-à-dire cultiver une pensée critique capable de résister aux mécanismes de soumission, même les plus subtils.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-jeu-de-la-mort) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-jeu-de-la-mort)

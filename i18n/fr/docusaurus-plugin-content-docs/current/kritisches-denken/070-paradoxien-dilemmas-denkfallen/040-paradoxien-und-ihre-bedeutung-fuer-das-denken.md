@@ -65,3 +65,6 @@ La confrontation avec les paradoxes favorise la pensée critique en nous obligea
 - élaborer des approches créatives de résolution
 - reconnaître les limites de nos concepts
 - composer avec l'incertitude et l'ambiguïté
+
+<!--t src=d230e169-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken)

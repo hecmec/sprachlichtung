@@ -80,3 +80,4 @@ Le veto du perturbateur révèle ce que cela implique pour l’État. Rester pas
 <!-- href="https://www.youtube.com/watch?v=lIz6NCe9Seg"
   Pensée critique - L'Importance de la Liberté d'expression - 02 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-l-importance-de-la-liberte-d-expression) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-l-importance-de-la-liberte-d-expression)

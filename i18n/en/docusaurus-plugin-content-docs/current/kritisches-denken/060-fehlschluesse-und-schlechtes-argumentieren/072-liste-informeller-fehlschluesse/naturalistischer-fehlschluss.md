@@ -31,9 +31,11 @@ _From the is, no ought follows._
 ## Definition
 
 <!--t src=c599b721-->
+
 The **naturalistic fallacy** infers directly from a **fact** (what _is_, or what is _natural_) to a **norm** (what _ought_ to be, or is _good_). From a description of the world, an evaluation is derived without an evaluative intermediate step being justified.
 
 <!--t src=ae64467b-->
+
 Background: **David Hume** already noted that no _ought_-statement can be derived from pure _is_-statements (the **is-ought problem**). Closely related is the **appeal to nature**: "natural" is taken to be "good", "unnatural" to be "bad". (Strictly speaking, **G. E. Moore** meant something narrower by "naturalistic fallacy" &mdash; the equation of "good" with a natural property; in everyday use both readings are often lumped together.)
 
 <!--t src=3c24b250-->
@@ -57,6 +59,7 @@ Also known as: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=921d130e-->
+
 - **Argumentum ad antiquitatem** &mdash; related: from "that's how it's customary/has always been" to "that's how it ought to be".
 - **Teleological fallacy** &mdash; related: from a presumed purpose of nature an ought is derived.
 - **Moralistic fallacy** &mdash; the counterpart: from "ought not to be" to "is not the case".
@@ -73,6 +76,7 @@ Also known as: _naturalistic fallacy_ / _appeal to nature_ / _is-ought fallacy_
 <!-- description of example one -->
 
 <!--t src=cf44b8d2-->
+
 > "In nature the stronger prevails &mdash; so ruthless competition is right."
 
 <!--t src=27cf0840-->
@@ -91,6 +95,7 @@ That something occurs in nature does not make it morally required. The inference
 > „This remedy is purely natural, so it is good and harmless.“
 
 <!--t src=677dc4f0-->
+
 "Natural" is no seal of quality &mdash; deadly nightshade and snake venom are natural too. Naturalness establishes no value.
 
 <!--t src=69b1092f-->
@@ -103,3 +108,7 @@ That something occurs in nature does not make it morally required. The inference
 <!--t src=6aaada90-->
 
 - [Logically Fallacious: Appeal to Nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)
+
+<!--t src=d91cbeb7-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/naturalistischer-fehlschluss) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/naturalistischer-fehlschluss)

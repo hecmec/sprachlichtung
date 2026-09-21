@@ -70,4 +70,4 @@ Das Schicksal der Person ist kein Grund, der die Frage entscheidet, wer tatsäch
 - [Wikipedia: Appeal to pity](https://en.wikipedia.org/wiki/Appeal_to_pity)
 - [Logically Fallacious: Appeal to Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-misericordiam.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-misericordiam)

@@ -14,8 +14,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
+# slug:
+# image:
 ---
 
 Argumente bestehen aus zwei Hauptkomponenten: Prämissen und Schlussfolgerungen.
@@ -25,11 +25,13 @@ Argumente bestehen aus zwei Hauptkomponenten: Prämissen und Schlussfolgerungen.
 **Prämissen** sind Aussagen, die als Gründe oder Belege angeführt werden, um eine Schlussfolgerung zu stützen. Sie sind die Ausgangspunkte eines Arguments, die als wahr angenommen oder durch Beweise gestützt werden.
 
 Eigenschaften von Prämissen:
+
 - Sie können explizit (ausdrücklich formuliert) oder implizit (unausgesprochen, aber vorausgesetzt) sein
 - Sie sollten relevant für die Schlussfolgerung sein
 - Ihre Wahrheit oder Plausibilität beeinflusst die Stärke des Arguments
 
 **Beispiele für Prämissen:**
+
 - "Alle Menschen sind sterblich." (Prämisse 1)
 - "Sokrates ist ein Mensch." (Prämisse 2)
 
@@ -38,11 +40,13 @@ Eigenschaften von Prämissen:
 Die **Schlussfolgerung** ist die Aussage, die aus den Prämissen abgeleitet wird und die durch das Argument gestützt werden soll. Sie ist das, was der Argumentierende als wahr etablieren möchte.
 
 Eigenschaften von Schlussfolgerungen:
+
 - Sie folgen logisch aus den Prämissen (in einem gültigen Argument)
 - Sie werden oft durch Indikatoren wie "daher", "folglich", "somit" oder "deshalb" eingeleitet
 - Sie können als Prämissen in weiteren Argumenten dienen
 
 **Beispiel für eine Schlussfolgerung:**
+
 - "Daher ist Sokrates sterblich."
 
 ## Identifizierung von Prämissen und Schlussfolgerungen
@@ -72,10 +76,11 @@ Betrachten wir folgendes Argument:
 "Da alle Planeten unseres Sonnensystems die Sonne umkreisen und Pluto die Sonne umkreist, muss Pluto ein Planet unseres Sonnensystems sein."
 
 Analyse:
+
 - Prämisse 1: "Alle Planeten unseres Sonnensystems umkreisen die Sonne."
 - Prämisse 2: "Pluto umkreist die Sonne."
 - Schlussfolgerung: "Pluto ist ein Planet unseres Sonnensystems."
 
 Dieses Argument enthält einen logischen Fehler, da es die notwendige Bedingung (Umkreisen der Sonne) mit einer hinreichenden Bedingung verwechselt. Nicht alles, was die Sonne umkreist, ist automatisch ein Planet (z.B. Asteroiden, Kometen).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/praemissen-und-schlussfolgerungen) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/praemissen-und-schlussfolgerungen)

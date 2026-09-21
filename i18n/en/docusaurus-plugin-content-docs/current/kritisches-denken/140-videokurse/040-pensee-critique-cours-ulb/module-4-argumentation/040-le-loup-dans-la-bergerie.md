@@ -96,3 +96,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=BsKglbaOmR8"
   Pensée critique - Le "Loup" dans la bergerie - 04 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-le-loup-dans-la-bergerie) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-le-loup-dans-la-bergerie)

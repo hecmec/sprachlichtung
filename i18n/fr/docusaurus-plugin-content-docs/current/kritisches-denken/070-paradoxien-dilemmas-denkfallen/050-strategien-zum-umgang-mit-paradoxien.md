@@ -87,3 +87,6 @@ Certains paradoxes ont conduit au développement de cadres théoriques entièrem
 - le paradoxe de Russell a conduit à la théorie des types et à la théorie axiomatique des ensembles
 - les paradoxes de Zénon ont inspiré le développement du calcul infinitésimal
 - le dilemme du prisonnier a donné lieu à de nouvelles approches en théorie des jeux et en biologie de l'évolution
+
+<!--t src=3c438893-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien)

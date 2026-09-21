@@ -43,3 +43,5 @@ Kahneman and Tversky also showed that this happens even with anchors that have n
 ### Key takeaway
 
 Because anchors, even arbitrary ones, pull our estimates toward themselves, salespeople and advertisers use them on us constantly, whether we are buying a car, a sweater or renting a hotel room. The next time you are handed an anchor, Santos suggests, take a minute to consider a very different number before you answer.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-21-anchoring)

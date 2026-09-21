@@ -204,3 +204,5 @@ Die nächste Voraussetzungs-Folge geht zur Untergruppe der **ungerechtfertigten 
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep14-informal-fallacies-presumption-part-2)

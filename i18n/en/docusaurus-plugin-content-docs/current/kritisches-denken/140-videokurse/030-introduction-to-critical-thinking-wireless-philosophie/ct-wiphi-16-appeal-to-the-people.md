@@ -52,3 +52,5 @@ Mackenzie names two cases where an appeal to popularity is not fallacious, becau
 ### Key takeaway
 
 Popular belief is very rarely what makes a claim true, even though it is often a reason to believe it; outside a few cases like etiquette and convention, arguments that appeal to popularity to establish truth should be treated with suspicion.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people)

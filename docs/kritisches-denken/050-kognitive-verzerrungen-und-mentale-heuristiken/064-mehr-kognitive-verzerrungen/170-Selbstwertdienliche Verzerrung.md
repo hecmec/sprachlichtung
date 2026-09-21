@@ -82,4 +82,4 @@ Komplimente werden ernst genommen, Kritik als "überempfindlich" oder "missverst
   Selbstwertdienliche Verzerrung
   Die Verzerrungen, die der Aufrechterhaltung eines positiven konsistenten Selbstbildes dienen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Selbstwertdienliche%20Verzerrung)

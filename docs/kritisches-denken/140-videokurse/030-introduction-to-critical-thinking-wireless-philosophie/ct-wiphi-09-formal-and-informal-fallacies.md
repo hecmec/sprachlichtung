@@ -289,3 +289,5 @@ Ein formaler Fehlschluss ist ein Mangel in der Form des Arguments, weshalb jedes
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-09-formal-and-informal-fallacies)

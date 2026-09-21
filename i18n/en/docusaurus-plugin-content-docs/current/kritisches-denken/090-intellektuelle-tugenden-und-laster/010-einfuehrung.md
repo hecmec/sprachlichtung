@@ -32,3 +32,6 @@ Intellectual virtues are character traits and attitudes that promote good thinki
 <!--t src=de3abd2a-->
 
 In this chapter we will examine the most important intellectual virtues and vices, understand their significance for critical thinking and explore ways in which we can cultivate intellectual virtues in our own thinking and in our communities.
+
+<!--t src=8888c8f8-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/einfuehrung) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/einfuehrung)

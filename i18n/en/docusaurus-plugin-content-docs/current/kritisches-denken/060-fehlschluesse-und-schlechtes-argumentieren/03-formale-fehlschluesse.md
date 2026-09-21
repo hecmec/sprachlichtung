@@ -21,37 +21,47 @@ custom_translation_overwritten: false
 <!-- ## Formal Fallacies -->
 
 <!--t src=2aa2da81-->
+
 Formal fallacies violate the rules of formal logic. They are structurally flawed, regardless of the specific content of the statements.
 
 <!--t src=b2a927e7-->
+
 All formal fallacies are special cases of **Non sequitur** (Latin for "it does not follow").
 
 <!--t src=a1a25048-->
+
 ## 1. Affirming the Consequent
 
 <!--t src=16669b58-->
+
 This fallacy has the following form:
 
 <!--t src=d1e42aba-->
+
 1. If A, then B.
 2. B is true.
 3. Therefore A is true.
 
 <!--t src=895c5326-->
+
 ### Example:
 
 <!--t src=118339c0-->
+
 1. If it is raining, the street is wet.
 2. The street is wet.
 3. Therefore it is raining.
 
 <!--t src=072b7b42-->
+
 ### Why is this flawed?
 
 <!--t src=ec3de9ef-->
+
 There may be other reasons for a wet street (e.g. street cleaning, a burst water pipe). The fallacy lies in inferring the truth of the antecedent (A) from the truth of the consequent (B).
 
 <!--t src=cbf92f11-->
+
 ### Venn Diagram
 
 <!--t src=c312659c-->
@@ -100,34 +110,43 @@ There may be other reasons for a wet street (e.g. street cleaning, a burst water
 </svg>
 
 <!--t src=06ff4f44-->
+
 ## 2. Denying the Antecedent
 
 <!--t src=16669b58-->
+
 This fallacy has the following form:
 
 <!--t src=1e30b8e7-->
+
 1. If A, then B.
 2. A is not true.
 3. Therefore B is not true.
 
 <!--t src=895c5326-->
+
 ### Example:
 
 <!--t src=ede3780a-->
+
 1. If someone has a fever, they are ill.
 2. Max does not have a fever.
 3. Therefore Max is not ill.
 
 <!--t src=072b7b42-->
+
 ### Why is this flawed?
 
 <!--t src=b9adaa6c-->
+
 There may be other reasons why someone could be ill, even without having a fever. The fallacy lies in inferring the falsity of the consequent (B) from the falsity of the antecedent (A).
 
 <!--t src=cbf92f11-->
+
 ### Venn Diagram
 
 <!--t src=44c0ca30-->
+
 The Venn diagram has the same form as in the previous example.
 
 <!--t src=2ebe7b39-->
@@ -181,39 +200,51 @@ Wenn ich in Wien bin, bin ich in Österreich.
 'non sequitur' 	Deshalb bin ich auch nicht in Österreich.  -->
 
 <!--t src=1663f7c5-->
+
 ## 3. Quaternio Terminorum (Fallacy of Four Terms)
 
 <!--t src=24190d11-->
+
 This fallacy occurs in categorical syllogisms when a term is used with different meanings, so that the syllogism actually contains four terms instead of three.
 
 <!--t src=82b4e76e-->
+
 **Example:**
+
 1. All stars shine in the sky.
 2. Some film actors are stars.
 3. Therefore some film actors shine in the sky.
 
 <!--t src=d3ad64a1-->
+
 **Why is this flawed?** The term "star" is used with two different meanings (celestial body vs. famous person). As a result, the syllogism actually contains four terms instead of three, which makes the logical structure invalid.
 
 <!--t src=4a9b3b04-->
+
 ## 4. Fallacy of the Undistributed Middle
 
 <!--t src=e930e8b0-->
+
 This fallacy occurs in categorical syllogisms when the middle term is not used in full (distributively) in either premise.
 
 <!--t src=45a05c10-->
+
 **Example:**
+
 1. All dogs are mammals.
 2. All cats are mammals.
 3. Therefore all dogs are cats.
 
 <!--t src=4de80c71-->
+
 **Why is this flawed?** The middle term "mammals" is not used in full in either premise. The fallacy lies in inferring identity from a shared property (both are mammals).
 
 <!--t src=cbf92f11-->
+
 ### Venn Diagram
 
 <!--t src=b8a247a4-->
+
 As you can see, once the non-mammal dogs and non-mammal cats have been excluded (hatching), there is no necessary overlap between dogs and cats, even though both are mammals. Our example m is a dog and a mammal but not a cat.\
 The information in the premises is not sufficient, however, to rule out animals that are both cats and dogs at the same time.
 
@@ -259,3 +290,7 @@ The information in the premises is not sufficient, however, to rule out animals 
   <text id="svg_17" font-size="16" y="395" x="200">S (mammals)</text>
  </g>
 </svg>
+
+<!--t src=4228a3b9-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse)

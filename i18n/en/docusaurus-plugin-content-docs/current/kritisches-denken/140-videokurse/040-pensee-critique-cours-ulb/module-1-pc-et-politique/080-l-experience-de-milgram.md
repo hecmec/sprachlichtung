@@ -191,3 +191,5 @@ The majority of participants **go all the way**, inflicting maximum shocks, desp
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-experience-de-milgram) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-experience-de-milgram)

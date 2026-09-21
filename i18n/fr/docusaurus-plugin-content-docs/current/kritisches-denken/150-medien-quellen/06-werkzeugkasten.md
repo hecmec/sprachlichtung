@@ -149,3 +149,7 @@ Nous en ajoutons régulièrement de nouveaux.
 <!--t src=aef5e044-->
 <!-- ## Logik
  -->
+
+<!--t src=16011d96-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/medien-quellen/werkzeugkasten) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/werkzeugkasten)

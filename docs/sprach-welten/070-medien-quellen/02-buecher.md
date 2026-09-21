@@ -44,4 +44,4 @@ draft: false
 - Dolf Sternberger, Wilhelm E. Süskind und Gerhard Storz (1957): _Das Wörterbuch des Unmenschen_
 - [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) &mdash; soztheo.de
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md)
+[Article en français](pathname:///fr/docs/sprach-welten/medien-quellen/buecher) | [Article in English](pathname:///en/docs/sprach-welten/medien-quellen/buecher)

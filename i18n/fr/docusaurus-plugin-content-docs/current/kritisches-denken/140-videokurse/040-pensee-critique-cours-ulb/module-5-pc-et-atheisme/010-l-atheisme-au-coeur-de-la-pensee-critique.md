@@ -71,3 +71,4 @@ L’intérêt de cette leçon tient au mécanisme qu’elle met au jour : ce n�
 <!-- href="https://www.youtube.com/watch?v=b9dJAhkq0Xs"
   Pensée critique - L'Athéisme au cœur de la pensée critique - 01 - Module 6 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-atheisme-coeur-pensee-critique) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-atheisme-coeur-pensee-critique)

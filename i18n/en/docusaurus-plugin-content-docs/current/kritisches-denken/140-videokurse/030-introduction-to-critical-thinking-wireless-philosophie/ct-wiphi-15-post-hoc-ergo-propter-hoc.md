@@ -52,3 +52,5 @@ Henne closes by extending the point beyond his own example: a cat scratch occurr
 ### Key takeaway
 
 Concluding that Y caused X merely because X followed Y is the post hoc fallacy; only additional evidence, not the order of events, can establish that a causal relationship actually exists.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-15-post-hoc-ergo-propter-hoc)

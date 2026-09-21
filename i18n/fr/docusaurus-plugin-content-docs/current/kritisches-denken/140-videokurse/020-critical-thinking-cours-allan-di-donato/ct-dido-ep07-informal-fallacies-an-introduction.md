@@ -219,3 +219,5 @@ L’épisode suivant commence par la première et la plus petite famille (souven
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction)

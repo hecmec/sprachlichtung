@@ -48,3 +48,6 @@ Nous avons appris ce qui suit :
 
 <!--t src=f48c40b4-->
 L'examen des paradoxes est une composante essentielle de la pensée critique. Il nous apprend à remettre en question nos hypothèses, à penser avec plus de précision, à développer des pistes de solution créatives et à reconnaître les limites de nos concepts. Les paradoxes nous rappellent que même des systèmes logiques en apparence solides peuvent avoir des limites et que la pensée critique consiste souvent à composer avec l'incertitude et l'ambiguïté.
+
+<!--t src=4d8d8e66-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/zusammenfassung)

@@ -62,3 +62,4 @@ Le cours ne referme pas le débat, et c’est cohérent avec la thèse de Perelm
 <!-- href="https://www.youtube.com/watch?v=JDroWCTyRDU"
   Pensée critique - La pensée critique, l'argumentation et la liberté d'expression - 08 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-conclusion-argumentation-liberte-expression)

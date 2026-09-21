@@ -21,7 +21,7 @@ controls src='https://youtu.be/hfil34ayaEU' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 5:59. Original title: *CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]*
+Wireless Philosophy, Fallacies, 5:59. Original title: _CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -257,3 +257,5 @@ Strohmänner, ob als Übertreibung, als Vereinfachung oder als Ausweichmanöver,
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-17-straw-man-fallacy) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-17-straw-man-fallacy)

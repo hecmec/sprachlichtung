@@ -36,3 +36,5 @@ Wir haben gelernt:
 - **Wissenschaftliches Denken im Alltag** kann in verschiedenen Lebensbereichen angewendet werden, um bessere Entscheidungen zu treffen und kognitive Verzerrungen zu überwinden.
 
 Die Wissenschaft ist ein mächtiges Werkzeug zur Gewinnung verlässlichen Wissens, aber sie hat auch Grenzen. Ein kritisches Verständnis wissenschaftlicher Methoden und Prinzipien hilft uns, wissenschaftliche Behauptungen angemessen zu bewerten und wissenschaftliches Denken in unserem Alltag anzuwenden.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung)

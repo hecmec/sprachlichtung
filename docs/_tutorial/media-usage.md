@@ -25,12 +25,12 @@ the build with `couldn't be resolved to an existing local image file`.
 
 **All images live under `static/img/`.** There are no image folders inside `docs/` or `i18n/`.
 
-| Folder | Reference as | Contents |
-| --- | --- | --- |
-| `static/img/kd/` | `/img/kd/foo.png` | Kritisches Denken |
-| `static/img/sw/` | `/img/sw/foo.png` | Sprach-Welten |
-| `static/img/misc/` | `/img/misc/foo.png` | Everything else |
-| `static/img/` | `/img/foo.png` | Site-level assets: logo, favicon, shared icons |
+| Folder             | Reference as        | Contents                                       |
+| ------------------ | ------------------- | ---------------------------------------------- |
+| `static/img/kd/`   | `/img/kd/foo.png`   | Kritisches Denken                              |
+| `static/img/sw/`   | `/img/sw/foo.png`   | Sprach-Welten                                  |
+| `static/img/misc/` | `/img/misc/foo.png` | Everything else                                |
+| `static/img/`      | `/img/foo.png`      | Site-level assets: logo, favicon, shared icons |
 
 Because every reference is site-absolute, the same path works from German, English and French
 without duplicating the file per locale.
@@ -55,8 +55,7 @@ trouble and is awkward to reference from every locale. Use a topic prefix (`bias
 The path is resolved to a real file at build time and bundled by webpack. Output:
 
 ```html
-<img alt="Silk carpet" src="/assets/images/banner-met-silk-carpet-281f93f9.jpg"
-     width="1000" height="212" loading="lazy" decoding="async">
+<img alt="Silk carpet" src="/assets/images/banner-met-silk-carpet-281f93f9.jpg" width="1000" height="212" loading="lazy" decoding="async" />
 ```
 
 You get content hashing (long-lived caching), automatic `width`/`height` (no layout shift),
@@ -76,11 +75,11 @@ this when you need attributes that Markdown cannot express, and double-check the
 ### 3. `require()` in MDX
 
 ```jsx
-<img src={require('@site/static/img/tiktok.png').default} alt="tiktok ads" height="30" />
+<img src={require("@site/static/img/tiktok.png").default} alt="tiktok ads" height="30" />
 ```
 
 This is the **bundled** version of form 2. Use it when you need HTML attributes (inline styles,
-sizing) *and* build-time verification.
+sizing) _and_ build-time verification.
 
 The argument is a **filesystem path**, so it does include `static/`. Use the `@site/` alias
 rather than `../../static/...`, so the path does not change when the file is moved. A missing
@@ -108,7 +107,7 @@ image: ../img/ulb-pc-intro.png
 
 ```html
 <!-- built output, broken -->
-<meta property="og:image" content="https://hecmec.github.io/../img/ulb-pc-intro.png">
+<meta property="og:image" content="https://hecmec.github.io/../img/ulb-pc-intro.png" />
 ```
 
 Since every image already lives under `static/img/`, the correct value is always just the
@@ -116,16 +115,16 @@ Since every image already lives under `static/img/`, the correct value is always
 
 ## Summary table
 
-| Form | Path style | Bundled + hashed | Missing file |
-| --- | --- | --- | --- |
-| `![alt](/img/kd/x.png)` | URL, no `static/` | yes | build error |
-| `<img src="/img/kd/x.png">` | URL, no `static/` | no | silent 404 |
-| `require('@site/static/img/kd/x.png')` | filesystem, with `static/` | yes | build error |
-| frontmatter `image:` | URL, no `static/`, absolute only | no | silent broken card |
+| Form                                   | Path style                       | Bundled + hashed | Missing file       |
+| -------------------------------------- | -------------------------------- | ---------------- | ------------------ |
+| `![alt](/img/kd/x.png)`                | URL, no `static/`                | yes              | build error        |
+| `<img src="/img/kd/x.png">`            | URL, no `static/`                | no               | silent 404         |
+| `require('@site/static/img/kd/x.png')` | filesystem, with `static/`       | yes              | build error        |
+| frontmatter `image:`                   | URL, no `static/`, absolute only | no               | silent broken card |
 
 ## Localised content
 
-Files under `i18n/{locale}/docusaurus-plugin-content-docs/current/` use exactly the same
+Files under `i18n/{locale}/docs/` use exactly the same
 `/img/...` URLs as the German originals. Nothing needs copying per locale, and translating a
 page never requires touching its image paths.
 

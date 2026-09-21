@@ -30,9 +30,11 @@ _Wishing does not make it true._
 ## Definition
 
 <!--t src=6c5c2aff-->
+
 In **wishful thinking**, it is not the facts but the **wish** that determines what someone holds to be true. The pleasantness of an idea is confused with its truth.
 
 <!--t src=f5a4c537-->
+
 The error: that a statement is _pleasant_ or _desirable_ says nothing about its _correctness_. Closely related is the appeal to consequences, in which the truth value of a thesis is inferred from its (un)desirable consequences.
 
 <!--t src=3c24b250-->
@@ -56,6 +58,7 @@ Also known as: _wishful thinking_
 <!-- list similar fallacies -->
 
 <!--t src=1a59129e-->
+
 - **Appeal to emotion** &mdash; related: a feeling (here the wish) replaces the evidence.
 - **Personal incredulity** &mdash; the negative counterpart: "I won't/can't believe it, so it's false."
 - **Appeal to consequences** &mdash; related: inferring the truth value of a thesis from its consequences.
@@ -72,6 +75,7 @@ Also known as: _wishful thinking_
 <!-- description of example one -->
 
 <!--t src=daef5995-->
+
 > "My ticket will surely win &mdash; I just need the money too badly."
 
 <!--t src=bf6d470b-->
@@ -104,3 +108,7 @@ How inconvenient a consequence would be does not decide whether the underlying f
 
 - [Wikipedia: Wishful thinking](https://en.wikipedia.org/wiki/Wishful_thinking)
 - [Logically Fallacious: Wishful Thinking](https://www.logicallyfallacious.com/logicalfallacies/Wishful-Thinking)
+
+<!--t src=b6511acb-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/wunschdenken) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/wunschdenken)

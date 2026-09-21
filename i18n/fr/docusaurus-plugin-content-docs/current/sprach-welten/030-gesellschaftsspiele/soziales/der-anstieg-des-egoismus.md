@@ -18,47 +18,59 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=148116fd-->
+
 Titre original dans le journal _Le Monde_ :\
 « _Comment lutter contre la montée des égoïsmes ? Najat Vallaud-Belkacem débat avec le sociologue Camille Peugny_ », fr :
 [_Comment lutter contre la montée des égoïsmes ? Najat Vallaud-Belkacem débat avec le sociologue Camille Peugny_](https://www.lemonde.fr/idees/article/2026/01/17/comment-lutter-contre-la-montee-des-egoismes-najat-vallaud-belkacem-debat-avec-le-sociologue-camille-peugny_6662718_3232.html)
 
 <!--t src=e749d7c1-->
+
 ## Résumé structuré : égalité des chances et égalité des conditions face au triomphe de l'égoïsme
 
 <!--t src=fc82262f-->
+
 ### 1. L'égoïsme comme « nouvelle contrainte sociale »
 
 <!--t src=877cdf9e-->
+
 Camille Peugny, sociologue, analyse l'émergence d'un **égoïsme généralisé** depuis les années 1980, devenu norme sociale en France et dans d'autres sociétés occidentales.
 
 <!--t src=d974ff7c-->
+
 Ce phénomène s'explique par le **recul de l'État social** et par la **montée de la concurrence individuelle**, qui supplantent les valeurs collectives (solidarité, services publics). L'égoïsme n'est plus un choix moral, mais une **contrainte imposée par le système**, dans lequel chacune et chacun doit se battre pour sa place : à l'école, au travail et dans la vie quotidienne.
 
 <!--t src=24ccb018-->
+
 Najat Vallaud-Belkacem, ancienne ministre, confirme cette analyse : la **marchandisation de la société** (éducation, santé, etc.) et l'**économie numérique de l'attention** (algorithmes, réseaux sociaux) renforcent les comportements individualistes et affaiblissent le civisme.
 
 <!--t src=1e76bf29-->
+
 ### 2. Les dangers pour l'égalité
 
 <!--t src=8cb04aff-->
+
 - **Inégalités scolaires** : les classes favorisées défendent leurs privilèges (écoles privées, refus de la mixité sociale) et font de l'école un champ de **lutte des places**. La méritocratie devient un leurre qui masque une « **héritocratie** ».
 - **Précarisation des classes populaires** : les emplois précaires (livraison, aide à domicile) et l'ubérisation poussent les plus vulnérables vers une **responsabilisation individuelle forcée**, sans filet social.
 - **Montée du néolibéralisme** : les classes moyennes supérieures, autrefois progressistes, adhèrent aujourd'hui à la **concurrence et au mérite** et interprètent les inégalités comme le résultat de parcours individuels. Ce virage idéologique affaiblit les politiques de redistribution.
 - **Affaiblissement du collectif** : les mouvements sociaux (gilets jaunes, mobilisations sur les retraites) sont à peine entendus, ce qui **démotive l'engagement citoyen**.
 
 <!--t src=f108f7ec-->
+
 ### 3. Égalité des chances contre égalité des conditions
 
 <!--t src=e2ebfc1c-->
+
 - L'**égalité des chances** (une concurrence équitable) domine, mais elle est **insuffisante** : elle ne garantit pas à tous une **vie digne** (ouvriers, caissières, etc.).
 - Beaucoup de personnes issues des classes populaires ne vivent pas réellement cette égalité des chances, parce qu'elles vivent dans des conditions inégales.
 - L'**égalité des conditions** est essentielle pour la cohésion sociale. Les conditions de vie sont très différentes : salaires convenables, loyers abordables, conditions de travail, mobilité sociale.
 - **Mérite ou origine** : les classes moyennes croient de plus en plus ne devoir leur réussite qu'à leur seul mérite. Elles oublient ce qu'elles doivent à leur origine et à la société dans son ensemble.
 
 <!--t src=885bbb53-->
+
 ### 4. Que faire ?
 
 <!--t src=a1b71624-->
+
 - **Réduire le poids du diplôme** : en France, il reste encore trop important d'avoir fréquenté un établissement d'enseignement supérieur prestigieux. Il nous faut davantage de formation continue, d'apprentissage tout au long de la vie, d'apprentissage professionnel.
 - **Améliorer les salaires et les parcours de carrière** dans les métiers peu qualifiés.
 - **Lutter contre les discriminations** (genre, origine, couleur de peau).
@@ -207,3 +219,7 @@ S’il est difficile pour les mouvements politiques d’embrasser ces problèmes
 
 Surtout, pour que les citoyens retrouvent foi en un projet collectif, les discours incantatoires sur l’émancipation ne suffisent pas : il faut donner à voir, en actes, à quoi elle ressemble. La gauche doit redevenir utile au quotidien : grâce à l’entraide, l’aide aux devoirs, l’éducation populaire, l’engagement dans les centres sociaux, les MJC [maisons des jeunes et de la culture], les grandes associations, des personnes désaffiliées civiquement et politiquement, venues d’abord pour une prestation, découvrent qu’elles peuvent délibérer et décider ensemble. C’est comme ça que l’on peut réinvestir le collectif et renouer, un jour, avec le geste de voter.
 -->
+
+<!--t src=767bcf1e-->
+
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/soziales/der-anstieg-des-egoismus) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/soziales/der-anstieg-des-egoismus)

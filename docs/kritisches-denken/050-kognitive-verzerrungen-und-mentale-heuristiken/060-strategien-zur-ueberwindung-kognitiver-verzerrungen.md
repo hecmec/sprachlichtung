@@ -16,6 +16,7 @@ last_update:
 completeness: 3/5
 draft: false
 ---
+
 <!-- markdownlint-disable MD024 -->
 
 Kognitive Verzerrungen vollständig zu eliminieren ist unmöglich, da sie tief in unseren Denkprozessen verankert sind. Dennoch gibt es Strategien, um ihre Auswirkungen zu reduzieren:
@@ -91,4 +92,4 @@ Spezifische Techniken können helfen, bestimmte Verzerrungen zu reduzieren.
 - Gegen den Rückschaufehler: Vorhersagen vor Ereignissen dokumentieren
 - Gegen den Status-quo-Bias: Aktiv Alternativen generieren und bewerten
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/strategien-zur-ueberwindung-kognitiver-verzerrungen)

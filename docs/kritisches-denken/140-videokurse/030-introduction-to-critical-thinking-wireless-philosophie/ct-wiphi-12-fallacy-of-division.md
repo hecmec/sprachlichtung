@@ -21,7 +21,7 @@ controls src='https://youtu.be/uEhRqiSA4ko' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 4:52. Original title: *CRITICAL THINKING - Fallacies: Fallacy of Division*
+Wireless Philosophy, Fallacies, 4:52. Original title: _CRITICAL THINKING - Fallacies: Fallacy of Division_
 
 <div className="row">
 <div className="col col--6">
@@ -182,3 +182,5 @@ Nur weil Wasser nass ist, sind Wassermoleküle noch lange nicht nass: Was für e
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-12-fallacy-of-division)

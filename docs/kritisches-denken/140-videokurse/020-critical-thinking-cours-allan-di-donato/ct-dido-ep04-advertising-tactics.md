@@ -149,20 +149,20 @@ Die drei Zwecke der Medienwerbung sind, **Aufmerksamkeit** zu schaffen, zu **inf
 
 - **Scarcity** – "limited time only", limited editions; cutting off your time to compare alternatives (the disciplined response is to do your own research).
 - **Association** – linking a product to a desirable image: **transference** (celebrity glamour), **class/snob appeal** (selling a lifestyle), **sensuality** ("sex sells"), and **wish fulfillment** (get-rich-quick fantasies).
-- **Authority** – celebrity endorsements as an **appeal to a false authority** (*argumentum ad verecundiam*); the celebrity rarely has real expertise about the product.
+- **Authority** – celebrity endorsements as an **appeal to a false authority** (_argumentum ad verecundiam_); the celebrity rarely has real expertise about the product.
 - **Commitment** – small initial buy-in leading to more (network marketing); wearing a cause's ribbon making donation more likely.
 - **Personality appeal** – we buy from people we like (Tupperware/Pampered Chef parties among friends).
-- **Consensus / bandwagon** – "best-selling", "billions served" (*consensus gentium*, appeal to the majority).
+- **Consensus / bandwagon** – "best-selling", "billions served" (_consensus gentium_, appeal to the majority).
 
 </div>
 <div className="col col--6 video-translation">
 
 - **Verknappung** – „nur für kurze Zeit", limitierte Editionen; die Zeit abschneiden, um Alternativen zu vergleichen (die disziplinierte Antwort ist, selbst zu recherchieren).
 - **Assoziation** – ein Produkt mit einem begehrenswerten Bild verknüpfen: **Übertragung** (Prominenten-Glamour), **Klassen-/Snob-Appeal** (einen Lebensstil verkaufen), **Sinnlichkeit** („sex sells") und **Wunscherfüllung** (Schnell-reich-werden-Fantasien).
-- **Autorität** – Prominenten-Empfehlungen als **Berufung auf eine falsche Autorität** (*argumentum ad verecundiam*); der Promi hat selten echte Sachkenntnis über das Produkt.
+- **Autorität** – Prominenten-Empfehlungen als **Berufung auf eine falsche Autorität** (_argumentum ad verecundiam_); der Promi hat selten echte Sachkenntnis über das Produkt.
 - **Commitment** – ein kleiner anfänglicher Einstieg, der zu mehr führt (Network-Marketing); das Tragen einer Schleife für einen guten Zweck macht eine Spende wahrscheinlicher.
 - **Sympathie-Appeal** – wir kaufen von Menschen, die wir mögen (Tupperware-/Pampered-Chef-Partys unter Freunden).
-- **Konsens / Mitläufereffekt** – „meistverkauft", „Milliarden serviert" (*consensus gentium*, Berufung auf die Mehrheit).
+- **Konsens / Mitläufereffekt** – „meistverkauft", „Milliarden serviert" (_consensus gentium_, Berufung auf die Mehrheit).
 
 </div>
 </div>
@@ -183,12 +183,12 @@ Die drei Zwecke der Medienwerbung sind, **Aufmerksamkeit** zu schaffen, zu **inf
 <div className="row">
 <div className="col col--6">
 
-A recurring lesson: ads are crafted so that what *sounds* like a claim often is not.
+A recurring lesson: ads are crafted so that what _sounds_ like a claim often is not.
 
 </div>
 <div className="col col--6 video-translation">
 
-Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Behauptung *klingt*, oft keine ist.
+Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Behauptung _klingt_, oft keine ist.
 
 </div>
 </div>
@@ -199,9 +199,9 @@ Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Be
 - **Vague claims** kept safe from false-advertising liability.
 - **Naturalistic appeal** – "natural/organic" read as "good for you" (even organic cigarettes).
 - **Weaselers** – qualifiers that defuse exaggeration ("lose **up to** 17 pounds").
-- **Meaningless statements** – "people don't realize that X is the best-selling product" is a claim about *people*, not the product.
+- **Meaningless statements** – "people don't realize that X is the best-selling product" is a claim about _people_, not the product.
 - **Statistical persuasion** – "four out of five dentists recommend…", often unrepresentative and an instance of **suppressed evidence**.
-- **Subliminal messaging** and **product placement** (ET's Reese's Pieces sales spike, the T-Mobile ringtone, Coke cups on *American Idol*, GM cars in *Transformers*).
+- **Subliminal messaging** and **product placement** (ET's Reese's Pieces sales spike, the T-Mobile ringtone, Coke cups on _American Idol_, GM cars in _Transformers_).
 - **Packaging tricks** – "gold foil" packaging and idealized **food photography** that outshines the real product.
 - **Jingles** – catchy, memorable tunes that keep the brand in your head.
 - **Outright lies / empty promises** – false advertising and exaggeration ("twice as fast, half the price").
@@ -212,9 +212,9 @@ Eine wiederkehrende Lektion: Anzeigen sind so gemacht, dass das, was wie eine Be
 - **Vage Behauptungen**, die vor der Haftung für irreführende Werbung sicher bleiben.
 - **Naturalistischer Appell** – „natürlich/bio" wird als „gut für dich" gelesen (sogar Bio-Zigaretten).
 - **Weichmacher (weaselers)** – Einschränkungen, die die Übertreibung entschärfen („verlieren Sie **bis zu** 17 Pfund").
-- **Bedeutungslose Aussagen** – „die Leute wissen nicht, dass X das meistverkaufte Produkt ist" ist eine Behauptung über die *Leute*, nicht über das Produkt.
+- **Bedeutungslose Aussagen** – „die Leute wissen nicht, dass X das meistverkaufte Produkt ist" ist eine Behauptung über die _Leute_, nicht über das Produkt.
 - **Statistische Überredung** – „vier von fünf Zahnärzten empfehlen …", oft nicht repräsentativ und ein Fall von **unterschlagenen Beweisen**.
-- **Unterschwellige Botschaften** und **Produktplatzierung** (der Verkaufsschub von Reese's Pieces durch E.T., der T-Mobile-Klingelton, Coke-Becher bei *American Idol*, GM-Autos in *Transformers*).
+- **Unterschwellige Botschaften** und **Produktplatzierung** (der Verkaufsschub von Reese's Pieces durch E.T., der T-Mobile-Klingelton, Coke-Becher bei _American Idol_, GM-Autos in _Transformers_).
 - **Verpackungstricks** – „Goldfolien"-Verpackung und idealisierte **Food-Fotografie**, die das echte Produkt überstrahlt.
 - **Jingles** – eingängige, einprägsame Melodien, die die Marke im Kopf halten.
 - **Glatte Lügen / leere Versprechen** – irreführende Werbung und Übertreibung („doppelt so schnell, halb so teuer").
@@ -350,3 +350,5 @@ Die Fähigkeit, die der Kurs aufbauen will, ist es, **innezuhalten und zu bewert
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics)

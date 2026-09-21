@@ -296,3 +296,5 @@ Le prochain épisode aborde la science historique et les erreurs courantes du ra
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods)

@@ -65,3 +65,5 @@ If the occurrence of a phenomenon **varies with** a particular element, that ele
 Also known as the **process of elimination**: the antecedent factor that remains after all others have been eliminated as probable causes is probably the cause. This is essentially the same as **inference to the best explanation**.
 
 The next episode turns to historical science and common mistakes in causal reasoning.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep23-experimental-science-and-the-mills-methods)

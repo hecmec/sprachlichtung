@@ -74,3 +74,5 @@ import ReactPlayer from 'react-player';
 
 **Conclusion** :
 Le concept de *libre examen*, issu d’un contexte religieux de contestation de l’autorité catholique, a évolué pour devenir un principe central de la pensée critique, encourageant chacun à juger par soi-même, par l’usage raisonné de la raison.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-sola-scriptura) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-sola-scriptura)

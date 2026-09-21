@@ -76,4 +76,4 @@ Die Definition von „gläubig“ wird nachträglich so verengt, dass die Behaup
 - [Wikipedia: Kein wahrer Schotte](https://de.wikipedia.org/wiki/Kein_wahrer_Schotte)
 - [Logically Fallacious: No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kein-wahrer-schotte.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte)

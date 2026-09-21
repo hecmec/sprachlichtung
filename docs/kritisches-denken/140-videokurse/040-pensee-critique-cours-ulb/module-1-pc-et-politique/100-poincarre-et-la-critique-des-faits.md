@@ -18,7 +18,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-12-18
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -38,7 +37,7 @@ import ReactPlayer from 'react-player';
 
 Guy Haarscher introduit la pensée critique à partir d’une citation célèbre du physicien Henri Poincaré (1909) :
 
-> *« La pensée ne doit jamais se soumettre ni à un dogme, ni à un parti, ni à une passion, ni à un intérêt, ni à une idée préconçue, ni à quoi que ce soit, si ce n’est aux faits eux-mêmes, parce que pour elle se soumettre, ce serait cesser d’être. »*
+> _« La pensée ne doit jamais se soumettre ni à un dogme, ni à un parti, ni à une passion, ni à un intérêt, ni à une idée préconçue, ni à quoi que ce soit, si ce n’est aux faits eux-mêmes, parce que pour elle se soumettre, ce serait cesser d’être. »_
 
 Cette phrase met en lumière deux dimensions essentielles de la pensée critique.
 
@@ -49,7 +48,7 @@ Cette phrase met en lumière deux dimensions essentielles de la pensée critique
 
 Guy Haarscher führt das kritische Denken anhand eines berühmten Zitats des Physikers Henri Poincaré (1909) ein:
 
-> *„Das Denken darf sich niemals unterwerfen, weder einem Dogma noch einer Partei, noch einer Leidenschaft, noch einem Interesse, noch einer vorgefassten Idee, noch irgendetwas, außer den Tatsachen selbst, denn sich zu unterwerfen hieße für das Denken, aufzuhören zu sein."*
+> _„Das Denken darf sich niemals unterwerfen, weder einem Dogma noch einer Partei, noch einer Leidenschaft, noch einem Interesse, noch einer vorgefassten Idee, noch irgendetwas, außer den Tatsachen selbst, denn sich zu unterwerfen hieße für das Denken, aufzuhören zu sein."_
 
 Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
@@ -63,15 +62,15 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 1. **Les autorités extérieures :**
 
-* Dogmes, partis, figures d’autorité.
-* Ces entités veulent penser à notre place.
-* Elles représentent un danger extérieur pour la liberté de penser.
+- Dogmes, partis, figures d’autorité.
+- Ces entités veulent penser à notre place.
+- Elles représentent un danger extérieur pour la liberté de penser.
 
 2. **Les adversaires intérieurs :**
 
-* Passions, intérêts égoïstes, idées préconçues.
-* Ces biais internes nous empêchent de juger objectivement et de prendre en compte les autres.
-* Ils peuvent être inconscients, imposés socialement (préjugés).
+- Passions, intérêts égoïstes, idées préconçues.
+- Ces biais internes nous empêchent de juger objectivement et de prendre en compte les autres.
+- Ils peuvent être inconscients, imposés socialement (préjugés).
 
 </div>
 <div className="col col--6 video-translation">
@@ -80,15 +79,15 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 1. **Die äußeren Autoritäten:**
 
-* Dogmen, Parteien, Autoritätsfiguren.
-* Diese Instanzen wollen an unserer Stelle denken.
-* Sie stellen eine äußere Gefahr für die Freiheit des Denkens dar.
+- Dogmen, Parteien, Autoritätsfiguren.
+- Diese Instanzen wollen an unserer Stelle denken.
+- Sie stellen eine äußere Gefahr für die Freiheit des Denkens dar.
 
 2. **Die inneren Gegner:**
 
-* Leidenschaften, egoistische Interessen, vorgefasste Ideen.
-* Diese inneren Verzerrungen hindern uns daran, objektiv zu urteilen und die anderen zu berücksichtigen.
-* Sie können unbewusst sein, gesellschaftlich auferlegt (Vorurteile).
+- Leidenschaften, egoistische Interessen, vorgefasste Ideen.
+- Diese inneren Verzerrungen hindern uns daran, objektiv zu urteilen und die anderen zu berücksichtigen.
+- Sie können unbewusst sein, gesellschaftlich auferlegt (Vorurteile).
 
 </div>
 </div>
@@ -98,18 +97,18 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 ## ✔ Ce à quoi la pensée **doit** se soumettre : **les faits**
 
-* Trop souvent négligée, cette partie de la citation est fondamentale.
-* Se libérer de l’autorité ne suffit pas : la pensée critique n’est pas une simple rébellion.
-* Elle implique un **engagement actif envers la réalité** telle qu’elle est, indépendamment de nos préférences.
+- Trop souvent négligée, cette partie de la citation est fondamentale.
+- Se libérer de l’autorité ne suffit pas : la pensée critique n’est pas une simple rébellion.
+- Elle implique un **engagement actif envers la réalité** telle qu’elle est, indépendamment de nos préférences.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h2>Wovor sich das Denken <strong>beugen muss</strong>: <strong>die Tatsachen</strong></h2>
 
-* Dieser oft übersehene Teil des Zitats ist grundlegend.
-* Sich von der Autorität zu befreien genügt nicht: Kritisches Denken ist keine bloße Rebellion.
-* Es verlangt ein **aktives Sich-Einlassen auf die Wirklichkeit**, so wie sie ist, unabhängig von unseren Vorlieben.
+- Dieser oft übersehene Teil des Zitats ist grundlegend.
+- Sich von der Autorität zu befreien genügt nicht: Kritisches Denken ist keine bloße Rebellion.
+- Es verlangt ein **aktives Sich-Einlassen auf die Wirklichkeit**, so wie sie ist, unabhängig von unseren Vorlieben.
 
 </div>
 </div>
@@ -119,24 +118,24 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 ## 🎯 La pensée critique, une discipline de la raison
 
-* Être libre ne veut pas dire penser n’importe comment.
-* La pensée critique suppose rigueur, cohérence, et refus des jugements hâtifs.
-* Elle requiert :
-    * L’écoute sincère des arguments d’autrui.
-    * La soumission volontaire à l’examen rationnel.
-    * Une ascèse intellectuelle : exercice exigeant de l’esprit.
+- Être libre ne veut pas dire penser n’importe comment.
+- La pensée critique suppose rigueur, cohérence, et refus des jugements hâtifs.
+- Elle requiert :
+  - L’écoute sincère des arguments d’autrui.
+  - La soumission volontaire à l’examen rationnel.
+  - Une ascèse intellectuelle : exercice exigeant de l’esprit.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h2>Das kritische Denken, eine Disziplin der Vernunft</h2>
 
-* Frei zu sein heißt nicht, beliebig zu denken.
-* Kritisches Denken setzt Genauigkeit, Kohärenz und die Ablehnung vorschneller Urteile voraus.
-* Es erfordert:
-    * Das aufrichtige Zuhören der Argumente anderer.
-    * Die freiwillige Unterwerfung unter die rationale Prüfung.
-    * Eine intellektuelle Askese: eine anspruchsvolle Übung des Geistes.
+- Frei zu sein heißt nicht, beliebig zu denken.
+- Kritisches Denken setzt Genauigkeit, Kohärenz und die Ablehnung vorschneller Urteile voraus.
+- Es erfordert:
+  - Das aufrichtige Zuhören der Argumente anderer.
+  - Die freiwillige Unterwerfung unter die rationale Prüfung.
+  - Eine intellektuelle Askese: eine anspruchsvolle Übung des Geistes.
 
 </div>
 </div>
@@ -146,12 +145,11 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 ## 🧭 Conclusion
 
-* La pensée critique refuse toute autorité dogmatique (extérieure ou intérieure).
-* Mais elle **accepte volontairement la contrainte des faits** et de la raison.
-* Il s’agit d’un **double mouvement** :
-
-  * Se libérer des influences humaines.
-  * Se soumettre à la vérité objectivable par les faits et la réflexion rationnelle.
+- La pensée critique refuse toute autorité dogmatique (extérieure ou intérieure).
+- Mais elle **accepte volontairement la contrainte des faits** et de la raison.
+- Il s’agit d’un **double mouvement** :
+  - Se libérer des influences humaines.
+  - Se soumettre à la vérité objectivable par les faits et la réflexion rationnelle.
 
 > **En somme, la pensée critique n’est pas l’absence de règles, mais le choix d’une discipline libre et lucide.**
 
@@ -160,14 +158,15 @@ Dieser Satz beleuchtet zwei wesentliche Dimensionen des kritischen Denkens.
 
 <h2>Fazit</h2>
 
-* Kritisches Denken lehnt jede dogmatische Autorität ab (äußere oder innere).
-* Aber es **nimmt freiwillig den Zwang der Tatsachen** und der Vernunft an.
-* Es handelt sich um eine **Doppelbewegung**:
-
-  * Sich von den menschlichen Einflüssen befreien.
-  * Sich der durch Tatsachen und rationale Reflexion objektivierbaren Wahrheit unterwerfen.
+- Kritisches Denken lehnt jede dogmatische Autorität ab (äußere oder innere).
+- Aber es **nimmt freiwillig den Zwang der Tatsachen** und der Vernunft an.
+- Es handelt sich um eine **Doppelbewegung**:
+  - Sich von den menschlichen Einflüssen befreien.
+  - Sich der durch Tatsachen und rationale Reflexion objektivierbaren Wahrheit unterwerfen.
 
 > **Kurz gesagt: Kritisches Denken ist nicht das Fehlen von Regeln, sondern die Wahl einer freien und klarsichtigen Disziplin.**
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-les-faits) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-les-faits)

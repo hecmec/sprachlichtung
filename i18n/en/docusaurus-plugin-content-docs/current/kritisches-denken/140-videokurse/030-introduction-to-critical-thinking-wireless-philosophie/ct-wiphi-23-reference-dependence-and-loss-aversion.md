@@ -59,3 +59,5 @@ Restated in terms of lives saved and lost, drugs A and C are identical (two hund
 ### Key takeaway
 
 Santos concludes that even in a life-or-death decision, our choices are shaped less by the actual outcomes than by how those outcomes are worded: reference dependence sets the baseline we measure against, and loss aversion makes us disproportionately avoid whatever that baseline frames as a loss.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-23-reference-dependence-and-loss-aversion)

@@ -287,3 +287,5 @@ Les arguments abductifs sont une sorte d'arguments ampliatifs : leurs prémisses
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-03-abductive-arguments) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-03-abductive-arguments)

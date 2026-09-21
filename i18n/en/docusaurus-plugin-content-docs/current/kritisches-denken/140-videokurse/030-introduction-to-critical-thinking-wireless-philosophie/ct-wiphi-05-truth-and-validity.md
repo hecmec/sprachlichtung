@@ -89,3 +89,5 @@ Chung recommends [Paul's video on validity](./ct-wiphi-04-validity.md) and [Aaro
 ### Key takeaway
 
 Truth belongs to statements, validity to arguments, and the two vary independently. Only their combination, soundness, licenses the conclusion; but reasoning validly from premises we are unsure of is one of our best tools for testing whether those premises are true.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity)

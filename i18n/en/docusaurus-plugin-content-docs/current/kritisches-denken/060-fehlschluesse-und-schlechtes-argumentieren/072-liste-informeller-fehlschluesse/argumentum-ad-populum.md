@@ -31,6 +31,7 @@ _Millions of flies can't be wrong?_
 ## Definition
 
 <!--t src=8a721e48-->
+
 In the **argumentum ad populum** (appeal to the majority, _bandwagon_), a claim is held to be true or an action to be right **because many** agree with it or act that way.
 
 <!--t src=9ae7e5e0-->
@@ -58,6 +59,7 @@ Also known as: _appeal to the people_ / _bandwagon_
 <!-- list similar fallacies -->
 
 <!--t src=752ccc33-->
+
 - **Argumentum ad verecundiam** &mdash; related: appeal to a supposed authority instead of to the crowd.
 - **Argumentum ad antiquitatem** &mdash; related: not "many", but "long-established".
 - **Argumentum ad baculum** &mdash; related, when the majority turns into social pressure.
@@ -74,6 +76,7 @@ Also known as: _appeal to the people_ / _bandwagon_
 <!-- description of example one -->
 
 <!--t src=aeadf114-->
+
 > "That can't be wrong &mdash; millions of people use it, after all."
 
 <!--t src=c0acfaa0-->
@@ -105,3 +108,7 @@ The reference to supposed common knowledge replaces the argument that ought actu
 <!--t src=88b91c2d-->
 
 - [Logically Fallacious: Appeal to the People](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
+
+<!--t src=611ba0de-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-populum) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-populum)

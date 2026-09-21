@@ -24,3 +24,5 @@ controls src='https://youtu.be/IjTRJKePWsg' />
 &nbsp;
 
 There is no transcript for this video at the time of writing. 😪
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep15-informal-fallacies-presumption-part-3) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep15-informal-fallacies-presumption-part-3)

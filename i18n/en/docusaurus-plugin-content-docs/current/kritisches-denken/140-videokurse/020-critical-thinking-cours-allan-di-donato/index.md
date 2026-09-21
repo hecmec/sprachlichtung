@@ -35,3 +35,5 @@ Allan Di Donato has worked extensively on Christian-biblical and mythological to
 the episode list is shared across locales in src/data/ct-dido-course.ts -->
 
 <VideoCardGrid videos={ctDidoCourse} />
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/)

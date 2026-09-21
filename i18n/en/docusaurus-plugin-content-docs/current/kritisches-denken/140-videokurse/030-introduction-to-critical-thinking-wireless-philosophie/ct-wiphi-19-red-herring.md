@@ -49,3 +49,5 @@ Wu's last example is a friend defending whisky as the best drink with dinner by 
 ### Key takeaway
 
 Red herrings take many forms: arguing for the wrong conclusion, responding to the wrong question, making outrageous claims, going on tangents, and giving shallow responses that fail to address the issue actually at stake.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-19-red-herring)

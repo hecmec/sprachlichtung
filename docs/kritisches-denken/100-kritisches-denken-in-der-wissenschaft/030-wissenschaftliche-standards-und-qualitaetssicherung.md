@@ -27,6 +27,7 @@ Die Wissenschaft hat verschiedene Mechanismen entwickelt, um die Qualität und Z
 Das **Peer-Review-Verfahren** (Begutachtung durch Fachkollegen) ist ein zentraler Qualitätssicherungsmechanismus in der Wissenschaft.
 
 **Ablauf des Peer-Review:**
+
 1. Einreichung: Forscher reichen ihre Arbeit bei einer wissenschaftlichen Zeitschrift ein.
 2. Redaktionelle Vorprüfung: Ein Redakteur prüft, ob die Arbeit grundlegende Kriterien erfüllt.
 3. Begutachtung: Die Arbeit wird an mehrere unabhängige Experten (Peers) gesendet.
@@ -36,12 +37,14 @@ Das **Peer-Review-Verfahren** (Begutachtung durch Fachkollegen) ist ein zentrale
 7. Veröffentlichung: Nach Annahme wird die Arbeit veröffentlicht.
 
 **Stärken des Peer-Review:**
+
 - Qualitätskontrolle durch Experten
 - Identifikation von Fehlern oder Schwächen
 - Verbesserung der Klarheit und Präzision
 - Filter gegen pseudowissenschaftliche oder methodisch schwache Arbeiten
 
 **Schwächen des Peer-Review:**
+
 - Mögliche Voreingenommenheit der Gutachter
 - Zeitaufwand und Verzögerungen
 - Konservative Tendenz (Bevorzugung etablierter Ideen)
@@ -52,6 +55,7 @@ Das **Peer-Review-Verfahren** (Begutachtung durch Fachkollegen) ist ein zentrale
 **Replikation** (die Wiederholung einer Studie, um ihre Ergebnisse zu bestätigen) und **Reproduzierbarkeit** (die Fähigkeit, die gleichen Ergebnisse mit den gleichen Methoden zu erzielen) sind fundamentale Prinzipien der Wissenschaft.
 
 **Bedeutung von Replikation und Reproduzierbarkeit:**
+
 - Bestätigung der Zuverlässigkeit von Ergebnissen
 - Identifikation von Zufallsbefunden oder Fehlern
 - Prüfung der Generalisierbarkeit unter verschiedenen Bedingungen
@@ -61,6 +65,7 @@ Das **Peer-Review-Verfahren** (Begutachtung durch Fachkollegen) ist ein zentrale
 In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psychologie und Biomedizin, eine "Replikationskrise" erlebt, bei der viele veröffentlichte Ergebnisse nicht repliziert werden konnten.
 
 **Ursachen der Replikationskrise:**
+
 - Publikationsbias (Tendenz, nur positive Ergebnisse zu veröffentlichen)
 - "p-Hacking" (selektive Analyse, um statistisch signifikante Ergebnisse zu erzielen)
 - Unzureichende statistische Power
@@ -68,6 +73,7 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 - Karriereanreize, die Quantität über Qualität stellen
 
 **Lösungsansätze:**
+
 - Präregistrierung von Studien
 - Open Science-Praktiken (offene Daten, offene Methoden)
 - Verbesserte statistische Methoden
@@ -79,6 +85,7 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 **Wissenschaftliche Integrität** bezieht sich auf die Einhaltung ethischer Prinzipien und professioneller Standards in der Forschung.
 
 **Grundprinzipien wissenschaftlicher Integrität:**
+
 - **Ehrlichkeit**: Wahrheitsgetreue Darstellung von Methoden, Daten und Ergebnissen
 - **Objektivität**: Minimierung von Verzerrungen und Voreingenommenheit
 - **Sorgfalt**: Genaue und gewissenhafte Durchführung der Forschung
@@ -87,6 +94,7 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 - **Verantwortlichkeit**: Rechenschaftspflicht gegenüber der wissenschaftlichen Gemeinschaft und Gesellschaft
 
 **Wissenschaftliches Fehlverhalten:**
+
 - **Fälschung**: Erfindung von Daten oder Ergebnissen
 - **Verfälschung**: Manipulation von Forschungsmaterialien, Geräten oder Prozessen
 - **Plagiat**: Verwendung der Ideen oder Worte anderer ohne angemessene Anerkennung
@@ -94,3 +102,5 @@ In den letzten Jahren haben verschiedene Disziplinen, insbesondere die Psycholog
 - **Fragwürdige Forschungspraktiken**: Praktiken, die zwar nicht als Fehlverhalten gelten, aber die Integrität der Forschung beeinträchtigen
 
 **Beispiel:** Der Fall des südkoreanischen Forschers Hwang Woo-suk, der 2004-2005 bahnbrechende Ergebnisse im Bereich des Klonens menschlicher Embryonen veröffentlichte, die sich später als gefälscht herausstellten.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung)

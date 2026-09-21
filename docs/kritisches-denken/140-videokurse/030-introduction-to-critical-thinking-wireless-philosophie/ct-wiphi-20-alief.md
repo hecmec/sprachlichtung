@@ -21,7 +21,7 @@ controls src='https://youtu.be/TCBALVumrUQ' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 4:00. Original title: *CRITICAL THINKING - Cognitive Biases: Alief [HD]*
+Wireless Philosophy, Cognitive Biases, 4:00. Original title: _CRITICAL THINKING - Cognitive Biases: Alief [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -178,3 +178,5 @@ Wann immer Sie zögern, eine Plastikspinne anzufassen, bei einem Film weinen, vo
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-20-alief) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-20-alief)

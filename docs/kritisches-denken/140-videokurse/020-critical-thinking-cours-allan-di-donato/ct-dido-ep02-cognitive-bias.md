@@ -310,3 +310,5 @@ Lernen Sie die **Namen der häufigen Verzerrungen**. Diese Liste im Kopf zu habe
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias)

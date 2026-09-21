@@ -25,7 +25,6 @@ Harmoniesucht macht Gruppen blind für bessere Alternativen.
 _Friede, Freude, Eierkuchen._
 :::
 
-
 ## Definition
 
 Der **Gruppendenkeffekt** (Groupthink) beschreibt die Tendenz in Gruppen, nach Konsens und Harmonie zu streben und dabei **abweichende Meinungen zu unterdrücken** oder zu ignorieren. Dies führt häufig zu irrationalen oder schlechten Entscheidungen.
@@ -85,4 +84,4 @@ In Krankenhäusern können hierarchische Strukturen dazu führen, dass Pflegekr�
 - Irving Janis (1972): "Victims of Groupthink: A Psychological Study of Foreign-Policy Decisions and Fiascoes"
 - Janis, I. L. (1982): "Groupthink: Psychological Studies of Policy Decisions and Fiascoes"
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/060-Gruppendenkeffekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Gruppendenkeffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Gruppendenkeffekt)

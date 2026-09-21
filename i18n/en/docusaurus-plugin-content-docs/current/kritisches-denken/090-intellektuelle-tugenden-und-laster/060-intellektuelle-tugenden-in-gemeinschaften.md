@@ -147,3 +147,6 @@ Various factors can hinder the development of intellectual virtues in communitie
 
 <!--t src=72deaa60-->
 **Practical application:** Identify a community to which you belong (workplace, educational institution, club) and consider which intellectual virtues are already valued there and which could be fostered. Develop concrete proposals for how this community could cultivate intellectual virtues more strongly.
+
+<!--t src=8d53f4e8-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften)

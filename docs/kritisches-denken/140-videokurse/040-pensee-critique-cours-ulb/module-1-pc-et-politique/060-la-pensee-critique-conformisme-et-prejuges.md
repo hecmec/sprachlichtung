@@ -18,7 +18,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-20
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -36,7 +35,7 @@ import ReactPlayer from 'react-player';
 
 ## 🌿 1. Libération extérieure ≠ pensée critique automatique
 
-Même en l’absence d’obstacles extérieurs (tyrannie, totalitarisme, religion imposée), **la pensée critique ne s’exerce pas spontanément**. 
+Même en l’absence d’obstacles extérieurs (tyrannie, totalitarisme, religion imposée), **la pensée critique ne s’exerce pas spontanément**.
 On pourrait croire qu’une fois "libéré", l’individu pense par lui-même comme si on ouvrait la porte d’une prison.
 En réalité, c’est bien plus **complexe**. Car **les véritables résistances** peuvent venir de **l’intérieur de soi**.
 
@@ -78,18 +77,18 @@ Der **Konformismus** ist eine natürliche Neigung, **sich in der Mehrheit aufzul
 
 ### b. Les causes du conformisme
 
-* **Confort intellectuel** : réfléchir par soi-même demande un effort. Suivre les autres est plus simple.
-* **Recherche d’acceptation** : on veut éviter de déplaire, surtout à ceux dont on dépend (employeurs, entourage, etc.).
-* **Peur du rejet social** : ne pas faire de vagues est souvent prioritaire, même dans des sociétés libres.
+- **Confort intellectuel** : réfléchir par soi-même demande un effort. Suivre les autres est plus simple.
+- **Recherche d’acceptation** : on veut éviter de déplaire, surtout à ceux dont on dépend (employeurs, entourage, etc.).
+- **Peur du rejet social** : ne pas faire de vagues est souvent prioritaire, même dans des sociétés libres.
 
 </div>
 <div className="col col--6 video-translation">
 
 <h3>b. Die Ursachen des Konformismus</h3>
 
-* **Intellektuelle Bequemlichkeit**: Selbst zu denken erfordert Anstrengung. Den anderen zu folgen ist einfacher.
-* **Suche nach Anerkennung**: Man will nicht missfallen, vor allem denen nicht, von denen man abhängt (Arbeitgeber, Umfeld usw.).
-* **Angst vor sozialer Ablehnung**: Keine Wellen zu schlagen hat oft Vorrang, selbst in freien Gesellschaften.
+- **Intellektuelle Bequemlichkeit**: Selbst zu denken erfordert Anstrengung. Den anderen zu folgen ist einfacher.
+- **Suche nach Anerkennung**: Man will nicht missfallen, vor allem denen nicht, von denen man abhängt (Arbeitgeber, Umfeld usw.).
+- **Angst vor sozialer Ablehnung**: Keine Wellen zu schlagen hat oft Vorrang, selbst in freien Gesellschaften.
 
 </div>
 </div>
@@ -128,9 +127,9 @@ Une **idéologie** est un **ensemble de préjugés organisés** et **transmis pa
 
 Caractéristiques :
 
-* Elle façonne l’éducation et l’environnement culturel.
-* Elle est intériorisée dès l’enfance.
-* Elle crée une "seconde nature" chez les individus.
+- Elle façonne l’éducation et l’environnement culturel.
+- Elle est intériorisée dès l’enfance.
+- Elle crée une "seconde nature" chez les individus.
 
 Lutter contre l’idéologie demande une **remise en question profonde**, souvent difficile et douloureuse.
 
@@ -143,9 +142,9 @@ Eine **Ideologie** ist ein **Gefüge organisierter Vorurteile**, die **von autor
 
 Merkmale:
 
-* Sie prägt die Erziehung und das kulturelle Umfeld.
-* Sie wird schon in der Kindheit verinnerlicht.
-* Sie schafft eine „zweite Natur" bei den Individuen.
+- Sie prägt die Erziehung und das kulturelle Umfeld.
+- Sie wird schon in der Kindheit verinnerlicht.
+- Sie schafft eine „zweite Natur" bei den Individuen.
 
 Gegen die Ideologie anzukämpfen erfordert eine **tiefe Infragestellung**, die oft schwierig und schmerzhaft ist.
 
@@ -159,9 +158,9 @@ Gegen die Ideologie anzukämpfen erfordert eine **tiefe Infragestellung**, die o
 
 La pensée critique **ne se décrète pas**, même en liberté. Elle exige :
 
-* Une **lutte contre les automatismes mentaux**.
-* Un **effort de lucidité** pour identifier nos propres biais.
-* Une **discipline intérieure** constante, car **l’adversaire le plus redoutable est en nous-mêmes**.
+- Une **lutte contre les automatismes mentaux**.
+- Un **effort de lucidité** pour identifier nos propres biais.
+- Une **discipline intérieure** constante, car **l’adversaire le plus redoutable est en nous-mêmes**.
 
 Ce combat personnel est **plus difficile que de résister à une oppression extérieure**, car les chaînes intérieures sont invisibles, et souvent bien plus enracinées.
 
@@ -172,11 +171,13 @@ Ce combat personnel est **plus difficile que de résister à une oppression ext�
 
 Kritisches Denken **lässt sich nicht verordnen**, auch nicht in Freiheit. Es verlangt:
 
-* Einen **Kampf gegen die geistigen Automatismen**.
-* Eine **Anstrengung der Klarsicht**, um unsere eigenen Verzerrungen zu erkennen.
-* Eine beständige **innere Disziplin**, denn **der gefährlichste Gegner steckt in uns selbst**.
+- Einen **Kampf gegen die geistigen Automatismen**.
+- Eine **Anstrengung der Klarsicht**, um unsere eigenen Verzerrungen zu erkennen.
+- Eine beständige **innere Disziplin**, denn **der gefährlichste Gegner steckt in uns selbst**.
 
 Dieser persönliche Kampf ist **schwieriger, als einer äußeren Unterdrückung zu widerstehen**, denn die inneren Ketten sind unsichtbar und oft weit tiefer verwurzelt.
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conformisme-prejuges) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conformisme-prejuges)

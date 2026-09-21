@@ -147,3 +147,6 @@ Différents facteurs peuvent entraver le développement des vertus intellectuell
 
 <!--t src=72deaa60-->
 **Application pratique :** Identifiez une communauté à laquelle vous appartenez (lieu de travail, établissement d'enseignement, association) et réfléchissez aux vertus intellectuelles qui y sont déjà valorisées et à celles qui pourraient être encouragées. Élaborez des propositions concrètes sur la manière dont cette communauté pourrait cultiver davantage les vertus intellectuelles.
+
+<!--t src=8d53f4e8-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-in-gemeinschaften)

@@ -31,9 +31,11 @@ _Good parts do not necessarily make a good whole._
 ## Definition
 
 <!--t src=de9d9dce-->
+
 In the **fallacy of composition**, it is assumed that a property of the **parts** automatically applies to the **whole** they form as well.
 
 <!--t src=b96ddcd2-->
+
 The error: some properties carry over from the parts to the whole, but many do not &mdash; precisely where the **interplay** matters. The whole can have properties that no part possesses on its own (emergence).
 
 <!--t src=3c24b250-->
@@ -57,6 +59,7 @@ Also known as: _fallacy of composition_
 <!-- list similar fallacies -->
 
 <!--t src=15e7fb01-->
+
 - **Fallacy of division** &mdash; the mirror image: from the whole to the parts.
 - **Hasty generalization** &mdash; related: an inadmissible transfer to a different level.
 - **Ecological fallacy** &mdash; related: inferring from group data to individual data and vice versa.
@@ -73,6 +76,7 @@ Also known as: _fallacy of composition_
 <!-- description of example one -->
 
 <!--t src=6faf9aa6-->
+
 > "Every player on this team is excellent &mdash; so it is an excellent team."
 
 <!--t src=cd3f573b-->
@@ -105,3 +109,7 @@ Good-tasting ingredients do not necessarily add up to a good dish.
 
 - [Wikipedia: Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition)
 - [Logically Fallacious: Composition](https://www.logicallyfallacious.com/logicalfallacies/Composition)
+
+<!--t src=4a2c7ef8-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition)

@@ -82,4 +82,4 @@ Wer das laterale Lesen mit echten Beispielen trainieren möchte, findet beim kan
 Selbst prüfen _oder_ seriöse Faktenchecker nutzen, beides ist gut. Für Bilder gilt: **Rückwärtssuche zuerst.** Sie entlarvt die meisten „aus dem Kontext gerissenen“ Fälschungen in Sekunden.
 :::
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/090-faktencheck-werkzeuge.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/faktencheck-werkzeuge)

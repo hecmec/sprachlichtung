@@ -78,3 +78,5 @@ Cette phrase met en lumière deux dimensions essentielles de la pensée critique
   * Se soumettre à la vérité objectivable par les faits et la réflexion rationnelle.
 
 > **En somme, la pensée critique n’est pas l’absence de règles, mais le choix d’une discipline libre et lucide.**
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-les-faits) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-les-faits)

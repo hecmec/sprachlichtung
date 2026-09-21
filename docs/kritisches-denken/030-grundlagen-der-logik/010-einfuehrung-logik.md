@@ -18,4 +18,4 @@ draft: false
 
 Logik bildet das Fundament des kritischen Denkens. Um Argumente analysieren, bewerten und konstruieren zu können, müssen wir die grundlegenden Bausteine der Logik verstehen. In diesem Kapitel lernen wir die wichtigsten logischen Elemente kennen, die uns helfen, klarer zu denken und bessere Argumente zu formulieren.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/010-einfuehrung-logik.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/einfuehrung-logik)

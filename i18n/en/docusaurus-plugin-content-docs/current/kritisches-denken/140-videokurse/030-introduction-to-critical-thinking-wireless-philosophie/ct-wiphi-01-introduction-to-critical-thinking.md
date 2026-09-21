@@ -70,3 +70,5 @@ Ampliative arguments can be very good arguments; they are simply not deductive. 
 ### Key takeaway
 
 Critical thinking is making sure we have good reasons for our beliefs, where a good reason is one that makes a belief probable or even certain. Arguments are how reasons get laid out, and knowing what type of argument we face is essential to knowing which tools to use in evaluating it.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking)

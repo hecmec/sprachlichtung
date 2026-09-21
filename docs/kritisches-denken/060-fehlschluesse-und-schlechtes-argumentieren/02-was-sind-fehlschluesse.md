@@ -49,7 +49,7 @@ Fehlschlüsse können im wesentlichen in zwei grosse Gruppen eingeteilt werden: 
 Wie wir schon gesagt haben, sind die viele gute Argumente sowieso formal logisch nicht gültig. Wenn sie dann auch noch fehlerhaft sind, dann nennt man sie informelle Fehlschlüsse.
 
 1. **Formale Fehlschlüsse**: Diese verstoßen gegen die Regeln der formalen Logik und sind unabhängig vom Inhalt der Aussagen fehlerhaft.\
-Diese formalen Fehlschlüsse finden wir vor allem in den Argumentationen, die formal logisch gültig sein sollen, wie in der Mathematik, Logik, Mengenlehre oder in der theoretischen Informatik.
+   Diese formalen Fehlschlüsse finden wir vor allem in den Argumentationen, die formal logisch gültig sein sollen, wie in der Mathematik, Logik, Mengenlehre oder in der theoretischen Informatik.
 
 2. **Informelle Fehlschlüsse**: Diese sind inhaltlich oder kontextuell problematisch und lassen sich weiter unterteilen in:
    - **Relevanzfehlschlüsse**: Argumente, die irrelevante Informationen verwenden
@@ -58,4 +58,4 @@ Diese formalen Fehlschlüsse finden wir vor allem in den Argumentationen, die fo
 
 Im Folgenden werden wir die wichtigsten Fehlschlüsse aus jeder Kategorie betrachten.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/was-sind-fehlschluesse)

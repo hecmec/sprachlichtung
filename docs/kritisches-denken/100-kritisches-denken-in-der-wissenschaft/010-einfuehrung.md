@@ -22,3 +22,5 @@ In den bisherigen Kapiteln haben wir verschiedene Aspekte des kritischen Denkens
 Die Wissenschaft ist eines der erfolgreichsten Unterfangen der Menschheit, um verlässliches Wissen über die Welt zu erlangen. Sie hat nicht nur unser Verständnis des Universums revolutioniert, sondern auch zu technologischen Innovationen geführt, die unser Leben grundlegend verändert haben. Doch was macht die wissenschaftliche Methode so besonders? Wie funktioniert Wissenschaft, und wie können wir wissenschaftliches Denken in unserem Alltag anwenden?
 
 In diesem Kapitel werden wir die Grundlagen der wissenschaftlichen Methode untersuchen, verschiedene wissenschaftliche Ansätze kennenlernen und verstehen, wie Wissenschaft Wissen generiert und überprüft. Wir werden auch die Grenzen der Wissenschaft betrachten und lernen, wie wir wissenschaftliche Behauptungen kritisch bewerten können.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/einfuehrung)

@@ -35,6 +35,7 @@ _Only black or white, no grey._
 The **false dichotomy** (black-and-white thinking) divides a range of possibilities into **two mutually exclusive and supposedly exhaustive classes**, although reality knows a **continuum** or several gradations.
 
 <!--t src=2f111e98-->
+
 It is the conceptual basis of the **false dilemma**: while the dilemma uses the division into two _in the argument_ to force a choice, the dichotomy refers to the inadmissible _division into two itself_.
 
 <!--t src=25fad658-->
@@ -62,6 +63,7 @@ Also known as: _false dichotomy_ / _black-and-white thinking_
 <!-- list similar fallacies -->
 
 <!--t src=a8e22e6a-->
+
 - **False dilemma** &mdash; the argumentative application of the division into two.
 - **Sorites paradox** &mdash; the counterpart: there the _vagueness_ of the boundary is overstretched.
 - **Distinction without a difference** &mdash; a related game with categories.
@@ -111,3 +113,7 @@ Health is a continuum with many intermediate states. The strict two-way split mi
 
 - [Wikipedia: False dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 - [Logically Fallacious: Black-or-White](https://www.logicallyfallacious.com/logicalfallacies/Black-or-White-Fallacy)
+
+<!--t src=fdac5eac-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-dichotomie) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/falsche-dichotomie)

@@ -21,8 +21,14 @@ custom_translation_overwritten: false
 <!-- ## Einführung -->
 
 <!--t src=7141be85-->
+
 Les sophismes sont des schémas d'argumentation erronés qui peuvent paraître convaincants au premier abord, mais qui présentent des défauts logiques lorsqu'on les examine de plus près. Ils sont comme des pièges sur le chemin de la pensée critique &mdash; faciles à manquer, mais dangereux pour la qualité de notre argumentation.
 
 <!--t src=fb3ba8d8-->
+
 Dans ce chapitre, nous découvrirons différents types de sophismes, nous analyserons leur structure et nous élaborerons des stratégies pour les reconnaître dans les arguments d'autrui et les éviter dans les nôtres.\
 La compréhension des sophismes est une composante essentielle de la pensée critique et nous aide à déceler les tentatives de manipulation et à argumenter avec plus de précision.
+
+<!--t src=8441b405-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/einfuehrung-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/einfuehrung-fehlschluesse)

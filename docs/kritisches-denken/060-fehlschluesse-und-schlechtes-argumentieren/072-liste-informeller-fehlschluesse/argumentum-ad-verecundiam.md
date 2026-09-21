@@ -73,4 +73,4 @@ Auch ein verdienter Physiker ist nicht automatisch Fachmann für Klimaforschung.
 - [Wikipedia: Argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Logically Fallacious: Appeal to Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-verecundiam.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-verecundiam) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-verecundiam)

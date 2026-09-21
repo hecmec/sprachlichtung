@@ -102,3 +102,6 @@ Les **bots** sont des comptes automatisés sur les réseaux sociaux, programmés
 - Schémas d'activité non naturels (par ex. une activité 24 h/24 et 7 j/7)
 - Répétition de messages identiques ou très similaires
 - Hausse soudaine du soutien à un sujet sans déclencheur identifiable
+
+<!--t src=053ecef5-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter)

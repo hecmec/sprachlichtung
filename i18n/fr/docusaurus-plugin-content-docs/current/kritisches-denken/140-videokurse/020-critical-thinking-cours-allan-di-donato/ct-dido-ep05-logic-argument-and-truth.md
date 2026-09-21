@@ -24,3 +24,5 @@ controls src='https://youtu.be/AH1d3maOJSw' />
 &nbsp;
 
 There is no transcript for this video at the time of writing. 😪
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep05-logic-argument-and-truth)

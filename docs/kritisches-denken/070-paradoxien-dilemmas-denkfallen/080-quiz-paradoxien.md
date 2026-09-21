@@ -58,3 +58,5 @@ draft: false
 3. b) Gefangenendilemma
 4. c) Vagheit und unscharfe Grenzen von Begriffen
 5. b) Unterscheidung zwischen Objekt- und Metasprache
+
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien)

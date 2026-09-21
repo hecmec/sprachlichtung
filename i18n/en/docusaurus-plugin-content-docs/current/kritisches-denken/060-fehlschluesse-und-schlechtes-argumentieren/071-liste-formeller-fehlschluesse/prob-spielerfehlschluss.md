@@ -35,6 +35,7 @@ _Chance has no memory._
 The **gambler's fallacy** is the assumption that, with mutually **independent** random events, a particular outcome becomes „more due“ or „less likely“ depending on how often it has recently occurred.
 
 <!--t src=429f0d32-->
+
 The error fails to recognize the **independence** of the events: a fair coin has, on every toss, the unchanged probability $P = 0.5$ for "heads" &mdash; regardless of what came up before. The probability of long runs is indeed small, but after a run that has already occurred, the next toss is once again a new, uninfluenced event.
 
 <!--t src=3c24b250-->
@@ -48,6 +49,7 @@ The fallacy has the following form:
 3. Therefore E is less (or more) likely next time.
 
 <!--t src=af267cee-->
+
 Formally, the inference confuses the probability of a whole run in advance with the **conditional** probability of the next toss: $P(\text{heads} \mid 5\times\text{tails before}) = 0.5$.
 
 <!--t src=a889025c-->
@@ -62,6 +64,7 @@ Also known as: _gambler's fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=022059eb-->
+
 - **Hot-hand fallacy** &mdash; the opposite direction: from a run, its continuation is inferred ("it's going well right now, it'll keep going").
 - **Inverse gambler's fallacy** &mdash; to be distinguished from it: from a single rare outcome, it is (falsely) inferred that many attempts must already have preceded it.
 - **Base rate fallacy** &mdash; related as a typical error in dealing with probabilities.
@@ -94,6 +97,7 @@ The ball does not know the previous rounds. The probability of black is unchange
 <!-- description of example two -->
 
 <!--t src=4b93010b-->
+
 > "We've already had three daughters &mdash; the next child will surely be a boy."
 
 <!--t src=d9921f23-->
@@ -110,3 +114,7 @@ The sex of each child is approximately independent of the previous ones. The pri
 <!--t src=b0ab2c29-->
 
 - [Logically Fallacious: The Gambler's Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Gambler-s-Fallacy)
+
+<!--t src=4efcca9c-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-spielerfehlschluss) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-spielerfehlschluss)

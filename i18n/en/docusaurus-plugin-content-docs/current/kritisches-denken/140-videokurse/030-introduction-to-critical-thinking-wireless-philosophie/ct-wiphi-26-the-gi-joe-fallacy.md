@@ -47,3 +47,5 @@ Santos ends on a self-referential note: even knowing about the GI Joe fallacy do
 ### Key takeaway
 
 Santos's closing point inverts the cartoon's slogan: for most cognitive biases, consciously knowing about them is not even half the battle, so now that you know that, you have gained less than half of what you need.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-26-the-gi-joe-fallacy) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-26-the-gi-joe-fallacy)

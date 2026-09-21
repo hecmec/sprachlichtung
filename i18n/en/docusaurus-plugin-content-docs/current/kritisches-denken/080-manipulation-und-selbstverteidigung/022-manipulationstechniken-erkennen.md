@@ -211,3 +211,6 @@ Psychological manipulation exploits deeper psychological processes and vulnerabi
 
 <!--t src=d475b4c4-->
   *Example*: A manipulator showers their target with gifts and compliments in order to exert control later.
+
+<!--t src=e0224e88-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen)

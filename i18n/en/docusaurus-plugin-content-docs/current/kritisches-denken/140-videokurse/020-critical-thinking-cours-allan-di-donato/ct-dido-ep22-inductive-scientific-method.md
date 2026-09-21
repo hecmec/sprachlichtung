@@ -70,3 +70,5 @@ The inductive empirical method determines a conclusion's probability experimenta
 ### Verification, Falsification, and a Logical Warning
 
 Hypothesis testing has a logical structure. Concluding "the hypothesis is correct" from "if the hypothesis is correct, X follows; X follows" commits the fallacy of **affirming the consequent**. Following **Karl Popper**, **falsifiability** (not verifiability) is what distinguishes science from **pseudoscience**: hypotheses can be falsified but never truly verified. This connects to the larger **problem of induction**, to be explored later. The next video turns to the experimental procedures known as **Mill's methods**, developed by John Stuart Mill.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method)

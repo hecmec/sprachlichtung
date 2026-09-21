@@ -72,3 +72,5 @@ draft: false
 - 🇩🇪 [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) &mdash; geschicktgendern.de
 - 🇬🇧 George Orwell (1946): [_Politics and the English Language_](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/) &mdash; The Orwell Foundation
 - 🇫🇷 [Pierre Bourdieu. Derrière les mots, un pouvoir](https://www.cairn.info/les-grands-penseurs-du-langage--9782361065294-page-107.htm) &mdash; Cairn.info
+
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/artikel) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/artikel)

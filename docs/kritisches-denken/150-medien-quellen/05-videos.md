@@ -55,3 +55,5 @@ Deshalb hier nur eine ganz gleiche Auswahl, die uns gefällt.
 - 🇫🇷 [Gérald Bronner - Développer son esprit critique face au monde de la désinformation](https://www.youtube.com/watch?v=kjy0MHg-ZjU)
 - 🇬🇧 [Raya - The alarming decline of critical thinking ](https://www.youtube.com/watch?v=vbvSLsMADCM)
 - 🇬🇧 [The Rise Of NPCs: Why Critical Thinking Is Dead](https://www.youtube.com/watch?v=ikjNj7CfeUI)
+
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/videos) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/videos)

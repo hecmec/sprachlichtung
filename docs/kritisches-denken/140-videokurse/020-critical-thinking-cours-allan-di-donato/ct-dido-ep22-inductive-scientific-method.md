@@ -39,12 +39,12 @@ controls src='https://youtu.be/ABWvccGyLhE' />
 <div className="row">
 <div className="col col--6">
 
-Building on the previous discussion of **a posteriori (empirical) probability**, this video introduces the basics of science and focuses on the **inductive scientific method**. Since empiricism is the foundation of science, judgments about probability here must be made *after* observation and data gathering.
+Building on the previous discussion of **a posteriori (empirical) probability**, this video introduces the basics of science and focuses on the **inductive scientific method**. Since empiricism is the foundation of science, judgments about probability here must be made _after_ observation and data gathering.
 
 </div>
 <div className="col col--6 video-translation">
 
-Aufbauend auf der vorigen Erörterung der **A-posteriori-Wahrscheinlichkeit (empirisch)** führt dieses Video in die Grundlagen der Wissenschaft ein und konzentriert sich auf die **induktive wissenschaftliche Methode**. Da der Empirismus das Fundament der Wissenschaft ist, müssen Urteile über Wahrscheinlichkeit hier *nach* Beobachtung und Datensammlung gefällt werden.
+Aufbauend auf der vorigen Erörterung der **A-posteriori-Wahrscheinlichkeit (empirisch)** führt dieses Video in die Grundlagen der Wissenschaft ein und konzentriert sich auf die **induktive wissenschaftliche Methode**. Da der Empirismus das Fundament der Wissenschaft ist, müssen Urteile über Wahrscheinlichkeit hier _nach_ Beobachtung und Datensammlung gefällt werden.
 
 </div>
 </div>
@@ -65,12 +65,12 @@ Aufbauend auf der vorigen Erörterung der **A-posteriori-Wahrscheinlichkeit (emp
 <div className="row">
 <div className="col col--6">
 
-The word derives from the Latin *scientia* ("knowledge"). Restricting the definition to the **hard sciences** and some **social sciences**, science is described as a search for natural causes and an instrument for producing effects and making predictions about the natural world. It is a systematic pursuit of an organized body of knowledge based on reasoning from **empirical observation** and **quantifiable data** toward **testable explanations**.
+The word derives from the Latin _scientia_ ("knowledge"). Restricting the definition to the **hard sciences** and some **social sciences**, science is described as a search for natural causes and an instrument for producing effects and making predictions about the natural world. It is a systematic pursuit of an organized body of knowledge based on reasoning from **empirical observation** and **quantifiable data** toward **testable explanations**.
 
 </div>
 <div className="col col--6 video-translation">
 
-Das Wort leitet sich vom lateinischen *scientia* („Wissen") ab. Wenn man die Definition auf die **Naturwissenschaften** (hard sciences) und einige **Sozialwissenschaften** beschränkt, wird Wissenschaft als eine Suche nach natürlichen Ursachen und als Instrument beschrieben, um Wirkungen hervorzubringen und Vorhersagen über die natürliche Welt zu treffen. Sie ist ein systematisches Streben nach einem geordneten Wissensbestand, der auf dem Schließen von **empirischer Beobachtung** und **quantifizierbaren Daten** hin zu **überprüfbaren Erklärungen** beruht.
+Das Wort leitet sich vom lateinischen _scientia_ („Wissen") ab. Wenn man die Definition auf die **Naturwissenschaften** (hard sciences) und einige **Sozialwissenschaften** beschränkt, wird Wissenschaft als eine Suche nach natürlichen Ursachen und als Instrument beschrieben, um Wirkungen hervorzubringen und Vorhersagen über die natürliche Welt zu treffen. Sie ist ein systematisches Streben nach einem geordneten Wissensbestand, der auf dem Schließen von **empirischer Beobachtung** und **quantifizierbaren Daten** hin zu **überprüfbaren Erklärungen** beruht.
 
 </div>
 </div>
@@ -125,12 +125,12 @@ Die moderne Wissenschaft war so erfolgreich, dass wir dazu neigen, sie als den b
 <div className="row">
 <div className="col col--6">
 
-Both deal with **causal claims**, but they differ. **Causal arguments** are persuasive: they offer support for the conclusion that one thing caused another, and (as with analogies) the key is to clearly define the two things and their relationship. **Causal explanations** instead reveal *how* or *why* one thing caused another; they are not arguments. An explanation is only adequate relative to what we are looking for (a leaking toilet explains the puddle well enough to call a plumber, but not to repair it yourself).
+Both deal with **causal claims**, but they differ. **Causal arguments** are persuasive: they offer support for the conclusion that one thing caused another, and (as with analogies) the key is to clearly define the two things and their relationship. **Causal explanations** instead reveal _how_ or _why_ one thing caused another; they are not arguments. An explanation is only adequate relative to what we are looking for (a leaking toilet explains the puddle well enough to call a plumber, but not to repair it yourself).
 
 </div>
 <div className="col col--6 video-translation">
 
-Beide befassen sich mit **kausalen Behauptungen**, aber sie unterscheiden sich. **Kausale Argumente** sind überzeugend: Sie bieten Stützung für die Schlussfolgerung, dass eine Sache eine andere verursacht hat, und (wie bei Analogien) kommt es darauf an, die beiden Dinge und ihre Beziehung klar zu definieren. **Kausale Erklärungen** enthüllen stattdessen, *wie* oder *warum* eine Sache eine andere verursacht hat; sie sind keine Argumente. Eine Erklärung ist nur relativ zu dem angemessen, wonach wir suchen (eine undichte Toilette erklärt die Pfütze gut genug, um einen Klempner zu rufen, aber nicht, um sie selbst zu reparieren).
+Beide befassen sich mit **kausalen Behauptungen**, aber sie unterscheiden sich. **Kausale Argumente** sind überzeugend: Sie bieten Stützung für die Schlussfolgerung, dass eine Sache eine andere verursacht hat, und (wie bei Analogien) kommt es darauf an, die beiden Dinge und ihre Beziehung klar zu definieren. **Kausale Erklärungen** enthüllen stattdessen, _wie_ oder _warum_ eine Sache eine andere verursacht hat; sie sind keine Argumente. Eine Erklärung ist nur relativ zu dem angemessen, wonach wir suchen (eine undichte Toilette erklärt die Pfütze gut genug, um einen Klempner zu rufen, aber nicht, um sie selbst zu reparieren).
 
 </div>
 </div>
@@ -278,3 +278,5 @@ Das Testen von Hypothesen hat eine logische Struktur. Aus „wenn die Hypothese 
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method)

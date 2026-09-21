@@ -122,3 +122,6 @@ Analyse the following paradoxical situations. Identify the type of paradox, the 
      - Many-worlds interpretation: The book originally comes from another timeline.
      - Time travel might be fundamentally impossible, precisely because of such paradoxes.
      - The information could gradually change within the loop, which would lead to inconsistencies in the long run.
+
+<!--t src=550a72ad-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/uebung-analyse-und-diskussion-von-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/uebung-analyse-und-diskussion-von-paradoxien)

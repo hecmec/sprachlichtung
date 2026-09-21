@@ -49,3 +49,5 @@ The **genetic fallacy** casts a claim into doubt by condemning its origin rather
 ### Key takeaway
 
 Chung closes by putting a further example to the viewer, "Ronald Reagan was in favor of similar policies, so they must be the right thing to do", and asking which fallacy it commits: recognising these six patterns, and separating an arguer's character, circumstances or origin from the merits of the claim itself, is a skill that takes practice.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies)

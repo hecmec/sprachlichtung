@@ -79,3 +79,5 @@ https://criticalthinkingsecrets.com/20-influential-books-on-critical-thinking-yo
 https://www.drkishoresratnamschools.com/best-books-to-improve-critical-thinking/
 
 -->
+
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/buecher) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/buecher)

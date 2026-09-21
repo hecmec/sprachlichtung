@@ -73,4 +73,4 @@ Die Beteuerung, „nichts sagen“ zu wollen, transportiert genau die Unterstell
 - [Wikipedia: Innuendo](https://en.wikipedia.org/wiki/Innuendo)
 - [Logically Fallacious: Innuendo](https://www.logicallyfallacious.com/logicalfallacies/Innuendo)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/suggestive-anspielung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung)

@@ -97,4 +97,4 @@ Trends verbreiten sich über Nachahmung; Ablehnung sozialer Kosten führt zu Kon
 - Banerjee, A. V. (1992): A Simple Model of Herd Behavior. Quarterly Journal of Economics.
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992): A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. Journal of Political Economy.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Herdentrieb) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Herdentrieb)

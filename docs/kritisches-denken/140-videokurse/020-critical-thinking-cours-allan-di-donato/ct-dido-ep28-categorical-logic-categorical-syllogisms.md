@@ -65,12 +65,12 @@ Diese Vorlesung setzt die frühere Grundlagenarbeit der kategorialen Logik endli
 <div className="row">
 <div className="col col--6">
 
-Consider: Premise 1, "No logicians are people who embrace contradiction"; Premise 2, "Some teachers are people who embrace contradiction"; Conclusion, "Therefore, some teachers are not logicians." Here *logicians* appears in Premise 1 and the conclusion, *teachers* appears in Premise 2 and the conclusion, and *people who embrace contradiction* appears once in each premise. The goal is to determine whether such a syllogism is **valid**, meaning structured so that if the premises are true the conclusion could not possibly be false.
+Consider: Premise 1, "No logicians are people who embrace contradiction"; Premise 2, "Some teachers are people who embrace contradiction"; Conclusion, "Therefore, some teachers are not logicians." Here _logicians_ appears in Premise 1 and the conclusion, _teachers_ appears in Premise 2 and the conclusion, and _people who embrace contradiction_ appears once in each premise. The goal is to determine whether such a syllogism is **valid**, meaning structured so that if the premises are true the conclusion could not possibly be false.
 
 </div>
 <div className="col col--6 video-translation">
 
-Betrachte: Prämisse 1, „Keine Logiker sind Menschen, die den Widerspruch umarmen"; Prämisse 2, „Einige Lehrer sind Menschen, die den Widerspruch umarmen"; Schlussfolgerung, „Also sind einige Lehrer keine Logiker". Hier erscheint *Logiker* in Prämisse 1 und der Schlussfolgerung, *Lehrer* erscheint in Prämisse 2 und der Schlussfolgerung, und *Menschen, die den Widerspruch umarmen* erscheint einmal in jeder Prämisse. Das Ziel ist zu bestimmen, ob ein solcher Syllogismus **gültig** ist, also so aufgebaut, dass, wenn die Prämissen wahr sind, die Schlussfolgerung unmöglich falsch sein könnte.
+Betrachte: Prämisse 1, „Keine Logiker sind Menschen, die den Widerspruch umarmen"; Prämisse 2, „Einige Lehrer sind Menschen, die den Widerspruch umarmen"; Schlussfolgerung, „Also sind einige Lehrer keine Logiker". Hier erscheint _Logiker_ in Prämisse 1 und der Schlussfolgerung, _Lehrer_ erscheint in Prämisse 2 und der Schlussfolgerung, und _Menschen, die den Widerspruch umarmen_ erscheint einmal in jeder Prämisse. Das Ziel ist zu bestimmen, ob ein solcher Syllogismus **gültig** ist, also so aufgebaut, dass, wenn die Prämissen wahr sind, die Schlussfolgerung unmöglich falsch sein könnte.
 
 </div>
 </div>
@@ -91,12 +91,12 @@ Betrachte: Prämisse 1, „Keine Logiker sind Menschen, die den Widerspruch umar
 <div className="row">
 <div className="col col--6">
 
-Before testing validity, we need the concept of **distribution**. Distribution is an attribute of a *term* (subject or predicate) describing its relationship to the entire class it denotes. A term is **distributed** when it refers to the whole class; otherwise it is **undistributed**. Note the contrast: terms have distribution, whereas propositions have *quantity* (universal or particular).
+Before testing validity, we need the concept of **distribution**. Distribution is an attribute of a _term_ (subject or predicate) describing its relationship to the entire class it denotes. A term is **distributed** when it refers to the whole class; otherwise it is **undistributed**. Note the contrast: terms have distribution, whereas propositions have _quantity_ (universal or particular).
 
 </div>
 <div className="col col--6 video-translation">
 
-Bevor wir die Gültigkeit prüfen, brauchen wir den Begriff der **Verteilung**. Verteilung ist ein Attribut eines *Terms* (Subjekt oder Prädikat), das seine Beziehung zur gesamten Klasse beschreibt, die er bezeichnet. Ein Term ist **verteilt**, wenn er sich auf die ganze Klasse bezieht; andernfalls ist er **unverteilt**. Beachte den Gegensatz: Terme haben Verteilung, während Propositionen *Quantität* haben (universell oder partikulär).
+Bevor wir die Gültigkeit prüfen, brauchen wir den Begriff der **Verteilung**. Verteilung ist ein Attribut eines _Terms_ (Subjekt oder Prädikat), das seine Beziehung zur gesamten Klasse beschreibt, die er bezeichnet. Ein Term ist **verteilt**, wenn er sich auf die ganze Klasse bezieht; andernfalls ist er **unverteilt**. Beachte den Gegensatz: Terme haben Verteilung, während Propositionen _Quantität_ haben (universell oder partikulär).
 
 </div>
 </div>
@@ -104,12 +104,12 @@ Bevor wir die Gültigkeit prüfen, brauchen wir den Begriff der **Verteilung**. 
 <div className="row">
 <div className="col col--6">
 
-The subject's distribution is easy to spot from the quantifier: it is distributed after *all* or *no*, and undistributed after *some*. The predicate gives no such clue, so it is easiest to memorize the pattern: **universals distribute their subjects, and negatives distribute their predicates**. Applied to the four proposition types:
+The subject's distribution is easy to spot from the quantifier: it is distributed after _all_ or _no_, and undistributed after _some_. The predicate gives no such clue, so it is easiest to memorize the pattern: **universals distribute their subjects, and negatives distribute their predicates**. Applied to the four proposition types:
 
 </div>
 <div className="col col--6 video-translation">
 
-Die Verteilung des Subjekts ist leicht am Quantor zu erkennen: Es ist nach *alle* oder *kein* verteilt und nach *einige* unverteilt. Das Prädikat gibt keinen solchen Hinweis, daher ist es am einfachsten, sich das Muster einzuprägen: **Universelle verteilen ihre Subjekte, und verneinende verteilen ihre Prädikate**. Angewandt auf die vier Propositionstypen:
+Die Verteilung des Subjekts ist leicht am Quantor zu erkennen: Es ist nach _alle_ oder _kein_ verteilt und nach _einige_ unverteilt. Das Prädikat gibt keinen solchen Hinweis, daher ist es am einfachsten, sich das Muster einzuprägen: **Universelle verteilen ihre Subjekte, und verneinende verteilen ihre Prädikate**. Angewandt auf die vier Propositionstypen:
 
 </div>
 </div>
@@ -188,12 +188,12 @@ Wenn diese Teile vorhanden sind, reduziert sich die Gültigkeitsprüfung auf das
 <div className="row">
 <div className="col col--6">
 
-**Rule 1 - Three terms only.** A syllogism must contain exactly three terms. More than three commits the **fallacy of equivocation** (the four-term fallacy). Sometimes this is obvious nonsense, but it can hide. In "All heroes are demigods; Martin Luther King Jr. is a hero; therefore MLK is a demigod," *hero* is used equivocally: a mythical god-parent in Premise 1, a modern self-sacrificing person in Premise 2. That yields four terms, no genuine middle term, and so no real connection.
+**Rule 1 - Three terms only.** A syllogism must contain exactly three terms. More than three commits the **fallacy of equivocation** (the four-term fallacy). Sometimes this is obvious nonsense, but it can hide. In "All heroes are demigods; Martin Luther King Jr. is a hero; therefore MLK is a demigod," _hero_ is used equivocally: a mythical god-parent in Premise 1, a modern self-sacrificing person in Premise 2. That yields four terms, no genuine middle term, and so no real connection.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Regel 1 – Nur drei Terme.** Ein Syllogismus muss genau drei Terme enthalten. Mehr als drei begeht den **Fehlschluss der Äquivokation** (den Vier-Begriffe-Fehlschluss). Manchmal ist dies offensichtlicher Unsinn, aber er kann sich verbergen. In „Alle Helden sind Halbgötter; Martin Luther King Jr. ist ein Held; also ist MLK ein Halbgott" wird *Held* äquivok verwendet: ein mythischer Gottvater in Prämisse 1, eine moderne, sich aufopfernde Person in Prämisse 2. Das ergibt vier Terme, keinen echten Mittelbegriff und somit keine echte Verbindung.
+**Regel 1 – Nur drei Terme.** Ein Syllogismus muss genau drei Terme enthalten. Mehr als drei begeht den **Fehlschluss der Äquivokation** (den Vier-Begriffe-Fehlschluss). Manchmal ist dies offensichtlicher Unsinn, aber er kann sich verbergen. In „Alle Helden sind Halbgötter; Martin Luther King Jr. ist ein Held; also ist MLK ein Halbgott" wird _Held_ äquivok verwendet: ein mythischer Gottvater in Prämisse 1, eine moderne, sich aufopfernde Person in Prämisse 2. Das ergibt vier Terme, keinen echten Mittelbegriff und somit keine echte Verbindung.
 
 </div>
 </div>
@@ -201,12 +201,12 @@ Wenn diese Teile vorhanden sind, reduziert sich die Gültigkeitsprüfung auf das
 <div className="row">
 <div className="col col--6">
 
-**Rule 2 - The middle term must be distributed at least once.** If it is not, there is no guarantee the major and minor terms connect. Violating this is the **fallacy of the undistributed (illicit) middle**. Example: "All Baptists are baptized; all Catholics are baptized; therefore all Catholics are Baptists." Both premises are A propositions, whose predicates (the middle term *baptized*) are undistributed, so the conclusion does not follow. The same hidden form drives arguments like "The Democratic Party supports health-care reform; socialists support health-care reform; therefore the Democratic Party is socialist."
+**Rule 2 - The middle term must be distributed at least once.** If it is not, there is no guarantee the major and minor terms connect. Violating this is the **fallacy of the undistributed (illicit) middle**. Example: "All Baptists are baptized; all Catholics are baptized; therefore all Catholics are Baptists." Both premises are A propositions, whose predicates (the middle term _baptized_) are undistributed, so the conclusion does not follow. The same hidden form drives arguments like "The Democratic Party supports health-care reform; socialists support health-care reform; therefore the Democratic Party is socialist."
 
 </div>
 <div className="col col--6 video-translation">
 
-**Regel 2 – Der Mittelbegriff muss mindestens einmal verteilt sein.** Ist er es nicht, gibt es keine Garantie, dass Ober- und Unterbegriff sich verbinden. Dies zu verletzen ist der **Fehlschluss des unverteilten (unerlaubten) Mittelbegriffs**. Beispiel: „Alle Baptisten sind getauft; alle Katholiken sind getauft; also sind alle Katholiken Baptisten". Beide Prämissen sind A-Propositionen, deren Prädikate (der Mittelbegriff *getauft*) unverteilt sind, sodass die Schlussfolgerung nicht folgt. Dieselbe verborgene Form treibt Argumente wie „Die Demokratische Partei unterstützt die Gesundheitsreform; Sozialisten unterstützen die Gesundheitsreform; also ist die Demokratische Partei sozialistisch".
+**Regel 2 – Der Mittelbegriff muss mindestens einmal verteilt sein.** Ist er es nicht, gibt es keine Garantie, dass Ober- und Unterbegriff sich verbinden. Dies zu verletzen ist der **Fehlschluss des unverteilten (unerlaubten) Mittelbegriffs**. Beispiel: „Alle Baptisten sind getauft; alle Katholiken sind getauft; also sind alle Katholiken Baptisten". Beide Prämissen sind A-Propositionen, deren Prädikate (der Mittelbegriff _getauft_) unverteilt sind, sodass die Schlussfolgerung nicht folgt. Dieselbe verborgene Form treibt Argumente wie „Die Demokratische Partei unterstützt die Gesundheitsreform; Sozialisten unterstützen die Gesundheitsreform; also ist die Demokratische Partei sozialistisch".
 
 </div>
 </div>
@@ -214,12 +214,12 @@ Wenn diese Teile vorhanden sind, reduziert sich die Gültigkeitsprüfung auf das
 <div className="row">
 <div className="col col--6">
 
-**Rule 3 - Any term distributed in the conclusion must be distributed in the premises.** If a conclusion has no distributed terms, that is fine; the rule only constrains those that are. Violations produce the **fallacy of illicit major** (major term distributed in the conclusion but not the premise) or the **fallacy of illicit minor** (same for the minor term). You cannot infer all of something from only some of it. Example: "All dogs are mammals; no cats are dogs; therefore no cats are mammals." The conclusion is an E, distributing both terms. *Cats* is distributed in the minor premise (fine), but *mammals* is the predicate of an A major premise and is undistributed there: an **illicit major**.
+**Rule 3 - Any term distributed in the conclusion must be distributed in the premises.** If a conclusion has no distributed terms, that is fine; the rule only constrains those that are. Violations produce the **fallacy of illicit major** (major term distributed in the conclusion but not the premise) or the **fallacy of illicit minor** (same for the minor term). You cannot infer all of something from only some of it. Example: "All dogs are mammals; no cats are dogs; therefore no cats are mammals." The conclusion is an E, distributing both terms. _Cats_ is distributed in the minor premise (fine), but _mammals_ is the predicate of an A major premise and is undistributed there: an **illicit major**.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Regel 3 – Jeder in der Schlussfolgerung verteilte Term muss in den Prämissen verteilt sein.** Wenn eine Schlussfolgerung keine verteilten Terme hat, ist das in Ordnung; die Regel schränkt nur die verteilten ein. Verletzungen erzeugen den **Fehlschluss des unerlaubten Oberbegriffs** (Oberbegriff in der Schlussfolgerung verteilt, aber nicht in der Prämisse) oder den **Fehlschluss des unerlaubten Unterbegriffs** (dasselbe für den Unterbegriff). Man kann nicht von nur einem Teil von etwas auf das Ganze schließen. Beispiel: „Alle Hunde sind Säugetiere; keine Katzen sind Hunde; also sind keine Katzen Säugetiere". Die Schlussfolgerung ist eine E, die beide Terme verteilt. *Katzen* ist in der Unterprämisse verteilt (in Ordnung), aber *Säugetiere* ist das Prädikat einer A-Oberprämisse und dort unverteilt: ein **unerlaubter Oberbegriff**.
+**Regel 3 – Jeder in der Schlussfolgerung verteilte Term muss in den Prämissen verteilt sein.** Wenn eine Schlussfolgerung keine verteilten Terme hat, ist das in Ordnung; die Regel schränkt nur die verteilten ein. Verletzungen erzeugen den **Fehlschluss des unerlaubten Oberbegriffs** (Oberbegriff in der Schlussfolgerung verteilt, aber nicht in der Prämisse) oder den **Fehlschluss des unerlaubten Unterbegriffs** (dasselbe für den Unterbegriff). Man kann nicht von nur einem Teil von etwas auf das Ganze schließen. Beispiel: „Alle Hunde sind Säugetiere; keine Katzen sind Hunde; also sind keine Katzen Säugetiere". Die Schlussfolgerung ist eine E, die beide Terme verteilt. _Katzen_ ist in der Unterprämisse verteilt (in Ordnung), aber _Säugetiere_ ist das Prädikat einer A-Oberprämisse und dort unverteilt: ein **unerlaubter Oberbegriff**.
 
 </div>
 </div>
@@ -253,12 +253,12 @@ Wenn diese Teile vorhanden sind, reduziert sich die Gültigkeitsprüfung auf das
 <div className="row">
 <div className="col col--6">
 
-Finally, a deceptive case: "Peter loves Mary Jane; Harry loves Peter; therefore Harry loves Mary Jane." Treating the personal names as classes of one, it appears to pass all four rules, yet it sounds wrong. The problem is **translation**. Properly rendered, the terms are *Peter*, *Harry*, *person who loves Mary Jane*, and *person who loves Peter*: four terms, violating Rule 1. The lesson is that careful translation into standard form is essential before testing validity.
+Finally, a deceptive case: "Peter loves Mary Jane; Harry loves Peter; therefore Harry loves Mary Jane." Treating the personal names as classes of one, it appears to pass all four rules, yet it sounds wrong. The problem is **translation**. Properly rendered, the terms are _Peter_, _Harry_, _person who loves Mary Jane_, and _person who loves Peter_: four terms, violating Rule 1. The lesson is that careful translation into standard form is essential before testing validity.
 
 </div>
 <div className="col col--6 video-translation">
 
-Schließlich ein täuschender Fall: „Peter liebt Mary Jane; Harry liebt Peter; also liebt Harry Mary Jane". Behandelt man die Personennamen als Klassen von einem, scheint es alle vier Regeln zu bestehen, und doch klingt es falsch. Das Problem ist die **Übersetzung**. Richtig wiedergegeben, sind die Terme *Peter*, *Harry*, *Person, die Mary Jane liebt* und *Person, die Peter liebt*: vier Terme, was Regel 1 verletzt. Die Lektion ist, dass eine sorgfältige Übersetzung in die Standardform wesentlich ist, bevor man die Gültigkeit prüft.
+Schließlich ein täuschender Fall: „Peter liebt Mary Jane; Harry liebt Peter; also liebt Harry Mary Jane". Behandelt man die Personennamen als Klassen von einem, scheint es alle vier Regeln zu bestehen, und doch klingt es falsch. Das Problem ist die **Übersetzung**. Richtig wiedergegeben, sind die Terme _Peter_, _Harry_, _Person, die Mary Jane liebt_ und _Person, die Peter liebt_: vier Terme, was Regel 1 verletzt. Die Lektion ist, dass eine sorgfältige Übersetzung in die Standardform wesentlich ist, bevor man die Gültigkeit prüft.
 
 </div>
 </div>
@@ -275,3 +275,5 @@ Das Video schließt mit dem Hinweis, dass kategoriale Propositionen nicht die ei
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms)

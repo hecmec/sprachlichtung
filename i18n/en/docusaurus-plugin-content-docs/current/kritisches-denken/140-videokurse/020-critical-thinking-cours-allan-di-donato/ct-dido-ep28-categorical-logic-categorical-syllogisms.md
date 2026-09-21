@@ -64,3 +64,5 @@ With these pieces in place, testing validity reduces to applying four rules.
 Finally, a deceptive case: "Peter loves Mary Jane; Harry loves Peter; therefore Harry loves Mary Jane." Treating the personal names as classes of one, it appears to pass all four rules, yet it sounds wrong. The problem is **translation**. Properly rendered, the terms are *Peter*, *Harry*, *person who loves Mary Jane*, and *person who loves Peter*: four terms, violating Rule 1. The lesson is that careful translation into standard form is essential before testing validity.
 
 The video closes by noting that categorical propositions are not the only kind. The next installment shifts to **propositional logic**, beginning with the language of symbolization.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep28-categorical-logic-categorical-syllogisms)

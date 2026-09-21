@@ -179,3 +179,6 @@ La résilience sociale nous aide à résister à la pression sociale et aux tent
 
 <!--t src=24d0a919-->
   *Exemple* : lisez les articles en entier et vérifiez leurs sources avant de les partager, même si le titre confirme vos convictions.
+
+<!--t src=63155f68-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/verteidigungsstrategien-gegen-manipulation) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/verteidigungsstrategien-gegen-manipulation)

@@ -323,3 +323,5 @@ Ce n’est là qu’un survol : la meilleure démarche consiste à reprendre les
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep08-informal-fallacies-ambiguity)

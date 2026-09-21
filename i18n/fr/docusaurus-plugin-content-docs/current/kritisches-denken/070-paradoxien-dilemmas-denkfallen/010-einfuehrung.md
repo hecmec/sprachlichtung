@@ -28,3 +28,6 @@ Les paradoxes sont des phénomènes fascinants qui mettent au défi notre pensé
 
 <!--t src=91408206-->
 Dans ce chapitre, nous examinerons différents types de paradoxes, nous analyserons leur structure et nous explorerons leur importance pour la pensée critique. Nous développerons également des stratégies permettant de composer avec les situations paradoxales et d'en tirer des enseignements.
+
+<!--t src=ded74a7b-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung)

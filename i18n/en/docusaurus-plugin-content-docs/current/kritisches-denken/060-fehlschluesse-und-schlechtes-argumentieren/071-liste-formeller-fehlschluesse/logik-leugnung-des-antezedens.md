@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=4c7ce242-->
+
 :::tip In brief
 From "If A, then B" and "A is false", it is falsely inferred that "B is false".
 
@@ -34,6 +35,7 @@ _No cause, therefore no effect &mdash; even though the effect can also come abou
 **Denying the antecedent** infers, from a conditional and the falsity of its antecedent, the falsity of its consequent.
 
 <!--t src=173c4cbe-->
+
 The error lies in the fact that A is only a _sufficient_, but not a _necessary_ condition for B. B can also occur without A.
 
 <!--t src=3c24b250-->
@@ -47,6 +49,7 @@ The fallacy has the following form:
 3. Therefore B is not true.
 
 <!--t src=74538cb5-->
+
 Valid, by contrast, would only be the _modus tollens_ (1. If A, then B. 2. Not B. 3. Therefore not A.).
 
 <!--t src=7ee8af2b-->
@@ -61,6 +64,7 @@ Also known as: _denying the antecedent_
 <!-- list similar fallacies -->
 
 <!--t src=42ba7c44-->
+
 - **Affirming the consequent** &mdash; the mirror image: there one infers from the affirmed consequent to the affirmed antecedent.
 - **Converse error** &mdash; related, because both confuse necessary and sufficient conditions.
 - **Non sequitur** &mdash; the umbrella term for all these invalid inferences.
@@ -114,3 +118,7 @@ One can also be ill without a fever (e.g. with a broken bone). The absence of th
 
 - [Wikipedia: Denying the antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 - [Logically Fallacious: Denying the Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)
+
+<!--t src=dec08e34-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-des-antezedens)

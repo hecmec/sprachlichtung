@@ -364,3 +364,6 @@ Les **approches interdisciplinaires**, qui combinent les méthodes et les perspe
 - Les sciences cognitives relient la psychologie, les neurosciences, la linguistique, la philosophie et l'informatique.
 - Les sciences de l'environnement intègrent la biologie, la chimie, la géologie, les sciences économiques et la science politique.
 - Les études des sciences et des techniques (Science and Technology Studies) combinent des approches sociologiques, historiques et philosophiques.
+
+<!--t src=e6ef612b-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode)

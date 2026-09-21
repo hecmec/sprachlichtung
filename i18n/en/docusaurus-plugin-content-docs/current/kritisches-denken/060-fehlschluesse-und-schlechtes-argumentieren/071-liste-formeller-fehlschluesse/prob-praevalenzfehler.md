@@ -50,6 +50,7 @@ The fallacy has the following form:
 3. Therefore the person has the characteristic with about 99% probability.
 
 <!--t src=7445f8dc-->
+
 Correctly, the question "How probable is the trait _given a positive test_?" requires the base rate &mdash; it is taken into account via **Bayes' theorem**.
 
 <!--t src=d370887f-->
@@ -85,6 +86,7 @@ Also known as: _base rate fallacy_ / _base rate neglect_
 <!-- list similar fallacies -->
 
 <!--t src=c177a919-->
+
 - **Conditional probability fallacy** &mdash; closely related: at its core the base rate fallacy is an interchange of $P(A \mid B)$ and $P(B \mid A)$.
 - **Prosecutor's fallacy** &mdash; the forensic variant of the same error.
 - **Gambler's fallacy** &mdash; related as a typical probability error.
@@ -101,6 +103,7 @@ Also known as: _base rate fallacy_ / _base rate neglect_
 <!-- description of example one -->
 
 <!--t src=ae3ee0b4-->
+
 > "The drug test is 99% reliable and positive for you &mdash; so you are a user with 99% probability."
 
 <!--t src=9dfed815-->
@@ -132,3 +135,7 @@ If one searches for a single person among millions, even a tiny error rate produ
 <!--t src=5631bf19-->
 
 - [Wikipedia: Base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)
+
+<!--t src=3f25492d-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-praevalenzfehler) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-praevalenzfehler)

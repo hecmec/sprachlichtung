@@ -21,7 +21,7 @@ controls src='https://youtu.be/4TuQ7YI-soQ' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 3:37. Original title: *CRITICAL THINKING - Cognitive Biases: Mental Accounting [HD]*
+Wireless Philosophy, Cognitive Biases, 3:37. Original title: _CRITICAL THINKING - Cognitive Biases: Mental Accounting [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -204,3 +204,5 @@ Weil wir Geld von Natur aus auf getrennte gedankliche Konten verteilen, statt es
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting)

@@ -71,3 +71,6 @@ Engaging with paradoxes fosters critical thinking by forcing us to:
 - develop creative approaches to solutions
 - recognise the limits of our concepts
 - deal with uncertainty and ambiguity
+
+<!--t src=d230e169-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/paradoxien-und-ihre-bedeutung-fuer-das-denken)

@@ -151,3 +151,6 @@ These distinctions are not an academic game. Anyone who masters them responds mo
 - Harry G. Frankfurt: _On Bullshit_ (Princeton University Press, 2005); German edition _Bullshit_ (Suhrkamp, 2006).
 - [Liars, Bullshitters and Fools](https://www.youtube.com/watch?v=azp3g8vpBJE&list=PLnNbFF6NPy3zL5uvLMjKCMRByR9kouFCY) (video, in German)
 - Lecture "Bullshit Resistance" (UdK Berlin, 2023): [Fake News](https://www.youtube.com/watch?v=cbYY-EGwvIs)
+
+<!--t src=e5cae60a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/luegen-unsinn-dummheit) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/luegen-unsinn-dummheit)

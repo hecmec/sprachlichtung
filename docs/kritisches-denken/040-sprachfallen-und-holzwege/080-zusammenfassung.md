@@ -3,17 +3,17 @@ title: Zusammenfassung
 sidebar_position: 8
 description: "Zusammenfassung der wichtigsten Erkenntnisse über sprachliche Fallstricke im kritischen Denken"
 keywords:
-   - Zusammenfassung
-   - Sprachfallen
-   - Ambiguität
-   - Vagheit
-   - geladene Sprache
-   - Kategorienfehler
-   - Definitionen
-   - kritisches Denken
+  - Zusammenfassung
+  - Sprachfallen
+  - Ambiguität
+  - Vagheit
+  - geladene Sprache
+  - Kategorienfehler
+  - Definitionen
+  - kritisches Denken
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
@@ -35,4 +35,4 @@ In diesem Kapitel haben wir verschiedene sprachliche Fallstricke untersucht, die
 
 Das Bewusstsein für diese sprachlichen Fallstricke und die Anwendung der vorgestellten Strategien können uns helfen, präziser zu denken, klarer zu kommunizieren und Manipulationsversuche besser zu durchschauen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/zusammenfassung)

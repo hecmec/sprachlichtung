@@ -63,3 +63,5 @@ import ReactPlayer from 'react-player';
 ## ✅ Conclusion
 
 Socrate défend une pensée critique comme pilier de la démocratie, en mettant en lumière les failles du raisonnement populaire manipulé. Platon, héritier de cette démarche, pousse la critique jusqu’à rejeter la démocratie pour un pouvoir élitiste, soulevant ainsi un débat toujours actuel : **qui est légitime pour décider ?**
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon)

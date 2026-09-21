@@ -105,4 +105,4 @@ draft: false
 9. c) Eine Bilder-Rückwärtssuche
 10. b) Die Verpflichtung auf den IFCN-Code
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/quiz-medien-kompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quiz-medien-kompetenz)

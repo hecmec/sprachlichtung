@@ -161,3 +161,5 @@ Socrates defends critical thinking as a pillar of democracy, bringing to light t
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon)

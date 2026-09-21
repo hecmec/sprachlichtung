@@ -72,4 +72,4 @@ Die nachgeschobene Sonderbedingung immunisiert die Behauptung gegen jede Überpr
 - [Wikipedia: Special pleading](https://en.wikipedia.org/wiki/Special_pleading)
 - [Logically Fallacious: Special Pleading](https://www.logicallyfallacious.com/logicalfallacies/Special-Pleading)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/forderung-nach-einem-privileg.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/forderung-nach-einem-privileg) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/forderung-nach-einem-privileg)

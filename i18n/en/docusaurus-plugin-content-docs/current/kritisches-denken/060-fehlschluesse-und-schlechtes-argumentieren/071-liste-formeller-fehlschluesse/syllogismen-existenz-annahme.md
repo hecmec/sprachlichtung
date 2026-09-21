@@ -31,9 +31,11 @@ _„All“ does not yet say that any exist._
 ## Definition
 
 <!--t src=ef148407-->
+
 The **existential fallacy** draws from two **universal** premises ("all …", "no …") a **particular** conclusion ("some …", "there is …") that asserts the **existence** of objects.
 
 <!--t src=2c93fdb9-->
+
 In modern (Boolean) logic, universal statements carry **no existential assumption**: "All $S$ are $P$" only means "there is no $S$ that is not $P$" &mdash; and is true even when there are no $S$ at all. From such premises one may therefore not conclude that there is any $S$ at all.
 
 <!--t src=3c24b250-->
@@ -62,6 +64,7 @@ Also known as: _existential fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=4d3ff42e-->
+
 - **Inconsistent premises** &mdash; related insofar as here too a hidden (here: existential) assumption is in play.
 - **Complex question** &mdash; related in content: there too an unspoken presupposition (an existence) is slipped in.
 
@@ -100,6 +103,7 @@ The premises can be true without a single unicorn existing. The conclusion, howe
 > 3. Therefore there are registered Moon-tax payers.
 
 <!--t src=2fa001b8-->
+
 As long as no one lives on the Moon, the premises are vacuously true &mdash; and the existence claim of the conclusion is unfounded.
 
 <!--t src=69b1092f-->
@@ -113,3 +117,7 @@ As long as no one lives on the Moon, the premises are vacuously true &mdash; and
 
 - [Wikipedia: Existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy)
 - [Logically Fallacious: Existential Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Existential-Fallacy)
+
+<!--t src=d5ecd02f-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-existenz-annahme)

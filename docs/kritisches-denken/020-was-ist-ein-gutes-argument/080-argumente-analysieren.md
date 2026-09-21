@@ -38,20 +38,20 @@ Eine Rekonstruktion folgt meist diesen Schritten:
 2. _(implizite Prämisse)_ Pilze, die man nicht kennt, könnten giftig sein.
 3. _(implizite Prämisse)_ Was giftig sein könnte, sollte man nicht essen.
 4. _(Konklusion)_ Du solltest diesen Pilz nicht essen.
-:::
+   :::
 
 ## Das Toulmin-Schema anwenden
 
 Für komplexere Argumente hilft das [Toulmin-Schema](020-was-ist-ein-argument.md#das-toulmin-schema-eine-universelle-form-argumente-zu-beschreiben), weil es nicht nur Prämissen und Konklusion trennt, sondern auch die **Brücke** zwischen ihnen und die **Grenzen** des Arguments sichtbar macht. Man fragt das Argument der Reihe nach ab:
 
-| Frage | Toulmin-Element |
-|-------|-----------------|
-| Was wird behauptet? | **Behauptung** (Claim) |
-| Worauf stützt sie sich? | **Tatsachen** (Data) |
-| Warum tragen diese Daten die Behauptung? | **Schlussregel** (Warrant) |
-| Worauf beruht diese Schlussregel? | **Grundsätze** (Backing) |
-| Wie sicher gilt die Behauptung? | **Einschränkung** (Qualifier) |
-| Wann gilt sie nicht? | **Ausnahme** (Rebuttal) |
+| Frage                                    | Toulmin-Element               |
+| ---------------------------------------- | ----------------------------- |
+| Was wird behauptet?                      | **Behauptung** (Claim)        |
+| Worauf stützt sie sich?                  | **Tatsachen** (Data)          |
+| Warum tragen diese Daten die Behauptung? | **Schlussregel** (Warrant)    |
+| Worauf beruht diese Schlussregel?        | **Grundsätze** (Backing)      |
+| Wie sicher gilt die Behauptung?          | **Einschränkung** (Qualifier) |
+| Wann gilt sie nicht?                     | **Ausnahme** (Rebuttal)       |
 
 :::info Beispiel
 **Aussage:** "Harald ist vermutlich strafmündig, denn er ist 16 und damit über 14, und in Deutschland ist man ab 14 strafmündig &mdash; es sei denn, ein Gutachten bescheinigt ihm fehlende Reife."
@@ -62,7 +62,7 @@ Für komplexere Argumente hilft das [Toulmin-Schema](020-was-ist-ein-argument.md
 - **Grundsätze:** § 19 StGB regelt die Strafmündigkeit ab 14 Jahren.
 - **Einschränkung:** "vermutlich".
 - **Ausnahme:** es sei denn, ein Gutachten bescheinigt fehlende Reife.
-:::
+  :::
 
 ## Vom Zerlegen zum Bewerten
 
@@ -75,4 +75,4 @@ Erst die Rekonstruktion macht eine faire Bewertung möglich. Mit der freigelegte
 
 Auf den nächsten Seiten vertiefen wir das Aufspüren versteckter Annahmen und üben die Analyse an konkreten Beispielen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/080-argumente-analysieren.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/argumente-analysieren)

@@ -105,4 +105,4 @@ Quelle: SBCC Library, _SIFT & PICK_ ([libguides.sbcc.edu](https://libguides.sbcc
 - [ ] **Belege** vorhanden und bis zur Primärquelle verfolgbar?
 - [ ] **Cui bono**: wem nützt das?
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/050-quellen-bewerten.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/quellen-bewerten) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quellen-bewerten)

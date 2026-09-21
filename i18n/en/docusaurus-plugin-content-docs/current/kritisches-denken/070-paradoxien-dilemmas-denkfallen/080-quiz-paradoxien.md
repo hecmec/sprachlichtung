@@ -76,3 +76,6 @@ custom_translation_overwritten: false
 3. b) Prisoner's dilemma
 4. c) Vagueness and the fuzzy boundaries of concepts
 5. b) Distinguishing between object language and metalanguage
+
+<!--t src=4826dd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien)

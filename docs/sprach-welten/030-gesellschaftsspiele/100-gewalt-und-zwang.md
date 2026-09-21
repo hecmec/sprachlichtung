@@ -51,4 +51,4 @@ Doch der kritische Blick endet nicht in stoischer Demut. Vieles, was lange als N
 
 [^benjamin]: Walter Benjamin: _Zur Kritik der Gewalt_ (1921), in: _Gesammelte Schriften_, Bd. II.1, Suhrkamp, Frankfurt a. M. 1977: zur Unterscheidung von rechtsetzender und rechtserhaltender Gewalt.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/gewalt-und-zwang) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/gewalt-und-zwang)

@@ -86,4 +86,4 @@ Drei Muster wiederholen sich. Erstens: Zwischen einer Idee und ihrer Wirkung lie
 
 [^transformer]: Ashish Vaswani u. a.: _Attention Is All You Need_, NeurIPS, 2017.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/meilensteine-der-kuenstlichen-intelligenz) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/meilensteine-der-kuenstlichen-intelligenz)

@@ -67,3 +67,5 @@ import ReactPlayer from 'react-player';
 
 Le **libre examen** évolue d’une **critique religieuse interne** à une **démarche critique universelle**, au cœur de la pensée des Lumières.
 Les **idéologues** marquent cette transformation en appliquant la raison à **tous les domaines de la vie humaine**, amorçant une **séparation entre pensée critique et religion**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-libre-examen)

@@ -61,3 +61,5 @@ last_update:
 3. c) Filterblase
 4. b) Emotionale Bewusstheit und Distanzierung
 5. b) "Du bildest dir das ein. Ich habe nie gesagt, dass ich das tun würde."
+
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung)

@@ -73,3 +73,5 @@ Les grandes révolutions (notamment la **Révolution française**) ont contesté
 ## 📌 Conclusion
 
 La tyrannie, qu’elle soit religieuse, monarchique ou autocratique, s’est toujours dressée contre la pensée critique. Cette dernière représente **un outil d’émancipation** fondamental, mais elle ne peut exister pleinement **sans liberté d’expression**. L’histoire européenne montre que **la conquête de cette liberté fut lente, difficile, et encore inachevée dans certains pays aujourd’hui.**
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-tyrannie) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-tyrannie)

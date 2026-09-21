@@ -71,3 +71,5 @@ No summary of this video available yet. 😪
 
 <!-- href="https://www.youtube.com/watch?v=z38TQoQxyRk"
   Pensée critique - Prendre la religion à son propre jeu - 02 - Module 6 -->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu)

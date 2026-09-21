@@ -31,6 +31,7 @@ _The proof goes round in a circle._
 ## Definition
 
 <!--t src=46b9819d-->
+
 In **circular reasoning** (Latin _petitio principii_, English _begging the question_), a claim is justified with statements that **already presuppose** what is to be proven. The conclusion is &mdash; openly or covertly &mdash; already contained in the premises.
 
 <!--t src=3b24518c-->
@@ -47,6 +48,7 @@ The fallacy has the following form:
 2. Therefore B.
 
 <!--t src=dde4a37d-->
+
 …where B is accepted only by someone who already believes A &mdash; and thereby B.
 
 <!--t src=97333634-->
@@ -61,6 +63,7 @@ Also known as: _begging the question_ / _petitio principii_
 <!-- list similar fallacies -->
 
 <!--t src=c2531c42-->
+
 - **Circular definition (idem per idem)** &mdash; a special form at the level of definition.
 - **Complex question** &mdash; related: an unproven assumption is hidden in the question.
 - **No true Scotsman** &mdash; related: the terms are chosen so that the thesis must remain true.
@@ -109,3 +112,7 @@ The truth of the Bible is justified by the Bible itself. The argument presuppose
 <!--t src=de646151-->
 
 - [The Fallacy Files: Begging the Question](https://www.fallacyfiles.org/begquest.html)
+
+<!--t src=9337bf2d-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss)

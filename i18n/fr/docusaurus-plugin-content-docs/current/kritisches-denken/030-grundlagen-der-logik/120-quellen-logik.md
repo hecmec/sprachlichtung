@@ -19,20 +19,25 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=ecb9dd36-->
+
 Vous trouverez ici des sources et des lectures complémentaires sur les fondements de la logique : des manuels en ligne librement accessibles (REL) ainsi que des introductions de référence éprouvées, sous forme de livres imprimés.
 
 <!--t src=57849308-->
+
 ## Manuels en ligne librement accessibles
 
 <!--t src=c53f86c6-->
+
 - 🇩🇪 Torsten Wilholt : _Logik und Argumentation_. https://www.philos.uni-hannover.de/fileadmin/philos/Dateien/Personen_-_Dokumente/Wilholt/Logik.pdf
 - 🇬🇧 P. D. Magnus et al. : [forall x: An Introduction to Formal Logic (Calgary)](https://forallx.openlogicproject.org/html/Ch1.html). Le manuel de logique libre le plus répandu dans le monde anglophone, devenu un standard moderne pour l'introduction à la logique propositionnelle et à la logique des prédicats.
 - 🇬🇧 Matthew Van Cleave : [Introduction to Logic and Critical Thinking](https://oercommons.org/groups/openwa-philosophy-and-logic/1422/17221/). Un manuel libre (REL) qui articule étroitement la logique avec la pensée critique et l'évaluation des arguments du quotidien.
 
 <!--t src=97c4f207-->
+
 ## Introductions de référence (livres)
 
 <!--t src=e90f2cc9-->
+
 - 🇫🇷 Robert Blanché : _Introduction à la logique contemporaine._ Armand Colin. Un classique francophone, qui présente la logique moderne dans son contexte historique et philosophique.
 - 🇫🇷 Denis Vernant : _Introduction à la logique standard._ Flammarion, 2001. Une introduction rigoureuse à la logique classique (calcul des propositions et des prédicats), écrite pour un public philosophique.
 - 🇩🇪 Ansgar Beckermann : _Einführung in die Logik._ De Gruyter, 4e édition 2014. Une introduction claire et didactiquement bien construite à la logique classique, très répandue dans les universités allemandes.
@@ -41,9 +46,11 @@ Vous trouverez ici des sources et des lectures complémentaires sur les fondemen
 - 🇩🇪 Wesley C. Salmon : _Logik._ Reclam. Une introduction éprouvée et accessible à tous (en traduction allemande), qui traite aussi des inférences inductives et des raisonnements fallacieux.
 
 <!--t src=9cd79262-->
+
 ## Manuels de logique pour aller plus loin (librement accessibles)
 
 <!--t src=12241f39-->
+
 - 🇩🇪 Holger Brenner : [_Einführung in die mathematische Logik_. Cours Wikiversity. (Osnabrück 2018, cc-by-sa-4.0).](<https://de.wikiversity.org/wiki/Kurs:Einf%C3%BChrung_in_die_mathematische_Logik_(Osnabr%C3%BCck_2018)>)
   - C'est un très bon cours de logique mathématique, mais peut-être un peu trop formel pour la plupart de nos lecteurs.
 - 🇩🇪 Horst Wessel : [_Logik_ (1998, cc-by-sa-4.0).](https://zenodo.org/records/18620514)
@@ -54,3 +61,7 @@ Vous trouverez ici des sources et des lectures complémentaires sur les fondemen
 
 <!--t src=8270de77-->
 <!-- - 🇩🇪 Timm Lampert: _Klassische Logik_. (Preprint) https://www2.hu-berlin.de/webMathematica/publications/Klassische_Logik_preprint.pdf -->
+
+<!--t src=ac081bbc-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/grundlagen-der-logik/quellen-logik) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/quellen-logik)

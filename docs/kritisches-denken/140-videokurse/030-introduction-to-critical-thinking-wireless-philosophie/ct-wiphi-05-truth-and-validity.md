@@ -379,3 +379,5 @@ Wahrheit gehört zu Aussagen, Gültigkeit zu Argumenten, und beide variieren una
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity)

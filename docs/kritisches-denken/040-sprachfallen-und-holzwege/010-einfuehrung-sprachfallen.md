@@ -3,35 +3,35 @@ title: Einführung in Sprachfallen
 sidebar_position: 1
 description: "Einführung in die verschiedenen sprachlichen Fallstricke beim kritischen Denken und wie sie unsere Argumentation beeinflussen"
 keywords:
-    - Sprachfallen
-    - kritisches Denken
-    - Kommunikation
-    - Missverständnisse
-    - Fehlschlüsse
-    - Mehrdeutigkeit
-    - Vagheit
-    - geladene Sprache
+  - Sprachfallen
+  - kritisches Denken
+  - Kommunikation
+  - Missverständnisse
+  - Fehlschlüsse
+  - Mehrdeutigkeit
+  - Vagheit
+  - geladene Sprache
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
 ---
- 
+
 # Einführung in Sprachfallen
 
-Sprache ist unser wichtigstes Werkzeug zum Denken und Kommunizieren.  Sie macht uns zu Menschen, essenziell soziale Lebewesen und ermöglicht es uns, mit anderen zu interagieren:  
+Sprache ist unser wichtigstes Werkzeug zum Denken und Kommunizieren. Sie macht uns zu Menschen, essenziell soziale Lebewesen und ermöglicht es uns, mit anderen zu interagieren:
 
-- Ideen auszutauschen,  
-- Gefühle auszudrücken,  
-- zu wünschen, zu fordern, zu befehlen, einzuwilligen ...,  
-- Argumente zu formulieren,  
-- komplexe Zusammenhänge zu verstehen.  
+- Ideen auszutauschen,
+- Gefühle auszudrücken,
+- zu wünschen, zu fordern, zu befehlen, einzuwilligen ...,
+- Argumente zu formulieren,
+- komplexe Zusammenhänge zu verstehen.
 
 Doch so stark und fruchtbar sie auch ist, birgt sie zahlreiche **Fallstricke**, die unser kritisches Denken behindern oder sogar sabotieren können.
 
-In diesem Kapitel untersuchen wir, wie sprachliche Phänomene wie **Mehrdeutigkeit, Vagheit, geladene Sprache oder Kategorienfehler** unsere Argumentation beeinflussen, oft ohne dass wir es merken. 
+In diesem Kapitel untersuchen wir, wie sprachliche Phänomene wie **Mehrdeutigkeit, Vagheit, geladene Sprache oder Kategorienfehler** unsere Argumentation beeinflussen, oft ohne dass wir es merken.
 
 Diese Sprachfallen können zu Missverständnissen, logischen Fehlschlüssen oder sogar gezielter Manipulation führen. Indem wir sie erkennen, können wir:
 
@@ -67,7 +67,6 @@ Dinge werden einer falschen Kategorie zugeordnet, was zu logischen Fehlern führ
 
 **Beispiel**: "Die Zahl 5 ist grün" &mdash; Zahlen haben keine Farbe, daher ist diese Aussage sinnlos.
 
-
 ## Wie gehen wir mit Sprachfallen um?
 
 Das Erkennen von Sprachfallen ist der erste Schritt, um sie zu vermeiden. In den folgenden Abschnitten werden wir:
@@ -78,4 +77,4 @@ Das Erkennen von Sprachfallen ist der erste Schritt, um sie zu vermeiden. In den
 
 Am Ende dieses Kapitels wirst du in der Lage sein, sprachliche Fallstricke in Argumenten, Medien oder Alltagsgesprächen zu erkennen und ihnen gezielt entgegenzuwirken.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/einfuehrung-sprachfallen)

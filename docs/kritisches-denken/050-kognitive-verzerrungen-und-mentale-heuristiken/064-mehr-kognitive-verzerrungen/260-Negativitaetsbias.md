@@ -75,4 +75,4 @@ Ein einzelner 1‑Stern‑Kommentar beeinflusst die Kaufentscheidung mehr als vi
 - Baumeister, R. F. et al. (2001). "Bad is stronger than good". Review of General Psychology.
 - Kahneman, D. & Tversky, A. &mdash; Prospect Theory und Verlustaversion.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Negativitaetsbias)

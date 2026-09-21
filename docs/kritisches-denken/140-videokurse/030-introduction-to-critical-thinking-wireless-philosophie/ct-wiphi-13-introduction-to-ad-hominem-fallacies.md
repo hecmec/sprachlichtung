@@ -21,7 +21,7 @@ controls src='https://youtu.be/wnbK76m691I' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 6:39. Original title: *CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies*
+Wireless Philosophy, Fallacies, 6:39. Original title: _CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies_
 
 <div className="row">
 <div className="col col--6">
@@ -191,3 +191,5 @@ Chung schließt, indem sie dem Publikum ein weiteres Beispiel vorlegt: „Ronald
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-13-introduction-to-ad-hominem-fallacies)

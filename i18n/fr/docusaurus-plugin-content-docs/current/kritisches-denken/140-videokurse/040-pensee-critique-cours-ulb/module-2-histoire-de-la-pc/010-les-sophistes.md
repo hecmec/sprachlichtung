@@ -71,3 +71,5 @@ import ReactPlayer from 'react-player';
 Ce contenu met en lumière l’importance de la pensée critique pour déjouer ces manipulations et assurer une démocratie saine.
 
 Veiller à la qualité de l’argumentation, reconnaître les sophismes, et cultiver un esprit critique sont essentiels pour ne pas se laisser entraîner par des discours fallacieux.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-les-sophistes) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-les-sophistes)

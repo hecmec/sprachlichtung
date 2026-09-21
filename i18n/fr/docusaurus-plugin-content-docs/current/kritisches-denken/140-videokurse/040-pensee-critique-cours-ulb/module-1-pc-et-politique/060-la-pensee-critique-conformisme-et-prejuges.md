@@ -78,3 +78,5 @@ La pensée critique **ne se décrète pas**, même en liberté. Elle exige :
 * Une **discipline intérieure** constante, car **l’adversaire le plus redoutable est en nous-mêmes**.
 
 Ce combat personnel est **plus difficile que de résister à une oppression extérieure**, car les chaînes intérieures sont invisibles, et souvent bien plus enracinées.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conformisme-prejuges) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-conformisme-prejuges)

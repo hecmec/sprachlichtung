@@ -36,29 +36,31 @@ Soziale Medien stellen besondere Herausforderungen für kritisches Denken dar. H
 ## Strategien für kritisches Denken in sozialen Medien
 
 1. **Langsames Scrollen**: Nehmen Sie sich Zeit, Inhalte zu verarbeiten, anstatt schnell weiterzuscrollen.
-   
-   *Beispiel*: Lesen Sie Artikel vollständig, nicht nur die Überschriften, bevor Sie eine Meinung bilden.
+
+   _Beispiel_: Lesen Sie Artikel vollständig, nicht nur die Überschriften, bevor Sie eine Meinung bilden.
 
 2. **Aktive Quellenprüfung**: Überprüfen Sie die Quelle eines Beitrags, bevor Sie ihn für glaubwürdig halten.
-   
-   *Beispiel*: Klicken Sie auf das Profil, das einen kontroversen Beitrag geteilt hat, um seine Glaubwürdigkeit einzuschätzen.
+
+   _Beispiel_: Klicken Sie auf das Profil, das einen kontroversen Beitrag geteilt hat, um seine Glaubwürdigkeit einzuschätzen.
 
 3. **Emotionale Pause**: Wenn ein Beitrag starke emotionale Reaktionen auslöst, nehmen Sie sich Zeit zum Nachdenken, bevor Sie reagieren.
-   
-   *Beispiel*: Wenn Sie wütend über einen Beitrag sind, warten Sie 10 Minuten, bevor Sie kommentieren oder teilen.
+
+   _Beispiel_: Wenn Sie wütend über einen Beitrag sind, warten Sie 10 Minuten, bevor Sie kommentieren oder teilen.
 
 4. **Bewusste Kuratierung**: Gestalten Sie Ihren Feed aktiv, um verschiedene Perspektiven zu sehen.
-   
-   *Beispiel*: Folgen Sie bewusst Quellen mit unterschiedlichen politischen Ausrichtungen.
+
+   _Beispiel_: Folgen Sie bewusst Quellen mit unterschiedlichen politischen Ausrichtungen.
 
 5. **Faktencheck-Tools nutzen**: Verwenden Sie vertrauenswürdige Faktencheck-Websites, um virale Behauptungen zu überprüfen.
-   
-   *Beispiel*: Wenn Sie eine überraschende Behauptung sehen, suchen Sie auf Seiten wie Correctiv.org oder Faktenfinder nach Überprüfungen.
+
+   _Beispiel_: Wenn Sie eine überraschende Behauptung sehen, suchen Sie auf Seiten wie Correctiv.org oder Faktenfinder nach Überprüfungen.
 
 6. **Kontextsuche**: Suchen Sie nach dem breiteren Kontext von Zitaten oder Ausschnitten.
-   
-   *Beispiel*: Wenn Sie ein kurzes Video sehen, das eine kontroverse Aussage zeigt, suchen Sie nach dem vollständigen Interview oder der vollständigen Rede.
+
+   _Beispiel_: Wenn Sie ein kurzes Video sehen, das eine kontroverse Aussage zeigt, suchen Sie nach dem vollständigen Interview oder der vollständigen Rede.
 
 7. **Kritisches Lesen von Bildern**: Lernen Sie, visuelle Inhalte kritisch zu betrachten.
-   
-   *Beispiel*: Achten Sie auf Anzeichen von Bildmanipulation wie unnatürliche Schatten, verzerrte Proportionen oder inkonsistente Beleuchtung.
+
+   _Beispiel_: Achten Sie auf Anzeichen von Bildmanipulation wie unnatürliche Schatten, verzerrte Proportionen oder inkonsistente Beleuchtung.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/kritisches-denken-in-sozialen-medien)

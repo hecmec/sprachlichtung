@@ -305,3 +305,5 @@ Kritisches Denken heißt, sich zu vergewissern, dass wir gute Gründe für unser
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-01-introduction-to-critical-thinking)

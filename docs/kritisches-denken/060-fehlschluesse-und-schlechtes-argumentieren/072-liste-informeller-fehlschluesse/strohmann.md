@@ -75,4 +75,4 @@ Die massvolle Aussage wird zu einem Verbot „jeder Freude“ aufgebauscht und d
 - [Wikipedia: Strohmann-Argument](https://de.wikipedia.org/wiki/Strohmann-Argument)
 - [Logically Fallacious: Straw Man](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/strohmann.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/strohmann)

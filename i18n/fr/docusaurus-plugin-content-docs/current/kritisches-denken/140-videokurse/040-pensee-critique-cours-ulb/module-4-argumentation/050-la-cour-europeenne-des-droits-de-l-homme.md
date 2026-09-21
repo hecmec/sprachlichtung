@@ -79,3 +79,4 @@ Le test à appliquer est alors celui de la cohérence entre le critère invoqué
 <!-- href="https://www.youtube.com/watch?v=tj4oNHYJ04Y"
   Pensée critique - La cour européenne des Droits de l'Homme - 05 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-cour-europeenne-des-droits-de-l-homme) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-cour-europeenne-des-droits-de-l-homme)

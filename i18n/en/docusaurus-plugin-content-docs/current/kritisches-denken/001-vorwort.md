@@ -68,3 +68,6 @@ custom_translation_overwritten: false
 
 <!--t src=5265e7ea-->
   So if something strikes you as odd in the English or the French, just take a look at the German original.
+
+<!--t src=73c2ee3e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/vorwort) | [Article en français](pathname:///fr/docs/kritisches-denken/vorwort)

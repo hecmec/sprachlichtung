@@ -308,3 +308,5 @@ La vidéo suivante passe de la probabilité inductive à la **certitude**, en co
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep19-evaluating-empirical-probability)

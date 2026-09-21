@@ -65,4 +65,4 @@ draft: false
 4. c) Wenn A, dann B. Nicht B. Also nicht A.
 5. b) Natürliche Substanzen sind immer sicher.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/110-quiz-grundlegende-logische-elemente.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/quiz-grundlegende-logische-elemente)

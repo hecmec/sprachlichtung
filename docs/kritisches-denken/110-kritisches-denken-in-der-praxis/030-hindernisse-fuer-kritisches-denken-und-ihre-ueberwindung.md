@@ -186,3 +186,5 @@ Manchmal stoßen wir auf Widerstände gegen kritisches Denken &mdash; bei uns se
 - **Modellieren statt predigen**: Kritisches Denken vorleben, statt es zu fordern
 
 **Beispiel:** Wenn Sie in einem Team arbeiten, in dem kritisches Denken nicht geschätzt wird, könnten Sie zunächst Ihre eigenen kritischen Fragen in einer konstruktiven, nicht konfrontativen Weise stellen ("Ich versuche zu verstehen..."), Erfolge durch kritisches Denken sichtbar machen und allmählich eine Kultur fördern, in der verschiedene Perspektiven aktiv gesucht werden.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/hindernisse-fuer-kritisches-denken-und-ihre-ueberwindung)

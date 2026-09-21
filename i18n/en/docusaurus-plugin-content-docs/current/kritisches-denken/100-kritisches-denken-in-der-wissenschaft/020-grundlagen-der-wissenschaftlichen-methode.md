@@ -363,3 +363,6 @@ Increasingly important are **interdisciplinary approaches**, which combine the m
 - Cognitive science connects psychology, neuroscience, linguistics, philosophy and computer science.
 - Environmental science integrates biology, chemistry, geology, economics and political science.
 - Science and technology studies combine sociological, historical and philosophical approaches.
+
+<!--t src=e6ef612b-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grundlagen-der-wissenschaftlichen-methode)

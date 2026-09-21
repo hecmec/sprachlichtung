@@ -308,3 +308,6 @@ Pour optimiser le développement de votre pensée critique, il est important de 
    - Réflexion sur le développement à long terme
    - Définition de nouveaux objectifs à long terme
    - Révision complète du plan de développement
+
+<!--t src=d5269cb8-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/entwicklung-eines-persoenlichen-plans-fuer-kritisches-denken)

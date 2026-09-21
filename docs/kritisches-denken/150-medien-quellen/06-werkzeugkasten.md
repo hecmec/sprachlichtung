@@ -13,10 +13,10 @@ keywords:
 last_update:
   date: 2026-02-04
   author: Immanuel Lupinus
-
 ---
 
 ![](/img/kd/mind_mapping_argument_mapping.png)
+
 <!-- https://framindmap.org/c/maps/1573467/edit -->
 
 Es gibt inzwischen digitale Werkzeuge zum analysieren, konstruieren und kartographieren von Argumenten.
@@ -31,8 +31,8 @@ Wir fügen immer wieder neue hinzu.
 **[Frezgi](https://frezgi.com/)**
 
 <!-- ![frezgi app image](/img/kd/frezgi_github.jpg) -->
-<img src={require("@site/static/img/kd/frezgi_github.jpg").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
+<img src={require("@site/static/img/kd/frezgi_github.jpg").default} alt="frezgi app image" width="300" style={{margin: '0 2rem'}} />
 
 - Das ist die einfachste Argument-mapping App, die sie sich vorstellen können.
 - Frei und **open-source** (MIT): https://github.com/Claritrie/Frezgi. Sie können mitmachen.
@@ -40,6 +40,7 @@ Wir fügen immer wieder neue hinzu.
 **[Rationale](https://rationaleonline.com/)**
 
 <!-- ![Rationale app image](/img/kd/rationale_screenshot.jpg) -->
+
 <img src={require("@site/static/img/kd/rationale_screenshot.jpg").default} alt="rationale app image" width="300" style={{margin: '0 2rem'}} />
 
 - Rationale ist eine kommerzielle funkionsreiche Web Applikation, die es erlaubt Argumentationen zu kartographieren.
@@ -56,7 +57,6 @@ Wir fügen immer wieder neue hinzu.
 - Eine einfache Auszeichnungssprache, um Argumente als Text zu schreiben und automatisch als Diagramm darzustellen.
 - Frei und **open-source**: https://github.com/christianvoigt/argdown
 
-
 ### Mindmap WebApps
 
 **[Framindmap](https://framindmap.org/)**
@@ -71,7 +71,7 @@ Wir fügen immer wieder neue hinzu.
 
 - Mindmaps ist eine **einfache** gut aussehende Mindmap Webapplication.
 - Die App ist kostenfrei und **open-source** (AGPL V3): https://github.com/drichard/mindmaps. Sie dürfen spenden.
-- Sie können die Karten direkt auf ihrem Computer, im Browser, in der Clound (Dropbox, Google Drive) oder als Bilder abspeichern 
+- Sie können die Karten direkt auf ihrem Computer, im Browser, in der Clound (Dropbox, Google Drive) oder als Bilder abspeichern
 - Man kann Äste nicht verschieben oder neu anordnen.
 
 **[Mindmup](https://www.mindmup.com/)**
@@ -93,3 +93,4 @@ Wir fügen immer wieder neue hinzu.
 <!-- ## Logik
  -->
 
+[Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/werkzeugkasten) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/werkzeugkasten)

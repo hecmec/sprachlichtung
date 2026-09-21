@@ -295,3 +295,5 @@ Lorsque vous soupçonnez une équivoque, procédez en trois temps : distinguez l
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation)

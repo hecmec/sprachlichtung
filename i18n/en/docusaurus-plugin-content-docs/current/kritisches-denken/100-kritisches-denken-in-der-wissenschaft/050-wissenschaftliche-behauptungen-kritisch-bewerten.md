@@ -160,3 +160,6 @@ Communicating scientific findings to the public is associated with particular ch
    - Avoidance of exaggeration and unfounded speculation
    - Consideration of the audience's prior knowledge and needs
    - Promotion of scientific understanding among the public
+
+<!--t src=9e44d4ab-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten)

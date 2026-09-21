@@ -77,4 +77,4 @@ Frühes Aufstehen mag bei Erfolgreichen häufig sein, ist aber keine Garantie f�
 - [Wikipedia: Konversionsfehlschluss](https://de.wikipedia.org/wiki/Konversionsfehlschluss)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-umkehrung-des-konditional.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-umkehrung-des-konditional.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-umkehrung-des-konditional) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-umkehrung-des-konditional)

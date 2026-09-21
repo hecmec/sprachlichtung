@@ -212,3 +212,6 @@ L'**empathie intellectuelle** est la capacité de se mettre à la place du mode 
 
 <!--t src=f1a1f59d-->
 **Application pratique :** Pratiquez l'écoute active, sans contredire aussitôt. Demandez-vous : « Pourquoi une personne raisonnable pourrait-elle défendre cette position ? » Essayez de reconstruire des arguments du point de vue de différents positionnements culturels ou idéologiques.
+
+<!--t src=7ebb7015-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/intellektuelle-tugenden-grundlagen-guten-denkens)

@@ -27,4 +27,4 @@ draft: true
 
 ## Sprache und Gesellschaft
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/03-podcasts.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/03-podcasts.md)
+[Article en français](pathname:///fr/docs/sprach-welten/medien-quellen/podcasts) | [Article in English](pathname:///en/docs/sprach-welten/medien-quellen/podcasts)

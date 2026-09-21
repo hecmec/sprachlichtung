@@ -92,3 +92,5 @@ Aristote cherche à **réconcilier démocratie et pensée critique**, en s’él
 * la **participation collective**,
 * l’**éducation rhétorique**,
 * et surtout, une **raison souple et contextuelle**, essentielle à l'exercice de la pensée critique en politique.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-aristote-democratie) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-aristote-democratie)

@@ -422,3 +422,5 @@ Le message central : **penser avec soin et précision**, et **lever d’abord le
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking)

@@ -76,3 +76,6 @@ custom_translation_overwritten: false
 3. c) L'induction
 4. b) Assurer la qualité et la fiabilité des publications scientifiques
 5. c) L'immunisation contre la critique et la falsification
+
+<!--t src=0bb96635-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden)

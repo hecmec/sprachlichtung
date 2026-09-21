@@ -192,3 +192,5 @@ Parce que notre esprit suppose qu'un prix plus élevé signifie une meilleure qu
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-22-pricing-biases)

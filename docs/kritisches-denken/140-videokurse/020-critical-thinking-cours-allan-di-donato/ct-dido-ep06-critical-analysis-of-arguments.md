@@ -80,18 +80,18 @@ Ein Argument ist willkürlich, wenn es auf nichts weiter als einer Vorliebe beru
 
 - **Mere opinion** – a raw claim with no supporting reasons is not an argument and gives you no reason to accept it.
 - **Relativism** – the stance that nothing is absolutely true or false. It is self-defeating: if everyone is always "right," there is no point in arguing or persuading at all.
-- **Ignorant conjecture** – treating the merely **possible** as if it were probable or actual (you *could* win the lottery, but that is no reason to expect to).
+- **Ignorant conjecture** – treating the merely **possible** as if it were probable or actual (you _could_ win the lottery, but that is no reason to expect to).
 - **Universal claims from particular experience** – inferring "all politicians lie" from a few cases. This is **anecdotal evidence** and the **hasty generalization** fallacy, and it foreshadows the deeper **problem of induction** (covered later): a universal conclusion is always stronger than any finite evidence can support.
-- **Bias** – presenting only a leaning rather than reasons. As before, bias is a reason to *question* a claim, not to reject it, since a biased person can still be right.
+- **Bias** – presenting only a leaning rather than reasons. As before, bias is a reason to _question_ a claim, not to reject it, since a biased person can still be right.
 
 </div>
 <div className="col col--6 video-translation">
 
 - **Bloße Meinung** – eine nackte Behauptung ohne stützende Gründe ist kein Argument und gibt dir keinen Grund, sie zu akzeptieren.
 - **Relativismus** – die Haltung, dass nichts absolut wahr oder falsch ist. Sie widerlegt sich selbst: Wenn jeder immer „recht" hat, hat Argumentieren oder Überzeugen überhaupt keinen Sinn.
-- **Unwissende Mutmaßung** – das bloß **Mögliche** behandeln, als wäre es wahrscheinlich oder tatsächlich (du *könntest* im Lotto gewinnen, aber das ist kein Grund, es zu erwarten).
+- **Unwissende Mutmaßung** – das bloß **Mögliche** behandeln, als wäre es wahrscheinlich oder tatsächlich (du _könntest_ im Lotto gewinnen, aber das ist kein Grund, es zu erwarten).
 - **Allgemeine Behauptungen aus einzelner Erfahrung** – aus wenigen Fällen „alle Politiker lügen" folgern. Das ist **anekdotische Evidenz** und der Fehlschluss der **voreiligen Verallgemeinerung**, und es deutet auf das tiefere **Induktionsproblem** voraus (später behandelt): Eine allgemeine Schlussfolgerung ist immer stärker, als jede endliche Evidenz sie stützen kann.
-- **Voreingenommenheit** – nur eine Neigung statt Gründe präsentieren. Wie zuvor ist Voreingenommenheit ein Grund, eine Behauptung zu *hinterfragen*, nicht sie zurückzuweisen, denn ein voreingenommener Mensch kann trotzdem recht haben.
+- **Voreingenommenheit** – nur eine Neigung statt Gründe präsentieren. Wie zuvor ist Voreingenommenheit ein Grund, eine Behauptung zu _hinterfragen_, nicht sie zurückzuweisen, denn ein voreingenommener Mensch kann trotzdem recht haben.
 
 </div>
 </div>
@@ -128,7 +128,7 @@ Die klarsten Gründe, ein Argument zu verwerfen:
 - **Logical fallacies / invalidity / contradiction** – a structural flaw means the argument does not actually reach its conclusion, so you need not accept it.
 - **Reductio ad absurdum** – assume a position and follow it until it yields an absurd or contradictory result, signaling a problem (often with the starting assumption). Zeno's paradoxes (Achilles and the tortoise) try this against the possibility of motion.
 - **Hypocrisy** – when someone's actions or other beliefs contradict their claim. It does not make the claim false, but it is a red flag: if the speaker doesn't seem to believe it, why should you?
-- **Presuppositional tensions** – holding two background beliefs that cut against each other (the example given: a materialist view of the person sitting uneasily alongside belief in a future resurrection, since with no continuity it is unclear how the restored being is the *same* person).
+- **Presuppositional tensions** – holding two background beliefs that cut against each other (the example given: a materialist view of the person sitting uneasily alongside belief in a future resurrection, since with no continuity it is unclear how the restored being is the _same_ person).
 
 </div>
 <div className="col col--6 video-translation">
@@ -136,7 +136,7 @@ Die klarsten Gründe, ein Argument zu verwerfen:
 - **Logische Fehlschlüsse / Ungültigkeit / Widerspruch** – ein struktureller Fehler bedeutet, dass das Argument seine Schlussfolgerung gar nicht erreicht, sodass du sie nicht akzeptieren musst.
 - **Reductio ad absurdum** – eine Position annehmen und ihr folgen, bis sie ein absurdes oder widersprüchliches Ergebnis liefert, was auf ein Problem hinweist (oft mit der Ausgangsannahme). Zenons Paradoxien (Achilles und die Schildkröte) versuchen dies gegen die Möglichkeit der Bewegung.
 - **Heuchelei** – wenn die Handlungen oder anderen Überzeugungen einer Person ihrer Behauptung widersprechen. Das macht die Behauptung nicht falsch, ist aber ein Warnzeichen: Wenn der Redner es selbst nicht zu glauben scheint, warum solltest du?
-- **Spannungen in den Voraussetzungen** – zwei Hintergrundüberzeugungen halten, die einander zuwiderlaufen (das gegebene Beispiel: eine materialistische Sicht des Menschen, die schlecht mit dem Glauben an eine künftige Auferstehung zusammenpasst, denn ohne Kontinuität ist unklar, wie das wiederhergestellte Wesen *dieselbe* Person ist).
+- **Spannungen in den Voraussetzungen** – zwei Hintergrundüberzeugungen halten, die einander zuwiderlaufen (das gegebene Beispiel: eine materialistische Sicht des Menschen, die schlecht mit dem Glauben an eine künftige Auferstehung zusammenpasst, denn ohne Kontinuität ist unklar, wie das wiederhergestellte Wesen _dieselbe_ Person ist).
 
 </div>
 </div>
@@ -222,14 +222,14 @@ Wenn du auf ein Argument reagierst, das dir missfällt, vermeide zwei sehr häuf
 <div className="row">
 <div className="col col--6">
 
-1. **Refuting the conclusion is not refuting the argument.** Arguing for a contrary conclusion is fine, but if you never show *where the original argument goes wrong*, and it happens to be sound, then its conclusion stands.
-2. **Refuting the argument does not prove the conclusion false.** A bad argument can still have a true conclusion ("all dogs have two legs; Big Bird is a dog; therefore Big Bird has two legs", terrible argument, but a *true* conclusion would not be disproven this way).
+1. **Refuting the conclusion is not refuting the argument.** Arguing for a contrary conclusion is fine, but if you never show _where the original argument goes wrong_, and it happens to be sound, then its conclusion stands.
+2. **Refuting the argument does not prove the conclusion false.** A bad argument can still have a true conclusion ("all dogs have two legs; Big Bird is a dog; therefore Big Bird has two legs", terrible argument, but a _true_ conclusion would not be disproven this way).
 
 </div>
 <div className="col col--6 video-translation">
 
-1. **Die Schlussfolgerung zu widerlegen ist nicht dasselbe wie das Argument zu widerlegen.** Für eine gegenteilige Schlussfolgerung zu argumentieren ist in Ordnung, aber wenn du nie zeigst, *wo das ursprüngliche Argument fehlgeht*, und es zufällig stichhaltig ist, dann steht seine Schlussfolgerung.
-2. **Das Argument zu widerlegen beweist nicht, dass die Schlussfolgerung falsch ist.** Ein schlechtes Argument kann trotzdem eine wahre Schlussfolgerung haben („alle Hunde haben zwei Beine; Bibo ist ein Hund; also hat Bibo zwei Beine", ein schreckliches Argument, aber eine *wahre* Schlussfolgerung würde so nicht widerlegt).
+1. **Die Schlussfolgerung zu widerlegen ist nicht dasselbe wie das Argument zu widerlegen.** Für eine gegenteilige Schlussfolgerung zu argumentieren ist in Ordnung, aber wenn du nie zeigst, _wo das ursprüngliche Argument fehlgeht_, und es zufällig stichhaltig ist, dann steht seine Schlussfolgerung.
+2. **Das Argument zu widerlegen beweist nicht, dass die Schlussfolgerung falsch ist.** Ein schlechtes Argument kann trotzdem eine wahre Schlussfolgerung haben („alle Hunde haben zwei Beine; Bibo ist ein Hund; also hat Bibo zwei Beine", ein schreckliches Argument, aber eine _wahre_ Schlussfolgerung würde so nicht widerlegt).
 
 </div>
 </div>
@@ -272,3 +272,5 @@ Dies ist nur ein Überblick; die formale Prüfung der Gültigkeit kommt später.
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments)

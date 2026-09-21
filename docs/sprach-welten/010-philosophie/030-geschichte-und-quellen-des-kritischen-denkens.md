@@ -543,4 +543,4 @@ Der Soziologe untersucht, warum sich Irrtümer, Verschwörungstheorien und Falsc
 
 [^gegen-sokal]: Auch das Buch blieb nicht ohne Widerspruch. Kritiker warfen den Autoren vor, Zitate aus dem Zusammenhang zu reißen, Metaphern wörtlich zu nehmen und von einem einzelnen Streich auf ganze Fachrichtungen zu schließen. Sokal und Bricmont selbst betonen, dass sie nicht das Denken der genannten Autoren insgesamt beurteilen, sondern nur den Missbrauch naturwissenschaftlicher Begriffe. Die Debatte ist damit selbst ein Lehrstück: Beide Seiten müssen sich die Prüfung gefallen lassen, die sie von der anderen verlangen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md)
+[Article en français](pathname:///fr/docs/sprach-welten/philosophie/geschichte-und-quellen-des-kritischen-denkens) | [Article in English](pathname:///en/docs/sprach-welten/philosophie/geschichte-und-quellen-des-kritischen-denkens)

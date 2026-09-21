@@ -141,3 +141,6 @@ La pensée scientifique peut aider à surmonter les biais cognitifs :
 
 <!--t src=12cfedea-->
    *Stratégie* : tenir un « journal de prédictions » afin d'évaluer de manière réaliste sa propre capacité à anticiper.
+
+<!--t src=40fe294c-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliches-denken-im-alltag)

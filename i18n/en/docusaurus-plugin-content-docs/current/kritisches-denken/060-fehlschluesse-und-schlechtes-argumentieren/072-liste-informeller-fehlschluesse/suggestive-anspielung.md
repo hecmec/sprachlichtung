@@ -31,6 +31,7 @@ _What is not said works the strongest._
 ## Definition
 
 <!--t src=9af874b1-->
+
 The **suggestive insinuation** (_innuendo_) creates a negative impression not through an open claim, but through **hints, questions or omissions**. In this way a suspicion is floated without being stated &mdash; and therefore without having to be substantiated.
 
 <!--t src=c0570a92-->
@@ -42,6 +43,7 @@ The error: the hint smuggles in an unproven imputation. It exploits the fact tha
 The fallacy has the following form:
 
 <!--t src=58a814fb-->
+
 1. It is suggested that something incriminating (E) holds about A.
 2. E is never explicitly claimed &mdash; and therefore never substantiated.
 3. The audience nevertheless takes E to be implied.
@@ -58,6 +60,7 @@ Also known as: _insinuation_ / _innuendo_
 <!-- list similar fallacies -->
 
 <!--t src=1121baf4-->
+
 - **Poisoning the well** &mdash; related: distrust of a person created in advance.
 - **Complex question** &mdash; related: an unproven assumption is hidden in a question.
 - **Red herring** &mdash; related, when the insinuation steers away from the topic.
@@ -78,6 +81,7 @@ Also known as: _insinuation_ / _innuendo_
 > „Why don't you ask him sometime how he actually finances his election campaign.“
 
 <!--t src=38ced875-->
+
 Nothing is claimed &mdash; and yet the suspicion of shady sources of money is awakened, entirely without evidence.
 
 <!--t src=f350657d-->
@@ -106,3 +110,7 @@ The protestation of „not wanting to say anything“ carries precisely the impu
 
 - [Wikipedia: Innuendo](https://en.wikipedia.org/wiki/Innuendo)
 - [Logically Fallacious: Innuendo](https://www.logicallyfallacious.com/logicalfallacies/Innuendo)
+
+<!--t src=e477816c-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/suggestive-anspielung)

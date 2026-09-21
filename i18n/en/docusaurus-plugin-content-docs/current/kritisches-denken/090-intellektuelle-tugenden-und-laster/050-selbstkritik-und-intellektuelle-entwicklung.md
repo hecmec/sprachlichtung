@@ -116,3 +116,6 @@ The cultivation of intellectual virtues and the overcoming of intellectual vices
 
 <!--t src=ca6a599d-->
 **Practical application:** Regard your intellectual development as a journey, not as a destination. Set yourself specific, realistic goals for cultivating certain intellectual virtues. Celebrate progress without expecting perfection. Be patient with yourself and acknowledge that intellectual growth requires time and continuous effort.
+
+<!--t src=24c04359-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/selbstkritik-und-intellektuelle-entwicklung) | [Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/selbstkritik-und-intellektuelle-entwicklung)

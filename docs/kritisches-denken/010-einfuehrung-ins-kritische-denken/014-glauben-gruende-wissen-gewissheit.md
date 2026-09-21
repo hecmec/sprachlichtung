@@ -567,4 +567,4 @@ Der Philosoph Karl Popper brachte es auf den Punkt: _"Ich kann mich irren, und d
 <!-- Die Antworten auf diese Fragen immer dieselbe:
   unvoreingenommene rationale Untersuchung. -->
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/014-glauben-gruende-wissen-gewissheit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/glauben-gruende-wissen-gewissheit) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/glauben-gruende-wissen-gewissheit)

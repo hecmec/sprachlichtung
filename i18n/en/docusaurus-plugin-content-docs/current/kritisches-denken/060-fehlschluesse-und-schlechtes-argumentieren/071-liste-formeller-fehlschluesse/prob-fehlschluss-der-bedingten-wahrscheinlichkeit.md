@@ -69,6 +69,7 @@ Also known as: _confusion of the inverse_ / _conditional probability fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=880a89be-->
+
 - **Base rate fallacy** &mdash; the most common manifestation, when the base rate is additionally neglected.
 - **Prosecutor's fallacy** &mdash; the forensic variant: $P(\text{evidence} \mid \text{innocent})$ is confused with $P(\text{innocent} \mid \text{evidence})$.
 - **Converse error** &mdash; the logical counterpart: there the inadmissible reversal of the conditional instead of the conditional probability.
@@ -85,6 +86,7 @@ Also known as: _confusion of the inverse_ / _conditional probability fallacy_
 <!-- description of example one -->
 
 <!--t src=102f7a52-->
+
 > "Most traffic fatalities were not wearing a helmet &mdash; so a helmet hardly protects."
 
 <!--t src=ae523f2a-->
@@ -117,3 +119,7 @@ This confuses $P(\text{trace} \mid \text{innocent})$ with $P(\text{innocent} \mi
 
 - [Wikipedia: Confusion of the inverse](https://en.wikipedia.org/wiki/Confusion_of_the_inverse)
 - [Wikipedia: Prosecutor's fallacy](https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy)
+
+<!--t src=cfdf18f6-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/prob-fehlschluss-der-bedingten-wahrscheinlichkeit)

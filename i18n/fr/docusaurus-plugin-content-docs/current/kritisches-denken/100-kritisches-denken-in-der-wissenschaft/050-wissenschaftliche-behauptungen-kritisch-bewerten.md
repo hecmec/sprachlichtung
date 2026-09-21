@@ -161,3 +161,6 @@ La transmission des connaissances scientifiques au grand public s'accompagne de 
    - Évitement des exagérations et des spéculations infondées
    - Prise en compte des connaissances préalables et des besoins du public
    - Promotion de la compréhension scientifique dans le grand public
+
+<!--t src=9e44d4ab-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-behauptungen-kritisch-bewerten)

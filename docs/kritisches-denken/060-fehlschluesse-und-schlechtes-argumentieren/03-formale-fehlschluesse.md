@@ -85,7 +85,6 @@ Es gibt möglicherweise andere Gründe für eine nasse Straße (z.B. Straßenrei
  </g>
 </svg>
 
-
 ## 2. Verneinung des Vordersatzes (Denying the Antecedent)
 
 Dieser Fehlschluss hat die folgende Form:
@@ -161,6 +160,7 @@ Wenn ich in Wien bin, bin ich in Österreich.
 Dieser Fehlschluss tritt in kategorischen Syllogismen auf, wenn ein Begriff in unterschiedlichen Bedeutungen verwendet wird, sodass der Syllogismus tatsächlich vier statt drei Begriffe enthält.
 
 **Beispiel:**
+
 1. Alle Sterne leuchten am Himmel.
 2. Einige Filmschauspieler sind Stars (Sterne).
 3. Also leuchten einige Filmschauspieler am Himmel.
@@ -172,17 +172,17 @@ Dieser Fehlschluss tritt in kategorischen Syllogismen auf, wenn ein Begriff in u
 Dieser Fehlschluss tritt in kategorischen Syllogismen auf, wenn der Mittelbegriff in keiner der Prämissen vollständig (distributiv) verwendet wird.
 
 **Beispiel:**
+
 1. Alle Hunde sind Säugetiere.
 2. Alle Katzen sind Säugetiere.
 3. Also sind alle Hunde Katzen.
 
 **Warum ist das fehlerhaft?** Der Mittelbegriff "Säugetiere" wird in keiner der Prämissen vollständig verwendet. Der Fehlschluss besteht darin, von einer gemeinsamen Eigenschaft (beide sind Säugetiere) auf Identität zu schließen.
 
-
 ### Venn-Diagram
 
 Wie man sehen kann, gibt es nach dem Ausschluss (Schraffur) der Nicht-Säugetier-Hunde und Nicht-Säugetier-Katzen keine zwingende Überlappung zwischen Hunden und Katzen, obwohl beide Säugetiere sind. Unser Beispiel m ist ein Hund und Säugetier aber keine Katze.\
-Die Informationen der Prämissen reichen aber nicht aus, um Tiere auszuschliessen die gleichzeitig Katzen und Hunde sind. 
+Die Informationen der Prämissen reichen aber nicht aus, um Tiere auszuschliessen die gleichzeitig Katzen und Hunde sind.
 
 <svg width="520" height="420" xmlns="http://www.w3.org/2000/svg">
  <defs>
@@ -226,4 +226,4 @@ Die Informationen der Prämissen reichen aber nicht aus, um Tiere auszuschliesse
  </g>
 </svg>
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/formale-fehlschluesse)

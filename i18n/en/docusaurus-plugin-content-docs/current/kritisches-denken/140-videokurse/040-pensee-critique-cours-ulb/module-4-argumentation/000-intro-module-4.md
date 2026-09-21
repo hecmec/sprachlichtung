@@ -79,3 +79,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=ACKML9FOXtw"
   Pensée critique - Introduction du Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-introduction-du-module-argumentation) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-introduction-du-module-argumentation)

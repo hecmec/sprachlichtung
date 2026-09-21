@@ -90,3 +90,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=wZcaGMmsh38"
   Pensée critique - La Liberté d'expression est-elle illimitée en démocratie ? - 03 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites)

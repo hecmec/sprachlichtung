@@ -20,52 +20,65 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=f5921e02-->
+
 ![Orwell, si les gens ne savent pas bien écrire](/img/kd/quote-george-orwell-quotefancy-if-people-cannot-write-well.jpg)
 
 <!--t src=b939afa5-->
+
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. (George Orwell)[^orwell]
 
 <!--t src=14794862-->
+
 > _Qui ne sait pas bien écrire ne sait pas bien penser, et pour qui ne sait pas bien penser, d'autres penseront._
 
 <!--t src=f076ff72-->
+
 [^orwell]:
     Cette phrase est fréquemment attribuée à George Orwell, mais elle reste introuvable dans son œuvre. Elle condense une idée de l'essai d'Orwell _Politics and the English Language_, où il écrit : "But if thought corrupts language, language can also corrupt thought."  
     (George Orwell : _Politics and the English Language_, dans _Horizon_, avril 1946)
 
 <!--t src=99d60573-->
+
 La pensée critique est à la fois un art martial et un sport d'équipe.
 
 <!--t src=19b218f9-->
+
 :::info Bivalence
 
 <p class="text--center">**S'opposer (antagonisme)** et **agir ensemble (synergie)**</p> 
 :::
 
 <!--t src=df97acfc-->
+
 Comme dans l'aïkido ou le judo, elle nous aide à **esquiver les attaques**, à les détourner ou à les bloquer (antagonisme).
 Comme dans la danse ou le sport collectif, nous y trouvons des éléments coopératifs (synergie).
 
 <!--t src=bd35d7e4-->
+
 ## Naviguer dans le flot d'informations
 
 <!--t src=86f0b891-->
+
 Dans notre monde hyperconnecté, nous sommes quotidiennement exposés à un flot d'informations.
 Sur Internet et dans les autres médias, nous trouvons en partie des informations correctes et vérifiées, mais aussi beaucoup de :
 
 <!--t src=7eec0c72-->
+
 - **« fake news »** et désinformation ciblée
 - **propagande** et manipulation de l'opinion
 - **publicité** trompeuse
 - **erreurs** involontaires et malentendus
 
 <!--t src=8e7eba5d-->
+
 Les **algorithmes** décident en outre souvent à notre place quelles informations nous voyons : les **moteurs de recherche** choisissent quels résultats nous sont affichés en premier, tandis que les réseaux sociaux nous recommandent des contenus en fonction de nos interactions précédentes. Cela peut conduire à ce qu'on appelle des « **bulles de filtres** », dans lesquelles nous ne recevons plus que des informations qui confirment nos opinions existantes.
 
 <!--t src=f5fd481f-->
+
 La pensée critique nous aide à naviguer dans ce paysage informationnel complexe, en nous rendant capables de :
 
 <!--t src=fd3e6610-->
+
 - distinguer les sources crédibles des sources **non crédibles**
 - séparer les faits des simples **opinions**
 - reconnaître les **tentatives de manipulation**
@@ -73,15 +86,19 @@ La pensée critique nous aide à naviguer dans ce paysage informationnel complex
 - tirer nos propres conclusions sur la base de **preuves** solides
 
 <!--t src=b3cbe4ee-->
+
 ## Prendre de meilleures décisions
 
 <!--t src=30aa9abe-->
+
 Chaque jour, nous prenons de nombreuses décisions (nous devons décider), depuis des questions quotidiennes comme « Qu'est-ce que je mange à midi ? » jusqu'à des choix de vie complexes comme l'orientation professionnelle, les investissements financiers ou les traitements médicaux.
 
 <!--t src=79e76255-->
+
 La pensée critique **améliore notre prise de décision** grâce à :
 
 <!--t src=140a641a-->
+
 - une **pondération** systématique des avantages et des inconvénients
 - la prise en compte de différentes **perspectives**
 - l'identification et le dépassement des **biais cognitifs**
@@ -89,12 +106,15 @@ La pensée critique **améliore notre prise de décision** grâce à :
 - l'évaluation de la **qualité et de la pertinence** des informations et des **sources d'information**
 
 <!--t src=9122b2a9-->
+
 ## Développement personnel et professionnel
 
 <!--t src=506ae1bb-->
+
 La pensée critique est une **compétence clé** dans de nombreuses activités professionnelles et favorise :
 
 <!--t src=9122fa65-->
+
 - les capacités de résolution de problèmes
 - la créativité et l'innovation
 - une communication efficace et l'écoute active
@@ -102,21 +122,26 @@ La pensée critique est une **compétence clé** dans de nombreuses activités p
 - l'apprentissage tout au long de la vie et la capacité d'adaptation
 
 <!--t src=f42c701c-->
+
 Dans la sphère personnelle, la pensée critique soutient :
 
 <!--t src=7a83f57e-->
+
 - l'autoréflexion, la connaissance de soi et la croissance personnelle
 - le développement de valeurs et de convictions fondées
 - la protection contre la manipulation et la tromperie
 - la promotion de l'autonomie et de l'autodétermination
 
 <!--t src=e373098c-->
+
 ## Citoyen de la société civile
 
 <!--t src=8c93b0d1-->
+
 Dans une société démocratique, la pensée critique est indispensable à une citoyenneté informée et engagée. Elle nous permet de :
 
 <!--t src=92c992a2-->
+
 - remettre en question de façon critique les déclarations politiques et les promesses électorales
 - considérer les questions sociales et éthiques sous différentes perspectives
 - participer aux débats publics et aux processus de décision
@@ -124,10 +149,17 @@ Dans une société démocratique, la pensée critique est indispensable à une c
 - résister à la manipulation par le populisme et l'extrémisme
 
 <!--t src=8b4b1087-->
+
 ## Humanité et empathie
 
 <!--t src=f0e25a93-->
+
 La pensée critique favorise aussi l'**humanité** et l'**empathie**, en nous apprenant à comprendre et à respecter les perspectives et les expériences des autres. Elle nous aide à déconstruire les préjugés et à rester ouverts à de nouvelles idées et à de nouvelles cultures.
 
 <!--t src=bf64dc33-->
+
 C'est un aspect souvent négligé, mais qui devient de plus en plus important dans le monde globalisé d'aujourd'hui.
+
+<!--t src=139e4eaa-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/warum-ist-kritisches-denken-wichtig)

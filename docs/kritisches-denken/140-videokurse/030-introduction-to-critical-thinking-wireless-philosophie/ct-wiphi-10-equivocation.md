@@ -294,3 +294,5 @@ Wenn Sie eine Äquivokation vermuten, gehen Sie in drei Schritten vor: Untersche
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation)

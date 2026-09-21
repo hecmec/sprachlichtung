@@ -56,3 +56,5 @@ Einige Paradoxien haben zur Entwicklung völlig neuer theoretischer Rahmen gefü
 - Russells Paradoxon führte zur Typentheorie und axiomatischen Mengenlehre
 - Zenons Paradoxien inspirierten die Entwicklung der Infinitesimalrechnung
 - Das Gefangenendilemma führte zu neuen Ansätzen in der Spieltheorie und Evolutionsbiologie
+
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien)

@@ -15,16 +15,15 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 Gültigkeit und Stichhaltigkeit sind zentrale Konzepte zur Bewertung von Argumenten in der Logik.
 
 ## Gültigkeit (Validity)
 
-Ein Argument ist **gültig**, wenn die Schlussfolgerung logisch aus den Prämissen folgt. 
+Ein Argument ist **gültig**, wenn die Schlussfolgerung logisch aus den Prämissen folgt.
 
 :::tip Definition
 Ein Schluss ist **gültig**:
@@ -39,6 +38,7 @@ Wenn alle Prämissen wahr sind, dann kann die Schlussfolgerung nicht falsch sein
 Die Gültigkeit bezieht sich ausschließlich auf die logische Form des Arguments, nicht auf den Wahrheitsgehalt der Prämissen.
 
 **Beispiel für ein gültiges Argument:**
+
 - Prämisse 1: Alle Menschen sind sterblich.
 - Prämisse 2: Sokrates ist ein Mensch.
 - Schlussfolgerung: Sokrates ist sterblich.
@@ -46,6 +46,7 @@ Die Gültigkeit bezieht sich ausschließlich auf die logische Form des Arguments
 Dieses Argument ist gültig, weil die Schlussfolgerung logisch aus den Prämissen folgt. Wenn beide Prämissen wahr sind, muss auch die Schlussfolgerung wahr sein.
 
 **Beispiel für ein ungültiges Argument:**
+
 - Prämisse 1: Alle Hunde sind Tiere.
 - Prämisse 2: Einige Tiere können schwimmen.
 - Schlussfolgerung: Einige Hunde können schwimmen.
@@ -57,6 +58,7 @@ Dieses Argument ist ungültig, weil die Schlussfolgerung nicht notwendigerweise 
 Ein Argument ist **korrekt** oder **stichhaltig**, wenn es (1) gültig ist und (2) alle seine Prämissen tatsächlich wahr sind. Die Stichhaltigkeit bezieht sich sowohl auf die logische Form als auch auf den Wahrheitsgehalt der Prämissen.
 
 **Beispiel für ein korrektes Argument:**
+
 - Prämisse 1: Alle Menschen sind sterblich. (Wahr)
 - Prämisse 2: Sokrates ist ein Mensch. (Wahr)
 - Schlussfolgerung: Sokrates ist sterblich.
@@ -64,13 +66,14 @@ Ein Argument ist **korrekt** oder **stichhaltig**, wenn es (1) gültig ist und (
 Dieses Argument ist stichhaltig, weil es gültig ist und beide Prämissen wahr sind.
 
 **Beispiel für ein gültiges, aber nicht korrektes Argument:**
+
 - Prämisse 1: Alle Katzen können fliegen. (Falsch)
 - Prämisse 2: Felix ist eine Katze. (Wahr)
 - Schlussfolgerung: Felix kann fliegen.
 
 Dieses Argument ist gültig (die Schlussfolgerung folgt logisch aus den Prämissen), aber nicht stichhaltig, weil die erste Prämisse falsch ist.
 
-<!-- TODO: Beispiel von Aristoteles 
+<!-- TODO: Beispiel von Aristoteles
 Alle Menschen sind ... -->
 
 ## Beziehung zwischen Gültigkeit und Stichhaltigkeit
@@ -96,4 +99,4 @@ Die Unterscheidung zwischen Gültigkeit und Stichhaltigkeit ist für das kritisc
    - Formale Fehler (Ungültigkeit)
    - Inhaltliche Fehler (falsche Prämissen)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/gueltigkeit-und-stichhaltigkeit)

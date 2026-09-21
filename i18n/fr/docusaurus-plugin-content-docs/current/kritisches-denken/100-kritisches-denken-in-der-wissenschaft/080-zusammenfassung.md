@@ -50,3 +50,6 @@ Nous avons appris :
 
 <!--t src=7572c297-->
 La science est un outil puissant pour acquérir des connaissances fiables, mais elle a aussi ses limites. Une compréhension critique des méthodes et des principes scientifiques nous aide à évaluer les affirmations scientifiques de manière appropriée et à appliquer la pensée scientifique dans notre vie quotidienne.
+
+<!--t src=0a1a91ae-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung)

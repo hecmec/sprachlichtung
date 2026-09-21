@@ -135,3 +135,6 @@ Une limite importante de la science concerne la relation entre les faits et les 
 
 <!--t src=2ea9e0f2-->
    *Exemple* : les priorités de recherche sont souvent façonnées par les sources de financement et les intérêts de la société.
+
+<!--t src=f8b5b6e5-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/grenzen-der-wissenschaft)

@@ -23,3 +23,5 @@ draft: false
 Paradoxien sind faszinierende Phänomene, die unser Denken herausfordern und uns an die Grenzen der Logik führen. Sie erscheinen als widersprüchliche Aussagen oder Situationen, die trotz scheinbar korrekter Argumentation zu absurden oder widersprüchlichen Schlussfolgerungen führen. Paradoxien sind nicht nur intellektuelle Kuriositäten, sondern haben tiefgreifende Auswirkungen auf Philosophie, Mathematik, Logik und sogar auf unser Alltagsdenken.
 
 In diesem Kapitel werden wir verschiedene Arten von Paradoxien untersuchen, ihre Struktur analysieren und ihre Bedeutung für das kritische Denken erkunden. Wir werden auch Strategien entwickeln, um mit paradoxen Situationen umzugehen und aus ihnen zu lernen.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/einfuehrung)

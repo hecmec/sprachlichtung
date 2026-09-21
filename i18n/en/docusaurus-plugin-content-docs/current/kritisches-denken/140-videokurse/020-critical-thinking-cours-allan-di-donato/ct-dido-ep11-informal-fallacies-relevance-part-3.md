@@ -61,3 +61,5 @@ Arguing that something is true simply because you **want** it to be, or because 
 ### Where this leads
 
 This wraps up the appeals to authority. The next (fourth) relevance session covers the **diversion** category of distractions, after which the course still has the entire **presumption** family to cover.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep11-informal-fallacies-relevance-part-3)

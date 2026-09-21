@@ -87,3 +87,4 @@ No summary of this video available yet. 😪
 <!-- href="https://www.youtube.com/watch?v=FfL4YT7McVo"
   Pensée critique - Raison publique, Raison privée - 01 - Module 5 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-raison-publique-raison-privee) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-raison-publique-raison-privee)

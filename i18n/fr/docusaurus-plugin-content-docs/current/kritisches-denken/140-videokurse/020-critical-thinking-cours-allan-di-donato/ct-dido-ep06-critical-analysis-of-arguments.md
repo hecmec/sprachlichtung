@@ -273,3 +273,5 @@ Il ne s’agit là que d’un aperçu ; le test formel de la validité viendra p
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep06-critical-analysis-of-arguments)

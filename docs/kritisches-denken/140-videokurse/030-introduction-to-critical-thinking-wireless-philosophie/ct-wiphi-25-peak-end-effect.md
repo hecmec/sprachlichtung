@@ -21,7 +21,7 @@ controls src='https://youtu.be/RhyJGwNpEcw' />
 
 &nbsp;
 
-Wireless Philosophy, Cognitive Biases, 5:16. Original title: *CRITICAL THINKING - Cognitive Biases: Peak-End Effect [HD]*
+Wireless Philosophy, Cognitive Biases, 5:16. Original title: _CRITICAL THINKING - Cognitive Biases: Peak-End Effect [HD]_
 
 <div className="row">
 <div className="col col--6">
@@ -178,3 +178,5 @@ Da die erinnerte Güte eines Erlebnisses nur von seinem Höhepunkt und seinem En
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-25-peak-end-effect)

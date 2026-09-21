@@ -231,3 +231,5 @@ Cela clôt le traitement de l’**induction et de la science** dans ce cours. L�
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep24-historical-science-and-causal-reasoning)

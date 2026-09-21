@@ -279,3 +279,5 @@ Le test d’une hypothèse a une structure logique. Conclure « l’hypothèse e
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep22-inductive-scientific-method)

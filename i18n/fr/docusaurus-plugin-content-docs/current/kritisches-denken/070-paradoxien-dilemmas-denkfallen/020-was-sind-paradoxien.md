@@ -65,3 +65,6 @@ Les paradoxes peuvent être classés selon différents critères. Une répartiti
 
 <!--t src=507374e0-->
 6. **Paradoxes sorites (paradoxes du tas)** : ils naissent de termes vagues et de la question de savoir à quel moment de petites modifications progressives entraînent un changement qualitatif.
+
+<!--t src=1e2ed50a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien)

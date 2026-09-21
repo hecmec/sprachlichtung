@@ -31,9 +31,11 @@ _One cause, where many act together._
 ## Definition
 
 <!--t src=e8b392f4-->
+
 In **single-cause thinking** (causal oversimplification), an effect that in truth depends on **several causes** is traced back to a **single** cause. The interplay of the factors is ignored.
 
 <!--t src=a34760c5-->
+
 The error: many phenomena &mdash; social, health-related, economic &mdash; arise from a web of causes. Whoever singles out only one oversimplifies inadmissibly and often draws the wrong conclusions.
 
 <!--t src=3c24b250-->
@@ -58,6 +60,7 @@ Also known as: _causal oversimplification_
 <!-- list similar fallacies -->
 
 <!--t src=6ced2ceb-->
+
 - **Post hoc ergo propter hoc** &mdash; related: premature attribution of a cause.
 - **False dilemma** &mdash; related: an artificial narrowing of the possibilities.
 - **Cherry picking** &mdash; related, when only the one convenient factor is emphasized.
@@ -107,3 +110,7 @@ Poverty as a rule has many causes (education, health, the labour market, backgro
 
 - [Wikipedia: Causal oversimplification](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause)
 - [Logically Fallacious: Causal Oversimplification](https://www.logicallyfallacious.com/logicalfallacies/Causal-Oversimplification)
+
+<!--t src=07758f06-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mono-kausales-denken) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mono-kausales-denken)

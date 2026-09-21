@@ -39,12 +39,12 @@ controls src='https://youtu.be/h2TxRQaEJkE' />
 <div className="row">
 <div className="col col--6">
 
-This short episode of Allan Di Donato's *Critical Thinking* course examines what we mean by **certainty** and distinguishes six different kinds. It sets the stage for the broader discussion of induction and probability that follows.
+This short episode of Allan Di Donato's _Critical Thinking_ course examines what we mean by **certainty** and distinguishes six different kinds. It sets the stage for the broader discussion of induction and probability that follows.
 
 </div>
 <div className="col col--6 video-translation">
 
-Diese kurze Folge von Allan Di Donatos Kurs *Kritisches Denken* untersucht, was wir mit **Gewissheit** meinen, und unterscheidet sechs verschiedene Arten. Sie bereitet die umfassendere Diskussion über Induktion und Wahrscheinlichkeit vor, die folgt.
+Diese kurze Folge von Allan Di Donatos Kurs _Kritisches Denken_ untersucht, was wir mit **Gewissheit** meinen, und unterscheidet sechs verschiedene Arten. Sie bereitet die umfassendere Diskussion über Induktion und Wahrscheinlichkeit vor, die folgt.
 
 </div>
 </div>
@@ -65,12 +65,12 @@ Diese kurze Folge von Allan Di Donatos Kurs *Kritisches Denken* untersucht, was 
 <div className="row">
 <div className="col col--6">
 
-We have said that deductive arguments end in **certainty** and inductive arguments end in **probability**. Strictly speaking, however, certainty is a characteristic of a *person*: it refers to one's confidence in a judgment. Some thinkers distinguish **certainty** from **certitude**, where certitude is the merely subjective feeling of confidence, and certainty is confidence proportioned to objective reasons for assenting to a secure truth.
+We have said that deductive arguments end in **certainty** and inductive arguments end in **probability**. Strictly speaking, however, certainty is a characteristic of a _person_: it refers to one's confidence in a judgment. Some thinkers distinguish **certainty** from **certitude**, where certitude is the merely subjective feeling of confidence, and certainty is confidence proportioned to objective reasons for assenting to a secure truth.
 
 </div>
 <div className="col col--6 video-translation">
 
-Wir haben gesagt, dass deduktive Argumente in **Gewissheit** enden und induktive Argumente in **Wahrscheinlichkeit**. Streng genommen ist Gewissheit jedoch ein Merkmal einer *Person*: Sie bezieht sich auf das Vertrauen in ein Urteil. Manche Denker unterscheiden **Gewissheit** von **Überzeugtheit**, wobei die Überzeugtheit das bloß subjektive Gefühl der Sicherheit ist und die Gewissheit ein Vertrauen, das den objektiven Gründen entspricht, einer gesicherten Wahrheit zuzustimmen.
+Wir haben gesagt, dass deduktive Argumente in **Gewissheit** enden und induktive Argumente in **Wahrscheinlichkeit**. Streng genommen ist Gewissheit jedoch ein Merkmal einer _Person_: Sie bezieht sich auf das Vertrauen in ein Urteil. Manche Denker unterscheiden **Gewissheit** von **Überzeugtheit**, wobei die Überzeugtheit das bloß subjektive Gefühl der Sicherheit ist und die Gewissheit ein Vertrauen, das den objektiven Gründen entspricht, einer gesicherten Wahrheit zuzustimmen.
 
 </div>
 </div>
@@ -91,12 +91,12 @@ Daraus folgt ein entscheidender Punkt: Ich kann der Wahrheit einer Aussage gewis
 <div className="row">
 <div className="col col--6">
 
-Strictly, there is no such thing as "almost certain," because certainty implies *no* doubt. But because we use the word for various levels of confidence, Di Donato adopts a colloquial understanding and ranks six kinds of certainty so we can see where **inductive certainty** fits among them.
+Strictly, there is no such thing as "almost certain," because certainty implies _no_ doubt. But because we use the word for various levels of confidence, Di Donato adopts a colloquial understanding and ranks six kinds of certainty so we can see where **inductive certainty** fits among them.
 
 </div>
 <div className="col col--6 video-translation">
 
-Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel impliziert. Aber da wir das Wort für verschiedene Grade der Sicherheit verwenden, übernimmt Di Donato ein umgangssprachliches Verständnis und ordnet sechs Arten der Gewissheit, damit wir sehen können, wo die **induktive Gewissheit** unter ihnen einzuordnen ist.
+Streng genommen gibt es kein „fast gewiss", weil Gewissheit _keinen_ Zweifel impliziert. Aber da wir das Wort für verschiedene Grade der Sicherheit verwenden, übernimmt Di Donato ein umgangssprachliches Verständnis und ordnet sechs Arten der Gewissheit, damit wir sehen können, wo die **induktive Gewissheit** unter ihnen einzuordnen ist.
 
 </div>
 </div>
@@ -143,12 +143,12 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 <div className="row">
 <div className="col col--6">
 
-**Existential certainty** is the third kind placed at the highest level. Here the truth is undeniable but not grounded in logic or definition alone; rather, *actual existence* provides evidence that cannot be contradicted. These are **self-evident truths**: once understood, they cannot be denied. The classic example is "I exist" (or "I am alive"). Unlike "two plus two is four," this is not necessarily true; I was not always here, and one day I will be gone. Yet at the moment I utter the words, denying them would require me to exist, so the denial proves the claim. Another example: "I feel pain now," which I can be certain of even if the feeling has no physical cause.
+**Existential certainty** is the third kind placed at the highest level. Here the truth is undeniable but not grounded in logic or definition alone; rather, _actual existence_ provides evidence that cannot be contradicted. These are **self-evident truths**: once understood, they cannot be denied. The classic example is "I exist" (or "I am alive"). Unlike "two plus two is four," this is not necessarily true; I was not always here, and one day I will be gone. Yet at the moment I utter the words, denying them would require me to exist, so the denial proves the claim. Another example: "I feel pain now," which I can be certain of even if the feeling has no physical cause.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Existenzielle Gewissheit** ist die dritte Art, die auf der höchsten Ebene angesiedelt ist. Hier ist die Wahrheit unleugbar, aber nicht allein in Logik oder Definition begründet; vielmehr liefert die *tatsächliche Existenz* eine Evidenz, der nicht widersprochen werden kann. Dies sind **selbstevidente Wahrheiten**: Einmal verstanden, können sie nicht geleugnet werden. Das klassische Beispiel ist „Ich existiere" (oder „Ich lebe"). Anders als „zwei plus zwei ist vier" ist dies nicht notwendig wahr; ich war nicht immer hier, und eines Tages werde ich fort sein. Doch in dem Moment, in dem ich die Worte ausspreche, würde ihr Leugnen meine Existenz erfordern, sodass die Verneinung die Behauptung beweist. Ein anderes Beispiel: „Ich fühle jetzt Schmerz", dessen ich gewiss sein kann, selbst wenn das Gefühl keine physische Ursache hat.
+**Existenzielle Gewissheit** ist die dritte Art, die auf der höchsten Ebene angesiedelt ist. Hier ist die Wahrheit unleugbar, aber nicht allein in Logik oder Definition begründet; vielmehr liefert die _tatsächliche Existenz_ eine Evidenz, der nicht widersprochen werden kann. Dies sind **selbstevidente Wahrheiten**: Einmal verstanden, können sie nicht geleugnet werden. Das klassische Beispiel ist „Ich existiere" (oder „Ich lebe"). Anders als „zwei plus zwei ist vier" ist dies nicht notwendig wahr; ich war nicht immer hier, und eines Tages werde ich fort sein. Doch in dem Moment, in dem ich die Worte ausspreche, würde ihr Leugnen meine Existenz erfordern, sodass die Verneinung die Behauptung beweist. Ein anderes Beispiel: „Ich fühle jetzt Schmerz", dessen ich gewiss sein kann, selbst wenn das Gefühl keine physische Ursache hat.
 
 </div>
 </div>
@@ -169,12 +169,12 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 <div className="row">
 <div className="col col--6">
 
-**Virtual certainty** is a lower, *arguable* kind, though it sits at the top of the lower band. It is a **psychological certainty** grounded not in the thing known but in the knower. The confidence is something I *could* doubt but have no reason to: all known evidence points to the proposition's truth, yet new evidence might conceivably emerge. Examples include being virtually certain I did not eat breakfast this morning, or that I am speaking into a microphone right now. I could be dreaming or hallucinating, but nothing fits that explanation, so denying the obvious would be unreasonable.
+**Virtual certainty** is a lower, _arguable_ kind, though it sits at the top of the lower band. It is a **psychological certainty** grounded not in the thing known but in the knower. The confidence is something I _could_ doubt but have no reason to: all known evidence points to the proposition's truth, yet new evidence might conceivably emerge. Examples include being virtually certain I did not eat breakfast this morning, or that I am speaking into a microphone right now. I could be dreaming or hallucinating, but nothing fits that explanation, so denying the obvious would be unreasonable.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Virtuelle Gewissheit** ist eine niedrigere, *anfechtbare* Art, obwohl sie an der Spitze des unteren Bereichs steht. Sie ist eine **psychologische Gewissheit**, die nicht in der erkannten Sache, sondern im Erkennenden begründet ist. Das Vertrauen ist etwas, das ich bezweifeln *könnte*, wozu ich aber keinen Grund habe: Alle bekannte Evidenz weist auf die Wahrheit der Aussage hin, doch neue Evidenz könnte denkbarerweise auftauchen. Beispiele sind, virtuell gewiss zu sein, dass ich heute Morgen nicht gefrühstückt habe, oder dass ich gerade in ein Mikrofon spreche. Ich könnte träumen oder halluzinieren, aber nichts passt zu dieser Erklärung, sodass es unvernünftig wäre, das Offensichtliche zu leugnen.
+**Virtuelle Gewissheit** ist eine niedrigere, _anfechtbare_ Art, obwohl sie an der Spitze des unteren Bereichs steht. Sie ist eine **psychologische Gewissheit**, die nicht in der erkannten Sache, sondern im Erkennenden begründet ist. Das Vertrauen ist etwas, das ich bezweifeln _könnte_, wozu ich aber keinen Grund habe: Alle bekannte Evidenz weist auf die Wahrheit der Aussage hin, doch neue Evidenz könnte denkbarerweise auftauchen. Beispiele sind, virtuell gewiss zu sein, dass ich heute Morgen nicht gefrühstückt habe, oder dass ich gerade in ein Mikrofon spreche. Ich könnte träumen oder halluzinieren, aber nichts passt zu dieser Erklärung, sodass es unvernünftig wäre, das Offensichtliche zu leugnen.
 
 </div>
 </div>
@@ -182,12 +182,12 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 <div className="row">
 <div className="col col--6">
 
-**Inductive certainty** belongs at the lower end, because induction yields only probable conclusions, and probability is not certainty at all. Still, under the right conditions it can rise to the level of virtual certainty. We speak of inductive certainty when *all* the evidence is present and evaluated and a general conclusion is drawn: this is a **perfect induction**. The catch is that perfect inductions are usually unattainable. A perfect induction is *theoretically* possible whenever a situation has limits, and *practically* possible only when those limits are small and manageable. Example: "All the pens in my right hand are black" allows inductive certainty, because all the evidence is available in a tightly limited setting. By contrast, "All pencils contain graphite" is theoretically perfectible (the Earth and its pencils are finite) but practically impossible: I could never check every pencil, and a single old lead pencil could overturn the generalization. **Without a perfect induction, there is no certainty.**
+**Inductive certainty** belongs at the lower end, because induction yields only probable conclusions, and probability is not certainty at all. Still, under the right conditions it can rise to the level of virtual certainty. We speak of inductive certainty when _all_ the evidence is present and evaluated and a general conclusion is drawn: this is a **perfect induction**. The catch is that perfect inductions are usually unattainable. A perfect induction is _theoretically_ possible whenever a situation has limits, and _practically_ possible only when those limits are small and manageable. Example: "All the pens in my right hand are black" allows inductive certainty, because all the evidence is available in a tightly limited setting. By contrast, "All pencils contain graphite" is theoretically perfectible (the Earth and its pencils are finite) but practically impossible: I could never check every pencil, and a single old lead pencil could overturn the generalization. **Without a perfect induction, there is no certainty.**
 
 </div>
 <div className="col col--6 video-translation">
 
-**Induktive Gewissheit** gehört ans untere Ende, weil Induktion nur wahrscheinliche Schlussfolgerungen liefert und Wahrscheinlichkeit überhaupt keine Gewissheit ist. Dennoch kann sie unter den richtigen Bedingungen zur Ebene der virtuellen Gewissheit aufsteigen. Wir sprechen von induktiver Gewissheit, wenn *alle* Evidenz vorhanden und ausgewertet ist und eine allgemeine Schlussfolgerung gezogen wird: Dies ist eine **vollkommene Induktion**. Der Haken ist, dass vollkommene Induktionen meist unerreichbar sind. Eine vollkommene Induktion ist *theoretisch* möglich, wann immer eine Situation Grenzen hat, und *praktisch* nur, wenn diese Grenzen klein und überschaubar sind. Beispiel: „Alle Stifte in meiner rechten Hand sind schwarz" erlaubt induktive Gewissheit, weil alle Evidenz in einem eng begrenzten Rahmen verfügbar ist. Dagegen ist „Alle Bleistifte enthalten Grafit" theoretisch vervollkommenbar (die Erde und ihre Bleistifte sind endlich), aber praktisch unmöglich: Ich könnte nie jeden Bleistift prüfen, und ein einziger alter Bleistift könnte die Verallgemeinerung umstoßen. **Ohne eine vollkommene Induktion gibt es keine Gewissheit.**
+**Induktive Gewissheit** gehört ans untere Ende, weil Induktion nur wahrscheinliche Schlussfolgerungen liefert und Wahrscheinlichkeit überhaupt keine Gewissheit ist. Dennoch kann sie unter den richtigen Bedingungen zur Ebene der virtuellen Gewissheit aufsteigen. Wir sprechen von induktiver Gewissheit, wenn _alle_ Evidenz vorhanden und ausgewertet ist und eine allgemeine Schlussfolgerung gezogen wird: Dies ist eine **vollkommene Induktion**. Der Haken ist, dass vollkommene Induktionen meist unerreichbar sind. Eine vollkommene Induktion ist _theoretisch_ möglich, wann immer eine Situation Grenzen hat, und _praktisch_ nur, wenn diese Grenzen klein und überschaubar sind. Beispiel: „Alle Stifte in meiner rechten Hand sind schwarz" erlaubt induktive Gewissheit, weil alle Evidenz in einem eng begrenzten Rahmen verfügbar ist. Dagegen ist „Alle Bleistifte enthalten Grafit" theoretisch vervollkommenbar (die Erde und ihre Bleistifte sind endlich), aber praktisch unmöglich: Ich könnte nie jeden Bleistift prüfen, und ein einziger alter Bleistift könnte die Verallgemeinerung umstoßen. **Ohne eine vollkommene Induktion gibt es keine Gewissheit.**
 
 </div>
 </div>
@@ -195,12 +195,12 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 <div className="row">
 <div className="col col--6">
 
-**Moral certainty** is an inner certainty in the form of a **conviction**: a very high degree of probability that is *sufficient for action* though short of absolute certainty. The word "certainty" is used because the level of conviction is enough to determine how we act. This is a practical necessity, since everyone must act on limited information. Abolitionists, for instance, were morally certain that slavery was wrong, and many risked their lives acting on that conviction even though they could in principle have been mistaken. Di Donato adds that he is more certain that torturing innocent babies is wrong than that water is H2O.
+**Moral certainty** is an inner certainty in the form of a **conviction**: a very high degree of probability that is _sufficient for action_ though short of absolute certainty. The word "certainty" is used because the level of conviction is enough to determine how we act. This is a practical necessity, since everyone must act on limited information. Abolitionists, for instance, were morally certain that slavery was wrong, and many risked their lives acting on that conviction even though they could in principle have been mistaken. Di Donato adds that he is more certain that torturing innocent babies is wrong than that water is H2O.
 
 </div>
 <div className="col col--6 video-translation">
 
-**Moralische Gewissheit** ist eine innere Gewissheit in Form einer **Überzeugung**: ein sehr hoher Grad an Wahrscheinlichkeit, der *zum Handeln ausreicht*, obwohl er hinter absoluter Gewissheit zurückbleibt. Das Wort „Gewissheit" wird verwendet, weil der Grad der Überzeugung genügt, um zu bestimmen, wie wir handeln. Dies ist eine praktische Notwendigkeit, da jeder auf der Grundlage begrenzter Informationen handeln muss. Die Abolitionisten etwa waren moralisch gewiss, dass die Sklaverei unrecht war, und viele riskierten ihr Leben, indem sie nach dieser Überzeugung handelten, obwohl sie sich im Prinzip hätten irren können. Di Donato fügt hinzu, dass er sicherer ist, dass das Foltern unschuldiger Babys unrecht ist, als dass Wasser H2O ist.
+**Moralische Gewissheit** ist eine innere Gewissheit in Form einer **Überzeugung**: ein sehr hoher Grad an Wahrscheinlichkeit, der _zum Handeln ausreicht_, obwohl er hinter absoluter Gewissheit zurückbleibt. Das Wort „Gewissheit" wird verwendet, weil der Grad der Überzeugung genügt, um zu bestimmen, wie wir handeln. Dies ist eine praktische Notwendigkeit, da jeder auf der Grundlage begrenzter Informationen handeln muss. Die Abolitionisten etwa waren moralisch gewiss, dass die Sklaverei unrecht war, und viele riskierten ihr Leben, indem sie nach dieser Überzeugung handelten, obwohl sie sich im Prinzip hätten irren können. Di Donato fügt hinzu, dass er sicherer ist, dass das Foltern unschuldiger Babys unrecht ist, als dass Wasser H2O ist.
 
 </div>
 </div>
@@ -221,12 +221,14 @@ Streng genommen gibt es kein „fast gewiss", weil Gewissheit *keinen* Zweifel i
 <div className="row">
 <div className="col col--6">
 
-The episode offers a map of the spectrum of certainty, from apodictic mathematical and logical truths, through self-evident existential truths, down to the psychological and probabilistic certainties of virtual, inductive, and moral conviction. Since the course is focused on induction, the next step is to return to **probability**, beginning with *a priori probability* in the following episode.
+The episode offers a map of the spectrum of certainty, from apodictic mathematical and logical truths, through self-evident existential truths, down to the psychological and probabilistic certainties of virtual, inductive, and moral conviction. Since the course is focused on induction, the next step is to return to **probability**, beginning with _a priori probability_ in the following episode.
 
 </div>
 <div className="col col--6 video-translation">
 
-Die Folge bietet eine Landkarte des Spektrums der Gewissheit, von apodiktischen mathematischen und logischen Wahrheiten über selbstevidente existenzielle Wahrheiten bis hinab zu den psychologischen und probabilistischen Gewissheiten der virtuellen, induktiven und moralischen Überzeugung. Da der Kurs auf die Induktion ausgerichtet ist, ist der nächste Schritt, zur **Wahrscheinlichkeit** zurückzukehren, beginnend mit der *A-priori-Wahrscheinlichkeit* in der folgenden Folge.
+Die Folge bietet eine Landkarte des Spektrums der Gewissheit, von apodiktischen mathematischen und logischen Wahrheiten über selbstevidente existenzielle Wahrheiten bis hinab zu den psychologischen und probabilistischen Gewissheiten der virtuellen, induktiven und moralischen Überzeugung. Da der Kurs auf die Induktion ausgerichtet ist, ist der nächste Schritt, zur **Wahrscheinlichkeit** zurückzukehren, beginnend mit der _A-priori-Wahrscheinlichkeit_ in der folgenden Folge.
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep20-kinds-of-certainty)

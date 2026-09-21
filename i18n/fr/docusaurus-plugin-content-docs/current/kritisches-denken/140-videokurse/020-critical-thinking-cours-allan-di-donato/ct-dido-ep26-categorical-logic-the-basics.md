@@ -379,3 +379,5 @@ La logique est une **langue à part entière**, et la traduction en est une comp
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep26-categorical-logic-the-basics)

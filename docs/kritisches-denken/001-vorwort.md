@@ -53,3 +53,5 @@ draft: false
 - Der **Originaltext ist in Deutsch**. Die Englische und Französische Übersetzung habe ich an künstliche Intelligenz delegiert und manchmal korrigiert, aber eben nicht immer.
 
   Also, falls Ihnen etwas spanisch vorkommt mit dem Englischen oder Französischen, dann schauen Sie doch einfach mal im deutschen Originaltext nach.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/vorwort) | [Article in English](pathname:///en/docs/kritisches-denken/vorwort)

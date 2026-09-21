@@ -44,9 +44,11 @@ records the hash of the German block it came from:
 
 ```markdown
 <!--t src=9f3a2b-->
+
 A machine-translated paragraph.
 
 <!--t src=7c1d44 by="Immanuel Lupinus" on=2026-06-05-->
+
 A hand-corrected, protected paragraph.
 ```
 
@@ -136,6 +138,37 @@ rules, surface it in your Step 2 report rather than guessing.
   (e.g. German Wikipedia → English Wikipedia, `GIEC` → `IPCC`); otherwise keep.
 - Use canonical published translations for well-known quotes (Popper, UDHR, …).
 
+### Language links at the end of an article
+
+German articles may end with a line linking to their published translations:
+
+```markdown
+[Article en français](pathname:///fr/docs/<url>) | [Article in English](pathname:///en/docs/<url>)
+```
+
+`<url>` is the page's **published URL path** below `/docs/`, not its file path:
+number prefixes are stripped, `.md` is dropped, and an `id`/`slug` in the
+frontmatter overrides the file name (e.g. `docs/kritisches-denken/000-kritisches-denken-kurzgesagt.md`
+with `id: kritisches-denken-kurzgesagt` → `kritisches-denken/kritisches-denken-kurzgesagt`).
+Because translations keep the German `id`/`slug` and path, `<url>` is the same in
+every locale. The `pathname://` prefix makes Docusaurus emit a plain link that
+does a full page load; a normal `/fr/...` link would be routed inside the current
+locale's app (or get the locale prefixed) and end in a 404.
+
+Do **not** copy the line verbatim. In the translation it must point to the
+**two other languages**, never to the page itself. Each link text is written in
+the language it points to, and `<url>` stays exactly as in the German line:
+
+| Target locale | Line in the translated file |
+| --- | --- |
+| `en` | `[Artikel auf Deutsch](pathname:///docs/<url>) \| [Article en français](pathname:///fr/docs/<url>)` |
+| `fr` | `[Artikel auf Deutsch](pathname:///docs/<url>) \| [Article in English](pathname:///en/docs/<url>)` |
+
+- Encode spaces in `<url>` as `%20`.
+- For another locale `xx`: link to German (`pathname:///docs/<url>`) plus the other
+  existing translations (`pathname:///<locale>/docs/<url>`), each labelled in its own language.
+- Only link to a translation whose file actually exists.
+
 ### Images
 
 Relative image paths (`../img/foo.jpg`) resolve **within** `i18n/<locale>/…`, not
@@ -190,7 +223,7 @@ the generator, which marks anything untranslated with a `_t_` prefix:
 ```bash
 cp i18n/<locale>/docusaurus-plugin-content-docs/current.json /tmp/current.bak.json
 yarn write-translations:<locale>          # en | fr
-node -e "const j=require('./i18n/<locale>/docusaurus-plugin-content-docs/current.json');
+node -e "const j=require('./<locale>/docusaurus-plugin-content-docs/current.json');
   for(const [k,v] of Object.entries(j)) if(v.message.startsWith('_t_')) console.log(k);"
 cp /tmp/current.bak.json i18n/<locale>/docusaurus-plugin-content-docs/current.json
 ```

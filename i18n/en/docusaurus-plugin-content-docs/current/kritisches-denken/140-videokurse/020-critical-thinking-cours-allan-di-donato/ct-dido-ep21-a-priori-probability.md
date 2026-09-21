@@ -86,3 +86,5 @@ Crucially, "average" is **ambiguous**. There are three types:
 - **Mode**: the value occurring most frequently.
 
 For a small firm's salaries, the mean might be \$65,000, the median \$45,000, and the mode \$30,000, where nearly half the employees fall. The chosen average can dramatically change an argument about income, taxes, life expectancy, or global temperatures. The closing warning: we cannot evaluate information critically when terms are imprecise or when we ignore distinctions like the kinds of average, echoing earlier problems of **vagueness and ambiguity**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep21-a-priori-probability)

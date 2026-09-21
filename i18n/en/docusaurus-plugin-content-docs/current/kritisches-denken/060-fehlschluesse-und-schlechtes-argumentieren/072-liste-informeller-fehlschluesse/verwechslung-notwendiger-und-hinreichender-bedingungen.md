@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=aad51173-->
+
 :::tip In brief
 A necessary condition is taken to be a sufficient one &mdash; or vice versa.
 
@@ -34,10 +35,12 @@ _Necessary does not mean sufficient._
 In this fallacy, **necessary** and **sufficient** conditions are confused.
 
 <!--t src=6444abcc-->
+
 - A **necessary** condition must be met _for_ something to be _able_ to occur (without it, it cannot).
 - A **sufficient** condition suffices on its own _for_ something to occur (with it, always).
 
 <!--t src=f65857bb-->
+
 The error: from "A is necessary for B", it is falsely made into "A suffices for B" (or vice versa). The two are different: oxygen is _necessary_ for fire, but not _sufficient_ &mdash; otherwise everything would be on fire.
 
 <!--t src=3c24b250-->
@@ -66,6 +69,7 @@ Also known as: _confusing necessary and sufficient conditions_
 <!-- list similar fallacies -->
 
 <!--t src=985c2c91-->
+
 - **Affirming the consequent** &mdash; the formal counterpart in propositional logic.
 - **Converse error** &mdash; related: "If A, then B" is treated like "If B, then A".
 - **Single-cause thinking** &mdash; related, when a necessary factor is taken to be the whole cause.
@@ -82,9 +86,11 @@ Also known as: _confusing necessary and sufficient conditions_
 <!-- description of example one -->
 
 <!--t src=a2afe920-->
+
 > "Whoever passes the exam has studied. You have studied &mdash; so you will pass."
 
 <!--t src=58875fad-->
+
 Studying is (perhaps) _necessary_, but not _sufficient_. You can study and still fail.
 
 <!--t src=f350657d-->
@@ -95,6 +101,7 @@ Studying is (perhaps) _necessary_, but not _sufficient_. You can study and still
 <!-- description of example two -->
 
 <!--t src=f36c4180-->
+
 > "Money is necessary to be happy. I have money &mdash; so I am happy."
 
 <!--t src=98f8746d-->
@@ -111,3 +118,7 @@ Even if money were a necessary condition, it would not be enough. The necessary 
 <!--t src=aff51236-->
 
 - [Logically Fallacious: Confusing Necessary with Sufficient Conditions](https://www.logicallyfallacious.com/logicalfallacies/Confusing-a-Necessary-Condition-with-a-Sufficient-Condition)
+
+<!--t src=69ea6e6e-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen)

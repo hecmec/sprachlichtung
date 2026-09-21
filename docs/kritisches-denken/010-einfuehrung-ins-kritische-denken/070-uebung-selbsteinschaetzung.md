@@ -16,8 +16,10 @@ last_update:
 completeness: 3/5
 draft: false
 # slug:
-image: /img
+image: /img/kd/selbsteinschaetzung-caravaggio-narziss.jpg
 ---
+
+![selbsteinschaetzung von caravaggio](/img/kd/selbsteinschaetzung-caravaggio-narziss.jpg)
 
 Bewerte deine eigenen kritischen Denkfähigkeiten, indem du die folgenden Fragen auf einer Skala von 1 (selten) bis 5 (sehr häufig) beantwortest:
 
@@ -104,4 +106,4 @@ Addiere deine Punkte basierend auf deinen Antworten (1-5 für jede Frage), um ei
 Beachte, dass diese Selbsteinschätzung subjektiv ist und möglicherweise durch kognitive Verzerrungen beeinflusst wird.  
 Sie dient als Ausgangspunkt für deine persönliche Entwicklung im kritischen Denken.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/uebung-selbsteinschaetzung)

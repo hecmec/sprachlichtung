@@ -36,6 +36,7 @@ _Whoever contradicts himself can prove anything._
 One speaks of **inconsistent premises** when the assumptions of an argument contradict one another, so that they cannot all be true at the same time.
 
 <!--t src=91307901-->
+
 The insidious part: from a contradiction, formally _anything_ follows (Latin _ex falso quodlibet_ &mdash; "from a falsehood, anything"). Such an argument can seemingly "prove" any conclusion at all &mdash; and precisely for that reason proves nothing. Since the premises cannot all be true together, the argument is never sound, even if the inference form is valid.
 
 <!--t src=3c24b250-->
@@ -64,6 +65,7 @@ Also known as: _inconsistent premises_ / _contradictory premises_
 <!-- list similar fallacies -->
 
 <!--t src=7394c235-->
+
 - **Ex falso quodlibet** &mdash; the logical principle underlying the fallacy.
 - **Non sequitur** &mdash; related insofar as the conclusion stands in no substantive relation to the premises.
 - **Circular reasoning** &mdash; likewise a structural defect of the premises, there by presupposing what is to be proven.
@@ -87,6 +89,7 @@ Also known as: _inconsistent premises_ / _contradictory premises_
 > 4. Therefore the Moon is made of cheese.
 
 <!--t src=ecf44ec7-->
+
 Premises 1&mdash;3 cannot all be true at once: from 1 and 2 it follows that a penguin can fly &mdash; in contradiction to 3. As soon as such a contradiction is in play, formally **any** conclusion at all, even a completely unconnected one, can be "derived". This is exactly what makes the argument worthless.
 
 <!--t src=f350657d-->
@@ -97,10 +100,12 @@ Premises 1&mdash;3 cannot all be true at once: from 1 and 2 it follows that a pe
 <!-- description of example two -->
 
 <!--t src=406d07b0-->
+
 > &mdash; "I was home alone the whole evening, so I can't be the culprit."
 > &mdash; "You said yourself earlier that you were at the cinema with Tom the whole evening."
 
 <!--t src=39ebb16c-->
+
 Both statements cannot be true at once. A defense that rests on contradictory premises justifies nothing &mdash; from it one could equally "prove" that the person _is_ the culprit.
 
 <!--t src=69b1092f-->
@@ -114,3 +119,7 @@ Both statements cannot be true at once. A defense that rests on contradictory pr
 
 - [Wikipedia: Principle of explosion (ex falso quodlibet)](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [Logically Fallacious: Contradictory Premises](https://www.logicallyfallacious.com/logicalfallacies/Contradictory-Premises)
+
+<!--t src=3e2cebf9-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-inkonsistente-praemissen)

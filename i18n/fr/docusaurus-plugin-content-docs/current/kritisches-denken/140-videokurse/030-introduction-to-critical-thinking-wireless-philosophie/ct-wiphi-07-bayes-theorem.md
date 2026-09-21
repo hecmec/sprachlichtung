@@ -338,3 +338,5 @@ Le théorème de Bayes nous dit quelle probabilité attribuer à une hypothèse 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-07-bayes-theorem) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-07-bayes-theorem)

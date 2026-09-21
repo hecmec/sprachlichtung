@@ -15,7 +15,6 @@ last_update:
 
 completeness: 3/5
 draft: false
-
 ---
 
 <!-- # Rhetorik versus Argumentation -->
@@ -39,6 +38,7 @@ Merkmale der Argumentation:
 **Rhetorik** ist die Kunst der überzeugenden Kommunikation, die nicht nur logische Argumente, sondern auch emotionale Appelle, Stil und Präsentation umfasst. Sie zielt darauf ab, das Publikum durch verschiedene Mittel zu beeinflussen.
 
 Merkmale der Rhetorik:
+
 - Einsatz von Sprache, um zu überzeugen oder zu bewegen
 - Berücksichtigung des Publikums und des Kontexts
 - Nutzung von Ethos (Glaubwürdigkeit), Pathos (Emotion) und Logos (Logik)
@@ -48,6 +48,7 @@ Merkmale der Rhetorik:
 ## Unterschiede und Zusammenspiel
 
 Der Hauptunterschied zwischen Argumentation und Rhetorik liegt in ihrem Fokus:
+
 - Argumentation konzentriert sich auf die logische Struktur und die Wahrheit der Prämissen.
 - Rhetorik konzentriert sich auf die effektive Kommunikation und Überzeugung.
 
@@ -72,4 +73,4 @@ Für kritische Denker ist es wichtig, rhetorische Techniken zu erkennen und zwis
 - Wird die Glaubwürdigkeit des Sprechers als Ersatz für Beweise eingesetzt?
 - Werden Gegenargumente fair dargestellt und berücksichtigt?
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/060-rhetorik-versus-argumentation.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

@@ -21,7 +21,7 @@ controls src='https://youtu.be/yxylBjtzMNQ' />
 
 &nbsp;
 
-Wireless Philosophy, Fallacies, 6:45. Original title: *Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY*
+Wireless Philosophy, Fallacies, 6:45. Original title: _Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY_
 
 <div className="row">
 <div className="col col--6">
@@ -197,3 +197,5 @@ Ein Dammbruch-Argument ist nur so stark wie die Kette, die seine Schritte verbin
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-18-slippery-slope)

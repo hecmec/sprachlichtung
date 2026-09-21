@@ -60,3 +60,6 @@ We have learned:
 <!--t src=7572c297-->
 
 Science is a powerful tool for obtaining reliable knowledge, but it also has limits. A critical understanding of scientific methods and principles helps us to evaluate scientific claims appropriately and to apply scientific thinking in our everyday lives.
+
+<!--t src=0a1a91ae-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/zusammenfassung)

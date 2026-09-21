@@ -421,3 +421,5 @@ Die zentrale Botschaft: **sorgfältig und präzise denken** und **zuerst Mehrdeu
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep01-what-is-critical-thinking)

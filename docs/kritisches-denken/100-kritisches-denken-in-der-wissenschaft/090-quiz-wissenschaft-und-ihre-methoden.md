@@ -60,3 +60,5 @@ last_update:
 3. c) Induktion
 4. b) Die Qualität und Zuverlässigkeit wissenschaftlicher Publikationen sichern
 5. c) Immunisierung gegen Kritik und Falsifikation
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden)

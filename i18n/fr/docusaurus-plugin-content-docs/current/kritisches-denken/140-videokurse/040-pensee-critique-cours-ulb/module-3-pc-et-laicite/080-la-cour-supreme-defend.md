@@ -69,3 +69,4 @@ C’est pourquoi la réponse de la Cour en 1987 est remarquable : elle ne se con
 <!-- href="https://www.youtube.com/watch?v=b6Smg-h37Tg"
   Pensée critique - La Cour suprême défend la biologie scientifique - 08 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-cour-supreme-defend) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-cour-supreme-defend)

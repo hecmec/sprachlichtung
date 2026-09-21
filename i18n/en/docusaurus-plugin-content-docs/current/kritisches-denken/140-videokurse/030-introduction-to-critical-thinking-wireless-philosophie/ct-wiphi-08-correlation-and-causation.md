@@ -59,3 +59,5 @@ The analysis of causation and how it relates to the types of correlation is defe
 ### Key takeaway
 
 That two events occur together, or reliably fail to occur together, never by itself shows that one produces the other. Some further evidence for a causal relation is always required before the causal claim may be made.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-08-correlation-and-causation) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-08-correlation-and-causation)

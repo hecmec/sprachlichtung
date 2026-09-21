@@ -20,12 +20,15 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=9846d72a-->
+
 Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consacré à l'éducation aux médias et à la critique des sources, classées par thèmes.
 
 <!--t src=c10336e3-->
+
 ## Méthodes et concepts
 
 <!--t src=528623f5-->
+
 - 🇬🇧 Mike Caulfield : [SIFT (The Four Moves)](https://hapgood.us/2019/06/19/sift-the-four-moves/). L'article original dans lequel Caulfield présente les quatre étapes de la méthode SIFT, c'est-à-dire le fondement de la procédure de vérification traitée dans ce chapitre.
 - 🇬🇧 Wineburg & McGrew : [Lateral Reading and the Nature of Expertise (Teachers College Record, 2019)](https://journals.sagepub.com/doi/10.1177/016146811912101102). L'étude scientifique qui montre que les vérificateurs de faits professionnels jugent, grâce à la lecture latérale, plus vite et plus sûrement que des experts qui examinent une page de l'intérieur.
 - 🇬🇧 UNESCO : [Media and Information Literacy](https://www.unesco.org/en/media-information-literacy). La page officielle de l'UNESCO consacrée au concept MIL, qui réunit l'éducation aux médias et la maîtrise de l'information et constitue le cadre de ce chapitre.
@@ -34,9 +37,11 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇬🇧 Saint Mary's University : [SIFT Method (PDF)](https://www.smu.ca/webfiles/SIFT_Method_final.pdf). Un résumé compact d'une page de la méthode SIFT, sous forme de fiche pratique à imprimer et à emporter.
 
 <!--t src=59039316-->
+
 ## Désinformation et recherche
 
 <!--t src=fb8e688f-->
+
 - 🇬🇧 Wardle & Derakhshan : [Information Disorder (Council of Europe, 2017, PDF)](https://rm.coe.int/information-disorder-report-version-august-2018/16808c9c77). Le rapport fondateur qui a forgé la distinction entre mésinformation, désinformation et malinformation utilisée dans ce chapitre.
 - 🇬🇧 Reuters Institute : [Echo chambers, filter bubbles and polarisation: a literature review](https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review). Une synthèse de la recherche qui résume l'état empirique des connaissances sur les chambres d'écho et les bulles de filtres et démontre pourquoi ces thèses sont plus fragiles qu'on ne le suppose souvent.
 - 🇬🇧 Reuters Institute : [The truth behind filter bubbles: Bursting some myths](https://reutersinstitute.politics.ox.ac.uk/news/truth-behind-filter-bubbles-bursting-some-myths). Une présentation accessible de cette recherche, qui tord le cou aux mythes répandus sur les bulles de filtres.
@@ -45,17 +50,21 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇬🇧 EUvsDisinfo (EEAS) : [euvsdisinfo.eu](https://euvsdisinfo.eu/). La base de données du Service européen pour l'action extérieure, qui documente et démasque les campagnes de désinformation ciblées (souvent étatiques).
 
 <!--t src=10c2b125-->
+
 ## Falsifications par l'IA
 
 <!--t src=eac03e2f-->
+
 - 🇬🇧 News Literacy Project : [RumorGuard / Les 5 facteurs de vérification](https://newslit.org/news-and-research/dig-deeper-rumorguard-how-can-you-evaluate-the-credibility-of-an-online-claim-2/). Un guide à cinq facteurs permettant d'évaluer rapidement la crédibilité d'une affirmation en ligne.
 - 🇬🇧 NPR : [Fake viral images of an explosion at the Pentagon were probably created by AI](https://www.npr.org/2023/05/22/1177590231/fake-viral-images-of-an-explosion-at-the-pentagon-were-probably-created-by-ai). Un reportage sur une fausse image générée par l'IA, qui sert d'étude de cas concrète des deepfakes dans ce chapitre.
 - 🇬🇧 Al Jazeera : [Fake Pentagon explosion photo goes viral: How to spot an AI image](https://www.aljazeera.com/news/2023/5/23/fake-pentagon-explosion-photo-goes-viral-how-to-spot-an-ai-image). Une seconde présentation du même cas, qui donne en outre des conseils pratiques pour reconnaître les images générées par l'IA.
 
 <!--t src=8aab0a97-->
+
 ## Vérification des faits et outils
 
 <!--t src=0f28a927-->
+
 - 🇬🇧 IFCN : [Code of Principles / The Commitments](https://ifcncodeofprinciples.poynter.org/the-commitments). Le code de conduite de l'International Fact-Checking Network, qui permet de reconnaître les vérificateurs de faits sérieux et indépendants.
 - 🇫🇷 AFP Factuel : [factuel.afp.com](https://factuel.afp.com/). Le service de vérification des faits de l'Agence France-Presse, une référence centrale pour les affirmations vérifiées dans l'espace francophone.
 - 🇫🇷 Le Monde : [Les Décodeurs](https://www.lemonde.fr/les-decodeurs/). La cellule de vérification du quotidien _Le Monde_, qui contrôle les fausses nouvelles en circulation.
@@ -67,9 +76,11 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇩🇪 CORRECTIV/GADMO : [Geolocation: 5 Tipps, um den Aufnahmeort eines Bilds zu finden](https://correctiv.org/faktencheck/faktencheck-tipps/2023/06/08/geolocation-5-tipps-um-den-aufnahmeort-eines-bilds-zu-finden/). Un guide pratique (en allemand) sur la façon de déterminer le lieu réel de prise de vue d'une photo à partir de ses détails.
 
 <!--t src=cd55cf4b-->
+
 ## Wikipédia
 
 <!--t src=bdd2b0cb-->
+
 - 🇫🇷 [Wikipédia:Vérifiabilité](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9). La règle selon laquelle Wikipédia doit étayer ses affirmations par des sources fiables ; elle explique pourquoi on accède aux sources primaires en passant par les références.
 - 🇩🇪 [Wikipedia:Belege](https://de.wikipedia.org/wiki/Wikipedia:Belege). La même règle dans la Wikipédia germanophone.
 - 🇫🇷 [Wikipédia:Version vérifiée](https://fr.wikipedia.org/wiki/Aide:Version_v%C3%A9rifi%C3%A9e). L'explication du système de relecture, qui décrit comment Wikipédia intercepte le vandalisme manifeste avant son affichage.
@@ -78,10 +89,16 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇬🇧 [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia). L'article de synthèse anglophone correspondant, qui s'appuie sur la célèbre étude de _Nature_ (2005).
 
 <!--t src=d24dce0b-->
+
 ## Pour aller plus loin
 
 <!--t src=803b84ac-->
+
 - 🇬🇧 Mike Caulfield : [Web Literacy for Student Fact-Checkers](https://pressbooks.pub/webliteracy/). Ce livre enseigne comment utiliser Internet comme une machine à vérifier les faits ; il est l'œuvre d'un expert reconnu en <abbr title="Media and Information Literacy (éducation aux médias et à l'information)">MIL</abbr>. On y retrouve aussi la méthode SIFT.
 - 🇬🇧 [Introduction to College Research: Disinformation & Fact-Checking](https://pressbooks.pub/introtocollegeresearch/part/introduction/). Un excellent livre en ligne sur l'éducation aux médias et la critique des sources (_information literacy skills_), sous licence libre (REL, CC BY).
 - 🇫🇷 [European Journalism Observatory](https://fr.ejo.ch/). Un portail spécialisé en journalisme qui rend accessibles la recherche sur les médias et les tendances du secteur, et permet de jeter un regard dans les coulisses de l'information.
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). La version germanophone du même portail.
+
+<!--t src=c9395ecc-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz)

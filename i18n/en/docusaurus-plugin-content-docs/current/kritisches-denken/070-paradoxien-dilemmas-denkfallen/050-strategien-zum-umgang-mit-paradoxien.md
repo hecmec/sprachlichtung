@@ -100,3 +100,6 @@ Some paradoxes have led to the development of entirely new theoretical framework
 - Russell's paradox led to type theory and axiomatic set theory
 - Zeno's paradoxes inspired the development of infinitesimal calculus
 - The prisoner's dilemma led to new approaches in game theory and evolutionary biology
+
+<!--t src=3c438893-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/strategien-zum-umgang-mit-paradoxien)

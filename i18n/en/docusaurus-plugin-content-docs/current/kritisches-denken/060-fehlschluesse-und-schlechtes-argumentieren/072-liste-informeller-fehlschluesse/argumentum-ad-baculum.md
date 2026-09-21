@@ -31,9 +31,11 @@ _The cudgel is no argument._
 ## Definition
 
 <!--t src=7bad887b-->
+
 In the **argumentum ad baculum** (Latin _baculum_ "stick, cudgel"), a claim is not supported by reasons but enforced through the **threat of disadvantages** &mdash; violence, punishment, job loss, social exclusion.
 
 <!--t src=b2510e8d-->
+
 The error: a threat can force someone into _agreement_, but it does not make the claim _true_. Power is no substitute for an argument.
 
 <!--t src=3c24b250-->
@@ -58,6 +60,7 @@ Also known as: _appeal to force_ / _argumentum ad baculum_
 <!-- list similar fallacies -->
 
 <!--t src=e1c6b9ae-->
+
 - **Appeal to emotion** &mdash; the umbrella term: here it is fear that is addressed.
 - **Argumentum ad populum** &mdash; related: social pressure instead of substantive reasons.
 - **Appeal to consequences** &mdash; to be distinguished: there the (undesirable) consequences of a thesis decide its truth value; with the baculum the speaker themselves threatens a disadvantage.
@@ -89,6 +92,7 @@ The threat says nothing about whether the proposal is good. It only forces outwa
 <!-- description of example two -->
 
 <!--t src=06316623-->
+
 > "You'll come to see that I'm right &mdash; otherwise there'll be trouble."
 
 <!--t src=efbe6038-->
@@ -106,3 +110,7 @@ From threatened trouble it does not follow that the claim is true.
 
 - [Wikipedia: Argumentum ad baculum](https://en.wikipedia.org/wiki/Argumentum_ad_baculum)
 - [Logically Fallacious: Appeal to Force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)
+
+<!--t src=6e39e290-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-baculum) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/argumentum-ad-baculum)

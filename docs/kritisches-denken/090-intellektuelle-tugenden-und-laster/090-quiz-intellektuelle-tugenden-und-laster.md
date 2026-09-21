@@ -61,3 +61,5 @@ last_update:
 3. b) Die Zurückhaltung des Urteils und Offenheit gegenüber verschiedenen Möglichkeiten
 4. b) Produktiver Zweifel führt zu weiterer Untersuchung, unproduktiver Zweifel führt zu intellektueller Lähmung
 5. a) Intellektuelle Demut praktizieren und die Grenzen des eigenen Wissens reflektieren
+
+[Article en français](pathname:///fr/docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/quiz-intellektuelle-tugenden-und-laster)

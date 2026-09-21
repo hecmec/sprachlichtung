@@ -117,3 +117,6 @@ La culture des vertus intellectuelles et le dépassement des vices intellectuels
 
 <!--t src=ca6a599d-->
 **Application pratique :** considérez votre développement intellectuel comme un voyage, et non comme une destination. Fixez-vous des objectifs spécifiques et réalistes pour cultiver certaines vertus intellectuelles. Célébrez les progrès sans attendre la perfection. Soyez patient avec vous-même et reconnaissez que la croissance intellectuelle exige du temps et un effort continu.
+
+<!--t src=24c04359-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/intellektuelle-tugenden-und-laster/selbstkritik-und-intellektuelle-entwicklung) | [Article in English](pathname:///en/docs/kritisches-denken/intellektuelle-tugenden-und-laster/selbstkritik-und-intellektuelle-entwicklung)

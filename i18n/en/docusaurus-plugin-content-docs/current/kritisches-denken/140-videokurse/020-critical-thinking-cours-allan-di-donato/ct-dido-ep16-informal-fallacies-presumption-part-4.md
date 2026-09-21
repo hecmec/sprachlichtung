@@ -58,3 +58,5 @@ Examples: "We won the lottery because I played my lucky numbers"; "John sneezed 
 ### Looking ahead
 
 The session adds six more fallacies to the running list. The fifth and final part on presumption will turn to inductive reasoning's category of **missing evidence**.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep16-informal-fallacies-presumption-part-4)

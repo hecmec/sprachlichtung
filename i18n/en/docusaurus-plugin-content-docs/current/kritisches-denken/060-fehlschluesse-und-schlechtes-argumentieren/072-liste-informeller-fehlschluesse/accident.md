@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=f5bf22a1-->
+
 :::tip In brief
 A general rule is rigidly applied to an exceptional case for which it does not hold.
 
@@ -30,6 +31,7 @@ _The rule has exceptions &mdash; the argument does not._
 ## Definition
 
 <!--t src=2746ed21-->
+
 In the **accident fallacy** (Latin _a dicto simpliciter ad dictum secundum quid_ &mdash; "from what is said simply to what is said with qualification"), a **general rule** that holds in the normal case is transferred to a **special case** to which it precisely does not apply.
 
 <!--t src=071caccf-->
@@ -58,6 +60,7 @@ Also known as: _fallacy of accident_ / _a dicto simpliciter_
 <!-- list similar fallacies -->
 
 <!--t src=96a59394-->
+
 - **Misuse of a principle** &mdash; very closely related: rigid application of a rule outside its scope.
 - **Hasty generalization** &mdash; the counterpart (_converse accident_): from a special case a general rule is made.
 - **No true Scotsman** &mdash; a related game with rules and exceptions.
@@ -104,6 +107,11 @@ The rule „tell the truth“ does not cover this emergency. Its rigid applicati
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
 <!--t src=7284b77d-->
+
 - [Wikipedia: Trugschluss der Akzidenz](https://de.wikipedia.org/wiki/Trugschluss_der_Akzidenz)
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)
+
+<!--t src=f38e3314-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/accident) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/accident)

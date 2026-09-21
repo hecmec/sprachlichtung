@@ -71,4 +71,4 @@ Dieses Kapitel handelt von künstlichen Welten und künstlicher Intelligenz. All
 
 [^turing]: Alan M. Turing: _On Computable Numbers, with an Application to the Entscheidungsproblem_, Proceedings of the London Mathematical Society, 1936.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/010-automaten.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/automaten) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/automaten)

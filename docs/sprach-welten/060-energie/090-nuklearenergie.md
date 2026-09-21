@@ -55,4 +55,4 @@ Ein ehrliches Urteil hält beides aus: Kernkraft ist weder der Weltuntergang noc
 
 [^nuklear]: Sachliche Übersichten zu Kernkraft, Risiken und Abfall u. a. beim [Umweltbundesamt](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) und bei „Kernenergie", in: Wikipedia, [de.wikipedia.org/wiki/Kernenergie](https://de.wikipedia.org/wiki/Kernenergie). Zahlen zu Anteil und Todesfällen je Energieform bei [Our World in Data – Energy](https://ourworldindata.org/energy).
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/090-nuklearenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/090-nuklearenergie.md)
+[Article en français](pathname:///fr/docs/sprach-welten/energie/nuklearenergie) | [Article in English](pathname:///en/docs/sprach-welten/energie/nuklearenergie)

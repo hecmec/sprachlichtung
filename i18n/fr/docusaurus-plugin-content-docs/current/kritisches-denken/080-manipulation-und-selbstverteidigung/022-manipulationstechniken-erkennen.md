@@ -211,3 +211,6 @@ La manipulation psychologique exploite des processus psychologiques plus profond
 
 <!--t src=d475b4c4-->
   *Exemple* : un manipulateur comble sa cible de cadeaux et de compliments afin d'exercer un contrôle par la suite.
+
+<!--t src=e0224e88-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/manipulationstechniken-erkennen)

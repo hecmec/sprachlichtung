@@ -29,3 +29,6 @@ La pensée critique n'est pas un exercice intellectuel abstrait, mais une compé
 
 <!--t src=d8da4716-->
 Dans ce chapitre, nous découvrirons des stratégies et des outils pratiques pour exercer la pensée critique dans différents contextes, nous identifierons les obstacles à la pensée critique et explorerons des moyens de les surmonter, et nous élaborerons un plan de développement personnel pour une progression continue en tant que penseur critique.
+
+<!--t src=b1a07cdd-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/einfuehrung)

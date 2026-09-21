@@ -22,3 +22,5 @@ In den vorherigen Kapiteln haben wir verschiedene Aspekte des kritischen Denkens
 Manipulation ist der Versuch, das Denken, die Überzeugungen oder das Verhalten anderer Menschen zu beeinflussen, ohne dass diese sich dessen vollständig bewusst sind oder ohne ihre informierte Zustimmung. In einer Welt, die von Werbung, politischer Propaganda, Desinformation und subtilen Beeinflussungstechniken durchdrungen ist, ist die Fähigkeit, Manipulation zu erkennen und ihr zu widerstehen, eine wesentliche Kompetenz des kritischen Denkens.
 
 In diesem Kapitel werden wir verschiedene Manipulationstechniken untersuchen, ihre psychologischen Grundlagen verstehen und Strategien entwickeln, um uns gegen Manipulation zu schützen. Wir werden auch die besonderen Herausforderungen betrachten, die das digitale Zeitalter mit sich bringt, und lernen, wie wir in sozialen Medien und anderen Online-Umgebungen kritisch denken können.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/einfuehrung)

@@ -31,9 +31,11 @@ _Not the word, the sentence structure is ambiguous._
 ## Definition
 
 <!--t src=72d347c5-->
+
 In the **fallacy of ambiguity** &mdash; when the ambiguity arises from **sentence structure**, one speaks of **amphiboly** &mdash; it is not a single word that is ambiguous, but the **grammatical structure** of a sentence that permits several readings. From the ambiguous wording, the _unintended_ (or convenient) meaning is read out.
 
 <!--t src=94adc311-->
+
 The error: the statement supports an inference only under _one_ reading; the argument, however, uses _another_. While **equivocation** operates at the word level, amphiboly operates at the sentence level.
 
 <!--t src=3c24b250-->
@@ -58,6 +60,7 @@ Also known as: _amphiboly_ / _syntactic ambiguity_
 <!-- list similar fallacies -->
 
 <!--t src=4a8503a5-->
+
 - **Equivocation** &mdash; the counterpart at the word level (one word, two meanings).
 - **Suggestive insinuation** &mdash; related, when the ambiguity is deliberately used to imply something.
 
@@ -77,6 +80,7 @@ Also known as: _amphiboly_ / _syntactic ambiguity_
 > „He hated his father when he was drinking.“
 
 <!--t src=b7ce51b5-->
+
 Who was drinking &mdash; the father or the son? The sentence structure allows both. A whole (fallacious) argument can be built on whichever reading suits.
 
 <!--t src=f350657d-->
@@ -87,9 +91,11 @@ Who was drinking &mdash; the father or the son? The sentence structure allows bo
 <!-- description of example two -->
 
 <!--t src=1506b0e1-->
+
 > "Volunteers needed to help torture survivors."
 
 <!--t src=7f33a11e-->
+
 The structure allows it to be read as helping to "torture survivors". The opposite is meant &mdash; the ambiguity arises from the sentence structure.
 
 <!--t src=69b1092f-->
@@ -102,3 +108,7 @@ The structure allows it to be read as helping to "torture survivors". The opposi
 <!--t src=2dc43ca1-->
 
 - [Logically Fallacious: Amphiboly](https://www.logicallyfallacious.com/logicalfallacies/Amphiboly)
+
+<!--t src=bf423a03-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mehrdeutigkeitsfehler) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/mehrdeutigkeitsfehler)

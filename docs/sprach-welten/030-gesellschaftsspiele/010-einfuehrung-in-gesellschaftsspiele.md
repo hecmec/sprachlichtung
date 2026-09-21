@@ -40,4 +40,4 @@ Einige Beispiele für diesen Gebrauch des Begriffs "Gesellschaftsspiele" als soz
 - Wettbewerb und Zusammenarbeit
 - Solidarität und Gemeinschaftsbildung
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/010-einfuehrung-in-gesellschaftsspiele.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele)

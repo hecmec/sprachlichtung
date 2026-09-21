@@ -75,3 +75,6 @@ custom_translation_overwritten: false
 3. c) Induction
 4. b) Securing the quality and reliability of scientific publications
 5. c) Immunisation against criticism and falsification
+
+<!--t src=0bb96635-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden) | [Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/quiz-wissenschaft-und-ihre-methoden)

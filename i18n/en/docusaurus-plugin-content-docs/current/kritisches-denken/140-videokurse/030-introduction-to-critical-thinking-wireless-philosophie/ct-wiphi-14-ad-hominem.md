@@ -57,3 +57,5 @@ All three share the same general form:
 ### Key takeaway
 
 None of these replies engage Catherine's or Vlad's premises or conclusion; they attack standing and character instead, which in most cases has no bearing on whether an argument is valid or sound. Henne notes that philosophers still debate when a person's standing and character are relevant to an argument, a question he leaves for another video.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-14-ad-hominem)

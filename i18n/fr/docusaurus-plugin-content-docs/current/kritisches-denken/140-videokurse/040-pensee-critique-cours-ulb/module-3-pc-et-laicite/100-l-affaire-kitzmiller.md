@@ -86,3 +86,4 @@ C’est là que réside la leçon la plus durable. Une doctrine peut adopter tou
 <!-- href="https://www.youtube.com/watch?v=Mu9FSvKOBBs"
   Pensée critique - "L'affaire KITZMILLER" - 10 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-affaire-kitzmiller)

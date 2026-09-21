@@ -77,3 +77,6 @@ custom_translation_overwritten: false
 3. c) Filter bubble
 4. b) Emotional awareness and detachment
 5. b) "You're imagining it. I never said I would do that."
+
+<!--t src=8dfcba16-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/quiz-manipulation-und-verteidigung)

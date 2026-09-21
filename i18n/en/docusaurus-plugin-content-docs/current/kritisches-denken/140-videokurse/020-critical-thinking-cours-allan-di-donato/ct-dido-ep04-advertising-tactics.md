@@ -88,3 +88,5 @@ Many techniques are **informal fallacies** (covered later): **scare tactics** an
 ### Key takeaway
 
 The skill the course aims to build is to **slow down and evaluate** the information an ad presents, separating genuine claims from the false, the vague, and the merely emotional, so you can enjoy the craft of advertising without being manipulated by it.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep04-advertising-tactics)

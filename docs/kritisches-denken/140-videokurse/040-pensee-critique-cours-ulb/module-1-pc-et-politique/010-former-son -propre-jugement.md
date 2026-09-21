@@ -15,7 +15,6 @@ image: /img/kd/ulb-pc-developper-sa-pc-intro.png
 last_update:
   date: 2025-07-17
   author: Immanuel Lupinus
-
 ---
 
 import React from 'react';
@@ -90,7 +89,6 @@ Kritisches Denken besteht nicht nur darin, anzufechten oder zu zweifeln. Es beru
 
 - Avoir du jugement signifie être capable d’**évaluer une situation de manière autonome**.
 - Cela implique de :
-
   - Distinguer les faits, même s’ils nous dérangent.
   - Adapter notre réaction aux circonstances uniques de chaque situation.
   - Ne pas appliquer mécaniquement des règles générales.
@@ -102,7 +100,6 @@ Kritisches Denken besteht nicht nur darin, anzufechten oder zu zweifeln. Es beru
 
 - Urteilsvermögen zu haben bedeutet, in der Lage zu sein, **eine Situation eigenständig zu bewerten**.
 - Das bedeutet:
-
   - Die Fakten zu unterscheiden, auch wenn sie uns stören.
   - Unsere Reaktion an die einzigartigen Umstände jeder Situation anzupassen.
   - Allgemeine Regeln nicht mechanisch anzuwenden.
@@ -226,3 +223,5 @@ Sich sein eigenes Urteil zu bilden, heißt, in der Lage zu sein:
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-former-son-propre-jugement) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-former-son-propre-jugement)

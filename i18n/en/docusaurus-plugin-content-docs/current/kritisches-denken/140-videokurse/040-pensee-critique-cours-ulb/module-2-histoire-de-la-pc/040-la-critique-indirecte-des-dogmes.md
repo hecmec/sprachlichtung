@@ -202,3 +202,5 @@ The criticism of dogma can be **direct** or **indirect**, but in both cases it c
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-critique-indirecte-des-dogmes)

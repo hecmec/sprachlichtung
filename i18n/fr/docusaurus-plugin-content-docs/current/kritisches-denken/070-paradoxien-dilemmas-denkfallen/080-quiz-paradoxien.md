@@ -80,3 +80,6 @@ custom_translation_overwritten: false
 3. b) Le dilemme du prisonnier
 4. c) Le vague et les frontières floues des notions
 5. b) La distinction entre langage-objet et métalangage
+
+<!--t src=4826dd0e-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/quiz-paradoxien)

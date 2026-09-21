@@ -30,6 +30,7 @@ _Where knowledge ends, the assertion begins._
 ## Definition
 
 <!--t src=101b84dd-->
+
 The **god of the gaps** argument fills an **explanatory gap** in current knowledge with a supernatural cause: because something has not (yet) been explained, an intervention by God (or another ultimate authority) is assumed as the explanation.
 
 <!--t src=712db7b1-->
@@ -58,6 +59,7 @@ Also known as: _god of the gaps_ / _divine fallacy_
 <!-- list similar fallacies -->
 
 <!--t src=5e21ef17-->
+
 - **Personal incredulity** &mdash; the root: from "I can't explain it" an inference is drawn.
 - **Argumentum ad ignorantiam** &mdash; the umbrella term: from lack of knowledge a particular thesis is inferred.
 - **False dilemma** &mdash; related: acting as if there were only "explained" or "supernatural".
@@ -74,6 +76,7 @@ Also known as: _god of the gaps_ / _divine fallacy_
 <!-- description of example one -->
 
 <!--t src=d9191074-->
+
 > "Science cannot explain exactly how life arose &mdash; so God must have created it."
 
 <!--t src=5c90f8be-->
@@ -88,6 +91,7 @@ An open research question is no evidence for a particular answer. The gap is fil
 <!-- description of example two -->
 
 <!--t src=d04e3266-->
+
 > "No one knows why the constants of nature have exactly these values &mdash; that can only be by design."
 
 <!--t src=2972d08a-->
@@ -105,3 +109,7 @@ From the lack of knowledge about the cause, no planning agency follows.
 
 - [Wikipedia: God of the gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 - [Logically Fallacious: God of the Gaps](https://www.logicallyfallacious.com/logicalfallacies/God-of-the-Gaps)
+
+<!--t src=049e2adb-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/gott-der-luecken-argument) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/gott-der-luecken-argument)

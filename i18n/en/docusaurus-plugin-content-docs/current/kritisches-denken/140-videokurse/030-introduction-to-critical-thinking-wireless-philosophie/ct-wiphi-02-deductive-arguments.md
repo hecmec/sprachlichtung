@@ -77,3 +77,5 @@ Establishing whether the premises are true is not something logic or philosophy 
 ### Key takeaway
 
 A deductive argument earns belief only by being sound, and soundness has two halves that must be checked separately. Logic settles validity; only knowledge of the world settles the premises. The more we know, the better we are able to evaluate deductive arguments.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-02-deductive-arguments) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-02-deductive-arguments)

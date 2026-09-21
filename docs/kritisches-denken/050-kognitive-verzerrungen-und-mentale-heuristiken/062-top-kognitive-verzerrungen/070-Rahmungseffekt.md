@@ -94,4 +94,4 @@ Ein Preis wird dargestellt als:
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.
 - _Daniel Kahneman_: Thinking, fast and slow. Allen Lane Paperback, 2011 (deutsch: Schnelles Denken, langsames Denken)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Rahmungseffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/top-kognitive-verzerrungen/Rahmungseffekt)

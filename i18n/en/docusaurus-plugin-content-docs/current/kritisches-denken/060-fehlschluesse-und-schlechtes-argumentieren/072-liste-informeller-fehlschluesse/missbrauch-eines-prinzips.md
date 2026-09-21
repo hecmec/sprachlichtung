@@ -35,6 +35,7 @@ _The right principle, wrongly construed._
 In the **abuse of a principle**, a principle that is in itself correct is **construed too broadly** or **transferred to a domain for which it was not intended**, in order to derive from it a justification that the principle in truth does not provide.
 
 <!--t src=76cafc74-->
+
 The error does not lie &mdash; as in the related **accident** fallacy &mdash; in an individual case that forms a _genuine exception_ to an otherwise valid rule. Here, rather, the **content or scope of the principle itself** is distorted: it is read as if it said something it does not say.
 
 <!--t src=3c24b250-->
@@ -59,6 +60,7 @@ Also known as: _misapplication of a principle_ / _misuse of a principle_
 <!-- list similar fallacies -->
 
 <!--t src=3ad2169f-->
+
 - **Accident** &mdash; related but different: there a valid rule meets a _genuine exception_; here the _principle itself_ is stretched beyond its scope.
 - **Faulty analogy** &mdash; related: the principle is transferred to a non-comparable domain.
 - **Equivocation** &mdash; related, when in the process a key term of the principle changes its meaning.
@@ -75,6 +77,7 @@ Also known as: _misapplication of a principle_ / _misuse of a principle_
 <!-- description of example one -->
 
 <!--t src=55645152-->
+
 > "Freedom of speech means I'm allowed to say what I want &mdash; so you're not allowed to criticize me for my false claims or throw me out."
 
 <!--t src=0ad8e184-->
@@ -89,9 +92,11 @@ Freedom of speech protects against state suppression of speech, not against cont
 <!-- description of example two -->
 
 <!--t src=bc068cbe-->
+
 > "Equal treatment means treating everyone exactly the same &mdash; so it's unfair to build a wheelchair user a ramp that others don't get."
 
 <!--t src=ac7ad0b6-->
+
 The principle of equality requires treating _like cases alike and unlike cases differently_. Reading it as "everyone identical" distorts its principle.
 
 <!--t src=69b1092f-->
@@ -102,6 +107,11 @@ The principle of equality requires treating _like cases alike and unlike cases d
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
 <!--t src=0d59899c-->
+
 - [Wikipedia: Trugschluss der Akzidenz](https://de.wikipedia.org/wiki/Trugschluss_der_Akzidenz)
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Sweeping Generalization](https://www.logicallyfallacious.com/logicalfallacies/Sweeping-Generalization)
+
+<!--t src=02e33c39-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/missbrauch-eines-prinzips)

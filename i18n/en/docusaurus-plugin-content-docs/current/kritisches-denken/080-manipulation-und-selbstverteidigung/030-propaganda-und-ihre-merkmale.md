@@ -126,3 +126,6 @@ It is important to distinguish between legitimate information and propaganda:
 | Is based on verifiable facts             | Mixes facts with emotions and distortions       |
 | Respects the autonomy of the audience    | Treats the audience as a manipulable mass       |
 | States sources and methods transparently | Obscures sources and methods                    |
+
+<!--t src=192089b4-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale) | [Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale)

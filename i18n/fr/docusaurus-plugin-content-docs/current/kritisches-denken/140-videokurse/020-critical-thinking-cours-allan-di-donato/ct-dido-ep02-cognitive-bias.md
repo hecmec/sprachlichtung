@@ -311,3 +311,5 @@ Apprenez les **noms des biais courants**. Avoir cette liste en tête rend beauco
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep02-cognitive-bias)

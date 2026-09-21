@@ -26,6 +26,7 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 **Fake News** sind absichtlich falsche oder irreführende Nachrichten, die wie legitime Medienberichte erscheinen.
 
 **Merkmale von Fake News:**
+
 - Sensationalistische Überschriften
 - Emotionale Sprache
 - Fehlende oder dubiose Quellen
@@ -34,6 +35,7 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 - Zeitliche Nähe zu kontroversen Ereignissen
 
 **Beispiele:**
+
 - Falsche Berichte über Politiker oder Prominente
 - Erfundene medizinische "Durchbrüche" oder Gesundheitsrisiken
 - Manipulierte Bilder von Ereignissen oder Personen
@@ -44,12 +46,14 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 **Deep Fakes** sind mit Hilfe künstlicher Intelligenz erstellte gefälschte Videos oder Audiodateien, die täuschend echt wirken.
 
 **Gefahren von Deep Fakes:**
+
 - Untergraben des Vertrauens in visuelle und auditive Beweise
 - Rufschädigung durch gefälschte Aussagen oder Handlungen
 - Politische Manipulation durch gefälschte Reden oder Aktionen
 - Erschwerung der Unterscheidung zwischen Realität und Fiktion
 
 **Erkennungsmerkmale:**
+
 - Unnatürliche Augenbewegungen oder Blinzeln
 - Unscharfe oder verzerrte Bereiche, besonders an Übergängen
 - Unnatürliche Gesichtsausdrücke oder Körperbewegungen
@@ -63,6 +67,7 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 **Filterblasen** entstehen durch Algorithmen, die Inhalte basierend auf früheren Präferenzen und Verhaltensweisen personalisieren, wodurch Nutzer zunehmend nur noch Informationen sehen, die ihre bestehenden Ansichten bestätigen.
 
 **Auswirkungen:**
+
 - Verstärkung bestehender Überzeugungen
 - Polarisierung der öffentlichen Meinung
 - Verringerung der Exposition gegenüber alternativen Sichtweisen
@@ -76,8 +81,11 @@ Das digitale Zeitalter hat neue Möglichkeiten für die Verbreitung von Desinfor
 **Bots** sind automatisierte Accounts in sozialen Medien, die programmiert sind, um bestimmte Inhalte zu verbreiten, mit anderen Nutzern zu interagieren oder Trends zu beeinflussen.
 
 **Erkennungsmerkmale:**
+
 - Ungewöhnlich koordinierte Aktivitäten vieler Accounts
 - Accounts mit wenig persönlichen Informationen oder generischen Profilbildern
 - Unnatürliche Aktivitätsmuster (z.B. 24/7-Aktivität)
 - Wiederholung identischer oder sehr ähnlicher Nachrichten
 - Plötzlicher Anstieg von Unterstützung für ein Thema ohne erkennbaren Auslöser
+
+[Article en français](pathname:///fr/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/desinformation-im-digitalen-zeitalter)

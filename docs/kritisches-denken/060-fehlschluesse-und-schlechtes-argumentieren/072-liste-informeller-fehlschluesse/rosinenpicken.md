@@ -73,4 +73,4 @@ Die Auswahl erzeugt ein verzerrtes Bild der Forschungslage.
 - [Wikipedia: Rosinenpicken (Argumentationstheorie)](<https://de.wikipedia.org/wiki/Rosinenpicken_(Argumentationstheorie)>)
 - [Logically Fallacious: Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/rosinenpicken) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/rosinenpicken)

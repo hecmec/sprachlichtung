@@ -60,3 +60,5 @@ last_update:
 3. b) Aktiv nach Informationen suchen, die den eigenen Überzeugungen widersprechen
 4. c) Echokammern und Filterblasen
 5. b) Die Ziele sollten spezifisch und messbar sein
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/quiz-kritisches-denken-in-der-praxis)

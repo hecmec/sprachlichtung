@@ -69,3 +69,5 @@ Wu adds that even within the agricultural sense the threat of equivocation persi
 ### Key takeaway
 
 When you suspect equivocation, work through three steps: distinguish the possible meanings of the ambiguous term, restate the argument without that term so that the premises stay true, and then evaluate the result. If the restated argument is no longer valid, the original committed the fallacy of equivocation.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-10-equivocation)

@@ -73,4 +73,4 @@ Die Wahrheit der Bibel wird mit der Bibel selbst begründet. Das Argument setzt 
 - [Wikipedia: Petitio Principii](https://de.wikipedia.org/wiki/Petitio_Principii)
 - [The Fallacy Files: Begging the Question](https://www.fallacyfiles.org/begquest.html)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/zirkelschluss.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/zirkelschluss)

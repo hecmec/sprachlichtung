@@ -32,3 +32,5 @@ Wir haben gelernt:
 Kritisches Denken ist keine abstrakte intellektuelle Übung, sondern eine praktische Fähigkeit, die in allen Lebensbereichen angewendet werden kann und sollte. Durch bewusste Anwendung und kontinuierliche Übung können wir unsere Fähigkeit zum kritischen Denken verbessern und damit klarere, fundiertere und reflektiertere Urteile fällen.
 
 Die Entwicklung kritischen Denkens ist eine lebenslange Reise, die Geduld, Ausdauer und Offenheit erfordert. Aber die Belohnungen &mdash; bessere Entscheidungen, tieferes Verständnis, größere intellektuelle Autonomie und konstruktivere Beiträge zu gesellschaftlichen Diskursen &mdash; machen diese Anstrengung mehr als lohnenswert.
+
+[Article en français](pathname:///fr/docs/kritisches-denken/kritisches-denken-in-der-praxis/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/zusammenfassung)

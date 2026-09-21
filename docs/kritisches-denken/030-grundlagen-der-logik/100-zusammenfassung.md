@@ -14,9 +14,8 @@ last_update:
 
 completeness: 3/5
 draft: false
-# slug: 
-# image: 
-
+# slug:
+# image:
 ---
 
 In diesem Kapitel haben wir grundlegende logische Elemente kennengelernt, die für das kritische Denken unerlässlich sind:
@@ -39,4 +38,4 @@ Das Verständnis dieser Konzepte bildet die Grundlage für die Analyse, Bewertun
 
 In den folgenden Kapiteln werden wir auf diesen Grundlagen aufbauen und weitere Aspekte des kritischen Denkens erkunden, darunter die Analyse von Argumenten, sprachliche Fallstricke und kognitive Verzerrungen.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/grundlagen-der-logik/zusammenfassung) | [Article in English](pathname:///en/docs/kritisches-denken/grundlagen-der-logik/zusammenfassung)

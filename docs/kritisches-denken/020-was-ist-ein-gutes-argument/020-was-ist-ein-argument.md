@@ -79,4 +79,4 @@ Wie man dieses Schema nutzt, um ein konkretes Argument zu zerlegen, sehen wir im
 
 [^toulmin-schema-en]: [Wikipedia: Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument)

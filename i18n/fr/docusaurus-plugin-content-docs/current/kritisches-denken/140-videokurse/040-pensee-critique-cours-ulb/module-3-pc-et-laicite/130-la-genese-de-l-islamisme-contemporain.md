@@ -72,3 +72,4 @@ La distinction posée d’entrée est elle-même un exercice critique : elle emp
 <!-- href="https://www.youtube.com/watch?v=LP0hi6fpxEg"
   Pensée critique - La genèse de l'islamisme contemporain - 13 - Module 3 -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-genese-de-l-islamisme-contemporain) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-la-genese-de-l-islamisme-contemporain)

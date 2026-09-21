@@ -78,3 +78,5 @@ Un **signal du préjugé** : quand une personne exige une rigueur extrême pour 
 ## 🎯 Message clé
 
 **La pensée critique exige de reconnaître les faits, même quand ils dérangent.** Le communautarisme des faits détruit tout espace de débat commun et fragilise la démocratie.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits)

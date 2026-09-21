@@ -20,6 +20,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=07e1dd44-->
+
 :::tip In brief
 A syllogism seemingly contains three terms, but in truth four &mdash; usually through an ambiguous word.
 
@@ -35,6 +36,7 @@ _One word, two meanings, no valid inference._
 A valid categorical syllogism consists of exactly **three** terms: two end terms and a middle term that connects them. In the **Quaternio Terminorum** (Latin „fourness of terms“) there are in fact **four** terms.
 
 <!--t src=fa313430-->
+
 Most often the fourth term arises through **equivocation**: a word is used in the two premises with _different meanings_. The supposed middle term is then no longer a shared term at all and cannot link the premises.
 
 <!--t src=80c36cc3-->
@@ -63,6 +65,7 @@ Also known as: _four-term fallacy_ / _fallacy of four terms_
 <!-- list similar fallacies -->
 
 <!--t src=e2e7b4ac-->
+
 - **Equivocation (fallacy of ambiguity)** &mdash; the informal root: the fourth term arises through an ambiguous word.
 - **Undistributed middle** &mdash; a related structural defect of the syllogism, there through an undistributed rather than a doubled middle term.
 
@@ -84,6 +87,7 @@ Also known as: _four-term fallacy_ / _fallacy of four terms_
 > 3. Therefore a feather is easy to understand.
 
 <!--t src=53844203-->
+
 "Light" means in premise 1 _not heavy (in weight)_, in premise 2 _easy_. The word only seemingly connects the statements &mdash; there are four terms.
 
 <!--t src=f350657d-->
@@ -100,6 +104,7 @@ Also known as: _four-term fallacy_ / _fallacy of four terms_
 > 3. Therefore some film actors shine in the night sky.
 
 <!--t src=ed5fd830-->
+
 "Star" means at one point a _celestial body_, at another a _famous person_. The two meanings are different terms.
 
 <!--t src=69b1092f-->
@@ -113,3 +118,7 @@ Also known as: _four-term fallacy_ / _fallacy of four terms_
 
 - [Wikipedia: Fallacy of four terms](https://en.wikipedia.org/wiki/Fallacy_of_four_terms)
 - [Logically Fallacious: Four Terms](https://www.logicallyfallacious.com/logicalfallacies/Four-Terms)
+
+<!--t src=aa1a7da0-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/syllogismen-quaternio-terminorum)

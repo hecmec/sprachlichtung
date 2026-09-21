@@ -73,4 +73,4 @@ Mehrere beobachten Mobbing oder einen gravierenden Prozessfehler. Niemand greift
 - Wikipedia: [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - Darley, J. M. & Latané, B. (1968): "Bystander intervention in emergencies: Diffusion of responsibility". Journal of Personality and Social Psychology.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/280-Zuschauereffekt.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt) | [Article in English](pathname:///en/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Zuschauereffekt)

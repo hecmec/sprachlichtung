@@ -32,3 +32,5 @@ The playlist [Introduction to Critical Thinking](https://www.youtube.com/playlis
 the video list is maintained in src/data/ct-wiphi-course.ts -->
 
 <VideoCardGrid videos={ctWiphiCourse} />
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/)

@@ -134,3 +134,6 @@ Formulez un engagement personnel envers votre plan de développement :
 
 <!--t src=69e22dff-->
 Date : _____________________ Signature : _____________________
+
+<!--t src=2d860f39-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-praxis/uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-praxis/uebung-persoenlicher-entwicklungsplan-fuer-kritisches-denken)

@@ -108,3 +108,6 @@ Analysez les situations paradoxales suivantes. Identifiez le type de paradoxe, l
      - Interprétation des mondes multiples : le livre provient à l'origine d'une autre ligne temporelle.
      - Les voyages dans le temps pourraient être fondamentalement impossibles, justement à cause de tels paradoxes.
      - L'information pourrait se modifier progressivement dans la boucle, ce qui conduirait à des incohérences à long terme.
+
+<!--t src=550a72ad-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/uebung-analyse-und-diskussion-von-paradoxien) | [Article in English](pathname:///en/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/uebung-analyse-und-diskussion-von-paradoxien)

@@ -83,3 +83,4 @@ No summary of this video available yet. 😪
   Introduction du Module Laïcité
    -->
 
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-3-pc-et-laicite/pc-module-3-intro-module-laicite)

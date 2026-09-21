@@ -133,3 +133,6 @@ Analysez une affirmation potentiellement pseudoscientifique à l'aide des critè
 7. **Conclusion** :
    - S'agit-il plutôt de science ou de pseudoscience ?
    - Quelles caractéristiques ont été déterminantes pour votre appréciation ?
+
+<!--t src=0ec279ef-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/uebung-wissenschaftliche-behauptungen-analysieren)

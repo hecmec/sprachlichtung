@@ -5,7 +5,6 @@ last_update:
   author: Immanuel Lupinus
 ---
 
-
 # Translate your site
 
 Let's translate `docs/intro.md` to French.
@@ -17,8 +16,8 @@ Modify `docusaurus.config.js` to add support for the `fr` locale:
 ```js title="docusaurus.config.js"
 export default {
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    defaultLocale: "en",
+    locales: ["en", "fr"],
   },
 };
 ```
@@ -28,12 +27,12 @@ export default {
 Copy the `docs/intro.md` file to the `i18n/fr` folder:
 
 ```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
+mkdir -p i18n/fr/docs/
 
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
+cp docs/intro.md i18n/fr/docs/intro.md
 ```
 
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
+Translate `i18n/fr/docs/intro.md` in French.
 
 ## Start your localized site
 
@@ -64,7 +63,7 @@ export default {
       items: [
         // highlight-start
         {
-          type: 'localeDropdown',
+          type: "localeDropdown",
         },
         // highlight-end
       ],
@@ -90,4 +89,5 @@ Or build your site to include all the locales at once:
 ```bash
 npm run build
 ```
+
 xx

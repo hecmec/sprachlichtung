@@ -31,6 +31,7 @@ _Laying a false trail._
 ## Definition
 
 <!--t src=e211485b-->
+
 The **red herring** (literally a "smoked herring", a false trail) leads away from the actual question by introducing an **irrelevant but interesting side topic**. Attention is diverted instead of the contested question being answered.
 
 <!--t src=1ea542f1-->
@@ -59,6 +60,7 @@ Also known as: _red herring_
 <!-- list similar fallacies -->
 
 <!--t src=5f4a71b0-->
+
 - **Straw man** &mdash; related: there the _opposing position_ is distorted, here attention is steered to a different _topic_.
 - **Tu quoque / whataboutism** &mdash; a special form of the red herring through counter-accusations.
 - **Suggestive insinuation** &mdash; related: a side issue is merely hinted at.
@@ -75,6 +77,7 @@ Also known as: _red herring_
 <!-- description of example one -->
 
 <!--t src=09739789-->
+
 > &mdash; "Why did you fudge the figures?"
 > &mdash; "You know, I built this company from nothing and created hundreds of jobs."
 
@@ -90,6 +93,7 @@ The achievement of building it up is not the question. It distracts from the act
 <!-- description of example two -->
 
 <!--t src=98175822-->
+
 > &mdash; "Should we separate our waste more carefully?"
 > &mdash; "As long as China emits so much CO2, it doesn't matter anyway."
 
@@ -105,6 +109,11 @@ The reference to China does not answer the question about waste sorting but evad
 <!-- Where is this fallacy described. (Wikipedia, etc.) -->
 
 <!--t src=e87d5491-->
+
 - [Wikipedia: Red herring (idiom)](<https://de.wikipedia.org/wiki/Red_herring_(Redewendung)>)
 - [Wikipedia: Red herring (fallacy)](https://en.wikipedia.org/wiki/Red_herring)
 - [Logically Fallacious: Red Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)
+
+<!--t src=c99223c7-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/ablenkung-red-herring) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/ablenkung-red-herring)

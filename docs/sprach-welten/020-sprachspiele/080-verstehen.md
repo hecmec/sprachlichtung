@@ -90,4 +90,4 @@ Das Verstehen erfüllt essenzielle soziale Funktionen:
 
 In einer pluralistischen und globalisierten Welt wird das Sprachspiel des Verstehens zu einer Schlüsselkompetenz für gelingendes Zusammenleben. Es bleibt jedoch stets eine paradoxe Herausforderung: Trotz aller Bemühungen können wir nie vollständig in die Schuhe eines anderen treten &mdash; und genau dieses Bewusstsein der Unvollständigkeit gehört zum wahren Verstehen dazu.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/080-verstehen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/080-verstehen.md)
+[Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/verstehen) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/verstehen)

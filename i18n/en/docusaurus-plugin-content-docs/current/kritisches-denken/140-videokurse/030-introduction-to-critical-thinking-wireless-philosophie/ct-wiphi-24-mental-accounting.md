@@ -51,3 +51,5 @@ Santos notes that mental accounting can be used deliberately. A friend of the be
 ### Key takeaway
 
 Because we naturally sort money into separate mental accounts rather than treating it as fungible, we can choose which accounts to set up and draw from, turning the same bias that normally distorts our decisions into a way of softening the sting of everyday losses.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-24-mental-accounting)

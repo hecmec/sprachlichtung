@@ -77,3 +77,5 @@ The mistake the example guards against is to ignore the prior probability of the
 ### Key takeaway
 
 Bayes' theorem tells us what probability to assign a hypothesis in the light of a piece of evidence. Even if the formula slips your mind, remember its three ingredients: the probability of the evidence given the hypothesis, the prior probability of the hypothesis, and the prior probability of the evidence. Leave any one of them out and the picture is incomplete.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-07-bayes-theorem) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-07-bayes-theorem)

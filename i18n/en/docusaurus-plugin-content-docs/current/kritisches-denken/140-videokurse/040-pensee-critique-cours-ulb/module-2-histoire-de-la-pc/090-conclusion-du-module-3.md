@@ -164,3 +164,5 @@ By opposing imposed truths, critical thinking has served as an instrument of ema
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-conclusion-du-module-histoire-de-la-pc)

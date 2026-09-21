@@ -119,13 +119,13 @@ Ein **Fehlschluss** ist ein Denkfehler, der oft korrekt aussieht, bis man ihn pr
 <div className="row">
 <div className="col col--6">
 
-- **Formal fallacies** – errors in the **structure** of an argument, even when the premises are individually fine. Examples: the **four-term fallacy** in categorical syllogisms (a valid syllogism needs exactly three terms, usually failing for lack of a linking middle term), and **denying the antecedent** in a hypothetical syllogism ("if it's a circle, it's a geometric figure; it's *not* a circle", from which nothing follows).
+- **Formal fallacies** – errors in the **structure** of an argument, even when the premises are individually fine. Examples: the **four-term fallacy** in categorical syllogisms (a valid syllogism needs exactly three terms, usually failing for lack of a linking middle term), and **denying the antecedent** in a hypothetical syllogism ("if it's a circle, it's a geometric figure; it's _not_ a circle", from which nothing follows).
 - **Informal (material) fallacies** – errors in the **content**, arising from unclear meaning, irrelevance, or unsupported presumption.
 
 </div>
 <div className="col col--6 video-translation">
 
-- **Formale Fehlschlüsse** – Fehler in der **Struktur** eines Arguments, selbst wenn die Prämissen einzeln in Ordnung sind. Beispiele: der **Vier-Begriffe-Fehlschluss** in kategorialen Syllogismen (ein gültiger Syllogismus braucht genau drei Begriffe, was meist am fehlenden verbindenden Mittelbegriff scheitert) und die **Verneinung des Antezedens** in einem hypothetischen Syllogismus („wenn es ein Kreis ist, ist es eine geometrische Figur; es ist *kein* Kreis", woraus nichts folgt).
+- **Formale Fehlschlüsse** – Fehler in der **Struktur** eines Arguments, selbst wenn die Prämissen einzeln in Ordnung sind. Beispiele: der **Vier-Begriffe-Fehlschluss** in kategorialen Syllogismen (ein gültiger Syllogismus braucht genau drei Begriffe, was meist am fehlenden verbindenden Mittelbegriff scheitert) und die **Verneinung des Antezedens** in einem hypothetischen Syllogismus („wenn es ein Kreis ist, ist es eine geometrische Figur; es ist _kein_ Kreis", woraus nichts folgt).
 - **Informelle (materiale) Fehlschlüsse** – Fehler im **Inhalt**, die aus unklarer Bedeutung, Irrelevanz oder unbegründeter Voraussetzung entstehen.
 
 </div>
@@ -147,12 +147,12 @@ Ein **Fehlschluss** ist ein Denkfehler, der oft korrekt aussieht, bis man ihn pr
 <div className="row">
 <div className="col col--6">
 
-The course organizes informal fallacies into three families (a "fallacy family tree" descending from *fallacy → formal/informal → the three categories*):
+The course organizes informal fallacies into three families (a "fallacy family tree" descending from _fallacy → formal/informal → the three categories_):
 
 </div>
 <div className="col col--6 video-translation">
 
-Der Kurs ordnet die informellen Fehlschlüsse in drei Familien (ein „Stammbaum der Fehlschlüsse", der von *Fehlschluss → formal/informell → die drei Kategorien* absteigt):
+Der Kurs ordnet die informellen Fehlschlüsse in drei Familien (ein „Stammbaum der Fehlschlüsse", der von _Fehlschluss → formal/informell → die drei Kategorien_ absteigt):
 
 </div>
 </div>
@@ -218,3 +218,5 @@ Die nächste Folge beginnt mit der ersten und kleinsten (und oft humorvollsten) 
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/critical-thinking-cours-allan-di-donato/ct-dido-ep07-informal-fallacies-an-introduction)

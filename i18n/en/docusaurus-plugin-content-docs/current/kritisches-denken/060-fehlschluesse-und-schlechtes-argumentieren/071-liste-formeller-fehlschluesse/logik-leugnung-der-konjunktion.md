@@ -35,6 +35,7 @@ _„Not both“ leaves open that neither holds._
 **Denying a conjunct** infers, from the negation of a conjunction („not both A and B“) and the falsity of one member, the truth of the other.
 
 <!--t src=e61e7545-->
+
 The error lies in the fact that "not (A and B)" only rules out that _both at once_ are the case. It leaves open that _neither_ of the two is the case. From "not A", therefore, "B" does not follow.
 
 <!--t src=3c24b250-->
@@ -59,6 +60,7 @@ Also known as: _denying a conjunct_
 <!-- list similar fallacies -->
 
 <!--t src=189328b4-->
+
 - **Affirming a disjunct** &mdash; the counterpart at the level of disjunction.
 - **False dilemma** &mdash; related: here too it is tacitly assumed that at least one option must be the case.
 - **Non sequitur** &mdash; the umbrella term.
@@ -92,6 +94,7 @@ Paul could also be neither rich nor happy. That both do not hold at once says no
 <!-- description of example two -->
 
 <!--t src=5639e958-->
+
 > "She cannot be in Berlin and Munich at the same time. She is not in Berlin &mdash; so she is in Munich."
 
 <!--t src=15ee003a-->
@@ -109,3 +112,7 @@ She could just as well be in Hamburg. Ruling out simultaneous presence permits n
 
 - [Wikipedia: Denying a conjunct](https://en.wikipedia.org/wiki/Denying_a_conjunct)
 - [Logically Fallacious: Denying a Conjunct](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Conjunct)
+
+<!--t src=df9659ab-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-formeller-fehlschluesse/logik-leugnung-der-konjunktion)

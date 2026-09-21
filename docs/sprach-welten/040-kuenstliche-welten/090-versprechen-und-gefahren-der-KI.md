@@ -89,4 +89,4 @@ Hinter jedem KI-System stehen ein Betreiber, ein Auftrag und eine Person, die es
 
 [^safetyreport]: Yoshua Bengio u. a.: _International AI Safety Report_, 2025.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md)
+[Article en français](pathname:///fr/docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI) | [Article in English](pathname:///en/docs/sprach-welten/kuenstliche-welten/versprechen-und-gefahren-der-KI)

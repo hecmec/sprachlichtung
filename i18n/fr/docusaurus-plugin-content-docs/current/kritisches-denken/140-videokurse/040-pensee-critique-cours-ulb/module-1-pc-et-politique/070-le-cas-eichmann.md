@@ -38,3 +38,5 @@ c'est le cas Eichman
 on peut être conformiste par cr -->
 
 Pas de résumé de la vidéo disponible. 😪
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-le-cas-eichmann) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-le-cas-eichmann)

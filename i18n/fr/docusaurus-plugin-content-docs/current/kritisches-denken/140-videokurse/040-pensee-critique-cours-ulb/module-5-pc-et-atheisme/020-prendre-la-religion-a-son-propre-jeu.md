@@ -60,3 +60,5 @@ Ce qui rend l’exemple intéressant pour la pensée critique, c’est qu’il n
 
 <!-- href="https://www.youtube.com/watch?v=z38TQoQxyRk"
   Pensée critique - Prendre la religion à son propre jeu - 02 - Module 6 -->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-5-pc-et-atheisme/pc-module-5-prendre-religion-propre-jeu)

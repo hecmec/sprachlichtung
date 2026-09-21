@@ -112,4 +112,4 @@ Beispiele:
 - Eine Managerin, die weder risikoscheu noch rücksichtslos handelt, sondern abgewogen entscheidet.
 - Jemand, der im Streit gelassen bleibt und weder ausfällig wird noch sich unterwirft. -->
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens) | [Article in English](pathname:///en/docs/kritisches-denken/einfuehrung-ins-kritische-denken/grundhaltung-des-kritischen-denkens)

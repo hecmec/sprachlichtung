@@ -20,23 +20,29 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=7f106a05-->
+
 ## Les jeux de société comme pratique sociale
 
 <!--t src=132038dc-->
+
 Non, il ne s'agit pas ici de parler du Monopoly ou des Colons de Catane, mais des jeux de société en tant que pratique sociale. Les jeux de société sont plus qu'un simple divertissement ; ils sont le reflet de nos interactions sociales et de nos normes culturelles.
 
 <!--t src=6b80617d-->
+
 J'emploie la notion de « jeux de société » au sens sociologique, comme une allusion au philosophe Ludwig Wittgenstein et au sociologue Jürgen Habermas avec sa théorie de l'agir communicationnel.
 Dans ce contexte, « jeu de société » désigne les interactions structurées et les règles qui organisent notre vie sociale.
 
 <!--t src=e15d2170-->
+
 Les jeux de société sont des activités structurées auxquelles se livrent des personnes au sein de groupes sociaux.
 Ils servent différents objectifs, parmi lesquels le divertissement, l'éducation, l'interaction sociale et la conciliation des intérêts.
 
 <!--t src=ebf7ca13-->
+
 Voici quelques exemples de cet usage de la notion de « jeux de société » comme pratique sociale :
 
 <!--t src=ef6e73b9-->
+
 - **Violence** : les jeux de société peuvent comporter des règles et des normes qui régulent ou thématisent l'usage de la violence.
 - Coopération :
 - Égalité et inégalité
@@ -44,3 +50,7 @@ Voici quelques exemples de cet usage de la notion de « jeux de société » com
 - Communication et négociation
 - Compétition et collaboration
 - Solidarité et construction de la communauté
+
+<!--t src=62de8b3f-->
+
+[Artikel auf Deutsch](pathname:///docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/einfuehrung-in-gesellschaftsspiele)

@@ -207,3 +207,5 @@ La croyance répandue n'est que très rarement ce qui rend une affirmation vraie
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-16-appeal-to-the-people)

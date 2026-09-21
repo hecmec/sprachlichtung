@@ -85,3 +85,5 @@ Keine Zusammenfassung des Videos verfügbar. 😪
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-4-argumentation/pc-module-4-la-liberte-d-expression-limites)

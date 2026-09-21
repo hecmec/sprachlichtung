@@ -72,4 +72,4 @@ Gut schmeckende Zutaten ergeben zusammen nicht zwangsläufig ein gutes Gericht.
 - [Wikipedia: Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition)
 - [Logically Fallacious: Composition](https://www.logicallyfallacious.com/logicalfallacies/Composition)
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition) | [Article in English](pathname:///en/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-komposition)

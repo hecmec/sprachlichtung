@@ -111,3 +111,6 @@ Il est important de distinguer l'information légitime de la propagande :
 | Repose sur des faits vérifiables                  | Mêle faits, émotions et distorsions                     |
 | Respecte l'autonomie du public                    | Traite le public comme une masse manipulable            |
 | Indique ses sources et ses méthodes en toute transparence | Dissimule ses sources et ses méthodes          |
+
+<!--t src=192089b4-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale) | [Article in English](pathname:///en/docs/kritisches-denken/manipulation-und-selbstverteidigung/propaganda-und-ihre-merkmale)

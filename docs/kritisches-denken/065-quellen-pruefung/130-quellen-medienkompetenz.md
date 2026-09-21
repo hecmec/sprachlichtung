@@ -65,4 +65,4 @@ Hier finden sich alle Quellen, auf die sich dieses Kapitel zu Medienkompetenz un
 - 🇬🇧 [Introduction to College Research: Disinformation & Fact-Checking](https://pressbooks.pub/introtocollegeresearch/part/introduction/). Ein sehr gutes online Buch über Medienkompetenz und Quellenkritik (_information literacy skills_) mit einer freien Licenz (OER, cc-by)
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). Ein journalistisches Fachportal, das Medienforschung und Branchentrends verständlich aufbereitet und den Blick hinter die Kulissen der Berichterstattung erlaubt.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz) | [Article in English](pathname:///en/docs/kritisches-denken/quellen-pruefung/quellen-medienkompetenz)

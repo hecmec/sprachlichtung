@@ -31,6 +31,7 @@ _„That little bit“ adds up._
 ## Definition
 
 <!--t src=89b99e8f-->
+
 In the **fallacy of relative privation**, a problem, contribution or harm is dismissed because it is **small in itself** &mdash; whether in comparison to "something worse" (relative privation) or because the individual case hardly carries any weight.
 
 <!--t src=ee4c3451-->
@@ -48,6 +49,7 @@ The fallacy has the following form:
 3. (Often:) There are worse things anyway.
 
 <!--t src=0d1c6606-->
+
 EN: _appeal to relative triviality_ / _minimization_ (special form: _relative privation_ &mdash; "there are worse things")
 
 <!--t src=2851dcb3-->
@@ -58,6 +60,7 @@ EN: _appeal to relative triviality_ / _minimization_ (special form: _relative pr
 <!-- list similar fallacies -->
 
 <!--t src=4ba4b139-->
+
 - **Slippery slope** &mdash; the opposite direction: there a small step is dramatized beyond all measure.
 - **Sorites paradox** &mdash; related: the question of when many small things start to count.
 - **Red herring** &mdash; related, when "there are worse things" steers away from the topic.
@@ -78,6 +81,7 @@ EN: _appeal to relative triviality_ / _minimization_ (special form: _relative pr
 > „One little glass won't hurt.“
 
 <!--t src=d6c5c9a0-->
+
 A single glass may be little in itself &mdash; drunk regularly it adds up. The triviality of the individual case conceals the effect of the habit.
 
 <!--t src=f350657d-->
@@ -106,3 +110,7 @@ That there are bigger problems does not make the smaller one trivial. Pointing t
 
 - [Wikipedia: Relative privation](https://en.wikipedia.org/wiki/Relative_privation)
 - [Logically Fallacious: Relative Privation](https://www.logicallyfallacious.com/logicalfallacies/Relative-Privation)
+
+<!--t src=2010eaf3-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/fehlschluss-der-relativen-geringfuegigkeit)

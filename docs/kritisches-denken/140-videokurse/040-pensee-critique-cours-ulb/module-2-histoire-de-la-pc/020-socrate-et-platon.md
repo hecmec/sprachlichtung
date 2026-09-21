@@ -160,3 +160,5 @@ Sokrates verteidigt das kritische Denken als Pfeiler der Demokratie, indem er di
 
 </div>
 </div>
+
+[Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-2-histoire-de-la-pc/pc-module-2-socrate-et-platon)

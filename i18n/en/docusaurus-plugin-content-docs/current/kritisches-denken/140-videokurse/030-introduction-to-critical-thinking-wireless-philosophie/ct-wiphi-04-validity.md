@@ -87,3 +87,5 @@ The video closes with an exercise: is the following argument valid or invalid?
 ### Key takeaway
 
 Validity is about the relationship between premises and conclusion, never about their truth. That is why arguments with false, unknown, or even meaningless premises can be perfectly valid, and why an argument with true premises and a true conclusion can still be invalid.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-04-validity) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-04-validity)

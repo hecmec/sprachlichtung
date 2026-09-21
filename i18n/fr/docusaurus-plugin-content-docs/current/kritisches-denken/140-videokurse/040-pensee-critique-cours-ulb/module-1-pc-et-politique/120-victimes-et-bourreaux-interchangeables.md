@@ -86,3 +86,5 @@ on **déshumanise la victime** et justifie l’agresseur au nom d’une cause su
 * La **pensée critique** est essentielle pour **résister aux dérives du communautarisme**.
 * Elle impose de juger les actes **selon des principes universels**, même si cela **implique de condamner ses proches**.
 * Ne pas le faire, c’est **sacrifier la vérité** au profit du préjugé et ouvrir la voie aux pires dérives.
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-victimes-et-bourreaux) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-victimes-et-bourreaux)

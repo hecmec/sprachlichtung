@@ -380,3 +380,5 @@ La vérité appartient aux énoncés, la validité aux arguments, et les deux va
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity) | [Article in English](pathname:///en/docs/kritisches-denken/videokurse/introduction-to-critical-thinking-wireless-philosophie/ct-wiphi-05-truth-and-validity)

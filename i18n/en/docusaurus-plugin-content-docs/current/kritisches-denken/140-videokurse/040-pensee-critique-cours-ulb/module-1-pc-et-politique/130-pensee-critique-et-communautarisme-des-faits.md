@@ -207,3 +207,5 @@ A **sign of prejudice**: when someone demands extreme rigour for certain facts, 
 
 </div>
 </div>
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits) | [Article en français](pathname:///fr/docs/kritisches-denken/videokurse/pensee-critique-cours-ulb/module-1-pc-et-politique/pc-module-1-communautarisme-des-faits)

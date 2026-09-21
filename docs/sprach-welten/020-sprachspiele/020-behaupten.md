@@ -117,4 +117,4 @@ Die Analyse von Sprechakten im allgemeinen und des Behauptens als sprachlicher A
 - **John R. Searle**, _Sprechakte. Ein sprachphilosophischer Essay_ (Suhrkamp, 1971) / engl. _Speech Acts_ (1969). — Systematisiert die **Gelingensbedingungen** des Behauptens (Einleitungs-, Aufrichtigkeits-, wesentliche Bedingung) und die _Ausrichtung_ von Wort und Welt.
 - **Robert B. Brandom**, _Expressive Vernunft_ (Suhrkamp, 2000) / engl. _Making It Explicit_ (1994). — Versteht das Behaupten als Zug im **„Spiel des Gebens und Verlangens von Gründen"**: Wer behauptet, geht eine begründungspflichtige Festlegung ein.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)
+[Article en français](pathname:///fr/docs/sprach-welten/sprachspiele/behaupten) | [Article in English](pathname:///en/docs/sprach-welten/sprachspiele/behaupten)

@@ -62,3 +62,6 @@ Paradoxes can be classified according to various criteria. One useful classifica
 
 <!--t src=507374e0-->
 6. **Sorites paradoxes (paradoxes of the heap)**: These arise from vague concepts and the question of when small, incremental changes lead to a qualitative change.
+
+<!--t src=1e2ed50a-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien) | [Article en français](pathname:///fr/docs/kritisches-denken/paradoxien-dilemmas-denkfallen/was-sind-paradoxien)

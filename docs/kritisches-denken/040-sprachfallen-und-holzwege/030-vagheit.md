@@ -3,20 +3,20 @@ title: Vagheit
 sidebar_position: 3
 description: "Erläuterung des Konzepts der Vagheit in der Sprache und dessen Einfluss auf kritisches Denken"
 keywords:
-   - Vagheit
-   - unklare Begriffe
-   - Sorites-Paradoxon
-   - Graubereiche
-   - Grenzfälle
-   - präzise Kommunikation
+  - Vagheit
+  - unklare Begriffe
+  - Sorites-Paradoxon
+  - Graubereiche
+  - Grenzfälle
+  - präzise Kommunikation
 last_update:
-   date: 2026-01-28
-   author: Immanuel Lupinus
+  date: 2026-01-28
+  author: Immanuel Lupinus
 
 completeness: 3/5
 draft: false
 ---
- 
+
 Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere klar unterscheidbare Bedeutungen haben, haben vage Ausdrücke unscharfe Grenzen oder Graubereiche, in denen ihre Anwendbarkeit unklar ist.
 
 ### Merkmale vager Ausdrücke
@@ -31,16 +31,12 @@ Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere k
 
 - **Größenadjektive**: "groß", "klein", "hoch", "niedrig"
   - Ab welcher Größe ist jemand "groß"? 1,80 m? 1,85 m? 1,90 m?
-  
 - **Farbadjektive**: "rot", "blau", "grün"
   - Wo genau liegt die Grenze zwischen "rot" und "orange"?
-  
 - **Evaluative Begriffe**: "gut", "schlecht", "erfolgreich", "intelligent"
   - Was genau macht eine Person "intelligent"?
-  
 - **Häufigkeitsadverbien**: "oft", "selten", "manchmal", "normalerweise"
   - Wie oft ist "oft"? Einmal pro Woche? Täglich?
-  
 - **Mengenausdrücke**: "viele", "wenige", "einige", "die meisten"
   - Wie viele sind "viele"?
 
@@ -49,11 +45,11 @@ Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere k
 1. **Unklare Kommunikation**: Vage Ausdrücke können zu Missverständnissen führen, da verschiedene Personen unterschiedliche Interpretationen haben können.
 
 2. **Sorites-Paradoxa**: Diese entstehen, wenn man argumentiert, dass kleine Änderungen keine Auswirkungen haben, aber viele kleine Änderungen zusammen zu einem deutlich anderen Ergebnis führen.
-   
+
    **Beispiel**: "Eine Person mit 0 Haaren ist kahl. Eine Person mit 1 Haar ist immer noch kahl. Wenn eine Person mit n Haaren kahl ist, dann ist auch eine Person mit n+1 Haaren kahl. Also sind alle Menschen kahl, unabhängig davon, wie viele Haare sie haben."
 
 3. **Manipulationsmöglichkeiten**: Vage Ausdrücke können genutzt werden, um Verantwortung zu vermeiden oder Aussagen so zu formulieren, dass sie kaum widerlegbar sind.
-   
+
    **Beispiel**: "Wir werden in naher Zukunft Maßnahmen ergreifen, um die Situation zu verbessern."
 
 ### Strategien zum Umgang mit Vagheit
@@ -73,4 +69,4 @@ Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere k
 
 4. **Bewusstsein für Sorites-Probleme**: Erkennen Sie, dass kleine, inkrementelle Änderungen zu qualitativ unterschiedlichen Kategorien führen können, und vermeiden Sie Argumente, die auf der Annahme basieren, dass kleine Unterschiede nie relevant sind.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md)
+[Article en français](pathname:///fr/docs/kritisches-denken/sprachfallen-und-holzwege/vagheit) | [Article in English](pathname:///en/docs/kritisches-denken/sprachfallen-und-holzwege/vagheit)

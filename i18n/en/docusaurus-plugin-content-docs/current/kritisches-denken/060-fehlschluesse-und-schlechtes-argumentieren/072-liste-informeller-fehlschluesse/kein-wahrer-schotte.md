@@ -30,6 +30,7 @@ _„No real …“ rescues any claim._
 ## Definition
 
 <!--t src=576574ba-->
+
 In the **"no true Scotsman"** fallacy, a general claim is defended against a counterexample by **narrowing the definition after the fact**: the counterexample supposedly does not count, because it is no "true" representative of the group.
 
 <!--t src=5011c21a-->
@@ -41,6 +42,7 @@ The error: instead of giving up the refuted claim, the word „true/real“ is i
 The fallacy has the following form:
 
 <!--t src=8e4e8cee-->
+
 1. Claim: "All A do (not) do X."
 2. Counterexample: "Here is an A that does X."
 3. Response: "No _true_ A does X."
@@ -57,6 +59,7 @@ Also known as: _no true Scotsman_
 <!-- list similar fallacies -->
 
 <!--t src=bd34a6eb-->
+
 - **Special pleading** &mdash; related: an arbitrary special rule to rescue one's own position.
 - **Distinction without a difference** &mdash; related: the after-the-fact redefinition names no real difference.
 - **Circular reasoning** &mdash; related, since the definition is chosen so that the claim _must_ remain true.
@@ -73,6 +76,7 @@ Also known as: _no true Scotsman_
 <!-- description of example one -->
 
 <!--t src=50f3e660-->
+
 > &mdash; "No Scotsman puts sugar in his porridge."
 > &mdash; "My uncle Hamish is a Scotsman and does exactly that."
 > &mdash; "Well, no _true_ Scotsman does that."
@@ -89,6 +93,7 @@ The counterexample is not refuted but simply defined out of the group by the ins
 <!-- description of example two -->
 
 <!--t src=4100b35b-->
+
 > &mdash; "A devout person would never do such a thing."
 > &mdash; "This person is devout and did it."
 > &mdash; "Then they simply weren't really devout."
@@ -107,3 +112,7 @@ The definition of „devout“ is narrowed after the fact so that the claim beco
 <!--t src=33b7ad02-->
 
 - [Logically Fallacious: No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
+
+<!--t src=10183a4b-->
+
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte) | [Article en français](pathname:///fr/docs/kritisches-denken/fehlschluesse-und-schlechtes-argumentieren/liste-informeller-fehlschluesse/kein-wahrer-schotte)

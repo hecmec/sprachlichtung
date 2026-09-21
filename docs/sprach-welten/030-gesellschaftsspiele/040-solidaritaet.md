@@ -38,4 +38,4 @@ Daraus folgt eine doppelte Kritik. **Solidarität ohne Gerechtigkeit** verkommt 
 
 So zeigt sich Solidarität als das, was sie immer schon sein sollte: weder bloßes Gefühl noch bloßes Geschäft, sondern eine **Praxis der Erweiterung**. Sie beginnt bei der Reaktion auf das nahe Leid, nimmt Gestalt an in dauerhaften Institutionen und findet ihr Maß in der Anerkennung aller als Gleiche. Emanzipatorisch ist sie dort, wo sie Abhängigkeit in Anerkennung verwandelt, und kritisch bleibt sie, solange sie sich fragt, wessen Stimme im solidarischen Wir noch fehlt.
 
-[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/040-solidaritaet.md)
+[Article en français](pathname:///fr/docs/sprach-welten/gesellschaftsspiele/solidaritaet) | [Article in English](pathname:///en/docs/sprach-welten/gesellschaftsspiele/solidaritaet)

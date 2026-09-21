@@ -116,3 +116,6 @@ L'**intégrité scientifique** désigne le respect des principes éthiques et de
 
 <!--t src=76345507-->
 **Exemple :** le cas du chercheur sud-coréen Hwang Woo-suk, qui a publié en 2004-2005 des résultats révolutionnaires dans le domaine du clonage d'embryons humains, qui se sont avérés par la suite avoir été falsifiés.
+
+<!--t src=e5ab17a3-->
+[Artikel auf Deutsch](pathname:///docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung) | [Article in English](pathname:///en/docs/kritisches-denken/kritisches-denken-in-der-wissenschaft/wissenschaftliche-standards-und-qualitaetssicherung)
