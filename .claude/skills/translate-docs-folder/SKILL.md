@@ -136,6 +136,30 @@ rules, surface it in your Step 2 report rather than guessing.
   (e.g. German Wikipedia → English Wikipedia, `GIEC` → `IPCC`); otherwise keep.
 - Use canonical published translations for well-known quotes (Popper, UDHR, …).
 
+### Language links at the end of an article
+
+German articles may end with a line linking to their translations (clickable in
+VS Code while editing), e.g.:
+
+```markdown
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/<rel>) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/<rel>)
+```
+
+Do **not** copy it verbatim. In the translation, the line must point to the
+**two other languages**, never to the page itself. Each link text is written in
+the language it points to:
+
+| Target locale | Line in the translated file |
+| --- | --- |
+| `en` | `[Artikel auf Deutsch](/docs/<rel>) \| [Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/<rel>)` |
+| `fr` | `[Artikel auf Deutsch](/docs/<rel>) \| [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/<rel>)` |
+
+- `<rel>` is the same path as the German source (relative to `docs/`); encode
+  spaces as `%20`.
+- For another locale `xx`: link to German (`/docs/<rel>`) plus the other existing
+  translations, each labelled in its own language.
+- Only link to a translation whose file actually exists.
+
 ### Images
 
 Relative image paths (`../img/foo.jpg`) resolve **within** `i18n/<locale>/…`, not
