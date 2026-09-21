@@ -140,3 +140,6 @@ Understanding these patterns of argumentation is important for critical thinking
 
 <!--t src=661502af-->
 4. It fosters a deeper understanding of the logical relationships between statements.
+
+<!--t src=54ffe867-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/080-muster-gueltiger-logischer-schluesse.md)

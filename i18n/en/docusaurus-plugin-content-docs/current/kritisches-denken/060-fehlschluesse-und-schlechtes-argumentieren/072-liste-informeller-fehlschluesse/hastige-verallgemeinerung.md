@@ -103,3 +103,6 @@ A single case does not refute a statistic. From it no general rule can be derive
 <!--t src=447f6628-->
 
 - [Logically Fallacious: Hasty Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)
+
+<!--t src=56b1f8fa-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md)

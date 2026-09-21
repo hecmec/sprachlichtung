@@ -119,3 +119,6 @@ Une bonne démarche :
 :::tip Réussi ?
 Si, à la partie C, vous avez pensé automatiquement à la recherche d'image inversée, vous êtes déjà au niveau des vérificateurs de faits expérimentés. C'est précisément ce réflexe, _remonter à l'original_, qui les distingue des novices.
 :::
+
+<!--t src=ab710085-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/100-uebung-quellenpruefung.md)

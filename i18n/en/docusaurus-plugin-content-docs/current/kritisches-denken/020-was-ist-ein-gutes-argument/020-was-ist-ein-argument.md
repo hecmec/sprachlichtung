@@ -106,3 +106,6 @@ How to use this model to break down a concrete argument we will see in the part 
 
 <!--t src=a74e7b9b-->
 [^toulmin-schema-en]: [Wikipedia: Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
+
+<!--t src=031678c3-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/020-was-ist-ein-argument.md)

@@ -91,3 +91,6 @@ Here you will find all the sources this chapter on media literacy and source cri
 - 🇬🇧 Mike Caulfield: [Web Literacy for Student Fact-Checkers](https://pressbooks.pub/webliteracy/). This book teaches how to use the internet as a fact-checking machine and is written by a well-known expert in <abbr title="Media and Information Literacy">MIL</abbr>. It is also where we find the SIFT method.
 - 🇬🇧 [Introduction to College Research: Disinformation & Fact-Checking](https://pressbooks.pub/introtocollegeresearch/part/introduction/). A very good online book on media literacy and source criticism (_information literacy skills_) with an open license (OER, CC-BY).
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). A journalism trade portal that presents media research and industry trends in an accessible way and offers a look behind the scenes of news coverage.
+
+<!--t src=c7336ce3-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)

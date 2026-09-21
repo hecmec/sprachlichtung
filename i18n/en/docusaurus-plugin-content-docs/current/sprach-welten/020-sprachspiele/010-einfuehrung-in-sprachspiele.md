@@ -150,3 +150,6 @@ The ability to recognize the particular "game" being played at any given moment 
 
 <!--t src=e243ebbb-->
 Whoever asks these questions can better recognize manipulation, avoid misunderstandings and think more clearly.
+
+<!--t src=05ed0fff-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)

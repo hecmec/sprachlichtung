@@ -126,3 +126,6 @@ La pensée critique est la **capacité de penser de manière réfléchie et ind�
 :::tip Perspectives
 Dans les chapitres suivants, nous approfondirons ces fondements et te fournirons des outils pratiques pour développer systématiquement tes capacités de pensée critique.
 :::
+
+<!--t src=7f543ad7-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)

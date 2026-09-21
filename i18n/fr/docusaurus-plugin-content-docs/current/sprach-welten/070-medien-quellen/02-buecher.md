@@ -59,3 +59,6 @@ custom_translation_overwritten: false
 - 🇩🇪 Dolf Sternberger, Wilhelm E. Süskind et Gerhard Storz (1957) : *Das Wörterbuch des Unmenschen* (le dictionnaire de l'inhumain)
 - 🇫🇷 Pierre Bourdieu : *Ce que parler veut dire. L'économie des échanges linguistiques* (Fayard, 1982)
 - 🇩🇪 [Schlüsselwerke der Soziologie](https://soztheo.de/soziologie/schluesselwerke-der-soziologie/) (œuvres clés de la sociologie) &mdash; soztheo.de
+
+<!--t src=f57027ce-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/02-buecher.md)

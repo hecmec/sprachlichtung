@@ -26,3 +26,6 @@ Les sophismes sont des schémas d'argumentation erronés qui peuvent paraître c
 <!--t src=fb3ba8d8-->
 Dans ce chapitre, nous découvrirons différents types de sophismes, nous analyserons leur structure et nous élaborerons des stratégies pour les reconnaître dans les arguments d'autrui et les éviter dans les nôtres.\
 La compréhension des sophismes est une composante essentielle de la pensée critique et nous aide à déceler les tentatives de manipulation et à argumenter avec plus de précision.
+
+<!--t src=96479aae-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md)

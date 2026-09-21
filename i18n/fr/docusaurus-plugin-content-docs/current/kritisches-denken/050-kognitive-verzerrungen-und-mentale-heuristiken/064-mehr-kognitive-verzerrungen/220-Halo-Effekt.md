@@ -102,3 +102,6 @@ Un design haut de gamme, un prix élevé ou un verdict de test prestigieux amèn
 - Thorndike, E. L. (1920) : "A Constant Error in Psychological Ratings".
 - Nisbett, R. E. & Wilson, T. D. (1977) : "The Halo Effect: Evidence for Unconscious Alteration of Judgments".
 - Daniel Kahneman (2011) : Thinking, Fast and Slow. Chapitres consacrés aux biais de jugement.
+
+<!--t src=147b0790-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/220-Halo-Effekt.md)

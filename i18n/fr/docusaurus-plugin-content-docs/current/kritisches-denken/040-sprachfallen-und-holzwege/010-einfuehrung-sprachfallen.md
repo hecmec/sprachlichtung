@@ -102,3 +102,6 @@ Reconnaître les pièges du langage est la première étape pour les éviter. Da
 
 <!--t src=7b23aaf5-->
 À la fin de ce chapitre, tu seras capable de reconnaître les pièges du langage dans les arguments, les médias ou les conversations quotidiennes et de les contrer de manière ciblée.
+
+<!--t src=1e72c286-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/010-einfuehrung-sprachfallen.md)

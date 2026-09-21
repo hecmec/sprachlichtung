@@ -93,3 +93,6 @@ Attempts to suppress information often make it truly interesting and viral in th
 - Wikipedia: [Psychological reactance](https://en.wikipedia.org/wiki/Psychological_reactance)
 - Brehm, J. W. (1966): A theory of psychological reactance. Academic Press.
 - Cialdini, R. (2006): Influence: The Psychology of Persuasion &mdash; chapters on scarcity and reactance.
+
+<!--t src=d94c2005-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md)

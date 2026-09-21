@@ -114,3 +114,6 @@ The distinction between validity and soundness is important for critical thinkin
 3. It helps identify errors in argumentation more precisely:
    - Formal errors (invalidity)
    - Content errors (false premises)
+
+<!--t src=e05ad641-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/060-gueltigkeit-und-stichhaltigkeit.md)

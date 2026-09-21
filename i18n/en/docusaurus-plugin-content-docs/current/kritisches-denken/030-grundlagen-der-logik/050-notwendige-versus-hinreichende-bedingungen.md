@@ -93,3 +93,6 @@ Analysis:
 - Running fast is a necessary condition for being a good football player.
 - The fallacy consists in treating a necessary condition as sufficient.
 - Correct would be: Running fast is necessary, but not sufficient, to be a good football player.
+
+<!--t src=0c691e45-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)

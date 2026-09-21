@@ -98,3 +98,6 @@ Cela fonctionne aussi très bien en politique. Si vous répétez sans cesse une 
 - [Wikipédia : Heuristique de disponibilité](https://fr.wikipedia.org/wiki/Heuristique_de_disponibilit%C3%A9)
 - [Article original de Tversky et Kahneman (1973), _Availability: a Heuristic for Judging Frequency and Probability_](https://familyvest.com/wp-content/uploads/2019/02/TverskyKahneman73.pdf)
 - _Daniel Kahneman_ : Thinking, fast and slow. Allen Lane Paperback, 2011, chapitre 12 : The Science of Availability. (français : Système 1 / Système 2 : Les deux vitesses de la pensée)
+
+<!--t src=55e9888f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md)

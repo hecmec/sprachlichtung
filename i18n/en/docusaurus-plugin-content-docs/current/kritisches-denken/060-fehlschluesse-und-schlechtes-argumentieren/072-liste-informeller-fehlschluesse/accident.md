@@ -107,3 +107,6 @@ The rule „tell the truth“ does not cover this emergency. Its rigid applicati
 - [Wikipedia: Trugschluss der Akzidenz](https://de.wikipedia.org/wiki/Trugschluss_der_Akzidenz)
 - [Wikipedia: Accident (fallacy)](<https://en.wikipedia.org/wiki/Accident_(fallacy)>)
 - [Logically Fallacious: Accident Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Accident-Fallacy)
+
+<!--t src=c0d496e6-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/accident.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/accident.md)

@@ -156,3 +156,6 @@ L'analyse des actes de langage en général, et de l'affirmation comme acte de l
 - **J. L. Austin**, 🇩🇪 _Zur Theorie der Sprechakte_ (Reclam, 1972) / 🇬🇧 _How to Do Things with Words_ (1962) / 🇫🇷 _Quand dire, c'est faire_ (Seuil, 1970) : fonde la **théorie des actes de langage** et distingue les actes locutoire, illocutoire et perlocutoire, ainsi que les _conditions de réussite_ (misfires vs. abuses).
 - **John R. Searle**, 🇩🇪 _Sprechakte. Ein sprachphilosophischer Essay_ (Suhrkamp, 1971) / 🇬🇧 _Speech Acts_ (1969) / 🇫🇷 _Les actes de langage. Essai de philosophie du langage_ (Hermann, 1972) : systématise les **conditions de réussite** de l'affirmation (condition préliminaire, de sincérité, condition essentielle) et l'_ajustement_ entre le mot et le monde.
 - **Robert B. Brandom**, 🇩🇪 _Expressive Vernunft_ (Suhrkamp, 2000) / 🇬🇧 _Making It Explicit_ (1994) / 🇫🇷 _Rendre explicite_ (Cerf, 2010) : comprend l'affirmation comme un coup dans le **« jeu du donner et du demander des raisons »** : qui affirme s'engage et se rend redevable de justifications.
+
+<!--t src=f88f56b9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)

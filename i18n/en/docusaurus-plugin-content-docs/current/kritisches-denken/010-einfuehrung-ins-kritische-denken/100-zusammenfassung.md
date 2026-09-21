@@ -123,3 +123,6 @@ Critical thinking is the **ability to think reflectively and independently** as 
 :::tip Outlook
 In the following chapters, we deepen these fundamentals and provide you with practical tools to systematically develop your critical thinking skills.
 :::
+
+<!--t src=7f543ad7-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/100-zusammenfassung.md)

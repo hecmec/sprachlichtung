@@ -69,3 +69,6 @@ Identify the premises and conclusion in the following arguments. Also determine 
    Conclusion: "Hans is corrupt"
    Validity: Valid (categorical syllogism)
    Hidden assumptions: The truth of the first premise is questionable
+
+<!--t src=76618d81-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)

@@ -102,3 +102,6 @@ The structure allows it to be read as helping to "torture survivors". The opposi
 <!--t src=2dc43ca1-->
 
 - [Logically Fallacious: Amphiboly](https://www.logicallyfallacious.com/logicalfallacies/Amphiboly)
+
+<!--t src=53d648c9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/mehrdeutigkeitsfehler.md)

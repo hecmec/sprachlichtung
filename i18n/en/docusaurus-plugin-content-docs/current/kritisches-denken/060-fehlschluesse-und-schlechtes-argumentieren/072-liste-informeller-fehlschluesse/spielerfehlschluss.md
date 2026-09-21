@@ -98,3 +98,6 @@ The ball does not know the previous rounds. Black has not become more likely.
 <!--t src=b0ab2c29-->
 
 - [Logically Fallacious: The Gambler's Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Gambler-s-Fallacy)
+
+<!--t src=b3b0b79f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/spielerfehlschluss.md)

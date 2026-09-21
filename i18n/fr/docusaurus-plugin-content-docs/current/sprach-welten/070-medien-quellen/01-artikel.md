@@ -72,3 +72,6 @@ custom_translation_overwritten: false
 - 🇩🇪 [Gendergerechte Sprache &mdash; Ein Leitfaden](https://www.geschicktgendern.de/) (Le langage épicène en allemand : un guide) &mdash; geschicktgendern.de
 - 🇫🇷 [Écriture inclusive](https://fr.wikipedia.org/wiki/%C3%89criture_inclusive) &mdash; Wikipédia
 - 🇫🇷 [Sociolinguistique](https://fr.wikipedia.org/wiki/Sociolinguistique) &mdash; Wikipédia
+
+<!--t src=49987da2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/070-medien-quellen/01-artikel.md)

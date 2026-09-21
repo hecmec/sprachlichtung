@@ -95,3 +95,6 @@ Le vague se distingue de l'ambiguïté. Tandis que les expressions ambiguës ont
 
 <!--t src=8b1fd768-->
 4. **Conscience des problèmes sorites** : reconnaissez que de petits changements progressifs peuvent conduire à des catégories qualitativement différentes, et évitez les arguments fondés sur l'hypothèse que de petites différences ne sont jamais pertinentes.
+
+<!--t src=705e53d4-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md)

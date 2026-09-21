@@ -105,3 +105,6 @@ The lack of an exact wealth boundary does not refute that there are rich and poo
 <!--t src=76f88f96-->
 
 - [Logically Fallacious: Continuum Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Continuum-Fallacy)
+
+<!--t src=ea075d50-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/haufen-paradox.md)

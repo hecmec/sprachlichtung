@@ -105,3 +105,6 @@ Good-tasting ingredients do not necessarily add up to a good dish.
 
 - [Wikipedia: Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition)
 - [Logically Fallacious: Composition](https://www.logicallyfallacious.com/logicalfallacies/Composition)
+
+<!--t src=822e70c9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlschluss-der-komposition.md)

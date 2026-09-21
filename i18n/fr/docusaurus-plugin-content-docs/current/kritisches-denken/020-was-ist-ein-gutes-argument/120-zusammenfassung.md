@@ -74,3 +74,6 @@ Dans les chapitres suivants, nous explorerons d'autres aspects de la pensée cri
 
 <!--t src=50b7b280-->
 - 🇩🇪 [agumentation.online](https://argumentation.online) : une collection curatée de reconstructions d'arguments
+
+<!--t src=2189d79d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/120-zusammenfassung.md)

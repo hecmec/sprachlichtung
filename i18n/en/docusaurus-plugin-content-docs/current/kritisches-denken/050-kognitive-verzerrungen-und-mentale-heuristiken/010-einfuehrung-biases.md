@@ -1,5 +1,5 @@
 ---
-id: "010-einfuehrung-biases"
+id: 010-einfuehrung-biases
 title: Introduction
 sidebar_position: 10
 description: Introduction to cognitive biases and their impact on our thinking
@@ -56,3 +56,6 @@ In this chapter, we will explore what cognitive biases are, how they arise, and 
 - [Exercise: Recognizing cognitive biases in your own thought processes](./070-uebung-erkennen-kognitiver-verzerrungen.md)
 - [Summary](./080-zusammenfassung.md)
 - [Quiz: Cognitive biases and mental heuristics](./090-quiz-biases.md)
+
+<!--t src=9cebec92-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)

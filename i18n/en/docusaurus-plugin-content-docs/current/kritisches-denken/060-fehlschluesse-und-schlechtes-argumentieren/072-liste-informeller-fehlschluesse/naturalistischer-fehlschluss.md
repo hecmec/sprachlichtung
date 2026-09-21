@@ -103,3 +103,6 @@ That something occurs in nature does not make it morally required. The inference
 <!--t src=6aaada90-->
 
 - [Logically Fallacious: Appeal to Nature](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Nature)
+
+<!--t src=0a91de2d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/naturalistischer-fehlschluss.md)

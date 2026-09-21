@@ -123,3 +123,6 @@ A price is presented as:
 - [Wikipedia: Framing effect (psychology)](https://en.wikipedia.org/wiki/Framing_effect_(psychology))
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.
 - _Daniel Kahneman_: Thinking, Fast and Slow. Allen Lane, 2011.
+
+<!--t src=c58d6ed6-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md)

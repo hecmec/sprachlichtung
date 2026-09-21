@@ -71,3 +71,6 @@ So letting-be turns out to be a demanding practice of distinction. It is neither
 
 <!--t src=a1eac08c-->
 [^forst-toleranz]: Rainer Forst: _Toleranz im Konflikt. Geschichte, Gehalt und Gegenwart eines umstrittenen Begriffs_. Suhrkamp, Frankfurt a. M. 2003 (English _Toleration in Conflict_, Cambridge University Press 2013).
+
+<!--t src=bc12717e-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/050-sein-lassen.md)

@@ -71,3 +71,6 @@ Reflect on your observations:
 
 <!--t src=e4a0befe-->
 **Alternative Perspective**: Even if I disagree with the author's conclusion, some of the presented facts might be correct. I should check the sources of the statistics and consider whether there are valid points I should take into account.
+
+<!--t src=3a296846-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)

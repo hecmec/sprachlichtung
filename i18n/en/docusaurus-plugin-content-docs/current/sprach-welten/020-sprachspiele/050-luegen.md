@@ -212,3 +212,6 @@ Often the deception comes not as a smooth lie but as camouflaged language.
 - "extraordinary rendition" = abduction to torture states.
 - "collateral damage" = killed civilians.
 - "ethnic cleansing" — itself already a euphemistic term for expulsion/mass murder.
+
+<!--t src=10b30be2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/050-luegen.md)

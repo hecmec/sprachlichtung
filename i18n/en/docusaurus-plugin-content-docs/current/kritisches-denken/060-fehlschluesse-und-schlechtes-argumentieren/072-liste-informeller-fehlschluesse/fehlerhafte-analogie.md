@@ -108,3 +108,6 @@ Transferring the medical imagery to society presupposes a comparability that is 
 
 - [Wikipedia: False analogy](https://en.wikipedia.org/wiki/Argument_from_analogy#False_analogy)
 - [Logically Fallacious: Weak Analogy](https://www.logicallyfallacious.com/logicalfallacies/Faulty-Analogy)
+
+<!--t src=bd3c6553-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/fehlerhafte-analogie.md)

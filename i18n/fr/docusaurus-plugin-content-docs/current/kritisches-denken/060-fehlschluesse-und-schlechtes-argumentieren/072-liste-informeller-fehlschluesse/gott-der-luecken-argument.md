@@ -94,3 +94,6 @@ De l'absence de savoir sur la cause ne découle aucune instance planificatrice.
 - [Wikipédia (fr) : Dieu des lacunes](https://fr.wikipedia.org/wiki/Dieu_des_lacunes)
 - [Wikipedia: God of the gaps](https://en.wikipedia.org/wiki/God_of_the_gaps)
 - [Logically Fallacious: God of the Gaps](https://www.logicallyfallacious.com/logicalfallacies/God-of-the-Gaps)
+
+<!--t src=025c506c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/gott-der-luecken-argument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/gott-der-luecken-argument.md)

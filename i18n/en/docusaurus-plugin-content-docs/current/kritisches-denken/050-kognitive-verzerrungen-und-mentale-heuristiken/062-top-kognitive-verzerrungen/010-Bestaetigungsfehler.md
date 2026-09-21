@@ -104,3 +104,6 @@ He quotes only the first half of studies and stops reading as soon as the data b
 
 <!--t src=b4d4d3c6-->
 [Wikipedia: Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)
+
+<!--t src=8a3e7266-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md)

@@ -109,3 +109,6 @@ Reconnaître les hypothèses cachées est important pour la pensée critique, po
 
 <!--t src=443d9aa3-->
 4. Cela permet une critique plus précise, en identifiant exactement quelles hypothèses sont problématiques.
+
+<!--t src=f62b5d01-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/070-versteckte-annahmen.md)

@@ -96,3 +96,6 @@ Le renvoi à la Chine ne répond pas à la question du tri des déchets, il l'es
 - [Wikipédia : Hareng rouge (rhétorique)](<https://fr.wikipedia.org/wiki/Hareng_rouge_(rhétorique)>)
 - [Wikipedia: Red herring (fallacy)](https://en.wikipedia.org/wiki/Red_herring)
 - [Logically Fallacious: Red Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)
+
+<!--t src=edad2da6-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/ablenkung-red-herring.md)

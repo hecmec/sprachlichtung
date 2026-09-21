@@ -104,3 +104,6 @@ How inconvenient a consequence would be does not decide whether the underlying f
 
 - [Wikipedia: Wishful thinking](https://en.wikipedia.org/wiki/Wishful_thinking)
 - [Logically Fallacious: Wishful Thinking](https://www.logicallyfallacious.com/logicalfallacies/Wishful-Thinking)
+
+<!--t src=38ee72af-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md)

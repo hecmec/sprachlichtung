@@ -260,3 +260,6 @@ Les informations des prémisses ne suffisent toutefois pas à exclure des animau
   <text id="svg_17" font-size="16" y="395" x="200">S (Mammifères)</text>
  </g>
 </svg>
+
+<!--t src=44df2b3d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)

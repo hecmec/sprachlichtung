@@ -142,3 +142,6 @@ Les prémisses sont douteuses et la logique défectueuse, mais beaucoup de gens 
 - Evans, J. St. B. T. (2002). Logic and human reasoning: An assessment of the deduction paradigm.
 - Klauer, K. C., Musch, J., & Naumer, B. (2000). On belief bias in syllogistic reasoning.
 - Markovits, H., & Nantel, G. (1989). The belief-bias effect in the production and evaluation of logical conclusions.
+
+<!--t src=0816e453-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/160-Ueberzeugungsbias.md)

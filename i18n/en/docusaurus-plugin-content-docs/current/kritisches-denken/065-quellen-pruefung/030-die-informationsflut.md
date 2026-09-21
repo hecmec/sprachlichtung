@@ -81,3 +81,6 @@ The most dangerous false report is the one we _want_ to believe. Precisely with 
 
 <!--t src=8316e077-->
 How this checking works in practice is shown on the next page, with the simplest and most effective method there is for it.
+
+<!--t src=5cfb7d4b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/030-die-informationsflut.md)

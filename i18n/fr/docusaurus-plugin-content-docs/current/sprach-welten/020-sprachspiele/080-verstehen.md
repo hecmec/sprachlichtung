@@ -113,3 +113,6 @@ La compréhension remplit des fonctions sociales essentielles :
 
 <!--t src=eae09935-->
 Dans un monde pluraliste et globalisé, le jeu de langage de la compréhension devient une compétence clé d'une vie commune réussie. Il reste toutefois un défi paradoxal : malgré tous nos efforts, nous ne pouvons jamais nous mettre entièrement dans la peau d'autrui, et c'est précisément cette conscience de l'incomplétude qui fait partie de la véritable compréhension.
+
+<!--t src=c05f5729-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/080-verstehen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/080-verstehen.md)

@@ -109,3 +109,6 @@ Les fondateurs à succès dévoilent leurs méthodes dans des podcasts et des li
 
 <!--t src=58b63e27-->
 ---
+
+<!--t src=62bbee03-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md)

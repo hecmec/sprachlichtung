@@ -102,3 +102,6 @@ La fièvre peut avoir de nombreuses autres causes. L'inférence de l'effet (la f
 - [Wikipedia : Affirmation du conséquent](https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent)
 - [Wikipedia: Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 - [Logically Fallacious: Affirming the Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)
+
+<!--t src=4109e58d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-affirmation-der-konsequenz.md)

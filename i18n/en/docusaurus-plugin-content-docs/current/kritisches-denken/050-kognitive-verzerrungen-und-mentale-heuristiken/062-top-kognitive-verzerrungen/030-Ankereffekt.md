@@ -91,3 +91,6 @@ If a random or obviously wrong number is mentioned before an estimate, later ans
 - [Wikipedia: Anchoring (cognitive bias)](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias))
 - Tversky & Kahneman (1974): "Judgment under Uncertainty: Heuristics and Biases".
 - Chapman & Johnson (1999): "Anchoring, Activation, and the Construction of Values".
+
+<!--t src=4896dbb9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md)

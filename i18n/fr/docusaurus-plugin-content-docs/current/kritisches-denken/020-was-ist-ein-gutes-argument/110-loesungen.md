@@ -74,3 +74,6 @@ custom_translation_overwritten: false
 - **Type d'argument** : déductif (tente d'être un modus ponens, mais commet le sophisme de l'affirmation du conséquent)
 - **Force** : faible &mdash; logiquement invalide, car il peut y avoir d'autres causes à la fonte de la neige (p. ex. des températures douces sans soleil direct, la pluie, des sources de chaleur artificielles).
 - **Améliorations possibles** : reformuler en un argument abductif : « La neige fond. Une explication possible est que le soleil brille. En l'absence d'autres facteurs, c'est probablement le soleil qui brille. »
+
+<!--t src=f6dfc6a2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)

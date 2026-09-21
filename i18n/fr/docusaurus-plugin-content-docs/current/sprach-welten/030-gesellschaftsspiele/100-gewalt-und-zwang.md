@@ -65,3 +65,6 @@ Mais le regard critique ne s'achève pas dans une humilité stoïcienne. Beaucou
 
 <!--t src=431c5c55-->
 [^benjamin]: 🇩🇪 Walter Benjamin : _Zur Kritik der Gewalt_ (1921), in : _Gesammelte Schriften_, t. II.1, Suhrkamp, Francfort-sur-le-Main 1977 : sur la distinction entre violence fondatrice de droit et violence conservatrice de droit ; en français 🇫🇷 « Critique de la violence », in _Œuvres I_, Gallimard, Paris 2000.
+
+<!--t src=0085fae0-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md)

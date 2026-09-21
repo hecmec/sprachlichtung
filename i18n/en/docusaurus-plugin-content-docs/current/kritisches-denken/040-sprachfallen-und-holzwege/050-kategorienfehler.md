@@ -92,3 +92,6 @@ Here, an abstract concept (freedom) is treated as if it could possess a physical
 
 <!--t src=57e2648d-->
 4. **Critical Questioning**: Examine whether questions or problems might be based on categorical confusions.
+
+<!--t src=c2236398-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)

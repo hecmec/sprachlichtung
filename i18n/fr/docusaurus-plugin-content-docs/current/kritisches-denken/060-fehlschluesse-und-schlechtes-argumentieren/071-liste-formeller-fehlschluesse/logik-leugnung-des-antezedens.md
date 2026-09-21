@@ -102,3 +102,6 @@ On peut aussi être malade sans fièvre (p. ex. en cas de fracture osseuse). L'a
 - [Wikipédia : Négation de l'antécédent](https://fr.wikipedia.org/wiki/N%C3%A9gation_de_l%27ant%C3%A9c%C3%A9dent)
 - [Wikipedia: Denying the antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)
 - [Logically Fallacious: Denying the Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)
+
+<!--t src=e33edc9c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-leugnung-des-antezedens.md)

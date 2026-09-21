@@ -105,3 +105,6 @@ The selection produces a distorted picture of the state of research.
 <!--t src=7dc63485-->
 - [Wikipedia: Cherry picking (fallacy)](https://en.wikipedia.org/wiki/Cherry_picking)
 - [Logically Fallacious: Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)
+
+<!--t src=a9bb5c55-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md)

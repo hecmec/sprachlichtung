@@ -111,3 +111,6 @@ Even if money were a necessary condition, it would not be enough. The necessary 
 <!--t src=aff51236-->
 
 - [Logically Fallacious: Confusing Necessary with Sufficient Conditions](https://www.logicallyfallacious.com/logicalfallacies/Confusing-a-Necessary-Condition-with-a-Sufficient-Condition)
+
+<!--t src=07b1b509-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/verwechslung-notwendiger-und-hinreichender-bedingungen.md)

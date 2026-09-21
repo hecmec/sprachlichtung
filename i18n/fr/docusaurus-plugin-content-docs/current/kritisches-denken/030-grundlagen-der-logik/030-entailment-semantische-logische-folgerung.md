@@ -138,3 +138,6 @@ Comprendre l'entailment est essentiel pour la pensée critique, car cela nous ai
 <!--t src=23ba7c5a-->
 - [Dérivation (logique)](https://de.wikipedia.org/wiki/Ableitung_(Logik)), Wikipédia
 - [Conséquence logique](https://fr.wikipedia.org/wiki/Cons%C3%A9quence_logique), Wikipédia
+
+<!--t src=a053eb58-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/030-entailment-semantische-logische-folgerung.md)

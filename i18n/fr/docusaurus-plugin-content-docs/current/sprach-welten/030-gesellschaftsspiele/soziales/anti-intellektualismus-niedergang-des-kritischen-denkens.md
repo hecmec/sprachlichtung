@@ -18,8 +18,8 @@ translation_status: auto
 custom_translation_overwritten: false
 ---
 
-<!--t src=46700c51-->
-Ceci est le résumé d'une très bonne vidéo sur l'anti-intellectualisme et les dangers qu'il représente pour nos sociétés démocratiques.
+<!--t src=9cdf24bc-->
+**Ceci est le résumé** d'une très bonne vidéo sur l'anti-intellectualisme et les dangers qu'il représente pour nos sociétés démocratiques.
 
 <!--t src=d3eb582b-->
 La vidéo est en anglais. Nous en reprenons ici les points les plus importants en français.
@@ -84,3 +84,6 @@ Pas de résolution nette : elle trouve la situation frustrante et ignore si elle
 <!--t src=cd87f3a9-->
 - Être critique envers les médias et les apprécier sont compatibles (elle en est la preuve).
 - Méfiez-vous de quiconque revendique une vérité absolue sans laisser de place au questionnement, car **les intellectuels questionnent toujours**.
+
+<!--t src=2f23e06b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)
