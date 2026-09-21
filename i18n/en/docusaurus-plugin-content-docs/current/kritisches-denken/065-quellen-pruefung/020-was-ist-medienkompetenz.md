@@ -74,3 +74,6 @@ Three developments make MIL especially urgent today:
 
 <!--t src=bb37cfdd-->
 Media literacy is thus no longer a specialist discipline for journalists, but an **everyday skill** like reading and arithmetic.
+
+<!--t src=aa5d7a83-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/020-was-ist-medienkompetenz.md)

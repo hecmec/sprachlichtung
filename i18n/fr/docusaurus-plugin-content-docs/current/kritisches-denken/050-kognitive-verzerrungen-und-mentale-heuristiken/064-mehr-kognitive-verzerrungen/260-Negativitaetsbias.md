@@ -96,3 +96,6 @@ Un seul commentaire 1 étoile influence la décision d'achat plus que de nombreu
 - Wikipédia : [Biais de négativité](https://fr.wikipedia.org/wiki/Biais_de_n%C3%A9gativit%C3%A9)
 - Baumeister, R. F. et al. (2001). "Bad is stronger than good". Review of General Psychology.
 - Kahneman, D. & Tversky, A. : théorie des perspectives (Prospect Theory) et aversion à la perte.
+
+<!--t src=b642e509-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/260-Negativitaetsbias.md)

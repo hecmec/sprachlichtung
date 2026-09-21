@@ -95,3 +95,6 @@ Short-term trading is often pursued with the conviction of having the market "un
 - [Wikipedia: Illusion of control](https://en.wikipedia.org/wiki/Illusion_of_control)
 - Langer, E. J. (1975): "The illusion of control". Journal of Personality and Social Psychology, 32(2).
 - Daniel Kahneman: Thinking, Fast and Slow.
+
+<!--t src=3a9cf644-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/210-Kontrollillusion.md)

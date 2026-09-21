@@ -85,3 +85,6 @@ Vous trouverez ici toutes les sources sur lesquelles s'appuie ce chapitre consac
 - 🇬🇧 [Introduction to College Research: Disinformation & Fact-Checking](https://pressbooks.pub/introtocollegeresearch/part/introduction/). Un excellent livre en ligne sur l'éducation aux médias et la critique des sources (_information literacy skills_), sous licence libre (REL, CC BY).
 - 🇫🇷 [European Journalism Observatory](https://fr.ejo.ch/). Un portail spécialisé en journalisme qui rend accessibles la recherche sur les médias et les tendances du secteur, et permet de jeter un regard dans les coulisses de l'information.
 - 🇩🇪 [European Journalism Observatory](https://de.ejo-online.eu/). La version germanophone du même portail.
+
+<!--t src=c7336ce3-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/130-quellen-medienkompetenz.md)

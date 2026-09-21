@@ -108,3 +108,6 @@ Dans les exemples suivants, identifiez le type de piège du langage (ambiguïté
 10. **Erreur de catégorie**
     - Problème : on attribue à l'évolution une intention ou un objectif.
     - Amélioration : « Le processus d'évolution conduit, par la sélection naturelle, à des organismes mieux adaptés à leur environnement. »
+
+<!--t src=50467185-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/070-uebung-identifizierung-und-korrektur-von-sprachfallen.md)

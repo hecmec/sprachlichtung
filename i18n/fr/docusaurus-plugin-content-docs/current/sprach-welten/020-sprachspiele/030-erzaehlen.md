@@ -97,3 +97,6 @@ Raconter remplit des fonctions sociales fondamentales :
 
 <!--t src=5a64f363-->
 En définitive, les sociétés humaines sont imprégnées de récits : depuis les grands « métarécits » culturels jusqu'aux petites histoires du quotidien. Dans la capacité à raconter et à comprendre des histoires réside une clé de la coopération humaine et de l'évolution culturelle. En même temps, garder une distance critique envers les narratifs qui nous entourent et nous façonnent demeure une tâche centrale d'une pensée réfléchie.
+
+<!--t src=1d171096-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/030-erzaehlen.md)

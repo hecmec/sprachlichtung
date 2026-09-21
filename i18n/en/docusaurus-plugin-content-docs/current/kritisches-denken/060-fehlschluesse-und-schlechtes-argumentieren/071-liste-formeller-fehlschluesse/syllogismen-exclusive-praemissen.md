@@ -115,3 +115,6 @@ From two negations nothing follows. That hydrogen is not a noble gas says nothin
 
 - [Wikipedia: Fallacy of exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises)
 - [Logically Fallacious: Exclusive Premises](https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises)
+
+<!--t src=b19c79d4-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md)

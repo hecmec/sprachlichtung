@@ -156,3 +156,6 @@ The analysis of speech acts in general, and of asserting as a linguistic act in 
 - **J. L. Austin**, _How to Do Things with Words_ (1962; German _Zur Theorie der Sprechakte_, Reclam 1972). — Founds **speech act theory** and distinguishes the locutionary, illocutionary and perlocutionary act, as well as the _felicity conditions_ (misfires vs. abuses).
 - **John R. Searle**, _Speech Acts_ (1969; German _Sprechakte. Ein sprachphilosophischer Essay_, Suhrkamp 1971). — Systematizes the **felicity conditions** of asserting (preparatory, sincerity and essential condition) and the _direction of fit_ between word and world.
 - **Robert B. Brandom**, _Making It Explicit_ (1994; German _Expressive Vernunft_, Suhrkamp 2000). — Understands asserting as a move in the **"game of giving and asking for reasons"**: whoever asserts undertakes a commitment for which reasons can be demanded.
+
+<!--t src=f88f56b9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)

@@ -75,3 +75,6 @@ custom_translation_overwritten: false
 - **Type of argument**: Deductive (attempts to be modus ponens, but commits the fallacy of affirming the consequent)
 - **Strength**: Weak &mdash; logically invalid, since there can be other causes of melting snow (e.g. warm temperatures without direct sunshine, rain, artificial heat sources).
 - **Possible improvements**: Reformulate it as an abductive argument: "The snow is melting. One possible explanation is that the sun is shining. If no other factors are present, the sun is probably shining."
+
+<!--t src=f6dfc6a2-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/110-loesungen.md)

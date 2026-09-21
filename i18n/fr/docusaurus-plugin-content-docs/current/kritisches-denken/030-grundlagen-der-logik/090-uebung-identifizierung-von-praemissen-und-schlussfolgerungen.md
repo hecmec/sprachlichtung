@@ -72,3 +72,6 @@ Dans les arguments suivants, identifiez les prémisses et la conclusion. Déterm
    Conclusion : « Hans est corrompu »
    Validité : valide (syllogisme catégorique)
    Hypothèses cachées : la vérité de la première prémisse est douteuse
+
+<!--t src=76618d81-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/090-uebung-identifizierung-von-praemissen-und-schlussfolgerungen.md)

@@ -91,3 +91,6 @@ Si l'on énonce un nombre aléatoire ou manifestement faux avant une estimation,
 - [Wikipédia : Ancrage (psychologie)](https://fr.wikipedia.org/wiki/Ancrage_(psychologie))
 - Tversky & Kahneman (1974) : "Judgment under Uncertainty: Heuristics and Biases".
 - Chapman & Johnson (1999) : "Anchoring, Activation, and the Construction of Values".
+
+<!--t src=4896dbb9-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/030-Ankereffekt.md)

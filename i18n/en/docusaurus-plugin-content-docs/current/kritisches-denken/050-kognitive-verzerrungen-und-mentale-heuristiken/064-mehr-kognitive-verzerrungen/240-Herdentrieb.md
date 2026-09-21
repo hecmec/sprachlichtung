@@ -119,3 +119,6 @@ Trends spread through imitation; avoidance of social costs leads to conformity, 
 - Asch, S. E. (1951): Effects of group pressure upon the modification and distortion of judgments.
 - Banerjee, A. V. (1992): A Simple Model of Herd Behavior. Quarterly Journal of Economics.
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992): A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. Journal of Political Economy.
+
+<!--t src=a6ed906f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/240-Herdentrieb.md)

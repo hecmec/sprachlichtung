@@ -72,3 +72,6 @@ Whoever wants to judge in a self-determined way therefore asks: who owns the win
 
 <!--t src=4c575a8b-->
 [^wind]: Data on wind power at the [German Environment Agency – Renewable Energies](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) and at [Fraunhofer ISE](https://www.ise.fraunhofer.de/); the current share in the electricity mix is shown by the [Energy-Charts](https://www.energy-charts.info/). Long-term trends at [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=58608174-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/050-windenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/050-windenergie.md)

@@ -147,3 +147,6 @@ Critical thinking also fosters **humanity** and **empathy** by teaching us to un
 <!--t src=bf64dc33-->
 
 This is an aspect that is often overlooked, but that is becoming ever more important in today's globalized world.
+
+<!--t src=3137598c-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)

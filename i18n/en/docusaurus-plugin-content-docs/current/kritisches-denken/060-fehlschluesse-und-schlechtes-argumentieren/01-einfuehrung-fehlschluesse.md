@@ -26,3 +26,6 @@ Fallacies are flawed patterns of argument that can seem convincing at first glan
 
 In this chapter we will get to know various types of fallacies, analyse their structure and develop strategies for recognising them in other people's arguments and avoiding them in our own.\
 Understanding fallacies is an essential part of critical thinking and helps us to see through attempts at manipulation and to argue more precisely.
+
+<!--t src=96479aae-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/01-einfuehrung-fehlschluesse.md)

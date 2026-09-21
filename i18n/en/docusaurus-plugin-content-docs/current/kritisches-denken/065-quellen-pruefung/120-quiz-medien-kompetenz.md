@@ -129,3 +129,6 @@ custom_translation_overwritten: false
 8. b) An experienced user has checked the version for obvious vandalism
 9. c) A reverse image search
 10. b) A commitment to the IFCN code
+
+<!--t src=2a69da4f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/120-quiz-medien-kompetenz.md)

@@ -81,3 +81,6 @@ custom_translation_overwritten: false
 3. c) Langage chargé
 4. b) « La démocratie est en colère contre les résultats électoraux. »
 5. b) Définition stipulative
+
+<!--t src=8930bf81-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md)

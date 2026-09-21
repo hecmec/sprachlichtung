@@ -1,5 +1,5 @@
 ---
-id: "010-einfuehrung-biases"
+id: 010-einfuehrung-biases
 title: Introduction
 sidebar_label: Introduction aux biais cognitifs
 sidebar_position: 10
@@ -60,3 +60,6 @@ Dans ce chapitre, nous allons examiner ce que sont les biais cognitifs, comment 
 - [Exercice : reconnaître les biais cognitifs dans ses propres processus de pensée](./070-uebung-erkennen-kognitiver-verzerrungen.md)
 - [Résumé](./080-zusammenfassung.md)
 - [Quiz : les biais cognitifs et les heuristiques mentales](./090-quiz-biases.md)
+
+<!--t src=9cebec92-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/010-einfuehrung-biases.md)

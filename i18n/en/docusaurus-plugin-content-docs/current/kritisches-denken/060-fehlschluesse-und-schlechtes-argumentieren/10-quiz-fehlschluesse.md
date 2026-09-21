@@ -78,3 +78,6 @@ custom_translation_overwritten: false
 3. c) Slippery slope
 4. b) Affirming the consequent
 5. b) Composition
+
+<!--t src=a72a7fcc-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/10-quiz-fehlschluesse.md)

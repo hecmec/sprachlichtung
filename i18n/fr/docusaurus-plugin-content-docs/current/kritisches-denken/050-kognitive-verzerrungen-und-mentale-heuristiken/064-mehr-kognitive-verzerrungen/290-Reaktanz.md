@@ -94,3 +94,6 @@ Les tentatives de supprimer une information ne font souvent que la rendre vraime
 - Wikipédia : [Réactance (psychologie)](https://fr.wikipedia.org/wiki/R%C3%A9actance_(psychologie))
 - Brehm, J. W. (1966) : A theory of psychological reactance. Academic Press.
 - Cialdini, R. (2006) : Influence: The Psychology of Persuasion &mdash; chapitre sur la rareté et la réactance.
+
+<!--t src=d94c2005-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/290-Reaktanz.md)

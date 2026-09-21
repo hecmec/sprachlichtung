@@ -76,3 +76,6 @@ La pensée critique est un processus systématique qui peut comporter les étape
 <!--t src=5188da66-->
 - Qu'avons-nous appris de ce processus ?
 - Comment pouvons-nous améliorer notre processus de pensée ?
+
+<!--t src=a5a94530-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/060-der-prozess-des-kritischen-denkens.md)

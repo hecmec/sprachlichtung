@@ -259,3 +259,6 @@ The information in the premises is not sufficient, however, to rule out animals 
   <text id="svg_17" font-size="16" y="395" x="200">S (mammals)</text>
  </g>
 </svg>
+
+<!--t src=44df2b3d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/03-formale-fehlschluesse.md)

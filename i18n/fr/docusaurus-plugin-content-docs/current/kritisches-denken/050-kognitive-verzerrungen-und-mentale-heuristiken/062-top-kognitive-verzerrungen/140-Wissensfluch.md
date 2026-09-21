@@ -112,3 +112,6 @@ Du jargon financier ou juridique dans les courriels et les rapports ; les équip
 - [Wikipédia : Malédiction de la connaissance](https://fr.wikipedia.org/wiki/Mal%C3%A9diction_de_la_connaissance)
 - Heath, C., & Heath, D. (2007). Made to Stick — chapitre : la malédiction du savoir.
 - Kahneman, D. (2011). Système 1 / Système 2 : Les deux vitesses de la pensée — passages sur les pièges de la communication.
+
+<!--t src=c22c9f31-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/140-Wissensfluch.md)

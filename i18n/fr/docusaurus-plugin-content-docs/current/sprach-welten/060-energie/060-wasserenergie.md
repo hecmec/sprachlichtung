@@ -75,3 +75,6 @@ Qui regarde de près s'interroge donc sur le cas concret : qu'est-ce qui est ino
 
 <!--t src=254c95ba-->
 [^wasser]: Notions de base et données sur l'énergie hydraulique chez 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et chez 🇫🇷 l'[ADEME](https://www.ademe.fr/) ; sur la part dans le mix électrique, voir 🇩🇪 les [Energy-Charts (Fraunhofer ISE)](https://www.energy-charts.info/), 🇫🇷 [RTE éCO2mix](https://www.rte-france.com/eco2mix) et 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=4182b416-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/060-wasserenergie.md)

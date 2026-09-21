@@ -75,3 +75,6 @@ La leçon émancipatrice est simple : ne vous laissez pas endormir par les étiq
 
 <!--t src=e003676f-->
 [^energie-wiki]: Notions de base sur la photosynthèse, la biomasse et la bioénergie, entre autres chez 🇫🇷 « Biomasse (énergie) », dans : Wikipédia, [fr.wikipedia.org/wiki/Biomasse_(énergie)](<https://fr.wikipedia.org/wiki/Biomasse_(%C3%A9nergie)>) et 🇩🇪 « Biomasse », dans : Wikipedia, [de.wikipedia.org/wiki/Biomasse](https://de.wikipedia.org/wiki/Biomasse), ainsi qu'auprès de 🇩🇪 l'[Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) et de 🇫🇷 l'[ADEME](https://www.ademe.fr/). Sur le débat de « l'assiette ou le réservoir », voir 🇬🇧 [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=7d8d5b4b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md)

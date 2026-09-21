@@ -69,3 +69,6 @@ Precisely in this lies the emancipatory value of this chapter. Whoever understan
 
 <!--t src=8591b496-->
 [^gezeiten]: Background on tides and tidal energy e.g. at "Tidal power," in: Wikipedia, [en.wikipedia.org/wiki/Tidal_power](https://en.wikipedia.org/wiki/Tidal_power). Context in the worldwide energy mix at [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=b64fafce-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md)

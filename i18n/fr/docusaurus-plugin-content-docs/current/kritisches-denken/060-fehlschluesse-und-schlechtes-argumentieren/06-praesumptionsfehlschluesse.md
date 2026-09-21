@@ -116,3 +116,6 @@ Ce sophisme prétend qu'une chose doit être vraie parce qu'elle n'a pas été p
 
 <!--t src=53561c51-->
 **Pourquoi est-ce erroné ?** L'absence de preuves contre une affirmation n'est pas une preuve en faveur de cette affirmation. La charge de la preuve incombe à celui qui formule une affirmation positive.
+
+<!--t src=ef29736b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md)

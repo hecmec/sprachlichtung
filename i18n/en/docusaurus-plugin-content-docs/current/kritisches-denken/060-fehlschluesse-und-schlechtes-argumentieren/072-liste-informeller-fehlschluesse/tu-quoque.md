@@ -108,3 +108,6 @@ Even if the counter-charge were true, it would not invalidate the original criti
 <!--t src=22473f97-->
 
 - [Logically Fallacious: Tu Quoque](https://www.logicallyfallacious.com/logicalfallacies/Tu-Quoque)
+
+<!--t src=07d6b232-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md)

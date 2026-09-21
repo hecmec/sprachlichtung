@@ -92,3 +92,6 @@ Le renvoi à un prétendu savoir commun remplace l'argument qui devrait pourtant
 <!--t src=88b91c2d-->
 - [Wikipédia : Argumentum ad populum](https://fr.wikipedia.org/wiki/Argumentum_ad_populum)
 - [Logically Fallacious: Appeal to the People](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
+
+<!--t src=f0efeccc-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/argumentum-ad-populum.md)

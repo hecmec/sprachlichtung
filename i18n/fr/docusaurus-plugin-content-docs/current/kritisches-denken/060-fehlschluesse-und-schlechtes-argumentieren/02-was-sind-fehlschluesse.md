@@ -79,3 +79,6 @@ Nous rencontrons surtout ces sophismes formels dans les argumentations censées 
 
 <!--t src=282d5984-->
 Dans ce qui suit, nous examinerons les principaux sophismes de chaque catégorie.
+
+<!--t src=0ca03c70-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)

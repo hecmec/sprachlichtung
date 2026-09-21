@@ -796,3 +796,6 @@ Ce sociologue étudie pourquoi les erreurs, les théories du complot et les faus
 
 <!--t src=5023f167-->
 [^gegen-sokal]: Le livre n'est pas resté lui non plus sans contradicteurs. Des critiques ont reproché aux auteurs d'arracher des citations à leur contexte, de prendre des métaphores au pied de la lettre et de conclure d'un canular isolé à des disciplines entières. Sokal et Bricmont soulignent eux-mêmes qu'ils ne jugent pas la pensée des auteurs cités dans son ensemble, mais seulement l'usage abusif de notions scientifiques. Le débat est ainsi lui-même une leçon : les deux camps doivent accepter l'examen qu'ils exigent de l'autre.
+
+<!--t src=54aff685-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/010-philosophie/030-geschichte-und-quellen-des-kritischen-denkens.md)

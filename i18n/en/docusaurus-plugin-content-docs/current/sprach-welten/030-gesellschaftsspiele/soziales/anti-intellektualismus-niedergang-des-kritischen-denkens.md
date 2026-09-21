@@ -18,8 +18,8 @@ translation_status: auto
 custom_translation_overwritten: false
 ---
 
-<!--t src=46700c51-->
-This is a summary of a very good video about anti-intellectualism and the dangers for our democratic societies.
+<!--t src=9cdf24bc-->
+**This is a summary** of a very good video about anti-intellectualism and the dangers for our democratic societies.
 
 <!--t src=d3eb582b-->
 The video is in English. The most important points are reproduced here.
@@ -84,3 +84,6 @@ No neat resolution — she finds the situation frustrating and doesn't know if i
 <!--t src=cd87f3a9-->
 - Being critical of media and enjoying it are compatible (she is proof).
 - Be wary of anyone claiming absolute truth who leaves no room for questioning — because **intellectuals always question**.
+
+<!--t src=2f23e06b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/anti-intellektualismus-niedergang-des-kritischen-denkens.md)

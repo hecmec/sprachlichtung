@@ -113,3 +113,6 @@ The language game of seduction fulfils complex social functions:
 
 <!--t src=32518756-->
 In its constructive form, seduction can help people to overcome self-imposed boundaries, make new experiences and break out of stuck patterns. The ambivalence of seduction &mdash; between liberating breakout and manipulative overwhelming &mdash; makes it one of the most fascinating and ethically most complex language games we know.
+
+<!--t src=6a9be081-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/070-verfuehren.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/070-verfuehren.md)

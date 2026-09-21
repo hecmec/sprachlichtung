@@ -70,3 +70,6 @@ An honest judgment holds both: nuclear power is neither the end of the world nor
 
 <!--t src=b65cf23a-->
 [^nuklear]: Factual overviews of nuclear power, risks and waste e.g. at the [German Environment Agency (Umweltbundesamt)](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien) and at "Nuclear power," in: Wikipedia, [en.wikipedia.org/wiki/Nuclear_power](https://en.wikipedia.org/wiki/Nuclear_power). Figures on the share and deaths per energy form at [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+<!--t src=bcaa5172-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/090-nuklearenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/090-nuklearenergie.md)

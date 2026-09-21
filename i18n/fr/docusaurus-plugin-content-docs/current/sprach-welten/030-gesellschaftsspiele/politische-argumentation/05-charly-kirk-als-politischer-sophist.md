@@ -349,3 +349,6 @@ Il semble ignorer que **la plupart des climatologues ne sont pas marxistes** et 
 [5]: https://www.journaldemontreal.com/2025/09/10/qui-ist-charlie-kirk-le-controverse-influenceur-pro-trump-atteint-par-balle-au-cou "Qui est Charlie Kirk, le controversé influenceur pro-Trump tué par balle? | JDM"
 [6]: https://twitter.com/i/grok/share/08fPPyozhw8cpBmd8muw16KQU "X"
 [7]: https://science.feedback.org/review/in-viral-turning-point-usa-video-candace-owens-and-charlie-kirk-falsely-claim-there-is-no-evidence-of-global-warming-and-scientists-dont-know-the-cause/ "In viral Turning Point USA video, Candace Owens and Charlie Kirk falsely claim there is no evidence of global warming and scientists don’t know the cause - Science Feedback"
+
+<!--t src=2fb1488d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/05-charly-kirk-als-politischer-sophist.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/05-charly-kirk-als-politischer-sophist.md)

@@ -125,3 +125,6 @@ Prévue pour 77 millions d'euros (2007), coût final : 866 millions d'euros. Cha
 - [Wikipedia: Sunk Cost](https://en.wikipedia.org/wiki/Sunk_cost)
 - Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes.
 - Heath, C. (1995). Escalation and de-escalation of commitment in response to sunk costs.
+
+<!--t src=87c77827-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/150-Versunkene-Kosten-Falle.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/150-Versunkene-Kosten-Falle.md)

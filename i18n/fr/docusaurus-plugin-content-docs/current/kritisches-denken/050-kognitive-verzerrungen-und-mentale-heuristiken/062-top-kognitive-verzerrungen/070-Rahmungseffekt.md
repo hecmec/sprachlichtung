@@ -124,3 +124,6 @@ Un prix est présenté comme :
 - [Wikipédia : Effet de cadrage](https://fr.wikipedia.org/wiki/Effet_de_cadrage)
 - Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.
 - _Daniel Kahneman_ : Thinking, fast and slow. Allen Lane Paperback, 2011 (français : Système 1 / Système 2 : Les deux vitesses de la pensée)
+
+<!--t src=c58d6ed6-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/070-Rahmungseffekt.md)

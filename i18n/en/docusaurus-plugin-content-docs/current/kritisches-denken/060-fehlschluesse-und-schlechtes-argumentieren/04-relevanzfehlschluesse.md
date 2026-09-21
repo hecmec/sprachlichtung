@@ -124,3 +124,6 @@ This fallacy distracts from the actual question or argument by introducing an ir
 
 <!--t src=3967172b-->
 **Why is this flawed?** Instead of addressing the criticism of the tax policy, a completely different topic (education policy) is introduced in order to distract.
+
+<!--t src=1082f86b-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)

@@ -143,3 +143,6 @@ Exemples :
 - Un athlète qui ne se vante pas après une victoire, mais qui ne renie pas non plus sa performance.
 - Une dirigeante qui n'agit ni avec une aversion excessive au risque ni de manière inconsidérée, mais qui décide de façon pondérée.
 - Quelqu'un qui reste serein dans une dispute et qui ne devient ni injurieux ni soumis. -->
+
+<!--t src=29366076-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/040-grundhaltung-des-kritischen-denkens.md)

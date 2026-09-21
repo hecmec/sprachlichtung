@@ -269,3 +269,6 @@ La **pensée de groupe** désigne la tendance, au sein des groupes, à recherche
 - Recourir à des techniques comme celle de l'« avocat du diable »
 - Recourir à des votes ou à des retours anonymes pour réduire la pression sociale
 - Solliciter des perspectives extérieures
+
+<!--t src=12acd56d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/030-wichtige-kognitive-verzerrungen.md)

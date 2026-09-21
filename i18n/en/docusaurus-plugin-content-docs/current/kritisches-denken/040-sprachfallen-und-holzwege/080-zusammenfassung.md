@@ -40,3 +40,6 @@ In this chapter, we examined various language pitfalls that can impair our criti
 
 <!--t src=120b5c2c-->
 Awareness of these language pitfalls and the application of the strategies presented can help us think more precisely, communicate more clearly, and better recognize attempts at manipulation.
+
+<!--t src=5b5eec33-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/080-zusammenfassung.md)

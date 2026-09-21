@@ -94,3 +94,6 @@ Cette sélection produit une image déformée de l'état de la recherche.
 <!--t src=7dc63485-->
 - [Wikipédia : Cherry picking](https://fr.wikipedia.org/wiki/Cherry_picking)
 - [Logically Fallacious: Cherry Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)
+
+<!--t src=a9bb5c55-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/rosinenpicken.md)

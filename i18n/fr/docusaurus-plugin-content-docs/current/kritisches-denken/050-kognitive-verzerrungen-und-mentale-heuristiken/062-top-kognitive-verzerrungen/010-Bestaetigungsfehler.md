@@ -104,3 +104,6 @@ Il ne cite que la première moitié des études et cesse de lire dès que les do
 
 <!--t src=b4d4d3c6-->
 [Wikipédia : Biais de confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation)
+
+<!--t src=8a3e7266-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/010-Bestaetigungsfehler.md)

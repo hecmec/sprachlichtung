@@ -106,3 +106,6 @@ Butler is less interested in defending her theory than in finding ways to counte
 
 <!--t src=c6183f1f-->
 Butler’s work invites us to question assumptions, challenge norms, and imagine a more inclusive world. As she puts it, _"We are all the time struggling to achieve that goal.”_
+
+<!--t src=9e2ba128-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md)

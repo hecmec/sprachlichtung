@@ -96,3 +96,6 @@ La santé est un continuum comportant de nombreux états intermédiaires. La div
 - [Wikipédia : Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
 - [Wikipedia: False dilemma](https://en.wikipedia.org/wiki/False_dilemma)
 - [Logically Fallacious: Black-or-White](https://www.logicallyfallacious.com/logicalfallacies/Black-or-White-Fallacy)
+
+<!--t src=9dfddefd-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/falsche-dichotomie.md)

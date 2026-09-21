@@ -98,3 +98,6 @@ This also works very well in politics. If you repeat a stupid idea over and over
 - [Wikipedia: Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 - [Original paper by Tversky and Kahneman (1973), _Availability: A Heuristic for Judging Frequency and Probability_](https://familyvest.com/wp-content/uploads/2019/02/TverskyKahneman73.pdf)
 - _Daniel Kahneman_: Thinking, Fast and Slow. Allen Lane, 2011, Chapter 12: The Science of Availability.
+
+<!--t src=55e9888f-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/020-Verfuegbarkeitsheuristik.md)

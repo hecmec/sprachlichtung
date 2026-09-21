@@ -96,3 +96,6 @@ Analyse :
 
 <!--t src=36610850-->
 Cet argument contient une erreur logique, car il confond la condition nécessaire (graviter autour du Soleil) avec une condition suffisante. Tout ce qui gravite autour du Soleil n'est pas automatiquement une planète (p. ex. les astéroïdes, les comètes).
+
+<!--t src=e000548d-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md)

@@ -104,3 +104,6 @@ From one's own inability to imagine the technique, no extraterrestrial explanati
 
 - [Wikipedia: Argument from incredulity](https://en.wikipedia.org/wiki/Argument_from_incredulity)
 - [Logically Fallacious: Argument from Incredulity](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Incredulity)
+
+<!--t src=8f56072a-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/persoenliche-skepsis.md)

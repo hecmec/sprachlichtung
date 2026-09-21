@@ -92,3 +92,6 @@ L'oxygène favorise la combustion, l'hydrogène est même lui-même inflammable 
 - [Wikipédia : Sophisme de division](https://fr.wikipedia.org/wiki/Sophisme_de_division)
 - [Wikipedia: Fallacy of division](https://en.wikipedia.org/wiki/Fallacy_of_division)
 - [Logically Fallacious: Division](https://www.logicallyfallacious.com/logicalfallacies/Division)
+
+<!--t src=253680fe-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/trugschluss-der-division.md)

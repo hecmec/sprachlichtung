@@ -85,3 +85,6 @@ Cela veut-il dire que les algorithmes sont inoffensifs ? Non. L'inquiétude se d
 - **S'en extraire délibérément.** Aller directement vers des sources sérieuses choisies, au lieu de simplement attendre le fil. Rechercher activement des sources variées.
 - **Faire une pause quand on est remué.** Dans le fil, une émotion forte est souvent le signe qu'un contenu a été optimisé pour la portée : c'est le moment d'appliquer [SIFT](040-die-sift-methode.md).
 - **Partager, c'est diffuser.** Chaque clic sur « partager » est un vote pour l'algorithme. Vérifier d'abord, partager ensuite.
+
+<!--t src=b8b41af4-->
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/065-quellen-pruefung/070-soziale-medien-algorithmen.md)
