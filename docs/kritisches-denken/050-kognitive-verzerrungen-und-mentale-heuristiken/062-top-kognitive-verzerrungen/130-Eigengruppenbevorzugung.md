@@ -86,4 +86,4 @@ Schon zufällige Einteilungen (z. B. Präferenz für Gemälde A vs. B) führen d
 - Tajfel, H., & Turner, J. C. (1979). Social Identity Theory.
 - Brewer, M. B. (1999). The psychology of prejudice: Ingroup love vs. outgroup hate.
 
-[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/130-Eigengruppenbevorzugung.md)

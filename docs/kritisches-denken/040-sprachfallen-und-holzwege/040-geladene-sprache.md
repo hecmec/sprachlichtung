@@ -106,4 +106,4 @@ Wertgeladene Begriffe enthalten implizite positive oder negative Bewertungen.
 
 5. **Bewusste Sprachverwendung**: Achten Sie auf Ihre eigene Wortwahl und deren mögliche emotionale Wirkung.
 
-[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)
+[Article en français](/fr/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/en/docs/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)

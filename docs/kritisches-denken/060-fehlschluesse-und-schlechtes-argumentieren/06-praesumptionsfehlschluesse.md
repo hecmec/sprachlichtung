@@ -84,4 +84,4 @@ Dieser Fehlschluss behauptet, dass etwas wahr sein muss, weil es nicht als falsc
 
 **Warum ist das fehlerhaft?** Die Abwesenheit von Beweisen gegen eine Behauptung ist kein Beweis für die Behauptung. Die Beweislast liegt bei demjenigen, der eine positive Behauptung aufstellt.
 
-[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md)
+[Article en français](/fr/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md) | [Article in English](/en/docs/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/06-praesumptionsfehlschluesse.md)

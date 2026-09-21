@@ -104,4 +104,4 @@ Die Basisrate sagt: Es gibt viel mehr gut gekleidete Angestellte als erfolgreich
 - Kahneman, D. & Tversky, A. (1973). On the psychology of prediction. Psychological Review, 80(4), 237-251.
 - [Gigerenzer, G. (2002). Reckoning with Risk: Learning to Live with Uncertainty](https://www.amazon.de/Reckoning-Risk-Learning-Live-Uncertainty/dp/0140297863)
 
-[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/110-Basisratenfehler.md)

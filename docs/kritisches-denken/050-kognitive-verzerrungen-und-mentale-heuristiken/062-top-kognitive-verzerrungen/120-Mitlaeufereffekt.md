@@ -85,4 +85,4 @@ Kleidung, Ausdrücke oder Apps werden populär, weil andere sie nutzen — nicht
 - Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A theory of fads, fashion, custom, and cultural change as informational cascades.
 - Cialdini, R. B. (2009). Influence: Science and Practice — Kapitel zu Social Proof.
 
-[Article en français](ocusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md) | [Article in English](/en/durus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md)
+[Article en français](/fr/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md) | [Article in English](/en/docs/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/062-top-kognitive-verzerrungen/120-Mitlaeufereffekt.md)
