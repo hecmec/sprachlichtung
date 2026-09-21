@@ -15,7 +15,7 @@ last_update:
   date: 2026-02-11
   author: Immanuel Lupinus
 completeness: 1/5
-draft: true
+draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
@@ -114,6 +114,6 @@ Attempts to suppress information often make it truly interesting and viral in th
 - Brehm, J. W. (1966): A theory of psychological reactance. Academic Press.
 - Cialdini, R. (2006): Influence: The Psychology of Persuasion &mdash; chapters on scarcity and reactance.
 
-<!--t src=53b38cd7-->
+<!--t src=d94c2005-->
 
 [Artikel auf Deutsch](pathname:///docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Reaktanz) | [Article en français](pathname:///fr/docs/kritisches-denken/kognitive-verzerrungen-und-mentale-heuristiken/mehr-kognitive-verzerrungen/Reaktanz)
