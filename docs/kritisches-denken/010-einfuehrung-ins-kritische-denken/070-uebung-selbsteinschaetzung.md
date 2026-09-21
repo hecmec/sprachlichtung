@@ -103,3 +103,5 @@ Addiere deine Punkte basierend auf deinen Antworten (1-5 für jede Frage), um ei
 
 Beachte, dass diese Selbsteinschätzung subjektiv ist und möglicherweise durch kognitive Verzerrungen beeinflusst wird.  
 Sie dient als Ausgangspunkt für deine persönliche Entwicklung im kritischen Denken.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/070-uebung-selbsteinschaetzung.md)

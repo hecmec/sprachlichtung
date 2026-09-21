@@ -108,3 +108,5 @@ Unabhängig von der Art der Definition gibt es allgemeine Kriterien, die eine gu
 4. **Definitionskonflikte identifizieren**: Erkennen Sie, wenn Meinungsverschiedenheiten auf unterschiedlichen Definitionen desselben Begriffs beruhen.
 
 5. **Kontextabhängigkeit berücksichtigen**: Akzeptieren Sie, dass in verschiedenen Kontexten unterschiedliche Definitionen angemessen sein können.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/060-definitionsarten-und-ihre-anwendung.md)

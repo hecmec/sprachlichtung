@@ -81,3 +81,5 @@ Komplimente werden ernst genommen, Kritik als "überempfindlich" oder "missverst
 - Mezulis, A. H., Abramson, L. Y., Hyde, J. S., & Hankin, B. L. (2004). Is there a universal positivity bias? A meta-analytic review of self-serving attribution.
   Selbstwertdienliche Verzerrung
   Die Verzerrungen, die der Aufrechterhaltung eines positiven konsistenten Selbstbildes dienen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/170-Selbstwertdienliche%20Verzerrung.md)

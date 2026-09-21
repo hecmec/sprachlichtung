@@ -112,3 +112,5 @@ Wir klären den Unterschied zwischen **formalen Schlussregeln** der Logik und **
 ### Argumente analysieren und versteckte Annahmen
 
 Zum Schluss üben wir, ein Argument **zu zerlegen**, seine Prämissen und Konklusion freizulegen und **implizite Annahmen** sichtbar zu machen und zu prüfen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/020-was-ist-ein-gutes-argument/010-einfuehrung-argumente.md)

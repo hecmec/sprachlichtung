@@ -57,3 +57,5 @@ Diese formalen Fehlschlüsse finden wir vor allem in den Argumentationen, die fo
    - **Präsumptionsfehlschlüsse**: Argumente, die auf unbegründeten Annahmen basieren
 
 Im Folgenden werden wir die wichtigsten Fehlschlüsse aus jeder Kategorie betrachten.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/02-was-sind-fehlschluesse.md)

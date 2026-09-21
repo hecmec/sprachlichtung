@@ -116,3 +116,5 @@ Die Analyse von Sprechakten im allgemeinen und des Behauptens als sprachlicher A
 - **J. L. Austin**, _Zur Theorie der Sprechakte_ (Reclam, 1972) / engl. _How to Do Things with Words_ (1962). — Begründet die **Sprechakttheorie** und unterscheidet lokutionären, illokutionären und perlokutionären Akt sowie die _Gelingensbedingungen_ (misfires vs. abuses).
 - **John R. Searle**, _Sprechakte. Ein sprachphilosophischer Essay_ (Suhrkamp, 1971) / engl. _Speech Acts_ (1969). — Systematisiert die **Gelingensbedingungen** des Behauptens (Einleitungs-, Aufrichtigkeits-, wesentliche Bedingung) und die _Ausrichtung_ von Wort und Welt.
 - **Robert B. Brandom**, _Expressive Vernunft_ (Suhrkamp, 2000) / engl. _Making It Explicit_ (1994). — Versteht das Behaupten als Zug im **„Spiel des Gebens und Verlangens von Gründen"**: Wer behauptet, geht eine begründungspflichtige Festlegung ein.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/020-behaupten.md)

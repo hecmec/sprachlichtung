@@ -79,3 +79,5 @@ Beide Aussagen können nicht zugleich wahr sein. Eine Verteidigung, die sich auf
 - [Wikipedia: Ex falso quodlibet](https://de.wikipedia.org/wiki/Ex_falso_quodlibet)
 - [Wikipedia: Principle of explosion (ex falso quodlibet)](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [Logically Fallacious: Contradictory Premises](https://www.logicallyfallacious.com/logicalfallacies/Contradictory-Premises)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/logik-inkonsistente-praemissen.md)

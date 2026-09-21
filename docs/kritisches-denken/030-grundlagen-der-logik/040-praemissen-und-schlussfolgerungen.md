@@ -77,3 +77,5 @@ Analyse:
 - Schlussfolgerung: "Pluto ist ein Planet unseres Sonnensystems."
 
 Dieses Argument enthält einen logischen Fehler, da es die notwendige Bedingung (Umkreisen der Sonne) mit einer hinreichenden Bedingung verwechselt. Nicht alles, was die Sonne umkreist, ist automatisch ein Planet (z.B. Asteroiden, Kometen).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/040-praemissen-und-schlussfolgerungen.md)

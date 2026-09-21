@@ -79,3 +79,5 @@ Es gibt viele Philosophen, die das verstanden haben. Sie versöhnen ihren Gottes
 [^1]: In der absurden Debatte des "Intelligent Design" versus Evolutionstheorie wird oft versucht, Glauben als wissenschaftliche Theorie zu präsentieren. Kritisches Denken hilft hier, die Grenzen zwischen empirischem Wissen und Glaubensüberzeugungen klar zu ziehen.
 
 [^2]: Der Philosoph **Immanuel Kant** hat in seinem Werk gezeigt, dass Glaube und Vernunft unterschiedliche Bereiche sind, die sich nicht widersprechen. Gott, Freiheit und Unsterblichkeit sind jedoch keine Gegenstände empirischer Erkenntnis, sondern gehören sur praktischen Vernunft.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/030-mythen-ueber-kritisches-denken.md)

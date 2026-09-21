@@ -78,3 +78,5 @@ Aus zwei Verneinungen folgt nichts. Dass Wasserstoff kein Edelgas ist, sagt nich
 
 - [Wikipedia: Fallacy of exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises)
 - [Logically Fallacious: Exclusive Premises](https://www.logicallyfallacious.com/logicalfallacies/Exclusive-Premises)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md)

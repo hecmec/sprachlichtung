@@ -73,3 +73,5 @@ Man muss kein Physiker sein, um bei Energie mitzureden. Es genügt, den Untersch
 [^energie-wiki]: Einen Überblick über die physikalischen Energieformen gibt „Energie", in: Wikipedia, [de.wikipedia.org/wiki/Energie](https://de.wikipedia.org/wiki/Energie).
 
 [^endenergie]: „Endenergieverbrauch", in: Wikipedia, [de.wikipedia.org/wiki/Endenergieverbrauch](https://de.wikipedia.org/wiki/Endenergieverbrauch). Zur Entkopplung von Wirtschaftswachstum und Energieverbrauch siehe auch [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/010-energien.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/010-energien.md)

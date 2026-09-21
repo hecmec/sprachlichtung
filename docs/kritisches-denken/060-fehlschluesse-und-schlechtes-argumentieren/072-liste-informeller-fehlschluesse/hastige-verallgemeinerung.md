@@ -70,3 +70,5 @@ Ein Einzelfall widerlegt keine Statistik. Aus ihm lässt sich keine allgemeine R
 
 - [Wikipedia: Voreilige Verallgemeinerung](https://de.wikipedia.org/wiki/Voreilige_Verallgemeinerung)
 - [Logically Fallacious: Hasty Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/hastige-verallgemeinerung.md)

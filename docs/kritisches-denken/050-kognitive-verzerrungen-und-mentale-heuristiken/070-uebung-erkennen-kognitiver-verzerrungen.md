@@ -57,3 +57,5 @@ Reflektieren Sie über Ihre Beobachtungen:
 **Mögliche Verzerrung**: Bestätigungsfehler &mdash; Ich habe den Artikel sofort abgelehnt, weil er meinen bestehenden Überzeugungen widersprach, ohne die Argumente oder Daten objektiv zu prüfen.
 
 **Alternative Perspektive**: Auch wenn ich mit der Schlussfolgerung des Autors nicht übereinstimme, könnten einige der präsentierten Fakten korrekt sein. Ich sollte die Quellen der Statistiken prüfen und überlegen, ob es valide Punkte gibt, die ich berücksichtigen sollte.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/070-uebung-erkennen-kognitiver-verzerrungen.md)

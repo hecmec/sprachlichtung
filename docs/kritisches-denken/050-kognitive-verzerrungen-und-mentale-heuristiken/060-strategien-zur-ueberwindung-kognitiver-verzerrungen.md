@@ -90,3 +90,5 @@ Spezifische Techniken können helfen, bestimmte Verzerrungen zu reduzieren.
 - Gegen den Grundlagenirrtum: Systematisch nach situativen Faktoren suchen
 - Gegen den Rückschaufehler: Vorhersagen vor Ereignissen dokumentieren
 - Gegen den Status-quo-Bias: Aktiv Alternativen generieren und bewerten
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/060-strategien-zur-ueberwindung-kognitiver-verzerrungen.md)

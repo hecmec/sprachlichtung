@@ -38,3 +38,5 @@ In diesem Kapitel haben wir grundlegende logische Elemente kennengelernt, die f�
 Das Verständnis dieser Konzepte bildet die Grundlage für die Analyse, Bewertung und Konstruktion von Argumenten. Sie ermöglichen es uns, logische Fehler zu erkennen, die Stärke von Argumenten zu beurteilen und unsere eigenen Gedanken präziser zu formulieren.
 
 In den folgenden Kapiteln werden wir auf diesen Grundlagen aufbauen und weitere Aspekte des kritischen Denkens erkunden, darunter die Analyse von Argumenten, sprachliche Fallstricke und kognitive Verzerrungen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/100-zusammenfassung.md)

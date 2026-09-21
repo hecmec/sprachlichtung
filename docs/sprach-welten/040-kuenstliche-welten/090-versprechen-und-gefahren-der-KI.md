@@ -88,3 +88,5 @@ Hinter jedem KI-System stehen ein Betreiber, ein Auftrag und eine Person, die es
 [^clickwork]: Billy Perrigo: _Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic_, TIME, 18. Januar 2023.
 
 [^safetyreport]: Yoshua Bengio u. a.: _International AI Safety Report_, 2025.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/090-versprechen-und-gefahren-der-KI.md)

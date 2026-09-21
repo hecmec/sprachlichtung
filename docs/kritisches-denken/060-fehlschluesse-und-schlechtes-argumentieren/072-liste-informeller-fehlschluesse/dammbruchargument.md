@@ -71,3 +71,5 @@ Von einer einzelnen Ausnahme bis zur Kriminalität ist es ein weiter, unbelegter
 
 - [Wikipedia: Dammbruchargument](https://de.wikipedia.org/wiki/Dammbruchargument)
 - [Logically Fallacious: Slippery Slope](https://www.logicallyfallacious.com/logicalfallacies/Slippery-Slope)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/dammbruchargument.md)

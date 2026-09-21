@@ -84,3 +84,5 @@ Erfolgreiche Gründer erzählen Playbooks in Podcasts und Büchern. Man hört nu
 - Taleb, N. N. (2001): Fooled by Randomness &mdash; Über Zufall, Erfolg und Fehlinterpretationen.
 
 ---
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/270-Ueberlebenden-Verzerrung.md)

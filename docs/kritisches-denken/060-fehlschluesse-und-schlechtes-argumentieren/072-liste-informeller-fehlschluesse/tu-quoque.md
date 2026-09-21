@@ -73,3 +73,5 @@ Selbst wenn der Gegenvorwurf zuträfe, würde er die ursprüngliche Kritik nicht
 
 - [Wikipedia: Tu quoque](https://de.wikipedia.org/wiki/Tu_quoque)
 - [Logically Fallacious: Tu Quoque](https://www.logicallyfallacious.com/logicalfallacies/Tu-Quoque)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/tu-quoque.md)

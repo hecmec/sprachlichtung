@@ -76,3 +76,5 @@ Butler is less interested in defending her theory than in finding ways to counte
 - The fight for gender freedom is part of the broader struggle for democracy and justice.
 
 Butler’s work invites us to question assumptions, challenge norms, and imagine a more inclusive world. As she puts it, _"We are all the time struggling to achieve that goal.”_
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/soziales/judith-butler-explains-gender.md)

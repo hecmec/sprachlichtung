@@ -71,3 +71,5 @@ Ein anderer Pass hätte unzählige Folgen gehabt &mdash; auch der Gegner hätte 
 
 - [Wikipedia: Kontrafaktisches Konditional](https://de.wikipedia.org/wiki/Kontrafaktisches_Konditional)
 - [Wikipedia: Counterfactual conditional](https://en.wikipedia.org/wiki/Counterfactual_conditional)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/kontrafaktisches-konditional.md)

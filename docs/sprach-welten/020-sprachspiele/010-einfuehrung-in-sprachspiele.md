@@ -123,3 +123,5 @@ Die Fähigkeit, das jeweilige "Spiel" zu erkennen, das gerade gespielt wird, ist
   - Wenn eine Wissenschaftlerin und ein Theologe über letzte Ursachen sprechen, dann sprechen sie nicht unbedingt dieselbe Sprache.
 
 Wer diese Fragen stellt, kann Manipulation besser erkennen, Missverständnisse vermeiden und klarer denken.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/020-sprachspiele/010-einfuehrung-in-sprachspiele.md)

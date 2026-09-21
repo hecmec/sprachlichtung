@@ -82,3 +82,5 @@ Wer viele Variablen ohne klare Hypothese testet, wird fast sicher "signifikante"
 - Kahneman, D. (2011): Thinking, Fast and Slow &mdash; Kapitel zu Mustererkennung und Zufall.
 - Taleb, N. N. (2001): Fooled by Randomness &mdash; Über Scheinmuster in Rauschdaten.
 - Gilovich, T. (1991): How We Know What Isn’t So &mdash; Irrtümer des Alltagsdenkens.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/050-kognitive-verzerrungen-und-mentale-heuristiken/064-mehr-kognitive-verzerrungen/310-Apophaenie.md)

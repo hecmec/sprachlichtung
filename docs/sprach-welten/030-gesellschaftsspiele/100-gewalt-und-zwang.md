@@ -50,3 +50,5 @@ Doch der kritische Blick endet nicht in stoischer Demut. Vieles, was lange als N
 [^weber]: Max Weber: _Politik als Beruf_ (Vortrag 1919). Duncker & Humblot, München/Leipzig 1919: der Staat als „diejenige menschliche Gemeinschaft, welche innerhalb eines bestimmten Gebietes … das Monopol legitimer physischer Gewaltsamkeit für sich (mit Erfolg) beansprucht".
 
 [^benjamin]: Walter Benjamin: _Zur Kritik der Gewalt_ (1921), in: _Gesammelte Schriften_, Bd. II.1, Suhrkamp, Frankfurt a. M. 1977: zur Unterscheidung von rechtsetzender und rechtserhaltender Gewalt.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/100-gewalt-und-zwang.md)

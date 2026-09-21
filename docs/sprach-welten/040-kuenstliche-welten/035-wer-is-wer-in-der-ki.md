@@ -86,3 +86,5 @@ Drei Fragen helfen bei jedem Zitat: Aus welcher Zeit stammt die Aussage? Aus wel
 [^gendershades]: Joy Buolamwini, Timnit Gebru: _Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification_, PMLR 81, 2018.
 
 [^crawford]: Kate Crawford: _Atlas of AI_, Yale University Press, 2021.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/035-wer-is-wer-in-der-ki.md)

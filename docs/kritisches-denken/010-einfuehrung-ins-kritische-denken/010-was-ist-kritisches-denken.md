@@ -151,3 +151,5 @@ Los geht's !
 [^3]: Peter A. Facione: [_Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction._, ERIC, Institute of Education Sciences, 1990, pp.1-112](https://eric.ed.gov/?id=ED315423), Santa Clara University 1990.
 
 [^4]: In Faciones Artikel: "The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit."
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/010-was-ist-kritisches-denken.md)

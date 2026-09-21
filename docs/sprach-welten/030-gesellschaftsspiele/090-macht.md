@@ -65,3 +65,5 @@ Das Zauberwort hier heisst **Selbstbestimmung**.
 [^habermas]: Jürgen Habermas: _Faktizität und Geltung. Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_. Suhrkamp, Frankfurt a. M. 1992, Kap. IV (zur „kommunikativen Macht").
 
 [^forst-recht]: Rainer Forst: _Das Recht auf Rechtfertigung. Elemente einer konstruktivistischen Theorie der Gerechtigkeit_. Suhrkamp, Frankfurt a. M. 2007.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/090-macht.md)

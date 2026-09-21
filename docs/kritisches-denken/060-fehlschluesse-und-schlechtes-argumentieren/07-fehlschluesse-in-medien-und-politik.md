@@ -61,3 +61,5 @@ Fehlschlüsse sind in öffentlichen Diskursen, insbesondere in Medien und Politi
 5. **Achten Sie auf Kontext**: Werden Zitate oder Statistiken aus dem Zusammenhang gerissen?
 
 6. **Seien Sie skeptisch gegenüber perfekten Lösungen**: Werden komplexe Probleme so dargestellt, als hätten sie einfache, eindeutige Lösungen?
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/07-fehlschluesse-in-medien-und-politik.md)

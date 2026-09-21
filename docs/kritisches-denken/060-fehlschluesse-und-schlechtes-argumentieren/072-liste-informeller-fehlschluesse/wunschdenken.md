@@ -71,3 +71,5 @@ Wie unbequem eine Konsequenz wäre, entscheidet nicht darüber, ob die zugrunde 
 - [Wikipedia: Wunschdenken](https://de.wikipedia.org/wiki/Wunschdenken)
 - [Wikipedia: Wishful thinking](https://en.wikipedia.org/wiki/Wishful_thinking)
 - [Logically Fallacious: Wishful Thinking](https://www.logicallyfallacious.com/logicalfallacies/Wishful-Thinking)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/072-liste-informeller-fehlschluesse/wunschdenken.md)

@@ -103,3 +103,5 @@ Hier ist unklar, wer als unehrlich bezeichnet wird und wer die Positionen aufgeb
 4. **Kontextanalyse**: Berücksichtigen Sie den Kontext, um die wahrscheinlichste Bedeutung zu ermitteln.
 
 5. **Präzisieren Sie Pronomen**: Ersetzen Sie mehrdeutige Pronomen durch die spezifischen Nomen, auf die sie sich beziehen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/020-ambiguitaet-mehrdeutigkeit.md)

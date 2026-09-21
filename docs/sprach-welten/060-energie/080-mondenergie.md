@@ -53,3 +53,5 @@ Die Mond- oder Gezeitenenergie ist ein schönes Lehrstück über den Unterschied
 Genau darin liegt der emanzipatorische Wert dieses Kapitels. Wer versteht, dass eine Quelle „unerschöpflich" und trotzdem unpraktisch sein kann, durchschaut leichter die großen Versprechen, mit denen in Energiedebatten hantiert wird. Die entscheidende Frage lautet nie nur „Ist genug Energie da?", sondern immer auch „Was kostet es, sie zu holen, und wer zahlt den Preis dafür?" Der Mond schickt seine Kraft ohnehin, ob wir sie nutzen oder nicht. Ob sich das lohnt, verrät uns keine Naturkraft, sondern nur ein nüchterner Blick auf die Rechnung.
 
 [^gezeiten]: Hintergründe zu Gezeiten und Gezeitenenergie u. a. bei „Gezeitenkraftwerk", in: Wikipedia, [de.wikipedia.org/wiki/Gezeitenkraftwerk](https://de.wikipedia.org/wiki/Gezeitenkraftwerk). Einordnung in den weltweiten Energiemix bei [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/080-mondenergie.md)

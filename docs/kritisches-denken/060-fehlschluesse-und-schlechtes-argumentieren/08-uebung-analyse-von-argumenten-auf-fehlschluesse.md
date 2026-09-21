@@ -81,3 +81,5 @@ Analysieren Sie die folgenden Argumente und identifizieren Sie mögliche Fehlsch
 10. **Petitio Principii (Zirkelschluss)**
     - Fehlschluss: Die Schlussfolgerung (freie Marktwirtschaft ist das beste System) wird durch eine Umformulierung derselben Behauptung (wirtschaftliche Freiheit ist am besten) begründet.
     - Verbesserte Version: "Studien zeigen, dass Länder mit freier Marktwirtschaft tendenziell ein höheres Pro-Kopf-Einkommen, mehr Innovation und eine größere wirtschaftliche Mobilität aufweisen als Länder mit stark regulierten Wirtschaftssystemen."
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/08-uebung-analyse-von-argumenten-auf-fehlschluesse.md)

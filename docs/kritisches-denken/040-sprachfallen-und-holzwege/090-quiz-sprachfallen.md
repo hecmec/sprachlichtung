@@ -66,3 +66,5 @@ draft: false
 3. c) Geladene Sprache
 4. b) "Die Demokratie ist wütend über die Wahlergebnisse."
 5. b) Stipulative Definition
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/090-quiz-sprachfallen.md)

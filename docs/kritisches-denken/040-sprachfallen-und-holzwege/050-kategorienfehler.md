@@ -69,3 +69,5 @@ Hier wird ein abstrakter Begriff (Freiheit) so behandelt, als könnte er eine ph
 3. **Sprachliche Präzision**: Verwenden Sie Sprache, die der jeweiligen Kategorie angemessen ist, und vermeiden Sie unangemessene Übertragungen von Begriffen.
 
 4. **Kritisches Hinterfragen**: Prüfen Sie, ob Fragen oder Probleme möglicherweise auf kategorialen Verwechslungen beruhen.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/050-kategorienfehler.md)

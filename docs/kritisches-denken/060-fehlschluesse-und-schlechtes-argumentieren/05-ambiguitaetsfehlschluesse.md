@@ -104,3 +104,5 @@ Der Divisionsfehlschluss ist das Gegenteil des Kompositionsfehlschlusses: Es wir
 
 **Beispiel Gehirn**
 "Das Gehirn kann denken, also können die Neuronen denken."
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/05-ambiguitaetsfehlschluesse.md)

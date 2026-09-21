@@ -105,3 +105,5 @@ Wertgeladene Begriffe enthalten implizite positive oder negative Bewertungen.
 4. **Kontextanalyse**: Berücksichtigen Sie, wer spricht und welche Interessen oder Ziele verfolgt werden könnten.
 
 5. **Bewusste Sprachverwendung**: Achten Sie auf Ihre eigene Wortwahl und deren mögliche emotionale Wirkung.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/040-geladene-sprache.md)

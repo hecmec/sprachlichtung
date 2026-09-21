@@ -77,3 +77,5 @@ Analyse:
 - Schnelles Laufen ist eine notwendige Bedingung für einen guten Fußballspieler.
 - Der Fehlschluss besteht darin, eine notwendige Bedingung als hinreichend zu behandeln.
 - Korrekt wäre: Schnelles Laufen ist notwendig, aber nicht hinreichend, um ein guter Fußballspieler zu sein.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/030-grundlagen-der-logik/050-notwendige-versus-hinreichende-bedingungen.md)

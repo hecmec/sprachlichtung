@@ -103,3 +103,5 @@ In einer demokratischen Gesellschaft ist kritisches Denken unerlässlich für ei
 Kritisches Denken fördert auch **Mitmenschlichkeit** und **Empathie**, indem es uns lehrt, die Perspektiven und Erfahrungen anderer zu verstehen und zu respektieren. Es hilft uns, Vorurteile abzubauen und offen für neue Ideen und Kulturen zu sein.
 
 Das ist ein Aspekt, der häufig übersehen wird, der aber in der heutigen globalisierten Welt immer wichtiger wird.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/010-einfuehrung-ins-kritische-denken/020-warum-ist-kritisches-denken-wichtig.md)

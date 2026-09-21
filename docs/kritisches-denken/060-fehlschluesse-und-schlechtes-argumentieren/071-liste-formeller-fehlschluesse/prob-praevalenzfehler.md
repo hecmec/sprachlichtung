@@ -85,3 +85,5 @@ Sucht man eine einzige Person unter Millionen, erzeugt selbst eine winzige Fehle
 
 - [Wikipedia: Prävalenzfehler](https://de.wikipedia.org/wiki/Pr%C3%A4valenzfehler)
 - [Wikipedia: Base rate fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-praevalenzfehler.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/prob-praevalenzfehler.md)

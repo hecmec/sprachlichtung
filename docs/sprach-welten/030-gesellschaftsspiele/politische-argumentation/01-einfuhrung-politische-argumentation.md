@@ -60,3 +60,5 @@ Politische Argumentation ist ein spezielles Sprachspiel, das sich durch bestimmt
 - Gute politische Argumente sind klar, logisch und basieren auf überprüfbaren Fakten. Sie berücksichtigen verschiedene Perspektiven und fördern den Dialog.
 - Schlechte politische Argumente hingegen sind oft emotional, unsachlich oder manipulativ. Sie können auf Fehlinformationen, Vorurteilen oder persönlichen Angriffen basieren.
 - Es ist wichtig, politische Argumente kritisch zu hinterfragen und die Qualität der Argumentation zu bewerten.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/030-gesellschaftsspiele/politische-argumentation/01-einfuhrung-politische-argumentation.md)

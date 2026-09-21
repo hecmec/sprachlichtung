@@ -72,3 +72,5 @@ Vagheit unterscheidet sich von Ambiguität. Während ambige Ausdrücke mehrere k
    - "Erfolgreich" könnte definiert werden als "erreicht die selbst gesetzten Ziele"
 
 4. **Bewusstsein für Sorites-Probleme**: Erkennen Sie, dass kleine, inkrementelle Änderungen zu qualitativ unterschiedlichen Kategorien führen können, und vermeiden Sie Argumente, die auf der Annahme basieren, dass kleine Unterschiede nie relevant sind.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/040-sprachfallen-und-holzwege/030-vagheit.md)

@@ -85,3 +85,5 @@ Drei Muster wiederholen sich. Erstens: Zwischen einer Idee und ihrer Wirkung lie
 [^backprop]: David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams: _Learning representations by back-propagating errors_, Nature 323, 1986.
 
 [^transformer]: Ashish Vaswani u. a.: _Attention Is All You Need_, NeurIPS, 2017.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/040-kuenstliche-welten/033-meilensteine-der-kuenstlichen-intelligenz.md)

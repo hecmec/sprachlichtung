@@ -57,3 +57,5 @@ Pflanzenenergie ist ein Musterbeispiel dafür, dass keine Energieform nur gut od
 Die emanzipatorische Lehre ist einfach: Lass dich von grünen Etiketten nicht einlullen, aber verteufle die Sache auch nicht pauschal. Frag stattdessen nach, woher die Biomasse stammt, welche Fläche sie kostet und wem sie am Ende nützt. Pflanzen erinnern uns daran, dass alle Energie am Ende aus dem Licht kommt, und dass die eigentlich knappe Ressource nicht die Sonne ist, sondern der Boden, auf dem wir sie ernten.
 
 [^energie-wiki]: Grundlagen zu Photosynthese, Biomasse und Bioenergie u. a. bei „Biomasse", in: Wikipedia, [de.wikipedia.org/wiki/Biomasse](https://de.wikipedia.org/wiki/Biomasse), sowie beim [Umweltbundesamt – Erneuerbare Energien](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien). Zur „Teller-oder-Tank"-Debatte siehe [Our World in Data – Energy](https://ourworldindata.org/energy).
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/sprach-welten/060-energie/030-pflanzenenergie.md)

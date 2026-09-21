@@ -90,3 +90,5 @@ Dieser Fehlschluss lenkt von der eigentlichen Frage oder dem Argument ab, indem 
 "Sie kritisieren die Steuerpolitik unserer Partei, aber haben Sie gesehen, wie schlecht die Opposition mit dem Bildungssystem umgeht?"
 
 **Warum ist das fehlerhaft?** Anstatt auf die Kritik an der Steuerpolitik einzugehen, wird ein völlig anderes Thema (Bildungspolitik) eingeführt, um abzulenken.
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/04-relevanzfehlschluesse.md)

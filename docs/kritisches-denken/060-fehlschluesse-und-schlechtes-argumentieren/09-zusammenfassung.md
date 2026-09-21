@@ -49,3 +49,5 @@ Das Verständnis von Fehlschlüssen ist ein wesentlicher Bestandteil des kritisc
 - [Fallacy Files](https://www.fallacyfiles.org/whatarff.html)
 - [42 Fallacies PDF](https://aphilosopher.wordpress.com/wp-content/uploads/2010/09/42-fallacies.pdf)
 - [Scribbr / Logical Fallacies](https://www.scribbr.com/fallacies/logical-fallacy/)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/09-zusammenfassung.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/09-zusammenfassung.md)

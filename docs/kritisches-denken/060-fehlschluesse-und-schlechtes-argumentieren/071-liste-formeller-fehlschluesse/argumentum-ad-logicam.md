@@ -101,3 +101,5 @@ Auch hier ist das vorgebrachte Argument schwach. Die Schädlichkeit des Rauchens
 - [Wikipedia: Argumentum ad logicam](https://de.wikipedia.org/wiki/Argumentum_ad_logicam)
 - [Wikipedia: Argument from fallacy](https://en.wikipedia.org/wiki/Argument_from_fallacy)
 - [Logically Fallacious: The Fallacy Fallacy](https://www.logicallyfallacious.com/logicalfallacies/The-Fallacy-Fallacy)
+
+[Article en français](/i18n/fr/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md) | [Article in English](/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/argumentum-ad-logicam.md)
