@@ -35,7 +35,7 @@ Merkmale der Argumentation:
 
 ## Rhetorik
 
-**Rhetorik** ist die Kunst der überzeugenden Kommunikation, die nicht nur logische Argumente, sondern auch emotionale Appelle, Stil und Präsentation umfasst. Sie zielt darauf ab, das Publikum durch verschiedene Mittel zu beeinflussen.
+**Rhetorik** ist die Kunst der überzeugenden Kommunikation, die nicht nur logische Argumente, sondern auch emotionale Appelle, Stil und Präsentation umfasst. Sie zielt darauf ab, das Publikum durch verschiedene Mittel zu **beeinflussen**.
 
 Merkmale der Rhetorik:
 

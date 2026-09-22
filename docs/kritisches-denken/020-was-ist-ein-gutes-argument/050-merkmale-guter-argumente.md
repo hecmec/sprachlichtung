@@ -15,7 +15,11 @@ last_update:
 
 completeness: 3/5
 draft: false
+image: /img/kd/klarheit-bleistift-wasser.jpg
+image_credit: "ShineÆXLVII, A pencil in water, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_pencil_in_water.jpg"
 ---
+
+![Ein Bleistift in einem Wasserglas scheint an der Wasseroberfläche geknickt](/img/kd/klarheit-bleistift-wasser.jpg)
 
 <!-- # Merkmale guter Argumente -->
 

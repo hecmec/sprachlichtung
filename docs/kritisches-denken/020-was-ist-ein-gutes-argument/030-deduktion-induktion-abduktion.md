@@ -15,7 +15,12 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
+image: /img/kd/schliessen-tierspuren-schnee.jpg
+image_credit: "Joshua Tree National Park (NPS), Snowfall on 12/31/14 - Unknown animal tracks, Public Domain, https://www.flickr.com/photos/115357548@N08/16304109425"
 ---
+
+![Spuren eines unbekannten Tieres im Schnee zwischen Joshua Trees](/img/kd/schliessen-tierspuren-schnee.jpg)  
+_Auf was lassen die Spuren im Schnee schließen? Welche Art von Schluss ist das?_
 
 <!-- # Arten des Schließens -->
 

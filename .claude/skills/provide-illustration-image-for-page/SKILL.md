@@ -76,7 +76,8 @@ a real choice.
 
 ## 3. Download to `static/img/proposal/`
 
-- Delete whatever is left in `static/img/proposal/` from earlier runs, including
+- Create `static/img/proposal/` if it's missing (`mkdir -p`; git doesn't keep
+  the empty folder). Delete whatever is left in it from earlier runs, including
   the old `SOURCES.txt`.
 - File names: `<german-page-topic>-<short-description>.<ext>`, lowercase, ASCII
   only (ä→ae, ö→oe, ü→ue, ß→ss), dashes, no underscores. Example:

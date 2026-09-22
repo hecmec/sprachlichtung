@@ -14,7 +14,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 3/5
 draft: false
+image: /img/kd/syllogismus-barbara-euler.png
+image_credit: "Tilman Piesk (Watchduck), Modus Barbara (Euler), Public Domain, https://commons.wikimedia.org/wiki/File:Modus_Barbara_(Euler).svg"
 ---
+
+![Euler-Diagramm des Modus Barbara: drei ineinanderliegende Kreise für „Alle M sind P, alle S sind M, also sind alle S P“](/img/kd/syllogismus-barbara-euler.png)
 
 <!-- # Muster gültiger Argumente
 https://www.youtube.com/watch?v=ZdkxigKjVI8
