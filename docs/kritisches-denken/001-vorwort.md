@@ -15,7 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
-# image: /static/img/kompass.svg
+image: /img/kd/banner-rationalitaet-humains.png
 ---
 
 ![diskutierende menschen](/img/kd/banner-rationalitaet-humains.png)
