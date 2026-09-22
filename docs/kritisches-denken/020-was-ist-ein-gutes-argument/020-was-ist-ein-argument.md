@@ -14,7 +14,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
+image: /img/kd/argument-schlussstein-setzen.jpg
+image_credit: "Library of Congress, Arbeiter setzen den Schlussstein eines Bogens der Rotunde der Library of Congress (1892), Public Domain, https://commons.wikimedia.org/wiki/File:Men_putting_in_place_the_keystone_of_the_S.W._clerestory_arch_of_the_rotunda_of_the_Library_of_Congress_LCCN2006683606.jpg"
 ---
+
+![Bauarbeiter setzen auf einem Holzgerüst den Schlussstein in einen steinernen Bogen](/img/kd/argument-schlussstein-setzen.jpg)
 
 <!-- # Was ist ein Argument? -->
 
