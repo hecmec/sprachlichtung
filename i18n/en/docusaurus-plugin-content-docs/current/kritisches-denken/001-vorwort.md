@@ -15,6 +15,7 @@ last_update:
   author: Immanuel Lupinus
 completeness: 5/5
 draft: false
+image: /img/kd/banner-rationalitaet-humains.png
 translation_status: auto
 custom_translation_overwritten: false
 ---

@@ -15,9 +15,13 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
+image: /img/kd/quiz-invite.jpg
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=bcd95f27-->
+![personnes en train de discuter](/img/kd/quiz-invite.jpg)
 
 <!--t src=f0bbd90c-->
 
