@@ -16,8 +16,10 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-# image:
+image: /img/kd/quiz-invite.jpg
 ---
+
+![diskutierende menschen](/img/kd/quiz-invite.jpg)
 
 ## Quizfragen:
 

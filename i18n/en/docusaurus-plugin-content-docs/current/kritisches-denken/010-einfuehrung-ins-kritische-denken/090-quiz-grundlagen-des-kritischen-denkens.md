@@ -13,8 +13,12 @@ keywords:
 last_update:
   date: 2026-01-28
   author: Immanuel Lupinus
+image: /img/kd/quiz-invite.jpg
 translation_status: auto
 ---
+
+<!--t src=bcd95f27-->
+![people discussing](/img/kd/quiz-invite.jpg)
 
 <!--t src=f0bbd90c-->
 
