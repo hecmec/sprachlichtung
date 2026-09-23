@@ -15,7 +15,12 @@ last_update:
 
 completeness: 3/5
 draft: false
+image: /img/kd/rhetorik-hercules-gallicus.jpg
+image_credit: "Hans Lützelburger nach Hans Frank, Hercules Gallicus (Ogmios), Typus eloquentiae (1519), Public Domain, https://commons.wikimedia.org/wiki/File:Hans_Frank,_Hercules_Gallicus_(Ogmios).jpg"
 ---
+
+![Holzschnitt: Hercules Gallicus führt eine Menschenmenge an Ketten, die von seiner Zunge zu ihren Ohren reichen](/img/kd/rhetorik-hercules-gallicus.jpg)  
+_Der Rhetor bewegt die Menge durch seine Rede, als wären Ketten gespannt von seiner Zuge zu ihren Ohren._
 
 <!-- # Rhetorik versus Argumentation -->
 
@@ -41,7 +46,7 @@ Merkmale der Rhetorik:
 
 - Einsatz von Sprache, um zu überzeugen oder zu bewegen
 - Berücksichtigung des Publikums und des Kontexts
-- Nutzung von Ethos (Glaubwürdigkeit), Pathos (Emotion) und Logos (Logik)
+- Nutzung von Ethos (Glaubwürdigkeit), Pathos (Emotion) und Logos (Logik), den drei Überzeugungsmitteln nach Aristoteles[^aristoteles-rhetorik]
 - Stilistische Elemente wie Metaphern, Analogien, Wiederholungen
 - Ziel: effektive Überzeugung durch verschiedene Mittel
 
@@ -72,5 +77,7 @@ Für kritische Denker ist es wichtig, rhetorische Techniken zu erkennen und zwis
 - Werden emotionale Appelle verwendet, um logische Lücken zu überbrücken?
 - Wird die Glaubwürdigkeit des Sprechers als Ersatz für Beweise eingesetzt?
 - Werden Gegenargumente fair dargestellt und berücksichtigt?
+
+[^aristoteles-rhetorik]: Aristoteles, _Rhetorik_, Buch I, Kapitel 2 (1356a). Dort unterscheidet er drei Überzeugungsmittel (_pisteis_): den Charakter des Redners (_Ethos_), die Stimmung, in die der Zuhörer versetzt wird (_Pathos_), und die Rede selbst, sofern sie etwas beweist oder zu beweisen scheint (_Logos_). Für Interessierte: [Rhetorik (Aristoteles) (Wikipedia)](https://de.wikipedia.org/wiki/Rhetorik_(Aristoteles)).
 
 [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

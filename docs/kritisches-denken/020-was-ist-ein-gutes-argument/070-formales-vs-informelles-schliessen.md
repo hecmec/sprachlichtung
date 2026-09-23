@@ -14,7 +14,11 @@ last_update:
 
 completeness: 3/5
 draft: false
+image: /img/kd/bennycheung_logic_dallE-3.jpg
 ---
+
+![Banner im Stil einer alten Pergamentzeichnung: Augen, ein Mikrochip und Schaltkreise als Symbole für Logik](/img/kd/bennycheung_logic_dallE-3.jpg)  
+_Denken, symbolische Logik und Schaltkreise. Gemalt von DallE-3, einer KI._
 
 <!-- # Formales vs. informelles Schließen -->
 
@@ -34,10 +38,62 @@ Merkmale des formalen Schließens:
 - Präzision und Eindeutigkeit
 - Möglichkeit der formalen Beweisführung
 
-**Beispiel für formales Schließen (Syllogismus):**
-Prämisse 1: Alle A sind B.
-Prämisse 2: Alle B sind C.
-Schlussfolgerung: Alle A sind C.
+### Beispiel für formales Schließen (Syllogismus)
+
+<Columns>
+<Column>
+
+**In natürlicher Sprache**
+
+<table>
+<tbody>
+<tr><td>**Prämisse 1**</td><td>Alle Menschen sind sterblich.</td></tr>
+<tr><td>**Prämisse 2**</td><td>Alle Griechen sind Menschen.</td></tr>
+<tr><td>**Schlussfolgerung**</td><td>Alle Griechen sind sterblich.</td></tr>
+</tbody>
+</table>
+
+</Column>
+<Column>
+
+**Formalisiert**
+
+mit $M$ = Mensch, $S$ = sterblich, $G$ = Grieche
+
+<table>
+<tbody>
+<tr><td style={{width: '3em'}}>**P1**</td><td>$\forall x\,(M(x) \rightarrow S(x))$</td></tr>
+<tr><td>**P2**</td><td>$\forall x\,(G(x) \rightarrow M(x))$</td></tr>
+<tr><td>**K**</td><td>$\forall x\,(G(x) \rightarrow S(x))$</td></tr>
+</tbody>
+</table>
+
+</Column>
+</Columns>
+
+<Columns>
+<Column>
+
+**Klassischer Syllogismus (Modus Barbara):**
+
+<table>
+<tbody>
+<tr><td>**Obersatz**</td><td>M a S</td></tr>
+<tr><td>**Untersatz**</td><td>G a M</td></tr>
+<tr><td>**Schlussfolgerung**</td><td>G a S</td></tr>
+</tbody>
+</table>
+
+</Column>
+<Column>
+
+**Venn-Diagramm**
+
+![Venn-Diagramm des Modus Barbara: drei gleich große Kreise M, G und S; rosa markiert sind die leeren Bereiche, M außerhalb von S und G außerhalb von M](/img/kd/syllogismus-barbara-venn.svg)  
+_Rosa heisst hier: niemand hier, gibt es nicht. Alle Mensch sind Sterblich wird so zu "Die Zone unsterbliche Menschen ist leer"._
+
+</Column>
+</Columns>
 
 Dieses Argumentationsmuster ist unabhängig vom spezifischen Inhalt gültig. Es spielt keine Rolle, wofür A, B und C stehen &mdash; die Schlussfolgerung folgt notwendigerweise aus den Prämissen.
 

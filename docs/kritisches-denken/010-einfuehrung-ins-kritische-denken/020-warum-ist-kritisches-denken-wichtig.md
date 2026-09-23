@@ -39,6 +39,15 @@ Kritisches Denken ist zugleich Kampfkunst und Teamsport.
 Wie im Aikido oder Judo hilft es uns, **Angriffen auszuweichen**, sie umzulenken oder zu blockieren (Antagonie).
 Wie im Tanz oder im Gruppensport finden wir kooperative Elemente (Synergie).
 
+Ich habe schon viel in der Einführung von der Wichtigkeit des kritischen Denkens für unser Leben gesprochen: vor allem Selbstbestimmung und Mündigkeit.
+Hier will ich einige wichtige praktische Aspekte des kritischen Denkens besprechen.
+
+- [In der Informationsflut navigieren](#in-der-informationsflut-navigieren)
+- [Bessere Entscheidungen treffen](#bessere-entscheidungen-treffen)
+- [Persönliche und berufliche Entwicklung](#persönliche-und-berufliche-entwicklung)
+- [Bürger der Zivilgesellschaft](#bürger-der-zivilgesellschaft)
+- [Mitmenschlichkeit und Empathie](#mitmenschlichkeit-und-empathie)
+
 ## In der Informationsflut navigieren
 
 In unserer über-vernetzten Welt sind wir täglich einer Flut von Informationen ausgesetzt.
