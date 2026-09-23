@@ -1,7 +1,7 @@
 ---
 title: Patterns of valid arguments
 sidebar_label: Patterns of valid arguments
-sidebar_position: 4
+sidebar_position: 40
 description: An overview of various patterns of valid arguments and their application in critical thinking
 keywords:
   - syllogism
@@ -18,6 +18,9 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=9fef393a-->
+![Euler diagram of the mood Barbara: three nested circles for “All M are P, all S are M, therefore all S are P”](/img/kd/syllogismus-barbara-euler.png)
 
 <!--t src=b693d8fb-->
 <!-- # Patterns of valid arguments

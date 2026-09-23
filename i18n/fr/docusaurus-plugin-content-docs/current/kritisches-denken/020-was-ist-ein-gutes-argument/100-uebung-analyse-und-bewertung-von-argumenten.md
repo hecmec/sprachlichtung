@@ -1,6 +1,6 @@
 ---
 title: "Exercice : analyse et évaluation d'arguments"
-sidebar_position: 10
+sidebar_position: 100
 sidebar_label: "Exercice : analyse d'arguments"
 description: Exercices pratiques pour analyser et évaluer différents arguments
 keywords:
@@ -22,44 +22,44 @@ custom_translation_overwritten: false
 <!--t src=44609ff5-->
 <!-- # Übung: Analyse und Bewertung von Argumenten -->
 
-<!--t src=b8a9857b-->
-
+<!--t src=1cf3ba9a-->
 Analysez et évaluez les arguments suivants. Identifiez pour chacun :
 
+<!--t src=7c4cf868-->
 - Les prémisses explicites et la conclusion
 - Les hypothèses cachées
 - Le type d'argument (déductif, inductif, abductif)
 - La force de l'argument (fort, moyen, faible)
 - Les améliorations possibles de l'argument
 
-<!--t src=406a3963-->
-
+<!--t src=b4025c39-->
 ## Argument 1 :
 
+<!--t src=c5c52569-->
 « La plupart des politiciens sont corrompus. Hans est politicien. Donc Hans est probablement corrompu. »
 
-<!--t src=c0d0773f-->
-
+<!--t src=9aee4b42-->
 ## Argument 2 :
 
+<!--t src=f79f8715-->
 « Soit nous baissons les impôts, soit l'économie s'effondrera. Nous ne pouvons pas nous permettre que l'économie s'effondre. Donc nous devons baisser les impôts. »
 
-<!--t src=0c3c57a8-->
-
+<!--t src=751ceb01-->
 ## Argument 3 :
 
+<!--t src=2e0ea11e-->
 « Au cours des trois dernières années, il a toujours plu le premier week-end de juillet. Donc il pleuvra aussi cette année le premier week-end de juillet. »
 
-<!--t src=9323cbbf-->
-
+<!--t src=fd2afb1a-->
 ## Argument 4 :
 
+<!--t src=0457e92c-->
 « Des études ont montré que les personnes qui méditent régulièrement subissent moins de stress. Maria souhaite réduire son stress. Donc Maria devrait méditer régulièrement. »
 
-<!--t src=77eaaf44-->
-
+<!--t src=bd76df9d-->
 ## Argument 5 :
 
+<!--t src=7fcb6aba-->
 « Si le soleil brille, la neige fondra. La neige fond. Donc le soleil brille. »
 
 <!--t src=52e10939-->
