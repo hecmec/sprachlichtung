@@ -1,6 +1,6 @@
 ---
 title: "Zusammenfassung"
-sidebar_position: 12
+sidebar_position: 120
 description: "Zusammenfassung der wichtigsten Erkenntnisse über gute Argumente im kritischen Denken"
 keywords:
   - kritisches Denken

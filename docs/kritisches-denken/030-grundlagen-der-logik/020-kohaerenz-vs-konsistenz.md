@@ -19,9 +19,11 @@ draft: false
 # image:
 ---
 
+Kohärenz und Konsistenz werden im Alltag sehr oft verwechselt, deshalb hier eine kleine Seite dazu.
+
 ## Konsistenz
 
-**Konsistenz** bezieht sich auf die Widerspruchsfreiheit von Aussagen. Ein Satz von Aussagen ist konsistent, wenn es logisch möglich ist, dass alle Aussagen gleichzeitig wahr sind. Anders ausgedrückt: Konsistente Aussagen widersprechen sich nicht gegenseitig.
+**Konsistenz** bezieht sich auf die **Widerspruchsfreiheit von Aussagen**. Eine Menge von Aussagen ist konsistent, wenn es logisch möglich ist, dass alle Aussagen gleichzeitig wahr sind. Anders ausgedrückt: Konsistente Aussagen widersprechen sich nicht gegenseitig.
 
 **Beispiel für Konsistenz:**
 

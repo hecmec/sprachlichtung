@@ -1,6 +1,6 @@
 ---
 title: "Merkmale guter Argumente"
-sidebar_position: 5
+sidebar_position: 50
 description: "Die wichtigsten Qualitätsmerkmale guter Argumente im kritischen Denken"
 keywords:
   - Argumentqualität

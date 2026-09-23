@@ -1,6 +1,6 @@
 ---
 title: "Quiz - Was ist ein gutes Argument?"
-sidebar_position: 13
+sidebar_position: 130
 sidebar_label: "Quiz"
 description: "Ein Quiz zur Überprüfung des Verständnisses über gute Argumente im kritischen Denken"
 keywords:

@@ -100,7 +100,7 @@ Voici un graphique qui l'illustre :
 
 <!--t src=b4d7cf78-->
 
-![schéma de Toulmin en allemand](/img/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
+![schéma de Toulmin en allemand](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
 
 <!--t src=2c62ef2a-->
 
@@ -108,7 +108,7 @@ Voici un exemple tiré de la Wikipédia anglaise. Il utilise les termes originau
 
 <!--t src=21cdd7ab-->
 
-![argumentation de Toulmin en anglais](/img/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
+![argumentation de Toulmin en anglais](/img/kd/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
 
 <!--t src=56011c75-->
 
@@ -116,7 +116,7 @@ Notre syllogisme du début se présenterait ici ainsi :
 
 <!--t src=8fb228f1-->
 
-![Schéma de Toulmin pour l'argument de Socrate : Fact et Conclusion en haut, en dessous Warrant, soutenu par le Backing](/img/toulmin-sokrates.svg)
+![Schéma de Toulmin pour l’argument de Socrate : données et conclusion en haut, en dessous la garantie avec son fondement ainsi qu’une réfutation de la conclusion](/img/kd/toulmin-sokrates-fr.svg)
 
 <!--t src=6d9a4bae-->
 

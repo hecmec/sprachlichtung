@@ -1,6 +1,6 @@
 ---
 title: "Was ist ein Argument?"
-sidebar_position: 2
+sidebar_position: 20
 description: "Der Aufbau eines Arguments aus Prämissen und Konklusion, die zentralen Begriffe und das Toulmin-Schema"
 keywords:
   - Argument
@@ -68,20 +68,10 @@ Der britische Philosoph Stephen Toulmin entwickelte ein Modell, das den inneren 
 
 Hier ist eine Grafik, die das veranschaulicht:
 
-![toulmin schema deutsch](/img/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
-
-Hier ist ein Beispiel aus der englischen Wikipedia. Es benutzt die Originaltermini wie Fact, Conclusion, Warrant, Backing, Rebuttal:
-
-![toulmin argumentation english](/img/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
-
-Unser Syllogismus vom Anfang würde hier so aussehen:
-
-![Toulmin-Schema für das Sokrates-Argument: Fact und Conclusion oben, darunter Warrant, gestützt durch das Backing](/img/toulmin-sokrates.svg)
+![toulmin schema deutsch](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
 
 Wie man dieses Schema nutzt, um ein konkretes Argument zu zerlegen, sehen wir im Teil [Argumente analysieren](080-argumente-analysieren.md).
 
 [^toulmin-schema-de]: Quelle der Grafik: [lehrerfortbildung-bw.de: Toulmin-Schema](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
-
-[^toulmin-schema-en]: [Wikipedia: Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
 
 [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument)

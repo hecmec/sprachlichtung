@@ -1,6 +1,6 @@
 ---
 title: "Rhetorik versus Argumentation"
-sidebar_position: 6
+sidebar_position: 60
 description: "Der Unterschied zwischen Rhetorik und Argumentation im kritischen Denken"
 keywords:
   - Rhetorik
@@ -78,6 +78,6 @@ Für kritische Denker ist es wichtig, rhetorische Techniken zu erkennen und zwis
 - Wird die Glaubwürdigkeit des Sprechers als Ersatz für Beweise eingesetzt?
 - Werden Gegenargumente fair dargestellt und berücksichtigt?
 
-[^aristoteles-rhetorik]: Aristoteles, _Rhetorik_, Buch I, Kapitel 2 (1356a). Dort unterscheidet er drei Überzeugungsmittel (_pisteis_): den Charakter des Redners (_Ethos_), die Stimmung, in die der Zuhörer versetzt wird (_Pathos_), und die Rede selbst, sofern sie etwas beweist oder zu beweisen scheint (_Logos_). Für Interessierte: [Rhetorik (Aristoteles) (Wikipedia)](https://de.wikipedia.org/wiki/Rhetorik_(Aristoteles)).
+[^aristoteles-rhetorik]: Aristoteles, _Rhetorik_, Buch I, Kapitel 2 (1356a). Dort unterscheidet er drei Überzeugungsmittel (_pisteis_): den Charakter des Redners (_Ethos_), die Stimmung, in die der Zuhörer versetzt wird (_Pathos_), und die Rede selbst, sofern sie etwas beweist oder zu beweisen scheint (_Logos_). Für Interessierte: [Rhetorik (Aristoteles) (Wikipedia)](<https://de.wikipedia.org/wiki/Rhetorik_(Aristoteles)>).
 
 [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/rhetorik-versus-argumentation)

@@ -101,7 +101,7 @@ Here is a diagram that illustrates this:
 
 <!--t src=b4d7cf78-->
 
-![toulmin model german](/img/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
+![toulmin model german](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
 
 <!--t src=2c62ef2a-->
 
@@ -109,7 +109,7 @@ Here is an example from the English Wikipedia. It uses the original terms such a
 
 <!--t src=21cdd7ab-->
 
-![toulmin argumentation english](/img/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
+![toulmin argumentation english](/img/kd/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
 
 <!--t src=56011c75-->
 
@@ -117,7 +117,7 @@ Our syllogism from the beginning would look like this here:
 
 <!--t src=8fb228f1-->
 
-![Toulmin model for the Socrates argument: Fact and Conclusion at the top, below them the Warrant, supported by the Backing](/img/toulmin-sokrates.svg)
+![Toulmin model of the Socrates argument: data and conclusion at the top, below them the warrant with its backing and a rebuttal to the conclusion](/img/kd/toulmin-sokrates-en.svg)
 
 <!--t src=6d9a4bae-->
 

@@ -1,6 +1,6 @@
 ---
 title: "Einführung"
-sidebar_position: 1
+sidebar_position: 10
 description: "Einführung zum Thema Argumentation: wozu wir argumentieren und welche Rolle Argumente im kritischen Denken spielen"
 keywords:
   - kritisches Denken

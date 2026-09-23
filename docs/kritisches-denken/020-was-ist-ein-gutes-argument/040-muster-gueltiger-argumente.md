@@ -1,6 +1,6 @@
 ---
 title: "Muster gültiger Argumente"
-sidebar_position: 4
+sidebar_position: 40
 description: "Eine Übersicht über verschiedene Muster gültiger Argumente und ihre Anwendung im kritischen Denken"
 keywords:
   - Syllogismus

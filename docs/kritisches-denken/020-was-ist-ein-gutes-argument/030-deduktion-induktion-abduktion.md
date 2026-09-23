@@ -1,7 +1,7 @@
 ---
 title: "Arten des Schließens: Deduktion, Induktion, Abduktion"
 sidebar_label: "Deduktion, Induktion, Abduktion"
-sidebar_position: 3
+sidebar_position: 30
 description: "Die drei grundlegenden Schlussformen nach Charles S. Peirce und wie sie zusammenspielen"
 keywords:
   - Deduktion
