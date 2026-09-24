@@ -1,6 +1,6 @@
 ---
 title: Quiz - Qu'est-ce qu'un bon argument ?
-sidebar_position: 13
+sidebar_position: 130
 sidebar_label: Quiz
 description: Un quiz pour vérifier la compréhension des bons arguments dans la pensée critique
 keywords:

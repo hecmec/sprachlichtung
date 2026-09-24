@@ -1,6 +1,6 @@
 ---
 title: "Übung: Identifizierung von Prämissen und Schlussfolgerungen"
-sidebar_position: 90
+sidebar_position: 105
 sidebar_label: "Übung"
 description: "Praktische Übungsaufgaben zur Identifizierung von Prämissen und Schlussfolgerungen in verschiedenen Argumenten mit Lösungen."
 keywords:

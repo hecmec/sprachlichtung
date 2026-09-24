@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">Venn-Diagramm Modus Barbara</title>
+  <desc id="desc">Drei gleich große Kreise M, G und S. Rosa schraffiert sind die leeren Bereiche: der Teil von M außerhalb von S (Alle M sind S) und der Teil von G außerhalb von M (Alle G sind M). Übrig bleibt G nur innerhalb von S: Alle G sind S.</desc>
+  <defs>
+    <!-- everything except circle S -->
+    <mask id="outside-S">
+      <rect width="300" height="300" fill="white"/>
+      <circle cx="195" cy="190" r="80" fill="black"/>
+    </mask>
+    <!-- everything except circle M -->
+    <mask id="outside-M">
+      <rect width="300" height="300" fill="white"/>
+      <circle cx="150" cy="110" r="80" fill="black"/>
+    </mask>
+  </defs>
+
+  <rect width="300" height="300" fill="white"/>
+
+  <!-- excluded areas (light pink) -->
+  <!-- M a S: no M outside S -->
+  <circle cx="150" cy="110" r="80" fill="#f9c9d6" mask="url(#outside-S)"/>
+  <!-- G a M: no G outside M -->
+  <circle cx="105" cy="190" r="80" fill="#f9c9d6" mask="url(#outside-M)"/>
+
+  <!-- circle outlines -->
+  <g fill="none" stroke="#333" stroke-width="2">
+    <circle cx="150" cy="110" r="80"/>
+    <circle cx="105" cy="190" r="80"/>
+    <circle cx="195" cy="190" r="80"/>
+  </g>
+
+  <!-- letters: circle centers moved outward by one letter size (26px),
+       away from the common center (150, 163.3) -->
+  <g font-family="sans-serif" font-size="26" font-weight="bold" fill="#333" text-anchor="middle" dominant-baseline="central">
+    <text x="150" y="84">M</text>
+    <text x="82.6" y="203.3">G</text>
+    <text x="217.4" y="203.3">S</text>
+  </g>
+</svg>

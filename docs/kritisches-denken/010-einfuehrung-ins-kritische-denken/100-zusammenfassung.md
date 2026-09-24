@@ -16,8 +16,11 @@ last_update:
 completeness: 4/5
 draft: false
 # slug:
-# image:
+image: /img/kd/zusammenfassung-flammarion-holzstich.jpg
+image_credit: "Unbekannter Künstler, Flammarion-Holzstich (1888), Public Domain, https://commons.wikimedia.org/wiki/File:Flammarion.jpg"
 ---
+
+![Ein Wanderer steckt den Kopf durch das Himmelsgewölbe und blickt auf die Welt dahinter](/img/kd/zusammenfassung-flammarion-holzstich.jpg)
 
 ## Was ist kritisches Denken?
 

@@ -1,7 +1,7 @@
 ---
 title: "Arten des Schließens: Deduktion, Induktion, Abduktion"
 sidebar_label: "Deduktion, Induktion, Abduktion"
-sidebar_position: 3
+sidebar_position: 30
 description: "Die drei grundlegenden Schlussformen nach Charles S. Peirce und wie sie zusammenspielen"
 keywords:
   - Deduktion
@@ -15,7 +15,12 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
+image: /img/kd/schliessen-tierspuren-schnee.jpg
+image_credit: "Joshua Tree National Park (NPS), Snowfall on 12/31/14 - Unknown animal tracks, Public Domain, https://www.flickr.com/photos/115357548@N08/16304109425"
 ---
+
+![Spuren eines unbekannten Tieres im Schnee zwischen Joshua Trees](/img/kd/schliessen-tierspuren-schnee.jpg)  
+_Auf was lassen die Spuren im Schnee schließen? Welche Art von Schluss ist das?_
 
 <!-- # Arten des Schließens -->
 

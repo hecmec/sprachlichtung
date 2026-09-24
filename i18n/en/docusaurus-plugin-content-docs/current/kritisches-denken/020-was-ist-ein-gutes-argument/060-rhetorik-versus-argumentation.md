@@ -1,7 +1,7 @@
 ---
 title: Rhetoric versus argumentation
 sidebar_label: Rhetoric versus argumentation
-sidebar_position: 6
+sidebar_position: 60
 description: The difference between rhetoric and argumentation in critical thinking
 keywords:
   - rhetoric
@@ -18,6 +18,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=84f41363-->
+![Woodcut: Hercules Gallicus leads a crowd by chains running from his tongue to their ears](/img/kd/rhetorik-hercules-gallicus.jpg)  
+_The orator moves the crowd with his speech, as if chains were stretched from his tongue to their ears._
 
 <!--t src=c5294e29-->
 <!-- # Rhetoric versus argumentation -->
@@ -50,17 +54,16 @@ Characteristics of argumentation:
 
 ## Rhetoric
 
-<!--t src=9d1d3df4-->
+<!--t src=640483e1-->
+**Rhetoric** is the art of persuasive communication, which encompasses not only logical arguments but also emotional appeals, style and presentation. It aims to **influence** the audience through various means.
 
-**Rhetoric** is the art of persuasive communication, which encompasses not only logical arguments but also emotional appeals, style and presentation. It aims to influence the audience through various means.
-
-<!--t src=fa5e5144-->
-
+<!--t src=2d28e5c3-->
 Characteristics of rhetoric:
 
+<!--t src=fe9c6b14-->
 - Use of language to persuade or move
 - Consideration of the audience and the context
-- Use of ethos (credibility), pathos (emotion) and logos (logic)
+- Use of ethos (credibility), pathos (emotion) and logos (logic), the three means of persuasion according to Aristotle[^aristoteles-rhetorik]
 - Stylistic elements such as metaphors, analogies, repetition
 - Goal: effective persuasion through various means
 
@@ -68,10 +71,10 @@ Characteristics of rhetoric:
 
 ## Differences and interplay
 
-<!--t src=5c032933-->
-
+<!--t src=bb0d3229-->
 The main difference between argumentation and rhetoric lies in their focus:
 
+<!--t src=43436631-->
 - Argumentation concentrates on the logical structure and the truth of the premises.
 - Rhetoric concentrates on effective communication and persuasion.
 
@@ -109,6 +112,9 @@ For critical thinkers it is important to recognize rhetorical techniques and to 
 - Are emotional appeals used to bridge logical gaps?
 - Is the speaker's credibility used as a substitute for evidence?
 - Are counterarguments presented fairly and taken into account?
+
+<!--t src=d26c8bef-->
+[^aristoteles-rhetorik]: Aristotle, _Rhetoric_, Book I, Chapter 2 (1356a). There he distinguishes three means of persuasion (_pisteis_): the character of the speaker (_ethos_), the frame of mind the listener is put into (_pathos_), and the speech itself, insofar as it proves or seems to prove something (_logos_). For those interested: [Rhetoric (Aristotle) (Wikipedia)](<https://en.wikipedia.org/wiki/Rhetoric_(Aristotle)>).
 
 <!--t src=a8ebf9e8-->
 

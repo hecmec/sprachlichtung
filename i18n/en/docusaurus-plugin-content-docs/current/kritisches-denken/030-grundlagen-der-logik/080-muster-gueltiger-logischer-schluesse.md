@@ -27,18 +27,18 @@ In formal logic, there are certain patterns of argumentation that are always val
 
 ## Modus Ponens (Affirming the Antecedent)
 
-<!--t src=3af3d68f-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=eba44856-->
 1. If A, then B.
 2. A.
 3. Therefore B.
 
-<!--t src=530bb0b0-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=ee317627-->
 1. If it rains, the street becomes wet.
 2. It is raining.
 3. Therefore the street becomes wet.
@@ -47,38 +47,57 @@ In formal logic, there are certain patterns of argumentation that are always val
 
 ## Modus Tollens (Denying the Consequent)
 
-<!--t src=80f554a9-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=1a051919-->
 1. If A, then B.
 2. Not B.
 3. Therefore not A.
 
-<!--t src=b3906386-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=4cd5afca-->
 1. If Peter is guilty, there are fingerprints at the crime scene.
 2. There are no fingerprints at the crime scene.
-3. Therefore Peter is not guilty.
+3. Therefore: Peter is not guilty.
+
+<!--t src=ec741d21-->
+## Conjunctive Syllogism (Modus Ponendo Tollens)
+
+<!--t src=47f6212a-->
+**Form:**
+
+<!--t src=fb565f03-->
+1. It cannot be the case that A and B.
+2. A.
+3. Therefore not B.
+
+<!--t src=dc5acd2e-->
+**Example:**
+
+<!--t src=edc47493-->
+1. It cannot be the case that it is raining and the street is dry.
+2. It is raining.
+3. Therefore: The street is not dry.
 
 <!--t src=fbebceb7-->
 
 ## Hypothetical Syllogism (Chain Argument)
 
-<!--t src=9a71e74d-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=74adaa88-->
 1. If A, then B.
 2. If B, then C.
 3. Therefore: If A, then C.
 
-<!--t src=1a71440f-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=a13d1551-->
 1. If it rains, the street becomes wet.
 2. If the street is wet, it becomes slippery.
 3. Therefore: If it rains, the street becomes slippery.
@@ -87,18 +106,18 @@ In formal logic, there are certain patterns of argumentation that are always val
 
 ## Disjunctive Syllogism (Process of Elimination)
 
-<!--t src=645bda87-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=d3a62681-->
 1. Either A or B.
 2. Not A.
 3. Therefore B.
 
-<!--t src=597b78b6-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=39b964e4-->
 1. Either Hans broke the window or Maria did.
 2. Hans did not break the window.
 3. Therefore Maria broke the window.
@@ -107,17 +126,17 @@ In formal logic, there are certain patterns of argumentation that are always val
 
 ## Conjunctive Simplification
 
-<!--t src=a7d84467-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=bfce34f2-->
 1. A and B.
 2. Therefore A.
 
-<!--t src=b8d3add4-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=88506c53-->
 1. It is raining and it is cold.
 2. Therefore it is raining.
 
@@ -125,39 +144,39 @@ In formal logic, there are certain patterns of argumentation that are always val
 
 ## Conjunctive Addition
 
-<!--t src=f02b9d52-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=6946c287-->
 1. A.
 2. B.
 3. Therefore A and B.
 
-<!--t src=26fcfe65-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=2fe1c0ee-->
 1. It is raining.
 2. It is cold.
-3. Therefore it is raining and it is cold.
+3. Therefore: It is raining and it is cold.
 
 <!--t src=16c6eed7-->
 
 ## Disjunctive Addition
 
-<!--t src=e2ca832d-->
-
+<!--t src=47f6212a-->
 **Form:**
 
+<!--t src=35246697-->
 1. A.
 2. Therefore A or B.
 
-<!--t src=75120781-->
-
+<!--t src=dc5acd2e-->
 **Example:**
 
+<!--t src=dc7489de-->
 1. It is raining.
-2. Therefore it is raining or it is snowing.
+2. Therefore: It is raining or it is snowing.
 
 <!--t src=b80789dc-->
 

@@ -1,6 +1,6 @@
 ---
 title: Les caractéristiques des bons arguments
-sidebar_position: 5
+sidebar_position: 50
 description: Les principales caractéristiques de qualité des bons arguments dans la pensée critique
 keywords:
   - qualité de l'argument
@@ -17,6 +17,9 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=f1031d51-->
+![Un crayon plongé dans un verre d'eau paraît brisé à la surface de l'eau](/img/kd/klarheit-bleistift-wasser.jpg)
 
 <!--t src=ca490c6c-->
 <!-- # Merkmale guter Argumente -->

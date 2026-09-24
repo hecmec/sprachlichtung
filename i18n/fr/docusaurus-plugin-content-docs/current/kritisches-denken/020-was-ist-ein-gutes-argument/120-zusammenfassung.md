@@ -1,6 +1,6 @@
 ---
 title: Résumé
-sidebar_position: 12
+sidebar_position: 120
 description: Résumé des principaux enseignements sur les bons arguments dans la pensée critique
 keywords:
   - pensée critique

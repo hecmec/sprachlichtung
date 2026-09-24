@@ -48,7 +48,21 @@ In der formalen Logik gibt es bestimmte Argumentationsmuster, die immer gültig 
 
 1. Wenn Peter schuldig ist, gibt es Fingerabdrücke am Tatort.
 2. Es gibt keine Fingerabdrücke am Tatort.
-3. Also ist Peter nicht schuldig.
+3. Also: Peter ist nicht schuldig.
+
+## Konjunktiver Syllogismus (Modus ponendo tollens)
+
+**Form:**
+
+1. Es kann nicht sein, dass A und B.
+2. A.
+3. Also nicht B.
+
+**Beispiel:**
+
+1. Es kann nicht sein, dass es regnet und die Straße trocken ist.
+2. Es regnet.
+3. Also: Die Straße ist nicht trocken.
 
 ## Hypothetischer Syllogismus (Kettenschluss)
 
@@ -102,7 +116,7 @@ In der formalen Logik gibt es bestimmte Argumentationsmuster, die immer gültig 
 
 1. Es regnet.
 2. Es ist kalt.
-3. Also regnet es und es ist kalt.
+3. Also: Es regnet und es ist kalt.
 
 ## Disjunktive Addition
 
@@ -114,7 +128,7 @@ In der formalen Logik gibt es bestimmte Argumentationsmuster, die immer gültig 
 **Beispiel:**
 
 1. Es regnet.
-2. Also regnet es oder es schneit.
+2. Also: Es regnet oder es schneit.
 
 ## Anwendung im kritischen Denken
 

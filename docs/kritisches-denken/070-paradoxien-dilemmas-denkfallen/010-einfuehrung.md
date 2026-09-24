@@ -16,7 +16,10 @@ last_update:
 
 completeness: 3/5
 draft: false
+image: /img/kd/paradox-egg-chick.webp
 ---
+
+![Ein Ei wirft den Schatten eines Kükens](/img/kd/paradox-egg-chick.webp)
 
 <!-- ## Einführung -->
 

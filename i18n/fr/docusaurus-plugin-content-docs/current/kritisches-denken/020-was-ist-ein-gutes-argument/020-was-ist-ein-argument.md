@@ -1,6 +1,6 @@
 ---
 title: Qu'est-ce qu'un argument ?
-sidebar_position: 2
+sidebar_position: 20
 description: La structure d'un argument à partir de prémisses et d'une conclusion, les notions centrales et le schéma de Toulmin
 keywords:
   - argument
@@ -17,6 +17,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=9f531b9a-->
+![Des ouvriers posent, depuis un échafaudage en bois, la clé de voûte d'un arc en pierre](/img/kd/argument-schlussstein-setzen.jpg)  
+_Un bon argument possède une structure solide._
 
 <!--t src=35a39472-->
 <!-- # Was ist ein Argument? -->
@@ -98,25 +102,8 @@ Le philosophe britannique Stephen Toulmin a élaboré un modèle qui rend visibl
 
 Voici un graphique qui l'illustre :
 
-<!--t src=b4d7cf78-->
-
-![schéma de Toulmin en allemand](/img/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
-
-<!--t src=2c62ef2a-->
-
-Voici un exemple tiré de la Wikipédia anglaise. Il utilise les termes originaux comme Fact, Conclusion, Warrant, Backing, Rebuttal :
-
-<!--t src=21cdd7ab-->
-
-![argumentation de Toulmin en anglais](/img/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
-
-<!--t src=56011c75-->
-
-Notre syllogisme du début se présenterait ici ainsi :
-
-<!--t src=8fb228f1-->
-
-![Schéma de Toulmin pour l'argument de Socrate : Fact et Conclusion en haut, en dessous Warrant, soutenu par le Backing](/img/toulmin-sokrates.svg)
+<!--t src=30883d06-->
+![schéma de Toulmin en allemand](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
 
 <!--t src=6d9a4bae-->
 
@@ -125,10 +112,6 @@ Comment utiliser ce schéma pour décomposer un argument concret, nous le verron
 <!--t src=1cf586e4-->
 
 [^toulmin-schema-de]: Source du graphique : [lehrerfortbildung-bw.de : schéma de Toulmin](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
-
-<!--t src=a74e7b9b-->
-
-[^toulmin-schema-en]: [Wikipédia : Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
 
 <!--t src=f84a210f-->
 

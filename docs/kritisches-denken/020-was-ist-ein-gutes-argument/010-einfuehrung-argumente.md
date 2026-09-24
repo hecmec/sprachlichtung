@@ -1,6 +1,6 @@
 ---
 title: "Einführung"
-sidebar_position: 1
+sidebar_position: 10
 description: "Einführung zum Thema Argumentation: wozu wir argumentieren und welche Rolle Argumente im kritischen Denken spielen"
 keywords:
   - kritisches Denken
@@ -13,7 +13,11 @@ last_update:
   author: Immanuel Lupinus
 completeness: 4/5
 draft: false
+image: /img/kd/argumente-carpaccio-disputation.jpg
+image_credit: "Vittore Carpaccio, Disputation des heiligen Stephanus (1514), Public Domain, https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_Disputation_of_St_Stephen.jpg"
 ---
+
+![Der heilige Stephanus disputiert unter einer Säulenhalle mit einer Gruppe von Gelehrten](/img/kd/argumente-carpaccio-disputation.jpg)
 
 <!-- # Einführung -->
 

@@ -1,7 +1,7 @@
 ---
 title: What is an argument?
 sidebar_label: What is an argument?
-sidebar_position: 2
+sidebar_position: 20
 description: The structure of an argument from premises and conclusion, the central terms and the Toulmin model
 keywords:
   - argument
@@ -18,6 +18,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=9f531b9a-->
+![Construction workers on a wooden scaffold set the keystone into a stone arch](/img/kd/argument-schlussstein-setzen.jpg)  
+_A good argument has a solid structure._
 
 <!--t src=35a39472-->
 <!-- # What is an argument? -->
@@ -99,25 +103,8 @@ The British philosopher Stephen Toulmin developed a model that makes the interna
 
 Here is a diagram that illustrates this:
 
-<!--t src=b4d7cf78-->
-
-![toulmin model german](/img/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
-
-<!--t src=2c62ef2a-->
-
-Here is an example from the English Wikipedia. It uses the original terms such as Fact, Conclusion, Warrant, Backing, Rebuttal:
-
-<!--t src=21cdd7ab-->
-
-![toulmin argumentation english](/img/Toulmin_Argumentation_Example_wikipedia.gif)[^toulmin-schema-en]
-
-<!--t src=56011c75-->
-
-Our syllogism from the beginning would look like this here:
-
-<!--t src=8fb228f1-->
-
-![Toulmin model for the Socrates argument: Fact and Conclusion at the top, below them the Warrant, supported by the Backing](/img/toulmin-sokrates.svg)
+<!--t src=30883d06-->
+![toulmin model german](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
 
 <!--t src=6d9a4bae-->
 
@@ -126,10 +113,6 @@ How to use this model to break down a concrete argument we will see in the part 
 <!--t src=1cf586e4-->
 
 [^toulmin-schema-de]: Source of the diagram: [lehrerfortbildung-bw.de: Toulmin-Schema](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
-
-<!--t src=a74e7b9b-->
-
-[^toulmin-schema-en]: [Wikipedia: Toulmin model of argument](https://en.wikipedia.org/wiki/Stephen_Toulmin#Toulmin_model_of_argument)
 
 <!--t src=f84a210f-->
 

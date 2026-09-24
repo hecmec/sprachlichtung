@@ -1,6 +1,6 @@
 ---
 title: Reconnaître les hypothèses cachées
-sidebar_position: 9
+sidebar_position: 90
 description: Méthodes pour identifier et analyser les hypothèses cachées dans les arguments
 keywords:
   - hypothèses implicites
