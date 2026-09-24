@@ -27,18 +27,18 @@ En logique formelle, il existe certains schémas d'argumentation qui sont toujou
 
 ## Modus ponens (affirmation de l'antécédent)
 
-<!--t src=3af3d68f-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=eba44856-->
 1. Si A, alors B.
 2. A.
 3. Donc B.
 
-<!--t src=530bb0b0-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=ee317627-->
 1. S'il pleut, la rue devient mouillée.
 2. Il pleut.
 3. Donc la rue devient mouillée.
@@ -47,38 +47,57 @@ En logique formelle, il existe certains schémas d'argumentation qui sont toujou
 
 ## Modus tollens (négation du conséquent)
 
-<!--t src=80f554a9-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=1a051919-->
 1. Si A, alors B.
 2. Non B.
 3. Donc non A.
 
-<!--t src=b3906386-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=4cd5afca-->
 1. Si Peter est coupable, il y a des empreintes digitales sur les lieux du crime.
 2. Il n'y a pas d'empreintes digitales sur les lieux du crime.
-3. Donc Peter n'est pas coupable.
+3. Donc : Peter n'est pas coupable.
+
+<!--t src=ec741d21-->
+## Syllogisme conjonctif (modus ponendo tollens)
+
+<!--t src=47f6212a-->
+**Forme :**
+
+<!--t src=fb565f03-->
+1. Il n'est pas possible que A et B.
+2. A.
+3. Donc non B.
+
+<!--t src=dc5acd2e-->
+**Exemple :**
+
+<!--t src=edc47493-->
+1. Il n'est pas possible qu'il pleuve et que la rue soit sèche.
+2. Il pleut.
+3. Donc : la rue n'est pas sèche.
 
 <!--t src=fbebceb7-->
 
 ## Syllogisme hypothétique (raisonnement en chaîne)
 
-<!--t src=9a71e74d-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=74adaa88-->
 1. Si A, alors B.
 2. Si B, alors C.
 3. Donc : si A, alors C.
 
-<!--t src=1a71440f-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=a13d1551-->
 1. S'il pleut, la rue devient mouillée.
 2. Si la rue est mouillée, elle devient glissante.
 3. Donc : s'il pleut, la rue devient glissante.
@@ -87,18 +106,18 @@ En logique formelle, il existe certains schémas d'argumentation qui sont toujou
 
 ## Syllogisme disjonctif (procédé d'élimination)
 
-<!--t src=645bda87-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=d3a62681-->
 1. Soit A, soit B.
 2. Non A.
 3. Donc B.
 
-<!--t src=597b78b6-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=39b964e4-->
 1. Soit Hans a cassé la fenêtre, soit Maria l'a fait.
 2. Hans n'a pas cassé la fenêtre.
 3. Donc Maria a cassé la fenêtre.
@@ -107,17 +126,17 @@ En logique formelle, il existe certains schémas d'argumentation qui sont toujou
 
 ## Simplification de la conjonction
 
-<!--t src=a7d84467-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=bfce34f2-->
 1. A et B.
 2. Donc A.
 
-<!--t src=b8d3add4-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=88506c53-->
 1. Il pleut et il fait froid.
 2. Donc il pleut.
 
@@ -125,39 +144,39 @@ En logique formelle, il existe certains schémas d'argumentation qui sont toujou
 
 ## Addition conjonctive
 
-<!--t src=f02b9d52-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=6946c287-->
 1. A.
 2. B.
 3. Donc A et B.
 
-<!--t src=26fcfe65-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=2fe1c0ee-->
 1. Il pleut.
 2. Il fait froid.
-3. Donc il pleut et il fait froid.
+3. Donc : il pleut et il fait froid.
 
 <!--t src=16c6eed7-->
 
 ## Addition disjonctive
 
-<!--t src=e2ca832d-->
-
+<!--t src=47f6212a-->
 **Forme :**
 
+<!--t src=35246697-->
 1. A.
 2. Donc A ou B.
 
-<!--t src=75120781-->
-
+<!--t src=dc5acd2e-->
 **Exemple :**
 
+<!--t src=dc7489de-->
 1. Il pleut.
-2. Donc il pleut ou il neige.
+2. Donc : il pleut ou il neige.
 
 <!--t src=b80789dc-->
 
