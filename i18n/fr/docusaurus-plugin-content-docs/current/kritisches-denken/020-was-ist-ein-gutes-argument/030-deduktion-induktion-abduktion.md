@@ -1,7 +1,7 @@
 ---
 title: "Les types d'inférence : déduction, induction, abduction"
 sidebar_label: Déduction, induction, abduction
-sidebar_position: 3
+sidebar_position: 30
 description: Les trois formes d'inférence fondamentales selon Charles S. Peirce et la manière dont elles s'articulent
 keywords:
   - déduction
@@ -18,6 +18,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=37387a9d-->
+![Traces d'un animal inconnu dans la neige, entre des arbres de Josué](/img/kd/schliessen-tierspuren-schnee.jpg)  
+_Que peut-on inférer de ces traces dans la neige ? De quel type d'inférence s'agit-il ?_
 
 <!--t src=aa0e5d94-->
 <!-- # Arten des Schließens -->

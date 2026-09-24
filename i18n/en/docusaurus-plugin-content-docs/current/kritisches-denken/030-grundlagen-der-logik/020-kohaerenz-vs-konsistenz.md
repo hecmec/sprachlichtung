@@ -14,18 +14,20 @@ last_update:
 translation_status: auto
 ---
 
+<!--t src=7d723c57-->
+Coherence and consistency are very often confused in everyday life, hence this short page about them.
+
 <!--t src=c83afcc1-->
 
 ## Consistency
 
-<!--t src=ef83feff-->
+<!--t src=f3192a16-->
+**Consistency** refers to the **non-contradiction of statements**. A set of statements is consistent if it is logically possible for all statements to be true at the same time. In other words: consistent statements do not contradict each other.
 
-**Consistency** refers to the non-contradiction of statements. A set of statements is consistent if it is logically possible for all statements to be true at the same time. In other words: consistent statements do not contradict each other.
-
-<!--t src=28856af7-->
-
+<!--t src=dd5ccec9-->
 **Example of Consistency:**
 
+<!--t src=548ea4c8-->
 - "It is raining today."
 - "I will take my umbrella with me."
 - "The streets will be wet."
@@ -34,10 +36,10 @@ translation_status: auto
 
 These statements are consistent because they can all be true at the same time.
 
-<!--t src=40b811fe-->
-
+<!--t src=327645b0-->
 **Example of Inconsistency:**
 
+<!--t src=b6934f45-->
 - "All swans are white."
 - "There is a black swan in the zoo."
 
@@ -53,10 +55,10 @@ These statements are inconsistent because they cannot both be true at the same t
 
 **Coherence** goes beyond mere non-contradiction and refers to the meaningful connection between statements. A coherent system of statements is characterized by the fact that the statements are not only non-contradictory, but are also logically connected and mutually supportive.
 
-<!--t src=cc5c13f9-->
-
+<!--t src=238e10d9-->
 **Example of Coherence:**
 
+<!--t src=b14f7939-->
 - "The streets are wet."
 - "It rained recently."
 - "The clouds in the sky are dark."
@@ -65,10 +67,10 @@ These statements are inconsistent because they cannot both be true at the same t
 
 These statements are not only consistent but also coherent, as they form a cohesive picture and support each other.
 
-<!--t src=02a1cfb5-->
-
+<!--t src=65bc95b9-->
 **Example of lack of Coherence:**
 
+<!--t src=8a0994e8-->
 - "The streets are wet."
 - "Today is Tuesday."
 - "Elephants have long trunks."
@@ -81,10 +83,10 @@ These statements are consistent (they can all be true at the same time), but the
 
 ## Differences and Importance
 
-<!--t src=0f3668b6-->
-
+<!--t src=a70b37ab-->
 The main difference between consistency and coherence can be summarized as follows:
 
+<!--t src=ded2b9b9-->
 - **Consistency** is a minimal logical requirement: statements must not contradict each other.
 - **Coherence** is a stronger requirement: statements must not only be non-contradictory, but also form a meaningful connection.
 

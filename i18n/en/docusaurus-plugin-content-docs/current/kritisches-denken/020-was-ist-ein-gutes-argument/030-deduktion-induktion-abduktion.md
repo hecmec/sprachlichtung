@@ -1,7 +1,7 @@
 ---
 title: "Types of reasoning: deduction, induction, abduction"
 sidebar_label: Deduction, induction, abduction
-sidebar_position: 3
+sidebar_position: 30
 description: The three basic forms of inference according to Charles S. Peirce and how they interact
 keywords:
   - deduction
@@ -18,6 +18,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=37387a9d-->
+![Tracks of an unknown animal in the snow between Joshua trees](/img/kd/schliessen-tierspuren-schnee.jpg)  
+_What do the tracks in the snow let us infer? What kind of inference is that?_
 
 <!--t src=aa0e5d94-->
 <!-- # Types of reasoning -->

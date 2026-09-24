@@ -1,6 +1,6 @@
 ---
 title: Introduction
-sidebar_position: 1
+sidebar_position: 10
 description: Introduction to the topic of good arguments in critical thinking
 keywords:
   - critical thinking
@@ -13,6 +13,9 @@ last_update:
   author: Immanuel Lupinus
 translation_status: auto
 ---
+
+<!--t src=53172f9e-->
+![Saint Stephen disputing with a group of scholars beneath a colonnade](/img/kd/argumente-carpaccio-disputation.jpg)
 
 <!--t src=7e60061c-->
 <!-- # Introduction -->

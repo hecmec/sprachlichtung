@@ -1,6 +1,6 @@
 ---
 title: Les schémas d'arguments valides
-sidebar_position: 4
+sidebar_position: 40
 description: Un aperçu de différents schémas d'arguments valides et de leur application dans la pensée critique
 keywords:
   - syllogisme
@@ -17,6 +17,9 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=9fef393a-->
+![Diagramme d'Euler du mode Barbara : trois cercles emboîtés pour « Tous les M sont P, tous les S sont M, donc tous les S sont P »](/img/kd/syllogismus-barbara-euler.png)
 
 <!--t src=b693d8fb-->
 <!-- # Muster gültiger Argumente

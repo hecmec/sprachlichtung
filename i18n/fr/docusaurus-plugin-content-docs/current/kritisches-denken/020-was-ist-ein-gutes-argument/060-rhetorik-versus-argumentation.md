@@ -1,6 +1,6 @@
 ---
 title: Rhétorique versus argumentation
-sidebar_position: 6
+sidebar_position: 60
 description: La différence entre rhétorique et argumentation dans la pensée critique
 keywords:
   - rhétorique
@@ -17,6 +17,10 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=84f41363-->
+![Gravure sur bois : Hercule gaulois entraîne une foule par des chaînes qui vont de sa langue à leurs oreilles](/img/kd/rhetorik-hercules-gallicus.jpg)  
+_L'orateur émeut la foule par sa parole, comme si des chaînes étaient tendues de sa langue à leurs oreilles._
 
 <!--t src=c5294e29-->
 <!-- # Rhetorik versus Argumentation -->
@@ -49,17 +53,16 @@ Caractéristiques de l'argumentation :
 
 ## La rhétorique
 
-<!--t src=9d1d3df4-->
+<!--t src=640483e1-->
+La **rhétorique** est l'art de la communication persuasive, qui englobe non seulement les arguments logiques, mais aussi les appels émotionnels, le style et la présentation. Elle vise à **influencer** le public par divers moyens.
 
-La **rhétorique** est l'art de la communication persuasive, qui englobe non seulement les arguments logiques, mais aussi les appels émotionnels, le style et la présentation. Elle vise à influencer le public par divers moyens.
-
-<!--t src=fa5e5144-->
-
+<!--t src=2d28e5c3-->
 Caractéristiques de la rhétorique :
 
+<!--t src=fe9c6b14-->
 - Usage du langage pour convaincre ou émouvoir
 - Prise en compte du public et du contexte
-- Utilisation de l'ethos (crédibilité), du pathos (émotion) et du logos (logique)
+- Utilisation de l'ethos (crédibilité), du pathos (émotion) et du logos (logique), les trois moyens de persuasion selon Aristote[^aristoteles-rhetorik]
 - Éléments stylistiques comme les métaphores, les analogies, les répétitions
 - Objectif : une persuasion efficace par divers moyens
 
@@ -67,10 +70,10 @@ Caractéristiques de la rhétorique :
 
 ## Différences et interaction
 
-<!--t src=5c032933-->
-
+<!--t src=bb0d3229-->
 La principale différence entre l'argumentation et la rhétorique réside dans leur centre de gravité :
 
+<!--t src=43436631-->
 - L'argumentation se concentre sur la structure logique et la vérité des prémisses.
 - La rhétorique se concentre sur la communication efficace et la persuasion.
 
@@ -108,6 +111,9 @@ Pour les penseurs critiques, il est important de reconnaître les techniques rh�
 - Des appels émotionnels sont-ils utilisés pour combler des lacunes logiques ?
 - La crédibilité de l'orateur est-elle utilisée en remplacement des preuves ?
 - Les contre-arguments sont-ils présentés et pris en compte de façon équitable ?
+
+<!--t src=d26c8bef-->
+[^aristoteles-rhetorik]: Aristote, _Rhétorique_, livre I, chapitre 2 (1356a). Il y distingue trois moyens de persuasion (_pisteis_) : le caractère de l'orateur (_ethos_), la disposition dans laquelle l'auditeur est placé (_pathos_) et le discours lui-même, dans la mesure où il démontre ou semble démontrer quelque chose (_logos_). Pour les personnes intéressées : [Rhétorique (Aristote) (Wikipédia)](<https://fr.wikipedia.org/wiki/Rh%C3%A9torique_(Aristote)>).
 
 <!--t src=a8ebf9e8-->
 

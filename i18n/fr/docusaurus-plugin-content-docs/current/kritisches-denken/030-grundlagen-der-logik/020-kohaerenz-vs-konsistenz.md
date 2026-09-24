@@ -17,18 +17,20 @@ translation_status: auto
 custom_translation_overwritten: false
 ---
 
+<!--t src=7d723c57-->
+Cohérence et consistance sont très souvent confondues au quotidien ; d'où cette petite page à leur sujet.
+
 <!--t src=c83afcc1-->
 
 ## La consistance
 
-<!--t src=ef83feff-->
+<!--t src=f3192a16-->
+La **consistance** se rapporte à l'**absence de contradiction entre des énoncés**. Un ensemble d'énoncés est consistant s'il est logiquement possible que tous les énoncés soient vrais en même temps. Autrement dit : des énoncés consistants ne se contredisent pas mutuellement.
 
-La **consistance** se rapporte à l'absence de contradiction entre des énoncés. Un ensemble d'énoncés est consistant s'il est logiquement possible que tous les énoncés soient vrais en même temps. Autrement dit : des énoncés consistants ne se contredisent pas mutuellement.
-
-<!--t src=28856af7-->
-
+<!--t src=dd5ccec9-->
 **Exemple de consistance :**
 
+<!--t src=548ea4c8-->
 - « Il pleut aujourd'hui. »
 - « Je vais prendre mon parapluie. »
 - « Les rues seront mouillées. »
@@ -37,10 +39,10 @@ La **consistance** se rapporte à l'absence de contradiction entre des énoncés
 
 Ces énoncés sont consistants, car ils peuvent tous être vrais en même temps.
 
-<!--t src=40b811fe-->
-
+<!--t src=327645b0-->
 **Exemple d'inconsistance :**
 
+<!--t src=b6934f45-->
 - « Tous les cygnes sont blancs. »
 - « Il y a un cygne noir au zoo. »
 
@@ -56,10 +58,10 @@ Ces énoncés sont inconsistants, car ils ne peuvent pas être vrais tous les de
 
 La **cohérence** va au-delà de la simple absence de contradiction et se rapporte au lien sensé entre les énoncés. Un système cohérent d'énoncés se caractérise par le fait que les énoncés ne sont pas seulement exempts de contradiction, mais aussi logiquement reliés entre eux et se soutiennent mutuellement.
 
-<!--t src=cc5c13f9-->
-
+<!--t src=238e10d9-->
 **Exemple de cohérence :**
 
+<!--t src=b14f7939-->
 - « Les rues sont mouillées. »
 - « Il a plu récemment. »
 - « Les nuages dans le ciel sont sombres. »
@@ -68,10 +70,10 @@ La **cohérence** va au-delà de la simple absence de contradiction et se rappor
 
 Ces énoncés ne sont pas seulement consistants, mais aussi cohérents, car ils forment une image d'ensemble et se soutiennent mutuellement.
 
-<!--t src=02a1cfb5-->
-
+<!--t src=65bc95b9-->
 **Exemple de manque de cohérence :**
 
+<!--t src=8a0994e8-->
 - « Les rues sont mouillées. »
 - « Aujourd'hui, c'est mardi. »
 - « Les éléphants ont une longue trompe. »
@@ -84,10 +86,10 @@ Ces énoncés sont certes consistants (ils peuvent tous être vrais en même tem
 
 ## Différences et importance
 
-<!--t src=0f3668b6-->
-
+<!--t src=a70b37ab-->
 La principale différence entre la consistance et la cohérence peut se résumer ainsi :
 
+<!--t src=ded2b9b9-->
 - La **consistance** est une exigence logique minimale : les énoncés ne doivent pas se contredire.
 - La **cohérence** est une exigence plus forte : les énoncés ne doivent pas seulement être exempts de contradiction, mais aussi former un lien sensé.
 

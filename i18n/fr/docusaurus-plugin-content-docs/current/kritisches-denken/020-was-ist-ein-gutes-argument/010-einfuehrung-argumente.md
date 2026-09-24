@@ -1,6 +1,6 @@
 ---
 title: Introduction
-sidebar_position: 1
+sidebar_position: 10
 description: "Introduction au thème de l'argumentation : pourquoi nous argumentons et quel rôle les arguments jouent dans la pensée critique"
 keywords:
   - pensée critique
@@ -16,6 +16,9 @@ draft: false
 translation_status: auto
 custom_translation_overwritten: false
 ---
+
+<!--t src=53172f9e-->
+![Saint Étienne dispute avec un groupe de savants sous un portique à colonnes](/img/kd/argumente-carpaccio-disputation.jpg)
 
 <!--t src=7e60061c-->
 <!-- # Introduction -->
