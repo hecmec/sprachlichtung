@@ -16,7 +16,6 @@ yarn typecheck          # TypeScript type check
 yarn clear              # Clear Docusaurus cache (rm -rf .docusaurus build)
 yarn serve              # Serve the built /build directory locally
 yarn deploy             # Legacy GitHub Pages deploy (docusaurus deploy) — unused; site now deploys via Coolify
-yarn sync:notion        # Sync markdown content with Notion database
 yarn write-translations:en  # Generate English translation keys into i18n/en/
 ```
 
@@ -43,10 +42,6 @@ React components in `src/components/` are used in MDX pages:
 - `IntroTopicBox/` — topic intro boxes used on landing pages
 - `HomepageFeatures/` — homepage feature cards
 - `BrowserWindow/` — iframe embed component
-
-### Notion Integration
-
-`tools/sync_kritisches_denken_notion.js` syncs content bi-directionally with Notion. Sync metadata lives in `sync_data/`. The VS Code MCP config (`.vscode/mcp.json`) wires the Notion MCP server for AI-assisted editing.
 
 ### AI Prompts
 
