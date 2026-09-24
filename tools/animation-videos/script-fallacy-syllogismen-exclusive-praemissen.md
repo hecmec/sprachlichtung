@@ -76,3 +76,5 @@ Die Sprechertexte sind wörtlich so gemeint, wie sie vertont werden sollen. Die 
 - Die Brücken-Metapher taucht auf der Seite als "Brücke schlagen" auf, ist aber nicht bebildert. Falls sie gefällt, könnte dieselbe Grafik als SVG auf die Seite selbst, ähnlich wie das Venn-Diagramm beim Modus Barbara.
 - Titelkarte und Abbinder fehlen noch, ebenso der Hinweis auf die Seite zum Weiterlesen.
 - Ob das Tool eine Schildkröte an der Leine hinbekommt, ist die Probe aufs Exempel. Alternative: ein Terrarium neben einem Hundenapf.
+
+Erster Versuch: https://strokevideo.com/videos/20260925-000725_Director-note-f%C3%BCr-das.mp4
