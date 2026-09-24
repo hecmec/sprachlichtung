@@ -1,0 +1,1 @@
+create a script explaining : /home/hecmec/code/sprachlichtung/i18n/en/docusaurus-plugin-content-docs/current/kritisches-denken/060-fehlschluesse-und-schlechtes-argumentieren/071-liste-formeller-fehlschluesse/syllogismen-exclusive-praemissen.md
