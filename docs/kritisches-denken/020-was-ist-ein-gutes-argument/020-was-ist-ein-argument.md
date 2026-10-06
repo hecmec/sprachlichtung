@@ -68,10 +68,8 @@ Der britische Philosoph Stephen Toulmin entwickelte ein Modell, das den inneren 
 
 Hier ist eine Grafik, die das veranschaulicht:
 
-![toulmin schema deutsch](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
+![Toulmin-Schema für das Sokrates-Argument: Daten und Schlussfolgerung oben, darunter Schlussregel mit Stützung sowie ein Einwand zur Schlussfolgerung](/img/kd/toulmin-sokrates-de.svg)
 
 Wie man dieses Schema nutzt, um ein konkretes Argument zu zerlegen, sehen wir im Teil [Argumente analysieren](080-argumente-analysieren.md).
-
-[^toulmin-schema-de]: Quelle der Grafik: [lehrerfortbildung-bw.de: Toulmin-Schema](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
 
 [Article en français](pathname:///fr/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument) | [Article in English](pathname:///en/docs/kritisches-denken/was-ist-ein-gutes-argument/was-ist-ein-argument)

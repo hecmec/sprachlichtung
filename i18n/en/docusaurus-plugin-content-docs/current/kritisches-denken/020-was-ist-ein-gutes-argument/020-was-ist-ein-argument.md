@@ -20,6 +20,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=9f531b9a-->
+
 ![Construction workers on a wooden scaffold set the keystone into a stone arch](/img/kd/argument-schlussstein-setzen.jpg)  
 _A good argument has a solid structure._
 
@@ -104,15 +105,12 @@ The British philosopher Stephen Toulmin developed a model that makes the interna
 Here is a diagram that illustrates this:
 
 <!--t src=30883d06-->
-![toulmin model german](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
+
+![Toulmin model of the Socrates argument: data and conclusion at the top, below them the warrant with its backing and a rebuttal to the conclusion](/img/kd/toulmin-sokrates-en.svg)
 
 <!--t src=6d9a4bae-->
 
 How to use this model to break down a concrete argument we will see in the part [Analyzing arguments](080-argumente-analysieren.md).
-
-<!--t src=1cf586e4-->
-
-[^toulmin-schema-de]: Source of the diagram: [lehrerfortbildung-bw.de: Toulmin-Schema](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
 
 <!--t src=f84a210f-->
 

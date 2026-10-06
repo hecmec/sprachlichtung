@@ -78,6 +78,11 @@ _Hier kommen ein paar sehr bekannte Bücher, die Teilbereiche des Kritischen Den
 https://criticalthinkingsecrets.com/20-influential-books-on-critical-thinking-you-must-read/
 https://www.drkishoresratnamschools.com/best-books-to-improve-critical-thinking/
 
+Manuel d'autodéfense intellectuelle
+- https://www.fnac.com/a10624016/Sophie-Mazet-Manuel-d-autodefense-intellectuelle
+- https://z-library.ec/book/zXOj5Ovvyb/manuel-dautod%C3%A9fense-intellectuelle.html
+
+
 -->
 
 [Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/buecher) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/buecher)
