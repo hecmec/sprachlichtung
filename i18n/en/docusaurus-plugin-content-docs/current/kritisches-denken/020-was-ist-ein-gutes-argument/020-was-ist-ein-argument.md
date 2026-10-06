@@ -104,8 +104,7 @@ The British philosopher Stephen Toulmin developed a model that makes the interna
 
 Here is a diagram that illustrates this:
 
-<!--t src=30883d06-->
-
+<!--t src=98179683-->
 ![Toulmin model of the Socrates argument: data and conclusion at the top, below them the warrant with its backing and a rebuttal to the conclusion](/img/kd/toulmin-sokrates-en.svg)
 
 <!--t src=6d9a4bae-->

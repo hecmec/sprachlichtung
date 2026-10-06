@@ -103,8 +103,7 @@ Le philosophe britannique Stephen Toulmin a élaboré un modèle qui rend visibl
 
 Voici un graphique qui l'illustre :
 
-<!--t src=30883d06-->
-
+<!--t src=98179683-->
 ![Schéma de Toulmin pour l'argument de Socrate : données et conclusion en haut, en dessous la garantie avec son fondement ainsi qu'une objection à la conclusion](/img/kd/toulmin-sokrates-fr.svg)
 
 <!--t src=6d9a4bae-->
