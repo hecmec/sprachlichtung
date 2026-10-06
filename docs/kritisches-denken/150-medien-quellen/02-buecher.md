@@ -82,6 +82,7 @@ Manuel d'autodéfense intellectuelle
 - https://www.fnac.com/a10624016/Sophie-Mazet-Manuel-d-autodefense-intellectuelle
 - https://z-library.ec/book/zXOj5Ovvyb/manuel-dautod%C3%A9fense-intellectuelle.html
 
+
 -->
 
 [Article en français](pathname:///fr/docs/kritisches-denken/medien-quellen/buecher) | [Article in English](pathname:///en/docs/kritisches-denken/medien-quellen/buecher)

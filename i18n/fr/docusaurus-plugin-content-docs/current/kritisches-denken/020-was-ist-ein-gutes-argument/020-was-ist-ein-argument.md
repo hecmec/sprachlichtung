@@ -19,6 +19,7 @@ custom_translation_overwritten: false
 ---
 
 <!--t src=9f531b9a-->
+
 ![Des ouvriers posent, depuis un échafaudage en bois, la clé de voûte d'un arc en pierre](/img/kd/argument-schlussstein-setzen.jpg)  
 _Un bon argument possède une structure solide._
 
@@ -103,15 +104,12 @@ Le philosophe britannique Stephen Toulmin a élaboré un modèle qui rend visibl
 Voici un graphique qui l'illustre :
 
 <!--t src=30883d06-->
-![schéma de Toulmin en allemand](/img/kd/toulmin_schema_lehrerfortbildung-bw.png)[^toulmin-schema-de]
+
+![Schéma de Toulmin pour l'argument de Socrate : données et conclusion en haut, en dessous la garantie avec son fondement ainsi qu'une objection à la conclusion](/img/kd/toulmin-sokrates-fr.svg)
 
 <!--t src=6d9a4bae-->
 
 Comment utiliser ce schéma pour décomposer un argument concret, nous le verrons dans la partie [Analyser les arguments](080-argumente-analysieren.md).
-
-<!--t src=1cf586e4-->
-
-[^toulmin-schema-de]: Source du graphique : [lehrerfortbildung-bw.de : schéma de Toulmin](https://lehrerfortbildung-bw.de/u_sprachlit/deutsch/gym/bp2016/fb5/3_sach/1_reader/05_toulmin/)
 
 <!--t src=f84a210f-->
 
